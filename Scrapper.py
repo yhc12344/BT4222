@@ -45,8 +45,8 @@ def is_valid_corporate_pdf(pdf_path):
     return False
 
 def scrape_by_catchwords(target_years, catchwords_list, target_count=100):
-    # Ensure Data folder exists
-    os.makedirs("Data", exist_ok=True)
+    # Ensure Data/PDFs folder exists
+    os.makedirs("Data/PDFs", exist_ok=True)
     
     options = webdriver.ChromeOptions()
     # options.add_argument('--headless') # Commented out so you can watch it interact with the dropdown
@@ -128,7 +128,7 @@ def scrape_by_catchwords(target_years, catchwords_list, target_count=100):
                                 
                                 # Download the PDF directly via the known URL pattern
                                 safe_title = re.sub(r'[\\/*?:"<>|]', "", title)[:150]
-                                pdf_path = os.path.join("Data", f"{safe_title}.pdf")
+                                pdf_path = os.path.join("Data/PDFs", f"{safe_title}.pdf")
                                 pdf_res = requests.get(pdf_url, stream=True, timeout=30)
                                 if pdf_res.status_code == 200:
                                     with open(pdf_path, 'wb') as pf:
@@ -141,21 +141,28 @@ def scrape_by_catchwords(target_years, catchwords_list, target_count=100):
                             except Exception as e:
                                 print(f"Error processing {title}: {e}")
                         
-                        scraped_data.append({
-                            'Search_Year': year,
-                            'Primary_Query': catchword,
-                            'Case_Title': title,
-                            'Corporate_CatchWords': corporate_catchwords,
-                            'Document_URL': link,
-                            'Local_PDF_Path': pdf_path
-                        })
+                                # Read and validate the PDF here, before appending.
+                                if pdf_path != "N/A" and is_valid_corporate_pdf(pdf_path):
+                                    scraped_data.append({
+                                        'Search_Year': year,
+                                        'Primary_Query': catchword,
+                                        'Case_Title': title,
+                                        'Corporate_CatchWords': corporate_catchwords,
+                                        'Document_URL': link,
+                                        'Local_PDF_Path': pdf_path
+                                    })
+                                    print(f"Added Valid Corporate Case: {title} (Total: {len(scraped_data)})")
+                                else:
+                                    print(f"Skipping {title} - Not a high-quality corporate match.")
+                                    # Optionally remove the invalid PDF to save space
+                                    if pdf_path != "N/A" and os.path.exists(pdf_path):
+                                        os.remove(pdf_path)
+
                     
                     # 6. Pagination
                     try:
-                        next_button = driver.find_element(By.XPATH, "//a[contains(text(), 'Next')]")
-                        if "disabled" in next_button.get_attribute("class") or not next_button.is_displayed():
-                            break
-                        next_button.click()
+                        next_button = driver.find_element(By.XPATH, "//li[contains(@class, 'PagedList-skipToNext')]/a")
+                        driver.execute_script("arguments[0].click();", next_button)
                         time.sleep(3)
                     except:
                         break # Next button not found, break pagination loop
@@ -164,47 +171,17 @@ def scrape_by_catchwords(target_years, catchwords_list, target_count=100):
         driver.quit()
         
     df = pd.DataFrame(scraped_data)
-    
-    # Run the PDF Linguistic validation function 
-    print("Validating downloaded PDFs for NLP richness...")
-    if not df.empty:
-        df['Is_Valid_Corporate'] = df['Local_PDF_Path'].apply(is_valid_corporate_pdf)
-    else:
-        df['Is_Valid_Corporate'] = False
-        
     df.to_csv("refined_corporate_judgments.csv", index=False)
     
-    valid_count = df['Is_Valid_Corporate'].sum() if not df.empty else 0
-    print(f"Successfully scraped {len(df)} cases. High-quality NLP corporate matches: {valid_count}")
+    print(f"Successfully scraped and validated exactly {len(df)} cases.")
     return df
 
 if __name__ == "__main__":
     # Define your parameters based on your requirements
-    target_years = ["2024", "2025", "2026"]
+    target_years = [str(year) for year in range(2000, 2027)][::-1]
     target_catchwords = [
-        "Companies - Incorporation of companies - Lifting corporate veil",
-        "Companies - Directors - Terms of appointment - Incorporation of company's constitution into director's contract of service",
-        "Companies - Oppression",
-        "Companies - Shares",
-        "Companies - Shares - Allotment",
-        "Companies - Accounts",
-        "Companies - Winding up",
-        "Companies - Directors - Liabilities",
-        "Companies - Directors - Duties",
-        "Companies - Directors - Breach of fiduciary duties",
-        "Companies - Derivative action",
-        "Companies - Minority shareholders",
-        "Companies - Quasi-partnerships",
-        "Companies - Schemes of arrangement",
-        "Companies - Judicial management",
-        "Companies - Separate legal personality",
-        "Companies - Shares - Valuation",
-        "Companies - Register of members",
-        "Companies - Winding up - Just and equitable ground",
-        "Companies - Charges",
-        "Companies - Joint venture",
-        "Companies - Cross-border insolvency"
+        "Companies — Directors — Duties"
     ]
 
     # Run the scraper
-    df = scrape_by_catchwords(target_years, target_catchwords, target_count=100)
+    df = scrape_by_catchwords(target_years, target_catchwords, target_count=100)
