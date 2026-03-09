@@ -9,9 +9,11 @@ word_counts = []
 sentence_counts = []
 token_counts = []
 
-for file in os.listdir(folder):
-    if file.endswith(".pdf"):
-        path = os.path.join(folder, file)
+# Walk through all subfolders recursively
+for root, dirs, files in os.walk(folder):
+    for file in files:
+        if file.endswith(".pdf"):
+            path = os.path.join(root, file)
 
         doc = fitz.open(path)
         text = ""
