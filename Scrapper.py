@@ -180,7 +180,7 @@ if __name__ == "__main__":
     # Define your parameters based on your requirements
     target_years = [str(year) for year in range(2000, 2027)][::-1]
     target_catchwords = [
-        "Companies — Directors — Duties"
+        "Companies — Directors — Remuneration"
     ]
 
     # Run the scraper
