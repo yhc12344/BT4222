@@ -4,52 +4,60 @@ An end-to-end legal analytics pipeline that extracts structured legal features f
 
 ## 🏗 Project Architecture
 
-## 🛠 Technical Pipeline Architecture
-
 This project implements a multi-stage pipeline to transform unstructured judicial "Grounds of Decisions" into a predictive legal-tech engine.
 
 ```mermaid
 graph TD
-    %% Global Style
+    %% Global Styling
     classDef default fill:#1a1a1a,stroke:#fff,stroke-width:1px,color:#fff;
     classDef highlight fill:#2d2d2d,stroke:#f96,stroke-width:2px,color:#fff;
     classDef storage fill:#000,stroke:#fff,stroke-dasharray: 5 5;
+    classDef intelligence fill:#2d2d2d,stroke:#bbf,stroke-width:2px,color:#fff;
 
-    %% Workflow
-    A[PDF Judgments] --> B[1. Document Ingestion]
-    B --> C[2. LLM Extraction - GPT-4.1]
-    
-    subgraph Extraction_Logic [Extraction Schema]
-        C --> C1[Metadata: Judge, Date, Tribunal]
+    %% 1. Acquisition
+    A([PDF Judgments]) --> B[1. Document Ingestion]
+
+    %% 2. Intelligence
+    subgraph Intelligence_Layer [2. Intelligence & Structuring]
+        B --> C{GPT-5.1 Engine}
+        C --> C1[Metadata: Judge, Date, Court]
         C --> C2[IRAC: Facts, Issue, Rule, Application]
         C --> C3[Party-Specific Row Generation]
     end
 
+    %% 3. Storage
     C1 & C2 & C3 --> D[(3. Structured JSON Dataset)]
-    
-    D --> E[4. Validation & Cleaning]
-    E --> F[5. Feature Engineering]
 
-    subgraph Feature_Types [Feature Vectors]
-        F --> F1[Text: SBERT/Legal-BERT Embeddings]
-        F --> F2[Categorical: Court, Sector, Lawyer]
-        F --> F3[Legal Citations: Precedent Counts]
+    %% 4. Tabular Construction
+    D --> E[4. Dataset Construction <br/>JSON to Training Table]
+
+    %% 5. Audit Layer
+    subgraph Validation_Layer [5. Substantive Audit]
+        E --> F[Leakage Removal]
+        F --> F1[Schema Validation]
+        F1 --> F2[Verdict-Blind Check]
     end
 
-    F1 & F2 & F3 --> G[6. ML Training Dataset]
-    G --> H[7. ML Model Training]
-
-    subgraph Model_Suite [Model Architectures]
-        H --> H1[Logistic Regression Baseline]
-        H --> H2[XGBoost / Random Forest]
-        H --> H3[Deep MLP]
-        H --> H4[Any other]
+    %% 6. Feature Engineering
+    subgraph Feature_Layer [6. Feature Engineering]
+        F2 --> G1[Text Embeddings: <br/>SBERT / Legal-BERT]
+        F2 --> G2[Categorical Metadata: <br/>Court, Sector, Lawyer]
+        F2 --> G3[Citation Features: <br/>Precedent Counts]
     end
 
-    H1 & H2 & H3 --> I[8. Prediction Output]
+    %% 7. Modeling
+    subgraph Model_Suite [7. ML Model Training]
+        G1 & G2 & G3 --> H1[Logistic Regression Baseline]
+        G1 & G2 & G3 --> H2[Random Forest / XGBoost]
+        G1 & G2 & G3 --> H3[Deep Neural Network - Topic 6]
+    end
 
-    %% Styles
-    class C,F,H highlight;
+    %% 8. Output
+    H1 & H2 & H3 --> I([8. Prediction Output])
+
+    %% Node Assignments
+    class C intelligence;
+    class F,F1,F2 highlight;
     class D storage;
 ```
 
