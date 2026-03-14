@@ -1,0 +1,286 @@
+[
+  {
+    "Metadata": {
+      "Case_ID": "ABB_Holdings_Pte_Ltd_and_Others_v_Sher_Hock_Guan_Charles",
+      "Case_Name": "ABB Holdings Pte Ltd and Others v Sher Hock Guan Charles",
+      "Judge": "Judith Prakash J",
+      "Date": "2009-07-06",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "ABB Holdings Pte Ltd",
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "ABB Holdings Pte Ltd is the first plaintiff in the action."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "ABB Holdings Pte Ltd is owned by ABB Asea Brown Boveri Ltd, a Swiss company."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "ABB Holdings Pte Ltd was set up in Singapore to be the holding company of the Singapore businesses of the ABB Group."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "ABB Holdings Pte Ltd is the sole shareholder of ABB Installation Materials (East Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "ABB Holdings Pte Ltd is the sole shareholder of ABB Industry Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "ABB Holdings Pte Ltd and its two subsidiary plaintiffs are part of the Singapore component of the worldwide ABB Group."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "ABB Holdings Pte Ltd, together with its subsidiaries, commenced an action in December 2007 against Sher Hock Guan Charles."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "ABB Holdings Pte Ltd alleged that Sher Hock Guan Charles owed it express and implied fiduciary and other duties arising from his employment within the ABB Singapore Group."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "ABB Holdings Pte Ltd pleaded that the defendant had breached duties relating to conflicts of interest, participation in competing businesses, and protection of confidential and proprietary information."
+        },
+        {
+          "Fact_Type": "OTHER",
+          "Text": "ABB Holdings Pte Ltd participated in a trial that was focused solely on issues relating to the defendant's liability, with quantum to be determined separately if liability was established."
+        }
+      ],
+      "Issue": "Whether ABB Holdings Pte Ltd, as a non-operating holding company of the ABB Singapore Group, could assert that the defendant owed it contractual and fiduciary duties arising from his employment with its operating subsidiaries and whether any such duties were breached.",
+      "Rule": "A holding company that does not itself employ an individual or confer powers or responsibilities on that individual will not ordinarily be owed contractual or fiduciary duties by that individual, even if the holding company owns the operating subsidiaries that employ him.",
+      "Application": "The court examined the employment contracts and evidence of the defendant's roles to determine whether he was ever employed by ABB Holdings Pte Ltd or given responsibilities in relation to it, and considered whether any pleaded contractual terms or fiduciary obligations could extend from the operating subsidiaries to the holding company in the absence of a direct employment or agency relationship.",
+      "Conclusion": "The claim of ABB Holdings Pte Ltd against the defendant is dismissed."
+    }
+  },
+  {
+    "Metadata": {
+      "Case_ID": "ABB_Holdings_Pte_Ltd_and_Others_v_Sher_Hock_Guan_Charles",
+      "Case_Name": "ABB Holdings Pte Ltd and Others v Sher Hock Guan Charles",
+      "Judge": "Judith Prakash J",
+      "Date": "2009-07-06",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "ABB Installation Materials (East Asia) Pte Ltd",
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "ABB Installation Materials (East Asia) Pte Ltd is the second plaintiff and is part of the Singapore component of the ABB Group."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "ABB Installation Materials (East Asia) Pte Ltd is wholly owned by ABB Holdings Pte Ltd, which is the Singapore holding company for ABB businesses."
+        },
+        {
+          "Fact_Type": "BUSINESS_ACTIVITY",
+          "Text": "ABB Installation Materials (East Asia) Pte Ltd manufactures miniature circuit breakers as part of its low voltage products business."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "From January 1997 to January 2000, the defendant served as President of ABB Installation Materials (East Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "From July 1998 to February 2003, the defendant was a director of ABB Installation Materials (East Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "Between January 1997 and January 2001, ABB Installation Materials (East Asia) Pte Ltd was the defendant's contractual employer within the ABB Singapore Group."
+        },
+        {
+          "Fact_Type": "DUTY",
+          "Text": "ABB Installation Materials (East Asia) Pte Ltd asserted that the defendant owed it express contractual duties under his employment agreements, including duties to avoid conflicts of interest and to preserve secrecy of company information."
+        },
+        {
+          "Fact_Type": "DUTY",
+          "Text": "ABB Installation Materials (East Asia) Pte Ltd alleged that the defendant owed it implied duties of good faith, fidelity, and duties not to misuse or disclose its confidential information."
+        },
+        {
+          "Fact_Type": "DUTY",
+          "Text": "ABB Installation Materials (East Asia) Pte Ltd alleged in the alternative that the defendant owed it fiduciary duties as a director, including duties to act in its best interests and to avoid placing himself in a position of conflict."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "ABB Installation Materials (East Asia) Pte Ltd pleaded that the defendant failed to disclose to it his communications with XIHARI and his involvement with Huadian and related entities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "ABB Installation Materials (East Asia) Pte Ltd alleged that the defendant assisted in the incorporation and operation of companies such as Great Vision International Pte Ltd and Webmoney Investment (S) Pte Ltd while still employed within the ABB Singapore Group."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "ABB Installation Materials (East Asia) Pte Ltd alleged that the defendant facilitated the engagement of former ABB technical expert Guenther Leonhardt by XIHARI in connection with the development of medium voltage switchgear and circuit breakers."
+        }
+      ],
+      "Issue": "Whether the defendant, as a director and senior officer associated with ABB Installation Materials (East Asia) Pte Ltd, breached contractual, implied, or fiduciary duties owed to this company by engaging in outside business activities, assisting a potential competitor, and failing to disclose relevant information.",
+      "Rule": "Directors and senior managerial officers owe fiduciary duties of loyalty and good faith to their company, including duties to act in the company’s best interests, to avoid conflicts between personal interests and company interests, and to disclose to the company information and activities that may pose a competitive threat; employees are also bound by contractual and implied duties of fidelity and confidentiality not to misuse or disclose the company’s confidential information or to participate in conflicting business activities.",
+      "Application": "The court examined the corporate role of ABB Installation Materials (East Asia) Pte Ltd within the ABB Singapore Group and the defendant’s positions as its President and director, considered the express and implied terms of his employment and the effect of the ABB Employee Handbook, and assessed whether his undisclosed involvement with entities such as Great Vision, Webmoney, XIHARI, Huadian, and Gelpag, as well as his communications with a former ABB technical expert, created conflicts of interest or involved the use or non-disclosure of information in a manner inconsistent with the duties he owed to ABB Installation Materials (East Asia) Pte Ltd.",
+      "Conclusion": "Judgment entered for ABB Installation Materials (East Asia) Pte Ltd against the defendant, with damages to be assessed or an account of profits to be taken at its election."
+    }
+  },
+  {
+    "Metadata": {
+      "Case_ID": "ABB_Holdings_Pte_Ltd_and_Others_v_Sher_Hock_Guan_Charles",
+      "Case_Name": "ABB Holdings Pte Ltd and Others v Sher Hock Guan Charles",
+      "Judge": "Judith Prakash J",
+      "Date": "2009-07-06",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "ABB Industry Pte Ltd",
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "ABB Industry Pte Ltd is the third plaintiff and is part of the Singapore component of the ABB Group."
+        },
+        {
+          "Fact_Type": "BUSINESS_ACTIVITY",
+          "Text": "ABB Industry Pte Ltd carries on business as a manufacturer of switchgears and an installer of electrical works."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "ABB Industry Pte Ltd is a wholly owned subsidiary of ABB Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "EMPLOYMENT",
+          "Text": "With effect from 1 January 2001, the defendant's employment was transferred from ABB Installation Materials (East Asia) Pte Ltd to ABB Industry Pte Ltd."
+        },
+        {
+          "Fact_Type": "EMPLOYMENT",
+          "Text": "From January 2001 to February 2003, the defendant was employed by ABB Industry Pte Ltd as General Manager."
+        },
+        {
+          "Fact_Type": "EMPLOYMENT",
+          "Text": "From September 2001 to February 2003, the defendant was Vice-President and Head of Business Area Low Voltage Products, Automation Technology Products Division Asia South, in ABB Industry Pte Ltd."
+        },
+        {
+          "Fact_Type": "DUTY",
+          "Text": "The employment terms of the defendant with ABB Industry Pte Ltd incorporated provisions from the ABB Singapore Employee Handbook requiring employees to avoid conflicts of interest and to protect company assets and confidential information."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "ABB Industry Pte Ltd sold medium voltage products as part of project packages and discussed medium voltage business at Country Management Team meetings attended by the defendant."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "While employed by ABB Industry Pte Ltd, the defendant communicated with representatives of XIHARI about engaging a technical adviser for the development of new medium voltage switchgear and circuit breaker products."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "While still employed by ABB Industry Pte Ltd, the defendant communicated with former ABB engineer Guenther Leonhardt regarding XIHARI's proposal that he act as technical adviser and technical controller for a new manufacturing company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "While still employed by ABB Industry Pte Ltd, the defendant worked on plans and business forecasts for Huadian, a company intended to manufacture and market medium voltage circuit breakers."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "Huadian manufactured medium voltage circuit breakers and marketed them in regions that overlapped with the markets in which ABB Industry Pte Ltd supplied medium voltage products as part of projects."
+        }
+      ],
+      "Issue": "Whether the defendant, while employed in senior management positions by ABB Industry Pte Ltd, breached contractual and fiduciary duties owed to ABB Industry Pte Ltd by assisting XIHARI and Huadian in the development and marketing of competing medium voltage products and by failing to disclose relevant competitive activities.",
+      "Rule": "Senior employees in positions equivalent to top management owe duties of fidelity and fiduciary duties to act in good faith in the best interests of their company, to avoid conflicts between personal interests and the company's interests, and to disclose to the company activities that may pose a competitive threat; employees must not use their position to assist potential competitors or to prepare competing businesses while still employed.",
+      "Application": "The court examined the scope of the defendant's contractual and fiduciary obligations to ABB Industry Pte Ltd as a very senior manager involved in low voltage and project-related medium voltage business, considered the Employee Handbook provisions on conflicts of interest and protection of company interests, and assessed whether his undisclosed assistance to XIHARI in securing a technical adviser, his communications with a former ABB engineer about developing new medium voltage products, and his preparatory work on Huadian's business plans while still employed amounted to acting contrary to ABB Industry Pte Ltd's interests and failing to disclose activities that could create a competitive risk.",
+      "Conclusion": "Judgment entered for ABB Industry Pte Ltd against the defendant, with damages to be assessed or an account of profits at ABB Industry Pte Ltd's election."
+    }
+  },
+  {
+    "Metadata": {
+      "Case_ID": "ABB_Holdings_Pte_Ltd_and_Others_v_Sher_Hock_Guan_Charles",
+      "Case_Name": "ABB Holdings Pte Ltd and Others v Sher Hock Guan Charles",
+      "Judge": "Judith Prakash J",
+      "Date": "2009-07-06",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Sher Hock Guan Charles",
+      "Facts": [
+        {
+          "Fact_Type": "EMPLOYMENT",
+          "Text": "The defendant worked for various companies in the ABB Group between 1990 and February 2003."
+        },
+        {
+          "Fact_Type": "EMPLOYMENT",
+          "Text": "From January 1997 to January 2000, the defendant was President of ABB Installation Materials (East Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "EMPLOYMENT",
+          "Text": "From July 1998 to February 2003, the defendant was a director of ABB Installation Materials (East Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "EMPLOYMENT",
+          "Text": "From January 2001 to February 2003, the defendant was General Manager of ABB Industry Pte Ltd."
+        },
+        {
+          "Fact_Type": "EMPLOYMENT",
+          "Text": "From September 2001 to February 2003, the defendant was Vice-President and Head of Business Area Low Voltage Products, Automation Technology Products Division Asia South, at ABB Industry Pte Ltd."
+        },
+        {
+          "Fact_Type": "EMPLOYMENT",
+          "Text": "On 15 January 2001, the defendant's employment was transferred from ABB Installation Materials (East Asia) Pte Ltd to ABB Industry Pte Ltd with retrospective effect from 1 January 2001."
+        },
+        {
+          "Fact_Type": "DUTY",
+          "Text": "Under his employment contracts, the defendant undertook to maintain and preserve secrecy in office matters and not to divulge information to outsiders."
+        },
+        {
+          "Fact_Type": "DUTY",
+          "Text": "Under his employment contracts, the defendant was prohibited from private participation in other business activities, especially in the plaintiffs' line of business."
+        },
+        {
+          "Fact_Type": "DUTY",
+          "Text": "The defendant was subject to employee handbook provisions requiring him to avoid conflicts of interest and to protect company assets, confidential and proprietary information."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In late 2002, the defendant communicated with former ABB employee Guenther Leonhardt about XIHARI's interest in engaging him as a technical adviser for research and development projects on medium voltage switchgear, circuit breakers and vacuum interrupters."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The defendant did not inform the plaintiffs about XIHARI's plans to develop and market a new generation of medium voltage circuit breakers and related products."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "By early 2003, the defendant had agreed to join Xiamen Huadian Switchgear Co Ltd as its General Manager."
+        },
+        {
+          "Fact_Type": "EMPLOYMENT",
+          "Text": "The defendant commenced employment as General Manager of Xiamen Huadian Switchgear Co Ltd on 3 March 2003."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Before 3 March 2003, the defendant communicated with Huadian's promoters and prepared or contributed to business plans and forecasts for Huadian."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "In late March 2004, a German company Gelpag mbH, in which the defendant was a majority shareholder, acquired 16.2% of the shares in Huadian."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The defendant became a director of Huadian after Gelpag mbH acquired shares in Huadian."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The defendant assisted in the incorporation of Webmoney Investment (S) Pte Ltd by filing documents and providing his home address as its registered office."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "On 25 April 2003, the defendant became a director and shareholder of Great Vision International Pte Ltd after his brother resigned as director and transferred his shares to the defendant."
+        }
+      ],
+      "Issue": "Whether the defendant, as a director and very senior employee of the plaintiffs, breached contractual, fiduciary, and implied duties of fidelity and confidentiality by assisting XIHARI and Huadian, failing to disclose competitive threats, and engaging in preparatory and external business activities while still employed.",
+      "Rule": "Directors and very senior employees owe fiduciary duties of loyalty and good faith to their companies, including duties to avoid conflicts of interest, not to promote or assist competing businesses while still employed, to protect confidential and proprietary information, and to disclose to their company information and activities that may pose actual or potential competitive threats to the company.",
+      "Application": "The court examined the defendant's senior management roles, the terms of his employment contracts and the employee handbook, and his conduct in communicating with XIHARI and Guenther Leonhardt about developing medium voltage products, his non-disclosure of XIHARI's and Huadian's plans to the plaintiffs, and his preparatory work and planning for Huadian while still employed, to determine whether these actions conflicted with his obligations of loyalty, fidelity, and disclosure owed to the second and third plaintiffs.",
+      "Conclusion": "Judgment was entered against the defendant in favour of the second and third plaintiffs, with damages to be assessed or an account of profits to be taken at their election, and the first plaintiff's claim against the defendant was dismissed."
+    }
+  }
+]

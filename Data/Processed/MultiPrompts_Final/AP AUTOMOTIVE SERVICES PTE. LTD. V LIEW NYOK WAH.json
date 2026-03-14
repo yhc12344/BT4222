@@ -1,0 +1,136 @@
+[
+  {
+    "Metadata": {
+      "Case_ID": "AP_AUTOMOTIVE_SERVICES_PTE._LTD._V_LIEW_NYOK_WAH",
+      "Case_Name": "AP AUTOMOTIVE SERVICES PTE. LTD. V LIEW NYOK WAH",
+      "Judge": "Hri Kumar Nair J",
+      "Date": "2024-09-25",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "AP Automotive Services Pte Ltd",
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "AP Automotive Services Pte Ltd was incorporated on 5 August 2020 with a paid-up capital of $100,000."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "AP Automotive Services Pte Ltd had three shareholders, namely Liew Nyok Wah, Teo Ying Ping and Ho Siow Poh."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "At incorporation, AP Automotive Services Pte Ltd had shareholdings of 33% each for Liew Nyok Wah and Teo Ying Ping and 34% for Ho Siow Poh."
+        },
+        {
+          "Fact_Type": "EMPLOYMENT",
+          "Text": "AP Automotive Services Pte Ltd employed Ho Siow Poh as its Managing Director and sole recorded director."
+        },
+        {
+          "Fact_Type": "EMPLOYMENT",
+          "Text": "AP Automotive Services Pte Ltd employed Liew Shulin, the daughter of Liew Nyok Wah, shortly after incorporation to work on finance and business operations."
+        },
+        {
+          "Fact_Type": "EMPLOYMENT",
+          "Text": "AP Automotive Services Pte Ltd employed Marcus Teo Xian Jun in 2021 and subsequently appointed him as its Chief Financial Officer."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "AP Automotive Services Pte Ltd received funds from shareholders Teo Ying Ping and Liew Nyok Wah throughout its life by way of personal funds, loans obtained by them from third parties, and loans made directly to the company by third parties."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "AP Automotive Services Pte Ltd commenced an action against shareholder Liew Nyok Wah on 25 July 2023 concerning funding arrangements and alleged breaches of duties."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "AP Automotive Services Pte Ltd terminated the employment of Liew Shulin on 27 July 2023."
+        },
+        {
+          "Fact_Type": "BUSINESS_ACTIVITY",
+          "Text": "AP Automotive Services Pte Ltd operated a business that owned and sold a fleet of cars and used sale proceeds to repay various loans."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "AP Automotive Services Pte Ltd recorded funds provided by shareholders and certain third parties in its accounting records and financial statements as loans from directors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "AP Automotive Services Pte Ltd entered into and repaid multiple loan arrangements with external lenders, including Mengkim Holdings Pte Ltd, Junk Yard Dog Ventures Pte Ltd, WQ Leasing Pte Ltd, and individuals such as Tan Bee Hong and Ban Leong."
+        }
+      ],
+      "Issue": "Whether AP Automotive Services Pte Ltd could hold shareholder Liew Nyok Wah liable for breaching an alleged agreement to provide matching funding and for breaching fiduciary duties in relation to loans and repayments made by or to the company.",
+      "Rule": "A company may sue a person only if it is a party with standing to enforce the relevant agreement or duty, and a director or de facto or shadow director owes fiduciary duties not to misuse company funds or cause repayments in breach of binding funding arrangements.",
+      "Application": "The court examined whether AP Automotive Services Pte Ltd was a party to any binding agreement requiring matching capital or funding contributions, how the company documented and treated shareholder and third-party funding in its records, and whether the company’s own management, including its Managing Director, had authorised the impugned loan transactions and repayments that it sought to attribute to breaches by Liew Nyok Wah.",
+      "Conclusion": "The claim by AP Automotive Services Pte Ltd against Liew Nyok Wah was dismissed, and judgment was entered on the counterclaim requiring AP Automotive Services Pte Ltd to repay $719,000 to Liew Nyok Wah together with an order that AP Automotive Services Pte Ltd pay his costs of $150,000 inclusive of disbursements."
+    }
+  },
+  {
+    "Metadata": {
+      "Case_ID": "AP_AUTOMOTIVE_SERVICES_PTE._LTD._V_LIEW_NYOK_WAH",
+      "Case_Name": "AP AUTOMOTIVE SERVICES PTE. LTD. V LIEW NYOK WAH",
+      "Judge": "Hri Kumar Nair J",
+      "Date": "2024-09-25",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Liew Nyok Wah",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Mr Liew is one of three shareholders of AP Automotive Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "Mr Liew held 33% of the shares in AP Automotive Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "Mr Liew was a long-term friend of the other two shareholders, Mr Teo Ying Ping and Mr Ho Siow Poh, before they incorporated the company together."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "Mr Liew is the father of Ms Liew Shulin, who worked in the company’s finance and business operations."
+        },
+        {
+          "Fact_Type": "BUSINESS_ACTIVITY",
+          "Text": "From the inception of the company, Mr Liew contributed funds to the company to support its operations."
+        },
+        {
+          "Fact_Type": "TRANSACTION",
+          "Text": "Mr Liew initially injected $50,000 as part of the company’s paid-up capital of $100,000 at incorporation."
+        },
+        {
+          "Fact_Type": "TRANSACTION",
+          "Text": "After incorporation, Mr Liew provided further funding to the company using his personal funds and by procuring loans from third parties."
+        },
+        {
+          "Fact_Type": "TRANSACTION",
+          "Text": "Mr Liew procured a $500,000 loan from Mengkim Holdings Pte Ltd to provide funds to the company."
+        },
+        {
+          "Fact_Type": "TRANSACTION",
+          "Text": "Mr Liew procured loans from individuals including Tan Bee Hong and Ban Leong, the proceeds of which were used to fund the company."
+        },
+        {
+          "Fact_Type": "TRANSACTION",
+          "Text": "The company’s accounting records and financial statements recorded funds provided by or through Mr Liew as loans from a director."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "On 2 May 2023, Mr Liew attended a recorded meeting with Mr Ho and Mr Teo where they discussed their respective funding of the company and a possible buy-out."
+        },
+        {
+          "Fact_Type": "TRANSACTION",
+          "Text": "As at 31 July 2022, a creditors confirmation signed by the managing director recorded that the company owed Mr Liew $1.03 million."
+        }
+      ],
+      "Issue": "Whether Mr Liew was obliged to fund the company by matching capital or funding contributions, whether he owed and breached fiduciary duties as a de facto or shadow director in relation to the procurement and repayment of loans, and whether the company was liable to repay him the outstanding balance of his loans.",
+      "Rule": "A person who acts as a de facto or shadow director may owe fiduciary duties to the company, including duties to act bona fide in the interests of the company and to avoid using their position to obtain unauthorised benefits; shareholders and lenders are generally entitled to repayment of loans in accordance with the terms of the funding arrangements, and any implied funding obligations or restrictions on withdrawal must satisfy the requirements for contractual formation and implication of terms.",
+      "Application": "The court examined whether the funding provided by or through Mr Liew was properly characterised as shareholder capital or as loans, considered contemporaneous accounting records and internal documents that described his contributions as loans from a director, and assessed whether there was any binding agreement requiring him to match Mr Teo’s contributions or to leave his funds in the company until certain financial conditions were met. The court also considered how and by whom decisions were made to enter into third-party loan agreements, to classify those loans in the company’s records, and to authorise repayments to third-party lenders and to Mr Liew, including the role of the managing director and the finance staff. In relation to the alleged fiduciary duties, the court evaluated whether Mr Liew’s involvement in procuring loans and in discussions about repayments amounted to him acting as a de facto or shadow director and, if so, whether causing or facilitating the repayment of loans associated with him or with third parties was inconsistent with any duties owed to the company. For the counterclaim, the court reviewed the undisputed accounting evidence of the outstanding balance owed to Mr Liew and the absence of any valid contractual or equitable basis for the company to withhold repayment.",
+      "Conclusion": "The company’s claim against Mr Liew was dismissed, and judgment was entered in favour of Mr Liew on his counterclaim for repayment of $719,000 together with an award of $150,000 in costs in his favour."
+    }
+  }
+]

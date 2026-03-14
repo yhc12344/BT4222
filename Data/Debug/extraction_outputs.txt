@@ -1,0 +1,1128 @@
+{
+  "Metadata": {
+    "Case_ID": "ABB_Holdings_Pte_Ltd_and_Others_v_Sher_Hock_Guan_Charles",
+    "Case_Name": "ABB Holdings Pte Ltd and Others v Sher Hock Guan Charles",
+    "Judge": "Judith Prakash J",
+    "Date": "2009-07-06",
+    "Tribunal_Court": "High Court"
+  },
+  "Party_Details": {
+    "Role": "Plaintiff",
+    "Name": "ABB Holdings Pte Ltd",
+    "Facts": [
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "ABB Holdings Pte Ltd is the first plaintiff in the action."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "ABB Holdings Pte Ltd is owned by ABB Asea Brown Boveri Ltd, a Swiss company."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "ABB Holdings Pte Ltd was set up in Singapore to be the holding company of the Singapore businesses of the ABB Group."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "ABB Holdings Pte Ltd is the sole shareholder of ABB Installation Materials (East Asia) Pte Ltd."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "ABB Holdings Pte Ltd is the sole shareholder of ABB Industry Pte Ltd."
+      },
+      {
+        "Fact_Type": "RELATIONSHIP",
+        "Text": "ABB Holdings Pte Ltd and its two subsidiary plaintiffs are part of the Singapore component of the worldwide ABB Group."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "ABB Holdings Pte Ltd, together with its subsidiaries, commenced an action in December 2007 against Sher Hock Guan Charles."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "ABB Holdings Pte Ltd alleged that Sher Hock Guan Charles owed it express and implied fiduciary and other duties arising from his employment within the ABB Singapore Group."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "ABB Holdings Pte Ltd pleaded that the defendant had breached duties relating to conflicts of interest, participation in competing businesses, and protection of confidential and proprietary information."
+      },
+      {
+        "Fact_Type": "OTHER",
+        "Text": "ABB Holdings Pte Ltd participated in a trial that was focused solely on issues relating to the defendant's liability, with quantum to be determined separately if liability was established."
+      }
+    ],
+    "Issue": "Whether ABB Holdings Pte Ltd, as a non-operating holding company of the ABB Singapore Group, could assert that the defendant owed it contractual and fiduciary duties arising from his employment with its operating subsidiaries and whether any such duties were breached.",
+    "Rule": "A holding company that does not itself employ an individual or confer powers or responsibilities on that individual will not ordinarily be owed contractual or fiduciary duties by that individual, even if the holding company owns the operating subsidiaries that employ him.",
+    "Application": "The court examined the employment contracts and evidence of the defendant's roles to determine whether he was ever employed by ABB Holdings Pte Ltd or given responsibilities in relation to it, and considered whether any pleaded contractual terms or fiduciary obligations could extend from the operating subsidiaries to the holding company in the absence of a direct employment or agency relationship.",
+    "Conclusion": "The claim of ABB Holdings Pte Ltd against the defendant is dismissed."
+  }
+}
+
+{
+  "Metadata": {
+    "Case_ID": "ABB_Holdings_Pte_Ltd_and_Others_v_Sher_Hock_Guan_Charles",
+    "Case_Name": "ABB Holdings Pte Ltd and Others v Sher Hock Guan Charles",
+    "Judge": "Judith Prakash J",
+    "Date": "2009-07-06",
+    "Tribunal_Court": "High Court"
+  },
+  "Party_Details": {
+    "Role": "Plaintiff",
+    "Name": "ABB Installation Materials (East Asia) Pte Ltd",
+    "Facts": [
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "ABB Installation Materials (East Asia) Pte Ltd is the second plaintiff and is part of the Singapore component of the ABB Group."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "ABB Installation Materials (East Asia) Pte Ltd is wholly owned by ABB Holdings Pte Ltd, which is the Singapore holding company for ABB businesses."
+      },
+      {
+        "Fact_Type": "BUSINESS_ACTIVITY",
+        "Text": "ABB Installation Materials (East Asia) Pte Ltd manufactures miniature circuit breakers as part of its low voltage products business."
+      },
+      {
+        "Fact_Type": "RELATIONSHIP",
+        "Text": "From January 1997 to January 2000, the defendant served as President of ABB Installation Materials (East Asia) Pte Ltd."
+      },
+      {
+        "Fact_Type": "RELATIONSHIP",
+        "Text": "From July 1998 to February 2003, the defendant was a director of ABB Installation Materials (East Asia) Pte Ltd."
+      },
+      {
+        "Fact_Type": "RELATIONSHIP",
+        "Text": "Between January 1997 and January 2001, ABB Installation Materials (East Asia) Pte Ltd was the defendant's contractual employer within the ABB Singapore Group."
+      },
+      {
+        "Fact_Type": "DUTY",
+        "Text": "ABB Installation Materials (East Asia) Pte Ltd asserted that the defendant owed it express contractual duties under his employment agreements, including duties to avoid conflicts of interest and to preserve secrecy of company information."
+      },
+      {
+        "Fact_Type": "DUTY",
+        "Text": "ABB Installation Materials (East Asia) Pte Ltd alleged that the defendant owed it implied duties of good faith, fidelity, and duties not to misuse or disclose its confidential information."
+      },
+      {
+        "Fact_Type": "DUTY",
+        "Text": "ABB Installation Materials (East Asia) Pte Ltd alleged in the alternative that the defendant owed it fiduciary duties as a director, including duties to act in its best interests and to avoid placing himself in a position of conflict."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "ABB Installation Materials (East Asia) Pte Ltd pleaded that the defendant failed to disclose to it his communications with XIHARI and his involvement with Huadian and related entities."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "ABB Installation Materials (East Asia) Pte Ltd alleged that the defendant assisted in the incorporation and operation of companies such as Great Vision International Pte Ltd and Webmoney Investment (S) Pte Ltd while still employed within the ABB Singapore Group."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "ABB Installation Materials (East Asia) Pte Ltd alleged that the defendant facilitated the engagement of former ABB technical expert Guenther Leonhardt by XIHARI in connection with the development of medium voltage switchgear and circuit breakers."
+      }
+    ],
+    "Issue": "Whether the defendant, as a director and senior officer associated with ABB Installation Materials (East Asia) Pte Ltd, breached contractual, implied, or fiduciary duties owed to this company by engaging in outside business activities, assisting a potential competitor, and failing to disclose relevant information.",
+    "Rule": "Directors and senior managerial officers owe fiduciary duties of loyalty and good faith to their company, including duties to act in the company’s best interests, to avoid conflicts between personal interests and company interests, and to disclose to the company information and activities that may pose a competitive threat; employees are also bound by contractual and implied duties of fidelity and confidentiality not to misuse or disclose the company’s confidential information or to participate in conflicting business activities.",
+    "Application": "The court examined the corporate role of ABB Installation Materials (East Asia) Pte Ltd within the ABB Singapore Group and the defendant’s positions as its President and director, considered the express and implied terms of his employment and the effect of the ABB Employee Handbook, and assessed whether his undisclosed involvement with entities such as Great Vision, Webmoney, XIHARI, Huadian, and Gelpag, as well as his communications with a former ABB technical expert, created conflicts of interest or involved the use or non-disclosure of information in a manner inconsistent with the duties he owed to ABB Installation Materials (East Asia) Pte Ltd.",
+    "Conclusion": "Judgment entered for ABB Installation Materials (East Asia) Pte Ltd against the defendant, with damages to be assessed or an account of profits to be taken at its election."
+  }
+}
+
+{
+  "Metadata": {
+    "Case_ID": "ABB_Holdings_Pte_Ltd_and_Others_v_Sher_Hock_Guan_Charles",
+    "Case_Name": "ABB Holdings Pte Ltd and Others v Sher Hock Guan Charles",
+    "Judge": "Judith Prakash J",
+    "Date": "2009-07-06",
+    "Tribunal_Court": "High Court"
+  },
+  "Party_Details": {
+    "Role": "Plaintiff",
+    "Name": "ABB Industry Pte Ltd",
+    "Facts": [
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "ABB Industry Pte Ltd is the third plaintiff and is part of the Singapore component of the ABB Group."
+      },
+      {
+        "Fact_Type": "BUSINESS_ACTIVITY",
+        "Text": "ABB Industry Pte Ltd carries on business as a manufacturer of switchgears and an installer of electrical works."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "ABB Industry Pte Ltd is a wholly owned subsidiary of ABB Holdings Pte Ltd."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "With effect from 1 January 2001, the defendant's employment was transferred from ABB Installation Materials (East Asia) Pte Ltd to ABB Industry Pte Ltd."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "From January 2001 to February 2003, the defendant was employed by ABB Industry Pte Ltd as General Manager."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "From September 2001 to February 2003, the defendant was Vice-President and Head of Business Area Low Voltage Products, Automation Technology Products Division Asia South, in ABB Industry Pte Ltd."
+      },
+      {
+        "Fact_Type": "DUTY",
+        "Text": "The employment terms of the defendant with ABB Industry Pte Ltd incorporated provisions from the ABB Singapore Employee Handbook requiring employees to avoid conflicts of interest and to protect company assets and confidential information."
+      },
+      {
+        "Fact_Type": "RELATIONSHIP",
+        "Text": "ABB Industry Pte Ltd sold medium voltage products as part of project packages and discussed medium voltage business at Country Management Team meetings attended by the defendant."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "While employed by ABB Industry Pte Ltd, the defendant communicated with representatives of XIHARI about engaging a technical adviser for the development of new medium voltage switchgear and circuit breaker products."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "While still employed by ABB Industry Pte Ltd, the defendant communicated with former ABB engineer Guenther Leonhardt regarding XIHARI's proposal that he act as technical adviser and technical controller for a new manufacturing company."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "While still employed by ABB Industry Pte Ltd, the defendant worked on plans and business forecasts for Huadian, a company intended to manufacture and market medium voltage circuit breakers."
+      },
+      {
+        "Fact_Type": "RELATIONSHIP",
+        "Text": "Huadian manufactured medium voltage circuit breakers and marketed them in regions that overlapped with the markets in which ABB Industry Pte Ltd supplied medium voltage products as part of projects."
+      }
+    ],
+    "Issue": "Whether the defendant, while employed in senior management positions by ABB Industry Pte Ltd, breached contractual and fiduciary duties owed to ABB Industry Pte Ltd by assisting XIHARI and Huadian in the development and marketing of competing medium voltage products and by failing to disclose relevant competitive activities.",
+    "Rule": "Senior employees in positions equivalent to top management owe duties of fidelity and fiduciary duties to act in good faith in the best interests of their company, to avoid conflicts between personal interests and the company's interests, and to disclose to the company activities that may pose a competitive threat; employees must not use their position to assist potential competitors or to prepare competing businesses while still employed.",
+    "Application": "The court examined the scope of the defendant's contractual and fiduciary obligations to ABB Industry Pte Ltd as a very senior manager involved in low voltage and project-related medium voltage business, considered the Employee Handbook provisions on conflicts of interest and protection of company interests, and assessed whether his undisclosed assistance to XIHARI in securing a technical adviser, his communications with a former ABB engineer about developing new medium voltage products, and his preparatory work on Huadian's business plans while still employed amounted to acting contrary to ABB Industry Pte Ltd's interests and failing to disclose activities that could create a competitive risk.",
+    "Conclusion": "Judgment entered for ABB Industry Pte Ltd against the defendant, with damages to be assessed or an account of profits at ABB Industry Pte Ltd's election."
+  }
+}
+
+{
+  "Metadata": {
+    "Case_ID": "ABB_Holdings_Pte_Ltd_and_Others_v_Sher_Hock_Guan_Charles",
+    "Case_Name": "ABB Holdings Pte Ltd and Others v Sher Hock Guan Charles",
+    "Judge": "Judith Prakash J",
+    "Date": "2009-07-06",
+    "Tribunal_Court": "High Court"
+  },
+  "Party_Details": {
+    "Role": "Defendant",
+    "Name": "Sher Hock Guan Charles",
+    "Facts": [
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "The defendant worked for various companies in the ABB Group between 1990 and February 2003."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "From January 1997 to January 2000, the defendant was President of ABB Installation Materials (East Asia) Pte Ltd."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "From July 1998 to February 2003, the defendant was a director of ABB Installation Materials (East Asia) Pte Ltd."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "From January 2001 to February 2003, the defendant was General Manager of ABB Industry Pte Ltd."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "From September 2001 to February 2003, the defendant was Vice-President and Head of Business Area Low Voltage Products, Automation Technology Products Division Asia South, at ABB Industry Pte Ltd."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "On 15 January 2001, the defendant's employment was transferred from ABB Installation Materials (East Asia) Pte Ltd to ABB Industry Pte Ltd with retrospective effect from 1 January 2001."
+      },
+      {
+        "Fact_Type": "DUTY",
+        "Text": "Under his employment contracts, the defendant undertook to maintain and preserve secrecy in office matters and not to divulge information to outsiders."
+      },
+      {
+        "Fact_Type": "DUTY",
+        "Text": "Under his employment contracts, the defendant was prohibited from private participation in other business activities, especially in the plaintiffs' line of business."
+      },
+      {
+        "Fact_Type": "DUTY",
+        "Text": "The defendant was subject to employee handbook provisions requiring him to avoid conflicts of interest and to protect company assets, confidential and proprietary information."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "In late 2002, the defendant communicated with former ABB employee Guenther Leonhardt about XIHARI's interest in engaging him as a technical adviser for research and development projects on medium voltage switchgear, circuit breakers and vacuum interrupters."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "The defendant did not inform the plaintiffs about XIHARI's plans to develop and market a new generation of medium voltage circuit breakers and related products."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "By early 2003, the defendant had agreed to join Xiamen Huadian Switchgear Co Ltd as its General Manager."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "The defendant commenced employment as General Manager of Xiamen Huadian Switchgear Co Ltd on 3 March 2003."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Before 3 March 2003, the defendant communicated with Huadian's promoters and prepared or contributed to business plans and forecasts for Huadian."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "In late March 2004, a German company Gelpag mbH, in which the defendant was a majority shareholder, acquired 16.2% of the shares in Huadian."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "The defendant became a director of Huadian after Gelpag mbH acquired shares in Huadian."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "The defendant assisted in the incorporation of Webmoney Investment (S) Pte Ltd by filing documents and providing his home address as its registered office."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "On 25 April 2003, the defendant became a director and shareholder of Great Vision International Pte Ltd after his brother resigned as director and transferred his shares to the defendant."
+      }
+    ],
+    "Issue": "Whether the defendant, as a director and very senior employee of the plaintiffs, breached contractual, fiduciary, and implied duties of fidelity and confidentiality by assisting XIHARI and Huadian, failing to disclose competitive threats, and engaging in preparatory and external business activities while still employed.",
+    "Rule": "Directors and very senior employees owe fiduciary duties of loyalty and good faith to their companies, including duties to avoid conflicts of interest, not to promote or assist competing businesses while still employed, to protect confidential and proprietary information, and to disclose to their company information and activities that may pose actual or potential competitive threats to the company.",
+    "Application": "The court examined the defendant's senior management roles, the terms of his employment contracts and the employee handbook, and his conduct in communicating with XIHARI and Guenther Leonhardt about developing medium voltage products, his non-disclosure of XIHARI's and Huadian's plans to the plaintiffs, and his preparatory work and planning for Huadian while still employed, to determine whether these actions conflicted with his obligations of loyalty, fidelity, and disclosure owed to the second and third plaintiffs.",
+    "Conclusion": "Judgment was entered against the defendant in favour of the second and third plaintiffs, with damages to be assessed or an account of profits to be taken at their election, and the first plaintiff's claim against the defendant was dismissed."
+  }
+}
+
+{
+  "Metadata": {
+    "Case_ID": "Airtrust_(Singapore)_Pte_Ltd_v_Kao_Chai-Chau_Linda_and_another_suit",
+    "Case_Name": "Airtrust (Singapore) Pte Ltd v Kao Chai-Chau Linda and another suit",
+    "Judge": "George Wei JC",
+    "Date": "2014-02-14",
+    "Tribunal_Court": "High Court"
+  },
+  "Party_Details": {
+    "Role": "Plaintiff",
+    "Name": "Airtrust (Singapore) Pte Ltd",
+    "Facts": [
+      {
+        "Fact_Type": "PARTY_INFO",
+        "Text": "Airtrust (Singapore) Pte Ltd is a Singapore-incorporated company referred to in the proceedings as AT."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "Peter Fong was the majority shareholder and Chairman of Airtrust (Singapore) Pte Ltd until his death on 25 April 2008."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "From about 2006, a 51% shareholding in Airtrust (Singapore) Pte Ltd was held by the Fong Foundation charitable trust, with the remaining shares held by Peter Fong, Linda Kao and various family members including Carolyn Fong."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "Linda Kao Chai-Chau was appointed managing director of Airtrust (Singapore) Pte Ltd around 1996 by Peter Fong."
+      },
+      {
+        "Fact_Type": "BUSINESS_ACTIVITY",
+        "Text": "Airtrust (Singapore) Pte Ltd engaged in business involving chemical-related transactions and business opportunities from Chinese chemical companies."
+      },
+      {
+        "Fact_Type": "RELATIONSHIP",
+        "Text": "Carolyn Fong was a shareholder of Airtrust (Singapore) Pte Ltd and obtained leave to commence a derivative action on its behalf against Linda Kao."
+      },
+      {
+        "Fact_Type": "RELATIONSHIP",
+        "Text": "Ernst & Young was appointed as Receivers and Managers of Airtrust (Singapore) Pte Ltd on 17 January 2012 pursuant to an application by Carolyn Fong."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Airtrust (Singapore) Pte Ltd, acting through Carolyn Fong, commenced Suit No 477 of 2012 as a derivative action against Linda Kao for alleged breaches of fiduciary duty in relation to certain transactions."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Airtrust (Singapore) Pte Ltd, acting through its Receivers and Managers, commenced Suit No 1015 of 2012 against Linda Kao and 15 other individuals alleging conspiracy to divert business away from the company and breach of fiduciary duty."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Airtrust (Singapore) Pte Ltd, through its plaintiffs in the two suits, objected to Linda Kao commencing third party proceedings against the Estate of Peter Fong."
+      },
+      {
+        "Fact_Type": "COMMUNICATION",
+        "Text": "Airtrust (Singapore) Pte Ltd, through its legal representatives in the two suits, filed written and oral submissions opposing Linda Kao's applications for third party notices seeking indemnity and contribution from the Estate of Peter Fong."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Airtrust (Singapore) Pte Ltd, through Carolyn Fong, later applied for leave to hand over conduct of the derivative action to the Receivers and Managers."
+      }
+    ],
+    "Issue": "Whether Airtrust (Singapore) Pte Ltd, acting through its derivative plaintiff and its Receivers and Managers, should be subjected to third party proceedings in its actions against Linda Kao by allowing Linda to pursue indemnity or contribution from the Estate of Peter Fong in respect of alleged diversions of business and breaches of fiduciary and director's duties.",
+    "Rule": "Under Order 16 of the Rules of Court, a defendant may issue a third party notice to claim contribution or indemnity or to have related questions determined among the plaintiff, defendant and a non-party, and under sections 15 and 16 of the Civil Law Act a person liable for damage may seek contribution, potentially amounting to an indemnity, from another person liable for the same damage regardless of whether liability arises in tort, contract, breach of trust or otherwise.",
+    "Application": "The court considered Airtrust (Singapore) Pte Ltd's objections that the proposed third party proceedings against the Estate of Peter Fong were unnecessary, overlapped with Linda Kao's pleaded defences, and would cause additional expense and delay, and examined whether there remained factual and legal scenarios in which Linda could be found liable to Airtrust while still having a viable statutory contribution claim against the Estate of Peter Fong for the same alleged losses.",
+    "Conclusion": "The appeals were allowed and Linda Kao was permitted to commence and amend third party proceedings against the Estate of Peter Fong in both actions brought by Airtrust (Singapore) Pte Ltd."
+  }
+}
+
+{
+  "Metadata": {
+    "Case_ID": "Airtrust_(Singapore)_Pte_Ltd_v_Kao_Chai-Chau_Linda_and_another_suit",
+    "Case_Name": "Airtrust (Singapore) Pte Ltd v Kao Chai-Chau Linda and another suit",
+    "Judge": "George Wei JC",
+    "Date": "2014-02-14",
+    "Tribunal_Court": "High Court"
+  },
+  "Party_Details": {
+    "Role": "Defendant",
+    "Name": "Kao Chai-Chau Linda",
+    "Facts": [
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "Linda was appointed as managing director of Airtrust (Singapore) Pte Ltd in 1996 by its then Chairman Peter Fong."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "Linda remained the managing director of Airtrust (Singapore) Pte Ltd until 2012."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "In Suit No 477 of 2012, Airtrust (Singapore) Pte Ltd alleged that Linda breached her fiduciary duties in respect of certain transactions that mostly took place while Peter Fong was alive and Chairman."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "In Suit No 1015 of 2012, the Receivers and Managers of Airtrust (Singapore) Pte Ltd alleged that Linda participated in diversions of business and funds to the detriment of the company after Peter Fong's death."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "In Suit No 1015 of 2012, it was alleged that Linda and 15 other individuals were involved in a conspiracy to divert business away from Airtrust (Singapore) Pte Ltd."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Linda's pleaded defence in both suits was that the impugned transactions and diversions were carried out pursuant to oral instructions or a standing understanding given by Peter Fong."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Linda asserted that the business opportunities alleged to have been diverted were not business opportunities of Airtrust (Singapore) Pte Ltd because she was receiving and disbursing funds on behalf of Peter Fong's friends and associates as a favour to them."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Linda applied in the derivative action for leave to serve a third party notice against the Estate of Peter Fong seeking an indemnity in respect of any liability she might incur."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "In the RM action, Linda commenced third party proceedings against the Estate of Peter Fong seeking an indemnity in respect of any liability she might incur."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Linda applied to amend both third party notices to add alternative claims for contribution from the Estate of Peter Fong under section 15 of the Civil Law Act."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Linda argued that there was a possibility the trial court might find that she owed and breached independent fiduciary and director's duties to Airtrust (Singapore) Pte Ltd even if she had acted on Peter Fong's instructions."
+      },
+      {
+        "Fact_Type": "COMMUNICATION",
+        "Text": "Linda contended that Peter Fong had given her instructions, including standing instructions or understandings, regarding how to handle the transactions and business opportunities in question."
+      }
+    ],
+    "Issue": "Whether Linda, as managing director of Airtrust (Singapore) Pte Ltd, could pursue third party claims for indemnity or contribution against the Estate of Peter Fong in respect of alleged breaches of fiduciary and director's duties and alleged conspiracy to divert business and funds.",
+    "Rule": "Under Order 16 rule 1 of the Rules of Court, a defendant may issue a third party notice to claim contribution or indemnity from a non-party in respect of the same subject matter, and under sections 15 and 16 of the Civil Law Act, any person liable in respect of damage suffered by another may seek contribution, which the court may apportion or convert into a complete indemnity, regardless of whether liability arises in tort, contract, breach of trust or otherwise.",
+    "Application": "The court examined Linda's role as managing director, the allegations that she diverted business and funds and participated in a conspiracy, and her assertion that she acted on Peter Fong's instructions, to determine whether there was a realistic basis on which she might be found liable to Airtrust (Singapore) Pte Ltd while the Estate of Peter Fong could also be liable for the same damage, such that third party proceedings for contribution or indemnity should be allowed to proceed.",
+    "Conclusion": "The appeals by Linda to commence and maintain third party proceedings against the Estate of Peter Fong were allowed, and her applications to amend the third party notices to include claims for contribution were also allowed."
+  }
+}
+
+{
+  "Metadata": {
+    "Case_ID": "AMG_GLOBAL_INVESTMENTS_&_HOLDINGS_PTE_LTD_(IN_LIQUIDATION)_v_ONG_KEE_MING_RICHARD_&_Anor",
+    "Case_Name": "AMG GLOBAL INVESTMENTS & HOLDINGS PTE LTD (IN LIQUIDATION) v ONG KEE MING RICHARD & Anor",
+    "Judge": "Philip Jeyaretnam JC",
+    "Date": "2021-09-28",
+    "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+  },
+  "Party_Details": {
+    "Role": "Plaintiff",
+    "Name": "AMG Global Investments & Holdings Pte Ltd (in Liquidation)",
+    "Facts": [
+      {
+        "Fact_Type": "PARTY_INFO",
+        "Text": "AMG Global Investments & Holdings Pte Ltd is a company incorporated in Singapore."
+      },
+      {
+        "Fact_Type": "BUSINESS_ACTIVITY",
+        "Text": "AMG Global Investments & Holdings Pte Ltd had objects of trading in metals and providing financial services."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "From October 2007 onwards, AMG Global Investments & Holdings Pte Ltd had three directors, namely Mr Manu Poovannunilkunnathil Kuttappan, Mr Ong Kee Ming Richard, and Mr Koh Ting Giap."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "During the period 23 August 2017 to 21 September 2017, AMG Global Investments & Holdings Pte Ltd maintained a bank account with Standard Chartered Bank Singapore Limited that required joint signatures of Mr Manu and Mr Ong."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "On 25 August 2017, AMG Global Investments & Holdings Pte Ltd received US$2,764,104.53 into its Standard Chartered Bank account pursuant to a documentary letter of credit issued by Kasikornbank Public Company Limited under a monetising arrangement with Food & Beverage Cap Co Ltd."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "Under a memorandum of understanding dated 21 June 2017, AMG Global Investments & Holdings Pte Ltd agreed to pay 75% of the documentary letter of credit value to Food & Beverage Cap Co Ltd and 5% to White Lotus Cosmetics Limited, retaining 20% as a non-recourse payment."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "By 23 January 2018, Mr Manu Poovannunilkunnathil Kuttappan had become the 100% shareholder of AMG Global Investments & Holdings Pte Ltd."
+      },
+      {
+        "Fact_Type": "BUSINESS_ACTIVITY",
+        "Text": "For many years prior to 2017, AMG Global Investments & Holdings Pte Ltd carried out very little business but incurred expenses including rental of premises."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "On 9 March 2018, AMG Global Investments & Holdings Pte Ltd was wound up following an unsatisfied statutory demand dated 22 November 2017 for US$2,145,000 issued by Food & Beverage Cap Co Ltd."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "Upon winding up, a liquidator from AAG Corporate Advisory Pte Ltd was appointed for AMG Global Investments & Holdings Pte Ltd."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "After the inflow of funds in August 2017, AMG Global Investments & Holdings Pte Ltd made a series of payments and cash withdrawals from its Standard Chartered Bank account between 25 August 2017 and 2 July 2018."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "AMG Global Investments & Holdings Pte Ltd, acting by its liquidator, commenced Suit No 881 of 2020 against its former directors Mr Ong Kee Ming Richard and Mr Koh Ting Giap in relation to withdrawals and payments from its bank account and the use of a banking facility."
+      }
+    ],
+    "Issue": "Whether the former directors of AMG Global Investments & Holdings Pte Ltd breached their duties and incurred liability to the company in relation to withdrawals, payments, and use of a banking facility involving the company’s funds.",
+    "Rule": "Directors of a company must act bona fide in the interests of the company, for proper corporate purposes, avoid conflicts between personal interests and duties, and exercise reasonable skill and care, and may be personally liable for unauthorised or improper use of company assets.",
+    "Application": "The court examined the inflow of funds into AMG Global Investments & Holdings Pte Ltd’s bank account, the subsequent pattern of withdrawals and payments authorised or allowed by the former directors, the absence or presence of commercial justification for those transactions, and the directors’ knowledge, state of mind, and reliance on explanations given by a fellow director in order to determine whether their conduct complied with their duties to the company.",
+    "Conclusion": "Judgment entered for AMG Global Investments & Holdings Pte Ltd (in Liquidation) against its former directors for specified sums with interest."
+  }
+}
+
+{
+  "Metadata": {
+    "Case_ID": "AMG_GLOBAL_INVESTMENTS_&_HOLDINGS_PTE_LTD_(IN_LIQUIDATION)_v_ONG_KEE_MING_RICHARD_&_Anor",
+    "Case_Name": "AMG GLOBAL INVESTMENTS & HOLDINGS PTE LTD (IN LIQUIDATION) v ONG KEE MING RICHARD & Anor",
+    "Judge": "Philip Jeyaretnam JC",
+    "Date": "2021-09-28",
+    "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+  },
+  "Party_Details": {
+    "Role": "Defendant",
+    "Name": "Ong Kee Ming Richard",
+    "Facts": [
+      {
+        "Fact_Type": "PARTY_INFO",
+        "Text": "The first defendant, Mr Ong Kee Ming Richard, is a Singapore citizen."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "Mr Ong was a director of AMG Global Investments & Holdings Pte Ltd from 13 September 2006 to 25 September 2017."
+      },
+      {
+        "Fact_Type": "RELATIONSHIP",
+        "Text": "From October 2007 onwards, Mr Ong served as a director of AMG together with Mr Manu Poovannunilkunnathil Kuttappan and Mr Koh Ting Giap."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "Mr Ong was a joint signatory with Mr Manu to AMG's bank account with Standard Chartered Bank (Singapore) Limited between 23 August 2017 and 21 September 2017."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Mr Ong countersigned nineteen withdrawals or payments from AMG's Standard Chartered Bank account between 25 August 2017 and 21 September 2017."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "On or about 11 August 2017, Mr Ong obtained a handwritten confirmation from Mr Manu stating that Mr Manu took full responsibility for payments from AMG's bank account and for the procurement and supply of goods mentioned in the documentary letter of credit."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Mr Ong signed a security agreement with Standard Chartered Bank for a facility secured against a fixed deposit of US$1,000,000 in AMG's name."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Mr Ong authorised a payment of US$74,699.11 from AMG's bank account to himself which he regarded as remuneration for his services as a director."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Mr Ong authorised a payment of US$149,398.22 from AMG's bank account to Mr Abdul Razeed after expressing concerns about the size of the payment."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Mr Ong authorised payments from AMG's bank account to various third parties including Sabre Global Pte Ltd, Three Quality Services Limited, Kevin Anthony Griffin Jr, Quality Printers Pte Ltd and others during late August and September 2017."
+      },
+      {
+        "Fact_Type": "OTHER",
+        "Text": "In September 2017 Mr Ong attended Clementi Polyclinic and was referred to the National University Hospital for investigation of a possible psychosis episode."
+      },
+      {
+        "Fact_Type": "OTHER",
+        "Text": "Mr Ong was warded at the Institute of Mental Health for about three weeks from 15 October 2017 after he had resigned as a director of AMG."
+      }
+    ],
+    "Issue": "Whether Mr Ong, as a director and joint bank signatory of AMG, breached his fiduciary and statutory duties and incurred liability, including for knowing receipt, in authorising or receiving various payments and withdrawals from AMG's bank account between 25 August 2017 and 21 September 2017.",
+    "Rule": "Directors owe fiduciary duties to act bona fide in the interests of the company, for proper corporate purposes, to avoid conflicts of interest, and to exercise reasonable skill and care, as reflected in the general law and section 157 of the Companies Act; a director who authorises company payments must honestly and reasonably believe they are for proper corporate purposes and must take reasonable steps to understand and verify the transactions; a person is liable in knowing receipt where company assets are disposed of in breach of fiduciary duty, the person beneficially receives those assets, and knows of the breach such that it is unconscionable to retain the benefit.",
+    "Application": "The court examined Mr Ong's role as director and joint signatory in relation to each payment and withdrawal from AMG's bank account, considering what information he had, what explanations he received from Mr Manu, whether he obtained supporting documentation, and when he began to suspect that funds were being removed for purposes not connected to AMG's business. The court assessed whether Mr Ong could reasonably rely on Mr Manu's representations in the context of a small company without internal control systems, and evaluated specific transactions such as cash withdrawals, payments to third parties, and a payment to himself as director's remuneration to determine if they were for proper corporate purposes or involved unauthorised self-benefit. The court also considered Mr Ong's mental health evidence, his obtaining of a written confirmation from Mr Manu assuming responsibility, and his expressed reluctance and objections to certain large payments, in deciding whether his conduct met the standards of honesty and reasonableness required of a director and whether any receipt of company funds by him was made with knowledge that it was traceable to a breach of fiduciary duty.",
+    "Conclusion": "Judgment was entered against Mr Ong, with the court allowing AMG's claims against him in the sum of US$1,297,883.63 together with interest."
+  }
+}
+
+{
+  "Metadata": {
+    "Case_ID": "AMG_GLOBAL_INVESTMENTS_&_HOLDINGS_PTE_LTD_(IN_LIQUIDATION)_v_ONG_KEE_MING_RICHARD_&_Anor",
+    "Case_Name": "AMG GLOBAL INVESTMENTS & HOLDINGS PTE LTD (IN LIQUIDATION) v ONG KEE MING RICHARD & Anor",
+    "Judge": "Philip Jeyaretnam JC",
+    "Date": "2021-09-28",
+    "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+  },
+  "Party_Details": {
+    "Role": "Defendant",
+    "Name": "Koh Ting Giap",
+    "Facts": [
+      {
+        "Fact_Type": "PARTY_INFO",
+        "Text": "Koh Ting Giap is a Singapore citizen."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "Koh Ting Giap was a director of AMG Global Investments & Holdings Pte Ltd from 13 September 2006 to 10 January 2014 and again from 25 September 2017 until the company was wound up."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "Koh Ting Giap was the registered owner of 1,080,000 shares in AMG, of which 1,079,996 shares were held as nominee on trust for Weeds Natural Remedies Pte Ltd."
+      },
+      {
+        "Fact_Type": "BUSINESS_ACTIVITY",
+        "Text": "Through Weeds Natural Remedies Pte Ltd, Koh Ting Giap arranged for AMG to receive formulae for natural health supplements and an eight-year licence to use certain registered trade marks."
+      },
+      {
+        "Fact_Type": "RELATIONSHIP",
+        "Text": "Before leaving AMG around early 2014, Koh Ting Giap worked together with co-directors Manu Poovannunilkunnathil Kuttappan and Ong Kee Ming Richard."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Koh Ting Giap left AMG around 2014 because AMG had done very little business and its anticipated deals had not materialised."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "When he rejoined AMG in 2017, Koh Ting Giap agreed to serve as the locally resident director at the request of Manu Poovannunilkunnathil Kuttappan."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Upon rejoining AMG in 2017, Koh Ting Giap agreed that Manu Poovannunilkunnathil Kuttappan would be the 100% shareholder and sole bank account signatory of AMG."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "On 26 September 2017, Koh Ting Giap signed a directors' resolution authorising Manu Poovannunilkunnathil Kuttappan to be the sole signatory for AMG's banking facilities with Standard Chartered Bank."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "After rejoining AMG in 2017, Koh Ting Giap discussed with Manu Poovannunilkunnathil Kuttappan that AMG should repay him part of the money he had previously advanced to the company."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "On 21 September 2017, AMG paid US$37,458.77 to Koh Ting Giap from its Standard Chartered Bank account."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "On 29 September 2017, AMG paid US$37,247.43 to Koh Ting Giap from its Standard Chartered Bank account."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "Between late September 2017 and October 2017, AMG made twelve cash withdrawals or cash cheques totalling US$148,064.97 from its Standard Chartered Bank account while Koh Ting Giap was a director."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "On 2 October 2017, AMG paid US$10,000 from its Standard Chartered Bank account to Uniroyal Communications Pte Ltd while Koh Ting Giap was a director."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "On 2 October 2017, AMG paid US$11,000 from its Standard Chartered Bank account to Ms Chua Pair Shen while Koh Ting Giap was a director."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "On 3 October 2017, AMG paid US$11,500 from its Standard Chartered Bank account to Mr Shuan Jarmen while Koh Ting Giap was a director."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "On 11 October 2017, AMG paid US$3,700 from its Standard Chartered Bank account to Ms Christina Marie Nyanmani while Koh Ting Giap was a director."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "While Koh Ting Giap was a director, AMG made a payment of US$1,370 from its Standard Chartered Bank account to Mr Ng Wai Loon."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "While Koh Ting Giap was a director, AMG made a payment of US$1,850 from its Standard Chartered Bank account to Mr Abdul Razeed."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "On or about 9 November 2017, after a drawdown on a Standard Chartered Bank facility secured on AMG's fixed deposit, AMG paid US$744,000 to Smart Recycling Pte Ltd."
+      },
+      {
+        "Fact_Type": "DUTY",
+        "Text": "When he rejoined AMG in 2017, Koh Ting Giap understood that his role as director included responsibility for the company's accounts."
+      },
+      {
+        "Fact_Type": "OTHER",
+        "Text": "In 2009, Koh Ting Giap emailed his co-directors stating that he had contributed or advanced several hundred thousand Singapore dollars to AMG in cash, loans, office expenses, and office renovation."
+      }
+    ],
+    "Issue": "Whether Koh Ting Giap, as a director and recipient of company funds, breached his directors' duties and incurred liability in respect of withdrawals and payments made from AMG's bank account, including sums paid to himself before and after rejoining the board and sums paid out under a bank facility.",
+    "Rule": "Directors must act bona fide in the interests of the company, for proper corporate purposes, avoid conflicts between personal interests and duties, and exercise reasonable skill and care, including taking reasonable steps to understand and monitor company payments; a director who allows company assets to be misapplied or who benefits from such misapplication may be liable for breach of fiduciary duty or for knowing receipt where he receives trust property with knowledge making it unconscionable to retain the benefit.",
+    "Application": "The court examined Koh Ting Giap's decision to rejoin AMG as director while seeking repayment of his past advances, his agreement that Manu Poovannunilkunnathil Kuttappan would be sole bank signatory, his knowledge that the previous director had resisted signing certain cheques, his lack of safeguards over AMG's bank account, and his receipt of payments from AMG and the bank facility drawdown, to assess whether he acted honestly and reasonably in protecting AMG's assets and whether his personal interest in recovering loans conflicted with his duties.",
+    "Conclusion": "Judgment entered against Koh Ting Giap, with AMG's claims allowed in the sum of US$1,017,070.93 plus interest."
+  }
+}
+
+{
+  "Metadata": {
+    "Case_ID": "AP_AUTOMOTIVE_SERVICES_PTE._LTD._V_LIEW_NYOK_WAH",
+    "Case_Name": "AP AUTOMOTIVE SERVICES PTE. LTD. V LIEW NYOK WAH",
+    "Judge": "Hri Kumar Nair J",
+    "Date": "2024-09-25",
+    "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+  },
+  "Party_Details": {
+    "Role": "Plaintiff",
+    "Name": "AP Automotive Services Pte Ltd",
+    "Facts": [
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "AP Automotive Services Pte Ltd was incorporated on 5 August 2020 with a paid-up capital of $100,000."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "AP Automotive Services Pte Ltd had three shareholders, namely Liew Nyok Wah, Teo Ying Ping and Ho Siow Poh."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "At incorporation, AP Automotive Services Pte Ltd had shareholdings of 33% each for Liew Nyok Wah and Teo Ying Ping and 34% for Ho Siow Poh."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "AP Automotive Services Pte Ltd employed Ho Siow Poh as its Managing Director and sole recorded director."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "AP Automotive Services Pte Ltd employed Liew Shulin, the daughter of Liew Nyok Wah, shortly after incorporation to work on finance and business operations."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "AP Automotive Services Pte Ltd employed Marcus Teo Xian Jun in 2021 and subsequently appointed him as its Chief Financial Officer."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "AP Automotive Services Pte Ltd received funds from shareholders Teo Ying Ping and Liew Nyok Wah throughout its life by way of personal funds, loans obtained by them from third parties, and loans made directly to the company by third parties."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "AP Automotive Services Pte Ltd commenced an action against shareholder Liew Nyok Wah on 25 July 2023 concerning funding arrangements and alleged breaches of duties."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "AP Automotive Services Pte Ltd terminated the employment of Liew Shulin on 27 July 2023."
+      },
+      {
+        "Fact_Type": "BUSINESS_ACTIVITY",
+        "Text": "AP Automotive Services Pte Ltd operated a business that owned and sold a fleet of cars and used sale proceeds to repay various loans."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "AP Automotive Services Pte Ltd recorded funds provided by shareholders and certain third parties in its accounting records and financial statements as loans from directors."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "AP Automotive Services Pte Ltd entered into and repaid multiple loan arrangements with external lenders, including Mengkim Holdings Pte Ltd, Junk Yard Dog Ventures Pte Ltd, WQ Leasing Pte Ltd, and individuals such as Tan Bee Hong and Ban Leong."
+      }
+    ],
+    "Issue": "Whether AP Automotive Services Pte Ltd could hold shareholder Liew Nyok Wah liable for breaching an alleged agreement to provide matching funding and for breaching fiduciary duties in relation to loans and repayments made by or to the company.",
+    "Rule": "A company may sue a person only if it is a party with standing to enforce the relevant agreement or duty, and a director or de facto or shadow director owes fiduciary duties not to misuse company funds or cause repayments in breach of binding funding arrangements.",
+    "Application": "The court examined whether AP Automotive Services Pte Ltd was a party to any binding agreement requiring matching capital or funding contributions, how the company documented and treated shareholder and third-party funding in its records, and whether the company’s own management, including its Managing Director, had authorised the impugned loan transactions and repayments that it sought to attribute to breaches by Liew Nyok Wah.",
+    "Conclusion": "The claim by AP Automotive Services Pte Ltd against Liew Nyok Wah was dismissed, and judgment was entered on the counterclaim requiring AP Automotive Services Pte Ltd to repay $719,000 to Liew Nyok Wah together with an order that AP Automotive Services Pte Ltd pay his costs of $150,000 inclusive of disbursements."
+  }
+}
+
+{
+  "Metadata": {
+    "Case_ID": "AP_AUTOMOTIVE_SERVICES_PTE._LTD._V_LIEW_NYOK_WAH",
+    "Case_Name": "AP AUTOMOTIVE SERVICES PTE. LTD. V LIEW NYOK WAH",
+    "Judge": "Hri Kumar Nair J",
+    "Date": "2024-09-25",
+    "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+  },
+  "Party_Details": {
+    "Role": "Defendant",
+    "Name": "Liew Nyok Wah",
+    "Facts": [
+      {
+        "Fact_Type": "PARTY_INFO",
+        "Text": "Mr Liew is one of three shareholders of AP Automotive Services Pte Ltd."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "Mr Liew held 33% of the shares in AP Automotive Services Pte Ltd."
+      },
+      {
+        "Fact_Type": "RELATIONSHIP",
+        "Text": "Mr Liew was a long-term friend of the other two shareholders, Mr Teo Ying Ping and Mr Ho Siow Poh, before they incorporated the company together."
+      },
+      {
+        "Fact_Type": "RELATIONSHIP",
+        "Text": "Mr Liew is the father of Ms Liew Shulin, who worked in the company’s finance and business operations."
+      },
+      {
+        "Fact_Type": "BUSINESS_ACTIVITY",
+        "Text": "From the inception of the company, Mr Liew contributed funds to the company to support its operations."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "Mr Liew initially injected $50,000 as part of the company’s paid-up capital of $100,000 at incorporation."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "After incorporation, Mr Liew provided further funding to the company using his personal funds and by procuring loans from third parties."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "Mr Liew procured a $500,000 loan from Mengkim Holdings Pte Ltd to provide funds to the company."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "Mr Liew procured loans from individuals including Tan Bee Hong and Ban Leong, the proceeds of which were used to fund the company."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "The company’s accounting records and financial statements recorded funds provided by or through Mr Liew as loans from a director."
+      },
+      {
+        "Fact_Type": "COMMUNICATION",
+        "Text": "On 2 May 2023, Mr Liew attended a recorded meeting with Mr Ho and Mr Teo where they discussed their respective funding of the company and a possible buy-out."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "As at 31 July 2022, a creditors confirmation signed by the managing director recorded that the company owed Mr Liew $1.03 million."
+      }
+    ],
+    "Issue": "Whether Mr Liew was obliged to fund the company by matching capital or funding contributions, whether he owed and breached fiduciary duties as a de facto or shadow director in relation to the procurement and repayment of loans, and whether the company was liable to repay him the outstanding balance of his loans.",
+    "Rule": "A person who acts as a de facto or shadow director may owe fiduciary duties to the company, including duties to act bona fide in the interests of the company and to avoid using their position to obtain unauthorised benefits; shareholders and lenders are generally entitled to repayment of loans in accordance with the terms of the funding arrangements, and any implied funding obligations or restrictions on withdrawal must satisfy the requirements for contractual formation and implication of terms.",
+    "Application": "The court examined whether the funding provided by or through Mr Liew was properly characterised as shareholder capital or as loans, considered contemporaneous accounting records and internal documents that described his contributions as loans from a director, and assessed whether there was any binding agreement requiring him to match Mr Teo’s contributions or to leave his funds in the company until certain financial conditions were met. The court also considered how and by whom decisions were made to enter into third-party loan agreements, to classify those loans in the company’s records, and to authorise repayments to third-party lenders and to Mr Liew, including the role of the managing director and the finance staff. In relation to the alleged fiduciary duties, the court evaluated whether Mr Liew’s involvement in procuring loans and in discussions about repayments amounted to him acting as a de facto or shadow director and, if so, whether causing or facilitating the repayment of loans associated with him or with third parties was inconsistent with any duties owed to the company. For the counterclaim, the court reviewed the undisputed accounting evidence of the outstanding balance owed to Mr Liew and the absence of any valid contractual or equitable basis for the company to withhold repayment.",
+    "Conclusion": "The company’s claim against Mr Liew was dismissed, and judgment was entered in favour of Mr Liew on his counterclaim for repayment of $719,000 together with an award of $150,000 in costs in his favour."
+  }
+}
+
+{
+  "Metadata": {
+    "Case_ID": "Australian_Property_Group_Pte_Ltd_v_H.A._&_Chung_Partnership_and_others",
+    "Case_Name": "Australian Property Group Pte Ltd v H.A. & Chung Partnership and others",
+    "Judge": "Judith Prakash J",
+    "Date": "2015-05-29",
+    "Tribunal_Court": "High Court"
+  },
+  "Party_Details": {
+    "Role": "Plaintiff",
+    "Name": "Australian Property Group Pte Ltd",
+    "Facts": [
+      {
+        "Fact_Type": "PARTY_INFO",
+        "Text": "Australian Property Group Pte Ltd was incorporated on 9 February 2009."
+      },
+      {
+        "Fact_Type": "BUSINESS_ACTIVITY",
+        "Text": "Australian Property Group Pte Ltd was in the business of marketing and selling Australian real estate on behalf of Australian property developers."
+      },
+      {
+        "Fact_Type": "BUSINESS_ACTIVITY",
+        "Text": "Australian Property Group Pte Ltd earned revenue from commissions paid by Australian property developers, consisting of a Front End Commission upon signing of an unconditional sale contract and a Back End Commission upon completion."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "On incorporation, Australian Property Group Pte Ltd had directors and shareholders including Sean Colville Niven, Wang Zijian, Gan Siong Teck, Hou Junyu and Lee Jer Ren."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "Australian Property Group Pte Ltd received a loan of $900,000 from Goh Cheng Liang pursuant to a loan agreement dated 11 March 2009."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "Non-executive directors Gan Siong Teck, Hou Junyu and Lee Jer Ren acted to protect the interests of lender Goh Cheng Liang while the executive directors controlled the day-to-day operations of Australian Property Group Pte Ltd."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "On 15 May 2009, Lim Kay-Lin Kathlene joined Australian Property Group Pte Ltd as its general manager."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "After May 2009, Sean Colville Niven managed the finances of Australian Property Group Pte Ltd and secured marketing rights from Australian property developers, while Wang Zijian was sales manager and Lim Kay-Lin Kathlene oversaw overall operations and the sales team."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "In November 2009, Australian Property Group Pte Ltd borrowed money from Ubertas Funds Management Pty Ltd and used it to repay the $900,000 loan from Goh Cheng Liang."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "On 7 November 2009, the non-executive directors of Australian Property Group Pte Ltd resigned and their shares were subsequently transferred to Sean Colville Niven."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "On 8 December 2009, Lim Kay-Lin Kathlene was appointed a director of Australian Property Group Pte Ltd and in January 2010 she became a shareholder by purchasing 240,000 shares from Sean Colville Niven for $160,000."
+      },
+      {
+        "Fact_Type": "OTHER",
+        "Text": "On 21 March 2011, Australian Property Group Pte Ltd was placed under judicial management and Timothy James Reid of Ferrier Hodgson Pte Ltd was appointed as judicial manager."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "After his appointment, the judicial manager of Australian Property Group Pte Ltd discovered that certain directors had not paid for their shares although the shares had been issued as fully paid up."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "After his appointment, the judicial manager of Australian Property Group Pte Ltd identified numerous payments made to director Sean Colville Niven which he considered unjustifiable due to lack of documentary support."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Australian Property Group Pte Ltd engaged Firstwaters Consultants Pte Ltd to reconstruct its accounts from 2009 and to maintain its day-to-day accounting."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Australian Property Group Pte Ltd engaged chartered accountant John Kennedy Stuart to provide tax services and advice to its clients and later to investigate and report on its financial situation."
+      },
+      {
+        "Fact_Type": "OTHER",
+        "Text": "On 2 July 2010, chartered accountant John Kennedy Stuart advised the directors of Australian Property Group Pte Ltd that the company was technically insolvent based on its cash flow and commitments."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "On 6 September 2010, Australian Property Group Pte Ltd entered into an agreement with its directors and shareholder Lim Kay-Lin Kathlene under which she agreed to capitalise $175,000 owed to her and inject $150,000 in exchange for 325,000 new shares."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "Under the 6 September 2010 agreement, Australian Property Group Pte Ltd agreed to write off 40% of a debt of $300,450.37 owed by Sean Colville Niven and to accept repayment of the balance in instalments."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "Under the 6 September 2010 agreement, the shareholders of Australian Property Group Pte Ltd agreed on their respective liabilities for unpaid share capital and to repay 10% of the outstanding capital each year for ten years."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "On 6 October 2010, the directors of Australian Property Group Pte Ltd resolved to appoint Ferrier Hodgson Pte Ltd to conduct a review of the company’s accounts."
+      },
+      {
+        "Fact_Type": "OTHER",
+        "Text": "On 11 October 2010, Ferrier Hodgson Pte Ltd issued a draft summary of findings indicating that many payments by Australian Property Group Pte Ltd, including payments to directors, lacked supporting vouchers and documentation."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "On 13 October 2010, Australian Property Group Pte Ltd and its three directors signed a handwritten document referred to as the October Agreement dealing with resignation of directors, transfer of shares and settlement of liabilities."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "On 1 March 2011, director Lim Kay-Lin Kathlene applied to place Australian Property Group Pte Ltd under judicial management."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Australian Property Group Pte Ltd commenced this action in July 2011 through its judicial manager to recover moneys allegedly wrongfully paid to its directors."
+      }
+    ],
+    "Issue": "Whether Australian Property Group Pte Ltd could recover unpaid share capital and various payments made to or for the benefit of its directors, and whether prior agreements and alleged authorisations barred the company from doing so.",
+    "Rule": "A company may seek recovery of unpaid share capital and unauthorised payments made to directors; directors owe fiduciary and statutory duties to act in the best interests of the company and, when the company is insolvent or near insolvency, to have regard to the interests of creditors; appropriation of company funds for a director's personal use is prima facie an abuse of funds and a breach of duty unless properly authorised and in the company's interests; transactions between an insolvent company and its directors that diminish assets available to creditors may be voidable at the instance of the company.",
+    "Application": "The court examined the business model and financial position of Australian Property Group Pte Ltd, including its reliance on Front End and Back End Commissions, its loans from Goh Cheng Liang and Ubertas, and its cash flow difficulties. The court considered the roles of the executive and non-executive directors, the reconstruction of the company’s accounts, and the findings of Ferrier Hodgson Pte Ltd regarding unsupported payments. The court analysed the September and October Agreements to determine whether they involved write-offs or rearrangements of debts and unpaid share capital owed to the company by its directors at a time when the company was technically insolvent or in serious financial difficulty. The court assessed whether alleged oral arrangements and internal practices could amount to proper authorisation for the use of the company’s funds for directors’ personal expenses, and whether such arrangements were consistent with the company’s constitutional documents and the interests of its creditors.",
+    "Conclusion": "Judgment entered for Australian Property Group Pte Ltd against the second and third defendants for unpaid share capital, repayment of specified sums paid for the second defendant’s personal use, and an account and repayment of sums paid into the defendants’ joint account, with interest and costs."
+  }
+}
+
+{
+  "Metadata": {
+    "Case_ID": "Australian_Property_Group_Pte_Ltd_v_H.A._&_Chung_Partnership_and_others",
+    "Case_Name": "Australian Property Group Pte Ltd v H.A. & Chung Partnership and others",
+    "Judge": "Judith Prakash J",
+    "Date": "2015-05-29",
+    "Tribunal_Court": "High Court"
+  },
+  "Party_Details": {
+    "Role": "Defendant",
+    "Name": "H.A. & Chung Partnership",
+    "Facts": [
+      {
+        "Fact_Type": "PARTY_INFO",
+        "Text": "H.A. & Chung Partnership was the first defendant in the action and was described as a law firm."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "The first defendant settled the claim brought against it by Australian Property Group Pte Ltd before the conclusion of the proceedings against the second and third defendants."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "Australian Property Group Pte Ltd had paid certain legal fees to the first defendant in relation to Suit No 170 of 2009 involving JL Property Group Pte Ltd, Mr Niven, Mr Wang and others."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "Some of the legal fees that Australian Property Group Pte Ltd sought to recover from Mr Niven had already been recovered from the first defendant."
+      }
+    ],
+    "Issue": "Whether H.A. & Chung Partnership, as the first defendant law firm, was liable to Australian Property Group Pte Ltd in respect of payments it had received, and how those payments affected the sums recoverable from the remaining defendants.",
+    "Rule": "Where a company has made payments to a third party law firm on behalf of its directors, any recovery of those sums from the law firm reduces the amount that can be claimed from the directors for the same payments.",
+    "Application": "The court considered the legal fees paid by Australian Property Group Pte Ltd to the first defendant in connection with litigation involving Mr Niven and examined how amounts already recovered from the first defendant should be deducted from the sums claimed against Mr Niven.",
+    "Conclusion": "The claim against H.A. & Chung Partnership was settled and the proceedings continued only against the second and third defendants."
+  }
+}
+
+{
+  "Metadata": {
+    "Case_ID": "Australian_Property_Group_Pte_Ltd_v_H.A._&_Chung_Partnership_and_others",
+    "Case_Name": "Australian Property Group Pte Ltd v H.A. & Chung Partnership and others",
+    "Judge": "Judith Prakash J",
+    "Date": "2015-05-29",
+    "Tribunal_Court": "High Court"
+  },
+  "Party_Details": {
+    "Role": "Defendant",
+    "Name": "Sean Colville Niven",
+    "Facts": [
+      {
+        "Fact_Type": "PARTY_INFO",
+        "Text": "Sean Colville Niven has been involved in the business of marketing and selling Australian properties since 1989."
+      },
+      {
+        "Fact_Type": "RELATIONSHIP",
+        "Text": "Before December 2008, Sean Colville Niven worked with Wang Zijian in JL Property Group Pte Ltd, a company selling Australian properties."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "In December 2008, Sean Colville Niven and Wang Zijian decided to start their own company to sell Australian properties and resigned from JL Property Group Pte Ltd."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "On incorporation of Australian Property Group Pte Ltd, Sean Colville Niven was a director and was allotted 360,000 ordinary shares."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "Within Australian Property Group Pte Ltd, Sean Colville Niven was responsible for securing marketing rights from Australian property developers and managing the company’s finances."
+      },
+      {
+        "Fact_Type": "RELATIONSHIP",
+        "Text": "Sean Colville Niven controlled the day-to-day operations of Australian Property Group Pte Ltd together with Wang Zijian while non-executive directors protected the lender’s interests."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "Under a loan agreement dated 11 March 2009, Australian Property Group Pte Ltd received a $900,000 loan from Goh Cheng Liang, and non-executive directors were appointed as his nominees."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "On 6 September 2010, Sean Colville Niven signed the September Agreement under which he acknowledged owing Australian Property Group Pte Ltd $300,450.37 and agreed to repay $180,270.22 in instalments while 40% of the debt would be written off."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "The September Agreement recorded that Sean Colville Niven was liable for $560,000 of unpaid share capital in Australian Property Group Pte Ltd."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "On 13 October 2010, Sean Colville Niven signed the October Agreement under which he agreed to resign as director that day and transfer all his shares in Australian Property Group Pte Ltd to Lim Kay-Lin Kathlene, subject to Wang Zijian retaining 10%."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Australian Property Group Pte Ltd made payments to American Express Inc to settle Sean Colville Niven’s credit card bills, which included personal expenditure items such as petrol, department store purchases, supermarket bills and restaurant bills."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Australian Property Group Pte Ltd paid legal fees to HW Litigation and Butcher Paul & Calder for Suit No 170 of 2009, which had been brought against Sean Colville Niven and others in relation to their prior employment by JL Property Group Pte Ltd."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Australian Property Group Pte Ltd made various payments directly to Sean Colville Niven that were recorded without proper supporting documents or with minimal descriptions such as loans or commission."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Australian Property Group Pte Ltd paid travel expenses for Sean Colville Niven, his wife, his children and the family’s domestic helper, including a trip to France in August 2009."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Australian Property Group Pte Ltd paid third parties on behalf of Sean Colville Niven for items including telephone charges, his children’s school fees, and rental and leasing of furniture."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "In February 2010, Australian Property Group Pte Ltd issued an invoice for A$86,000 to Ubertas 350 William Street Pty Ltd for marketing funds, and Sean Colville Niven directed that the funds be paid into his personal bank account in Australia."
+      },
+      {
+        "Fact_Type": "COMMUNICATION",
+        "Text": "On 2 July 2010, chartered accountant John Kennedy Stuart emailed the directors, including Sean Colville Niven, stating that Australian Property Group Pte Ltd was technically insolvent based on its cash flow and commitments."
+      },
+      {
+        "Fact_Type": "COMMUNICATION",
+        "Text": "After receiving the insolvency email, Sean Colville Niven replied that the contents should not be a shock to any shareholder and that the creditors’ and revenue reports had been visible for at least six months."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "In November 2009, after the non-executive directors resigned, their shares in Australian Property Group Pte Ltd were transferred to Sean Colville Niven, increasing his shareholding to 640,000 shares before he later sold 240,000 shares to Lim Kay-Lin Kathlene."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "On 22 January 2010, Sean Colville Niven sold and transferred 240,000 shares in Australian Property Group Pte Ltd to Lim Kay-Lin Kathlene for $160,000, and the transfer form described the shares as fully paid up."
+      }
+    ],
+    "Issue": "Whether Sean Colville Niven, as a director and shareholder of Australian Property Group Pte Ltd, breached his duties by causing or permitting company funds to be used for his personal benefit and by failing to pay unpaid share capital, and whether the September and October Agreements relieved him of these liabilities or entitled him to sums claimed in his counterclaim.",
+    "Rule": "Directors of a company owe fiduciary and statutory duties to act bona fide in the interests of the company, to avoid misapplication of corporate assets, and to account for company funds used for their own benefit; appropriation of company funds for a director’s personal use is prima facie an abuse of funds and a breach of duty unless properly authorised and in the company’s interests. When a company is insolvent or near insolvency, directors must take into account the interests of the company’s creditors and must not enter into transactions that dissipate or compromise assets to the prejudice of those creditors; contracts between directors and their company that are entered into in breach of such duties are voidable at the instance of the company. Liability to pay unpaid share capital attaches to the registered holder of the shares at the time a call is made, and calls can only be enforced against that holder.",
+    "Application": "The court examined the various categories of payments made by Australian Property Group Pte Ltd to or for the benefit of Sean Colville Niven, including credit card bills, legal fees for litigation arising from his prior employment, undocumented transfers, family travel, personal living expenses, and marketing funds paid into his personal account, and considered whether these were supported by documentation, formed part of any agreed remuneration package, or were otherwise in the company’s interests. The court considered his assertions that there was an oral agreement and an internal account practice authorising reimbursement of whatever expenses he felt entitled to claim, and assessed whether these alleged arrangements were proven and consistent with contemporaneous documents and the conduct of the non-executive directors and lender protections. The court evaluated his knowledge of the company’s cash flow difficulties and the accountant’s warning that the company was technically insolvent, and then assessed the September and October Agreements, which wrote off or postponed debts owed by him and rearranged unpaid share capital, to determine whether they were entered into when the company was insolvent or near insolvency and whether they improperly reduced assets available to creditors. The court also analysed his share transactions, including his acquisition of the non-executive directors’ shares and subsequent sale of 240,000 shares to Lim Kay-Lin Kathlene, to determine the extent of his liability for unpaid share capital at the time the company’s call was made. In relation to his counterclaim, the court considered whether his alleged entitlements to salary, incentives, reimbursement of mobile phone charges, and a share of back-end commissions could stand if the September Agreement was not effective.",
+    "Conclusion": "Judgment was entered against Sean Colville Niven for unpaid share capital and for the sums paid by or on behalf of the company for his personal use, with a further order that he jointly and severally account with the third defendant for all company funds paid into their joint account and repay any amounts not shown to have been used for the company’s purposes; his counterclaim was dismissed."
+  }
+}
+
+{
+  "Metadata": {
+    "Case_ID": "Australian_Property_Group_Pte_Ltd_v_H.A._&_Chung_Partnership_and_others",
+    "Case_Name": "Australian Property Group Pte Ltd v H.A. & Chung Partnership and others",
+    "Judge": "Judith Prakash J",
+    "Date": "2015-05-29",
+    "Tribunal_Court": "High Court"
+  },
+  "Party_Details": {
+    "Role": "Defendant",
+    "Name": "Wang Zijian",
+    "Facts": [
+      {
+        "Fact_Type": "PARTY_INFO",
+        "Text": "Wang Zijian, also known as James Wang, was one of the two defendants in the action together with Sean Colville Niven."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "On incorporation of Australian Property Group Pte Ltd, Wang Zijian was allotted 160,000 ordinary shares."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "Wang Zijian previously worked with Sean Colville Niven at JL Property Group Pte Ltd, a company selling Australian properties."
+      },
+      {
+        "Fact_Type": "BUSINESS_ACTIVITY",
+        "Text": "In December 2008, Wang Zijian and Sean Colville Niven decided to start their own company to sell Australian properties and resigned from JL Property Group Pte Ltd."
+      },
+      {
+        "Fact_Type": "RELATIONSHIP",
+        "Text": "Wang Zijian and Sean Colville Niven approached Goh Cheng Liang, the godfather of Wang Zijian, for a $900,000 loan to fund the new venture."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "Non-executive directors Gan Siong Teck, Hou Junyu and Lee Jer Ren were appointed to Australian Property Group Pte Ltd to protect the interests of lender Goh Cheng Liang while the defendants controlled day-to-day operations."
+      },
+      {
+        "Fact_Type": "EMPLOYMENT",
+        "Text": "After Lim Kay-Lin Kathlene joined Australian Property Group Pte Ltd as general manager, Wang Zijian held the role of sales manager of the company."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "Wang Zijian and Sean Colville Niven executed the September 2010 agreement with Lim Kay-Lin Kathlene and Australian Property Group Pte Ltd, which addressed unpaid share capital and other financial arrangements."
+      },
+      {
+        "Fact_Type": "CONDUCT",
+        "Text": "On 13 October 2010, Wang Zijian signed the handwritten October 2010 agreement with Sean Colville Niven and Lim Kay-Lin Kathlene, under which he agreed to resign as a director that day and transfer all his shares except for 10 percent to Lim Kay-Lin Kathlene."
+      },
+      {
+        "Fact_Type": "CORPORATE_STRUCTURE",
+        "Text": "Under the September 2010 agreement, it was recorded that Wang Zijian was liable to Australian Property Group Pte Ltd for $160,000 of unpaid share capital on his 160,000 shares."
+      },
+      {
+        "Fact_Type": "TRANSACTION",
+        "Text": "Australian Property Group Pte Ltd transferred funds from its bank account into a joint current account held by Sean Colville Niven and Wang Zijian with United Overseas Bank Ltd."
+      },
+      {
+        "Fact_Type": "DUTY",
+        "Text": "As a director of Australian Property Group Pte Ltd, Wang Zijian owed fiduciary duties to ensure that company funds were only paid out for proper purposes in the interests of the company."
+      }
+    ],
+    "Issue": "Whether Wang Zijian, as a director and shareholder of Australian Property Group Pte Ltd, was liable for unpaid share capital on his shares and for accounting for company funds transferred into the joint account he held with the second defendant.",
+    "Rule": "Directors and shareholders are liable to pay unpaid share capital on shares for which they have subscribed, and directors who participate in or facilitate the use of company funds must account for those funds and may be required to repay amounts not shown to have been used for the company’s purposes.",
+    "Application": "The court examined Wang Zijian’s status as a director and holder of 160,000 shares, the recording of his unpaid capital liability in the September 2010 agreement, and the transfers of Australian Property Group Pte Ltd’s funds into the joint account he held with the second defendant to determine his responsibility to pay the called-up capital and to account for the sums received into the joint account.",
+    "Conclusion": "The third defendant was ordered to pay the plaintiff $160,000 in respect of his unpaid share capital and, jointly and severally with the second defendant, to account for all sums of money paid by the plaintiff into their joint account and to repay any amounts not established as used for the plaintiff’s purposes."
+  }
+}
+

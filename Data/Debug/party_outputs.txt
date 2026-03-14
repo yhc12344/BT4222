@@ -1,0 +1,85 @@
+{
+  "parties": [
+    {
+      "name": "ABB Holdings Pte Ltd",
+      "role": "Plaintiff"
+    },
+    {
+      "name": "ABB Installation Materials (East Asia) Pte Ltd",
+      "role": "Plaintiff"
+    },
+    {
+      "name": "ABB Industry Pte Ltd",
+      "role": "Plaintiff"
+    },
+    {
+      "name": "Sher Hock Guan Charles",
+      "role": "Defendant"
+    }
+  ]
+}
+
+{
+  "parties": [
+    {
+      "name": "Airtrust (Singapore) Pte Ltd",
+      "role": "Plaintiff"
+    },
+    {
+      "name": "Kao Chai-Chau Linda",
+      "role": "Defendant"
+    }
+  ]
+}
+
+{
+  "parties": [
+    {
+      "name": "AMG Global Investments & Holdings Pte Ltd (in Liquidation)",
+      "role": "Plaintiff"
+    },
+    {
+      "name": "Ong Kee Ming Richard",
+      "role": "Defendant"
+    },
+    {
+      "name": "Koh Ting Giap",
+      "role": "Defendant"
+    }
+  ]
+}
+
+{
+  "parties": [
+    {
+      "name": "AP Automotive Services Pte Ltd",
+      "role": "Plaintiff"
+    },
+    {
+      "name": "Liew Nyok Wah",
+      "role": "Defendant"
+    }
+  ]
+}
+
+{
+  "parties": [
+    {
+      "name": "Australian Property Group Pte Ltd",
+      "role": "Plaintiff"
+    },
+    {
+      "name": "H.A. & Chung Partnership",
+      "role": "Defendant"
+    },
+    {
+      "name": "Sean Colville Niven",
+      "role": "Defendant"
+    },
+    {
+      "name": "Wang Zijian",
+      "role": "Defendant"
+    }
+  ]
+}
+
