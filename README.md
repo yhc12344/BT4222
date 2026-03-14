@@ -1,3 +1,68 @@
+# ⚖️ Predictor of Singapore Corporate Law Appeals
+
+[cite_start]An end-to-end data mining and deep learning pipeline designed to predict the outcome of Singapore corporate law appeals using a **Verdict-Blind Chain of Reasoning** architecture.
+
+## 🏗 Project Architecture
+
+Our pipeline is structured to ensure that the model learns from the **merits of the dispute** (Facts) before considering **legal arguments** 
+
+```mermaid
+graph TD
+    %% Global Style
+    classDef default fill:#1a1a1a,stroke:#fff,stroke-width:1px,color:#fff;
+    classDef highlight fill:#2d2d2d,stroke:#f96,stroke-width:2px,color:#fff;
+    classDef storage fill:#000,stroke:#fff,stroke-dasharray: 5 5;
+
+    subgraph Acquisition [1. Data Acquisition & Ethics]
+        A[Manual Judgment Retrieval]
+        A1[judiciary.gov.sg / SLW]
+        A2[Robots.txt Compliance Check]
+    end
+
+    subgraph Intelligence [2. Intelligence Hub - GPT-4.1]
+        B{Verdict-Blind Prompting}
+        B --> C[Legal Issue]
+        B --> D[Rules / Citations / Statutes]
+        B --> E[Disputed Facts Pattern]
+        B --> F[Conclusion / Target Label]
+    end
+
+    subgraph Feature_Eng [3. Feature Representation]
+        E --> G[UK-Legal SBERT Embeddings]
+        D --> H[Citation Intensity Scoring]
+        I[Lawyer Tenure / Case Complexity]
+        J[Standard Scaling]
+    end
+
+    subgraph Modeling [4. Chain of Reasoning Model]
+        K[(Structured JSON Store)]
+        L[Phase 1: Learn from Facts Only]
+        M[Phase 2: Integrate Citations & Metadata]
+        N[Final Classifier: Deep MLP]
+    end
+
+    subgraph Validation [5. Performance & Audit]
+        O[Temporal Split: 2010-22 vs 2023-24]
+        P[Metrics: F1 / NDCG / Residual Analysis]
+        Q[Ablation Study]
+    end
+
+    %% Connections
+    A --> A2
+    A2 --> B
+    C & G & H & I --> J
+    J --> K
+    K --> L
+    L --> M
+    M --> N
+    N --> O
+    O --> P
+    P --> Q
+
+    class E,G,L highlight;
+    class K storage;
+```
+
 # Judiciary Scraper
 
 This is a Python script used to automatically scrape judgments from the Singapore Judiciary website based on specified catchwords and years. The newest update downloads the actual PDF files for the cases directly into a local folder.
