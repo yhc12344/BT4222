@@ -4,92 +4,54 @@ An end-to-end legal analytics pipeline that extracts structured legal features f
 
 ## 🏗 Project Architecture
 
-PDF Judgments
-      │
-      ▼
-1. Document Ingestion
-   - Load Singapore court judgment PDFs
-   - Keep case ID / filename / source link
-      │
-      ▼
-2. LLM Extraction
-   - Send judgment text or PDF to GPT-4.1
-   - Extract:
-       • Metadata
-         - Judge
-         - Date
-         - Tribunal/Court
-         - Lawyers
-         - Sector
-       • IRAC
-         - Facts
-         - Issue
-         - Rule
-         - Application
-         - Conclusion
-       • Party-specific rows
-         - one row per plaintiff / defendant discussed
-      │
-      ▼
-3. Structured JSON Dataset
-   - Store each judgment in normalized JSON
-   - Example fields:
-       • case_id
-       • metadata
-       • party_details
-       • facts[]
-       • issue
-       • rule
-       • application
-       • conclusion
-      │
-      ▼
-4. Dataset Validation / Cleaning
-   - Check JSON validity
-   - Remove duplicates
-   - Standardize nulls
-   - Verify facts do not contain verdict leakage
-   - Normalize conclusion labels
-      │
-      ▼
-5. Feature Engineering
-   - Text features
-       • Facts embeddings
-       • Issue embeddings
-       • Rule embeddings
-       • Application embeddings
-   - Categorical features
-       • Court level
-       • Judge
-       • Sector
-       • Lawyer / law firm
-   - Legal citation features
-       • number of precedents cited
-       • statute categories
-   - Target label
-       • Liable / Not Liable
-      │
-      ▼
-6. ML Training Dataset
-   - Convert structured JSON into tabular format
-   - One row = one party-case record
-   - Split into train / validation / test
-      │
-      ▼
-7. ML Model
-   - Baselines:
-       • Logistic Regression
-       • Random Forest
-       • XGBoost
-   - Text-based models:
-       • TF-IDF + classifier
-       • Legal-BERT embeddings + classifier
-      │
-      ▼
-8. Prediction Output
-   - Predicted case outcome
-   - Probability score
-   - Important contributing features
+## 🛠 Technical Pipeline Architecture
+
+This project implements a multi-stage pipeline to transform unstructured judicial "Grounds of Decisions" into a predictive legal-tech engine.
+
+```mermaid
+graph TD
+    %% Global Style
+    classDef default fill:#1a1a1a,stroke:#fff,stroke-width:1px,color:#fff;
+    classDef highlight fill:#2d2d2d,stroke:#f96,stroke-width:2px,color:#fff;
+    classDef storage fill:#000,stroke:#fff,stroke-dasharray: 5 5;
+
+    %% Workflow
+    A[PDF Judgments] --> B[1. Document Ingestion]
+    B --> C[2. LLM Extraction - GPT-4.1]
+    
+    subgraph Extraction_Logic [Extraction Schema]
+        C --> C1[Metadata: Judge, Date, Tribunal]
+        C --> C2[IRAC: Facts, Issue, Rule, Application]
+        C --> C3[Party-Specific Row Generation]
+    end
+
+    C1 & C2 & C3 --> D[(3. Structured JSON Dataset)]
+    
+    D --> E[4. Validation & Cleaning]
+    E --> F[5. Feature Engineering]
+
+    subgraph Feature_Types [Feature Vectors]
+        F --> F1[Text: SBERT/Legal-BERT Embeddings]
+        F --> F2[Categorical: Court, Sector, Lawyer]
+        F --> F3[Legal Citations: Precedent Counts]
+    end
+
+    F1 & F2 & F3 --> G[6. ML Training Dataset]
+    G --> H[7. ML Model Training]
+
+    subgraph Model_Suite [Model Architectures]
+        H --> H1[Logistic Regression Baseline]
+        H --> H2[XGBoost / Random Forest]
+        H --> H3[Deep MLP]
+        H --> H4[Any other]
+    end
+
+    H1 & H2 & H3 --> I[8. Prediction Output]
+
+    %% Styles
+    class C,F,H highlight;
+    class D storage;
+```
 
 ## Prerequisites
 
