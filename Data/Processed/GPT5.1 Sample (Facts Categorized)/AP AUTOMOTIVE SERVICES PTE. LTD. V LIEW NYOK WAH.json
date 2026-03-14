@@ -1,0 +1,502 @@
+[
+  {
+    "Metadata": {
+      "Judge": "Hri Kumar Nair",
+      "Date": "2024-09-25",
+      "Hearing_Duration": null,
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore",
+      "Sector": "Corporate / Shareholder Dispute",
+      "Lawyers": [
+        "Yeo Lai Hock Nichol",
+        "Qua Bi Qi",
+        "Andrew Ong",
+        "Ow Yong Wei En James",
+        "Madeline Chan Yuen Hun"
+      ]
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "AP Automotive Services Pte Ltd",
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "Three long-term friends decided to embark on an entrepreneurial journey together."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "They incorporated a company and each was a shareholder in almost equal proportions."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "The claimant, AP Automotive Services Pte Ltd, is referred to in the judgment as the Company."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "The Company has three shareholders: the defendant, Liew Nyok Wah, Mr Teo Ying Ping, and Mr Ho Siow Poh."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Mr Ho held the position of Managing Director of the Company and was its sole director on record."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Text": "The Company was incorporated on 5 August 2020 with a paid-up capital of $100,000."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "Upon incorporation, Mr Teo and Mr Liew each held 33% of the Company’s shares, while Mr Ho held the remaining 34%."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Shortly after the Company’s incorporation, Ms Liew Shulin Mrs Alexander Chong, the daughter of Mr Liew, joined the Company and was involved in its finance and business operations."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "In 2021, Mr Marcus Teo Xian Jun, the son of Mr Teo, joined the Company and was subsequently appointed its Chief Financial Officer."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "Throughout the life of the Company, Mr Teo and Mr Liew contributed funds towards the Company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "At the inception of the Company, Mr Teo and Mr Liew contributed their personal funds."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "Later, some of the financial contributions to the Company were made by procuring loans from third parties to themselves with an onward transfer of funds to the Company, or by procuring loans directly to the Company."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "The judge used the term “contributions” loosely to refer to both capital injections and loans."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Text": "In or around May 2023, disagreements over the funding arrangements of the Company caused the shareholders to fall out."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "The Company commenced this action against Mr Liew on 25 July 2023."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Text": "On 27 July 2023, around the same time as the commencement of the action, the Company terminated the employment of Ms Liew."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "At trial, Mr Ho, Mr Teo and Mr Marcus Teo gave evidence on behalf of the Company."
+        },
+        {
+          "Fact_Type": "ISSUE",
+          "Text": "The dispute among the shareholders particularly concerned the Company’s funding and whether the shareholders agreed to make financial contributions by way of capital injections or whether the contributions were loans tethered by expectations of repayment."
+        },
+        {
+          "Fact_Type": "CONTRACTUAL_BASE",
+          "Text": "The Company’s pleaded action against Mr Liew was premised on an alleged agreement between Mr Ho, Mr Teo and Mr Liew that Mr Teo and Mr Liew would fund the Company with matching, dollar-to-dollar capital injections, referred to as the Agreement."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The Company alleged that Mr Liew breached the Agreement by procuring third parties to provide loans to the Company instead of injecting his own funds as capital."
+        },
+        {
+          "Fact_Type": "FIDUCIARY_CONDUCT",
+          "Text": "The Company alleged that Mr Liew, as a de facto or shadow director, breached his fiduciary duties by causing the Company to repay third-party loans, thereby prejudicing its financial ability to continue its business and causing loss."
+        },
+        {
+          "Fact_Type": "CONTRACTUAL_BASE",
+          "Text": "The Company’s pleaded case was that the agreement to fund the Company was entered into between the three shareholders and not with the Company itself."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "There was nothing in writing to evidence the alleged Agreement for matching capital injections."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "The judge found that the evidence in support of the alleged Agreement was weak, including unclear and inconsistent evidence from Mr Ho."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The Company’s financial statements and its filings with the Accounting and Corporate Regulatory Authority showed that its share capital remained at $100,000."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "The Company’s internal accounting records and financial statements recorded funds provided by Mr Teo and Mr Liew as “Loan[s] from Director[s]”."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "Ms Liew regularly prepared a “loan sheet” shared in the “AP Accounting Department” WhatsApp chatgroup, which included Mr Teo and Mr Marcus Teo, where monies received were recorded with headers such as “Date of Loan”, “Expiry Date of Loan” and “Loan interest/month”."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "The Company’s most updated accounts tendered in court, which it intended to adopt at its Annual General Meeting, reflected the amounts owed to Mr Liew and Mr Teo as loans."
+        },
+        {
+          "Fact_Type": "CONTRACTUAL_BASE",
+          "Text": "In its closing submissions, the Company changed its case and argued for a different arrangement called the Matching Dollar Agreement, under which Mr Teo and Mr Liew were to fund the Company on a dollar-to-dollar basis regardless of the source of funds."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "In advancing the Matching Dollar Agreement, the Company accepted that none of the shareholders truly thought about or agreed on whether Mr Liew’s and Mr Teo’s funding to support the Company was to be debt or equity."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "The judge found that the contributions by Mr Teo and Mr Liew appeared to have been made in a voluntary, ad hoc manner rather than pursuant to a strict matching obligation."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "The judge found that at most there was an expectation or understanding among the shareholders that Mr Teo and Mr Liew were to fund the Company to the best of their ability, but not a legal obligation."
+        },
+        {
+          "Fact_Type": "CONTRACTUAL_BASE",
+          "Text": "The Company sought to imply a term that Mr Liew and Mr Teo were only entitled to withdraw their funding once the Company turned a profit or so long as the Company remained sufficiently funded."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "The judge found that the Company had made repayments to the shareholders even when it required funding and had accrued losses, including repayments to Mr Teo and repayments of loans associated with Mr Liew."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "The Company pleaded various heads of loss, including losses due to interest rate differences, a fire sale of the Company’s assets, loss of use of funds, payment of retainer fees, and a loan to Chris Eng."
+        },
+        {
+          "Fact_Type": "DAMAGES_FACT",
+          "Text": "The Company claimed losses due to the difference between the interest rate for third-party loans associated with Mr Liew and the interest rate allegedly applicable to shareholders’ contributions."
+        },
+        {
+          "Fact_Type": "DAMAGES_FACT",
+          "Text": "The Company claimed that it suffered loss because it was allegedly forced to liquidate its fleet of approximately 100 cars via a fire sale to pay back third-party loans associated with Mr Liew."
+        },
+        {
+          "Fact_Type": "DAMAGES_FACT",
+          "Text": "The Company claimed loss due to the loss of use of $1,231,500, being the alleged principal and interest repaid on certain loans, and later confined this to loss of use of $400,000 relating to loans from Tan Bee Hong and Ban Leong."
+        },
+        {
+          "Fact_Type": "DAMAGES_FACT",
+          "Text": "The Company claimed $76,498 as equivalent to monthly retainer fees paid to Jackspeed Automobile (S) Pte Ltd for the period March 2021 to May 2023, which it alleged were wrongfully charged."
+        },
+        {
+          "Fact_Type": "DAMAGES_FACT",
+          "Text": "The Company initially sought damages of $300,000 for a loan made by the Company to one Chris Eng that had apparently not been repaid."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "The Company retained some space at Jackspeed’s Tampines premises after moving its workshop operations to Loyang, including an office unit on the second storey and a room on the first storey, and continued to use Tampines as its registered office until 24 August 2023."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The Company continued to pay a retainer fee to Jackspeed after moving its main operations to Loyang, pursuant to an agreement among the shareholders that there would be a reduction in the fee."
+        },
+        {
+          "Fact_Type": "FIDUCIARY_CONDUCT",
+          "Text": "The Company alleged that Mr Liew failed to prevent Jackspeed from charging the retainer fee and failed to stop the Company from paying it, and characterised this as a breach of fiduciary duty."
+        },
+        {
+          "Fact_Type": "FIDUCIARY_CONDUCT",
+          "Text": "The Company alleged that Mr Liew directed or pressured Mr Ho and the Company to liquidate the Company’s cars to pay off third-party loans associated with him."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "The judge found that the sale of the Company’s fleet of cars was proposed by Mr Marcus Teo as part of a restructuring plan to improve the Company’s finances and that several loans, including loans not associated with Mr Liew, were repaid from the sale proceeds."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "The judge found that the Company’s assertion that the sale of the fleet was effected to pay off the Mengkim loan and other third-party loans associated with Mr Liew was not supported by the evidence."
+        },
+        {
+          "Fact_Type": "FIDUCIARY_CONDUCT",
+          "Text": "The Company alleged that Mr Liew was a de facto or shadow director of the Company and owed fiduciary duties to it."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "The Company maintained that Mr Teo was only a sleeping shareholder despite his active participation in the affairs of the Company."
+        }
+      ],
+      "Issue": "Whether the funds provided by Mr Teo and Mr Liew to AP Automotive Services Pte Ltd were capital injections or loans, whether there was any binding agreement or implied term obliging them to provide matching dollar-to-dollar funding or restricting withdrawal of such funding, and whether Mr Liew, as an alleged de facto or shadow director, breached fiduciary duties by arranging funding structures and repayments that allegedly prejudiced the Company and caused the pleaded heads of loss.",
+      "Rule": "A company can only sue on a contract if it is a party to that contract; shareholder arrangements inter se do not automatically confer standing on the company. The existence of a funding agreement or matching contribution arrangement is a question of fact requiring cogent evidence, including contemporaneous documents and consistent testimony. Characterisation of shareholder funding as debt or equity depends on objective indicators such as documentation, accounting treatment, payment of interest, and repayment conduct. An implied term will only be recognised if it satisfies the usual tests of necessity and obviousness and must be properly pleaded. A director, including a de facto or shadow director, may owe fiduciary duties to act bona fide in the interests of the company and not to misapply company funds, but there is no breach where the director is entitled to repayment of genuine loans and repayments are authorised by the company’s proper organs. Damages must be causally linked to a proven breach and must be supported by coherent evidence and a legally sound method of quantification.",
+      "Application": "The court examined the Company’s pleaded Agreement that the three shareholders would fund the Company with matching capital injections and found no documentary evidence of such an agreement and inconsistent oral evidence from Mr Ho. The Company’s financial statements and ACRA filings consistently showed share capital of only $100,000, and internal records, including loan sheets and accounting entries, treated the funds from Mr Teo and Mr Liew as loans from directors rather than capital. Interest was paid on contributions after the initial $100,000 capital, and the parties agreed that interest would be payable, which was consistent with a loan characterisation. The court noted that Mr Teo himself structured contributions as loans, including a short-term $100,000 loan, a $300,000 loan from Junk Yard Dog Ventures Pte Ltd to the Company, and a hire-purchase arrangement over his car where the Company assumed instalment obligations, effectively repaying his contribution. The Company and Mr Teo accepted or acquiesced in these structures, undermining any case that only capital injections were contemplated. The court found that the shareholders did not enforce any matching obligation when contributions diverged and that the Company and Mr Ho did not object when Mr Liew procured third-party loans such as the Mengkim loan, which Mr Ho accepted as being in the Company’s interests. The later attempt in closing submissions to recast the case as a Matching Dollar Agreement to fund the Company, regardless of source, was unpleaded and inconsistent with the evidence, and the court rejected it. The court held that at most there was a non-binding understanding that Mr Teo and Mr Liew would help fund the Company to the best of their ability. The proposed implied term restricting withdrawal of shareholder funding until profitability or sufficient funding was neither pleaded nor supported by the parties’ conduct, as the Company had made repayments to shareholders and third parties even when it needed funds and had accrued losses. The court distinguished Wee Kah Lee on the basis that that case involved loans for a specific development project with a defined timeframe, whereas here the loans were for general operations with no analogous trigger for repayment. On the alleged breaches of fiduciary duty, the court found that Mr Liew’s contributions were loans and that there was no contractual or implied restriction on their repayment, so he was entitled to be repaid and could not be in breach of fiduciary duty for receiving repayment. The court also found that Mr Ho, as Managing Director, was aware of and approved the repayments, including the Mengkim loan and repayments of loans from Tan Bee Hong and Ban Leong, and that there was no pleaded or proven duress, undue influence, or shadow-director control that would vitiate his decisions. The court rejected the Company’s attempt to rely on alleged pressure by Mr Liew, noting the lack of evidence and inconsistencies in Mr Ho’s account. The court further rejected the narrowed case that Mr Liew breached duties by causing repayment of the loans from Tan Bee Hong and Ban Leong and by directing reclassification of those loans, because the records continued to classify them as loans from a director and Mr Ho knew the funds originated from Mr Liew. On damages, the court held that the claim for losses due to interest rate differences lacked any basis, as interest rates above 8% were agreed and paid to both shareholders and third parties with Mr Ho’s approval. The fire-sale claim was found to be contrived, as the sale of cars began before the relevant loans were due, was proposed by Marcus Teo as part of a restructuring plan, and the proceeds were used to repay various loans, including those associated with Mr Ho and Mr Teo, with no evidence that the sale was forced by Mr Liew. The loss-of-use claim was found to be legally and evidentially unsound, with an incoherent method of quantification and failure to account properly for timing and the Company’s own agreement to repay the loans. The retainer-fee claim against Jackspeed was undermined by evidence that all three shareholders agreed to retain space at the Tampines premises and to continue paying a reduced fee, and there was no basis to treat Mr Liew’s failure to stop payment as a breach of duty. The loan to Chris Eng claim was abandoned and not pursued in evidence. In light of these findings, the court concluded that the Company had not established any contractual or fiduciary basis for its claims against Mr Liew and that its pleaded heads of loss were unsupported.",
+      "Conclusion": "The court concluded that the funds provided by Mr Teo and Mr Liew to AP Automotive Services Pte Ltd, beyond the initial $100,000 paid-up capital, were loans rather than capital injections, that there was no enforceable Agreement or Matching Dollar Agreement obliging them to provide matching capital or restricting withdrawal of their funding, and that there was no implied term preventing repayment until the Company turned a profit or remained sufficiently funded. The court held that Mr Liew was entitled to repayment of his loans and that the Company failed to prove any breach of fiduciary duty by him in relation to the procurement of third-party loans, the repayment of those loans, the sale of the Company’s car fleet, the payment of retainer fees, or the alleged loss of use of funds. The Company’s various heads of damages were found to be misconceived, inadequately pleaded, or unsupported by evidence, and its claim against Mr Liew was dismissed. On the counterclaim, the court held that the Company had no defence to Mr Liew’s claim for repayment of his loans and awarded him judgment for $719,000 together with costs of $150,000 inclusive of disbursements, while reserving the question of whether Mr Teo and Mr Ho should be personally liable for some or all of the Company’s costs to further submissions."
+    }
+  },
+  {
+    "Metadata": {
+      "Judge": "Hri Kumar Nair",
+      "Date": "2024-09-25",
+      "Hearing_Duration": null,
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore",
+      "Sector": "Corporate / Shareholder Dispute",
+      "Lawyers": [
+        "Yeo Lai Hock Nichol",
+        "Qua Bi Qi",
+        "Andrew Ong",
+        "Ow Yong Wei En James",
+        "Madeline Chan Yuen Hun"
+      ]
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Liew Nyok Wah",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "The defendant, Liew Nyok Wah, is one of the three founding shareholders of AP Automotive Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Mr Liew held 33% of the Company’s shares at incorporation."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "Mr Liew was one of three long-term friends who decided to embark on an entrepreneurial venture together by incorporating the Company."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "Mr Liew is the father of Ms Liew Shulin Mrs Alexander Chong, who worked in the Company’s finance and business operations."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "Throughout the life of the Company, Mr Liew contributed funds towards the Company, initially from his personal funds and later through arrangements involving third-party loans."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "Some of Mr Liew’s financial contributions involved procuring loans from third parties either to himself with onward transfer to the Company or directly to the Company."
+        },
+        {
+          "Fact_Type": "FIDUCIARY_CONDUCT",
+          "Text": "The Company alleged that Mr Liew was a de facto or shadow director and owed fiduciary duties to the Company."
+        },
+        {
+          "Fact_Type": "FIDUCIARY_CONDUCT",
+          "Text": "The Company alleged that Mr Liew breached fiduciary duties by causing the Company to repay third-party loans associated with him, thereby prejudicing the Company’s financial position."
+        },
+        {
+          "Fact_Type": "CONTRACTUAL_BASE",
+          "Text": "The Company alleged that Mr Liew agreed with Mr Ho and Mr Teo to fund the Company with matching, dollar-to-dollar capital injections and that he breached this Agreement by using third-party loans instead of his own capital."
+        },
+        {
+          "Fact_Type": "CONTRACTUAL_BASE",
+          "Text": "In closing submissions, the Company reformulated its case to allege a Matching Dollar Agreement under which Mr Liew and Mr Teo would fund the Company on a dollar-to-dollar basis regardless of the source of funds."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "In a recorded meeting on 2 May 2023, Mr Liew appeared to acknowledge that there was an arrangement with Mr Teo under which each would match the other’s funding one-to-one, although he later sought to resile from this under cross-examination."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "In the same recorded discussion, Mr Teo and Mr Liew discussed a possible buy-out of each other for a sum between $500,000 and $700,000."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "In the Mandarin discussion recorded on 2 May 2023, Mr Liew used a term translated as “capital”, and he later maintained that the word could also mean “principal sum” and referred to the principal of his loans to the Company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The Company’s internal accounting records and financial statements recorded funds provided by Mr Liew as “Loan from Director”."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "A Creditors Confirmation Request dated 9 January 2023, signed by Mr Ho, confirmed that the Company owed Mr Liew $1.03 million as at 31 July 2022."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The Company’s most updated accounts tendered in court reflected amounts owed to Mr Liew as loans, and these accounts were intended to be adopted at the Company’s Annual General Meeting."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The Company’s accounting records showed that loans from certain third parties, including Mengkim Holdings Pte Ltd and Junk Yard Dog Ventures Pte Ltd, were reclassified as external loans, while loans from individuals such as Tan Bee Hong and Ban Leong remained under “Loan from Director”."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The Company alleged that Mr Liew procured a $500,000 loan from Mengkim Holdings Pte Ltd to the Company, which carried an interest rate of 10% per annum."
+        },
+        {
+          "Fact_Type": "AUTHORITY_FACT",
+          "Text": "Mr Ho, as Managing Director, entered into the loan agreement with Mengkim Holdings Pte Ltd on behalf of the Company and testified that he did so because it was in the Company’s best interests."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The Company alleged that Mr Liew procured loans from third parties including Tan Bee Hong and Ban Leong, which were then repaid by the Company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The Company’s internal loan sheets, prepared by Ms Liew, recorded loans associated with Mr Liew and third parties, including details such as dates and interest rates."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "The Company alleged that Mr Ho and Mr Teo were put under pressure by Mr Liew to approve repayments of loans associated with him, although no specific evidence of duress or undue influence was pleaded or proved."
+        },
+        {
+          "Fact_Type": "FIDUCIARY_CONDUCT",
+          "Text": "The Company alleged that Mr Liew directed or pressured Mr Ho and the Company to liquidate the Company’s fleet of cars via a fire sale to pay off third-party loans associated with him."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The Company alleged that Mr Liew failed to prevent Jackspeed Automobile (S) Pte Ltd from charging a retainer fee to the Company and failed to stop the Company from paying that fee after the Company moved its main operations to Loyang."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "The Company alleged that Mr Ho’s attitude towards Mr Liew changed from August 2021 and that Mr Liew would scold, scream and shout at him, although this was not put to Mr Liew in cross-examination."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "The recorded discussion on 2 May 2023 between Mr Liew and Mr Teo indicated that Mr Teo was not intimidated by Mr Liew despite the Company’s allegations of pressure."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "Mr Liew defended the Company’s claim and filed a counterclaim seeking repayment of loans he had made to the Company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "Mr Liew’s counterclaim sought repayment of $719,000, representing the outstanding balance of loans he had provided to the Company."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "The Company did not dispute the quantum of $719,000 claimed by Mr Liew as the outstanding amount of his loans."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Liew maintained that, apart from the initial $100,000 paid-up capital, his contributions to the Company were loans and that he was entitled to repayment with interest."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Liew contended that there was no binding agreement obliging him to match Mr Teo’s contributions as capital or to refrain from using third-party loans to fund the Company."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Liew contended that he did not direct or control Mr Ho’s decisions as Managing Director and that repayments of loans were authorised by Mr Ho in the Company’s interests."
+        }
+      ],
+      "Issue": "Whether, beyond his initial share subscription, Mr Liew’s financial contributions to AP Automotive Services Pte Ltd were properly characterised as loans rather than capital, whether he was bound by any Agreement or Matching Dollar Agreement to provide matching capital or to restrict withdrawal of his funding, whether he owed and breached any fiduciary duties as a de facto or shadow director by procuring third-party loans and their repayment or by influencing asset sales and fee payments, and whether he was entitled to judgment on his counterclaim for repayment of $719,000 in loans to the Company.",
+      "Rule": "The characterisation of shareholder funding as debt or equity depends on objective evidence, including documentation, accounting treatment, payment of interest, and the parties’ conduct, rather than labels used in isolation. A shareholder is not bound by an alleged funding agreement or matching contribution obligation unless such an agreement is clearly proved and, if relied on by the company, the company must be a party to it. An implied term restricting repayment of shareholder loans will only be recognised if it is necessary for business efficacy or so obvious as to go without saying and must be properly pleaded. A person may owe fiduciary duties as a de facto or shadow director if he assumes the functions of a director or if the board is accustomed to act in accordance with his directions, but liability for breach requires proof of both the existence of such duties and a breach causing loss. A lender to a company, including a shareholder-lender, is generally entitled to repayment of genuine loans in accordance with their terms, and repayment authorised by the company’s proper organs does not, without more, constitute a breach of fiduciary duty. On a counterclaim for debt, once the existence and quantum of the loans are proved and not disputed, the court will grant judgment for the outstanding amount.",
+      "Application": "The court assessed the nature of Mr Liew’s contributions and found that, apart from the initial $100,000 paid-up capital, his funding was consistently treated in the Company’s records as loans from a director, with corresponding creditor confirmations and loan sheets, and that interest was paid on these sums, which is characteristic of debt rather than equity. The court noted that the Company’s own accounts, including the most recent accounts intended for adoption at the AGM, recorded amounts owed to Mr Liew as loans, and that these entries were made before any dispute arose, undermining the suggestion that they were manipulated to favour him. The court considered the alleged Agreement and Matching Dollar Agreement and found no written evidence or consistent oral testimony to support a binding obligation on Mr Liew to provide matching capital or to refrain from using third-party loans. The court observed that Mr Teo himself structured his contributions as loans, including a short-term $100,000 loan, a $300,000 loan from Junk Yard Dog Ventures Pte Ltd, and a hire-purchase arrangement over his car where the Company assumed instalments, and that the shareholders did not enforce any matching obligation when contributions diverged. The court held that the Company’s attempt in closing submissions to recast the arrangement as a Matching Dollar Agreement was unpleaded and inconsistent with the evidence, and that at most there was a non-binding understanding that Mr Teo and Mr Liew would help fund the Company. On the alleged implied term restricting withdrawal of funding until profitability or sufficient funding, the court found that it was not pleaded and was contradicted by the parties’ conduct, including the Company’s repayment of sums to Mr Teo and Mr Liew and its acceptance of repayments of third-party loans without requiring replacement funding. Regarding fiduciary duties, the court found it unnecessary to decide definitively whether Mr Liew was a de facto or shadow director because, even assuming he owed such duties, the Company failed to show any breach. The court held that Mr Liew was entitled to repayment of his loans and that repayments were authorised by Mr Ho as Managing Director, often with Mr Teo’s knowledge, and were not shown to have been procured by duress, undue influence, or any improper exercise of power. The court rejected the Company’s allegations that Mr Liew directed or pressured a fire sale of the Company’s fleet to pay his associated loans, finding instead that the sale was proposed by Marcus Teo as part of a restructuring plan and that proceeds were used to repay various loans, including those associated with Mr Ho and Mr Teo. The court also rejected the claim that Mr Liew breached duties by failing to stop payment of Jackspeed’s retainer fee, noting that all three shareholders agreed to retain space at the Tampines premises and to continue paying a reduced fee. The court found that the Company’s heads of loss, including interest rate differences, loss of use of funds, and alleged fire-sale losses, were either abandoned, legally misconceived, or unsupported by evidence. On the counterclaim, the court accepted that Mr Liew’s contributions were loans and noted that the Company did not dispute the outstanding sum of $719,000 claimed. There being no valid defence, the court applied ordinary debt principles and held that Mr Liew was entitled to judgment for that amount.",
+      "Conclusion": "The court determined that, save for his initial share subscription, Mr Liew’s financial contributions to AP Automotive Services Pte Ltd were loans rather than capital, that there was no enforceable Agreement or Matching Dollar Agreement obliging him to provide matching capital or restricting his ability to use third-party loans or to receive repayment, and that no implied term limiting repayment could be read into the parties’ arrangements. Assuming without deciding that he was a de facto or shadow director, the court held that Mr Liew did not breach any fiduciary duties by procuring third-party loans, receiving repayment of his loans, or in relation to the sale of the Company’s cars or the payment of Jackspeed’s retainer fee, because these transactions were authorised by the Company’s management and were not shown to be improper. The Company’s claims against Mr Liew were therefore dismissed. On his counterclaim, the court held that the Company had no defence to Mr Liew’s claim for repayment of his loans and entered judgment in his favour for $719,000, together with an award of $150,000 in costs inclusive of disbursements, while leaving open for further argument whether Mr Teo and Mr Ho should bear personal liability for some or all of the Company’s costs."
+    }
+  },
+  {
+    "Metadata": {
+      "Judge": "Hri Kumar Nair",
+      "Date": "2024-09-25",
+      "Hearing_Duration": null,
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore",
+      "Sector": "Corporate / Shareholder Dispute",
+      "Lawyers": [
+        "Yeo Lai Hock Nichol",
+        "Qua Bi Qi",
+        "Andrew Ong",
+        "Ow Yong Wei En James",
+        "Madeline Chan Yuen Hun"
+      ]
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Liew Nyok Wah",
+      "Facts": [
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "In the same proceedings, Mr Liew is the claimant in counterclaim against AP Automotive Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "By his counterclaim, Mr Liew sought repayment of loans he had made to the Company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The amount claimed by Mr Liew in his counterclaim was $719,000, representing the outstanding balance of his loans to the Company."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "The Company did not dispute the quantum of $719,000 pleaded by Mr Liew as the outstanding amount of his loans."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The Company’s accounting records and a Creditors Confirmation Request signed by Mr Ho confirmed that substantial sums were owed by the Company to Mr Liew as loans."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The Company’s most recent accounts tendered in court, which it intended to adopt at its Annual General Meeting, recorded the amounts owed to Mr Liew as loans."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "In support of his counterclaim, Mr Liew maintained that his contributions to the Company, apart from the initial paid-up capital, were loans and that he was entitled to repayment."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Liew contended that there was no binding agreement obliging him to provide matching capital contributions or to leave his funds in the Company until it became profitable."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Liew contended that he did not owe or breach any fiduciary duty that would disentitle him to repayment of his loans."
+        }
+      ],
+      "Issue": "Whether, on his counterclaim, Mr Liew had established that the sums he advanced to AP Automotive Services Pte Ltd were loans repayable by the Company and whether there was any valid defence to his claim for repayment of the outstanding amount of $719,000.",
+      "Rule": "A claimant on a counterclaim for debt must prove the existence of the loans, the debtor’s obligation to repay, and the outstanding balance. Where the debtor does not dispute the quantum or the loan characterisation and no legal defence such as set-off, illegality, or breach of duty is made out, the court will enter judgment for the amount claimed. Allegations that the lender breached fiduciary duties or funding agreements do not, without proof of such breaches and a legal basis for withholding repayment, defeat a straightforward debt claim.",
+      "Application": "The court found, based on the Company’s own accounting records, creditor confirmations, and financial statements, that the funds advanced by Mr Liew to the Company, beyond his initial share subscription, were treated as loans and that the Company acknowledged owing him substantial sums. The Company did not dispute the specific figure of $719,000 pleaded by Mr Liew as the outstanding balance of his loans. The court had already rejected the Company’s case that there was an enforceable Agreement or Matching Dollar Agreement that would recharacterise these sums as capital or restrict their repayment, and it had also rejected the Company’s allegations that Mr Liew breached fiduciary duties in relation to the funding and repayment arrangements. In the absence of any pleaded or proven defence that could lawfully justify non-payment, the court applied ordinary principles of debt recovery and concluded that the Company was obliged to repay the outstanding loans claimed by Mr Liew.",
+      "Conclusion": "The court held that Mr Liew had established his counterclaim for repayment of loans and that AP Automotive Services Pte Ltd had no valid defence to the outstanding amount. Judgment was entered in favour of Mr Liew on his counterclaim for $719,000, together with an award of $150,000 in costs inclusive of disbursements, while the question of whether any of the Company’s officers or shareholders should bear personal liability for costs was left to be determined after further submissions."
+    }
+  },
+  {
+    "Metadata": {
+      "Judge": "Hri Kumar Nair",
+      "Date": "2024-09-25",
+      "Hearing_Duration": null,
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore",
+      "Sector": "Corporate / Shareholder Dispute",
+      "Lawyers": [
+        "Yeo Lai Hock Nichol",
+        "Qua Bi Qi",
+        "Andrew Ong",
+        "Ow Yong Wei En James",
+        "Madeline Chan Yuen Hun"
+      ]
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "AP Automotive Services Pte Ltd",
+      "Facts": [
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "In the counterclaim, AP Automotive Services Pte Ltd is the defendant in counterclaim brought by Mr Liew."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "AP Automotive Services Pte Ltd is a Singapore-incorporated company with three shareholders, namely Mr Ho Siow Poh, Mr Teo Ying Ping, and Mr Liew Nyok Wah."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "At incorporation, the Company had a paid-up capital of $100,000, with Mr Teo and Mr Liew each holding 33% and Mr Ho holding 34%."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Mr Ho is the Managing Director and sole recorded director of the Company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The Company received funds from its shareholders, including Mr Liew, which were recorded in its accounting records and financial statements as loans from directors."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The Company’s internal loan sheets and accounting records tracked loans from and associated with Mr Liew, including loans from third parties that he procured."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "A Creditors Confirmation Request dated 9 January 2023, signed on behalf of the Company by Mr Ho, confirmed that the Company owed $1.03 million to Mr Liew as at 31 July 2022."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The Company’s most recent accounts tendered in court, which it intended to adopt at its Annual General Meeting, recorded amounts owed to Mr Liew as loans."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "In defending the counterclaim, the Company relied on its allegations that Mr Liew had breached an Agreement or Matching Dollar Agreement and fiduciary duties, and argued that he should not be entitled to repayment of his loans."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "The Company alleged that repayments to Mr Liew and to third-party lenders associated with him were wrongful and caused it loss."
+        }
+      ],
+      "Issue": "Whether AP Automotive Services Pte Ltd, as defendant in counterclaim, had any valid contractual, equitable, or fiduciary defence to Mr Liew’s claim for repayment of $719,000 in loans recorded in its accounts as owing to him.",
+      "Rule": "A company defending a counterclaim for repayment of loans must show either that the sums are not in fact loans, that they have been repaid or otherwise discharged, or that there is a legal basis such as set-off, illegality, or breach of duty that justifies withholding payment. Mere allegations that the lender breached duties or funding arrangements, without proof of such breaches and without a pleaded legal mechanism to extinguish or suspend the debt, do not defeat a straightforward claim for repayment of acknowledged loans.",
+      "Application": "The court considered the Company’s own documents, including its accounting records, loan sheets, and creditor confirmations, which consistently treated the sums advanced by Mr Liew as loans and acknowledged that substantial amounts remained outstanding. The Company did not dispute the specific figure of $719,000 claimed by Mr Liew as the outstanding balance. The court had already rejected the Company’s case that there was an enforceable Agreement or Matching Dollar Agreement that would recharacterise these sums as capital or impose restrictions on repayment, and it had found no proven breach of fiduciary duty by Mr Liew that could provide a defence to repayment. The Company did not plead or prove any set-off, illegality, or other legal ground that would extinguish or suspend its obligation to repay the loans. In these circumstances, the court held that the Company had no substantive defence to the counterclaim.",
+      "Conclusion": "The court concluded that AP Automotive Services Pte Ltd, as defendant in counterclaim, had no valid defence to Mr Liew’s claim for repayment of $719,000 in loans recorded as owing to him in its own accounts and creditor confirmations. Judgment was therefore entered against the Company on the counterclaim for $719,000, and the Company was ordered to pay costs of $150,000 inclusive of disbursements, subject to further argument on whether any of its officers or shareholders should bear personal liability for some or all of those costs."
+    }
+  }
+]

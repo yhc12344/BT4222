@@ -1,0 +1,166 @@
+[
+  {
+    "Metadata": {
+      "Judge": "Judith Prakash J",
+      "Date": "2015-05-29",
+      "Hearing_Duration": null,
+      "Tribunal_Court": "High Court of Singapore",
+      "Sector": "Real Estate",
+      "Lawyers": [
+        "Adrian Tan",
+        "Yeoh Jean Wern",
+        "Troy Yeo"
+      ]
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "H.A. & Chung Partnership (first defendant - settled)",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "The first defendant, H.A. & Chung Partnership, was a law firm sued by Australian Property Group Pte Ltd in this action."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "The first defendant settled the claim brought against it by Australian Property Group Pte Ltd before trial of the issues concerning the second and third defendants."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "Australian Property Group Pte Ltd’s claim against the second defendant for legal fees paid on his behalf was to be reduced to the extent that the company had already recovered those fees from the first defendant."
+        }
+      ],
+      "Issue": "What relevance the first defendant’s settlement had to the remaining claims against the second and third defendants, particularly in relation to recovery of legal fees paid on behalf of Mr Niven.",
+      "Rule": "Where a plaintiff has recovered sums from one party in respect of a particular head of loss, any overlapping claim against another party for the same loss must be reduced to avoid double recovery.",
+      "Application": "The court noted that some of the legal fees paid by Australian Property Group Pte Ltd on behalf of Mr Niven had been recovered from the first defendant pursuant to its settlement, and therefore any liability of Mr Niven to reimburse those fees had to be reduced by the amount already recovered from the law firm.",
+      "Conclusion": "The settlement with the first defendant did not affect the liability of the second and third defendants generally, but any sums already recovered from the first defendant in respect of legal fees were to be deducted from the amounts recoverable from the second defendant under that head of claim."
+    }
+  },
+  {
+    "Metadata": {
+      "Judge": "Judith Prakash J",
+      "Date": "2015-05-29",
+      "Hearing_Duration": null,
+      "Tribunal_Court": "High Court of Singapore",
+      "Sector": "Real Estate",
+      "Lawyers": [
+        "Adrian Tan",
+        "Yeoh Jean Wern",
+        "Troy Yeo"
+      ]
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Wang Zijian (also known as James Wang)",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "The third defendant, Mr Wang Zijian, also known as James Wang, was a director and shareholder of Australian Property Group Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "Prior to December 2008, Mr Wang worked with Mr Sean Colville Niven at JL Property Group Pte Ltd in the business of selling Australian properties."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Text": "In December 2008, Mr Wang and Mr Niven decided to start their own company to sell Australian properties and resigned from JL Property Group Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "Mr Wang’s godfather, Mr Goh Cheng Liang, agreed to provide a $900,000 loan as start-up capital for the new company formed by Mr Wang and Mr Niven."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "On incorporation of Australian Property Group Pte Ltd, Mr Wang was allotted 160,000 ordinary shares."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Mr Wang admitted in court that he never paid for the 160,000 shares allotted to him in Australian Property Group Pte Ltd."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Within Australian Property Group Pte Ltd, Mr Wang held the position of sales manager."
+        },
+        {
+          "Fact_Type": "AUTHORITY_FACT",
+          "Text": "As an executive director, Mr Wang initially shared control of the day-to-day operations of Australian Property Group Pte Ltd with Mr Niven."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "In February 2009, Mr Wang and Mr Niven opened a joint current account with United Overseas Bank Ltd, into which funds from Australian Property Group Pte Ltd were regularly transferred."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Funds transferred from Australian Property Group Pte Ltd to the joint account of Mr Wang and Mr Niven could be used by them without further reference to the non-executive directors."
+        },
+        {
+          "Fact_Type": "CONTRACTUAL_BASE",
+          "Text": "Under the September Agreement, Mr Wang’s liability for unpaid share capital in Australian Property Group Pte Ltd was recorded as $160,000."
+        },
+        {
+          "Fact_Type": "CONTRACTUAL_BASE",
+          "Text": "The October Agreement provided that Mr Wang would resign as a director of Australian Property Group Pte Ltd and transfer all his shares except for 10% retained in his hands to Ms Lim."
+        },
+        {
+          "Fact_Type": "CONTRACTUAL_BASE",
+          "Text": "The October Agreement stated that upon settlement Mr Wang would have no liability to Australian Property Group Pte Ltd from a compliance perspective and would owe nothing to the company excluding personal tax liabilities."
+        },
+        {
+          "Fact_Type": "CONTRACTUAL_BASE",
+          "Text": "In his counterclaim, Mr Wang sought $25,000 as unpaid monthly salary for five months from October 2010 to February 2011, reimbursement of $3,000 mobile phone charges, and $53,472 or A$41,775 as his share of Back End Commission, all pursuant to the September Agreement."
+        },
+        {
+          "Fact_Type": "CONTRACTUAL_BASE",
+          "Text": "Mr Wang also sought an account of payments of the Back End Commission under the September Agreement in his counterclaim."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "The defendants pleaded that cheque payments made from incorporation until 7 November 2009 were authorised, approved or endorsed by Mr Niven, Mr Wang and at least one non-executive director."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "The defendants pleaded that cheque payments made from 8 December 2009 onwards were signed and authorised or approved by at least two out of three directors, including Mr Wang."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "The defendants pleaded that payments for Mr Niven’s personal expenses were permitted and authorised by Australian Property Group Pte Ltd’s directors and shareholders as part of his employment package under an Oral Agreement."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "The defendants pleaded that payments to Mr Niven were authorised pursuant to a mode of practice for approval and authorisation of payments and use of company funds referred to as the Account Practice."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "The defendants contended that it did not matter whether payments were for Mr Niven’s personal expenses so long as they were made with the knowledge and consent of the directors at the time."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "The defendants alleged that the September and October Agreements constituted a full and final settlement of all claims and liabilities owing by them to Australian Property Group Pte Ltd, including unpaid share capital."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Text": "From May 2010, Mr Wang was in Malaysia and was no longer involved in the daily operations or management matters of Australian Property Group Pte Ltd."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "In his submissions, Mr Wang argued that he did not personally incur or spend any of the expenses alleged to be unauthorised and that he was merely one of three directors who had approved expenses together with the others."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Wang contended that any responsibility for the alleged unauthorised expenses should lie with Ms Lim and Mr Niven rather than with him."
+        },
+        {
+          "Fact_Type": "FIDUCIARY_CONDUCT",
+          "Text": "The court considered that as a director, Mr Wang owed a fiduciary duty to ensure that Australian Property Group Pte Ltd’s money was only paid out for proper purposes in its interests."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The court found that funds from Australian Property Group Pte Ltd were regularly transferred into the joint account of Mr Wang and Mr Niven, giving both access to company-derived funds."
+        }
+      ],
+      "Issue": "Whether Mr Wang Zijian, as an executive director and shareholder of Australian Property Group Pte Ltd, was liable for unpaid share capital and for misapplication of company funds transferred into the joint account with Mr Niven, and whether he could rely on alleged authorisations and the September and October Agreements to avoid liability and support his counterclaim.",
+      "Rule": "Directors are jointly and severally liable to account for company funds they receive or control that are misapplied, even if they do not personally spend the money; a director must ensure that company funds are used only for proper corporate purposes; liability for unpaid share capital attaches to the registered holder of the shares at the time of the call; agreements entered into when a company is insolvent or near insolvency that prefer directors’ interests over creditors’ interests are voidable at the instance of the company; a counterclaim based on an agreement that is voidable for breach of fiduciary duty cannot succeed.",
+      "Application": "The court accepted that there was no allegation that Mr Wang personally benefited from the specific unauthorised payments made directly for Mr Niven’s personal and family expenses, and that after May 2010 he was largely absent from day-to-day management. However, the evidence showed that he and Mr Niven opened a joint account into which company funds were regularly transferred, enabling them to bypass the cheque-signing controls imposed by the non-executive directors. As a joint holder of that account, Mr Wang was obliged to account for all company funds paid into it and to show that they were applied for the company’s purposes. The court held that his liability should be confined to sums paid into the joint account rather than all payments made by the company for Mr Niven’s benefit. On unpaid share capital, Mr Wang admitted that he had never paid for his 160,000 shares, and under the articles and general law he remained liable for the call made while he was the registered holder. The September and October Agreements, which purported to absolve him from liabilities and restructure unpaid capital, were entered into when the company was insolvent or near insolvency and were contrary to creditors’ interests, so they were set aside as voidable and could not relieve him of liability or support his counterclaim for salary, expenses and Back End Commission.",
+      "Conclusion": "The court concluded that Mr Wang Zijian was liable to pay Australian Property Group Pte Ltd $160,000 in respect of unpaid share capital on his 160,000 shares and that he was jointly and severally liable with Mr Niven to account for all company funds paid into their joint account, repaying any sums that could not be shown to have been used for the company’s purposes. The September and October Agreements did not absolve him of these obligations, and his counterclaim based on the September Agreement failed."
+    }
+  }
+]
