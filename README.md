@@ -1,71 +1,95 @@
-# ⚖️ Predictor of Singapore Corporate Law Appeals
+# ⚖️ Predicting Outcomes of Singapore Corporate Law Appeals
 
-[cite_start]An end-to-end data mining and deep learning pipeline designed to predict the outcome of Singapore corporate law appeals using a **Verdict-Blind Chain of Reasoning** architecture.
+An end-to-end legal analytics pipeline that extracts structured legal features from Singapore court judgments using large language models and applies machine learning models to predict appeal outcomes.
 
 ## 🏗 Project Architecture
 
-Our pipeline is structured to ensure that the model learns from the **merits of the dispute** (Facts) before considering **legal arguments** 
-
-```mermaid
-graph TD
-    %% Global Style
-    classDef default fill:#1a1a1a,stroke:#fff,stroke-width:1px,color:#fff;
-    classDef highlight fill:#2d2d2d,stroke:#f96,stroke-width:2px,color:#fff;
-    classDef storage fill:#000,stroke:#fff,stroke-dasharray: 5 5;
-
-    subgraph Acquisition [1. Data Acquisition & Ethics]
-        A[Manual Judgment Retrieval]
-        A1[judiciary.gov.sg / SLW]
-        A2[Robots.txt Compliance Check]
-    end
-
-    subgraph Intelligence [2. Intelligence Hub - GPT-4.1]
-        B{Verdict-Blind Prompting}
-        B --> C[Legal Issue]
-        B --> D[Rules / Citations / Statutes]
-        B --> E[Disputed Facts Pattern]
-        B --> F[Conclusion / Target Label]
-    end
-
-    subgraph Feature_Eng [3. Feature Representation]
-        E --> G[UK-Legal SBERT Embeddings]
-        D --> H[Citation Intensity Scoring]
-        I[Lawyer Tenure / Case Complexity]
-        J[Standard Scaling]
-    end
-
-    subgraph Modeling [4. Chain of Reasoning Model]
-        K[(Structured JSON Store)]
-        L[Phase 1: Learn from Facts Only]
-        M[Phase 2: Integrate Citations & Metadata]
-        N[Final Classifier: Deep MLP]
-    end
-
-    subgraph Validation [5. Performance & Audit]
-        O[Temporal Split: 2010-22 vs 2023-24]
-        P[Metrics: F1 / NDCG / Residual Analysis]
-        Q[Ablation Study]
-    end
-
-    %% Connections
-    A --> A2
-    A2 --> B
-    C & G & H & I --> J
-    J --> K
-    K --> L
-    L --> M
-    M --> N
-    N --> O
-    O --> P
-    P --> Q
-
-    class E,G,L highlight;
-    class K storage;
-```
-
-# Judiciary Scraper
-
-This is a Python script used to automatically scrape judgments from the Singapore Judiciary website based on specified catchwords and years. The newest update downloads the actual PDF files for the cases directly into a local folder.
+PDF Judgments
+      │
+      ▼
+1. Document Ingestion
+   - Load Singapore court judgment PDFs
+   - Keep case ID / filename / source link
+      │
+      ▼
+2. LLM Extraction
+   - Send judgment text or PDF to GPT-4.1
+   - Extract:
+       • Metadata
+         - Judge
+         - Date
+         - Tribunal/Court
+         - Lawyers
+         - Sector
+       • IRAC
+         - Facts
+         - Issue
+         - Rule
+         - Application
+         - Conclusion
+       • Party-specific rows
+         - one row per plaintiff / defendant discussed
+      │
+      ▼
+3. Structured JSON Dataset
+   - Store each judgment in normalized JSON
+   - Example fields:
+       • case_id
+       • metadata
+       • party_details
+       • facts[]
+       • issue
+       • rule
+       • application
+       • conclusion
+      │
+      ▼
+4. Dataset Validation / Cleaning
+   - Check JSON validity
+   - Remove duplicates
+   - Standardize nulls
+   - Verify facts do not contain verdict leakage
+   - Normalize conclusion labels
+      │
+      ▼
+5. Feature Engineering
+   - Text features
+       • Facts embeddings
+       • Issue embeddings
+       • Rule embeddings
+       • Application embeddings
+   - Categorical features
+       • Court level
+       • Judge
+       • Sector
+       • Lawyer / law firm
+   - Legal citation features
+       • number of precedents cited
+       • statute categories
+   - Target label
+       • Liable / Not Liable
+      │
+      ▼
+6. ML Training Dataset
+   - Convert structured JSON into tabular format
+   - One row = one party-case record
+   - Split into train / validation / test
+      │
+      ▼
+7. ML Model
+   - Baselines:
+       • Logistic Regression
+       • Random Forest
+       • XGBoost
+   - Text-based models:
+       • TF-IDF + classifier
+       • Legal-BERT embeddings + classifier
+      │
+      ▼
+8. Prediction Output
+   - Predicted case outcome
+   - Probability score
+   - Important contributing features
 
 ## Prerequisites
 
