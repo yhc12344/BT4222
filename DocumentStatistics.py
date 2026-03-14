@@ -3,7 +3,7 @@ import re
 import fitz
 import numpy as np
 
-folder = os.path.join("Data", "PDFs")
+folder = os.path.join("Data", "PDFs", "ALL")
 
 word_counts = []
 sentence_counts = []
@@ -33,6 +33,7 @@ print("Min words:", min(word_counts))
 print("Max words:", max(word_counts))
 print("Mean words:", int(np.mean(word_counts)))
 print("Median words:", int(np.median(word_counts)))
+
 
 print()
 
