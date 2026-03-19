@@ -8,57 +8,38 @@ This project implements a multi-stage pipeline to transform unstructured judicia
 
 ```mermaid
 graph TD
-    %% Global Styling
-    classDef default fill:#1a1a1a,stroke:#fff,stroke-width:1px,color:#fff;
-    classDef highlight fill:#2d2d2d,stroke:#f96,stroke-width:2px,color:#fff;
-    classDef storage fill:#000,stroke:#fff,stroke-dasharray: 5 5;
-    classDef intelligence fill:#2d2d2d,stroke:#bbf,stroke-width:2px,color:#fff;
-
-    %% 1. Acquisition
-    A([PDF Judgments]) --> B[1. Document Ingestion]
-
-    %% 2. Intelligence
-    subgraph Intelligence_Layer [2. Intelligence & Structuring]
-        B --> C{GPT-5.1 Engine}
-        C --> C1[Metadata: Judge, Date, Court]
-        C --> C2[IRAC: Facts, Issue, Rule, Application]
-        C --> C3[Party-Specific Row Generation]
+    subgraph "1. Input Features (X)"
+    Meta[Metadata: Judge, Court, Sector]
+    Facts[Fact Array: F1, F2, ... Fn]
+    IssueRule[Issue I + Rule R]
     end
 
-    %% 3. Storage
-    C1 & C2 & C3 --> D[(3. Structured JSON Dataset)]
-
-    %% 4. Tabular Construction
-    D --> E[4. Dataset Construction <br/>JSON to Training Table]
-
-    %% 5. Audit Layer
-    subgraph Validation_Layer [5. Substantive Audit]
-        E --> F[Leakage Removal]
-        F --> F1[Schema Validation]
-        F1 --> F2[Verdict-Blind Check]
+    subgraph "2. Feature Transformation"
+    Meta --> Meta_Emb[Entity Embedding / One-Hot]
+    Facts --> Fact_Emb[Legal-BERT Embedding]
+    Fact_Emb --> Fact_Seq[Hierarchical Encoder: LSTM/Transformer]
+    IssueRule --> IR_Emb[Rule Vectorization]
     end
 
-    %% 6. Feature Engineering
-    subgraph Feature_Layer [6. Feature Engineering]
-        F2 --> G1[Text Embeddings: <br/>SBERT / Legal-BERT]
-        F2 --> G2[Categorical Metadata: <br/>Court, Sector, Lawyer]
-        F2 --> G3[Citation Features: <br/>Precedent Counts]
+    subgraph "3. FIRA-Fusion Model"
+    Fact_Seq --> CrossAttn[Rule-to-Fact Cross-Attention]
+    IR_Emb --> CrossAttn
+    CrossAttn --> Concat[Feature Concatenation Layer]
+    Meta_Emb --> Concat
+    Concat --> Dense[Deep Neural Network Layers]
     end
 
-    %% 7. Modeling
-    subgraph Model_Suite [7. ML Model Training]
-        G1 & G2 & G3 --> H1[Logistic Regression Baseline]
-        G1 & G2 & G3 --> H2[Random Forest / XGBoost]
-        G1 & G2 & G3 --> H3[Deep Neural Network - Topic 6]
+    subgraph "4. Prediction (y)"
+    Dense --> Softmax[Softmax Classifier]
+    Softmax --> Out[Outcome Probability: 0 to 1]
     end
 
-    %% 8. Output
-    H1 & H2 & H3 --> I([8. Prediction Output])
+    F_Label[Conclusion Label] -.->|Ground Truth for Training| Softmax
 
-    %% Node Assignments
-    class C intelligence;
-    class F,F1,F2 highlight;
-    class D storage;
+    style Meta fill:#e1f5fe,stroke:#01579b
+    style Facts fill:#e8f5e9,stroke:#2e7d32
+    style IssueRule fill:#fff3e0,stroke:#e65100
+    style Softmax fill:#fce4ec,stroke:#880e4f
 ```
 
 ## Prerequisites
