@@ -1,0 +1,606 @@
+[
+  {
+    "Metadata": {
+      "Judge": "Hri Kumar Nair",
+      "Date": "2024-09-25",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore",
+      "Sector": "Corporate / Directors' duties / Shareholder funding dispute",
+      "Lawyers": [
+        "Yeo Lai Hock Nichol",
+        "Qua Bi Qi",
+        "Andrew Ong",
+        "Ow Yong Wei En James",
+        "Madeline Chan Yuen Hun"
+      ]
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "AP Automotive Services Pte Ltd",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "AP Automotive Services Pte Ltd is a Singapore-incorporated company with three shareholders, namely Liew Nyok Wah, Teo Ying Ping and Ho Siow Poh."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Text": "AP Automotive Services Pte Ltd was incorporated on 5 August 2020 with a paid-up capital of $100,000."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "Upon incorporation, AP Automotive Services Pte Ltd had a shareholding structure in which Mr Teo and Mr Liew each held 33% of the shares and Mr Ho held 34%."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "Mr Ho was the Managing Director and the sole director on record of AP Automotive Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "The three shareholders of AP Automotive Services Pte Ltd, namely Mr Ho, Mr Teo and Mr Liew, were long-term friends before starting the company."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Text": "Shortly after the incorporation of AP Automotive Services Pte Ltd in 2020, Ms Liew Shulin, the daughter of Mr Liew, joined the company and was involved in finance and business operations."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Text": "In 2021, Mr Teo's son, Mr Marcus Teo, joined AP Automotive Services Pte Ltd and was subsequently appointed its Chief Financial Officer."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "Throughout the life of AP Automotive Services Pte Ltd, Mr Teo and Mr Liew provided funds to the company using their personal funds and by procuring loans from third parties either to themselves with onward transfer to the company or directly to the company."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Text": "In or around May 2023, disagreements over the funding arrangements of AP Automotive Services Pte Ltd arose among the shareholders."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd commenced Originating Claim No 475 of 2023 against Mr Liew on 25 July 2023."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Text": "On 27 July 2023, the employment of Ms Liew with AP Automotive Services Pte Ltd was terminated."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "At trial, evidence on behalf of AP Automotive Services Pte Ltd was given by Mr Ho, Mr Teo and Mr Marcus Teo."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "The pleaded action by AP Automotive Services Pte Ltd against Mr Liew included an allegation of an agreement that Mr Teo and Mr Liew would fund the company with matching dollar-to-dollar capital injections."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The Statement of Claim (Amendment No. 1) dated 16 October 2023 pleaded that there was an agreement between the three shareholders for matching capital injections."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The Further and Better Particulars of the Statement of Claim dated 27 September 2023 contained a table describing alleged capital contributions by Mr Teo and Mr Liew."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The accounting records and financial statements of AP Automotive Services Pte Ltd recorded funds provided by Mr Teo and Mr Liew as 'Loan from Director' or 'Loans from Directors'."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "AP Automotive Services Pte Ltd's filings with the Accounting and Corporate Regulatory Authority showed its share capital remained at $100,000 during the relevant period."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "Interest was paid by AP Automotive Services Pte Ltd on contributions from Mr Teo and Mr Liew only after their initial injection of $100,000 for paid-up capital."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "In a WhatsApp message, Mr Teo informed Ms Liew that he had passed a cheque for $100,000 dated 1 April 2021 to Mr Ho and described it as a short-term arrangement for two months with interest at 1.5% per month."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "On 7 April 2021, AP Automotive Services Pte Ltd received a contribution of $100,000 from Mr Teo which he described as a short-term loan."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd obtained a $300,000 loan from Junk Yard Dog Ventures Pte Ltd, a company associated with Mr Teo's brother."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The company's accounting records later reclassified the $300,000 contribution initially represented as from Mr Teo to reflect it as a loan from Junk Yard Dog Ventures Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "Out of the $300,000 loan from Junk Yard Dog Ventures Pte Ltd, AP Automotive Services Pte Ltd repaid $200,000 between 1 June 2022 and 12 July 2022."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "On 14 January 2021, AP Automotive Services Pte Ltd paid $160,000 to Mr Teo, which reduced the net funds he had provided to the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "On 20 December 2022, AP Automotive Services Pte Ltd paid $15,000 to Mr Teo."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "On 27 December 2022, AP Automotive Services Pte Ltd paid $15,000 each to Mr Teo and to Mr Liew."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "On 8 October 2021, Mr Teo obtained a $260,000 hire-purchase loan secured on his car, of which approximately $200,000 was effectively contributed to AP Automotive Services Pte Ltd and about $60,000 was used for renewal of the car's Certificate of Entitlement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "Under the hire-purchase arrangement on Mr Teo's car, a total of $311,740 comprising principal and interest was to be repaid over 60 monthly instalments of about $5,196 each."
+        },
+        {
+          "Fact_Type": "CONTRACTUAL_BASE",
+          "Text": "AP Automotive Services Pte Ltd agreed to assume the monthly instalment payments under Mr Teo's hire-purchase loan as part of its funding arrangement with him."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "By 8 October 2021, excluding initial paid-up capital, the net sums contributed to AP Automotive Services Pte Ltd were approximately $2,124,407 by or through Mr Teo and $1.8 million by or through Mr Liew."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "A Creditors Confirmation Request dated 9 January 2023 signed by Mr Ho confirmed that AP Automotive Services Pte Ltd owed $1.03 million to Mr Liew as at 31 July 2022."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The most updated accounts of AP Automotive Services Pte Ltd tendered in court, intended for adoption at its Annual General Meeting, reflected amounts owed to Mr Liew and Mr Teo as loans."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "Within an internal WhatsApp group named 'AP Accounting Department', which included Ms Liew, Mr Teo and Mr Marcus Teo, loan sheets were circulated that recorded monies received with headers such as 'Date of Loan', 'Expiry Date of Loan' and 'Loan interest/month'."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The internal loan sheets prepared by Ms Liew for AP Automotive Services Pte Ltd consistently described shareholder and third-party funding as loans with specified interest and expiry dates."
+        },
+        {
+          "Fact_Type": "CONTRACTUAL_BASE",
+          "Text": "AP Automotive Services Pte Ltd entered into a loan agreement with Mengkim Holdings Pte Ltd for a $500,000 loan at an interest rate of 10% per annum, signed by Mr Ho on behalf of the company."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Text": "The $500,000 loan from Mengkim Holdings Pte Ltd to AP Automotive Services Pte Ltd was taken on 8 January 2021."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Text": "The repayment date of the Mengkim Holdings Pte Ltd loan was extended to 8 April 2022 and then to 8 July 2022 before being repaid in instalments with the final repayment on 28 April 2023."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd repaid loans to several lenders including $200,000 to Lee Sze Peng between 21 November 2021 and 21 January 2022, $200,000 to WQ Leasing Pte Ltd between 19 November 2021 and May 2022, and $200,000 to Junk Yard Dog Ventures Pte Ltd by July 2022."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd obtained loans totalling $400,000 from individuals named Tan Bee Hong and Ban Leong, which were associated with funding procured by or through Mr Liew."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "Repayments by AP Automotive Services Pte Ltd in respect of the loans from Tan Bee Hong and Ban Leong commenced around 1 May 2022, and $220,000 of the $400,000 was repaid in the financial year ending 31 July 2022."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The accounting records of AP Automotive Services Pte Ltd classified the loans from Tan Bee Hong and Ban Leong under the 'Loan from Director' section rather than as external loans."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "On 31 May 2022, WhatsApp messages between Mr Marcus Teo and Ms Liew discussed structuring a $200,000 repayment to Junk Yard Dog Ventures Pte Ltd in two parts to accommodate pending car sales."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Text": "On 2 May 2023, a meeting took place between Mr Ho, Mr Teo and Mr Liew which was recorded and later transcribed, during which they discussed funding and potential buy-out figures."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "During the 2 May 2023 recorded meeting, Mr Teo and Mr Liew discussed a possible buy-out of one another's interests in AP Automotive Services Pte Ltd for a sum between $500,000 and $700,000."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "During the 2 May 2023 meeting, none of the participants expressly accused Mr Liew of having caused improper repayments of his contributions or third-party loans despite discussing the company's financial problems."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd agreed with its shareholders that interest would be paid on funds they provided, with some interest rates reaching up to 18% per annum."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd paid interest at rates above 8% per annum to Mr Teo on certain loans he provided or procured."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Mr Ho, acting as Managing Director of AP Automotive Services Pte Ltd, approved and authorised repayments of loans to Mr Teo, to Mr Liew and to third-party lenders."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Mr Ho and Mr Teo did not object at the time to AP Automotive Services Pte Ltd entering into the $500,000 loan with Mengkim Holdings Pte Ltd or to the company repaying that loan."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Mr Ho and Mr Teo did not make any formal demand to Mr Liew to match Mr Teo's contributions during the period when funding was being provided to AP Automotive Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "AP Automotive Services Pte Ltd sold a substantial portion of its fleet of cars from around November 2020 onwards as part of efforts to raise cash and restructure its liabilities."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The sale of AP Automotive Services Pte Ltd's car fleet raised just over $1 million after repayment of purchase-related loans on the vehicles."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The proposal to sell AP Automotive Services Pte Ltd's fleet of cars was made by Mr Marcus Teo by at least August or September 2021 as part of a restructuring plan to improve the company's finances."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "AP Automotive Services Pte Ltd used proceeds from the sale of its cars to repay various loans, including loans from Lee Sze Peng, WQ Leasing Pte Ltd and Junk Yard Dog Ventures Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "All repayments of loans and decisions to sell vehicles were authorised by Mr Ho in his capacity as Managing Director of AP Automotive Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACTUAL_BASE",
+          "Text": "AP Automotive Services Pte Ltd agreed with Jackspeed Automobile (S) Pte Ltd to pay a monthly retainer fee which covered, among other things, rental of office space at the Tampines premises."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Text": "In early 2021, AP Automotive Services Pte Ltd moved its workshop operations from the Tampines premises to the Loyang premises while retaining some office and storage space at Tampines."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "After moving workshop operations to Loyang, AP Automotive Services Pte Ltd continued to pay a reduced retainer fee to Jackspeed Automobile (S) Pte Ltd for retained office and storage space at Tampines."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "AP Automotive Services Pte Ltd's registered office remained at the Tampines premises until 24 August 2023."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The three shareholders of AP Automotive Services Pte Ltd agreed that the company would retain an office unit and a room at the Tampines premises after the move to Loyang and would continue paying a reduced retainer fee to Jackspeed."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd paid a total of $76,498 in retainer fees to Jackspeed Automobile (S) Pte Ltd between March 2021 and May 2023."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd initially claimed damages for alleged overpayment of retainer fees to Jackspeed Automobile (S) Pte Ltd but later abandoned this claim in its closing submissions."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd initially claimed damages of $300,000 for a loan made by the company to an individual named Chris Eng but abandoned this claim in its opening statement and did not lead evidence on it."
+        },
+        {
+          "Fact_Type": "DAMAGES_FACT",
+          "Text": "AP Automotive Services Pte Ltd pleaded a head of loss described as loss of use of $1,231,500, being $900,000 of alleged over-repaid principal and $331,500 of interest, and linked this to a claimed difference in net profit after tax between two financial years."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd later confined its loss-of-use claim in submissions to $400,000 relating to the loans from Tan Bee Hong and Ban Leong and sought damages to be assessed."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "The court disallowed AP Automotive Services Pte Ltd's application for bifurcation in relation to the assessment of damages for the loss-of-use claim."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd alleged in its pleadings that Mr Liew was a de facto or shadow director and that he owed fiduciary duties to the company."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "AP Automotive Services Pte Ltd's closing submissions acknowledged that the shareholders did not clearly agree at the outset whether funding from Mr Teo and Mr Liew would be treated as debt or equity."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd changed its theory in closing submissions from an alleged capital injection agreement to an alleged 'Matching Dollar Agreement' to fund the company on a dollar-to-dollar basis regardless of source."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd pleaded that Mr Teo was a 'sleeping shareholder' while asserting that Mr Liew was a de facto or shadow director."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "The court invited submissions on whether Mr Ho should be made personally liable for costs and on whether Mr Teo should be liable to pay the company's costs in HC/SUM 2272/2024."
+        },
+        {
+          "Fact_Type": "DAMAGES_FACT",
+          "Text": "AP Automotive Services Pte Ltd claimed damages for alleged losses due to interest rate differences between shareholder loans and third-party loans but later abandoned this head of claim."
+        },
+        {
+          "Fact_Type": "DAMAGES_FACT",
+          "Text": "AP Automotive Services Pte Ltd claimed that it suffered loss due to an alleged fire sale of approximately 100 cars from its fleet, asserting that the sale was linked to repayment of loans associated with Mr Liew."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "A list of cars sold by AP Automotive Services Pte Ltd, exhibited to the affidavit of evidence-in-chief of Mr Marcus Teo, showed that sales of vehicles commenced on 16 November 2020."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "Under cross-examination, both Mr Ho and Mr Marcus Teo accepted that not all cars on the list exhibited as part of the alleged fire sale were necessarily sold due to pressure related to loans associated with Mr Liew."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "Mr Teo testified that he only became aware of certain third-party loans associated with Mr Liew in December 2021, although discussions about selling the fleet had occurred earlier in 2021."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "Mr Ho testified that he considered the Mengkim Holdings Pte Ltd loan to be in the best interests of AP Automotive Services Pte Ltd and that he signed the loan agreement on behalf of the company."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Ho testified that he was primarily focused on running AP Automotive Services Pte Ltd and did not update ACRA records to reflect any increase in paid-up capital beyond $100,000."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Ho testified that he was not concerned about the precise nature of funding, whether capital or loans, so long as AP Automotive Services Pte Ltd had sufficient funds to operate."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Teo testified that if AP Automotive Services Pte Ltd made profits, he expected that his and Mr Liew's contributions would be repaid first, with any remaining profits distributed according to shareholdings."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Teo accepted under cross-examination that his $100,000 contribution on 7 April 2021 was a short-term loan expected to be repaid within two months."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Teo accepted that AP Automotive Services Pte Ltd would not have paid him $160,000 on 14 January 2021 if he had not requested the payment."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Ho testified that he believed businesses dealing with AP Automotive Services Pte Ltd would look at its paid-up capital as a measure of viability."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Ho claimed in evidence that from August 2021 he perceived a change in Mr Liew's attitude towards him, describing interactions as involving scolding and shouting."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Ho stated that he sometimes agreed to funding and repayment decisions because he wished to avoid conflict among the shareholders."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd alleged in its pleadings that repayments of certain loans were made under pressure from Mr Liew, although no separate claim of duress or undue influence was advanced."
+        },
+        {
+          "Fact_Type": "DAMAGES_FACT",
+          "Text": "AP Automotive Services Pte Ltd pleaded that it suffered loss due to alleged overpayment of interest totalling $331,500, including $112,000 in interest paid to Bizmen Corporation Ltd."
+        }
+      ],
+      "Issue": "Whether AP Automotive Services Pte Ltd could recover from its shareholder and alleged de facto or shadow director, Liew Nyok Wah, on the basis that there was an enforceable agreement or obligation governing shareholder funding and matching contributions, and that repayments of loans and related transactions caused actionable loss to the company.",
+      "Rule": "Under Singapore company law, a company may sue a director or de facto or shadow director for breach of fiduciary and statutory duties where it proves the existence of such duties, a breach of those duties, and resulting loss; contractual obligations between shareholders or between shareholders and the company must be established by clear evidence of agreement and terms, and implied terms are only recognised where they satisfy the usual tests of business efficacy and obviousness; shareholder loans and capital contributions are distinguished by their legal characterisation in corporate records, agreed interest, repayment rights, and regulatory filings; damages must be proved with a causal link to the alleged breach and cannot be speculative.",
+      "Application": "AP Automotive Services Pte Ltd relied on a pleaded agreement that shareholders would inject matching capital and later advanced an unpleaded 'Matching Dollar Agreement' to fund the company, but its own accounting records, ACRA filings, internal loan sheets, interest arrangements, and repayment history objectively indicated that most shareholder funding beyond the initial $100,000 was treated as loans rather than capital; the company did not document any binding obligation requiring Mr Teo and Mr Liew to maintain equal contributions or to refrain from withdrawals until profitability, and it made repayments to both shareholders and third parties with the knowledge and authorisation of its Managing Director, Mr Ho, without contemporaneous protest or attempts to enforce matching obligations; the alleged implied restriction on repayment was inconsistent with the company's acceptance of third-party loan repayments and with its practice of repaying shareholder loans while still needing funding; the claimed heads of loss, including interest differentials, fire-sale losses, loss of use of funds, and retainer fees, were not supported by contemporaneous documents or coherent causation analysis and often conflicted with the company's own decisions and agreements.",
+      "Conclusion": "The court dismissed AP Automotive Services Pte Ltd's claim against Liew Nyok Wah and granted judgment on his counterclaim for repayment of loans in the sum of $719,000, together with an order that the company pay his costs of $150,000 inclusive of disbursements.",
+      "Judicial_Reasoning_Log": "The judge examined the pleaded agreement that shareholders would inject matching capital and noted that it was alleged to be between the shareholders rather than with the company, which raised standing issues for the company's claim; he then assessed whether any such agreement existed on the evidence and found the support for it weak, highlighting the absence of written documentation, inconsistencies in Mr Ho's testimony about agreed capital amounts, and the ambiguity in references to 'funds or capital injections'; the judge placed weight on the fact that interest was paid only on contributions beyond the initial $100,000 paid-up capital, that the company's financial statements and ACRA filings consistently showed share capital of $100,000, and that internal accounting records and loan sheets described shareholder funding as loans with interest and expiry dates; he found that Mr Teo himself structured contributions as loans, including the $100,000 short-term loan and the $300,000 Junk Yard Dog loan, and that parts of his contributions were repaid, which was inconsistent with the notion of non-returnable capital; the judge considered the conduct of the parties, noting that Mr Ho and Mr Teo did not object when Mr Liew procured third-party loans such as the Mengkim loan and that they themselves arranged third-party loans, suggesting that the company was indifferent to the source of funds and focused on liquidity; he found the 'Table' of contributions in Mr Ho's affidavit to be inaccurate and potentially misleading, as it omitted repayments and mischaracterised certain sums, undermining the credibility of the alleged matching arrangement; when the company shifted in closing submissions to a broader 'Matching Dollar Agreement' to fund the company regardless of source, the judge rejected this unpleaded case and observed that contributions were made in an ad hoc manner without enforcement of matching obligations, and that there was no evidence of demands when one shareholder was ahead or behind; he concluded that, at most, there was a non-binding expectation that Mr Teo and Mr Liew would help fund the company to the best of their ability; the judge also rejected the attempt to imply a term restricting withdrawal of shareholder funding until profitability, distinguishing Wee Kah Lee on the basis that that case involved a specific development project with a defined end point, whereas here the loans were for general operations and the parties' conduct, including multiple repayments to shareholders while the company still needed funds, was inconsistent with such a restriction; on the alleged breaches of fiduciary duty, the judge reasoned that if Mr Liew's contributions were loans and there was no restriction on repayment, then he was entitled to be repaid and the mere fact of repayment could not constitute a breach; he further noted that Mr Ho, as Managing Director, authorised the repayments and that the company did not advance any coherent legal basis such as duress to vitiate his decisions; the judge found the narrative that Mr Ho acted under pressure from Mr Liew unconvincing and unsupported by contemporaneous evidence, and observed that similar 'pressure' allegations were not put to Mr Liew in cross-examination; he rejected the contention that Mr Ho acted under Mr Liew's directions as a shadow director, noting the lack of pleading and evidence; in relation to the specific focus in closing on the loans from Tan Bee Hong and Ban Leong, the judge found that these loans remained classified as 'Loan from Director' in the accounts and that any alleged reclassification to external loans was not borne out by the records or pleadings; turning to damages, the judge held that the interest differential claim lacked foundation because interest rates above 8% were agreed and paid to both shareholders and third parties with Mr Ho's approval; he found the fire-sale claim to be unsustainable, pointing out that car sales began before the relevant loans were taken or due, that the sale was part of a restructuring plan proposed by Mr Marcus Teo, and that proceeds were used to repay various loans including those associated with Mr Ho and Mr Teo; he characterised the loss-of-use calculation as speculative and internally inconsistent, noting that it ignored the company's own agreement to repay the loans and misaligned the timing of repayments with the claimed period of loss; the retainer fee claim was rejected because all three shareholders had agreed to retain space at the Tampines premises and to pay a reduced fee to Jackspeed, and the company had voluntarily continued payments; the judge observed that several heads of claim were abandoned in submissions, reinforcing his view that the action was misconceived; given his findings that the funding beyond the initial $100,000 was by way of loans and that there was no enforceable matching or non-withdrawal agreement, he concluded that the company had no defence to Mr Liew's counterclaim for repayment of his outstanding loans and entered judgment for $719,000 plus costs, while reserving for further argument the question of personal costs orders against Mr Ho and potential liability of Mr Teo for the company's costs."
+    }
+  },
+  {
+    "Metadata": {
+      "Judge": "Hri Kumar Nair",
+      "Date": "2024-09-25",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore",
+      "Sector": "Corporate / Directors' duties / Shareholder funding dispute",
+      "Lawyers": [
+        "Yeo Lai Hock Nichol",
+        "Qua Bi Qi",
+        "Andrew Ong",
+        "Ow Yong Wei En James",
+        "Madeline Chan Yuen Hun"
+      ]
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Liew Nyok Wah",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Liew Nyok Wah is a shareholder of AP Automotive Services Pte Ltd holding 33% of its shares."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "Before incorporating AP Automotive Services Pte Ltd, Mr Liew had a long-term friendship with the other two shareholders, Mr Ho and Mr Teo."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "Mr Liew is the father of Ms Liew Shulin, who worked in AP Automotive Services Pte Ltd's finance and business operations."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "Mr Liew is a friend and business associate of Mr Ho and Mr Teo in the context of AP Automotive Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "In the proceedings, Mr Liew was the defendant to the company's claim and the claimant in the counterclaim."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "At trial, Mr Liew gave evidence in support of his defence and counterclaim."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "At the incorporation of AP Automotive Services Pte Ltd, Mr Liew contributed $50,000 as part of the initial paid-up capital of $100,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "Beyond the initial capital, Mr Liew provided or procured funding to AP Automotive Services Pte Ltd amounting to approximately $1.8 million by 8 October 2021."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The accounting records of AP Automotive Services Pte Ltd recorded funds provided by or through Mr Liew as 'Loan from Director' or similar loan entries."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd's Creditors Confirmation Request dated 9 January 2023 recorded that the company owed $1.03 million to Mr Liew as at 31 July 2022."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The most recent accounts of AP Automotive Services Pte Ltd presented in court showed outstanding loan balances owed to Mr Liew."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd repaid certain sums to or for the benefit of Mr Liew, including $15,000 on 27 December 2022 and repayments of loans associated with third parties he had procured."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "Loans from individuals named Tan Bee Hong and Ban Leong, totalling $400,000, were procured by or through Mr Liew for the benefit of AP Automotive Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd repaid $220,000 of the $400,000 loans from Tan Bee Hong and Ban Leong in the financial year ending 31 July 2022."
+        },
+        {
+          "Fact_Type": "CONTRACTUAL_BASE",
+          "Text": "A $500,000 loan from Mengkim Holdings Pte Ltd to AP Automotive Services Pte Ltd was arranged with the involvement of Mr Liew and signed by Mr Ho on behalf of the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The Mengkim Holdings Pte Ltd loan carried an interest rate of 10% per annum and was repaid by AP Automotive Services Pte Ltd in instalments, with the final payment on 28 April 2023."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "In his affidavit, Mr Liew stated that he regarded his contributions beyond the initial $100,000 as loans to AP Automotive Services Pte Ltd rather than capital injections."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Liew stated that he understood that interest would be payable on his loans to AP Automotive Services Pte Ltd at rates that could exceed 8% per annum."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "During the 2 May 2023 recorded meeting, Mr Liew discussed with Mr Ho and Mr Teo the possibility of a buy-out of his interest in AP Automotive Services Pte Ltd for a sum between $500,000 and $700,000."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "In the 2 May 2023 meeting, Mr Liew referred to matching contributions with Mr Teo in terms of 'each is matching 1 to 1' without specifying whether the contributions were loans or capital."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Liew later explained that when he used a Mandarin term translated as 'capital' in the 2 May 2023 transcript, he intended to refer to principal sums of loans rather than equity capital."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Mr Liew procured third-party lenders, including Mengkim Holdings Pte Ltd, Tan Bee Hong and Ban Leong, to provide funds that were used by AP Automotive Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Mr Liew allowed his daughter, Ms Liew, to manage the preparation of AP Automotive Services Pte Ltd's loan sheets and accounting entries that recorded his and other funding as loans."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Mr Liew participated in discussions with Mr Ho and Mr Teo about the financial difficulties of AP Automotive Services Pte Ltd and potential restructuring options."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Mr Liew did not personally sign the loan agreement between AP Automotive Services Pte Ltd and Mengkim Holdings Pte Ltd, which was executed by Mr Ho as Managing Director."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Mr Liew did not hold any formal directorship position in AP Automotive Services Pte Ltd on the records of the Accounting and Corporate Regulatory Authority."
+        },
+        {
+          "Fact_Type": "CORPORATE_STRUCTURE",
+          "Text": "Despite not being a recorded director, Mr Liew was alleged by the company to have acted as a de facto or shadow director of AP Automotive Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Liew denied that he owed fiduciary duties as a de facto or shadow director and maintained that he acted as a shareholder and lender to AP Automotive Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Liew stated that he expected AP Automotive Services Pte Ltd to repay his loans when the company had sufficient funds."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "After the shareholders' relationship deteriorated around May 2023, Mr Liew ceased to be involved in the management of AP Automotive Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "In his counterclaim, Mr Liew sought repayment of outstanding loans he had provided or procured for AP Automotive Services Pte Ltd, quantified at $719,000."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "AP Automotive Services Pte Ltd did not dispute the quantum of $719,000 claimed by Mr Liew as outstanding loans in the counterclaim."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "The court granted judgment in favour of Mr Liew on his counterclaim for $719,000 as repayment of loans."
+        },
+        {
+          "Fact_Type": "FINANCIAL_FACT",
+          "Text": "The court ordered AP Automotive Services Pte Ltd to pay costs to Mr Liew in the amount of $150,000 inclusive of disbursements."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Liew maintained that he did not direct or compel Mr Ho to authorise any specific repayments by AP Automotive Services Pte Ltd and that repayment decisions were made by the company's management."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "The recorded 2 May 2023 meeting between Mr Ho, Mr Teo and Mr Liew did not contain any explicit admission by Mr Liew that he had instructed improper repayments or that he regarded his contributions as non-repayable capital."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "No contemporaneous written agreement signed by Mr Liew was produced to show that he had agreed to a binding obligation to match Mr Teo's contributions on a dollar-to-dollar basis as capital."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Liew accepted that he and Mr Teo had an understanding to support AP Automotive Services Pte Ltd with funding but did not accept that this understanding created a legal obligation to maintain equal contributions or to forgo repayment."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Mr Liew allowed AP Automotive Services Pte Ltd to pay interest on his loans at rates that were sometimes higher than 8% per annum, consistent with the company's practice for other lenders."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Mr Liew did not object when AP Automotive Services Pte Ltd repaid loans to other lenders such as Junk Yard Dog Ventures Pte Ltd, Lee Sze Peng and WQ Leasing Pte Ltd using proceeds from car sales."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Mr Liew did not participate in the preparation of the 'Table' of contributions that was later criticised for inaccuracies and omissions."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Liew disputed the accuracy of an entry in the company's 'Table' that suggested he had made an additional $300,000 contribution on 2 August 2021, stating that no such contribution occurred."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Mr Liew did not instruct AP Automotive Services Pte Ltd to reclassify the loans from Tan Bee Hong and Ban Leong as external loans in the company's accounting records."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "The company's own accounting records did not show any reclassification of the loans from Tan Bee Hong and Ban Leong from 'Loan from Director' to external loans, which aligned with Mr Liew's position."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Liew maintained that he did not exert duress or undue influence on Mr Ho or Mr Teo in relation to funding or repayment decisions of AP Automotive Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "EVIDENCE",
+          "Text": "The court noted that allegations that Mr Ho acted under pressure from Mr Liew were not put to Mr Liew in cross-examination."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Liew asserted that he did not consider himself responsible for decisions by AP Automotive Services Pte Ltd to continue paying retainer fees to Jackspeed Automobile (S) Pte Ltd after the move to Loyang."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Mr Liew participated in discussions with Mr Ho and Mr Teo about retaining some office and storage space at the Tampines premises and continuing to pay a reduced retainer fee to Jackspeed."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Liew took the position that the company's decision to retain the Tampines premises and pay Jackspeed was a commercial decision agreed among all three shareholders."
+        },
+        {
+          "Fact_Type": "PROCEDURAL_FACT",
+          "Text": "The company alleged that Mr Liew was a de facto or shadow director and owed fiduciary duties, but the court ultimately found it unnecessary to decide his status because the company's claim failed on other grounds."
+        },
+        {
+          "Fact_Type": "STATE_OF_MIND",
+          "Text": "Mr Liew's litigation position was that his role in AP Automotive Services Pte Ltd was that of a shareholder and lender, not a director, and that he was entitled to repayment of his loans."
+        }
+      ],
+      "Issue": "Whether, on the evidence of funding arrangements and corporate records, the sums advanced or procured by shareholder Liew Nyok Wah to AP Automotive Services Pte Ltd were repayable loans rather than non-repayable capital, and whether he could be required to compensate the company for alleged losses arising from repayments and related transactions or instead recover the outstanding balance of his loans.",
+      "Rule": "In Singapore law, the characterisation of shareholder funding as debt or equity depends on the parties' objective intentions as evidenced by documentation, accounting treatment, interest arrangements, repayment conduct and regulatory filings; a person who is not a de jure director may owe fiduciary duties as a de facto or shadow director if he assumes or is allowed to assume the functions of a director or if the board is accustomed to act in accordance with his directions, but any alleged breach requires proof of duty, impugned conduct and resulting loss; contractual obligations such as matching funding agreements or restrictions on repayment must be clearly proved and cannot be inferred solely from informal expectations; a lender to a company is generally entitled to repayment of loans in accordance with their terms, and claims for damages against such a lender must be supported by evidence of a legal wrong and causation of loss.",
+      "Application": "The evidence showed that beyond the initial $100,000 paid-up capital, funds provided or procured by Mr Liew were consistently recorded in AP Automotive Services Pte Ltd's accounts and internal loan sheets as loans, with specified interest rates and, in some cases, expiry dates; the company's ACRA filings did not reflect any increase in share capital, and interest was paid on these contributions only after the initial capital injection, which aligned with Mr Liew's position that they were loans; the company itself entered into formal loan agreements with third parties such as Mengkim Holdings Pte Ltd, and the Mengkim loan, which was associated with Mr Liew, was signed by Mr Ho and treated as a company liability, with its interest rate and extensions agreed by management; there was no written agreement signed by Mr Liew obliging him to provide matching capital contributions or to refrain from seeking repayment until profitability, and the alleged 'Matching Dollar Agreement' was not pleaded and was inconsistent with the ad hoc pattern of contributions and repayments; Mr Ho, as Managing Director, authorised repayments of loans to or associated with Mr Liew, including the loans from Tan Bee Hong and Ban Leong, and there was no contemporaneous evidence that he regarded these repayments as improper or as violating any binding agreement; allegations that Mr Liew exerted pressure or directed the board were not substantiated by documents or cross-examination, and the recorded 2 May 2023 meeting did not contain admissions that would convert his loans into non-repayable capital or establish a breach of duty; the company's various heads of loss, including interest differentials, alleged fire-sale losses, loss of use of funds and retainer fees, were either abandoned or found to lack evidential and legal foundation, and none provided a basis to deny Mr Liew repayment of his outstanding loans; in contrast, the quantum of $719,000 claimed by Mr Liew as outstanding loans was not disputed by the company and was supported by the company's own creditor confirmation and accounts.",
+      "Conclusion": "The court held that the funds advanced or procured by Liew Nyok Wah beyond the initial paid-up capital were loans, rejected the company's claims against him, and granted his counterclaim for repayment of $719,000 together with an order that the company pay his costs of $150,000 inclusive of disbursements.",
+      "Judicial_Reasoning_Log": "The judge began by analysing the nature of the funding provided by or through Mr Liew, distinguishing between the initial $100,000 paid-up capital and subsequent contributions; he noted that the company's financial statements, ACRA filings and internal loan sheets consistently treated post-incorporation funding from both Mr Teo and Mr Liew as loans, with interest and, in some cases, maturity dates, and that interest was only paid on contributions beyond the initial capital, which supported the conclusion that these were loans; the judge considered the company's attempt to characterise these contributions as capital under an alleged agreement but found no written evidence of such an agreement and highlighted inconsistencies in Mr Ho's and Mr Teo's testimony, including Mr Ho's shifting account of agreed capital amounts and Mr Teo's own use of short-term loans and third-party loans such as the Junk Yard Dog facility; he observed that the company's own accounting records had reclassified the $300,000 Junk Yard Dog contribution from a shareholder contribution to a third-party loan, contradicting the narrative that all such funds were capital; the judge also emphasised that parts of Mr Teo's contributions were repaid, including the $160,000 payment on 14 January 2021 and the $15,000 payment in December 2022, which was inconsistent with the idea of non-returnable capital and mirrored the treatment of Mr Liew's funding; turning to the alleged matching and non-withdrawal obligations, the judge found that contributions by Mr Teo and Mr Liew were made in an uneven and ad hoc fashion, with periods where one was ahead of the other and no evidence of demands to equalise contributions, and he rejected the unpleaded 'Matching Dollar Agreement' advanced in closing as an ex post facto rationalisation of what had occurred rather than a proven contract; he concluded that, at most, there was a non-binding expectation that both shareholders would support the company financially; the judge then addressed the company's contention that Mr Liew was a de facto or shadow director who had caused or procured repayments in breach of fiduciary duties, but he noted that Mr Ho, as the sole de jure director and Managing Director, had authorised all relevant repayments and had himself agreed to the Mengkim loan and its interest rate as being in the company's interests; allegations that Mr Ho acted under pressure from Mr Liew were undermined by internal inconsistencies in Mr Ho's evidence, the timing of the alleged change in attitude, and the absence of any such case being put to Mr Liew in cross-examination; the judge also pointed out that the company's counsel expressly disavowed any case based on duress or undue influence, leaving no coherent legal basis to treat Mr Ho's decisions as vitiated; in relation to the specific focus on the loans from Tan Bee Hong and Ban Leong, the judge found that these loans remained classified as 'Loan from Director' in the accounts and that the alleged reclassification to external loans, said to facilitate repayment, was neither pleaded nor supported by the records; he reasoned that even if Mr Liew were a de facto or shadow director, the repayment of bona fide loans to him or to third parties he had procured, in circumstances where the company had agreed to pay interest and had no binding restriction on repayment, would not amount to a breach of duty; the judge then evaluated the company's damages claims and found them either abandoned or lacking in legal and evidential foundation, noting that the interest differential claim ignored the company's own agreement to pay higher rates to both shareholders and third parties, that the fire-sale claim was contradicted by the timing and purpose of car sales and by the involvement of Mr Marcus Teo in proposing the sale as a restructuring measure, and that the loss-of-use and retainer fee claims were speculative and inconsistent with the company's own decisions; having rejected the company's claims, the judge turned to the counterclaim and observed that the company did not dispute the quantum of $719,000 claimed by Mr Liew as outstanding loans and that this figure was corroborated by the creditor confirmation and accounts; he therefore concluded that the company had no defence to the counterclaim and entered judgment for Mr Liew in the sum of $719,000, together with costs of $150,000 inclusive of disbursements, while leaving open for further submissions the question of whether any personal costs orders should be made against Mr Ho or whether Mr Teo should bear some of the company's costs."
+    }
+  }
+]

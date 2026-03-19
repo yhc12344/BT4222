@@ -1,0 +1,317 @@
+[
+  {
+    "Metadata": {
+      "Judge": "George Wei JC",
+      "Date": "2014-02-14",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Airtrust (Singapore) Pte Ltd",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Airtrust (Singapore) Pte Ltd is a Singapore-incorporated company referred to as AT in the proceedings."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "Peter Fong was the majority shareholder and Chairman of Airtrust (Singapore) Pte Ltd prior to his death on 25 April 2008."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "Linda Kao Chai-Chau was appointed managing director of Airtrust (Singapore) Pte Ltd some time in 1996 by Peter Fong."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "Carolyn Fong was a shareholder of Airtrust (Singapore) Pte Ltd and held approximately 6.2% of its shares at the date of Peter Fong's death."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Between around 2000 and the date of the writ in Suit 477 of 2012, certain business opportunities from Chinese chemical companies were handled by Linda in a manner later challenged by Airtrust (Singapore) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "From around 2001, certain business opportunities from another Chinese company were handled by Linda in a manner later challenged by Airtrust (Singapore) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Around 2002 and 2004, further transactions involving Airtrust (Singapore) Pte Ltd and business opportunities were carried out by Linda and were later challenged by the company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "After Peter Fong's death on 25 April 2008, additional transactions and events involving Airtrust (Singapore) Pte Ltd and business diversions occurred and were later challenged by the Receivers and Managers."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Linda's position in both suits was that the impugned transactions were carried out in accordance with oral instructions or an understanding with Peter Fong."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In relation to some transactions, Linda stated that she received and disbursed funds on behalf of Peter Fong's friends and associates as a favour to them."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In relation to other transactions not made on specific instructions, Linda stated that they were made pursuant to standing instructions or an understanding with Peter Fong."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "On 17 January 2012, Ernst & Young was appointed as Receivers and Managers of Airtrust (Singapore) Pte Ltd pursuant to an application by shareholder Carolyn Fong."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Text": "A consent order relating to the appointment of Receivers and Managers of Airtrust (Singapore) Pte Ltd was granted following an agreement between Carolyn Fong and Linda."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "After their appointment, the Receivers and Managers formed the view that there was evidence of diversions of business and funds involving Linda and others to the detriment of Airtrust (Singapore) Pte Ltd, largely concerning events after Peter Fong's death."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "On or before 2011, Carolyn Fong applied in Originating Summons No 505 of 2010 for leave under section 216A of the Companies Act to commence a derivative action on behalf of Airtrust (Singapore) Pte Ltd against Linda."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "In 2006, Peter Fong transferred approximately 51% of the shares in Airtrust (Singapore) Pte Ltd to the Fong Foundation charitable trust."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "At the date of Peter Fong's death, he held about 3.6% of the shares in Airtrust (Singapore) Pte Ltd, the Fong Foundation held about 51%, and the remaining shares were held by 11 other persons including family members."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "While Peter Fong was alive and managing the business, the shareholders and directors of Airtrust (Singapore) Pte Ltd were generally described as content to acquiesce in his management of the company."
+        }
+      ],
+      "Issue": "Whether, in relation to the challenged transactions and diversions of business opportunities involving Airtrust (Singapore) Pte Ltd, responsibility for any resulting loss should be allocated solely to Linda as managing director or also to Peter Fong or his estate, given his role as Chairman and majority or substantial shareholder and his instructions or understandings regarding those transactions.",
+      "Rule": "Company directors and managing directors are legal standards governing their conduct in managing company assets and business opportunities, and statutory provisions on contribution allow a person who is in respect of damage suffered by another to seek contribution from another person who is also in respect of the same damage, whether the liability arises in tort, contract, trust or otherwise.",
+      "Application": "Airtrust (Singapore) Pte Ltd, through a shareholder and later through its Receivers and Managers, challenged a series of transactions and business opportunity diversions associated with Linda's conduct as managing director, many of which occurred while Peter Fong was Chairman and a substantial shareholder and some after his death, raising the question of how any liability for the same financial losses should be distributed between Linda and Peter Fong's estate in light of his instructions and role in the company.",
+      "Judicial_Reasoning_Log": "The judgment discusses whether illegality precludes a claim for indemnity or contribution against a joint participant, the statutory basis for contribution under sections 15 and 16 of the Civil Law Act, and whether Linda's third party claims against the Estate of Peter Fong are redundant because they overlap with her defence. The judge analyses authorities including Burrows v Rhodes and Jameson, K v P, Nganthavee, Yemen, Westcoast, Panweld, Lim Leong Huat, and In re W & M Roith Ltd. The court reasons that statutory contribution is not barred by illegality and that there is a realistic scenario in which Linda could be found liable to Airtrust (Singapore) Pte Ltd while the Estate of Peter Fong is also liable in respect of the same damage, justifying third party proceedings. The judge concludes that the third party notices are not redundant, allows the appeals RA 246/2013 and RA 247/2013, and permits amendments to the third party notices (SUM 4419/2013 and SUM 4420/2013). The judgment notes that the trial court retains discretion under section 16(2) of the Civil Law Act to adjust or exempt contribution after full ventilation of the facts, including any benefit retained by Linda and considerations related to ex turpi causa."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 3
+  },
+  {
+    "Metadata": {
+      "Judge": "George Wei JC",
+      "Date": "2014-02-14",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "AT (Carolyn)",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Suit No 477 of 2012, referred to as the Derivative Action, was brought by shareholder Carolyn Fong on behalf of Airtrust (Singapore) Pte Ltd against Linda."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "Carolyn Fong obtained leave under section 216A of the Companies Act in Originating Summons No 505 of 2010 to institute a derivative action on behalf of Airtrust (Singapore) Pte Ltd against Linda."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Suit 477 of 2012 concerns transactions and business opportunities mostly taking place while Peter Fong was alive and Chairman of Airtrust (Singapore) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In the Derivative Action, Carolyn challenged four business opportunities said to have been diverted by Linda, and the third party claim by Linda related to three of these opportunities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In submissions, AT (Carolyn) did not dispute that Peter Fong had at least ostensible authority to give instructions on behalf of Airtrust (Singapore) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "AT (Carolyn) took the position that Peter Fong did not know of certain transactions in question and that those transactions were unauthorised from the company's perspective."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "AT (Carolyn) opposed Linda's application in Summons No 2990 of 2013 for leave to serve a third party notice against the Estate of Peter Fong for an indemnity and later contribution."
+        }
+      ],
+      "Issue": "In the Derivative Action, whether losses to Airtrust (Singapore) Pte Ltd from the challenged business opportunity transactions should be attributed solely to Linda's conduct as managing director or also to Peter Fong or his estate, given his role and any instructions, and whether third party proceedings against his estate are necessary in that context.",
+      "Rule": "Where a shareholder brings a derivative action on behalf of a company, the court assesses responsibility for company losses by reference to the conduct of those involved in management and applicable standards for directors, and procedural rules govern when a defendant may join a third party for contribution or indemnity in the same proceedings.",
+      "Application": "AT (Carolyn), acting on behalf of Airtrust (Singapore) Pte Ltd, focused its claim on transactions during Peter Fong's lifetime that it regarded as unauthorised from the company's standpoint, while acknowledging his ostensible authority but disputing his knowledge of specific transactions, and resisted Linda's attempt to involve the Estate of Peter Fong as a third party for indemnity or contribution in relation to the same losses.",
+      "Judicial_Reasoning_Log": "The judgment records that AT (Carolyn) argued the third party claim against the Estate of Peter Fong was redundant because, if Linda's account of acting on Peter Fong's instructions were accepted, she would not be liable in the main action, and if it were rejected, the third party claim would also fail. AT (Carolyn) relied on authorities such as Yemen, Westcoast, Nganthavee, and Panweld to contend that the third party proceedings duplicated the defence and should be struck out. The judge considered these submissions but concluded that there remained realistic scenarios in which Linda could be liable to the company while the Estate of Peter Fong was also liable in respect of the same damage, so the third party proceedings should be allowed to proceed."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Judge": "George Wei JC",
+      "Date": "2014-02-14",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "AT (RM)",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Suit No 1015 of 2012, referred to as the RM Action, was brought by the Receivers and Managers of Airtrust (Singapore) Pte Ltd against Linda and 15 other individuals and corporate entities."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Ernst & Young was appointed as Receivers and Managers of Airtrust (Singapore) Pte Ltd on 17 January 2012."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "After their appointment, the Receivers and Managers formed the view that there was evidence of diversions of business and funds involving Linda and others to the detriment of Airtrust (Singapore) Pte Ltd, largely concerning transactions or events occurring after Peter Fong's death."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In Suit 1015 of 2012, the Receivers and Managers claimed that Linda and 15 others had engaged in conduct described as a conspiracy to divert business away from Airtrust (Singapore) Pte Ltd and also advanced claims framed as breaches of directors' and related duties."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "On 19 April 2013, Linda commenced third party proceedings in the RM Action against the Estate of Peter Fong seeking an indemnity."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "On 12 June 2013, the Receivers and Managers filed Summons No 2989 of 2013 to set aside the third party proceedings against the Estate of Peter Fong."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In their pleadings in the RM Action, AT (RM) expressly denied that Peter Fong was the alter ego or controlling mind of Airtrust (Singapore) Pte Ltd at the relevant times."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "AT (RM) submitted that Linda, as managing director, owed an independent role in managing Airtrust (Singapore) Pte Ltd and that following instructions from the Chairman and shareholder might not remove her responsibility for her own conduct."
+        }
+      ],
+      "Issue": "In the RM Action, whether responsibility for post-2008 diversions of business and related losses to Airtrust (Singapore) Pte Ltd should rest solely with Linda and the other named defendants or also extend to the Estate of Peter Fong through third party contribution or indemnity, given his earlier role and any directions he may have given.",
+      "Rule": "When a company is under receivership, its Receivers and Managers may pursue claims to recover losses arising from management conduct, and procedural rules allow a defendant to seek contribution or indemnity from a third party to be in respect of the same damage, the court's control over redundancy, delay, and complexity.",
+      "Application": "AT (RM) concentrated its claims on transactions occurring after Peter Fong's death and opposed Linda's third party claim against his estate, arguing that Linda's responsibilities as managing director were independent of any directions from Peter Fong and that the third party proceedings were unnecessary or duplicative in the context of the RM Action.",
+      "Judicial_Reasoning_Log": "The judgment notes that AT (RM) argued the third party proceedings should be set aside under Order 18 rule 19 of the Rules of Court on the basis that they disclosed no reasonable cause of action, were redundant, and would cause unnecessary delay and expense. AT (RM) also submitted that even if Peter Fong had directed the impugned conduct, Linda owed an independent role to the company and could still be found responsible. The judge accepted that the Receivers and Managers denied that Peter Fong was the alter ego of the company and recognised their concerns about delay and cost, but ultimately held that the close connection between the main claims and Linda's contribution claim justified allowing the third party proceedings to continue so that all issues could be resolved together."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Judge": "George Wei JC",
+      "Date": "2014-02-14",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Kao Chai-Chau Linda",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Linda Kao Chai-Chau was the defendant in Suit No 477 of 2012 and the defendant in Suit No 1015 of 2012."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "Linda was appointed managing director of Airtrust (Singapore) Pte Ltd some time in 1996 by Peter Fong, the then majority shareholder and Chairman."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Linda's position in both suits was that the transactions and business opportunity dealings challenged by Airtrust (Singapore) Pte Ltd were carried out in accordance with oral instructions or an understanding with Peter Fong."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Linda stated that certain funds she received and disbursed in connection with the challenged transactions were handled on behalf of Peter Fong's friends and associates as a favour to them."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "For transactions not made on specific instructions, Linda stated that they were made pursuant to standing instructions or an understanding with Peter Fong, who at the time was Chairman and a substantial shareholder of Airtrust (Singapore) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Linda maintained that the business opportunities identified in the suits were not business opportunities of Airtrust (Singapore) Pte Ltd but were handled in line with Peter Fong's directions."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Linda applied in the Derivative Action by Summons No 2990 of 2013 for leave to serve a third party notice against the Estate of Peter Fong seeking an indemnity in respect of the claims against her."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In the RM Action, Linda commenced third party proceedings against the Estate of Peter Fong on 19 April 2013 seeking an indemnity in respect of the claims against her."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "Registrar's Appeal No 247 of 2013 was Linda's appeal in the RM Action against the Assistant Registrar's decision setting aside the third party notice against the Estate of Peter Fong."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "Registrar's Appeal No 246 of 2013 was Linda's appeal in the Derivative Action against the Assistant Registrar's decision refusing leave to commence third party proceedings against the Estate of Peter Fong."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "Summons No 4420 of 2013 was Linda's application to amend the third party notice in the RM Action to add a claim for contribution against the Estate of Peter Fong."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "Summons No 4419 of 2013 was Linda's application to amend the third party notice in the Derivative Action to add a claim for contribution against the Estate of Peter Fong and to state that Peter Fong, as a director of Airtrust (Singapore) Pte Ltd, owed the same type of duties as Linda."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Linda sought contribution from the Estate of Peter Fong under section 15(1) of the Civil Law Act on the basis that Peter Fong, as Chairman and director, was also responsible in respect of the same losses to Airtrust (Singapore) Pte Ltd arising from the challenged transactions."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Linda recognised that the trial court could, under section 16(2) of the Civil Law Act, exempt a person from contribution or adjust the amount, but maintained that this assessment should be made after trial."
+        }
+      ],
+      "Issue": "Whether Linda, as managing director of Airtrust (Singapore) Pte Ltd, should bear sole responsibility for the financial losses associated with the challenged transactions and business opportunity dealings, or whether the Estate of Peter Fong should share responsibility through contribution or indemnity in light of his role as Chairman and director and his instructions or understandings regarding those transactions.",
+      "Rule": "Under section 15 of the Civil Law Act, any person who is in respect of damage suffered by another may seek contribution from any other person who is also in respect of the same damage, regardless of whether the liability arises jointly or otherwise and regardless of whether the basis of liability is tort, contract, trust or another legal basis; the amount and allocation of contribution are the court's discretion under section 16, and procedural rules on third party notices govern when and how such claims may be joined to the main action.",
+      "Application": "Linda relied on section 15 of the Civil Law Act to argue that, if she were found responsible for losses to Airtrust (Singapore) Pte Ltd arising from the challenged transactions, the Estate of Peter Fong should also be treated as responsible in respect of the same losses because those transactions were carried out in accordance with his specific or standing instructions while he was Chairman and a director, and she therefore sought to join his estate as a third party for contribution or indemnity in both the Derivative Action and the RM Action.",
+      "Judicial_Reasoning_Log": "The judgment records that the Assistant Registrar initially rejected Linda's third party claims on the basis that, if she were found to have committed the alleged misconduct, she could not obtain indemnity or contribution from Peter Fong's estate as a matter of law, particularly in light of illegality and imputed knowledge. On appeal, the judge examined the statutory framework for contribution under sections 15 and 16 of the Civil Law Act and relevant case law, concluding that statutory contribution is not barred by illegality and that there are plausible scenarios in which Linda could be found responsible to Airtrust (Singapore) Pte Ltd while Peter Fong's estate is also responsible in respect of the same damage. The judge determined that the third party proceedings are not redundant despite overlapping facts with Linda's defence, allowed Linda's appeals RA 246/2013 and RA 247/2013, and granted her applications SUM 4419/2013 and SUM 4420/2013 to amend the third party notices to include claims for contribution. The judgment emphasises that the trial court will later decide, after hearing all evidence, whether and to what extent contribution should be ordered or whether any party should be exempted under section 16(2)."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Judge": "George Wei JC",
+      "Date": "2014-02-14",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Estate of Peter Fong",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "The Estate of Peter Fong was named as the intended third party in both Suit No 477 of 2012 and Suit No 1015 of 2012."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "Peter Fong was the majority shareholder and Chairman of Airtrust (Singapore) Pte Ltd prior to his death on 25 April 2008."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "In 2006, Peter Fong transferred approximately 51% of the shares in Airtrust (Singapore) Pte Ltd to the Fong Foundation charitable trust."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "At the date of his death, Peter Fong held about 3.6% of the shares in Airtrust (Singapore) Pte Ltd, the Fong Foundation held about 51%, and the remaining shares were held by 11 other persons including family members."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "While Peter Fong was alive, he was described as the controlling mind and will of Airtrust (Singapore) Pte Ltd in earlier proceedings concerning leave to commence the derivative action."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Linda stated that Peter Fong gave her oral instructions and standing instructions or understandings regarding the handling of certain business opportunities and funds that were later challenged in the suits."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Linda stated that some funds she handled in the challenged transactions were received and disbursed on behalf of Peter Fong's friends and associates as a favour to them."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The Estate of Peter Fong had its own legal representation in the proceedings but did not take part in either suit and did not apply to set aside the third party notices or object to the commencement of third party proceedings."
+        }
+      ],
+      "Issue": "Whether the Estate of Peter Fong, in light of Peter Fong's role as Chairman, director, and substantial shareholder of Airtrust (Singapore) Pte Ltd and his instructions or understandings with Linda regarding the challenged transactions, should share responsibility with Linda for any losses to the company through contribution or indemnity under the statutory contribution regime.",
+      "Rule": "A person, including a deceased person's estate, may be a statutory claim for contribution under section 15 of the Civil Law Act if that person is in respect of the same damage suffered by another, regardless of whether the liability arises jointly or otherwise and regardless of the legal basis of that liability.",
+      "Application": "Linda sought to involve the Estate of Peter Fong as a third party on the basis that Peter Fong, as Chairman and director, directed or authorised the challenged transactions and therefore, if those transactions resulted in losses for Airtrust (Singapore) Pte Ltd for which she is held responsible, his estate should also be treated as responsible in respect of the same losses and be contribute or indemnify her under the Civil Law Act.",
+      "Judicial_Reasoning_Log": "The judgment notes that the Estate of Peter Fong did not itself object to the third party proceedings and that the objections came from the plaintiffs in the main actions. The judge considered whether, assuming the facts alleged by Linda are established, Peter Fong could be regarded as responsible in respect of the same damage as Linda and therefore a proper target for a contribution claim. The court concluded that there are realistic possibilities in which Peter Fong, as Chairman and director, could be found responsible for the same losses as Linda, and that the statutory contribution framework permits such a claim. Accordingly, the judge allowed the third party proceedings and amendments to proceed so that the trial court can later determine the Estate's responsibility, if any, after full examination of the evidence."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 3
+  }
+]

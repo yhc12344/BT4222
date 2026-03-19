@@ -1,0 +1,411 @@
+[
+  {
+    "Metadata": {
+      "Judge": "Philip Jeyaretnam JC",
+      "Date": "2021-09-28",
+      "Tribunal_Court": "General Division of the High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "AMG Global Investments & Holdings Pte Ltd (in Liquidation)",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "AMG Global Investments & Holdings Pte Ltd (AMG) is a company incorporated in Singapore with objects of trading in metals and providing financial services."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Prior to 23 August 2017, AMG's bank account with Standard Chartered Bank (Singapore) Limited (the SCB Account) had a zero balance."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 23 August 2017, a small deposit of US$7.22 was made into AMG's SCB Account."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "On 21 June 2017, AMG and Food & Beverage Cap Co Ltd (F&BCo) entered into a discounting/monetizing agreement and memorandum of understanding (MOU) under which AMG would receive an irrevocable confirmed documentary letter of credit (DLC) in the sum of US$2,860,000 issued by Kasikornbank Public Company Limited of Bangkok, Thailand."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "Under the 21 June 2017 MOU between AMG and F&BCo, AMG was to pay 75% of the DLC value, amounting to US$2,145,000, to F&BCo within three business days after receipt of funds."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "Under the 21 June 2017 MOU, AMG was to pay 5% of the DLC value, amounting to US$143,000, to White Lotus Cosmetics Limited as a service fee."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "Under the 21 June 2017 MOU, AMG would retain 20% of the DLC value, amounting to US$572,000, described as a non-recourse payment for AMG."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "Under the arrangement documented in the MOU, AMG was described as seller of 1,000 metric tons of aluminium sheets to F&BCo and was to receive payment via the DLC issued by Kasikornbank."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 25 August 2017, US$2,764,104.53 was deposited into AMG's SCB Account as proceeds under the DLC arrangement with F&BCo and Kasikornbank."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "AMG did not transfer US$2,145,000 to F&BCo within three business days after receipt of the DLC proceeds as contemplated in the 21 June 2017 MOU."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "AMG did not deliver 1,000 metric tons of aluminium sheets to F&BCo under the DLC arrangement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On or about 29 August 2017, the balance in AMG's SCB Account fell below US$2,145,000, the amount specified in the MOU as payable to F&BCo."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "After 29 August 2017, further large payments and withdrawals were made from AMG's SCB Account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 22 November 2017, F&BCo issued a statutory demand to AMG for US$2,145,000 based on the MOU and DLC arrangement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 9 March 2018, AMG was wound up based on the unsatisfied statutory demand dated 22 November 2017 in the amount of US$2,145,000."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "On 22 November 2017, a statutory demand for US$2,145,000 was issued by F&BCo to AMG."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The 21 June 2017 MOU between AMG and F&BCo specified payment percentages of 75% to F&BCo, 5% to White Lotus Cosmetics Limited, and 20% retained by AMG from the DLC value of US$2,860,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "AMG appears to have had no significant assets other than the balance in the SCB Account during the period August to September 2017."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "AMG appears not to have had ongoing business operations that generated revenue during the period leading up to and including 2017."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "By 23 January 2018, Manu Poovannunilkunnathil Kuttappan was recorded as the 100% owner of AMG's shares."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct and financial flows, the pattern and timing of withdrawals and payments from AMG's bank account, in the context of the DLC monetization arrangement with F&BCo and AMG's asset position, are associated with an outcome where the directors are held financially responsible for losses to the company.",
+      "Rule": "In company law, directors are generally expected to act with reasonable skill and care, to act in the interests of the company, to ensure that company funds are applied for company purposes, and to consider creditor interests when the company has insufficient assets to meet its obligations. Where company assets are transferred to individuals or third parties without clear commercial justification or documentation, and where contractual payment obligations to counterparties are not met, courts may order those responsible for authorising or enabling such transfers to compensate the company.",
+      "Application": "AMG entered into a monetization arrangement with F&BCo under which it received DLC proceeds of approximately US$2.86 million and was contractually scheduled to pay US$2,145,000 to F&BCo and US$143,000 to White Lotus Cosmetics Limited, retaining US$572,000. The SCB Account had a zero balance before the DLC-related inflows. After receipt of the funds on 25 August 2017, AMG did not transfer US$2,145,000 to F&BCo or deliver 1,000 metric tons of aluminium sheets. Instead, a series of withdrawals and payments were made from the SCB Account, including cash withdrawals, payments to individuals, and payments to entities described as consultants or service providers, many without contemporaneous supporting documentation. By about 29 August 2017, the SCB Account balance fell below US$2,145,000, and further withdrawals continued, while AMG had no other significant assets or revenue-generating business. These observable facts create a pattern where company funds received under the DLC arrangement were dissipated through multiple outgoing transactions, and the company was later unable to satisfy the statutory demand from F&BCo, leading to winding up.",
+      "Judicial_Reasoning_Log": "The court analysed the directors' duties under the Companies Act and general law, including duties to act bona fide in the interests of the company, for proper purposes, to avoid conflicts, and to exercise reasonable skill and care. It examined each impugned transaction, distinguishing between those where reliance on explanations was still considered reasonable and those where the director should have recognised that the payments were not for proper corporate purposes. The judge evaluated Mr Ong's mental health evidence and concluded that his mental collapse followed, rather than preceded, his participation in improper withdrawals, and that he remained responsible for his decisions while in office. For Mr Koh, the court considered his prior loans to AMG and his return as director, finding that he knowingly allowed the other director to operate the bank account without checks despite being aware of prior disagreements over payments. The court applied principles of knowing receipt to certain payments received by Mr Koh before he rejoined as director, and considered but declined to grant relief under Companies Act s 391, finding that Mr Ong had not acted reasonably and that Mr Koh had not acted honestly or reasonably. The court quantified losses attributable to each defendant based on the specific transactions found to be unauthorised or not in the company's interests and entered monetary judgments with interest against both defendants."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Judge": "Philip Jeyaretnam JC",
+      "Date": "2021-09-28",
+      "Tribunal_Court": "General Division of the High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Ong Kee Ming Richard",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Ong Kee Ming Richard is a Singapore citizen."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "Richard Ong was a director of AMG from 13 September 2006 to 25 September 2017."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "As a result of share allotments in September and October 2006, Richard Ong originally held 100,000 shares in AMG."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Text": "A directors' resolution dated 21 September 2017 recorded that 640,000 shares in AMG were registered in the name of Richard Ong at that time."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "From 23 August 2017 to 21 September 2017, Richard Ong and Manu Poovannunilkunnathil Kuttappan were joint signatories to AMG's SCB Account."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "On or about 11 August 2017, Richard Ong obtained a handwritten confirmation from Manu Poovannunilkunnathil Kuttappan stating that Manu took full responsibility for payments made from the SCB Account and for the procurement and supply of goods mentioned in the DLC."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 25 August 2017, a cash withdrawal of US$11,216.75 was made from AMG's SCB Account, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 25 August 2017, a payment of US$22,556.39 was made from AMG's SCB Account to ORO Trading Pte Ltd, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 26 August 2017, a payment of US$9,398.50 was made from AMG's SCB Account to Lim Chin Keng, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 26 August 2017, a payment of US$22,142.86 was made from AMG's SCB Account to Chen Mei Qi, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 26 August 2017, a cash withdrawal of US$20,000 was made from AMG's SCB Account, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 28 August 2017, a payment of US$149,398.22 was made from AMG's SCB Account to Abdul Razeed, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 28 August 2017, a payment of US$74,699.11 was made from AMG's SCB Account to Richard Ong, described as remuneration for his services as a director."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 28 August 2017, a cash withdrawal of US$112,666.38 was made from AMG's SCB Account, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 28 August 2017, a payment of US$5,000 was made from AMG's SCB Account to an individual named Adanuty, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 29 August 2017, two payments described as consultancy fees were made from AMG's SCB Account to Sabre Global Pte Ltd, totalling part of US$181,119.92, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 5 September 2017, a further payment was made from AMG's SCB Account to Sabre Global Pte Ltd, bringing total payments to that entity to US$181,119.92, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 29 August 2017, a payment of US$75,000 was made from AMG's SCB Account to Manu Poovannunilkunnathil Kuttappan, described as remuneration for past directors' fees, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 29 August 2017, a payment of US$100,000 was made from AMG's SCB Account to Three Quality Services Limited, described as consultancy fees, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 5 September 2017, a payment of US$450,000 was made from AMG's SCB Account to Kevin Anthony Griffin Jr, described on transfer forms as relating to supply of aluminium, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 21 September 2017, a further payment of US$450,000 was made from AMG's SCB Account to Kevin Anthony Griffin Jr, described on transfer forms as relating to supply of aluminium, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 5 September 2017, a payment of US$143,000 was made from AMG's SCB Account to White Lotus Cosmetics Limited, matching the 5% service fee specified in the 21 June 2017 MOU, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 6 September 2017, a payment of US$150,000 was made from AMG's SCB Account to Quality Printers Pte Ltd, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 21 September 2017, a payment of US$37,458.77 was made from AMG's SCB Account to Koh Ting Giap, as the first half of an intended US$75,000 amount, authorised by joint signatories including Richard Ong."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "Richard Ong and Manu Poovannunilkunnathil Kuttappan signed documents with Standard Chartered Bank to establish a credit facility for AMG secured against a fixed deposit of US$1,000,000."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "A memo from Clementi Polyclinic dated 26 February 2020 recorded that Richard Ong had visited the clinic in September 2017 and was referred to National University Hospital to investigate a possible psychosis episode."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In a letter dated 2 March 2020 responding to a demand letter, Richard Ong wrote that during the period of the questioned payments he was in poor physical and mental health, that he trusted Manu to handle AMG's business and account, and that Manu raised his voice and insisted that he countersign documents."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Richard Ong stated that on occasions when he asked Manu about certain documents or payments, Manu told him they were legitimate business payments and that he would handle the accounting records."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Richard Ong stated that he relied on Manu's representations about the validity of payments when countersigning transactions on the SCB Account."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Richard Ong stated that he attempted to avoid going to the bank when called by Manu during the period of large withdrawals from the SCB Account."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Richard Ong stated that he told Manu he wanted to leave the company and asked Manu to bring in another person to replace him as director."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Richard Ong stated that he understood that as the only Singapore-resident director he could not resign until another locally resident director was appointed."
+        }
+      ],
+      "Issue": "Whether the pattern of authorisations by Richard Ong for withdrawals and payments from AMG's bank account, after receipt of DLC proceeds and in light of his role as joint signatory and director, is associated with an outcome where he is held financially responsible for specific losses to the company.",
+      "Rule": "Directors who authorise company payments are generally expected to understand the nature and purpose of those payments, to ensure that they are for proper company purposes, and to take reasonable steps to verify transactions, especially where amounts are large or circumstances are unusual. When a director continues to authorise payments after becoming aware of concerns about the legitimacy or purpose of transactions, courts may order that director to compensate the company for resulting losses. Mental health considerations may be taken into account but do not automatically remove responsibility if the director understood and controlled the relevant decisions.",
+      "Application": "Richard Ong was a long-serving director of AMG and, together with Manu, a joint signatory on the SCB Account during the period when AMG received DLC proceeds and made numerous outgoing payments. He authorised multiple cash withdrawals and transfers to individuals and entities, including a payment to himself of US$74,699.11 and payments described as consultancy fees or remuneration, many without contemporaneous supporting documentation. He obtained a handwritten confirmation from Manu on 11 August 2017 that Manu would take full responsibility for payments and supply of goods under the DLC, indicating that he was aware of potential exposure and sought protection. He later described feeling pressured by Manu, including raised voices and insistence that he countersign, and he attempted to avoid attending the bank. He also stated that he wanted to resign but believed he could not do so until another locally resident director was appointed. The sequence of transactions shows that after the initial DLC inflow, large sums were withdrawn or transferred out of AMG, including to himself and to third parties, while AMG did not make the scheduled payment to F&BCo or deliver aluminium. These observable facts link his authorisations to the depletion of AMG's only significant asset and to the company's inability to meet the statutory demand.",
+      "Judicial_Reasoning_Log": "The court examined each transaction authorised by Richard Ong, distinguishing early payments where reliance on Manu's explanations was considered reasonable from later payments where Ong was found to have understood that the withdrawals were not for proper corporate purposes. The judge treated the payment to White Lotus as consistent with the MOU and did not attribute liability for that item. For other payments, including large cash withdrawals, payments to Abdul Razeed, Sabre Global, Three Quality Services, Quality Printers, and Kevin Anthony Griffin Jr, as well as the payment to Ong himself, the court concluded that Ong either knew or should have known that the transactions were not in AMG's interests and that he failed to exercise reasonable care and judgment. The judge rejected Ong's reliance on mental health issues as a basis for excusing liability, finding that his mental collapse followed his participation in the transactions and that he had demonstrated understanding of his responsibilities by obtaining Manu's written confirmation. The court also considered but declined to grant relief under Companies Act s 391, holding that Ong had not acted reasonably once he appreciated the nature of the withdrawals. The court quantified the total amount of transactions for which Ong was responsible and entered judgment against him with interest."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Judge": "Philip Jeyaretnam JC",
+      "Date": "2021-09-28",
+      "Tribunal_Court": "General Division of the High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Koh Ting Giap",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Koh Ting Giap is a Singapore citizen."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "Koh Ting Giap was a director of AMG from 13 September 2006 to 10 January 2014, and again from 25 September 2017 until AMG was wound up."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "During the period from October 2007 onwards, AMG had three directors: Manu Poovannunilkunnathil Kuttappan, Richard Ong, and Koh Ting Giap."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "Koh Ting Giap left AMG as a director around early 2014 because AMG had done very little business despite discussions of potential deals."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "Koh Ting Giap rejoined AMG as a director in 2017 at the request of Manu, after Manu informed him that a letter of credit had been monetized and that Richard Ong was not cooperating."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "When Koh rejoined AMG in 2017, Manu was the sole signatory of AMG's bank account and the 100% shareholder, and Koh did not hold any AMG shares."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Text": "A directors' resolution dated 25 September 2017 recorded a transfer of 640,000 AMG shares from Koh Ting Giap to Manu Poovannunilkunnathil Kuttappan."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Text": "On 26 September 2017, a directors' resolution signed by Manu and Koh authorised Manu to be the sole signatory for AMG's banking facilities with Standard Chartered Bank."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "As a result of share allotments in 2006, 1,080,000 AMG shares were registered in the name of Koh, of which 1,079,996 shares were held as nominee for Weeds Natural Remedies Pte Ltd in consideration of provision of health supplement formulae and an eight-year licence to certain registered trade marks."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "Weeds Natural Remedies Pte Ltd provided AMG with formulae for natural health supplements and an eight-year licence to exclusive use of certain registered trade marks in exchange for shares registered in the name of Koh as nominee."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "In an email dated 13 June 2009 to Manu, Koh stated that his total cash, loan, office expenses, and office renovation contributions relating to AMG amounted to 205,000 + 85,000 + 315,000 + 300,000 = 905,000 (currency not specified in the email excerpt)."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "In an email dated 28 July 2009 to Richard Ong, Koh stated that his total cash and liability contributions relating to AMG were S$614,000, comprising S$205,000 cash, S$94,000 loan, and S$315,000 office rental expenses."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Koh stated that when he left AMG around 2014, he did so because Manu had not brought in business or funds since 2006 and he wanted to focus on his own transactions."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Koh stated that when he rejoined AMG in 2017, he did so partly to help with AMG's business and partly with the expectation that AMG would repay his prior loans when funds were available."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Koh stated that Manu told him that Manu wanted to be the 100% shareholder, the sole signatory of AMG's bank account, and the CEO so that he could run AMG's business as the main decision maker."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Koh stated that he raised concerns about his responsibilities as a director and that Manu told him Manu would take full responsibility for all AMG matters as director, CEO, sole shareholder, and bank account signatory."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Koh stated that he met Manu frequently after rejoining AMG to discuss AMG's business and to provide input on business matters he knew about."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Koh stated that he understood that part of the monetized DLC proceeds needed to be paid back to the issuer of the letter of credit."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Koh stated that Manu told him that most decisions on distribution of the monetized funds had already been made before Koh rejoined AMG."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Koh stated that he told Manu that AMG's business needed to be run in proper order and that he did not want to get into trouble, and that Manu gave him his commitment."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Koh stated that Manu agreed to pay him two payments of S$50,000 each as partial repayment of his loan to AMG, and that Koh asked for more but was told that Manu had existing payment commitments."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 21 September 2017, AMG paid US$37,458.77 from its SCB Account to Koh as the first half of an intended US$75,000 amount."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 29 September 2017, AMG paid US$37,247.43 from its SCB Account to Koh."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Between late September 2017 and 2 July 2018, twelve cash withdrawals or cash cheques totalling US$148,064.97 were made from AMG's SCB Account while Koh was a director and Manu was sole signatory."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 2 October 2017, AMG paid US$10,000 from its SCB Account to Uniroyal Communications Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 2 October 2017, AMG paid US$11,000 from its SCB Account to Chua Pair Shen."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 3 October 2017, AMG paid US$11,500 from its SCB Account to Shuan Jarmen."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 11 October 2017, AMG paid US$3,700 from its SCB Account to Christina Marie Nyanmani."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "AMG made a payment of US$1,370 from its SCB Account to Ng Wai Loon while Koh was a director and Manu was sole signatory."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "AMG made a payment of US$1,850 from its SCB Account to Abdul Razeed while Koh was a director and Manu was sole signatory."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On or about 9 November 2017, AMG drew down US$744,000 under its credit facility with Standard Chartered Bank and paid that amount to Smart Recycling Pte Ltd, supported by an invoice and delivery order from Smart Recycling Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Interest of US$10,879.76 accrued under AMG's credit facility with Standard Chartered Bank in connection with the drawdown used to pay Smart Recycling Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Koh stated that when Manu invited him back to AMG, he took the opportunity to try to recover some of his loans to AMG."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Koh stated that Manu told him that Richard Ong did not want to sign cheques and that this made it difficult for Manu to conduct business."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Koh stated that Manu told him that Richard Ong sometimes did not appear when called to sign documents, and that this was a main reason Manu wanted Koh to rejoin AMG."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Koh stated that he understood his role as director to include responsibility for AMG's accounts."
+        }
+      ],
+      "Issue": "Whether, based on Koh Ting Giap's role as director, his agreement to make Manu the sole bank signatory, his knowledge of prior disagreements over cheque signing, and the subsequent pattern of withdrawals and payments while he was on the board, his conduct is associated with an outcome where he is held financially responsible for specific losses to AMG, including amounts he received.",
+      "Rule": "Directors are generally expected to safeguard company assets, to implement or maintain reasonable controls over company bank accounts, and to inform themselves about the company's financial position, especially when the company has limited assets and significant obligations. A director who knowingly allows another individual to control company funds without checks, in circumstances suggesting a risk of misuse, may be required to compensate the company for losses arising from unauthorised or undocumented withdrawals. Where a person receives company funds in circumstances where he knows that the payment is connected with another's misuse of company assets, courts may treat him as responsible for returning those funds.",
+      "Application": "Koh was a long-standing director of AMG who left in 2014 and rejoined in 2017 after Manu informed him that a letter of credit had been monetized and that Richard Ong was not cooperating in signing cheques. Before rejoining, Koh had contributed funds and incurred expenses for AMG, which he recorded in 2009 emails to Manu and Richard Ong, and he believed AMG owed him a substantial amount. When he rejoined, Manu was the 100% shareholder and sole bank signatory, and Koh agreed via a board resolution on 26 September 2017 that Manu would remain sole signatory for AMG's banking facilities. Koh understood that Richard Ong had been reluctant to sign cheques and that this had made it difficult for Manu to operate. After Koh rejoined, AMG's only significant asset remained the SCB Account and the related credit facility, and AMG had no ongoing revenue-generating business. While Koh was a director and Manu was sole signatory, multiple cash withdrawals and payments to individuals and entities were made from the SCB Account, many without contemporaneous supporting documentation. Koh received two payments from AMG totalling approximately US$74,700, which he regarded as partial repayment of his loans, and he acknowledged that he had conditioned his return as director on receiving some repayment. A drawdown of US$744,000 under the SCB facility was used to pay Smart Recycling Pte Ltd, supported by documents, but without evidence of an underlying trading transaction. These observable facts show that Koh, while aware of prior issues with cheque signing and of AMG's limited asset base, agreed to a structure in which Manu controlled the bank account without checks and that he personally received payments from AMG in that period.",
+      "Judicial_Reasoning_Log": "The court found that Koh knew that Manu sought his return as director because Richard Ong had resisted signing certain cheques, and that this should have alerted Koh to potential issues with Manu's use of company funds. By signing the resolution making Manu sole signatory and by not instituting any alternative controls, Koh effectively removed the only check on Manu's operation of the SCB Account. The judge concluded that Koh prioritised recovery of his own loans over protection of AMG's assets and that he turned a blind eye to the risk that Manu would use company funds for non-corporate purposes. The court treated the payment of US$37,458.77 to Koh before he rejoined as director as knowing receipt, given the context of his bargain with Manu, and held him responsible for subsequent undocumented withdrawals and the Smart Recycling payment and related interest as losses flowing from his breach of duty in allowing Manu unchecked control. The court considered but declined to grant relief under Companies Act s 391, finding that Koh had not acted honestly or reasonably in the circumstances, and entered judgment against him for the quantified losses with interest."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  }
+]

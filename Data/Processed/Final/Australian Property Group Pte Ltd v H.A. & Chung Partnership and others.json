@@ -1,0 +1,479 @@
+[
+  {
+    "Metadata": {
+      "Judge": "Judith Prakash",
+      "Date": "2015-05-29",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Australian Property Group Pte Ltd",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Australian Property Group Pte Ltd (APG) was incorporated on 9 February 2009."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "APG was placed under judicial management on 21 March 2011."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "APG was in the business of marketing and selling Australian real estate on behalf of Australian property developers."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "APG marketed land and premises in Australia, including properties under construction."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "APG earned revenue from commissions paid by Australian property developers."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "APG incurred expenses related to rent, staff costs and marketing costs."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "APG typically received a Front End Commission upon a buyer signing an unconditional sale contract with a 5% to 10% deposit, and a Back End Commission upon completion of the sale and purchase."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "The Front End Commission was typically less than the Back End Commission and was intended to cover APG’s operational marketing costs, while the Back End Commission represented mainly profit."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "A considerable period of time could elapse between APG’s receipt of Front End Commission and Back End Commission because completion occurred only after construction of the premises."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "APG received a loan of $900,000 from Goh Cheng Liang pursuant to a loan agreement dated 11 March 2009."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Text": "Mr Gan, Mr Hou and Mr Lee acted as non-executive directors of APG to protect the interests of lender Goh Cheng Liang, while the second and third defendants controlled APG’s day-to-day operations."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "Under the 11 March 2009 loan agreement with Goh Cheng Liang, APG agreed that until the loan was fully repaid it would not make payment of any director’s fees, remuneration or benefits to any director, except salaries payable in the ordinary course to the executive directors."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "On 6 March 2009, APG’s board passed a resolution ratifying APG’s purchase of a vehicle registered under the name of the second defendant and required him to execute an acknowledgment of trust that he held the vehicle on trust for APG."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "In November 2009, APG borrowed A$900,000 from Ubertas Funds Management Pty Ltd and used the funds to repay the $900,000 loan from Goh Cheng Liang."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "The Ubertas loan was repayable by monthly instalments of A$40,000."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Text": "On 7 November 2009, the non-executive directors, Gan Siong Teck, Hou Junyu and Lee Jer Ren, resigned from APG’s board and their shares in APG were subsequently transferred to the second defendant."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Text": "On 8 December 2009, Lim Kay-Lin Kathlene was appointed as a director of APG."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "In January 2010, Lim Kay-Lin Kathlene purchased 240,000 shares in APG from the second defendant for $160,000."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In early 2010, APG was unable to pay its rent, advertising agencies and staff salaries, and its accounts were disorganised."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "APG engaged Firstwaters Consultants Pte Ltd to reconstruct APG’s accounts from 2009 and to maintain APG’s day-to-day accounting."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Text": "APG engaged chartered accountant John Kennedy Stuart to provide tax services and advice to APG’s clients."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Subsequently, Lim Kay-Lin Kathlene asked John Kennedy Stuart to investigate and report on APG’s financial situation."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "On 2 July 2010, John Kennedy Stuart sent an email to APG’s directors stating his view that APG was technically insolvent, referring to cash flow difficulties, existing and pending financial commitments, and expected cash flow from debtors."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "On 2 July 2010, the second defendant replied by email that the creditors’ report and revenue report had been visible to the directors for at least six months and that there was nothing new in the creditors’ report or in Stuart’s summary of APG’s cash flow and creditors’ position."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "In May 2010, APG’s landlord that APG was more than three months in arrears of rent."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "On 18 May 2010, the second defendant emailed APG’s landlord asking for understanding and stating that APG, as a new business, had experienced cash flow struggles."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 24 June 2010, APG received a demand from its advertising agency to pay an outstanding amount of $59,502.92 by 4 July 2010, with a subsequent communication on 16 July 2010 that legal action would be taken if payment was not received by 19 July 2010."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "In July 2010, Lim Kay-Lin Kathlene injected $25,000 into APG to help fund a marketing event."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "On 6 September 2010, APG, the second defendant, the third defendant and Lim Kay-Lin Kathlene executed an agreement referred to as the September Agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Under the September Agreement, Lim Kay-Lin Kathlene agreed to capitalise $175,000 owed by APG to her and to inject an additional $150,000 into APG in exchange for 325,000 new shares."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Under the September Agreement, the second defendant acknowledged owing APG $300,450.37, and it was agreed that APG would write off 40% of this amount and that the second defendant would pay the remaining $180,270.22 in two instalments by 31 December 2011 and 31 December 2012."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Under the September Agreement, the parties agreed that unpaid share capital totalled $800,000, with the second defendant allocated liability of $560,000, the third defendant $160,000 and Lim Kay-Lin Kathlene $80,000."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "Clause 1.3 of the September Agreement provided that the shareholders would repay APG 10% of the outstanding unpaid share capital each year for ten years."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Text": "On 6 October 2010, by written directors’ resolution signed by the second defendant and Lim Kay-Lin Kathlene, APG’s board approved the appointment of Ferrier Hodgson Pte Ltd to conduct a review of APG’s accounts."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "On 11 October 2010, Ferrier Hodgson sent APG’s board a draft summary of findings from its preliminary review of APG’s financial books and records, indicating that many payments, including payments to the second and third defendants, lacked supporting vouchers and that various professional fees and payments to the second defendant and to Australian Property Group (Vic) Pty Ltd were unsupported by documents."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Ferrier Hodgson’s draft review noted that APG had paid for personal expenses of the second defendant."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "On 13 October 2010, the second defendant, the third defendant and Lim Kay-Lin Kathlene signed a handwritten document referred to as the October Agreement."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "Under the October Agreement, the second and third defendants agreed to resign as directors on 13 October 2010 and to transfer all their shares in APG to Lim Kay-Lin Kathlene, except for 10% of the shares to remain with the third defendant."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Under the October Agreement, Lim Kay-Lin Kathlene agreed to pay the second defendant’s outstanding expenses and commission in instalments."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "The October Agreement recorded that, upon settlement, the second and third defendants would have no liability to APG from a compliance perspective and would owe nothing to APG, excluding any personal tax liabilities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "On 1 March 2011, Lim Kay-Lin Kathlene applied to place APG under judicial management."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Text": "On 21 March 2011, judicial management of APG commenced and Timothy James Reid of Ferrier Hodgson was appointed as judicial manager."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "After his appointment, the judicial manager identified that the second and third defendants had not paid APG for their shares although the shares had been issued as fully paid up, and he demanded payment."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "After his appointment, the judicial manager identified numerous payments made to the second defendant after APG’s incorporation which he considered unjustifiable due to lack of documentary support."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "In February 2010, APG carried out a marketing campaign for a property developed by Ubertas 350 William Street Pty Ltd and on 22 February 2010 issued an invoice to Ubertas 350 for A$86,000 for marketing funds, signed by the second defendant with instructions for payment to his personal bank account in Australia."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Ubertas 350 William Street Pty Ltd paid A$86,000 into the second defendant’s personal bank account in Australia pursuant to the 22 February 2010 invoice."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "APG’s articles of association included provisions (Articles 17, 19, 20, 32, 34 and 36) governing calls on unpaid share capital, joint and several liability of joint holders for calls, and forfeiture of shares for non-payment of calls."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct and financial arrangements, the second and third defendants were pay unpaid share capital and to return or account for company funds transferred to or used for the second defendant’s personal benefit, and whether the September and October Agreements altered these obligations.",
+      "Rule": "Company directors and shareholders are generally pay agreed share capital when called and to ensure that company funds are applied for company purposes; when a company is insolvent or near insolvency, decisions affecting company assets must take into account the interests of creditors, and transactions that reduce assets available to creditors may be set aside if they conflict with these interests.",
+      "Application": "APG’s business model generated delayed Back End Commissions while it faced immediate obligations for rent, staff and marketing. By mid-2010, APG experienced cash flow difficulties, arrears of rent, and creditor demands, and its accountant described APG as technically insolvent. During this period, APG had outstanding loans from Ubertas and later from Lim Kay-Lin Kathlene, and the September and October Agreements restructured unpaid share capital, wrote down amounts acknowledged by the second defendant as owing to APG, postponed capital payments over ten years, and provided that the second and third defendants would owe nothing to APG upon settlement. At the same time, APG funds were used to pay personal expenses of the second defendant and marketing funds invoiced by APG were directed to the second defendant’s personal account. These events created a conflict between preserving APG’s asset base for creditors and the personal financial arrangements benefiting the second and third defendants.",
+      "Judicial_Reasoning_Log": "The judge analysed APG’s financial position, including evidence of cash flow problems, arrears of rent, creditor demands, and the accountant’s opinion that APG was technically insolvent as at 2 July 2010. Applying Singapore authorities on directors’ duties in insolvency or near insolvency, the judge held that the directors were required to consider creditors’ interests and that the September and October Agreements, which wrote off portions of the second defendant’s debt, reallocated and deferred unpaid share capital, and purported to absolve the defendants from liability, were not in the interests of APG’s creditors. The Agreements were treated as voidable self-dealing transactions and were set aside. The judge further found, based on documentary evidence and the absence of supporting vouchers, that substantial payments made by APG for the second defendant’s American Express bills, legal fees in litigation with JL Property, travel expenses for the second defendant and his family, payments to third parties for personal items such as school fees and telephone charges, and the A$86,000 received from Ubertas 350 into the second defendant’s personal account were not shown to be company expenses or authorised remuneration. The court rejected the alleged Account Practice and Oral Agreement as unproven and inconsistent with the loan covenants and the conduct of the non-executive directors. The judge concluded that the second defendant was required to repay the unauthorised payments (subject to sums already recovered from the first defendant) and to pay unpaid share capital of $400,000, and that the third defendant was required to pay unpaid share capital of $160,000. Both defendants were ordered to account jointly and severally for all APG funds paid into their joint account, with repayment required for any amounts not shown to have been used for APG’s purposes. The counterclaims based on the September Agreement were dismissed because that agreement was held invalid."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 3
+  },
+  {
+    "Metadata": {
+      "Judge": "Judith Prakash",
+      "Date": "2015-05-29",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Sean Colville Niven",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "The second defendant, Sean Colville Niven, has been involved in the business of marketing and selling Australian properties since 1989."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Before December 2008, the second defendant worked with the third defendant in JL Property Group Pte Ltd, a company selling Australian properties."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In December 2008, the second and third defendants decided to start their own company to sell Australian properties and resigned from JL Property Group Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Text": "In December 2008, the second and third defendants approached Goh Cheng Liang, the godfather of the third defendant, for a $900,000 loan as start-up capital for their new venture."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "On incorporation of APG, the second defendant was a director and shareholder holding 360,000 ordinary shares."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "After the resignation of the non-executive directors on 7 November 2009 and transfer of their shares, the second defendant’s shareholding in APG increased to 640,000 shares."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "After 8 December 2009, the APG board comprised the second defendant, the third defendant and Lim Kay-Lin Kathlene."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "After 8 December 2009, the second defendant and Lim Kay-Lin Kathlene were executive directors of APG."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "Within APG, the second defendant was responsible for securing rights to market properties from Australian developers and for managing APG’s finances."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The second defendant had extensive experience and connections with Australian property developers."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On incorporation, APG’s shares were issued as fully paid up, but the subscription monies for the second defendant’s and other initial shareholders’ shares were not actually paid to APG."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Under the September Agreement, the second defendant acknowledged owing APG $300,450.37."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Under the September Agreement, it was agreed that APG would write off 40% of the $300,450.37 and that the second defendant would pay the remaining $180,270.22 in two instalments by 31 December 2011 and 31 December 2012."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Under the September Agreement, the second defendant’s unpaid share capital liability was recorded as $560,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "On 22 January 2010, the second defendant sold and transferred 240,000 APG shares to Lim Kay-Lin Kathlene for $160,000, and the transfer form described the shares as fully paid up."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "The second defendant received $160,000 directly from Lim Kay-Lin Kathlene for the transfer of 240,000 APG shares."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "In February 2010, APG issued an invoice for A$86,000 to Ubertas 350 William Street Pty Ltd for marketing funds, which the second defendant signed with instructions for payment to his personal bank account in Australia."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Ubertas 350 William Street Pty Ltd paid A$86,000 into the second defendant’s personal bank account in Australia pursuant to the APG invoice."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "APG made payments to American Express Inc to settle the second defendant’s American Express credit card bills, totalling $326,944.34."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "APG paid $48,994.47 and A$1,987.42 in legal fees to HW Litigation and Butcher Paul & Calder in relation to Suit No 170 of 2009, a suit brought by JL Property Group Pte Ltd against the second defendant, the third defendant and others."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "APG made payments directly to the second defendant without proper supporting documents, totalling $264,746.96 and A$90,191.25."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Some payments to the second defendant were described in APG’s records as loans, commission, or sales incentives, including items totalling $31,000 described as commission and sales incentives."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "APG paid $33,328.37 for travel expenses of the second defendant and his family, including air travel for his wife, children and domestic helper, and a trip by the second defendant and his wife to France in August 2009."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "APG made payments to third parties on behalf of the second defendant, including telephone charges for the second defendant and his children, school fees for his children, and rental and leasing of furniture, totalling $245,966.83 and A$6,088.43."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "APG paid an invoice amount of A$86,000 into the second defendant’s personal bank account maintained with the Commonwealth Bank of Australia, corresponding to the Ubertas 350 marketing funds."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "The total of the categories of payments APG identified as made to or on behalf of the second defendant was $919,980.97 and A$184,266.68."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The second defendant stated in court that APG paid only business-related expenses on his American Express card, although APG’s records showed full monthly payments of the card balances."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The second defendant stated that a charge of $11,743.70 at Boss Selection Singapore on his American Express bill was for clothing for himself and the third defendant and that he considered this part of his employment package."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The second defendant stated that APG’s payments of his legal fees in Suit No 170 of 2009 were made with the knowledge and agreement of APG’s shareholders and non-executive directors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The second defendant did not pay any part of the settlement money he received from JL Property Group Pte Ltd in Suit No 170 of 2009 to APG."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The second defendant stated that Ubertas 350 William Street Pty Ltd required that the A$86,000 marketing funds be paid to him personally and that he spent the funds on the marketing campaign."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The second defendant stated that he spent an additional A$13,000 on the Ubertas 350 project and reclaimed that amount from APG."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The second defendant stated that his assistant, Vanessa Foo, collected receipts for the A$86,000 marketing funds and passed them to APG’s Accounts Department."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "In court, when asked about the A$86,000 payment from Ubertas 350, the second defendant stated that Ubertas 350 saw him as APG and that 'APG is me'."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "The second defendant drew three OCBC cheques in late 2009: cheque no. 771399 dated 1 December 2009 for $490,000 to APG, cheque no. 771397 dated 17 November 2009 for $300,000 to APG, and cheque no. 771893 dated 17 November 2009 for $320,000 to Lim Kay-Lin Kathlene."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Part of the Ubertas loan proceeds of A$450,000 was deposited into the second defendant’s personal account in Australia and then transmitted to APG via the cheques he drew in Singapore dollars."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The second defendant stated that he intended to use the Ubertas loan funds as paid-up capital for APG but later received legal advice that this could not be done."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "In February 2009, the second and third defendants opened a joint current account with United Overseas Bank Ltd, account number 339xxx."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Between 6 February 2009 and 31 May 2009, funds were regularly transferred from APG’s bank account into the joint account of the second and third defendants."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The second defendant held APG’s cheque books after 8 December 2009, and his personal assistant, Vanessa Foo, had access to the cheque books, bank tokens and bank balances."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Text": "On 8 December 2009, the APG board resolved that cheques drawn on APG’s bank account could be signed by a single signatory, either the second defendant or Lim Kay-Lin Kathlene."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The second defendant stated that there was an oral understanding among APG’s directors that he would be reimbursed for expenses he considered himself entitled to claim, including rent, travel expenses and his children’s school fees."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "In an email dated 18 July 2010, the second defendant wrote that APG had been under financial pressure every month since repaying the loan to Goh Cheng Liang and committing to monthly repayments of A$40,000 to Ubertas."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct and financial flows, the second defendant was pay unpaid share capital and to return or account for APG funds used for his personal expenses or received into his personal and joint accounts, and whether the September and October Agreements altered or extinguished these obligations.",
+      "Rule": "Shareholders are generally to pay unpaid amounts on their shares when validly called, and directors who control company finances are ensure that company funds are applied for company purposes and to account for funds received from the company; agreements between a company and its directors that reduce or release such obligations may be set aside if they conflict with the company’s financial position and the interests of creditors.",
+      "Application": "The second defendant held a substantial shareholding in APG, initially 360,000 shares and later 640,000 shares after acquiring the non-executive directors’ shares, and he sold 240,000 shares to Lim Kay-Lin Kathlene for $160,000 while the shares remained unpaid as to capital. APG’s records and the September Agreement recorded unpaid share capital of $560,000 attributable to the second defendant and an acknowledged debt of $300,450.37, with a portion proposed to be written off. During the same period, APG paid large sums for the second defendant’s credit card bills, legal fees in litigation concerning his prior employment, travel for his family, and various personal expenses, and transferred marketing funds invoiced by APG to his personal account. Funds were also channelled from APG’s bank account into a joint account held by the second and third defendants. The second defendant, as the director responsible for finances and with cheque-signing authority, was in a position to direct these payments. The September and October Agreements, executed when APG was experiencing cash flow difficulties and creditor pressure, proposed to reduce and defer the second defendant’s financial obligations to APG and to state that he would owe nothing to APG upon settlement, while APG’s creditors remained unpaid.",
+      "Judicial_Reasoning_Log": "The judge held that the second defendant, as a director and controlling shareholder responsible for APG’s finances, was required to account for and repay company funds used for his personal benefit. The court found that APG’s payments of the second defendant’s American Express bills, legal fees in Suit No 170 of 2009, family travel expenses, school fees, telephone charges, and other personal items were not supported by contemporaneous vouchers or contractual entitlements and were not justified as company expenses. The alleged Account Practice and Oral Agreement authorising such payments were rejected as unproven and inconsistent with the loan covenants and the conduct of the non-executive directors. The court concluded that the second defendant had to repay $919,980.97 and A$184,264.10 (less sums recovered from the first defendant) and to account for the A$86,000 received from Ubertas 350, with repayment required absent proof of proper application. On unpaid share capital, the judge held that the second defendant remained liable for $400,000 in respect of 400,000 shares he continued to hold when the call was made, but not for the 240,000 shares he had transferred to Lim Kay-Lin Kathlene, as liability for calls follows the registered holder at the time of the call. The September and October Agreements, which wrote off part of his acknowledged debt, reallocated and deferred unpaid capital, and purported to absolve him from liability, were set aside as voidable transactions entered into when APG was insolvent or near insolvency and contrary to creditors’ interests. The court therefore entered judgment against the second defendant for unpaid share capital and the identified payments, and ordered him jointly and severally with the third defendant to account for all APG funds paid into their joint account."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Judge": "Judith Prakash",
+      "Date": "2015-05-29",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Wang Zijian (James Wang)",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "The third defendant, Wang Zijian, also known as James Wang, worked with the second defendant at JL Property Group Pte Ltd before December 2008."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In December 2008, the third defendant and the second defendant decided to start their own company to sell Australian properties and resigned from JL Property Group Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Text": "In December 2008, the third defendant and the second defendant approached the third defendant’s godfather, Goh Cheng Liang, for a $900,000 loan as start-up capital for their new venture."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "On incorporation of APG, the third defendant was a director and shareholder holding 160,000 ordinary shares."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "Within APG, the third defendant was the sales manager."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "The third defendant did not pay APG for his initial 160,000 shares, although the shares were issued as fully paid up."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Under the September Agreement, the third defendant’s unpaid share capital liability was recorded as $160,000."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "Under the September Agreement, the third defendant was a party to the arrangements for capitalising debts owed to Lim Kay-Lin Kathlene, injecting new funds, and restructuring unpaid share capital."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "Under the October Agreement signed on 13 October 2010, the third defendant agreed to resign as a director of APG on that date and to transfer all his shares in APG to Lim Kay-Lin Kathlene, except for 10% of his shares to remain in his hands."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Under the October Agreement, it was recorded that upon settlement the third defendant would have no liability to APG from a compliance perspective and would owe nothing to APG, excluding any personal tax liabilities."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "In February 2009, the second and third defendants opened a joint current account with United Overseas Bank Ltd, account number 339xxx."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "Between 6 February 2009 and 31 May 2009, funds were regularly transferred from APG’s bank account into the joint account of the second and third defendants."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The third defendant participated in the use of the joint account into which APG funds were transferred, from which both defendants could draw."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "From May 2010, the third defendant was in Malaysia and was no longer involved in APG’s daily operations or management matters."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "The third defendant stated that he did not personally incur or spend the expenses that APG later challenged as unauthorised, and that he was one of three directors who approved payments."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute shareholding and banking arrangements, the third defendant was pay unpaid share capital on his APG shares and to account, together with the second defendant, for APG funds transferred into their joint bank account, and whether the September and October Agreements altered or extinguished these obligations.",
+      "Rule": "A registered shareholder is generally to pay unpaid amounts on shares when a valid call is made, and persons who receive company funds into a joint account may be account for those funds; contractual arrangements that purport to release such obligations may be ineffective if they conflict with the company’s financial position and the interests of creditors.",
+      "Application": "The third defendant held 160,000 APG shares from incorporation and did not pay the subscription monies, and the September Agreement recorded his unpaid capital liability as $160,000. He later agreed in the October Agreement to resign as director and transfer his shares to Lim Kay-Lin Kathlene, except for a 10% stake, with wording that he would owe nothing to APG upon settlement. During the period when APG was experiencing cash flow difficulties and creditor pressure, APG funds were transferred into a joint bank account held by the second and third defendants, from which they could both draw. The third defendant’s role as sales manager and director, and his participation in the joint account, placed him in a position to receive and use APG funds. The September and October Agreements, executed when APG’s financial position was strained, proposed to restructure and defer his unpaid capital obligations and to state that he would have no liability to APG, while APG’s creditors remained unpaid.",
+      "Judicial_Reasoning_Log": "The judge held that the third defendant, as a shareholder of 160,000 APG shares, was liable to pay unpaid share capital of $160,000 when APG made a call, and that the September and October Agreements did not extinguish this liability because they were set aside as voidable transactions entered into when APG was insolvent or near insolvency and contrary to creditors’ interests. The court distinguished the third defendant’s position from the second defendant’s by noting that there was no evidence that the third defendant personally received the specific categories of payments challenged as unauthorised personal expenses of the second defendant. However, the judge found that the third defendant shared responsibility for APG funds transferred into the joint UOB account held with the second defendant, because this arrangement allowed APG funds to be used without the oversight of the non-executive directors. The court ordered the second and third defendants jointly and severally to account for all APG funds paid into their joint account and to repay any amounts that they could not show were used for APG’s purposes. The judge rejected the argument that the third defendant’s physical absence from APG’s operations after May 2010 absolved him from responsibility for funds that had already been transferred into the joint account."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 2
+  }
+]

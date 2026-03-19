@@ -1,0 +1,418 @@
+[
+  {
+    "Metadata": {
+      "Judge": "Judith Prakash",
+      "Date": "2009-07-06",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "ABB Holdings Pte Ltd",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "ABB Holdings Pte Ltd is the first plaintiff and is part of the worldwide ABB Group of companies which manufacture, market and sell products for industrial and commercial uses, including low, medium and high voltage circuit breakers."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "ABB Holdings Pte Ltd is a Singapore company and is the holding company of the Singapore businesses within the ABB Group."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "ABB Holdings Pte Ltd is the sole shareholder of ABB Installation Materials (East Asia) Pte Ltd and ABB Industry Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "On 19 July 1996, ABB Holdings Pte Ltd issued an employment contract to Sher Hock Guan Charles covering the period from 1 January 1997 to 31 January 2000, under which he was to serve as President of ABB Installation Materials (East Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "On 20 September 1999, ABB Holdings Pte Ltd issued a second employment contract to Sher Hock Guan Charles, effective from 1 February 2000, stating that his employing entity was ABB Installation Materials (East Asia) Pte Ltd and that his position was President."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The 20 September 1999 employment contract from ABB Holdings Pte Ltd to Sher Hock Guan Charles contained terms that he would maintain and preserve secrecy in office matters, not divulge information to outside persons, and that private participation in other business activities, especially in the company’s line of business, was strictly not allowed."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The 19 July 1996 employment contract from ABB Holdings Pte Ltd to Sher Hock Guan Charles stated that his appointment was subject to the General Terms and Conditions of Employment of the Country Organisation."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The ABB Singapore Group used an Employee Handbook which set out policies, terms and conditions applicable to employees of ABB Holdings Pte Ltd, ABB Installation Materials (East Asia) Pte Ltd and ABB Industry Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The Employee Handbook contained provisions that private participation in other business activities especially related to the nature of the company’s business was strictly not allowed, that employees should protect company assets and confidential and proprietary information, and that employees should avoid conflicts between personal interests and company interests."
+        }
+      ],
+      "Issue": "Whether, based on the pre-dispute employment contracts and the Employee Handbook, Sher Hock Guan Charles was subject to contractual and other obligations restricting his participation in outside business activities and use of confidential information during his employment with ABB Singapore Group entities.",
+      "Rule": "Employment contracts and incorporated policy documents can define the scope of an employee’s obligations, including obligations relating to confidentiality, protection of employer assets, and restrictions on participation in outside business activities that may conflict with the employer’s interests.",
+      "Application": "ABB Holdings Pte Ltd issued employment contracts to Sher Hock Guan Charles that referenced general terms and conditions of employment and contained express clauses on secrecy and prohibition of private participation in other business activities, while the Employee Handbook in use within the ABB Singapore Group set out additional policies on conflicts of interest and protection of confidential and proprietary information.",
+      "Judicial_Reasoning_Log": "The judgment discusses whether the Employee Handbook formed part of the defendant’s employment contracts, the extent of any duties owed to ABB Holdings Pte Ltd as a holding company, and interprets the contractual language and evidence of practice to determine incorporation and scope of obligations."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Judge": "Judith Prakash",
+      "Date": "2009-07-06",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "ABB Installation Materials (East Asia) Pte Ltd",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "ABB Installation Materials (East Asia) Pte Ltd is the second plaintiff and is part of the ABB Singapore Group."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "ABB Installation Materials (East Asia) Pte Ltd manufactures miniature circuit breakers, which are low voltage products."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "From January 1997 to January 2000, Sher Hock Guan Charles held the position of President of ABB Installation Materials (East Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "From July 1998 to February 2003, Sher Hock Guan Charles was a director of ABB Installation Materials (East Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "Between January 1997 and January 2001, ABB Installation Materials (East Asia) Pte Ltd was the employing entity of Sher Hock Guan Charles under employment contracts issued by ABB Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "On 15 January 2001, Sher Hock Guan Charles’s employment was transferred from ABB Installation Materials (East Asia) Pte Ltd to ABB Industry Pte Ltd with retrospective effect from 1 January 2001, pursuant to a new organisation structure for the ABB Singapore Group."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The Employee Handbook used within the ABB Singapore Group stated that every employee had a duty to protect company assets and confidential and proprietary information and to avoid conflicts between personal interests and company interests."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The Employee Handbook contained a clause that private participation in other business activities especially related to the nature of the company’s business was strictly not allowed, and clauses on conflicts of interest and investments in suppliers, customers, or competitors that might affect business decisions."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "During his tenure as President and director of ABB Installation Materials (East Asia) Pte Ltd, Sher Hock Guan Charles attended Country Management Team meetings at which various ABB Singapore Group businesses were discussed."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In late October 2002, while still a director of ABB Installation Materials (East Asia) Pte Ltd, Sher Hock Guan Charles attended the 10th anniversary celebrations of ABB Xiamen Switchgear Co Ltd in Xiamen, China."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "During the October 2002 ABB Xiamen anniversary event, representatives of Xian High Voltage Apparatus Research Institute (XIHARI), including its then Chairman and General Manager, spoke with Sher Hock Guan Charles about XIHARI’s interest in engaging a technical adviser for research and development projects relating to medium voltage switchgear, circuit breakers and vacuum interrupters."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "Between 3 December 2002 and 3 February 2003, while still a director of ABB Installation Materials (East Asia) Pte Ltd, Sher Hock Guan Charles exchanged nine e‑mails with former ABB Group employee Guenther Leonhardt concerning XIHARI’s enquiries about engaging Leonhardt as a technical adviser for research and development projects on a new generation of medium voltage switchgear, circuit breakers and vacuum interrupters."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In November 2002, XIHARI representatives, including Pei Zhengjiang and Zheng Jun, had several telephone conversations with Sher Hock Guan Charles about engaging an internationally known technical adviser, during which the name of Guenther Leonhardt was discussed."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In November 2002, XIHARI’s General Manager, Pei Zhengjiang, met Sher Hock Guan Charles in Singapore and asked him to check with Guenther Leonhardt on the possibility of Leonhardt acting as XIHARI’s technical adviser."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In February 2002, while still employed within the ABB Singapore Group, Sher Hock Guan Charles became aware of an opportunity to develop a plot of land in Xiamen, China, and passed this opportunity to his brother, Sher Hock Sing, and to businessman Lin Qunxing."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "On 18 February 2002, Great Vision International Pte Ltd was incorporated in Singapore with shareholders including Sher Hock Sing and others, for the purpose of undertaking a property development project in Xiamen through a subsidiary company."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Text": "Great Vision International Pte Ltd subsequently caused the incorporation of Xiamen Fu Cheng Real Estate Property Development Co Ltd in China in July 2002 to carry out the Xiamen property development project."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "The 2002 financial statements of Xiamen Fu Cheng Real Estate Property Development Co Ltd recorded an outstanding amount of RMB70,000 described as a travel expenses loan in the name of Sher Hock Guan Charles, with a payment voucher dated 3 December 2002 showing him as payee and applicant and acknowledging receipt by another individual."
+        }
+      ],
+      "Issue": "Whether, before his resignation, Sher Hock Guan Charles engaged in outside business-related activities and communications concerning medium voltage product development and a Xiamen property project that intersected with the business interests and internal policies of ABB Installation Materials (East Asia) Pte Ltd.",
+      "Rule": "Senior officers and directors of a company may be subject to contractual and organisational policies restricting private participation in other business activities related to the company’s business and requiring protection of company assets and information, and may be expected to manage potential conflicts between personal business activities and the company’s operations.",
+      "Application": "ABB Installation Materials (East Asia) Pte Ltd employed Sher Hock Guan Charles in senior roles while the ABB Singapore Group’s Employee Handbook contained restrictions on private participation in other business activities and conflicts of interest; during this period he became involved in passing a Xiamen property development opportunity to related parties, was associated with the incorporation of Great Vision International Pte Ltd and its Chinese subsidiary, and facilitated communications between XIHARI and a former ABB technical expert regarding development of medium voltage products.",
+      "Judicial_Reasoning_Log": "The judgment analyses whether the defendant’s conduct regarding Great Vision, Xiamen Fu Cheng, and the XIHARI–Leonhardt communications constituted breaches of contractual and fiduciary obligations to ABB Installation Materials (East Asia) Pte Ltd, including discussion of the evidential weight of the RMB70,000 loan entry and the extent of any active participation in the Xiamen project."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Judge": "Judith Prakash",
+      "Date": "2009-07-06",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "ABB Industry Pte Ltd",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "ABB Industry Pte Ltd is the third plaintiff and is part of the ABB Singapore Group."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "ABB Industry Pte Ltd carries on business as, among other things, a manufacturer of switchgears and an installer of electrical works."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "From January 2001 to February 2003, Sher Hock Guan Charles held the position of General Manager, Business Area Low Voltage Products, at ABB Industry Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "From September 2001 to February 2003, Sher Hock Guan Charles held the position of Vice-President and Head of Business Area Low Voltage Products, Automation Technology Products Division Asia South, at ABB Industry Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "By a letter dated 15 January 2001, ABB Industry Pte Ltd informed Sher Hock Guan Charles that, with retrospective effect from 1 January 2001, his employment had been transferred from ABB Installation Materials (East Asia) Pte Ltd to ABB Industry Pte Ltd, with designation as General Manager BAU LV Products and Systems and job grade M1."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The 15 January 2001 letter from ABB Industry Pte Ltd to Sher Hock Guan Charles enclosed a 'Summary of Terms and Conditions of Employment – Staff Category M1/M2' which included a clause reserving to management the right to review, change, amend, delete or add to policies, terms and conditions of employment."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The Employee Handbook used within the ABB Singapore Group contained clauses stating that private participation in other business activities especially related to the nature of the company’s business was strictly not allowed, that employees must protect company assets and confidential and proprietary information, and that employees must avoid financial, business or other relationships which might be opposed to the company’s interests or might cause a conflict with performance of their duties."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "As a senior manager at ABB Industry Pte Ltd, Sher Hock Guan Charles attended Country Management Team meetings where the businesses of ABB Singapore Group entities, including low and medium voltage products, were discussed."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "During his employment with ABB Industry Pte Ltd, Sher Hock Guan Charles had authority to hire and dismiss employees within his area of responsibility."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In late October 2002, while employed by ABB Industry Pte Ltd, Sher Hock Guan Charles attended the 10th anniversary celebrations of ABB Xiamen Switchgear Co Ltd in Xiamen, China, where he met representatives of Xian High Voltage Apparatus Research Institute (XIHARI)."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "At the ABB Xiamen event in October 2002, XIHARI representatives informed Sher Hock Guan Charles that XIHARI was looking for a technical adviser for research and development projects relating to a new generation of medium voltage switchgear, circuit breakers and vacuum interrupters."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "Between 3 December 2002 and 3 February 2003, while employed by ABB Industry Pte Ltd, Sher Hock Guan Charles exchanged nine e‑mails with former ABB Group engineer Guenther Leonhardt concerning XIHARI’s enquiries about engaging Leonhardt as a technical adviser for research and development projects on medium voltage switchgear, circuit breakers and vacuum interrupters and as a technical controller for a manufacturing company that would produce and market such products."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "In November 2002, XIHARI’s General Manager, Pei Zhengjiang, and another officer, Zheng Jun, had several telephone conversations with Sher Hock Guan Charles about engaging an internationally known technical adviser, during which the name of Guenther Leonhardt was discussed."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "In November 2002, XIHARI’s General Manager, Pei Zhengjiang, met Sher Hock Guan Charles in Singapore and requested that he check with Guenther Leonhardt on the possibility of Leonhardt acting as XIHARI’s technical adviser."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "During the period from December 2002 to early 2003, Sher Hock Guan Charles relayed XIHARI’s interest to Guenther Leonhardt and received positive responses from Leonhardt regarding potential consultancy work for XIHARI."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In 2002, while employed by ABB Industry Pte Ltd, Sher Hock Guan Charles became aware of a property development opportunity in Xiamen, China, and passed this opportunity to his brother, Sher Hock Sing, and to businessman Lin Qunxing."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Text": "On 18 February 2002, Great Vision International Pte Ltd was incorporated in Singapore with shareholders including Sher Hock Sing and others, to undertake the Xiamen property development project through a Chinese subsidiary."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Text": "In July 2002, Xiamen Fu Cheng Real Estate Property Development Co Ltd was incorporated in China as a subsidiary of Great Vision International Pte Ltd to carry out the Xiamen property development project."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "A payment voucher dated 3 December 2002 from Xiamen Fu Cheng Real Estate Property Development Co Ltd recorded a RMB70,000 travel expenses loan in the name of Sher Hock Guan Charles, listing him as payee and applicant, with receipt acknowledged by another individual."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "On 24 May 2002, while employed by ABB Industry Pte Ltd, Webmoney Investment (S) Pte Ltd was incorporated in Singapore with directors including Luo Baocheng and Chen Wei Ting, and its registered address was the residential address of Sher Hock Guan Charles."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In connection with the incorporation of Webmoney Investment (S) Pte Ltd, Sher Hock Guan Charles assisted by filing documents with the authorities and providing his home address as the company’s registered office."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Text": "During 2002, Sher Hock Guan Charles maintained personal and business relationships with individuals involved in Chinese ventures, including his brother Sher Hock Sing, businessman Lin Qunxing, businessman Liu Chunguang, and engineer Zheng Minsheng."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "By early 2003, before his departure from ABB Industry Pte Ltd, Sher Hock Guan Charles had discussions with businessman Liu Chunguang about the possibility of joining Xiamen Huadian Switchgear Co Ltd, a company formed as a joint venture between Fu Hsiang International Pte Ltd and XIHARI to commercialise medium voltage vacuum circuit breakers developed through a joint design project."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Before his resignation from ABB Industry Pte Ltd, Sher Hock Guan Charles informed a senior ABB officer, Tom Sjoekvist, that he had decided to leave his employment with the ABB Singapore Group."
+        }
+      ],
+      "Issue": "Whether, prior to his resignation, Sher Hock Guan Charles engaged in outside activities and communications relating to medium voltage product development, Chinese joint venture arrangements, and other companies that intersected with ABB Industry Pte Ltd’s business scope and internal policies on conflicts of interest and outside business participation.",
+      "Rule": "Senior management employees may be subject to contractual and organisational policies that restrict private participation in other business activities related to the employer’s business, require avoidance of conflicts between personal and company interests, and govern handling of information about potential competitive activities.",
+      "Application": "ABB Industry Pte Ltd employed Sher Hock Guan Charles in senior management roles under terms that referenced staff grade M1 and were accompanied by an Employee Handbook containing restrictions on private participation in other business activities and conflicts of interest; during this period he assisted in the incorporation of Webmoney Investment (S) Pte Ltd using his home address, passed a Xiamen property development opportunity to related parties who incorporated Great Vision International Pte Ltd and Xiamen Fu Cheng, was named in Xiamen Fu Cheng’s records for a RMB70,000 travel expenses loan, and facilitated communications between XIHARI and former ABB engineer Guenther Leonhardt regarding development and commercialisation of medium voltage products, while also discussing potential future employment with Xiamen Huadian Switchgear Co Ltd.",
+      "Judicial_Reasoning_Log": "The judgment evaluates whether these pre-resignation activities amounted to breaches of contractual and fiduciary obligations to ABB Industry Pte Ltd, including analysis of the scope of duties of a senior manager, the relevance of the Employee Handbook, the nature of the XIHARI–Leonhardt engagement, the significance of the RMB70,000 loan entry, and the relationship between ABB Industry Pte Ltd’s business and Huadian’s medium voltage products."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Judge": "Judith Prakash",
+      "Date": "2009-07-06",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Sher Hock Guan Charles",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Text": "Sher Hock Guan Charles is a Singaporean who worked for various companies in the ABB Group between 1990 and February 2003."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "During his ABB career, Sher Hock Guan Charles worked in Xiamen, China, for ABB China Ltd and ABB Xiamen Switchgear Co Ltd before being based in Singapore from January 1997."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "From January 1997 to January 2000, Sher Hock Guan Charles was President of ABB Installation Materials (East Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "From July 1998 to February 2003, Sher Hock Guan Charles was a director of ABB Installation Materials (East Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "From January 2001 to February 2003, Sher Hock Guan Charles was General Manager of ABB Industry Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Text": "From September 2001 to February 2003, Sher Hock Guan Charles was Vice-President and Head of Business Area Low Voltage Products, Automation Technology Products Division Asia South, at ABB Industry Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "On 19 July 1996, Sher Hock Guan Charles entered into an employment contract with ABB Holdings Pte Ltd covering the period from 1 January 1997 to 31 January 2000, under which he was to serve as President of ABB Installation Materials (East Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "On 20 September 1999, Sher Hock Guan Charles entered into a second employment contract with ABB Holdings Pte Ltd, effective from 1 February 2000, under which ABB Installation Materials (East Asia) Pte Ltd was the employing entity and his position was President."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Text": "On 15 January 2001, Sher Hock Guan Charles received a letter from ABB Industry Pte Ltd transferring his employment from ABB Installation Materials (East Asia) Pte Ltd to ABB Industry Pte Ltd with retrospective effect from 1 January 2001, designating him as General Manager BAU LV Products and Systems with job grade M1."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The 20 September 1999 employment contract signed by Sher Hock Guan Charles included clauses that he would maintain and preserve secrecy in all office matters, not divulge information to outside persons, and that private participation in other business activities, especially in the company’s line of business, was strictly not allowed."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Text": "The Employee Handbook used within the ABB Singapore Group, which was available to Sher Hock Guan Charles, contained policies on conflicts of interest, protection of company assets and confidential information, and restrictions on private participation in other business activities related to the company’s business."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "During his employment in Singapore, Sher Hock Guan Charles attended Country Management Team meetings where ABB Singapore Group businesses, including low and medium voltage products, were discussed."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In his senior management roles, Sher Hock Guan Charles had authority to hire and dismiss employees within his area of responsibility."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In late October 2002, while employed by ABB Industry Pte Ltd, Sher Hock Guan Charles travelled to Xiamen, China, to attend the 10th anniversary celebrations of ABB Xiamen Switchgear Co Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "At the ABB Xiamen anniversary event in October 2002, representatives of Xian High Voltage Apparatus Research Institute (XIHARI), including its then Chairman and General Manager, informed Sher Hock Guan Charles that XIHARI was looking for a technical adviser for research and development projects relating to a new generation of medium voltage switchgear, circuit breakers and vacuum interrupters."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "In November 2002, XIHARI’s General Manager, Pei Zhengjiang, and another officer, Zheng Jun, had several telephone conversations with Sher Hock Guan Charles about engaging an internationally known technical adviser for XIHARI’s research and development projects, during which the name of former ABB engineer Guenther Leonhardt was discussed."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "In November 2002, XIHARI’s General Manager, Pei Zhengjiang, met Sher Hock Guan Charles in Singapore and requested that he check with Guenther Leonhardt on the possibility of Leonhardt acting as XIHARI’s technical adviser."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Text": "Between 3 December 2002 and 3 February 2003, Sher Hock Guan Charles exchanged nine e‑mails with former ABB engineer Guenther Leonhardt concerning XIHARI’s enquiries about engaging Leonhardt as a technical adviser for research and development projects on a new generation of medium voltage switchgear, circuit breakers and vacuum interrupters and as a technical controller for a manufacturing company that would produce and market such products in China and potentially other Asian markets."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "During the December 2002 to February 2003 period, Sher Hock Guan Charles relayed XIHARI’s interest to Guenther Leonhardt and received positive responses from Leonhardt regarding potential consultancy work for XIHARI."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In 2002, while employed by ABB Industry Pte Ltd, Sher Hock Guan Charles became aware of an opportunity to develop a plot of land in Xiamen, China, and passed this opportunity to his brother, Sher Hock Sing, and businessman Lin Qunxing."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Text": "On 18 February 2002, Great Vision International Pte Ltd was incorporated in Singapore with shareholders including Sher Hock Sing and others, to undertake the Xiamen property development project through a Chinese subsidiary."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Text": "In July 2002, Xiamen Fu Cheng Real Estate Property Development Co Ltd was incorporated in China as a subsidiary of Great Vision International Pte Ltd to carry out the Xiamen property development project."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "The 2002 financial statements of Xiamen Fu Cheng Real Estate Property Development Co Ltd recorded an outstanding amount of RMB70,000 described as a travel expenses loan in the name of Sher Hock Guan Charles, supported by a payment voucher dated 3 December 2002 listing him as payee and applicant and showing receipt acknowledged by another individual."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "On 24 May 2002, Webmoney Investment (S) Pte Ltd was incorporated in Singapore with directors including Luo Baocheng and Chen Wei Ting, and the registered office address of Webmoney Investment (S) Pte Ltd was the residential address of Sher Hock Guan Charles."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In connection with the incorporation of Webmoney Investment (S) Pte Ltd, Sher Hock Guan Charles assisted by filing incorporation documents with the authorities and providing his home address as the company’s registered office."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "During 2002, Sher Hock Guan Charles maintained personal and business relationships with individuals involved in Chinese ventures, including his brother Sher Hock Sing, businessman Lin Qunxing, businessman Liu Chunguang, and engineer Zheng Minsheng."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "By early 2003, before leaving ABB Industry Pte Ltd, Sher Hock Guan Charles had discussions with businessman Liu Chunguang about joining Xiamen Huadian Switchgear Co Ltd, a company formed as a joint venture between Fu Hsiang International Pte Ltd and XIHARI to commercialise medium voltage vacuum circuit breakers developed through a joint design project."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "Before his departure from ABB Industry Pte Ltd, Sher Hock Guan Charles informed senior ABB officer Tom Sjoekvist that he had decided to leave his employment with the ABB Singapore Group."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "On 3 March 2003, shortly after leaving ABB Industry Pte Ltd, Sher Hock Guan Charles commenced employment as General Manager of Xiamen Huadian Switchgear Co Ltd in Xiamen, China."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Text": "In March 2004, after a German company Gelpag mbH acquired shares in Xiamen Huadian Switchgear Co Ltd, Sher Hock Guan Charles became Managing Director of Huadian."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Text": "In May 2003, after leaving ABB Industry Pte Ltd, Sher Hock Guan Charles procured the incorporation of Gelpag International Pte Ltd in Singapore and became a director and shareholder of that company."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Text": "In October 2003, Gelpag mbH was incorporated in Germany with Sher Hock Guan Charles holding a majority shareholding and former ABB engineer Guenther Leonhardt holding a minority shareholding."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "In late March 2004, Gelpag mbH purchased 16.2% of the shares in Xiamen Huadian Switchgear Co Ltd at par value, at a time when Huadian’s registered capital was RMB30 million."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Text": "According to his evidence, Sher Hock Guan Charles funded Gelpag mbH’s investment in Xiamen Huadian Switchgear Co Ltd using returns he had obtained from the Xiamen property development project undertaken through Great Vision International Pte Ltd and Xiamen Fu Cheng Real Estate Property Development Co Ltd."
+        }
+      ],
+      "Issue": "Whether, based on his roles, contracts, and pre‑departure conduct, Sher Hock Guan Charles engaged in outside activities and communications concerning property development, company incorporations, and medium voltage product ventures that intersected with his employment terms and internal policies of the ABB Singapore Group entities.",
+      "Rule": "Senior employees and directors may be subject to contractual and organisational policies that restrict private participation in other business activities related to the employer’s business, require protection of confidential information and company assets, and address potential conflicts between personal ventures and the employer’s operations.",
+      "Application": "Sher Hock Guan Charles held senior management and directorial positions within ABB Singapore Group entities under written employment contracts and an Employee Handbook that addressed secrecy, conflicts of interest, and private participation in other business activities; during his employment he assisted in the incorporation of Webmoney Investment (S) Pte Ltd using his home address, passed a Xiamen property development opportunity to related parties who incorporated Great Vision International Pte Ltd and Xiamen Fu Cheng, was named in Xiamen Fu Cheng’s records for a RMB70,000 travel expenses loan, facilitated communications between XIHARI and former ABB engineer Guenther Leonhardt regarding development and commercialisation of medium voltage products, and discussed future employment with Xiamen Huadian Switchgear Co Ltd before leaving ABB Industry Pte Ltd, later taking up senior roles and shareholdings in Huadian-related entities.",
+      "Judicial_Reasoning_Log": "The judgment assesses whether these pre‑dispute facts amount to breaches of contractual and fiduciary obligations, including analysis of the scope of duties arising from the employment contracts and Employee Handbook, the nature of the XIHARI–Leonhardt engagement, the implications of the RMB70,000 loan entry, the significance of the Webmoney and Great Vision incorporations, and the relationship between the defendant’s subsequent roles in Huadian and his prior positions within the ABB Singapore Group. It also contains the court’s ultimate findings on liability and the reasoning linking specific conduct to particular duties."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  }
+]
