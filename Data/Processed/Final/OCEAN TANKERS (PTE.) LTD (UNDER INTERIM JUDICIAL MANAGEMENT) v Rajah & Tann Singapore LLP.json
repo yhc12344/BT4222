@@ -1,0 +1,305 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No. 666 of 2020 (Summons No. 4317 of 2020); Originating Summons No. 704 of 2020 (Summons No. 4318 of 2020)",
+      "Coram": "Kannan Ramesh J",
+      "Judge": "Kannan Ramesh",
+      "Date": "2021-02-25",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Ocean Tankers (Pte) Ltd (under judicial management)",
+      "Law_Firm": "Damodara Ong LLC",
+      "Counsel": [
+        "Ong Ziying Clement",
+        "Khoo Shufen Joni"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2020-01-01",
+          "Text": "Ocean Tankers (Pte) Ltd is a ship chartering and management company whose business was inter-dependent with that of Hin Leong Trading (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2020-01-01",
+          "Text": "Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd were part of a group of companies with interlocking business interests owned and managed by the Lim Family."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2020-01-01",
+          "Text": "The shareholders of Ocean Tankers (Pte) Ltd included Mr Lim Oon Kuin and his two children, Mr Lim Chee Meng and Ms Lim Huey Ching."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-01-01",
+          "Text": "At all material times before 2020-04-17, Mr Lim Oon Kuin and his two children, Mr Lim Chee Meng and Ms Lim Huey Ching, were directors of Ocean Tankers (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-04-17",
+          "Text": "On 2020-04-17, Mr Lim Oon Kuin stepped down as a director of Ocean Tankers (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2020-03-01",
+          "Text": "In or around the first quarter of 2020, Hin Leong Trading (Pte) Ltd encountered financial difficulties and was unable to meet its debt obligations, which in turn affected the business and financial position of Ocean Tankers (Pte) Ltd due to their interlocking interests."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-08",
+          "Text": "On 2020-04-08, Hin Leong Trading (Pte) Ltd engaged Rajah & Tann Singapore LLP to advise on issues arising from its insolvency."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-08",
+          "Text": "Following Hin Leong Trading (Pte) Ltd's financial difficulties, Ocean Tankers (Pte) Ltd engaged Rajah & Tann Singapore LLP to advise on available restructuring options."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2020-04-08",
+          "Text": "Pursuant to their engagement by Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd, Rajah & Tann Singapore LLP filed, on behalf of both companies, applications under section 211B of the Companies Act pending a proposed debt restructuring exercise."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2020-04-08",
+          "Text": "In connection with the restructuring advice, Rajah & Tann Singapore LLP received confidential information and documents relating to the Lim Family, Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd, including audited financial statements, management accounts, documents relating to vessels and bareboat charterparties, and information relating to the Lim Family's interests."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-27",
+          "Text": "On 2020-04-27, the section 211B Companies Act application for Hin Leong Trading (Pte) Ltd was withdrawn with leave of court."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-05-12",
+          "Text": "On 2020-05-12, the section 211B Companies Act application for Ocean Tankers (Pte) Ltd was withdrawn with leave of court."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-27",
+          "Text": "On 2020-04-27, Ocean Tankers (Pte) Ltd, acting through its directors, filed an application for a judicial management order and an application for the appointment of interim judicial managers, with Rajah & Tann Singapore LLP acting as solicitors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-05-12",
+          "Text": "On 2020-05-12, interim judicial managers were appointed over Ocean Tankers (Pte) Ltd, and the interim judicial managers retained Rajah & Tann Singapore LLP to act for the company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-07-09",
+          "Text": "On 2020-07-09, the directors Mr Lim Chee Meng and Ms Lim Huey Ching procured Ocean Tankers (Pte) Ltd to file Originating Summons No. 666 of 2020 seeking injunctions against Rajah & Tann Singapore LLP."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-08-07",
+          "Text": "On 2020-08-07, the interim judicial managers of Ocean Tankers (Pte) Ltd were appointed as judicial managers, and the judicial managers retained Rajah & Tann Singapore LLP to act for the company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-10-01",
+          "Text": "Shortly before 2020-11-04, Rajah & Tann Singapore LLP filed Summons No. 4317 of 2020 to strike out Originating Summons No. 666 of 2020."
+        }
+      ],
+      "Issue": "Whether Ocean Tankers (Pte) Ltd, acting through its directors after the appointment of interim judicial managers and judicial managers, could commence and maintain proceedings to restrain Rajah & Tann Singapore LLP from advising and acting for the company and its insolvency officeholders in judicial management-related matters.",
+      "Rule": "Under the Singapore Companies Act, when interim judicial managers or judicial managers are appointed, the powers conferred on directors by the Act or the company's constitution are exercised by the insolvency officeholders, including powers to manage the company's affairs, appoint professional advisers, and bring or defend legal proceedings in the company's name.",
+      "Application": "Ocean Tankers (Pte) Ltd engaged Rajah & Tann Singapore LLP for restructuring advice and for applications under section 211B of the Companies Act. The company, through its directors, later applied for judicial management and for the appointment of interim judicial managers, and those applications were granted. The interim judicial managers, and subsequently the judicial managers, retained Rajah & Tann Singapore LLP. After the interim judicial managers were appointed, the directors procured the company to file Originating Summons No. 666 of 2020 seeking to restrain Rajah & Tann Singapore LLP from acting. The timing of these steps meant that, at the point of filing and pursuing the injunction proceedings, the authority to manage the company's affairs and to control litigation and solicitor appointments was held by the interim judicial managers and then the judicial managers rather than by the directors.",
+      "Judicial_Reasoning_Log": "The court analysed the effect of the interim judicial management orders and judicial management orders, which provided that the affairs, business and property of Ocean Tankers (Pte) Ltd were to be managed by the interim judicial managers and then the judicial managers, who were empowered to exercise all powers and entitlements of judicial managers and directors under the Companies Act and the company's constitutional documents. Relying on sections 227G(2) to (4) and the Eleventh Schedule of the Companies Act, the court held that the powers of the directors, including the power to appoint solicitors and to bring or defend proceedings in the name and on behalf of the company, were displaced and vested in the insolvency officeholders. The court considered authorities on residuary powers of directors after the appointment of provisional liquidators, receivers, administrators, and similar officeholders, including Re Union Accident Insurance Co Ltd, Stephen, Petitioner, Closegate Hotel Development (Durham) Ltd v McLean, Sri Hartamas Development Sdn Bhd v MBF Finance Bhd, Taman Sungai Dua Development Sdn Bhd v Goh Boon Kim, Shanks v Central Regional Council, and Re Lehman Brothers Europe Ltd (In Administration). The court accepted that directors retain residuary powers to challenge the validity of the appointment of insolvency officeholders or to conduct appeals against such orders, but concluded that these residuary powers do not extend to commencing new substantive proceedings in the company's name where the power to litigate has been vested in the insolvency officeholders. In this case, the directors did not challenge the interim judicial management or judicial management orders, which had been obtained on applications they themselves had caused the company to file and which were not appealed. Instead, they sought to cause the company to bring injunction proceedings against the firm's continued engagement by the interim judicial managers and judicial managers. The court held that the directors lacked standing to do so, that the originating summonses were therefore unsustainable, and that they should be struck out under Order 18 rule 19 of the Rules of Court. The court accordingly allowed the striking-out applications, dismissed the injunction proceedings, and ordered costs in favour of Rajah & Tann Singapore LLP, save for costs of certain discovery applications."
+    },
+    "Label": "Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No. 704 of 2020 (Summons No. 4318 of 2020); Originating Summons No. 666 of 2020 (Summons No. 4317 of 2020)",
+      "Coram": "Kannan Ramesh J",
+      "Judge": "Kannan Ramesh",
+      "Date": "2021-02-25",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Hin Leong Trading (Pte) Ltd (under judicial management)",
+      "Law_Firm": "Advocatus Law LLP",
+      "Counsel": [
+        "Christopher Anand s/o Daniel",
+        "Eileen Yeo"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2020-01-01",
+          "Text": "Hin Leong Trading (Pte) Ltd is in the business of oil trading and its business was deeply inter-dependent with that of Ocean Tankers (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2020-01-01",
+          "Text": "Hin Leong Trading (Pte) Ltd and Ocean Tankers (Pte) Ltd were part of a group of companies with interlocking business interests owned and managed by the Lim Family."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2020-01-01",
+          "Text": "The shareholders of Hin Leong Trading (Pte) Ltd included Mr Lim Oon Kuin and his two children, Mr Lim Chee Meng and Ms Lim Huey Ching."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-01-01",
+          "Text": "At all material times before 2020-04-17, Mr Lim Oon Kuin and his two children, Mr Lim Chee Meng and Ms Lim Huey Ching, were directors of Hin Leong Trading (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-04-17",
+          "Text": "On 2020-04-17, Mr Lim Oon Kuin stepped down as a director of Hin Leong Trading (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2020-03-01",
+          "Text": "In or around the first quarter of 2020, Hin Leong Trading (Pte) Ltd encountered financial difficulties and was unable to meet its debt obligations."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-08",
+          "Text": "On 2020-04-08, Hin Leong Trading (Pte) Ltd engaged Rajah & Tann Singapore LLP to advise on issues arising from its insolvency."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-08",
+          "Text": "Following the financial difficulties of Hin Leong Trading (Pte) Ltd, Ocean Tankers (Pte) Ltd also engaged Rajah & Tann Singapore LLP to advise on available restructuring options."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2020-04-08",
+          "Text": "Pursuant to their engagement by Hin Leong Trading (Pte) Ltd and Ocean Tankers (Pte) Ltd, Rajah & Tann Singapore LLP filed, on behalf of both companies, applications under section 211B of the Companies Act pending a proposed debt restructuring exercise."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2020-04-08",
+          "Text": "In connection with the restructuring advice, Rajah & Tann Singapore LLP received confidential information and documents relating to the Lim Family, Hin Leong Trading (Pte) Ltd and Ocean Tankers (Pte) Ltd, including audited financial statements, management accounts, documents relating to vessels and bareboat charterparties, and information relating to the Lim Family's interests."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-27",
+          "Text": "On 2020-04-27, the section 211B Companies Act application for Hin Leong Trading (Pte) Ltd was withdrawn with leave of court."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-27",
+          "Text": "On 2020-04-27, Hin Leong Trading (Pte) Ltd, acting through its directors, filed an application for a judicial management order and an application for the appointment of interim judicial managers, with Rajah & Tann Singapore LLP acting as solicitors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-27",
+          "Text": "On 2020-04-27, interim judicial managers were appointed over Hin Leong Trading (Pte) Ltd, and the interim judicial managers retained Rajah & Tann Singapore LLP to act for the company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-07-21",
+          "Text": "On 2020-07-21, the directors Mr Lim Chee Meng and Ms Lim Huey Ching procured Hin Leong Trading (Pte) Ltd to file Originating Summons No. 704 of 2020 seeking injunctions against Rajah & Tann Singapore LLP."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-08-07",
+          "Text": "On 2020-08-07, the interim judicial managers of Hin Leong Trading (Pte) Ltd were appointed as judicial managers, and the judicial managers retained Rajah & Tann Singapore LLP to act for the company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-10-01",
+          "Text": "Shortly before 2020-11-04, Rajah & Tann Singapore LLP filed Summons No. 4318 of 2020 to strike out Originating Summons No. 704 of 2020."
+        }
+      ],
+      "Issue": "Whether Hin Leong Trading (Pte) Ltd, acting through its directors after the appointment of interim judicial managers and judicial managers, could commence and maintain proceedings to restrain Rajah & Tann Singapore LLP from advising and acting for the company and its insolvency officeholders in judicial management-related matters.",
+      "Rule": "Under the Singapore Companies Act, when interim judicial managers or judicial managers are appointed, the powers conferred on directors by the Act or the company's constitution are exercised by the insolvency officeholders, including powers to manage the company's affairs, appoint professional advisers, and bring or defend legal proceedings in the company's name.",
+      "Application": "Hin Leong Trading (Pte) Ltd engaged Rajah & Tann Singapore LLP for insolvency-related advice and for applications under section 211B of the Companies Act. The company, through its directors, later applied for judicial management and for the appointment of interim judicial managers, and those applications were granted. The interim judicial managers, and subsequently the judicial managers, retained Rajah & Tann Singapore LLP. After the interim judicial managers were appointed, the directors procured the company to file Originating Summons No. 704 of 2020 seeking to restrain Rajah & Tann Singapore LLP from acting. The sequence of events meant that, at the point of filing and pursuing the injunction proceedings, the authority to manage the company's affairs and to control litigation and solicitor appointments was held by the interim judicial managers and then the judicial managers rather than by the directors.",
+      "Judicial_Reasoning_Log": "The court applied the same reasoning to Hin Leong Trading (Pte) Ltd as to Ocean Tankers (Pte) Ltd. It examined the interim judicial management orders and judicial management orders, which provided that the affairs, business and property of Hin Leong Trading (Pte) Ltd were to be managed by the interim judicial managers and then the judicial managers, who were empowered to exercise all powers and entitlements of judicial managers and directors under the Companies Act and the company's constitutional documents. By virtue of sections 227G(2) to (4) and the Eleventh Schedule of the Companies Act, the directors' powers, including the power to appoint solicitors and to bring or defend proceedings in the company's name, were displaced and vested in the insolvency officeholders. The court considered authorities on residuary powers of directors after the appointment of insolvency officeholders and accepted that directors retain residuary powers to challenge the validity of such appointments or to conduct appeals against them. However, the court held that these residuary powers do not extend to commencing new substantive proceedings in the company's name where the power to litigate has been vested in the insolvency officeholders. In this case, the directors did not challenge the interim judicial management or judicial management orders, which had been obtained on applications they themselves had caused the company to file and which were not appealed. Instead, they sought to cause the company to bring injunction proceedings against the firm's continued engagement by the interim judicial managers and judicial managers. The court concluded that the directors lacked standing to do so, that the originating summonses were unsustainable, and that they should be struck out under Order 18 rule 19 of the Rules of Court. The court therefore allowed the striking-out applications, dismissed the injunction proceedings, and ordered costs in favour of Rajah & Tann Singapore LLP, subject to an exception for costs of certain discovery applications."
+    },
+    "Label": "Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No. 666 of 2020; Originating Summons No. 704 of 2020",
+      "Coram": "Kannan Ramesh J",
+      "Judge": "Kannan Ramesh",
+      "Date": "2021-02-25",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Rajah & Tann Singapore LLP",
+      "Law_Firm": "Colin Liew LLC",
+      "Counsel": [
+        "Toby Landau QC",
+        "Liew Wey-Ren Colin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1990-01-01",
+          "Text": "From the early 1990s, Rajah & Tann Singapore LLP acted for and or advised the Lim Family and companies in which the Lim Family had an interest, including Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-08",
+          "Text": "On 2020-04-08, Hin Leong Trading (Pte) Ltd engaged Rajah & Tann Singapore LLP to advise on issues arising from its insolvency."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-08",
+          "Text": "On 2020-04-08, Ocean Tankers (Pte) Ltd engaged Rajah & Tann Singapore LLP to advise on available restructuring options."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2020-04-08",
+          "Text": "Following their engagement by Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd, Rajah & Tann Singapore LLP filed applications under section 211B of the Companies Act on behalf of both companies in connection with a proposed debt restructuring exercise."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2020-04-08",
+          "Text": "In the course of their engagements, Rajah & Tann Singapore LLP received confidential information and documents relating to the Lim Family, Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd, including audited financial statements, management accounts, documents relating to vessels and bareboat charterparties, and information relating to the Lim Family's interests."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-27",
+          "Text": "On 2020-04-27, Rajah & Tann Singapore LLP filed, on behalf of Hin Leong Trading (Pte) Ltd, an application for a judicial management order and an application for the appointment of interim judicial managers."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-05-12",
+          "Text": "On 2020-05-12, Rajah & Tann Singapore LLP filed, on behalf of Ocean Tankers (Pte) Ltd, an application for a judicial management order and an application for the appointment of interim judicial managers."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-27",
+          "Text": "On 2020-04-27, after interim judicial managers were appointed over Hin Leong Trading (Pte) Ltd, the interim judicial managers retained Rajah & Tann Singapore LLP to act for the company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-05-12",
+          "Text": "On 2020-05-12, after interim judicial managers were appointed over Ocean Tankers (Pte) Ltd, the interim judicial managers retained Rajah & Tann Singapore LLP to act for the company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-08-07",
+          "Text": "On 2020-08-07, after the interim judicial managers of Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd were appointed as judicial managers, the judicial managers retained Rajah & Tann Singapore LLP to act for both companies."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-10-01",
+          "Text": "Shortly before 2020-11-04, Rajah & Tann Singapore LLP filed Summons No. 4317 of 2020 and Summons No. 4318 of 2020 seeking to strike out Originating Summons No. 666 of 2020 and Originating Summons No. 704 of 2020."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-10-01",
+          "Text": "Rajah & Tann Singapore LLP implemented internal measures to prevent the sharing of information between separate teams handling the Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd engagements and to avoid acting in matters adverse to the personal rights and liabilities of the Lim Family."
+        }
+      ],
+      "Issue": "Whether Rajah & Tann Singapore LLP could continue to act for Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd, and for their interim judicial managers and judicial managers, in light of its prior engagements and access to confidential information relating to the Lim Family and the companies.",
+      "Rule": "A law firm engaged by a company may be retained by insolvency officeholders of that company to advise on restructuring and judicial management matters, and the authority to appoint and instruct such solicitors lies with the insolvency officeholders once their appointment displaces the directors' management powers under the Companies Act.",
+      "Application": "Rajah & Tann Singapore LLP had longstanding advisory relationships with the Lim Family and with companies in which the Lim Family had an interest, including Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd. In early 2020, the firm was engaged by Hin Leong Trading (Pte) Ltd to advise on insolvency issues and by Ocean Tankers (Pte) Ltd to advise on restructuring options, and it filed section 211B Companies Act applications for both companies. After interim judicial managers and later judicial managers were appointed over the companies, those officeholders retained Rajah & Tann Singapore LLP to continue acting. The directors of the companies later caused the companies to file injunction proceedings seeking to restrain the firm from acting, while the firm responded by applying to strike out those proceedings. The firm's continued role was based on instructions from the interim judicial managers and judicial managers, who held the statutory authority to manage the companies' affairs and to appoint solicitors.",
+      "Judicial_Reasoning_Log": "The court considered the applicants' contention that Rajah & Tann Singapore LLP should be restrained from acting for the interim judicial managers and judicial managers of Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd due to alleged conflicts of interest and the firm's access to confidential information. The court did not ultimately decide the substantive conflict and confidentiality issues because it concluded that the injunction proceedings themselves were not properly brought in the names of the companies. The court held that, following the appointment of interim judicial managers and judicial managers, the power to manage the companies' affairs, appoint solicitors, and bring or defend proceedings in the companies' names was vested in the insolvency officeholders under sections 227G(2) to (4) and the Eleventh Schedule of the Companies Act and under the terms of the interim judicial management and judicial management orders. The directors' powers were displaced, subject only to limited residuary powers to challenge the validity of the insolvency appointments or to pursue appeals. Because the directors did not challenge the interim judicial management or judicial management orders but instead sought to use the companies' names to restrain the firm's continued engagement by the insolvency officeholders, the court found that the directors lacked standing and that the originating summonses should be struck out. As a result, the court did not grant the injunctions sought against Rajah & Tann Singapore LLP and ordered costs in its favour, save for certain discovery-related costs."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  }
+]

@@ -1,0 +1,550 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 162/2006",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2007-07-31",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "W&P Piling Pte Ltd (in liquidation)",
+      "Law_Firm": "AsiaLegal LLC",
+      "Counsel": [
+        "Jeya Putra",
+        "Magdalene Chew"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1996-05-09",
+          "Text": "W&P Piling Pte Ltd was incorporated on 1996-05-09 and carried on business in mixed construction activities, roofing and piling works."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1997-03-31",
+          "Text": "On 1997-03-31, W&P Piling Pte Ltd purchased an AF22 IMT hydraulic drilling rig (the second machine) from THL Foundation Equipment Pte Ltd for $860,000 excluding GST."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1997-11-27",
+          "Text": "On 1997-11-27, W&P Piling Pte Ltd purchased an IMT AF 18 hydraulic machine (the first machine) from THL Foundation Equipment Pte Ltd for $740,000 excluding GST."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1997-12-05",
+          "Text": "On 1997-12-05, W&P Piling Pte Ltd entered into a hire-purchase agreement with HSBC Capital (Asia) Pte Ltd for the first machine."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-04-07",
+          "Text": "On 2000-04-07, W&P Piling Pte Ltd purchased an IMT AF-180 hydraulic drilling rig (the third machine) from THL Foundation Equipment Pte Ltd for $774,000 excluding GST."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-04-11",
+          "Text": "On 2000-04-11, W&P Piling Pte Ltd purchased an AF 220 hydraulic drilling rig (the fourth machine) from THL Foundation Equipment Pte Ltd for $955,000 excluding GST."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-07-07",
+          "Text": "On 2000-07-07, W&P Piling Pte Ltd purchased an R518 hydraulic rig with Kelly bar (the fifth machine) from Attas Machinery for $750,000."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-06-30",
+          "Text": "On 2000-06-30, W&P Piling Pte Ltd entered into a hire-purchase agreement with Caterpillar Credit Services Asia Pte Ltd for the third machine."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-07-07",
+          "Text": "On 2000-07-07, W&P Piling Pte Ltd entered into a hire-purchase agreement with Caterpillar Credit Services Asia Pte Ltd for the fifth machine."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-10-25",
+          "Text": "On 2000-10-25, W&P Piling Pte Ltd entered into a hire-purchase agreement with Caterpillar Credit Services Asia Pte Ltd for the fourth machine."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-01-01",
+          "Text": "Around 2000, W&P Piling Pte Ltd deployed the third, fourth and fifth machines for use in the Changi Terminal 3 project."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2001-12-01",
+          "Text": "By December 2001, W&P Piling Pte Ltd was operating under a scheme of arrangement proposal due to cash flow difficulties in the construction industry."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2002-01-31",
+          "Text": "On 2002-01-31, an explanatory proposal for a scheme of arrangement for W&P Piling Pte Ltd stated that the business was viable but facing cash flow difficulties due to a slowdown in the construction industry, low tender prices, under-recovery of costs, high capital usage in equipment and slow collections from trade debtors."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2002-01-01",
+          "Text": "In January 2002, W&P Piling Pte Ltd entered into a scheme of arrangement under section 227 of the Companies Act, agreeing to pay its creditors in four cash instalments totalling $0.004 for every $1.00 owed."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-01-01",
+          "Text": "In January 2002, an adjudication process relating to three subcontracts terminated by Wee Poh Construction Co. Pte Ltd resulted in W&P Piling Pte Ltd being awarded $1,102,000 as an adjudicated sum."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2002-02-28",
+          "Text": "On 2002-02-28, director Chow Soong Cheng ceased his services with W&P Piling Pte Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2002-02-01",
+          "Text": "By February 2002, directors Chow Soong Cheng and Wong Tuck Wai had resigned from W&P Piling Pte Ltd, after which management of the company was taken over by other directors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "Before his resignation in February 2002, Chow Soong Cheng and Wong Tuck Wai, together with other directors, initiated a scheme of arrangement for W&P Piling Pte Ltd due to cash flow problems."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2002-01-01",
+          "Text": "By early 2002, management agreements between W&P Piling Pte Ltd and Wee Poh Construction Co. Pte Ltd required W&P Piling Pte Ltd to pay monthly management fees to Wee Poh."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-01-01",
+          "Text": "In 1996, the management fee payable by W&P Piling Pte Ltd to Wee Poh Construction Co. Pte Ltd was $8,000 per month."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-01-01",
+          "Text": "By 2002, the management fee payable by W&P Piling Pte Ltd to Wee Poh Construction Co. Pte Ltd had increased to $45,750 per month."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "During the period leading up to February 2002, W&P Piling Pte Ltd reported regularly to Wee Poh Construction Co. Pte Ltd on its projects, progress and projected profits at monthly meetings attended by its project management personnel."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-06-30",
+          "Text": "For the financial year ending 2002-06-30, the audited accounts of W&P Piling Pte Ltd recorded accumulated losses of $15,118,819 against issued capital of $2,500,000, resulting in a net shareholders' deficit of $12,618,819."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-06-30",
+          "Text": "As at 2002-06-30, the accounts of W&P Piling Pte Ltd showed that its then current liabilities exceeded its assets by $15,735,685, with trade receivables of $3,966,001 and trade payables of $12,978,911."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-06-30",
+          "Text": "As at 2002-06-30, documents prepared within the Wee Poh group recorded that Wee Poh Construction Co. Pte Ltd owed W&P Piling Pte Ltd $1,519,044."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-06-30",
+          "Text": "As at 2002-06-30, a proposal document for the scheme of arrangement recorded that Wee Poh Construction Co. Pte Ltd owed W&P Piling Pte Ltd $807,825 and that W&P Piling Pte Ltd owed Wee Poh Holdings Ltd $389,773.29."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "Around 2002, W&P Piling Pte Ltd's third and fourth machines were used by Wee Poh Construction Co. Pte Ltd at the Singapore Sports School complex project site without separate rental being paid directly to W&P Piling Pte Ltd, according to observations by former director Chow Soong Cheng."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "Around 2002, machinery of W&P Piling Pte Ltd was used by Wee Poh Construction Co. Pte Ltd to complete the Sengkang flyover, Braddell flyover and Bukit Timah flyover projects without separate rental being paid directly to W&P Piling Pte Ltd, based on observations by former director Chow Soong Cheng."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-10-26",
+          "Text": "On 2002-10-26, W&P Piling Pte Ltd defaulted on the second instalment payment due under its scheme of arrangement, causing creditors' claims to become repayable in full and leading to termination of the scheme."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-05-02",
+          "Text": "On or about 2002-05-02, W&P Piling Pte Ltd's board decided to sell the first machine to Wee Poh Construction Co. Pte Ltd for $380,000 excluding 3% GST of $11,400, when the net book value of the first machine was $405,467 and no valuation was obtained."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-05-02",
+          "Text": "On or about 2002-05-02, the first machine was transferred from W&P Piling Pte Ltd to Wee Poh Construction Co. Pte Ltd and then on-sold by Wee Poh to Lip Seng at the same price, with sale proceeds applied to HSBC Capital (Asia) Pte Ltd and to Wee Poh rather than being paid into W&P Piling Pte Ltd's own accounts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-04-01",
+          "Text": "Around April or May 2002, W&P Piling Pte Ltd did not meet monthly instalments due to Caterpillar Credit Services Asia Pte Ltd for the third and fourth machines, after which Caterpillar repossessed those machines."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2002-04-01",
+          "Text": "Around April or May 2002, W&P Piling Pte Ltd's board agreed with Caterpillar Credit Services Asia Pte Ltd and Wee Poh Construction Co. Pte Ltd that Wee Poh would take over the hire of the third and fourth machines from Caterpillar, releasing W&P Piling Pte Ltd from its hire-purchase liabilities for those machines."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-04-01",
+          "Text": "After Wee Poh Construction Co. Pte Ltd took over the hire of the third and fourth machines from Caterpillar around April or May 2002, those machines continued to be deployed and used by W&P Piling Pte Ltd to complete its outstanding projects."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-04-01",
+          "Text": "Around April or May 2002, the net book values of the third and fourth machines were $625,650 and $811,750.06 respectively, while Caterpillar Credit Services Asia Pte Ltd was owed $449,887.81 and $626,995.90 respectively under the hire-purchase agreements."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-04-01",
+          "Text": "After the transfer of the third and fourth machines to Wee Poh Construction Co. Pte Ltd and their subsequent sale to Zap Piling Pte Ltd, Wee Poh did not remit the sale proceeds to W&P Piling Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-09-01",
+          "Text": "Around September or October 2002, W&P Piling Pte Ltd did not pay monthly hire-purchase instalments due to Caterpillar Credit Services Asia Pte Ltd for the fifth machine."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2002-09-01",
+          "Text": "Around September or October 2002, W&P Piling Pte Ltd's board agreed with Wee Poh Construction Co. Pte Ltd and Caterpillar Credit Services Asia Pte Ltd that Wee Poh would take over the hire of the fifth machine from Caterpillar and assume the related obligations."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-09-01",
+          "Text": "In September 2002, Wee Poh Construction Co. Pte Ltd sold the fifth machine to Lim Sing Piling Pte Ltd for $494,400 inclusive of 3% GST, used the proceeds to settle Caterpillar's outstanding claim owed by Wee Poh, and received a refund of $33,374.12 from Caterpillar as surplus."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-09-01",
+          "Text": "At the time of the September 2002 sale of the fifth machine, the net book value of the fifth machine in W&P Piling Pte Ltd's accounts was $600,000 and no valuation was conducted before the transfer to Wee Poh Construction Co. Pte Ltd and on-sale to Lim Sing Piling Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-03-31",
+          "Text": "On 2003-03-31, W&P Piling Pte Ltd issued a credit note to Wee Poh Construction Co. Pte Ltd for $494,400, cancelling an amount recorded as owed by Wee Poh to W&P Piling Pte Ltd corresponding to the sale price of the fifth machine."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "According to former director Chow Soong Cheng, the second machine was not any hire-purchase agreement, whereas other machines were financed by hire-purchase."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-01-01",
+          "Text": "At the time of its transfer, the second machine was sold by W&P Piling Pte Ltd to Wee Poh Construction Co. Pte Ltd for $432,600, and Wee Poh in turn sold it to J Lim Piling Pte Ltd at the same consideration, with W&P Piling Pte Ltd not receiving the sale proceeds."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-01-01",
+          "Text": "According to explanations by the first defendant, the sale proceeds of the second machine were used within the Wee Poh group to set off payments made by Wee Poh on behalf of W&P Piling Pte Ltd, including salaries, CPF payments, bank interest and operating expenses."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2003-01-27",
+          "Text": "On 2003-01-27, a winding-up petition (Companies Winding Up No. 30 of 2003) was filed against W&P Piling Pte Ltd by Will Marketing Pte Ltd for an outstanding judgment debt of $15,906.51."
+        }
+      ],
+      "Issue": "Whether the transfer and sale of W&P Piling Pte Ltd's five construction machines to its related company Wee Poh Construction Co. Pte Ltd, and the handling of the resulting sale proceeds and intercompany accounts, affected the financial position of W&P Piling Pte Ltd when it was under financial distress and a scheme of arrangement.",
+      "Rule": "Directors of a company are generally manage the company's property and financial affairs in accordance with statutory standards of honesty and reasonable diligence and with regard to the interests of the company and, where the company is insolvent or near insolvency, the interests of its creditors.",
+      "Application": "W&P Piling Pte Ltd acquired five high-value construction machines between 1997 and 2000, financing four of them through hire-purchase agreements with HSBC Capital (Asia) Pte Ltd and Caterpillar Credit Services Asia Pte Ltd. By early 2002, the company was experiencing cash flow difficulties, entered into a scheme of arrangement with creditors, and its audited accounts showed substantial accumulated losses and a net shareholders' deficit. During this period, the machines were transferred to Wee Poh Construction Co. Pte Ltd and on-sold to third parties, with no valuations obtained, no tenders called, and sale proceeds not being paid directly into W&P Piling Pte Ltd's accounts. Internal documents recorded significant sums owed by Wee Poh to W&P Piling Pte Ltd, including amounts related to the machines and an adjudicated sum from terminated subcontracts, while management fees and intercompany set-offs were used within the group. These events occurred while W&P Piling Pte Ltd was under a scheme of arrangement and facing a winding-up petition, and they determined the availability of machine assets and cash flows to the company and its creditors.",
+      "Judicial_Reasoning_Log": "The judge described awarding interlocutory judgment for the plaintiff against all three defendants and directing an assessment of damages, with a contribution order in favour of the third defendant. The reasoning included findings that all three defendants had breached fiduciary and statutory duties under section 157 of the Companies Act, that the first defendant paid little heed to his responsibilities, and that the second defendant effectively deferred to him. The court relied on authorities such as Townsing Henry George v Jenton Overseas Investment Pte Ltd, Kea Holdings Pte Ltd v Gan Boon Hock, Golden Village Multiplex Pte Ltd v Phoon Chiong Kit, Re Dominion International Group plc (No 2), Tong Tien See Construction Pte Ltd v Tong Tien See, West Mercia Safetywear Ltd v Dodd, and Kwee Seng Chio Peter v Biogenics Sdn Bhd. The judge concluded that the defendants' actions in transferring the five machines to Wee Poh, failing to obtain valuations or call tenders, and not accounting to the plaintiff for sale proceeds were inconsistent with acting honestly and reasonably in the company's interests, particularly when the company was insolvent or nearly insolvent. The court rejected the first and second defendants' reliance on section 391(1) of the Companies Act, holding that they had not acted honestly or reasonably and could not be excused. The judge considered the plaintiff insolvent by virtue of the scheme of arrangement and its audited accounts, and noted that the interests of creditors were paramount. The first defendant's explanations regarding intercompany set-offs, the adjudicated sum, and the credit note for $494,400 were rejected as unsubstantiated or fabricated, and the schedule showing a net balance of $36,970.95 was described as a sham. The court found that Caterpillar had not adhered to the master hire-purchase agreement procedures and had treated W&P Piling Pte Ltd and Wee Poh as a single entity, but this was part of the factual background rather than the primary basis of liability. As to the third defendant, the judge accepted that his role was more limited but held that nominee directors owe the same fiduciary duties as other directors, citing Globalink Telecommunications Limited v Wilmbury Limited and Kwee Seng Chio Peter v Biogenics Sdn Bhd. The court found that the third defendant attended board meetings where the sales of the second to fifth machines were discussed, signed financial statements and resolutions, knew of the company's financial difficulties, and should have been more vigilant or refrained from participating in the decisions. The judge rejected any res judicata or abuse of process argument based on the earlier Originating Summons, noting that the previous decision did not address his general responsibilities as a director. Ultimately, the court held all three defendants liable to the plaintiff, with the third defendant entitled to 75% contribution from the first and second defendants after satisfying the plaintiff's claim and costs."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 162/2006",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2007-07-31",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Chew Yin What",
+      "Law_Firm": "William Poh & Louis Lim",
+      "Counsel": [
+        "Leslie Phua",
+        "Louis Lim"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-05-09",
+          "Text": "Chew Yin What was a director of W&P Piling Pte Ltd from 1996-05-09 to 2003-04-12."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-08-02",
+          "Text": "At the material time, Chew Yin What was also a director of Wee Poh Construction Co. Pte Ltd, the immediate holding company of W&P Piling Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-01-01",
+          "Text": "At the material time, Chew Yin What was the executive or managing director of Wee Poh Holdings Ltd, the parent company of Wee Poh Construction Co. Pte Ltd, which was listed on the Stock Exchange of Singapore."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-01-01",
+          "Text": "In his written evidence, Chew Yin What stated that he was a representative of Wee Poh Construction Co. Pte Ltd on the board of W&P Piling Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-02-01",
+          "Text": "After the resignations of directors Chow Soong Cheng and Wong Tuck Wai in February 2002, Chew Yin What took over the management of W&P Piling Pte Ltd with the assistance of the second and third defendants."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-05-02",
+          "Text": "On or about 2002-05-02, as part of the board of W&P Piling Pte Ltd, Chew Yin What participated in a decision to sell the first machine to Wee Poh Construction Co. Pte Ltd for $380,000 excluding GST when the net book value was $405,467 and no valuation was obtained."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-04-01",
+          "Text": "Around April or May 2002, Chew Yin What participated in arrangements under which W&P Piling Pte Ltd agreed with Caterpillar Credit Services Asia Pte Ltd and Wee Poh Construction Co. Pte Ltd that Wee Poh would take over the hire of the third and fourth machines from Caterpillar, releasing W&P Piling Pte Ltd from its hire-purchase liabilities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-04-01",
+          "Text": "Around April or May 2002, Chew Yin What was involved in decisions under which the third and fourth machines were transferred to Wee Poh Construction Co. Pte Ltd and later sold to Zap Piling Pte Ltd, with W&P Piling Pte Ltd not receiving the sale proceeds."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-09-01",
+          "Text": "Around September or October 2002, Chew Yin What participated in arrangements under which W&P Piling Pte Ltd agreed with Wee Poh Construction Co. Pte Ltd and Caterpillar Credit Services Asia Pte Ltd that Wee Poh would take over the hire of the fifth machine from Caterpillar."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-09-01",
+          "Text": "In September 2002, under arrangements in which Chew Yin What was involved, Wee Poh Construction Co. Pte Ltd sold the fifth machine to Lim Sing Piling Pte Ltd for $494,400 inclusive of GST, used the proceeds to settle Caterpillar's outstanding claim owed by Wee Poh, and received a surplus refund from Caterpillar."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-03-31",
+          "Text": "On 2003-03-31, under the direction of the board including Chew Yin What, W&P Piling Pte Ltd issued a credit note to Wee Poh Construction Co. Pte Ltd for $494,400, cancelling an amount recorded as owed by Wee Poh to W&P Piling Pte Ltd corresponding to the sale price of the fifth machine."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "According to his explanations, Chew Yin What stated that the sale proceeds of the second machine, which was sold by W&P Piling Pte Ltd to Wee Poh Construction Co. Pte Ltd and then to J Lim Piling Pte Ltd for $432,600, were used to set off payments made by Wee Poh on behalf of W&P Piling Pte Ltd for salaries, CPF contributions, bank interest and operating expenses."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-31",
+          "Text": "On 2002-01-31, as a director of W&P Piling Pte Ltd, Chew Yin What signed or approved an explanatory statement in a scheme of arrangement proposal describing the company's business as viable but facing cash flow difficulties and setting out reasons such as low tender prices, high fixed overheads, high equipment financing costs and slow collections."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-31",
+          "Text": "In the 2002-01-31 scheme of arrangement proposal, Chew Yin What stated that the proposed payments to W&P Piling Pte Ltd's creditors would be financed by the Wee Poh group and that Wee Poh Holdings Ltd would inject funds into W&P Piling Pte Ltd to meet obligations under the scheme."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "As a director of W&P Piling Pte Ltd and of its holding entities, Chew Yin What was involved in management agreements under which W&P Piling Pte Ltd paid increasing monthly management fees to Wee Poh Construction Co. Pte Ltd, rising from $8,000 in 1996 to $45,750 in 2002."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-01-01",
+          "Text": "By late 2001, Chew Yin What was aware that W&P Piling Pte Ltd was experiencing financial difficulties and participated in initiating a scheme of arrangement with creditors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "During 2002, Chew Yin What received regular reports from W&P Piling Pte Ltd on its projects, progress and projected profits at monthly meetings held at Wee Poh Construction Co. Pte Ltd's office."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-04-12",
+          "Text": "On 2003-04-12, Chew Yin What ceased to be a director of W&P Piling Pte Ltd."
+        }
+      ],
+      "Issue": "Whether Chew Yin What, as a director of W&P Piling Pte Ltd and of its holding entities, managed the acquisition, transfer and sale of the company's five construction machines and related intercompany financial arrangements in a manner consistent with statutory standards of honesty and reasonable diligence and with regard to the company's and creditors' interests during a period of financial distress.",
+      "Rule": "A director is generally act honestly and with reasonable diligence in managing a company's property and financial affairs, including when dealing with transactions involving related companies, and to take into account the interests of the company and, where the company is insolvent or near insolvency, the interests of its creditors.",
+      "Application": "Chew Yin What held multiple roles as director of W&P Piling Pte Ltd, director of its immediate holding company Wee Poh Construction Co. Pte Ltd, and executive or managing director of Wee Poh Holdings Ltd. He participated in decisions to transfer W&P Piling Pte Ltd's five machines to Wee Poh and to arrange their sale to third parties, without obtaining valuations or calling tenders, and with sale proceeds being applied within the Wee Poh group rather than being paid directly to W&P Piling Pte Ltd. He also oversaw management agreements under which management fees from W&P Piling Pte Ltd to Wee Poh increased substantially, and he signed a scheme of arrangement proposal that described the company's financial difficulties and indicated that the Wee Poh group would finance payments to creditors. During this period, W&P Piling Pte Ltd's audited accounts showed large accumulated losses and a net shareholders' deficit, and internal documents recorded significant sums owed by Wee Poh to W&P Piling Pte Ltd. These facts describe how Chew Yin What managed intercompany asset transfers and financial flows at a time when W&P Piling Pte Ltd was under financial strain and a scheme of arrangement.",
+      "Judicial_Reasoning_Log": "The judge concluded that Chew Yin What, as first defendant, breached fiduciary and statutory duties under section 157 of the Companies Act by orchestrating the transfer of W&P Piling Pte Ltd's five machines to Wee Poh Construction Co. Pte Ltd, failing to obtain valuations or call tenders, and not accounting to the plaintiff for sale proceeds. The court found that he paid scant regard to his duties, treated the companies as if he had carte blanche, and gave evidence that was evasive, contradictory or untrue, including about hire-purchase arrangements, intercompany set-offs, and the adjudicated sum. The judge rejected his explanation that Wee Poh had advanced numerous sums to the plaintiff and described the schedule showing a net balance of $36,970.95 as a sham. The court held that the plaintiff was insolvent by virtue of the scheme of arrangement and its audited accounts, and that the interests of creditors were paramount. The judge applied authorities such as Townsing Henry George v Jenton Overseas Investment Pte Ltd, Re Dominion International Group plc (No 2), Tong Tien See Construction Pte Ltd v Tong Tien See, and West Mercia Safetywear Ltd v Dodd to emphasise that a director of both a holding company and a subsidiary must avoid conflicts and cannot prefer the holding company's interests by stripping assets from the subsidiary. The court rejected the first defendant's attempt to rely on section 391(1) of the Companies Act, holding that he had not acted honestly or reasonably and therefore could not be excused. The judge also noted that the first defendant fabricated or relied on a false credit note for $494,400 and misrepresented that the adjudicated sum had been paid or set off. Overall, the court held him primarily responsible for running the plaintiff into the ground and imposed full liability, with a contribution order in favour of the third defendant."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 162/2006",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2007-07-31",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lee Kok Swee",
+      "Law_Firm": "William Poh & Louis Lim",
+      "Counsel": [
+        "Leslie Phua",
+        "Louis Lim"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-08-02",
+          "Text": "Lee Kok Swee was a director of W&P Piling Pte Ltd from 1996-08-02 to 2003-04-12."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1996-01-01",
+          "Text": "Lee Kok Swee is the brother-in-law of Chew Yin What, being married to Chew Yin What's younger sister."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-08-02",
+          "Text": "At the material time, Lee Kok Swee was also a director of Wee Poh Construction Co. Pte Ltd, the immediate holding company of W&P Piling Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-02-01",
+          "Text": "After the resignations of directors Chow Soong Cheng and Wong Tuck Wai in February 2002, Lee Kok Swee assisted Chew Yin What in managing W&P Piling Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-05-02",
+          "Text": "On or about 2002-05-02, the sale of the first machine by W&P Piling Pte Ltd to Wee Poh Construction Co. Pte Ltd was approved at a board meeting attended only by Chew Yin What and Lee Kok Swee."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-04-01",
+          "Text": "Around April or May 2002, Lee Kok Swee was part of the W&P Piling Pte Ltd board that agreed to arrangements under which Wee Poh Construction Co. Pte Ltd took over the hire of the third and fourth machines from Caterpillar Credit Services Asia Pte Ltd, with the machines later sold to Zap Piling Pte Ltd and proceeds not paid to W&P Piling Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-09-01",
+          "Text": "Around September or October 2002, Lee Kok Swee was part of the W&P Piling Pte Ltd board that agreed to arrangements under which Wee Poh Construction Co. Pte Ltd took over the hire of the fifth machine from Caterpillar Credit Services Asia Pte Ltd, and the machine was sold to Lim Sing Piling Pte Ltd with proceeds applied within the Wee Poh group."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-03-31",
+          "Text": "On 2003-03-31, as a director of W&P Piling Pte Ltd, Lee Kok Swee was associated with the issuance of a credit note for $494,400 to Wee Poh Construction Co. Pte Ltd, cancelling an amount recorded as owed by Wee Poh to W&P Piling Pte Ltd corresponding to the sale price of the fifth machine."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "In his defence, Lee Kok Swee stated that Wee Poh Construction Co. Pte Ltd was guarantor for the first, third, fourth and fifth machines under hire-purchase agreements and that payments by Wee Poh on behalf of W&P Piling Pte Ltd were used to support the company's operations."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-04-12",
+          "Text": "On 2003-04-12, Lee Kok Swee ceased to be a director of W&P Piling Pte Ltd."
+        }
+      ],
+      "Issue": "Whether Lee Kok Swee, as a director of W&P Piling Pte Ltd and of its immediate holding company, participated in the transfer and sale of W&P Piling Pte Ltd's five machines and related intercompany financial arrangements in a manner consistent with statutory standards of honesty and reasonable diligence and with regard to the company's and creditors' interests during a period of financial distress.",
+      "Rule": "Directors are generally act honestly and with reasonable diligence in managing a company's assets and financial dealings, including transactions with related companies, and to consider the interests of the company and, where the company is insolvent or near insolvency, the interests of its creditors.",
+      "Application": "Lee Kok Swee served as a director of both W&P Piling Pte Ltd and its immediate holding company, Wee Poh Construction Co. Pte Ltd, and assisted Chew Yin What in managing W&P Piling Pte Ltd after other directors resigned. He attended the board meeting at which the sale of the first machine to Wee Poh was approved without valuations or participation by other directors, and he was part of the board that agreed to arrangements under which Wee Poh took over hire-purchase obligations for the third, fourth and fifth machines and later sold them to third parties, with proceeds applied within the Wee Poh group rather than being paid directly to W&P Piling Pte Ltd. He also participated in issuing a credit note that cancelled an amount owed by Wee Poh to W&P Piling Pte Ltd corresponding to the sale price of the fifth machine. These actions occurred while W&P Piling Pte Ltd was under a scheme of arrangement and experiencing financial difficulties, and they shaped how the company's machine assets and related cash flows were handled.",
+      "Judicial_Reasoning_Log": "The judge held that Lee Kok Swee, as second defendant, was jointly liable with the first defendant for breaches of fiduciary and statutory duties under section 157 of the Companies Act. The court noted that he was a director of both W&P Piling Pte Ltd and Wee Poh Construction Co. Pte Ltd and that he approved the sale of the first machine at a board meeting attended only by himself and the first defendant. The judge found that he effectively left decision-making to the first defendant, had little knowledge of the company's affairs, and adopted the first defendant's evidence wholesale in his affidavit. The court considered his evidence weak and gave it little weight. Applying the same legal principles on directors' duties and conflicts of interest as for the first defendant, the judge concluded that the second defendant participated in the transfer of the five machines to Wee Poh, the failure to obtain valuations or call tenders, and the failure to account to the plaintiff for sale proceeds. The court rejected his attempt to rely on section 391(1) of the Companies Act, holding that he had not acted honestly or reasonably and therefore could not be excused. The judge treated him as equally responsible with the first defendant for the losses caused to the plaintiff, subject to the contribution order in favour of the third defendant."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 162/2006",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2007-07-31",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Yeung Chun Keung",
+      "Law_Firm": "CH & Partners",
+      "Counsel": [
+        "Tan Cheow Hin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-05-27",
+          "Text": "Yeung Chun Keung was a director of W&P Piling Pte Ltd from 1996-05-27 to 2003-04-12."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-01-01",
+          "Text": "Yeung Chun Keung was employed by the holding company of W&P Piling Pte Ltd and was appointed as a nominee director of W&P Piling Pte Ltd at the request of Chew Yin What."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1988-01-01",
+          "Text": "Yeung Chun Keung holds a Bachelor of Science degree in civil engineering from Aberdeen University and has been registered as a professional engineer with the Singapore Board of Engineers since 1988."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-11-14",
+          "Text": "Under a service contract dated 1996-11-14 with Wee Poh Construction Co. Pte Ltd, Yeung Chun Keung was appointed as a director and project director within the Wee Poh group, with his monthly salary apportioned among Wee Poh Construction Co. Pte Ltd, W&P Management Services Pte Ltd and W&P Piling Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-09-05",
+          "Text": "A board resolution of W&P Piling Pte Ltd dated 1996-09-05 recorded that Yeung Chun Keung received $9,000 in director's fees for the year ended 1996-06-30."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-01-01",
+          "Text": "As project director within the Wee Poh group, Yeung Chun Keung attended weekly meetings at Wee Poh Construction Co. Pte Ltd's office where projects under his charge were discussed."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-12-01",
+          "Text": "By the end of 2001, Yeung Chun Keung was aware that W&P Piling Pte Ltd was in financial difficulties."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-02-01",
+          "Text": "After the resignations of directors Chow Soong Cheng and Wong Tuck Wai in February 2002, Yeung Chun Keung continued as a director of W&P Piling Pte Ltd but focused on providing technical support for projects within the Wee Poh group."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "Yeung Chun Keung attended board meetings of W&P Piling Pte Ltd and signed annual financial statements and board resolutions presented by the financial controller."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "During , Yeung Chun Keung accepted that signing board resolutions amounted to participation in the management of W&P Piling Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "Yeung Chun Keung stated that he did not take part in executive or management decisions of W&P Piling Pte Ltd and that his role was to attend to day-to-day technical matters for the holding company and its subsidiaries, including W&P Piling Pte Ltd and Wee Poh Construction Co. Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "Yeung Chun Keung stated that he was not notified of and was not invited to attend some directors' meetings of W&P Piling Pte Ltd, although he did attend certain meetings where board resolutions were passed."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "According to testimony by operations manager Phang Chu Mau, Yeung Chun Keung was present at meetings where the management of W&P Piling Pte Ltd and Wee Poh Construction Co. Pte Ltd was discussed, including meetings at which the sale of the second to fifth machines was addressed."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-01-01",
+          "Text": "Yeung Chun Keung relied on other professionals, including the scheme administrator of W&P Piling Pte Ltd's scheme of arrangement, to address the company's financial problems."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-11-03",
+          "Text": "On 2003-11-03, the holding company terminated Yeung Chun Keung's service contract, and he subsequently commenced Suit No. 1206 of 2003 against the holding company for repudiation of that contract."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-04-12",
+          "Text": "On 2003-04-12, Yeung Chun Keung ceased to be a director of W&P Piling Pte Ltd."
+        }
+      ],
+      "Issue": "Whether Yeung Chun Keung, as a nominee and technical director of W&P Piling Pte Ltd, participated in or failed to respond to board decisions concerning the transfer and sale of the company's five machines and related financial arrangements in a manner consistent with statutory standards of honesty and reasonable diligence and with regard to the company's and creditors' interests during a period of financial distress.",
+      "Rule": "All directors, including nominee and non-executive directors, are generally comply with statutory standards of honesty and reasonable diligence in overseeing a company's affairs, to participate appropriately in board decisions, and to monitor how co-directors handle company assets, particularly when the company is in financial difficulty.",
+      "Application": "Yeung Chun Keung was a professionally qualified engineer and nominee director of W&P Piling Pte Ltd, employed by the holding company and serving as project director within the group. He attended board meetings, signed financial statements and resolutions, and received director's fees, while also acknowledging awareness of the company's financial difficulties by late 2001. Testimony indicated that he was present at meetings where the sale of the second to fifth machines was discussed, although he stated that he did not recall the discussions and that his focus was on technical matters rather than management decisions. He relied on other professionals, including the scheme administrator, to address the company's financial problems and did not assume a more proactive role after other directors resigned. These facts describe his level of involvement in board processes and his response to asset transfers and financial issues during the period when W&P Piling Pte Ltd was under financial strain.",
+      "Judicial_Reasoning_Log": "The judge found that Yeung Chun Keung, as third defendant, also breached fiduciary and statutory duties under section 157 of the Companies Act, though to a lesser degree than the first and second defendants. The court noted his higher professional qualifications and his role as a nominee director but emphasised that the law does not distinguish between categories of directors in terms of fiduciary duties, citing Globalink Telecommunications Limited v Wilmbury Limited and Kwee Seng Chio Peter v Biogenics Sdn Bhd. The judge observed that he attended board meetings where the sales of the second to fifth machines were discussed, signed financial statements and resolutions, and admitted that signing resolutions amounted to participation in management. The court rejected his reliance on the earlier Originating Summons decision, pointing out that VK Rajah JC had expressly stated that the issue of his general responsibilities as a director did not arise in that application, and therefore res judicata did not apply. The judge held that he should have been more vigilant in monitoring how his co-directors dealt with the company's assets once he knew of the financial difficulties, and that he could not avoid responsibility by describing himself as a mere nominee or by relying on the scheme administrator. The court concluded that he had turned a blind eye to the actions of his co-directors and must bear responsibility, but recognised his more limited role by granting him a right to 75% contribution from the first and second defendants once he satisfied the plaintiff's claim and costs."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 3
+  }
+]

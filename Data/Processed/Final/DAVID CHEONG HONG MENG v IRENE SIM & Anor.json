@@ -1,0 +1,986 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 867 of 2019",
+      "Coram": "General Division of the High Court — Suit No 867 of 2019",
+      "Judge": "Audrey Lim J",
+      "Date": "2022-04-01",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Cheong Hong Meng David",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2016-01-01",
+          "Text": "David was a shareholder and director of Global Garage Pte Ltd, holding 30% of its shares alongside Wang Pinying and Andrew Sim, and he was also a director of that company."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2016-11-17",
+          "Text": "David incorporated Global Wheel Leasing Pte Ltd (GWL) on 17 November 2016 as its sole shareholder and director at the time of incorporation."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-11-23",
+          "Text": "On 23 November 2016, David transferred $16,000 into GWL's bank account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-11-23",
+          "Text": "On 23 November 2016, David handed $14,000 to Aloysius Tan to settle the outstanding loan on his car SJE 4417K."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-11-23",
+          "Text": "On 23 November 2016, JAI Motoring transferred $14,000 to GWL, corresponding to the amount David had handed to Aloysius to settle the loan on car 4417."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-11-24",
+          "Text": "On 24 November 2016, $17,439.83 from GWL's bank account was used to pay off the loan on car 4417."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-11-28",
+          "Text": "On 28 November 2016, car 4417 was transferred to and registered in the name of GWL."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-11-25",
+          "Text": "On 25 November 2016, GWL received funds from JAI Motoring as part of the capital contribution associated with Aloysius Tan."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-12-19",
+          "Text": "On 19 December 2016, GWL received further funds from JAI Motoring which David accepted were used to pay for cars 714 and 2951."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2016-12-19",
+          "Text": "Around 19 December 2016, Irene Sim joined GWL as a director and David transferred 50% of his shares in GWL to her."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-12-19",
+          "Text": "Around 19 December 2016, Irene contributed $30,000 in cash to GWL, with the funds originating from her former husband, Aloysius Tan."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2016-12-19",
+          "Text": "Irene held her 50% shareholding in GWL on behalf of her former husband, Aloysius Tan."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-11-17",
+          "Text": "David contributed a total capital of $30,000 to GWL, comprising approximately $13,000 in cash and his car SJE 4417K."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-12-20",
+          "Text": "By 20 December 2016, GWL had acquired four cars, namely 4417, 8931, 714 and 2951, using the capital contributions associated with David and Aloysius via Irene."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-12-20",
+          "Text": "David and Irene arranged that their respective capital contributions would be used for GWL to acquire the first four cars for its leasing business."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2016-12-20",
+          "Text": "David and Irene were equal shareholders and directors of GWL after Irene joined and received 50% of David's shares."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-12-20",
+          "Text": "David and Irene understood that profits from GWL's business would be split equally between them as equal shareholders."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-12-20",
+          "Text": "David and Irene understood that David would be kept informed about GWL's business dealings and performance."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-12-20",
+          "Text": "GWL's business model involved leasing cars to private-hire drivers, collecting at least one week of rental fees in advance from each driver."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-12-20",
+          "Text": "Profits from GWL's car rentals were intended to be used to acquire additional cars at or near scrap value, particularly where Certificates of Entitlement were close to expiry, with some cars having their Certificates renewed and being resold at a profit for reinvestment."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-12-20",
+          "Text": "David left the day-to-day management of GWL to Irene because he was working full-time as a sales manager at Carlsberg."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2016-05-01",
+          "Text": "Before Irene became a shareholder of GWL, David had known both Aloysius Tan and Andrew Sim and had become good friends with Andrew."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-01",
+          "Text": "Around May 2016, David and Andrew started the business of Global Garage Pte Ltd, which was in the repair and maintenance of motor vehicles."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2016-06-03",
+          "Text": "Soon Kee F&B Group Pte Ltd changed its name to Global Garage Pte Ltd on 3 June 2016, with David, Wang Pinying and Andrew Sim holding 30%, 30% and 40% of the shares respectively and all three being directors."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2014-01-01",
+          "Text": "Global Garage Pte Ltd originated in 2014 as Soon Kee F&B Group Pte Ltd before its name change in June 2016."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2016-01-01",
+          "Text": "Global Garage Pte Ltd shared a registered address at 8 Kaki Bukit Avenue 4, Premier@Kaki Bukit."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2016-01-01",
+          "Text": "Global Carz Pte Ltd, previously known as Evergreen Motoring Pte Ltd, was owned by Aloysius and engaged in the retail sale of motor vehicles, with a registered address previously at Premier@Kaki Bukit."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2016-01-01",
+          "Text": "Irene was employed by Evergreen Motoring Pte Ltd performing administrative duties and continued in the same role when the company was renamed Global Carz Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2016-11-29",
+          "Text": "Global Autoworks was registered on 29 November 2016, owned and directed by Irene, and carried on spray painting for cars, with a previous business address at Premier@Kaki Bukit."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2016-01-01",
+          "Text": "JAI Motoring was started by Aloysius, Irene, and Irene's brother-in-law, with Irene as the sole shareholder and director, and at the material time it had no active business according to Irene."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2016-12-20",
+          "Text": "While a shareholder and director of GWL, Irene also worked for Global Garage Pte Ltd, Global Autoworks, and Global Carz Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "By early 2017, GWL acquired three more cars using the cash contributions from David and Irene, bringing the total to at least four cars owned by GWL."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "Subsequently, 34 additional cars were acquired and registered under GWL's name, with funds originating from entities related to Aloysius or Andrew used to purchase some of these cars."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-10-01",
+          "Text": "By October 2017, all 38 cars that had been registered under GWL's name had been transferred out of GWL."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "GWL's bank statements showed that it did not have sufficient funds to purchase car 8233 in January 2017 without an injection of funds from JAI Motoring."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-01-17",
+          "Text": "On 17 January 2017, $15,811 was transferred from Global Carz Pte Ltd to GWL and recorded in Irene's journal as a loan to GWL."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-01-23",
+          "Text": "On 23 January 2017, $12,600 was transferred from Global Carz Pte Ltd to GWL and recorded in Irene's journal as a loan to GWL."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-02-01",
+          "Text": "On 1 February 2017, $43,976 was transferred from Global Carz Pte Ltd to GWL and recorded in Irene's journal as a loan to GWL."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-02-17",
+          "Text": "On 17 February 2017, $20,700 was transferred from Global Carz Pte Ltd to GWL and recorded in Irene's journal as a loan to GWL."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-01-25",
+          "Text": "On 25 January 2017, GWL received $12,500 from the sale of car 714."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-02-17",
+          "Text": "On 17 February 2017, GWL paid $8,511.96 and $4,008.04 from its bank account for the purchase of car 3487, as recorded in Irene's journal."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-02-17",
+          "Text": "By February 2017, cars 6302 and 3487 had been purchased and registered under GWL, with car 6302 acquired around February 2017 and car 3487 around April or May 2017."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-01-08",
+          "Text": "Cars 4417, 8931, 714 and 2951 were registered under GWL on 28 November, 8 December, 19 December and 20 December 2016 respectively, forming the first four cars in GWL's fleet."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-02-28",
+          "Text": "By end February 2017, GWL had a fleet of about 15 cars registered under its name."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "GWL operated from the second floor of 62 Kaki Bukit Avenue 6, while Global Garage Pte Ltd occupied the first floor, and GWL shared premises with Global Carz Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-02-28",
+          "Text": "On 28 February 2017, GWL paid $2,000 to Global Carz Pte Ltd as rent for January and February 2017 for premises at 62 Kaki Bukit Avenue 6."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-03-01",
+          "Text": "From March 2017, GWL moved its operations to Premier@Kaki Bukit, occupying one unit leased from Global Autoworks, while Global Autoworks occupied another unit and Global Garage Pte Ltd moved to a different unit at the same location."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-07-18",
+          "Text": "On 18 July 2017, GWL paid $4,000 to Global Autoworks as rent for March and April 2017 for premises at Premier@Kaki Bukit."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-07-31",
+          "Text": "On 31 July 2017, GWL paid $4,000 to Global Autoworks as rent for May and June 2017."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-22",
+          "Text": "On 22 August 2017, GWL paid $4,000 to Global Autoworks as rent for July and August 2017."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-25",
+          "Text": "Around 24 or 25 September 2017, GWL paid $4,200 to Global Autoworks as rent for September and October 2017, including an additional $200 attributed to shared utilities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "GWL collected rental deposits from hirers of its cars, which were refundable when the lease ended and the cars were returned."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-02-20",
+          "Text": "Around 20 February 2017, GWL refunded a total of $1,000 in rental deposits for cars 6359 and 8233."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-10-13",
+          "Text": "On 13 October 2017, GWL withdrew $2,500 by cheque as a refund of rental deposits for five hirers whose cars had been sold to CarTimes Automobile Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-03-15",
+          "Text": "Around 15 March 2017, GWL paid $942.83 to Cowell Insurance Agency Pte Ltd for insurance coverage relating to GWL's cars."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-05-19",
+          "Text": "Around 19 May 2017, GWL paid $5,170.68 to Cowell Insurance Agency Pte Ltd for insurance coverage relating to GWL's cars."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-03-01",
+          "Text": "In March 2017, GWL paid $4,009.61 and $2,915.49 on other occasions to Cowell Insurance Agency Pte Ltd for insurance relating to its cars."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-03-01",
+          "Text": "In March 2017, GWL paid $610.95 to Singtel for telephone and fax services associated with numbers 63845766 and 63845760, on an account billed to Global Forecast Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-03-01",
+          "Text": "In March 2017, GWL paid $529.52 to Singtel for broadband services on an account billed to Global Forecast Pte Ltd, covering usage from mid-October 2016 to February 2017 at 62 Kaki Bukit Avenue 6."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-04-04",
+          "Text": "On 4 April 2017, GWL transferred $25,000 from its bank account to Global Carz Pte Ltd, recorded in Irene's journal as related to loans between GWL and Global Carz."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-05-29",
+          "Text": "On 29 May 2017, GWL transferred $26,500 from its bank account to Global Carz Pte Ltd, recorded in Irene's journal in connection with earlier funds received from Global Carz."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-07-20",
+          "Text": "On 20 July 2017, GWL transferred $20,000 from its bank account to Crown Auto, recorded in Irene's journal as a return of part of a $44,000 loan previously received from Crown Auto."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-23",
+          "Text": "On 23 August 2017, $25,000 was transferred out of GWL's bank account, recorded in Irene's journal as a return of loan to Global Carz Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-10-02",
+          "Text": "On 2 October 2017, GWL transferred $6,000 from its bank account to Global Carz Pte Ltd, recorded in Irene's journal as a return of loan."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-10-05",
+          "Text": "Around 5 October 2017, nine cars registered under GWL, namely 3487, 6396, 3625, 2574, 3396, 6915, 3382, 4417 and 3572, were sold to CarTimes Automobile Pte Ltd for a total of $107,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-10-06",
+          "Text": "On 6 October 2017, GWL transferred $107,000 from its bank account to Global Carz Pte Ltd, corresponding to the sale proceeds received from CarTimes Automobile Pte Ltd for nine cars."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-04-05",
+          "Text": "On 5 April 2017, $300 in cash was paid by GWL to Aloysius, recorded in Irene's journal as money collected from a hirer as a deposit that was retained by Aloysius."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-05-01",
+          "Text": "On or about early May 2017, GWL paid $1,334 to Benson Seah as 'commission and claims' relating to cars 3174, 4778, 4414, 2843, 3058 and 4179, as recorded in Irene's journal."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-06-15",
+          "Text": "On 15 or 16 June 2017, GWL paid $1,079.80 to Benson Seah, comprising commission for cars 6302, 3382, 4228 and 3625, reimbursement for Land Transport Authority inspections of cars 4228 and 3396, and reimbursement for replacement of the in-vehicle unit of car 3058."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-02-20",
+          "Text": "On 20 February 2017, GWL paid $1,000 to an individual named Vince as commission in connection with the purchase of car 3487."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-03-24",
+          "Text": "On 24 March 2017, GWL paid $600 to Andrew Sim, recorded in GWL's payment voucher as $300 commission for purchasing car 3487 and $300 commission for purchasing car 3396."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-06-14",
+          "Text": "Around 14 June 2017, GWL paid $6,164 to Global Garage Pte Ltd for maintenance, servicing or repairs of GWL's cars, supported by invoices."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-06-14",
+          "Text": "On 14 June 2017, GWL paid $960 to Global Autoworks for spray painting of three cars."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-01-16",
+          "Text": "Around 16 January 2017, GWL paid $980 to Global Garage Pte Ltd for maintenance, servicing or repairs of its cars."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-07-24",
+          "Text": "Around 24 July 2017, GWL made payments of $1,759.80 and $3,684.10 to Global Garage Pte Ltd for maintenance, servicing or repairs of its cars."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-16",
+          "Text": "Around 16 August 2017, GWL paid $973.70 to Global Garage Pte Ltd for maintenance, servicing or repairs of its cars."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-04",
+          "Text": "Around 4 September 2017, GWL paid $814.10 to Global Garage Pte Ltd for maintenance, servicing or repairs of its cars."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-10-17",
+          "Text": "Around 17 October 2017, GWL paid $797.40 to Global Garage Pte Ltd for maintenance, servicing or repairs of its cars."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-01-16",
+          "Text": "In January 2017, GWL paid $619.20 to Tesla Lim, recorded as salary for work performed for GWL."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-01-31",
+          "Text": "In January 2017, GWL paid $950 to an employee named Yani as salary or allowance for administrative work for GWL."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-02-28",
+          "Text": "In February 2017, GWL paid $720 to Yani as salary or allowance for administrative work for GWL."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-12-16",
+          "Text": "On 16 December 2016, an email from Republic Auto Pte Ltd regarding the sale of car 2951 to GWL was handled by Benson Seah using a Global Carz Pte Ltd email address, as GWL did not yet have its own email address."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-06-07",
+          "Text": "Around 7 June 2017, GWL paid $1,800 to Benson Seah as salary for May 2017, recorded in Irene's journal."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-07-05",
+          "Text": "On 5 July 2017, GWL paid $1,800 to Benson Seah as salary for June 2017, recorded in Irene's journal."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-06-30",
+          "Text": "In June 2017, GWL paid $1,600 to Adam Chua as salary for May 2017, recorded in Irene's journal."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-07-31",
+          "Text": "In July 2017, GWL paid $1,600 to Adam Chua as salary for June 2017, recorded in Irene's journal."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-30",
+          "Text": "In September 2017, GWL paid $1,600 to Adam Chua as salary for August 2017, recorded in Irene's journal."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-11-30",
+          "Text": "In November 2017, GWL paid $1,600 to Adam Chua as salary for October 2017, recorded in Irene's journal."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-10-10",
+          "Text": "Around 10 October 2017, GWL paid $1,369.55 to Adeline Ye as salary for September 2017, recorded in Irene's journal."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-10-09",
+          "Text": "On 9 October 2017, GWL withdrew $1,600 from its bank account and paid it to Irene, recorded in Irene's journal as payment for administrative work done."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-10-05",
+          "Text": "On 5 October 2017, GWL paid $1,440 to Andrew Sim, recorded in Irene's journal as net salary for September 2017."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-05-08",
+          "Text": "Around 8 or 9 May 2017, GWL paid $1,334 to Benson Seah, recorded as commission and claims for multiple cars including 3174, 4778, 4414, 2843, 3058 and 4179."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-19",
+          "Text": "Around 19 September 2017, GWL paid $610.76 to Lyreco, recorded in a GWL payment voucher as a fee to an employment agency engaged to source for a new staff member."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-05-22",
+          "Text": "Around 22 May 2017, GWL withdrew $1,000 from its bank account as petty cash for minor operating expenses, recorded in Irene's journal."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-01-01",
+          "Text": "Irene maintained a set of accounting records for GWL referred to as 'Irene's journal', which recorded loans, payments, and classifications of transactions involving GWL and related entities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "GWL's cheques were jointly signed by David and Irene during the period of operations."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-10-19",
+          "Text": "Around 19 October 2017, David used WhatsApp messages to ask Irene about the sale of GWL's cars after learning that the cars had been disposed of."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-03-01",
+          "Text": "Around March 2018, Prima Management Services Pte Ltd prepared profit and loss statements for GWL and Global Garage Pte Ltd for 2017, based on documents provided by Irene."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-03-01",
+          "Text": "Around March 2018, Prima Management Services Pte Ltd provided David with a summary of profit and expenses for four cars, 6302, 3487, 8931 and 4417, together with a brief statement that Global Garage Pte Ltd had losses to be set off against profits from GWL."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-10-01",
+          "Text": "In October 2018, David wrote to the Land Transport Authority requesting a list of cars registered under GWL, and the Land Transport Authority responded in November 2018 with the requested information."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2019-03-20",
+          "Text": "On 20 March 2019, David's lawyers sent a demand letter to Irene requesting GWL's records, including revenue generated and supporting documents relating to the sale of GWL's cars, and stating that previous requests to inspect GWL's records had not been met."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-10-01",
+          "Text": "In October 2018, Irene sent David four spreadsheets summarising profit and loss for cars 6302, 3487, 8931 and 4417, which she had prepared and referred to as 'David 4 Cars'."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-01-01",
+          "Text": "By early 2018, GWL's and Global Garage Pte Ltd's accounts and books were with Prima Management Services Pte Ltd for preparation of financial statements."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-12-31",
+          "Text": "By 2018, Prima Management Services Pte Ltd had returned GWL's documents to Irene, and some documents such as sales agreements for GWL's cars had remained with Irene throughout."
+        }
+      ],
+      "Issue": "Whether, based on the pre-dispute conduct and financial transactions of Global Wheel Leasing Pte Ltd and related entities, the management of GWL and the handling of its cars and funds resulted in outcomes that affected the value and enjoyment of David's 50% shareholding.",
+      "Rule": "Under section 216 of the Companies Act (Cap 50, 2006 Rev Ed), a shareholder may seek relief where the affairs of a company are conducted in a manner that is oppressive to one or more shareholders, in disregard of their interests as shareholders, or in a manner that unfairly discriminates against or is prejudicial to them. Courts assess such claims by examining whether there has been commercial unfairness, including departures from agreed arrangements or legitimate expectations arising from the company's structure and relationships.",
+      "Application": "David and Irene each held 50% of GWL's shares and were both directors. David contributed cash and his car 4417, while Irene contributed cash sourced from Aloysius. GWL acquired an initial fleet of four cars and later expanded to 38 cars, many of which were funded through transfers from entities connected to Aloysius and Andrew, recorded in Irene's journal as loans. GWL's rental income and sale proceeds from cars were paid into GWL's bank account, and substantial sums were later transferred from GWL to Global Carz Pte Ltd and Crown Auto, including the full $107,000 received from the sale of nine cars to CarTimes. GWL also made payments for rent, staff salaries, commissions, maintenance, insurance, and telecommunications, some of which were linked to related entities and accounts billed to other companies. David left daily management to Irene and only later requested detailed records, which were largely controlled by Irene and channelled through Prima Management Services. The pattern of car acquisitions, use of related-entity funding, and subsequent transfers of sale proceeds and other funds from GWL to related entities, together with the limited information initially provided to David, formed the factual basis for the dispute over how GWL's affairs were conducted and how David's shareholding was affected.",
+      "Judicial_Reasoning_Log": "The court analysed whether David, as a 50% shareholder and director of GWL, could invoke section 216 of the Companies Act despite not being a minority in shareholding. It held that the key question is whether the member lacks the power to stop the allegedly oppressive acts, and that equal shareholding does not bar a section 216 claim where there is a deadlock and one party effectively controls the affairs. The judge found that GWL operated as a quasi-partnership founded on mutual trust and confidence between David and Aloysius (through Irene), with an informal understanding that profits would be shared equally and that Irene would manage day-to-day operations while David worked full-time elsewhere.\n\nOn the alleged initial joint venture terms, the court scrutinised Irene and Andrew's evidence about meetings at Westway, ARK@KB, and UOB Novena. It found inconsistencies in their accounts regarding who attended, when the meetings occurred, and what was agreed. Irene was not present at the negotiations and relied on updates from Andrew and Aloysius. Andrew's claim that Global Garage and GWL were always treated as a 'bundle' was undermined by the timeline of incorporation and his own affidavit, which indicated that discussions about the rental business occurred after Global Garage was started. The court concluded that Irene failed to prove the existence of the purported terms that parties would fund up to 50 cars and share profits and losses of GWL and Global Garage.\n\nOn capital contributions and the first four cars, the court accepted that David's $30,000 contribution comprised about $13,000 cash and car 4417, and that Aloysius, via JAI Motoring and Irene, contributed $30,000. Bank statements and Irene's journal corroborated the flow of funds and the payoff of the loan on car 4417. The court determined that the first four cars were 4417, 8931, 714 and 2951, based on registration dates and the timing of JAI's transfers, and rejected the parties' inconsistent references to 6302 and 3487 as initial cars.\n\nRegarding the additional 34 cars, the court rejected Irene's claim that David refused to provide further funds and that there was an agreement allowing Global Carz and Crown Auto to 'put their cars' under GWL. The evidence about who attended the alleged meeting, what was agreed, and how the arrangement operated was inconsistent between Irene and Andrew, and Aloysius did not testify. The court found no credible evidence of such an agreement. It then examined each car's acquisition using Irene's journal, bank statements, and sale and purchase agreements. Where GWL paid the purchase price, even with funds transferred from related entities recorded as loans, the court held that the cars were beneficially owned by GWL, with the related entities being creditors. This applied to cars such as 8233, 2986, 6154, 2982, 3685, 5893, 3564, 3396, 4778, 3058, 4414, 4179, 2843, 1163, 1433, 8082, 3487, 6915, 7514, 9796 and 2574. For cars where Global Carz directly paid the seller and David conceded that the sale proceeds should belong to Global Carz, the court treated those cars as beneficially owned by Global Carz. Trade-in cars from Global Carz were similarly treated as belonging to Global Carz for disposal proceeds, though revenue generated while registered under GWL was treated as GWL's income.\n\nThe court found that Irene consistently recorded funds from Global Carz and Crown Auto as loans in Irene's journal and that she also recorded multiple repayments from GWL to those entities. It accepted that many transfers, such as the $25,000 on 4 April 2017, $26,500 on 29 May 2017, and $20,000 on 20 July 2017, were legitimate loan repayments, given the earlier documented inflows and the absence of prior repayments. However, for some transfers, such as the $25,000 on 23 August 2017 and $6,000 on 2 October 2017, the court found no clear evidence of the underlying loans being repaid and concluded that these transfers lacked proper basis.\n\nOn the sale of the nine cars to CarTimes for $107,000, the court noted that Irene, Andrew and Aloysius decided to dispose of the remaining cars without involving David. Irene then caused the entire $107,000 to be transferred from GWL to Global Carz on 6 October 2017, describing it as a return of loan. The court held that this was unjustified because several of the nine cars, including 3487, 2574, 3396, 6915 and 4417, were beneficially owned by GWL, and David had only conceded that four of the nine cars belonged to Global Carz. The court therefore concluded that at least $55,000 of the $107,000 should have remained with GWL and that Irene's diversion of this amount to Global Carz was contrary to GWL's interests.\n\nThe court also examined operating expenses. It accepted rental payments for premises at 62 Kaki Bukit Avenue 6 and later at Premier@Kaki Bukit as legitimate, given that GWL occupied separate premises and shared space with related entities, and that David knew of the move and did not object at the time. It accepted payments for maintenance, repairs, spray painting, and insurance as legitimate, supported by invoices and the necessity of such services for a car leasing business. It found that staff payments to Tesla, Yani, Benson, Adam and Adeline were justified, based on their roles in administration, sourcing hirers, and debt collection, and contemporaneous records in Irene's journal and payment vouchers.\n\nHowever, the court found that certain payments were not properly justified. It held that the $1,600 paid to Irene on 9 October 2017 for 'admin work done' and the $1,440 paid to Andrew on 5 October 2017 as 'net salary' lacked prior agreement or corporate authorisation and were made at a time when GWL's assets were being depleted. It also found that commissions paid to Andrew and Benson in some instances were not supported by a clear basis, particularly where Benson was already a salaried employee and where commission descriptions conflicted with earlier commission payments to others. The court held that Irene improperly caused GWL to pay Singtel phone and broadband bills that were billed to Global Forecast Pte Ltd and covered periods before GWL's incorporation or after GWL had moved premises, thereby shifting expenses of related entities onto GWL. It also found that allowing Aloysius to retain a $300 deposit collected on GWL's behalf was inconsistent with GWL's interests.\n\nOn access to information, the court considered David's requests for GWL's records and Irene's responses. It found that Irene controlled GWL's documents, including Irene's journal and sales agreements, and that she provided only limited information to David, such as four spreadsheets for four cars and a summary that set off all of Global Garage's losses against profits from those four cars. The court noted that Irene attributed high rental expenses per car and that she admitted following instructions from Aloysius in preparing the figures. It found that Irene did not prepare similar spreadsheets for the other 34 cars and that she did not provide full records even after David's lawyers sent a demand letter in March 2019. The court concluded that Irene sought to conceal the true state of GWL's assets and financial position and that David had to obtain some information independently, such as from the Land Transport Authority and the bank.\n\nAssessing the conduct as a whole, the court held that Irene's actions went beyond mere mismanagement. It found that she used GWL's structure and accounts to benefit related entities, particularly Global Carz and Crown Auto, by classifying inflows as loans and then diverting sale proceeds and other funds out of GWL, while leaving David uninformed about key decisions such as the disposal of all cars. The court determined that this conduct was commercially unfair to David, disregarded his interests as a shareholder, and prejudiced the value of his investment. It therefore held that David had established a claim under section 216 of the Companies Act and that Irene was liable for oppression and related relief."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 867 of 2019",
+      "Coram": "General Division of the High Court — Suit No 867 of 2019",
+      "Judge": "Audrey Lim J",
+      "Date": "2022-04-01",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Sim Irene",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2016-12-19",
+          "Text": "Around 19 December 2016, Irene became a director and 50% shareholder of Global Wheel Leasing Pte Ltd (GWL) when David transferred half of his shares to her."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-12-19",
+          "Text": "Around 19 December 2016, Irene contributed $30,000 in cash to GWL, with the funds originating from her former husband, Aloysius Tan."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2016-12-19",
+          "Text": "Irene held her 50% shareholding in GWL on behalf of her former husband, Aloysius Tan."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2016-12-19",
+          "Text": "After joining GWL, Irene took charge of the day-to-day management of GWL's business operations."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2014-01-01",
+          "Text": "Irene was employed by Evergreen Motoring Pte Ltd, later renamed Global Carz Pte Ltd, performing administrative duties and continued in that role after the name change."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2016-11-29",
+          "Text": "On 29 November 2016, Irene became the owner and director of Global Autoworks, a company providing spray painting services for cars."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2016-01-01",
+          "Text": "Irene assisted Andrew Sim with administrative matters at Crown Auto, a company owned and directed by Andrew that imports and sells cars to local dealers."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2016-01-01",
+          "Text": "Irene was involved in the management of Global Garage Pte Ltd, a vehicle repair and maintenance business in which David, Wang Pinying and Andrew Sim were shareholders and directors."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2016-01-01",
+          "Text": "Irene was the sole shareholder and director of JAI Motoring, which she stated had no active business at the material time."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-11-01",
+          "Text": "Negotiations for a joint venture involving GWL were conducted by Andrew Sim on Irene's behalf with David at locations including Westway Building, ARK@KB at Kaki Bukit, and UOB Novena, according to Irene."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-11-01",
+          "Text": "Irene understood from Andrew and Aloysius that the business plan for GWL was to acquire second-hand cars to rent out, with both sides contributing initial capital and further funds to expand the fleet."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-12-20",
+          "Text": "After joining GWL, Irene managed GWL in an informal manner, with the daily management left to her while David focused on his full-time employment."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-11-28",
+          "Text": "Irene maintained an internal accounting record for GWL referred to as 'Irene's journal', which recorded loans, payments, and classifications of transactions involving GWL and related entities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "Irene arranged for GWL to operate from the second floor of 62 Kaki Bukit Avenue 6, while Global Garage Pte Ltd operated from the first floor, and she coordinated rental payments to Global Forecast Pte Ltd and later to Global Autoworks for premises at Premier@Kaki Bukit."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "Irene used bank transfers from Global Carz Pte Ltd, Crown Auto, and JAI Motoring to fund GWL's acquisition of additional cars, recording these inflows as loans in Irene's journal."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "Irene classified multiple transfers from GWL to Global Carz Pte Ltd and Crown Auto as returns of loans in Irene's journal, including transfers of $25,000, $26,500, $20,000, $25,000, $6,000 and $107,000 during 2017."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "Irene arranged for GWL to pay staff salaries and allowances to individuals including Tesla Lim, Yani, Benson Seah, Adam Chua and Adeline Ye for administrative, sales and collection work related to GWL's operations."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "Irene arranged for GWL to pay commissions to individuals such as Vince, Andrew Sim and Benson Seah in connection with the purchase or leasing of specific cars."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-03-01",
+          "Text": "In March 2017, Irene caused GWL to pay Singtel phone, fax and broadband bills that were billed to Global Forecast Pte Ltd and covered periods before and after GWL's occupation of the relevant premises."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-10-05",
+          "Text": "Around October 2017, Irene, together with Andrew and Aloysius, decided to sell nine of GWL's remaining cars to CarTimes Automobile Pte Ltd for $107,000 and to transfer other cars from GWL to Global Carz Pte Ltd or deregister them."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-10-06",
+          "Text": "On 6 October 2017, Irene instructed that $107,000, representing the sale proceeds of nine cars sold to CarTimes Automobile Pte Ltd, be transferred from GWL's bank account to Global Carz Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-10-09",
+          "Text": "On 9 October 2017, Irene arranged for GWL to pay her $1,600 from GWL's bank account, recorded as payment for administrative work done."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-10-05",
+          "Text": "On 5 October 2017, Irene arranged for GWL to pay $1,440 to Andrew Sim, recorded as net salary for September 2017."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-04-05",
+          "Text": "On 5 April 2017, Irene allowed $300 collected from a hirer as a deposit for GWL to be retained by Aloysius instead of being deposited into GWL's account, as recorded in Irene's journal."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "Irene used GWL's bank account to pay for phone and broadband services billed to Global Forecast Pte Ltd, including charges incurred before GWL's incorporation and after GWL had moved premises."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-03-01",
+          "Text": "Irene provided Prima Management Services Pte Ltd with selected GWL documents and four spreadsheets summarising profit and loss for cars 6302, 3487, 8931 and 4417, which Prima used to prepare a summary for David."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-10-01",
+          "Text": "In October 2018, Irene sent David four spreadsheets she had prepared for cars 6302, 3487, 8931 and 4417, which she referred to as 'David 4 Cars'."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-12-31",
+          "Text": "By 2018, Irene had regained possession of GWL's documents from Prima Management Services Pte Ltd and retained documents such as sales agreements and Irene's journal."
+        }
+      ],
+      "Issue": "Whether Irene's management of GWL's acquisitions, funding arrangements with related entities, payments, and disposal of cars and funds resulted in conduct that affected the plaintiff's shareholding and led to the final outcome of the oppression claim.",
+      "Rule": "Section 216 of the Companies Act (Cap 50, 2006 Rev Ed) allows a member of a company to apply for relief where the affairs of the company are conducted in a manner oppressive to one or more members, in disregard of their interests as members, or in a manner that unfairly discriminates against or is prejudicial to them. The court evaluates whether there has been commercial unfairness by comparing the conduct of the company's affairs against the parties' agreements, understandings, and legitimate expectations, particularly in quasi-partnership settings.",
+      "Application": "Irene became a 50% shareholder and director of GWL in December 2016, contributing cash sourced from Aloysius and taking charge of daily operations. She coordinated the acquisition of cars using funds from related entities such as Global Carz Pte Ltd, Crown Auto and JAI Motoring, recording these inflows as loans in Irene's journal. GWL's fleet expanded to 38 cars, and rental income and sale proceeds were paid into GWL's bank account. Irene arranged for GWL to pay rent for premises at 62 Kaki Bukit Avenue 6 and later at Premier@Kaki Bukit, as well as staff salaries, commissions, maintenance, repairs, spray painting, insurance, and telecommunications. She also arranged multiple transfers from GWL to Global Carz Pte Ltd and Crown Auto, some of which corresponded to earlier recorded loans and some of which did not have clearly documented underlying obligations. In October 2017, Irene participated in the decision with Andrew and Aloysius to sell nine of GWL's remaining cars to CarTimes Automobile Pte Ltd for $107,000 and to transfer other cars out of GWL, and she then directed that the entire $107,000 be transferred from GWL to Global Carz Pte Ltd. Around the same period, she arranged payments from GWL to herself and to Andrew as salary. Irene maintained control over GWL's records, including Irene's journal and sales agreements, and provided David with limited financial summaries focusing on four cars, while other records remained with her. These actions formed the factual basis for the court's assessment of whether Irene's conduct in managing GWL's affairs was consistent with the expectations arising from the equal shareholding and the informal, quasi-partnership nature of the venture.",
+      "Judicial_Reasoning_Log": "The court considered Irene's role as the managing director of GWL and her connections to related entities, including Global Carz Pte Ltd, Global Garage Pte Ltd, Global Autoworks, Crown Auto, JAI Motoring and Global Forecast Pte Ltd. It noted that Irene was responsible for day-to-day decisions, including acquisitions, funding, and payments, while David was largely absent from daily management. The court examined whether Irene's conduct in using related-entity funding, classifying inflows as loans, and later transferring funds and assets out of GWL was consistent with GWL's interests and David's legitimate expectations as a 50% shareholder.\n\nOn the acquisition of cars, the court found that Irene's own records in Irene's journal consistently treated funds from Global Carz and Crown Auto as loans to GWL, and that GWL paid for many cars from its bank account. The court rejected Irene's assertion that 34 cars belonged to Global Carz or Crown Auto under an agreement to 'put their cars' under GWL, finding no credible evidence of such an agreement and noting inconsistencies between Irene and Andrew's accounts. It held that where GWL paid the purchase price, even with loan funding, the cars were beneficially owned by GWL, and the related entities were creditors. The court accepted that some cars were effectively owned by Global Carz where Global Carz directly paid the seller and David conceded that the sale proceeds should belong to Global Carz.\n\nThe court then assessed Irene's handling of GWL's revenues and sale proceeds. It found that rental income from all cars, including those later conceded to belong to Global Carz, was commingled in GWL's bank account and not segregated. It noted that Irene did not transfer rental income to Global Carz or Crown Auto during the operating period, which was inconsistent with her claim that those entities owned the cars and were entitled to the revenue. The court concluded that rental income from cars registered under GWL belonged to GWL while the cars were in GWL's name.\n\nOn the disposal of cars, the court found that Irene, together with Andrew and Aloysius, decided to sell the remaining cars and transfer others to Global Carz without involving David. It accepted that GWL was still generating revenue from its fleet and that each car could generate at least $1,000 per month, undermining Irene's explanation that GWL was not profitable and that disposal was necessary. The court held that Irene's decision to dispose of all cars and transfer the entire $107,000 sale proceeds from nine cars to Global Carz, despite several of those cars being beneficially owned by GWL, was inconsistent with GWL's interests and with David's legitimate expectation to be consulted on major asset disposals.\n\nThe court distinguished between legitimate and illegitimate transfers from GWL to related entities. It accepted that some transfers, such as the $25,000 on 4 April 2017, $26,500 on 29 May 2017, and $20,000 on 20 July 2017, were genuine loan repayments, supported by earlier documented inflows and the absence of prior repayments. However, it found that other transfers, including the $25,000 on 23 August 2017 and the $6,000 on 2 October 2017, lacked clear evidence of underlying loans and were not adequately explained by Irene. For the $107,000 transferred on 6 October 2017, the court held that Irene's justification that the nine cars belonged to Global Carz or Crown Auto was inconsistent with its findings on beneficial ownership and with David's concessions, and it concluded that at least $55,000 of that amount should have remained with GWL.\n\nThe court also evaluated Irene's use of GWL's funds to pay expenses. It accepted rental payments for premises at 62 Kaki Bukit Avenue 6 and Premier@Kaki Bukit as legitimate, given GWL's occupation and the informal arrangements among related entities. It accepted payments for maintenance, repairs, spray painting, and insurance as necessary for GWL's operations and supported by invoices. It found that staff salaries to Tesla, Yani, Benson, Adam and Adeline were justified, based on their roles and contemporaneous records. However, it held that certain payments were not properly justified, including the $1,600 paid to Irene on 9 October 2017 and the $1,440 paid to Andrew on 5 October 2017, which lacked prior agreement or corporate authorisation and were made when GWL's assets were being reduced. It also found that some commission payments to Andrew and Benson were not supported by a clear basis, particularly where Benson was already a salaried employee and where commission descriptions overlapped with earlier payments to others.\n\nThe court was critical of Irene's decision to charge Singtel phone and broadband bills to GWL when those bills were addressed to Global Forecast Pte Ltd and covered periods before GWL's incorporation or after GWL had moved premises. It noted that Irene admitted that GWL paid for broadband used by Global Garage because Global Garage lacked funds, and it concluded that Irene had shifted expenses of related entities onto GWL. The court also found that allowing Aloysius to retain a $300 deposit collected on GWL's behalf was inconsistent with GWL's interests.\n\nOn access to information, the court found that Irene controlled GWL's records and that she provided David with only partial information, such as four spreadsheets for four cars and a summary that set off all of Global Garage's losses against profits from those cars. It noted that Irene admitted following Aloysius's instructions in preparing the figures and that she did not prepare similar spreadsheets for the other 34 cars. The court found that Irene did not provide full records even after David's lawyers sent a demand letter in March 2019 and that she produced some documents only during trial. It concluded that Irene sought to conceal material information about GWL's assets and financial position from David.\n\nConsidering the totality of Irene's conduct, the court held that she used her control over GWL's operations and records to benefit related entities, particularly Global Carz and Crown Auto, at the expense of GWL and David's shareholding. It found that her actions in disposing of GWL's cars, diverting sale proceeds, making unexplained transfers, and charging unrelated expenses to GWL amounted to conduct that was oppressive, in disregard of David's interests, and prejudicial to him as a shareholder. The court therefore concluded that Irene was liable under section 216 of the Companies Act and granted relief accordingly."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 867 of 2019",
+      "Coram": "General Division of the High Court — Suit No 867 of 2019",
+      "Judge": "Audrey Lim J",
+      "Date": "2022-04-01",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Global Wheel Leasing Pte Ltd",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2016-11-17",
+          "Text": "Global Wheel Leasing Pte Ltd (GWL) was incorporated on 17 November 2016 in Singapore."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2016-11-17",
+          "Text": "At incorporation, GWL's sole shareholder and director was David Cheong Hong Meng."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2016-12-19",
+          "Text": "Around 19 December 2016, GWL's shareholding became equally held by David Cheong Hong Meng and Irene Sim, each with 50%, and both were directors."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2016-11-17",
+          "Text": "GWL's business was the leasing of private cars for hire to drivers."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-11-23",
+          "Text": "On 23 November 2016, GWL received $16,000 from David and $14,000 from JAI Motoring, which were used to settle the outstanding loan on car 4417."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-11-24",
+          "Text": "On 24 November 2016, GWL used $17,439.83 from its bank account to pay off the loan on car 4417."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-11-28",
+          "Text": "On 28 November 2016, car 4417 was transferred to and registered in the name of GWL."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-11-25",
+          "Text": "On 25 November 2016, GWL received funds from JAI Motoring as part of the capital contribution associated with Aloysius Tan."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-12-19",
+          "Text": "On 19 December 2016, GWL received further funds from JAI Motoring, which were used to pay for cars 714 and 2951."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-11-28",
+          "Text": "By 20 December 2016, GWL had registered four cars under its name: 4417 on 28 November 2016, 8931 on 8 December 2016, 714 on 19 December 2016, and 2951 on 20 December 2016."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-12-20",
+          "Text": "GWL's initial fleet of four cars was acquired using capital contributions from David and funds associated with Aloysius via Irene."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-12-20",
+          "Text": "GWL's business model involved leasing its cars to private-hire drivers, collecting at least one week of rental fees in advance, and using profits to acquire additional cars at or near scrap value."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "GWL acquired additional cars beyond the initial four, eventually reaching a total of 38 cars registered under its name."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-01-17",
+          "Text": "On 17 January 2017, GWL received $15,811 from Global Carz Pte Ltd, recorded as a loan in Irene's journal, which was used to purchase car 6154."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-01-23",
+          "Text": "On 23 January 2017, GWL received $12,600 from Global Carz Pte Ltd, recorded as a loan in Irene's journal, which was used to purchase car 2982."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-02-01",
+          "Text": "On 1 February 2017, GWL received $43,976 from Global Carz Pte Ltd, recorded as a loan in Irene's journal, which was used to purchase cars 3685, 5893 and 3564."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-02-17",
+          "Text": "On 17 February 2017, GWL received $20,700 from Global Carz Pte Ltd, recorded as a loan in Irene's journal, which was used to purchase car 3396."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-01-25",
+          "Text": "On 25 January 2017, GWL received $12,500 from the sale of car 714, which was used as part of the funding for subsequent car purchases."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-02-17",
+          "Text": "On 17 February 2017, GWL paid $8,511.96 and $4,008.04 from its bank account for the purchase of car 3487, as recorded in Irene's journal."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-02-01",
+          "Text": "By February 2017, GWL had acquired cars 6302 and 3487, which were registered under its name."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-02-28",
+          "Text": "By the end of February 2017, GWL had a fleet of about 15 cars registered under its name."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "GWL operated from the second floor of 62 Kaki Bukit Avenue 6, sharing premises with Global Carz Pte Ltd, while Global Garage Pte Ltd occupied the first floor."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-02-28",
+          "Text": "On 28 February 2017, GWL paid $2,000 to Global Carz Pte Ltd as rent for January and February 2017 for premises at 62 Kaki Bukit Avenue 6."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-03-01",
+          "Text": "From March 2017, GWL moved its operations to Premier@Kaki Bukit, occupying one unit leased from Global Autoworks, while Global Autoworks and Global Garage Pte Ltd occupied other units at the same location."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-07-18",
+          "Text": "On 18 July 2017, GWL paid $4,000 to Global Autoworks as rent for March and April 2017 for premises at Premier@Kaki Bukit."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-07-31",
+          "Text": "On 31 July 2017, GWL paid $4,000 to Global Autoworks as rent for May and June 2017."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-22",
+          "Text": "On 22 August 2017, GWL paid $4,000 to Global Autoworks as rent for July and August 2017."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-25",
+          "Text": "Around 24 or 25 September 2017, GWL paid $4,200 to Global Autoworks as rent for September and October 2017, including an additional $200 for shared utilities."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-02-20",
+          "Text": "Around 20 February 2017, GWL refunded a total of $1,000 in rental deposits for cars 6359 and 8233 to hirers."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-10-13",
+          "Text": "On 13 October 2017, GWL withdrew $2,500 by cheque as a refund of rental deposits for five hirers whose cars had been sold to CarTimes Automobile Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-03-15",
+          "Text": "Around 15 March 2017, GWL paid $942.83 to Cowell Insurance Agency Pte Ltd for insurance coverage relating to its cars."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-05-19",
+          "Text": "Around 19 May 2017, GWL paid $5,170.68 to Cowell Insurance Agency Pte Ltd for insurance coverage relating to its cars."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-03-01",
+          "Text": "In March 2017, GWL paid $4,009.61 and $2,915.49 on other occasions to Cowell Insurance Agency Pte Ltd for insurance relating to its cars."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-03-01",
+          "Text": "In March 2017, GWL paid $610.95 to Singtel for telephone and fax services associated with numbers 63845766 and 63845760, on an account billed to Global Forecast Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-03-01",
+          "Text": "In March 2017, GWL paid $529.52 to Singtel for broadband services on an account billed to Global Forecast Pte Ltd, covering usage from mid-October 2016 to February 2017 at 62 Kaki Bukit Avenue 6."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-04-04",
+          "Text": "On 4 April 2017, GWL transferred $25,000 from its bank account to Global Carz Pte Ltd, recorded in Irene's journal as related to loans between GWL and Global Carz."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-05-29",
+          "Text": "On 29 May 2017, GWL transferred $26,500 from its bank account to Global Carz Pte Ltd, recorded in Irene's journal in connection with earlier funds received from Global Carz."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-07-20",
+          "Text": "On 20 July 2017, GWL transferred $20,000 from its bank account to Crown Auto, recorded in Irene's journal as a return of part of a $44,000 loan previously received from Crown Auto."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-23",
+          "Text": "On 23 August 2017, $25,000 was transferred out of GWL's bank account, recorded in Irene's journal as a return of loan to Global Carz Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-10-02",
+          "Text": "On 2 October 2017, GWL transferred $6,000 from its bank account to Global Carz Pte Ltd, recorded in Irene's journal as a return of loan."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-10-05",
+          "Text": "Around 5 October 2017, nine cars registered under GWL, namely 3487, 6396, 3625, 2574, 3396, 6915, 3382, 4417 and 3572, were sold to CarTimes Automobile Pte Ltd for a total of $107,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-10-06",
+          "Text": "On 6 October 2017, GWL transferred $107,000 from its bank account to Global Carz Pte Ltd, corresponding to the sale proceeds received from CarTimes Automobile Pte Ltd for nine cars."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-05-22",
+          "Text": "Around 22 May 2017, GWL withdrew $1,000 from its bank account as petty cash for minor operating expenses, recorded in Irene's journal."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-19",
+          "Text": "Around 19 September 2017, GWL paid $610.76 to Lyreco, recorded in a GWL payment voucher as a fee to an employment agency engaged to source for a new staff member."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "GWL's cheques were jointly signed by David and Irene during the period of operations."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-11-28",
+          "Text": "GWL's internal accounting records were maintained in a document referred to as 'Irene's journal', which recorded loans, payments, and classifications of transactions involving GWL and related entities."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-03-01",
+          "Text": "Around March 2018, Prima Management Services Pte Ltd prepared profit and loss statements for GWL for 2017 based on documents provided by Irene."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-03-01",
+          "Text": "Around March 2018, Prima Management Services Pte Ltd provided David with a summary of profit and expenses for four cars, 6302, 3487, 8931 and 4417, together with a brief statement that Global Garage Pte Ltd had losses to be set off against profits from GWL."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-10-01",
+          "Text": "In October 2018, Irene sent David four spreadsheets summarising profit and loss for cars 6302, 3487, 8931 and 4417, which she had prepared and referred to as 'David 4 Cars'."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-10-01",
+          "Text": "In October 2018, David wrote to the Land Transport Authority requesting a list of cars registered under GWL, and the Land Transport Authority responded in November 2018 with the requested information."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2019-03-20",
+          "Text": "On 20 March 2019, David's lawyers sent a demand letter to Irene requesting GWL's records, including revenue generated and supporting documents relating to the sale of GWL's cars, and stating that previous requests to inspect GWL's records had not been met."
+        }
+      ],
+      "Issue": "Whether GWL's pre-dispute acquisitions, funding arrangements, payments, and disposal of cars and funds, as managed by its directors, formed the factual basis for the final determination of the oppression claim and the treatment of GWL as a nominal defendant.",
+      "Rule": "In shareholder disputes under section 216 of the Companies Act (Cap 50, 2006 Rev Ed), the company may be joined as a nominal defendant where the real controversy is between shareholders or directors, and the court examines the company's transactions, records, and asset movements to determine whether the affairs have been conducted in a manner that is oppressive or prejudicial to a member.",
+      "Application": "GWL was incorporated in November 2016 as a car leasing company, with David initially as sole shareholder and director and Irene later joining as an equal shareholder and director. GWL acquired an initial fleet of four cars using capital contributions from David and funds associated with Aloysius via Irene, and later expanded to 38 cars, many funded by transfers from related entities such as Global Carz Pte Ltd, Crown Auto and JAI Motoring, which were recorded as loans in Irene's journal. GWL's rental income and sale proceeds from cars were paid into its bank account, and GWL made payments for rent, staff salaries, commissions, maintenance, repairs, spray painting, insurance, and telecommunications. GWL also made multiple transfers to Global Carz Pte Ltd and Crown Auto, some corresponding to earlier recorded loans and some without clearly documented underlying obligations. In October 2017, GWL sold nine cars to CarTimes Automobile Pte Ltd for $107,000 and transferred the entire amount to Global Carz Pte Ltd, and by October 2017 all 38 cars had been transferred out of GWL. GWL's internal records, including Irene's journal and spreadsheets for four cars, were controlled by Irene and later provided in part to Prima Management Services Pte Ltd and to David. These pre-dispute transactions and records were examined by the court to determine whether the affairs of GWL had been conducted in a manner that was oppressive or prejudicial to David, while GWL itself remained a nominal defendant in the proceedings.",
+      "Judicial_Reasoning_Log": "The court treated GWL as a nominal defendant, focusing on the conduct of its directors and the impact on David's shareholding. It examined GWL's incorporation, capitalisation, acquisition of cars, funding from related entities, and subsequent transfers of assets and funds. The court found that GWL's affairs were effectively controlled by Irene in day-to-day matters and that David relied on her management while contributing capital and his car.\n\nThe court analysed GWL's acquisitions and determined that many cars were beneficially owned by GWL because GWL paid the purchase price, even where funds were sourced from related entities and recorded as loans. It accepted that some cars were effectively owned by Global Carz Pte Ltd where Global Carz directly paid the seller and David conceded that the sale proceeds should belong to Global Carz. The court held that rental income from cars registered under GWL belonged to GWL while the cars were in its name, regardless of later concessions about beneficial ownership.\n\nThe court scrutinised GWL's payments for rent, staff, maintenance, repairs, spray painting, insurance, and telecommunications. It accepted many of these as legitimate operating expenses supported by invoices and consistent with GWL's business. However, it found that some payments, such as Singtel phone and broadband bills billed to Global Forecast Pte Ltd and covering periods before GWL's incorporation or after GWL had moved premises, were improperly charged to GWL. It also found that certain payments to Irene and Andrew as salary and some commission payments lacked proper corporate authorisation or clear justification.\n\nOn asset disposals, the court noted that GWL sold nine cars to CarTimes Automobile Pte Ltd for $107,000 and that all 38 cars were transferred out of GWL by October 2017. It found that the decision to dispose of the cars and transfer the entire $107,000 to Global Carz Pte Ltd was made without David's involvement and that several of the nine cars were beneficially owned by GWL. The court concluded that at least $55,000 of the $107,000 should have remained with GWL and that the diversion of these funds to Global Carz Pte Ltd was inconsistent with GWL's interests.\n\nThe court also considered GWL's record-keeping and information flow. It found that Irene maintained Irene's journal and other records, provided selected information to Prima Management Services Pte Ltd and to David, and did not disclose full records even after formal requests. The court concluded that GWL's affairs, as conducted through its directors, had been managed in a way that allowed related entities to benefit at the expense of GWL and David's shareholding. This formed part of the basis for the court's finding of oppression under section 216 of the Companies Act, with GWL remaining a nominal defendant while relief was directed primarily against Irene."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  }
+]

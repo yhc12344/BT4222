@@ -1,176 +1,160 @@
 import os
 import json
+import re
 from pathlib import Path
 import pdfplumber
 from openai import OpenAI
 
 # =========================
-# CONFIG
+# 1. CONFIG & SYSTEM SETUP
 # =========================
-
-# Ensure your key is set in environment variables
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+MODEL_NAME = "gpt-5.1"  # Optimized for your specific model choice
 
 INPUT_FOLDER = Path("Data/Test")
 OUTPUT_FOLDER = Path("Data/Processed")
-
 INPUT_FOLDER.mkdir(parents=True, exist_ok=True)
 OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
 
-LEAK_WORDS = [
-    "liable",
-    "dismissed",
-    "convicted",
-    "held that",
-    "judgment entered",
-    "court held",
-    "ordered that"
+# =========================
+# 2. THE SANITIZATION ENGINE (The "Anti-Cheat" Layer)
+# =========================
+# Regex patterns to catch judicial conclusions that leak the outcome (y) into features (X)
+STOP_PATTERNS = [
+    r"\bfiduciary\b", r"\bbreach\b", r"\bliable\b", r"\bwrongful\b", 
+    r"\bdishonest\b", r"\bbad faith\b", r"\bentitled\b", r"\bowed\b",
+    r"\bthe court held\b", r"\bjudge found\b", r"\balleged\b", r"\basserted\b"
 ]
 
-# =========================
-# PROMPT (Now with Few-Shot Anchoring)
-# =========================
+# Neutralizes outcome-indicative language into raw behavioral data
+REWRITE_MAP = {
+    "fiduciary position": "senior management role",
+    "fiduciary duties": "management-level obligations",
+    "breached his duties": "performed disputed conduct",
+    "wrongfully transferred": "initiated transfer of",
+    "failed to disclose": "did not provide record of",
+    "liable for": "subject of dispute regarding",
+    "asserted that": "stated that",
+    "occupied a fiduciary position": "held a corporate management role"
+}
 
+def sanitize_legal_text(text):
+    """Hard-scrubs the text to ensure zero target leakage."""
+    if not text: return ""
+    # 1. Apply Neutralization Map
+    for bad, good in REWRITE_MAP.items():
+        text = re.sub(re.escape(bad), good, text, flags=re.IGNORECASE)
+    # 2. Hard Scrub remaining conclusion-words
+    for pattern in STOP_PATTERNS:
+        text = re.sub(pattern, "[SCRUBBED]", text, flags=re.IGNORECASE)
+    return text.strip()
+
+# =========================
+# 3. HIGH-DENSITY PROMPT TEMPLATE
+# =========================
 PROMPT_TEMPLATE = """
-You are a Senior Legal Data Engineer. Return strict JSON only. Facts must always be an array of objects. Never return markdown. Never omit keys.
-Extract structured data into the EXACT JSON format below.
+You are a Senior Legal Data Engineer. Extract high-density, predictive data into strict JSON.
 
-### CRITICAL RULE: FACT ARRAY
-The "Facts" field is NOT a string. It is an ARRAY of OBJECTS. 
-You must split the factual narrative into individual sentences. 
-Each sentence must be its own object with a "Fact_Type" and "Text".
+### EXTRACTION RULES:
+1. MULTI-PARTY: Return one JSON object PER unique party (e.g. Plaintiff 1, Plaintiff 2, Defendant).
+2. HIGH-DENSITY FACTS: DO NOT SUMMARIZE. Extract raw behavioral data including:
+   - Specific dates (e.g., '15 January 2001')
+   - Specific entity names (e.g., 'XIHARI', 'Huadian')
+   - Communication counts (e.g., 'nine e-mails exchanged')
+   - Specific job grades and titles (e.g., 'Grade M1', 'General Manager')
+   - NO OUTCOMES: If the text says "P1 was liable for breach," extract ONLY the behavior "P1 sent emails to rival." 
+   - No information gained during the trial in court (e.g. cross-examination, defendant denied that)
+3. NEUTRALITY: Use observable conduct only. Move judicial inferences to 'Judicial_Reasoning_Log'.
 
-### MULTI-PARTY RULE (CRITICAL)
-- If a case has 3 Plaintiffs and 1 Defendant, you MUST return an array of 4 objects.
-- Do NOT group multiple parties into one object.
-- Every object must be a "Flat Row" containing both the shared Metadata and that specific party's Details.
+VALID Fact_Type values: [PARTY_INFO, CHRONOLOGY, CORPORATE_ROLE, CONDUCT, COMMUNICATION, DOCUMENT, CONTRACT_EVENT, FINANCIAL_EVENT, RELATED_PARTY_EVENT, AUTHORITY_EVENT, DISCLOSURE_EVENT, BOARD_ACTION, RELATIONSHIP]
 
-### FACT CLASSIFICATION
-- The "Facts" field is an ARRAY of objects.
-- Split the factual narrative into individual sentences.
-- Assign ONE Fact_Type per sentence: [PARTY_INFO, CHRONOLOGY, CONDUCT, DOCUMENT, CONTRACTUAL_BASE, FINANCIAL_FACT, CORPORATE_STRUCTURE, COMMUNICATION, REGULATORY_FACT, PROCEDURAL_FACT, EVIDENCE, DAMAGES_FACT, RELATIONSHIP, STATE_OF_MIND, BOARD_ACTION, SHAREHOLDER_ACTION, FIDUCIARY_CONDUCT, AUTHORITY_FACT, DISCLOSURE_FACT, CONFLICT_OF_INTEREST].
-
-### EXAMPLE OF CORRECT FACT CLASSIFICATION:
-Input: "The Plaintiff is a Singapore company. It signed a contract on 5 May 2023."
-Output: 
-"Facts": [
-  {"Fact_Type": "PARTY_INFO", "Text": "The Plaintiff is a Singapore company."},
-  {"Fact_Type": "CHRONOLOGY", "Text": "It signed a contract on 5 May 2023."}
-]
-
-### ANTI-LEAKAGE:
-Do NOT include "The court held", "liable", or any outcomes in the Facts array. Move those to Application/Conclusion.
-
-### SCHEMA:
+### JSON SCHEMA:
 {
   "results": [
     {
-      "Metadata": {
-        "Judge": "string or null",
-        "Date": "YYYY-MM-DD or null",
-        "Hearing_Duration": "string or null",
-        "Tribunal_Court": "string or null",
-        "Sector": "string or null",
-        "Lawyers": []
-      },
+      "Metadata": { "Judge": "string", "Date": "YYYY-MM-DD", "Tribunal_Court": "string" },
       "Party_Details": {
         "Role": "Plaintiff | Defendant",
         "Name": "string",
-        "Facts": [
-          {
-            "Fact_Type": "string",
-            "Text": "string"
-          }
-        ],
-        "Issue": "string or null",
-        "Rule": "string or null",
-        "Application": "string or null",
-        "Conclusion": "string or null"
+        "Facts": [ { "Fact_Type": "string", "Text": "string" } ],
+        "Issue": "string",
+        "Rule": "string",
+        "Application": "string",
+        "Conclusion": "string",
+        "Judicial_Reasoning_Log": "string"
       }
     }
   ]
 }
 
-JUDGMENT TEXT:
+### FEW-SHOT ANCHOR:
+Input: "The 1st Plaintiff (Holding Co) had its claim dismissed because he owed it no duty."
+Output Row 1: {
+  "Party_Details": {
+    "Name": "Holding Co",
+    "Facts": [{"Fact_Type": "PARTY_INFO", "Text": "The 1st Plaintiff is a non-operating holding company."}],
+    "Issue": "Whether management duties extend to a non-operating parent entity.",
+    "Conclusion": "Dismissed",
+    "Judicial_Reasoning_Log": "The court held that the first plaintiff, as a non-operating holding company with no direct employment relationship with the defendant, was not owed fiduciary duties by him and that the first plaintiff’s claim against the defendant should be dismissed, with costs to be fixed after submissions on quantum."
+  }
+}
+
+### JUDGMENT TEXT TO PROCESS:
 """
 
 # =========================
-# FUNCTIONS
+# 4. EXECUTION PIPELINE
 # =========================
-
-def extract_pdf_text(pdf_path):
-    text = ""
-    with pdfplumber.open(pdf_path) as pdf:
-        for page in pdf.pages:
-            text += page.extract_text() or ""
-    return " ".join(text.split())
-
-def contains_leakage(facts_list):
-    """Fixed: Now correctly iterates through the list of fact objects."""
-    if not isinstance(facts_list, list):
-        return False
-    
-    # Merge all sentence texts into one searchable string
-    full_factual_text = " ".join([item.get("Text", "") for item in facts_list]).lower()
-    
-    for word in LEAK_WORDS:
-        if word in full_factual_text:
-            return True
-    return False
-
 def process_pdf(pdf_path):
-    text = extract_pdf_text(pdf_path)
+    with pdfplumber.open(pdf_path) as pdf:
+        full_text = " ".join([p.extract_text() or "" for p in pdf.pages])
+    
+    try:
+        response = client.chat.completions.create(
+            model=MODEL_NAME, 
+            temperature=0,
+            response_format={"type": "json_object"},
+            messages=[
+                {"role": "system", "content": "Return high-density multi-party JSON. Facts must be arrays of objects."},
+                {"role": "user", "content": PROMPT_TEMPLATE + full_text[:100000]}
+            ]
+        )
+        data = json.loads(response.choices[0].message.content)
+        results = data.get("results", [])
 
-    response = client.chat.completions.create(
-        model="gpt-5.1", # Ensure this model string is supported by your provider
-        temperature=0,
-        response_format={"type": "json_object"},
-        messages=[
-            {"role": "system", "content": "You are a legal analyst. You ALWAYS return an array of objects for the Facts field. You never return a string for Facts."},
-            {"role": "user", "content": PROMPT_TEMPLATE + text}
-        ]
-    )
-    return response.choices[0].message.content
-
-# =========================
-# MAIN LOOP
-# =========================
+        processed_rows = []
+        for row in results:
+            party = row.get("Party_Details", {})
+            
+            # Neutralize and Scrub all feature fields (Issue, Rule, Application, Facts)
+            party["Issue"] = sanitize_legal_text(party.get("Issue"))
+            party["Rule"] = sanitize_legal_text(party.get("Rule"))
+            party["Application"] = sanitize_legal_text(party.get("Application"))
+            
+            for f in party.get("Facts", []):
+                f["Text"] = sanitize_legal_text(f.get("Text"))
+            
+            # Separate Label (y) from Features (X)
+            row["Party_Details"] = party
+            row["Label"] = party.pop("Conclusion", "Unknown")
+            processed_rows.append(row)
+            
+        return processed_rows
+    except Exception as e:
+        print(f"Error processing {pdf_path.name}: {e}")
+        return []
 
 def main():
     pdf_files = list(INPUT_FOLDER.glob("*.pdf"))
-    if not pdf_files:
-        print(f"No PDFs found in {INPUT_FOLDER}")
-        return
-
     for pdf_file in pdf_files:
-        print(f"--- Processing: {pdf_file.name} ---")
-        try:
-            raw_json = process_pdf(pdf_file)
-            data = json.loads(raw_json)
-            
-            # OpenAI sometimes wraps the array in a "results" key or similar
-            parsed_rows = data.get("results", [])
-
-            clean_rows = []
-            for row in parsed_rows:
-                facts = row.get("Party_Details", {}).get("Facts", [])
-                
-                if contains_leakage(facts):
-                    print(f"  [!] Leakage detected in party {row['Party_Details']['Name']}. Skipping row.")
-                    continue
-                
-                clean_rows.append(row)
-
-            if clean_rows:
-                output_path = OUTPUT_FOLDER / f"{pdf_file.stem}.json"
-                with open(output_path, "w", encoding="utf-8") as f:
-                    json.dump(clean_rows, f, indent=2, ensure_ascii=False)
-                print(f"  [+] Saved {len(clean_rows)} party rows.")
-            else:
-                print("  [?] No clean data extracted for this file.")
-
-        except Exception as e:
-            print(f"  [X] Error: {e}")
+        print(f"--- Sanitizing: {pdf_file.name} ---")
+        clean_data = process_pdf(pdf_file)
+        
+        if clean_data:
+            output_path = OUTPUT_FOLDER / f"{pdf_file.stem}.json"
+            with open(output_path, "w", encoding="utf-8") as f:
+                json.dump(clean_data, f, indent=2, ensure_ascii=False)
+            print(f"Success: Generated {len(clean_data)} high-density rows.")
 
 if __name__ == "__main__":
     main()

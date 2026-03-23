@@ -1,0 +1,467 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 376 of 2019",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck",
+      "Date": "2022-07-05",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "True Yoga Pte Ltd",
+      "Law_Firm": "Audent Chambers LLC",
+      "Counsel": [
+        "Jordan Tan",
+        "Victor Leong"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2022-01-01",
+          "Text": "True Yoga Pte Ltd is a private company incorporated in Singapore and is part of the True Group."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2008-03-31",
+          "Text": "An Employment Contract dated 31 March 2008 was signed between True Yoga Pte Ltd and Patrick John Wee Ewe Seng, appointing him as Group Chief Executive Officer of the True Group."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2008-03-31",
+          "Text": "Clause 1.3 of the Employment Contract required Patrick John Wee Ewe Seng during his employment to faithfully and diligently perform duties assigned by True Yoga Pte Ltd or related or associated corporations and to accept offices in any Group company as required."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-05-19",
+          "Text": "On 19 May 2017, CJ Group Pte Ltd transferred its shares in True Yoga Pte Ltd and the other plaintiffs to True Fitness Holdings (Singapore) Pte Ltd as part of a restructuring exercise."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-05-29",
+          "Text": "On 29 May 2017, under a Sales and Purchase Agreement, Tongfang Kontafarma Holdings Limited, through its wholly-owned subsidiary Fester Global Limited, acquired majority shareholding in True Group (Singapore), which included True Yoga Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2017-05-29",
+          "Text": "Following the Sales and Purchase Agreement on 29 May 2017, Tongfang Kontafarma Holdings Limited, via Fester Global Limited, became the majority shareholder of True Group (Singapore), which included True Yoga Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-06-01",
+          "Text": "From around June 2017 onwards, employees within the True Group continued to seek advice and approvals from Patrick John Wee Ewe Seng in his capacity as Group CEO."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-06-01",
+          "Text": "From June 2017, the monthly salary of Patrick John Wee Ewe Seng was treated within the group as S$22,500 for accounting purposes for the remainder of 2017."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-01-01",
+          "Text": "For the year 2017, the recorded salary of Patrick John Wee Ewe Seng within the group totalled S$757,500, corresponding to S$120,000 per month from January to May 2017 and S$22,500 per month from June to December 2017."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-01-01",
+          "Text": "In early 2018, employees of the True Group continued to address and treat Patrick John Wee Ewe Seng as Group CEO in their communications and requests for decisions."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-04-12",
+          "Text": "On 12 April 2018, Tongfang sent a letter to Patrick John Wee Ewe Seng requesting him to resign from his position as CEO of the True Group."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-05-08",
+          "Text": "On 8 May 2018, Tongfang sent a further letter to Patrick John Wee Ewe Seng requesting him to resign from his position as CEO of the True Group."
+        }
+      ],
+      "Issue": "Whether conduct by the Group CEO in managing the cessation of operations of True Group (Malaysia) and True Group (Thailand), and related membership and communication practices, affected the contractual relationship and financial entitlements between True Yoga Pte Ltd and the Group CEO.",
+      "Rule": "Under general company and contract law principles, a company may hold its senior executive to the terms of an employment contract, including performance of assigned functions for related or associated corporations and compliance with agreed remuneration terms, and may seek remedies for losses caused by the executive's conduct in the course of managing group businesses.",
+      "Application": "True Yoga Pte Ltd engaged Patrick John Wee Ewe Seng as Group CEO under a written Employment Contract that contemplated work for related or associated corporations. During 2016 and 2017, he was involved in managing operations and planned exits in Malaysia and Thailand while the group underwent a restructuring and a sale of majority shareholding to Tongfang. Salary arrangements were adjusted in mid-2017 and recorded in group accounts, and group staff continued to interact with him as Group CEO into 2018. These pre-dispute events frame the later disagreement over whether his management of regional closures and his remuneration and tenure complied with the contractual framework.",
+      "Judicial_Reasoning_Log": "The court held that the defendant owed contractual and fiduciary duties to the plaintiffs to properly manage the closures of True Group (Malaysia) and True Group (Thailand), that he breached those duties by, among other things, allowing long-term memberships to be sold despite impending closures, failing to provide adequate notice and alternatives to members, and prioritising avoidance of personal responsibility. The court rejected the defendant's arguments on the related or associated corporation status and on the scope of his assignment. On wrongful termination, the court found that the Employment Contract was impliedly extended beyond 12 March 2018, that the defendant's salary had been validly reduced to S$22,500 per month from June 2017, and that the plaintiffs had sufficient grounds under clause 11.2 to terminate his employment on 9 May 2018, so he was not entitled to 12 months' salary in lieu of notice. The court concluded that the defendant was entitled only to S$62,660.70 in unpaid salary at the reduced rate and that he was liable for mismanagement of the Malaysian and Thai closures, with quantification of the plaintiffs' losses and costs reserved."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 376 of 2019",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck",
+      "Date": "2022-07-05",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "True Fitness (STC) Pte Ltd",
+      "Law_Firm": "Audent Chambers LLC",
+      "Counsel": [
+        "Jordan Tan",
+        "Victor Leong"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2022-01-01",
+          "Text": "True Fitness (STC) Pte Ltd is a private company incorporated in Singapore and is part of the True Group."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2017-05-19",
+          "Text": "On 19 May 2017, CJ Group Pte Ltd transferred its shares in True Fitness (STC) Pte Ltd and the other plaintiffs to True Fitness Holdings (Singapore) Pte Ltd as part of a restructuring exercise."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2017-05-29",
+          "Text": "On 29 May 2017, Tongfang Kontafarma Holdings Limited, through its wholly-owned subsidiary Fester Global Limited, acquired majority shareholding in True Group (Singapore), which included True Fitness (STC) Pte Ltd."
+        }
+      ],
+      "Issue": "Whether the management of the cessation of operations of True Group (Malaysia) and True Group (Thailand) by the Group CEO, and the resulting impact on the True brand, affected the interests of True Fitness (STC) Pte Ltd as part of True Group (Singapore).",
+      "Rule": "Under general principles of company and director governance, conduct of a group chief executive in managing regional operations may give rise to liability to group companies if that conduct causes loss to those companies' business or reputation.",
+      "Application": "True Fitness (STC) Pte Ltd formed part of True Group (Singapore) during a period when the Group CEO was overseeing operations and planned exits in Malaysia and Thailand. The way memberships were sold and closures were handled in those markets, and the subsequent public reaction, formed the factual background to the claimed impact on the Singapore entities, including True Fitness (STC) Pte Ltd.",
+      "Judicial_Reasoning_Log": "The court treated the three plaintiffs collectively as part of True Group (Singapore) and concluded that the defendant's mismanagement of the Malaysian and Thai closures damaged the reputation and business of the Singapore entities, including True Fitness (STC) Pte Ltd. The defendant was held to have breached his contractual and director's duties owed to these companies, with loss quantification and costs reserved."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 376 of 2019",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck",
+      "Date": "2022-07-05",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "True Fitness Pte Ltd",
+      "Law_Firm": "Audent Chambers LLC",
+      "Counsel": [
+        "Jordan Tan",
+        "Victor Leong"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2022-01-01",
+          "Text": "True Fitness Pte Ltd is a private company incorporated in Singapore and is part of the True Group."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2017-05-19",
+          "Text": "On 19 May 2017, CJ Group Pte Ltd transferred its shares in True Fitness Pte Ltd and the other plaintiffs to True Fitness Holdings (Singapore) Pte Ltd as part of a restructuring exercise."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2017-05-29",
+          "Text": "On 29 May 2017, Tongfang Kontafarma Holdings Limited, through its wholly-owned subsidiary Fester Global Limited, acquired majority shareholding in True Group (Singapore), which included True Fitness Pte Ltd."
+        }
+      ],
+      "Issue": "Whether the Group CEO's management of the cessation of operations of True Group (Malaysia) and True Group (Thailand), and related membership and communication practices, caused loss or reputational impact to True Fitness Pte Ltd as part of True Group (Singapore).",
+      "Rule": "Under general corporate law, a director or group chief executive may be responsible to group companies for losses arising from the way regional operations are managed, including the handling of closures and customer relationships.",
+      "Application": "True Fitness Pte Ltd, as part of True Group (Singapore), operated under the same group branding that was used in Malaysia and Thailand. The Group CEO's decisions regarding continued membership sales, timing and communication of closures, and arrangements for alternative facilities in those markets formed the factual basis for assessing any resulting impact on True Fitness Pte Ltd's business and reputation.",
+      "Judicial_Reasoning_Log": "The court concluded that the defendant's mismanagement of the Malaysian and Thai closures tarnished the True brand and damaged True Group (Singapore)'s business, which included True Fitness Pte Ltd. The defendant was held to have breached duties owed to the plaintiffs, with damages and costs to be determined later."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 376 of 2019",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck",
+      "Date": "2022-07-05",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Wee Ewe Seng Patrick John",
+      "Law_Firm": "Arbiters Inc Law Corporation",
+      "Counsel": [
+        "Rai Vijay Kumar",
+        "Joavan Christopher Pereira",
+        "Jasleen Kaur"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2008-03-19",
+          "Text": "On 19 March 2008, Patrick John Wee Ewe Seng became Group Chief Executive Officer of the True Group."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2008-03-31",
+          "Text": "On 31 March 2008, Patrick John Wee Ewe Seng signed an Employment Contract with True Yoga Pte Ltd in relation to his role as Group Chief Executive Officer of the True Group."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2008-03-31",
+          "Text": "From 31 March 2008, Patrick John Wee Ewe Seng held the position of Group Chief Executive Officer of the True Group under the Employment Contract with True Yoga Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2017-01-01",
+          "Text": "By early 2017, Patrick John Wee Ewe Seng was managing the operations of True Group (Malaysia) and True Group (Thailand)."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-11-30",
+          "Text": "On 30 November 2016, a payment of S$3.25 million was made by True Group (Thailand) to CJ Holdings, a company beneficially owned by Patrick John Wee Ewe Seng."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-11-08",
+          "Text": "From 8 November 2016 to May 2017, pre-sales were conducted for a new club in Plaza Damas in Malaysia, and 50 memberships were sold for that planned club."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-11-08",
+          "Text": "Between 8 November 2016 and May 2017, 50 memberships were sold in connection with a planned new club in Plaza Damas in Malaysia."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-11-01",
+          "Text": "From around November 2016, funds were remitted from True Group (Singapore) to True Group (Thailand) to finance operations in Thailand."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "In January 2017, Patrick John Wee Ewe Seng arranged for Ms Moonjaisai, the wife of his friend's tailor, to be appointed as a director of True Group (Thailand)."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2017-01-01",
+          "Text": "From January 2017, Ms Moonjaisai served as a director of True Group (Thailand) alongside Patrick John Wee Ewe Seng."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-02-01",
+          "Text": "By February 2017, Patrick John Wee Ewe Seng was aware that True Group (Malaysia) was experiencing serious financial difficulties and facing possible closure within months."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-02-01",
+          "Text": "In February 2017, Patrick John Wee Ewe Seng discussed with Trevor Brennan, CEO of Jatomi Fitness Group, a potential arrangement for Jatomi to take over True Group's gyms in Malaysia and Thailand."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2017-02-01",
+          "Text": "In February 2017, Patrick John Wee Ewe Seng communicated with Trevor Brennan of Jatomi Fitness Group regarding Jatomi potentially taking over True Group's gyms in Malaysia and Thailand."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-02-01",
+          "Text": "As early as February 2017, True Group (Malaysia) was facing grave financial difficulties and impending closure."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-02-01",
+          "Text": "By early 2017, True Group (Thailand) was experiencing financial difficulties and was at risk of closure within months."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-03-01",
+          "Text": "In March 2017, Patrick John Wee Ewe Seng entered into negotiations with Martin Darby, CEO of Evolution Wellness, regarding a potential takeover of True Group's gyms in Malaysia and Thailand."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2017-03-01",
+          "Text": "In March 2017, during discussions with Martin Darby of Evolution Wellness, Patrick John Wee Ewe Seng stated that True Group had decided to exit the Malaysian and Thailand markets and wished to avoid a disorderly closure, targeting completion within about one month."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-04-01",
+          "Text": "In April 2017, after Jatomi and Evolution Wellness declined to take over the gyms, Patrick John Wee Ewe Seng approached insolvency lawyers in Malaysia and Thailand to seek advice on liquidating True Group (Malaysia) and True Group (Thailand) in an organised manner."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2017-04-10",
+          "Text": "On 10 April 2017, Patrick John Wee Ewe Seng asked his Thai lawyers whether liquidators could require him to refund the S$3.25 million payment made by True Group (Thailand) to CJ Holdings in November 2016 if True Group (Thailand) entered voluntary liquidation before 29 May 2017."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-05-01",
+          "Text": "In May 2017, True Group (Malaysia) sold 43 new long-term membership plans, including two 5-year memberships, 11 3-year memberships, 13 2-year memberships, 11 1.5-year memberships, and six 1-year memberships."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-05-01",
+          "Text": "Until May 2017, True Group (Malaysia) continued to publicise and sell long-term memberships ranging from 1-year to 5-year terms despite ongoing financial difficulties and impending closure."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-05-10",
+          "Text": "On 10 May 2017, a notice was put up at the Subang Club in Malaysia stating that the club would be closed for renovations, while the premises were in fact closed because a court bailiff was taking inventory and equipment under a writ of seizure for unpaid rental arrears."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-05-29",
+          "Text": "By late May 2017, Jatomi and Evolution Wellness had declined to take over True Group's gyms in Malaysia and Thailand, and Patrick John Wee Ewe Seng continued to work with insolvency lawyers on exit plans."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-05-31",
+          "Text": "In end-May 2017, Patrick John Wee Ewe Seng directed that no further money was to be paid into True Group (Thailand) except for a small amount to sustain the administrative office in Thailand."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-05-31",
+          "Text": "At the end of May 2017, funding from True Group (Singapore) to True Group (Thailand) was reduced to only a small amount to maintain the head office, following a direction by Patrick John Wee Ewe Seng."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-05-30",
+          "Text": "On 30 May 2017, shortly before the closure of True Group (Thailand), Patrick John Wee Ewe Seng resigned his directorship in True Group (Thailand), leaving Ms Moonjaisai as the sole director."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2017-05-30",
+          "Text": "On 30 May 2017, after the resignation of Patrick John Wee Ewe Seng as director, Ms Moonjaisai became the sole director of True Group (Thailand)."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-05-31",
+          "Text": "Up to the end of May 2017, membership fees continued to be collected each month from about 38,903 members of True Group (Thailand)."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-06-01",
+          "Text": "Up until the first week of June 2017, membership plans of up to 3 years continued to be sold to prospective members of True Group (Thailand)."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-06-09",
+          "Text": "On 9 June 2017, staff of True Group (Thailand) staged a walk-out, which caused business operations in Thailand to cease."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-06-09",
+          "Text": "On 9 June 2017, an official announcement was made to staff of True Group (Malaysia) about the closure scheduled for the following day."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-06-10",
+          "Text": "On 10 June 2017, True Group (Malaysia) ceased operations."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-06-09",
+          "Text": "On 9 June 2017, True Group (Thailand) ceased operations."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-06-10",
+          "Text": "Members of True Group (Malaysia) and True Group (Thailand) were informed about the closures only on or very close to the dates of closure in June 2017."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-06-10",
+          "Text": "Upon the closure of True Group (Malaysia) on 10 June 2017, members were informed that there was an arrangement with CHI Fitness Sdn Bhd for existing members to use CHI Fitness facilities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-01-01",
+          "Text": "In January 2018, the arrangement allowing former members of True Group (Malaysia) to use CHI Fitness facilities was discontinued."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-06-10",
+          "Text": "After the closure of True Group (Thailand) in June 2017, no alternative options were implemented for members who had prepaid term memberships."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-06-10",
+          "Text": "After the closure of True Group (Malaysia), an arrangement was made for members to use CHI Fitness facilities, which was initially last 24 months."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2017-06-10",
+          "Text": "Following the closure of True Group (Malaysia), members were notified of an arrangement to use CHI Fitness facilities as an alternative."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-06-10",
+          "Text": "According to Mr Nicholas Kraal, who assisted in managing the closure of True Group (Malaysia), Patrick John Wee Ewe Seng instructed the team to ignore inquiries about the CHI Fitness arrangement, stating that there was no appropriate reply for the matter."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-05-19",
+          "Text": "On 19 May 2017, a restructuring exercise took place in which CJ Group Pte Ltd transferred its shares in the plaintiffs to True Fitness Holdings (Singapore) Pte Ltd, while True Group (Malaysia) and True Group (Thailand) remained under the ownership and management of Patrick John Wee Ewe Seng."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2017-05-19",
+          "Text": "After the restructuring on 19 May 2017, True Group (Malaysia) and True Group (Thailand) were not acquired under the Sales and Purchase Agreement and remained under the ownership and management of Patrick John Wee Ewe Seng."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-06-01",
+          "Text": "From June 2017 onwards, Patrick John Wee Ewe Seng continued to act as Group CEO of the True Group while his salary was treated as reduced within the group."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-06-01",
+          "Text": "From June 2017, the monthly salary of Patrick John Wee Ewe Seng was reduced from S$120,000 to S$22,500 in accordance with an understanding recorded in an email with Xing Hu of Tongfang."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2017-06-01",
+          "Text": "In 2017, an email between Patrick John Wee Ewe Seng and Xing Hu, acting on behalf of Tongfang, recorded that he was willing to reduce his annual salary from USD 1.14 million to USD 380,000 for a future partnership."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-12-31",
+          "Text": "By the end of 2017, auditors for the first plaintiff recorded the salary of Patrick John Wee Ewe Seng for 2017 as S$757,500, reflecting a reduction in monthly salary from June 2017."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-02-01",
+          "Text": "In February 2018, Patrick John Wee Ewe Seng informed the plaintiffs that he considered himself still entitled to a salary of S$120,000 per month."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-03-12",
+          "Text": "The express term of the Employment Contract provided for an extension of Patrick John Wee Ewe Seng's employment up to 12 March 2018."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "For January 2018, Patrick John Wee Ewe Seng received a payment of S$22,500 as salary."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-02-12",
+          "Text": "For the period from February 2018 to 12 March 2018, Patrick John Wee Ewe Seng received S$11,589.30 as part payment of salary."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-05-09",
+          "Text": "On 9 May 2018, the employment of Patrick John Wee Ewe Seng with the first plaintiff was brought to an end."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2021-07-30",
+          "Text": "Patrick John Wee Ewe Seng remained a director of the three plaintiff companies until 30 July 2021."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "Between 1 January 2018 and 9 May 2018, salary at the rate of S$22,500 per month was treated as payable to Patrick John Wee Ewe Seng, part-payments already made."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2019-01-31",
+          "Text": "On 31 January 2019, the Taiwan Taipei District Prosecutor's Office issued a Warrant of Arrest in relation to the use of True Group (Taiwan)'s corporate card for personal purchases of approximately S$20,000."
+        }
+      ],
+      "Issue": "Whether, based on his pre-dispute conduct as Group CEO and director, including management of the operations and closures of True Group (Malaysia) and True Group (Thailand), handling of membership sales and member communications, financial dealings with group entities, and remuneration arrangements, Patrick John Wee Ewe Seng was responsible for losses claimed by the plaintiffs and whether his employment was terminated with or without contractual justification and with what salary consequences.",
+      "Rule": "Under general principles of company and employment law, a senior executive and director is perform assigned functions diligently and in accordance with contractual terms, to manage group operations in a way that does not cause avoidable loss to group companies, and to comply with agreed remuneration arrangements. Termination for cause may be effected under an employment contract where specified grounds are met, affecting entitlement to notice pay, while salary disputes are resolved by reference to binding agreements and subsequent conduct of the parties.",
+      "Application": "Patrick John Wee Ewe Seng served as Group CEO under a written Employment Contract and managed True Group's businesses in multiple countries, including Malaysia and Thailand. From late 2016, he was involved in arranging funding flows, negotiating potential takeovers with third-party operators, consulting insolvency lawyers, and planning exits from those markets while long-term memberships continued to be sold and membership fees collected. He also arranged for a payment of S$3.25 million from True Group (Thailand) to a company he beneficially owned, and later inquired about the risk of that payment being recovered in liquidation. In early 2017, he caused the appointment of an additional director in Thailand and resigned his own directorship shortly before closure, leaving her as sole director. During the same period, he participated in a restructuring in which the Singapore entities were sold to Tongfang while the Malaysian and Thai entities remained under his ownership and management. In 2017, he agreed in correspondence with a Tongfang representative to a substantial reduction in his salary, which was reflected in the group's accounting records and auditor confirmations. After the express term of his Employment Contract expired in March 2018, group staff continued to treat him as Group CEO, and Tongfang sent letters in April and May 2018 requesting his resignation from that position. These events formed the factual basis for the later dispute over his responsibility for the way the Malaysian and Thai closures were handled, the impact on the plaintiffs, and his entitlement to salary and notice following the end of his employment on 9 May 2018.",
+      "Judicial_Reasoning_Log": "The court determined that the defendant owed both contractual and fiduciary duties to the plaintiffs to manage the closures of True Group (Malaysia) and True Group (Thailand) properly, based on the wording of clause 1.3 of the Employment Contract and his role as Group CEO and director. It rejected his argument that the Malaysian and Thai entities ceased to be related or associated corporations after the restructuring and that he had not been assigned responsibility for the closures. On the breach issue, the court found that he knew months in advance of the financial difficulties and impending closures, as evidenced by his negotiations with Jatomi and Evolution Wellness and his consultations with insolvency lawyers, including his inquiry about the S$3.25 million payment. The court held that he breached his duties by allowing the continued sale of long-term memberships in Malaysia and Thailand despite impending closures, by failing to give adequate notice to staff and members, by issuing a misleading renovation notice at the Subang Club, by failing to provide or maintain adequate alternative arrangements for members (particularly in Thailand), and by prioritising steps to avoid personal exposure, such as resigning as director and leaving Ms Moonjaisai as sole director. The court concluded that this conduct damaged the True brand and the plaintiffs' businesses. On wrongful termination, the court found that the Employment Contract, though expressly extended only to 12 March 2018, was impliedly extended on the same terms because the parties continued to act as if the defendant remained Group CEO, including continued CPF contributions and correspondence from Tongfang requesting his resignation as CEO in April and May 2018. The court held that the defendant had agreed to reduce his salary from S$120,000 to S$22,500 per month from June 2017, relying on the email with Xing Hu and the defendant's confirmation to auditors that his 2017 salary was S$757,500. It rejected his contention that the email was merely an agreement to agree or that he could revert to the higher salary due to Tongfang's alleged failure to provide alternative compensation. The court concluded that the plaintiffs had sufficient grounds under clause 11.2 of the Employment Contract to terminate his employment on 9 May 2018 for cause, so he was not entitled to 12 months' salary in lieu of notice under clause 11.1. The court held that he was entitled only to unpaid salary at the reduced rate of S$22,500 per month for the period 1 January 2018 to 9 May 2018, less part-payments already made, resulting in S$62,660.70 payable. It further held that he breached his contractual and director's duties by mismanaging the Malaysian and Thai closures, with the quantification of the plaintiffs' losses and the issue of costs reserved for later determination."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 3
+  }
+]

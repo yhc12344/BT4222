@@ -1,0 +1,581 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1499/2001",
+      "Coram": "MPH Rubin J",
+      "Judge": "MPH Rubin",
+      "Date": "2003-03-25",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Tokuhon (Private) Limited",
+      "Law_Firm": "Martin & Partners",
+      "Counsel": [
+        "R E Martin",
+        "Gerald Sim"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1962-02-01",
+          "Text": "Tokuhon (Private) Limited was incorporated in February 1962 as a company to distribute Tokuhon medical products."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1962-02-01",
+          "Text": "Tokuhon (Private) Limited was formed as a joint outfit by three family businesses: Nan Tat & Co, Continental Trading Co, and Weng Seng Heng Medical Hall."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1962-02-01",
+          "Text": "The memorandum of association of Tokuhon (Private) Limited included an object of selling and distributing drugs and medical preparations."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1962-02-01",
+          "Text": "On incorporation, the shareholding of Tokuhon (Private) Limited was divided as 35,000 shares to the Chang family from Nan Tat, 35,000 shares to the Thong (Seow) family from Continental, and 30,000 shares to the Ooi (Ng) family from Weng Seng Heng."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1962-02-01",
+          "Text": "The initial directors of Tokuhon (Private) Limited were Chang Chiow Hee from Nan Tat, Thong Giok from Continental, and Ooi Choon Sian from Weng Seng Heng."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1962-01-01",
+          "Text": "Around 1962, Tokuhon Corporation of Japan arranged for Tokuhon (Private) Limited to be appointed as distributor for Tokuhon products in Singapore."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1994-05-16",
+          "Text": "On 1994-05-16, Tokuhon Corporation of Japan informed Tokuhon (Private) Limited that future distributorship arrangements would be handled by China Merchants Import and Export Co Ltd of Hong Kong."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1994-01-01",
+          "Text": "In 1994, China Merchants Import and Export Co Ltd appointed Tokuhon (Private) Limited as distributor for Tokuhon products in Singapore."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1994-03-07",
+          "Text": "An earlier periodic distribution agreement between Tokuhon Corporation Japan and Tokuhon (Private) Limited expired on 1994-03-07."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1994-12-09",
+          "Text": "On 1994-12-09, China Merchants wrote to Dr Chang noting difficulties in handling Tokuhon business through three individual partners whose interests were not always aligned."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1994-12-20",
+          "Text": "On 1994-12-20, Dr Chang, on behalf of Nan Tat & Co, sent a letter to China Merchants suggesting that distributorship of Tokuhon products be channeled to Nan Tat & Co and stating that management by consensus in Tokuhon (Private) Limited was not working."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1994-10-01",
+          "Text": "By 1994, Tokuhon (Private) Limited was paying commissions to the three family companies, including Nan Tat & Co and Weng Seng Heng, for sales of Tokuhon products."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-07-22",
+          "Text": "On 1996-07-22, during a meeting attended by representatives of Tokuhon Japan, China Merchants, and directors of Tokuhon (Private) Limited, concerns were expressed about the three-partner structure and internal disagreements."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1996-10-14",
+          "Text": "On 1996-10-14, Weng Seng Heng Medical Hall Sdn Bhd sent a fax to China Merchants stating that shareholders of Tokuhon (Private) Limited could not cooperate and requesting appointment of Weng Seng Heng as sole agent for Tokuhon products in Singapore and Malaysia."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1999-04-01",
+          "Text": "In April 1999, a company named Tokuhon (M) Sdn Bhd was incorporated in Malaysia to handle marketing of Tokuhon products in Malaysia."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1999-04-01",
+          "Text": "The Ooi family supported the incorporation of Tokuhon (M) Sdn Bhd in 1999 to take over marketing of Tokuhon products from Weng Seng Heng in Malaysia."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1989-01-01",
+          "Text": "From 1989 to 1999, the directors of Tokuhon (Private) Limited included Dr Chang Jin Aye from Nan Tat, Ooi Choon Sian with alternate Ng Choon Heng from Weng Seng Heng, and Dr Seow Kang Hong with alternate his wife Mdm Wong Kah Joo from Continental."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1998-04-02",
+          "Text": "On 1998-04-02, Mdm Wong Kah Joo was appointed a director of Tokuhon (Private) Limited with her husband Dr Seow Kang Hong as her alternate director."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1998-05-28",
+          "Text": "On 1998-05-28, both Dr Seow Kang Hong and Mdm Wong Kah Joo became directors of Tokuhon (Private) Limited in their own right without being alternates to each other."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1999-01-01",
+          "Text": "In 1999, Mdm Wong Kah Joo took on the role of managing director of Tokuhon (Private) Limited."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-10-24",
+          "Text": "As of 1996-10-24, Nan Tat & Co had an outstanding amount of S$81,275 owing to Tokuhon (Private) Limited."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-02-23",
+          "Text": "As of 2000-02-23, the amount due from Nan Tat & Co to Tokuhon (Private) Limited was over S$104,000."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2000-01-03",
+          "Text": "On 2000-01-03, a meeting was held at Tokuhon (Private) Limited where Dr Chang and Mdm Wong Kah Joo discussed centralization of the company’s operations and marketing."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-02-15",
+          "Text": "On 2000-02-15, Mdm Wong Kah Joo sent a letter to Dr Chang proposing centralization of Tokuhon (Private) Limited’s operations, including hiring office, accounting, delivery, and marketing staff, standardizing pricing, and requiring all Tokuhon products to be stored only at Tokuhon (Private) Limited."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-02-15",
+          "Text": "In the 2000-02-15 letter, Mdm Wong Kah Joo stated that Nan Tat & Co should no longer draw out Tokuhon products to keep and that goods would be invoiced to Nan Tat & Co on order."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-02-15",
+          "Text": "In the 2000-02-15 letter, Mdm Wong Kah Joo wrote that some clients and distributors had complained that Nan Tat’s pricing of Tokuhon products was lower than that of Tokuhon (Private) Limited."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-02-15",
+          "Text": "In the 2000-02-15 letter, Mdm Wong Kah Joo wrote that she had been informed Dr Chang presented an advertisement plan to Tokuhon Japan without informing the other directors."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-02-15",
+          "Text": "In the 2000-02-15 letter, Mdm Wong Kah Joo stated that she agreed to Dr Chang’s suggestion to end the partnership in Tokuhon (Private) Limited and that she would inform Tokuhon Japan of this decision."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-02-15",
+          "Text": "The 2000-02-15 letter from Mdm Wong Kah Joo to Dr Chang was copied to director Ng Choon Heng and blind-copied to Michael Chien of China Merchants and to Hisato Tanakamaru of Tokuhon Corporation Japan."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-02-23",
+          "Text": "On 2000-02-23, members of the Ng family met with Mdm Wong Kah Joo and discussed stopping Dr Chang from withdrawing goods from Tokuhon (Private) Limited until an outstanding sum of S$104,251 was settled."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2000-03-03",
+          "Text": "On 2000-03-03, the Ng family met with Mdm Wong Kah Joo to discuss Dr Chang’s decision to sell his family’s shares in Tokuhon (Private) Limited and his refusal at that time to sign company cheques."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2000-03-09",
+          "Text": "On 2000-03-09, an urgent directors’ meeting of Tokuhon (Private) Limited was held to address bank signatories and operational issues."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2000-03-09",
+          "Text": "At the 2000-03-09 directors’ meeting, a proposal was discussed for a 5% commission to be paid to Nan Tat & Co for handling sales and delivery of goods on behalf of Tokuhon (Private) Limited."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2000-03-15",
+          "Text": "On 2000-03-15, a second directors’ meeting was held where Dr Chang and Ng did not agree to wind up Tokuhon (Private) Limited and supported implementing a 5% commission scheme for Nan Tat & Co."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-03-17",
+          "Text": "On 2000-03-17, Mdm Wong Kah Joo sent a letter to Michael Chien of China Merchants describing internal events at Tokuhon (Private) Limited, including discussions on outstanding sums owed by Dr Chang’s company, proposed changes to bank signatories, and consideration of winding up Tokuhon (Private) Limited."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-03-17",
+          "Text": "The 2000-03-17 letter from Mdm Wong Kah Joo to China Merchants enclosed discussion notes, minutes of directors’ meetings dated 2000-03-09 and 2000-03-15, and an aide-memoire between Ng Choon Heng and Dr Seow."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-03-17",
+          "Text": "In the 2000-03-17 letter, Mdm Wong Kah Joo informed China Merchants of her intention to withdraw from her partnership in Tokuhon (Private) Limited."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-04-04",
+          "Text": "On 2000-04-04, Tokuhon (Private) Limited received a letter from Qian Sen Sen of China Merchants conveying Tokuhon Japan’s unhappiness over lower than expected orders for Tokuhon plasters."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-04-14",
+          "Text": "On 2000-04-14, Mdm Wong Kah Joo wrote to China Merchants stating that Tokuhon (Private) Limited had an over-stock situation and that directors were still unable to resolve internal problems, causing marketing and promotional plans to be put on hold."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-05-15",
+          "Text": "On or about 2000-05-15, China Merchants issued a notice terminating Tokuhon (Private) Limited’s distributorship for Tokuhon products with immediate effect."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2000-06-06",
+          "Text": "On 2000-06-06, Tokuhon (Private) Limited held its 39th annual general meeting at which Dr Seow was not elected to the board and Mdm Wong Kah Joo resigned as a director."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-06-01",
+          "Text": "In June 2000, Dr Chang and Ng travelled to Japan and made a marketing presentation to Tokuhon Japan executives on behalf of Nan Tat & Co and Weng Seng Heng Medical Hall Sdn Bhd regarding Tokuhon products in Malaysia, Brunei, and Singapore."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-06-01",
+          "Text": "In June 2000, a written proposal titled \"Marketing Strategies for Tokuhon Products to Malaysia & Singapore\" was submitted by Weng Seng Heng Medical Hall Sdn Bhd and Nan Tat & Co Pte Ltd, setting monthly sales targets and undertakings for advertisement and marketing costs."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-07-03",
+          "Text": "On 2000-07-03, Tokuhon Japan sent a letter acknowledging receipt of materials forwarded by Dr Chang, including minutes of Tokuhon (Private) Limited meetings."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-02-21",
+          "Text": "On or about 2001-02-21, Dr Seow and Mdm Wong Kah Joo sold their shares in Tokuhon (Private) Limited to Dr Chang and Ng following settlement of winding up petition No 349 of 2000."
+        }
+      ],
+      "Issue": "Whether conduct by former directors and associated entities, including communications with China Merchants and Tokuhon Japan and the incorporation and use of a new company, is associated with the loss of Tokuhon (Private) Limited’s distributorship and the subsequent appointment of another company as distributor.",
+      "Rule": "Directors of a company are act honestly and with reasonable diligence in managing the company’s affairs, to avoid placing themselves in positions where their personal interests may conflict with the company’s interests, and to refrain from diverting business opportunities that are within the company’s line of business to themselves or to entities they control.",
+      "Application": "Tokuhon (Private) Limited’s distributorship for Tokuhon products was handled through arrangements with Tokuhon Japan and later China Merchants. The company’s board comprised representatives from three family businesses that also traded in Tokuhon products. Over time, various directors and related family companies communicated directly with China Merchants and Tokuhon Japan about distributorship arrangements, internal disagreements, and alternative distribution structures. Some communications promoted individual family companies as potential sole distributors. In early 2000, internal disagreements escalated, and letters from a director described internal disputes and potential winding up to China Merchants. In parallel, a separate company with objects including dealing in plasters was incorporated by two directors, and later used as the vehicle through which distributorship was granted after termination of Tokuhon (Private) Limited’s distributorship. These events provide the factual sequence linking internal board conduct, external communications, and the change in distributorship.",
+      "Judicial_Reasoning_Log": "The court analyzed whether the first and second defendants caused the loss of Tokuhon (Private) Limited’s distributorship and whether they were precluded from accepting the distributorship through the third defendant company. It distinguished between the roles of the first and second defendants, finding that the first defendant’s involvement in the company’s affairs was minimal and largely supportive of his wife, and that there was insufficient material to treat him as having actively participated in the impugned conduct. The court examined the letters of 15 February and 17 March 2000 sent by the second defendant, including their content, tone, and circulation to China Merchants and Tokuhon Japan, and considered the plaintiffs’ contention that these letters were the main cause of the termination. The court weighed this against the broader history of internal conflict among the three family groups, including earlier communications by Dr Chang and Ng to China Merchants and Tokuhon Japan that criticized the company’s structure and promoted their own family businesses as alternative distributors. The court placed significant weight on the evidence of Michael Chien of China Merchants, who described long-standing dysfunction within Tokuhon (Private) Limited, earlier attempts by Dr Chang and Ng to obtain the distributorship for their own entities, and his reasons for terminating the distributorship, including lack of confidence in the company’s ability to function effectively and his perception of disrespect from certain directors. The court accepted his explanation that the termination was not triggered solely by the second defendant’s letters but by accumulated concerns about the company’s performance and internal disputes. The court also considered the timing and nature of the June 2000 trip by Dr Chang and Ng to Japan and their joint marketing presentation on behalf of Nan Tat & Co and Weng Seng Heng, concluding that this presentation was directed at securing the distributorship for those entities rather than for Tokuhon (Private) Limited. In light of this, the court rejected the plaintiffs’ narrative that the second defendant engineered the loss of the distributorship and instead attributed primary responsibility for the company’s dysfunctional state and the loss of the distributorship to the conduct of Dr Chang and, to some extent, Ng. On the question of beneficial ownership of the third defendant company, the court examined the incorporation of the third defendant by the first and second defendants, the subsequent transfer of shares to Chong and Koh, and the use of the third defendant as the vehicle for the new distributorship. It evaluated whether the first and second defendants remained beneficial owners and whether the corporate veil should be lifted, ultimately concluding that the plaintiffs had not established that the first and second defendants were beneficial owners in a way that would justify the relief sought. Overall, the court held that the plaintiffs had not proved that the first and second defendants’ conduct caused the loss of the distributorship or that they were legally disabled from accepting the distributorship through the third defendant, and the plaintiffs’ claims were dismissed."
+    },
+    "Label": "Dismissed",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1499/2001",
+      "Coram": "MPH Rubin J",
+      "Judge": "MPH Rubin",
+      "Date": "2003-03-25",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Seow Kang Hong",
+      "Law_Firm": "Wong & M Seow",
+      "Counsel": [
+        "Wong Kah Chiew",
+        "Teh Ee-Von"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1989-01-01",
+          "Text": "After his father’s death in 1989, Dr Seow Kang Hong inherited shares in Tokuhon (Private) Limited and became a director of the company."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1989-01-01",
+          "Text": "Dr Seow Kang Hong is married to Mdm Wong Kah Joo."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1989-01-01",
+          "Text": "From 1989, Dr Seow served as a director of Tokuhon (Private) Limited with his wife Mdm Wong Kah Joo as his alternate director."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1998-04-02",
+          "Text": "On 1998-04-02, Mdm Wong Kah Joo was appointed a director of Tokuhon (Private) Limited with Dr Seow as her alternate director."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1998-05-28",
+          "Text": "On 1998-05-28, both Dr Seow and Mdm Wong Kah Joo became directors of Tokuhon (Private) Limited in their own right."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-06-06",
+          "Text": "At the annual general meeting of Tokuhon (Private) Limited on 2000-06-06, Dr Seow was not elected to the board."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-06-06",
+          "Text": "On 2000-06-06, following Dr Seow’s non-election to the board, Mdm Wong Kah Joo resigned as a director of Tokuhon (Private) Limited."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-02-04",
+          "Text": "On 2000-02-04, a company named Gamma 2000 (S) Pte Ltd was incorporated with shareholdings held by Dr Seow and Mdm Wong Kah Joo."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-02-04",
+          "Text": "Gamma 2000 (S) Pte Ltd was incorporated for the purpose of selling cosmetics and beauty products, with objects that included dealing in plasters."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-06-06",
+          "Text": "On 2000-06-06, Dr Seow resigned as a director of Gamma 2000 (S) Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2000-06-06",
+          "Text": "On 2000-06-06, the shares in Gamma 2000 (S) Pte Ltd held by Dr Seow and Mdm Wong Kah Joo were transferred to Chong Hui Chee and Koh Yang Lee."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-02-21",
+          "Text": "On or about 2001-02-21, Dr Seow and Mdm Wong Kah Joo sold their shares in Tokuhon (Private) Limited to Dr Chang and Ng as part of a settlement of winding up petition No 349 of 2000."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2001-01-01",
+          "Text": "By 2001, Dr Seow was serving as Senior Orthopaedic Consultant and Deputy Head of the Department of Orthopaedic Surgery at Singapore General Hospital."
+        }
+      ],
+      "Issue": "Whether the conduct and corporate associations of Dr Seow Kang Hong, including his involvement in Gamma 2000 (S) Pte Ltd and his role as a director of Tokuhon (Private) Limited, are connected with the loss of Tokuhon (Private) Limited’s distributorship and the subsequent appointment of Gamma 2000 (S) Pte Ltd as distributor.",
+      "Rule": "Company directors are manage conflicts between their personal commercial interests and the company’s interests, and to avoid using their positions to divert business opportunities that fall within the company’s line of business to other entities in which they hold or recently held interests.",
+      "Application": "Dr Seow held shares in Tokuhon (Private) Limited and served as a director while also being involved in the incorporation of Gamma 2000 (S) Pte Ltd, a company whose objects included dealing in plasters. Gamma 2000 (S) Pte Ltd was incorporated in February 2000, during the period when Tokuhon (Private) Limited still held the Tokuhon distributorship. On 2000-06-06, Dr Seow ceased to be a director of both Tokuhon (Private) Limited and Gamma 2000 (S) Pte Ltd, and his and his wife’s shares in Gamma 2000 (S) Pte Ltd were transferred to relatives and associates. Later in June 2000, Gamma 2000 (S) Pte Ltd was used as the vehicle through which the Tokuhon distributorship was granted. These facts establish a temporal sequence between Dr Seow’s directorships, the incorporation and disposal of Gamma 2000 (S) Pte Ltd, and the change in distributorship, which formed the basis of the plaintiffs’ claims, although the court ultimately assessed his role as largely passive in relation to the impugned conduct.",
+      "Judicial_Reasoning_Log": "The court considered whether Dr Seow acted in concert with his wife in relation to the matters complained of, including the loss of the distributorship and the use of Gamma 2000 (S) Pte Ltd as the new distributor. The plaintiffs relied on factors such as the marital relationship, shared family shareholdings, joint travel on company business, joint initiation of a winding up petition, joint affidavits, and joint incorporation of Gamma 2000 (S) Pte Ltd. The court examined the evidence of Dr Seow’s actual involvement in the day-to-day management and strategic decisions of Tokuhon (Private) Limited and found that his role was limited, primarily attending annual general meetings and providing support to his wife. The court noted that he did not author the key letters to China Merchants, did not participate directly in the centralization dispute, and there was no direct evidence that he engaged in the communications or actions that were said to have led to the termination of the distributorship. The court concluded that the plaintiffs’ attempt to attribute liability to him on the basis of concerted action with his wife was not supported by concrete evidence of wrongful conduct on his part. As a result, the claim against him was regarded as misconceived and he was not held responsible for the loss of the distributorship or for any alleged misuse of corporate opportunities."
+    },
+    "Label": "Dismissed",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1499/2001",
+      "Coram": "MPH Rubin J",
+      "Judge": "MPH Rubin",
+      "Date": "2003-03-25",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Wong Kah Joo",
+      "Law_Firm": "Wong & M Seow",
+      "Counsel": [
+        "Wong Kah Chiew",
+        "Teh Ee-Von"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1989-01-01",
+          "Text": "Mdm Wong Kah Joo is the wife of Dr Seow Kang Hong."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1989-01-01",
+          "Text": "From 1989, Mdm Wong Kah Joo served as alternate director to her husband Dr Seow on the board of Tokuhon (Private) Limited."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1998-04-02",
+          "Text": "On 1998-04-02, Mdm Wong Kah Joo was appointed a director of Tokuhon (Private) Limited with Dr Seow as her alternate."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1998-05-28",
+          "Text": "On 1998-05-28, Mdm Wong Kah Joo and Dr Seow both became directors of Tokuhon (Private) Limited in their own right."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1999-01-01",
+          "Text": "In 1999, Mdm Wong Kah Joo became managing director of Tokuhon (Private) Limited."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1994-01-01",
+          "Text": "By 1994, Mdm Wong Kah Joo had become aware that Tokuhon (Private) Limited operated in practice like a partnership between three family businesses, with the company importing Tokuhon products and the family companies handling much of the sales."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-10-24",
+          "Text": "As of 1996-10-24, Mdm Wong Kah Joo noted that Nan Tat & Co owed Tokuhon (Private) Limited S$81,275."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-02-23",
+          "Text": "As of 2000-02-23, Mdm Wong Kah Joo recorded that the amount due from Nan Tat & Co to Tokuhon (Private) Limited exceeded S$104,000."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1994-01-01",
+          "Text": "Mdm Wong Kah Joo observed that Nan Tat & Co had published advertisements and calendars describing itself as sole distributor of Tokuhon products in Singapore, Malaysia, and Brunei."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1994-01-01",
+          "Text": "Mdm Wong Kah Joo learned that Nan Tat & Co had registered the Tokuhon trade mark in its own name and later relinquished ownership at the request of Tokuhon Japan."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1994-01-01",
+          "Text": "Mdm Wong Kah Joo became aware that Weng Seng Heng was selling a competing brand of medicated plasters from Germany known as Chilli."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2000-01-03",
+          "Text": "On 2000-01-03, at a meeting of Tokuhon (Private) Limited, Mdm Wong Kah Joo supported centralizing both operations and marketing within the company, while Dr Chang opposed centralizing marketing."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-02-15",
+          "Text": "On 2000-02-15, Mdm Wong Kah Joo sent a detailed letter to Dr Chang proposing centralization of Tokuhon (Private) Limited’s operations, including hiring administrative, accounting, delivery, and marketing staff, standardizing pricing, and requiring all Tokuhon products to be stored at the company’s premises."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-02-15",
+          "Text": "In the 2000-02-15 letter, Mdm Wong Kah Joo wrote that some clients and distributors had complained that Nan Tat’s pricing of Tokuhon products was lower than Tokuhon (Private) Limited’s pricing."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-02-15",
+          "Text": "In the 2000-02-15 letter, Mdm Wong Kah Joo stated that she had been informed Dr Chang presented an advertisement plan to Tokuhon Japan without informing the other directors and that she agreed to end the partnership in Tokuhon (Private) Limited."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-02-15",
+          "Text": "The 2000-02-15 letter from Mdm Wong Kah Joo to Dr Chang was copied to director Ng Choon Heng and blind-copied to Michael Chien of China Merchants and to Hisato Tanakamaru of Tokuhon Corporation Japan."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-03-17",
+          "Text": "On 2000-03-17, Mdm Wong Kah Joo wrote to Michael Chien of China Merchants describing internal meetings and disagreements among the directors of Tokuhon (Private) Limited and informing him of her intention to withdraw from her partnership in the company."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-03-17",
+          "Text": "The 2000-03-17 letter from Mdm Wong Kah Joo enclosed discussion notes, minutes of directors’ meetings dated 2000-03-09 and 2000-03-15, and an aide-memoire between Ng Choon Heng and Dr Seow."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-04-04",
+          "Text": "On 2000-04-04, Mdm Wong Kah Joo wrote to Dr Chang and Ng offering to sell her and her husband’s shares in Tokuhon (Private) Limited at S$7.00 per share."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-04-14",
+          "Text": "On 2000-04-14, Mdm Wong Kah Joo wrote to China Merchants stating that Tokuhon (Private) Limited had an over-stock of Tokuhon plasters and that internal problems among directors had delayed marketing and promotional plans."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-05-15",
+          "Text": "On 2000-05-15, Tokuhon (Private) Limited received a notice from China Merchants terminating its distributorship for Tokuhon products with immediate effect."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-06-06",
+          "Text": "On 2000-06-06, following the annual general meeting at which her husband was not re-elected, Mdm Wong Kah Joo resigned as a director of Tokuhon (Private) Limited."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-02-04",
+          "Text": "On 2000-02-04, Gamma 2000 (S) Pte Ltd was incorporated with shareholdings held by Mdm Wong Kah Joo and Dr Seow."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-02-04",
+          "Text": "Gamma 2000 (S) Pte Ltd was incorporated to engage in business including hand-made soaps, skin creams, cosmetics, and plasters."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2000-06-06",
+          "Text": "On 2000-06-06, the shares in Gamma 2000 (S) Pte Ltd held by Mdm Wong Kah Joo and Dr Seow were transferred to Chong Hui Chee and Koh Yang Lee."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-06-23",
+          "Text": "On 2000-06-23, Mdm Wong Kah Joo travelled to Tokyo to meet representatives of China Merchants and Tokuhon Japan regarding the Tokuhon distributorship."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-06-30",
+          "Text": "By 2000-06-30, Mdm Wong Kah Joo had informed China Merchants that Gamma 2000 (S) Pte Ltd would act as distributor for Tokuhon products and that she would serve as manager of Gamma 2000 (S) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-06-30",
+          "Text": "Mdm Wong Kah Joo told China Merchants that she was not a director or shareholder of Gamma 2000 (S) Pte Ltd at the time it was proposed as distributor."
+        }
+      ],
+      "Issue": "Whether the pre-dispute conduct of Mdm Wong Kah Joo, including her letters to China Merchants and Tokuhon Japan, her role in internal board decisions, and her involvement with Gamma 2000 (S) Pte Ltd, is associated with the loss of Tokuhon (Private) Limited’s distributorship and the subsequent appointment of Gamma 2000 (S) Pte Ltd as distributor.",
+      "Rule": "Directors are manage company affairs in a way that does not improperly compromise the company’s commercial relationships, and to avoid using information or positions obtained as directors to secure for themselves or associated entities business opportunities that are within the company’s existing line of business.",
+      "Application": "As managing director and a board member of Tokuhon (Private) Limited, Mdm Wong Kah Joo participated in discussions on centralizing operations and marketing, and she documented internal disagreements and financial issues in letters to fellow directors and to China Merchants. Her letters of 2000-02-15 and 2000-03-17 described internal disputes, outstanding sums owed by a shareholder company, and the possibility of winding up Tokuhon (Private) Limited, and were copied to China Merchants and Tokuhon Japan. During the same period, she and her husband incorporated Gamma 2000 (S) Pte Ltd, a company whose objects included dealing in plasters, and later transferred their shares to relatives and associates on 2000-06-06. After the termination of Tokuhon (Private) Limited’s distributorship on 2000-05-15 and her resignation on 2000-06-06, she travelled to Tokyo on 2000-06-23 at the invitation of China Merchants to discuss distributorship and subsequently proposed Gamma 2000 (S) Pte Ltd as the distributor, with herself as manager. These facts formed the basis of the plaintiffs’ contention that her conduct was connected to the loss of the distributorship and the redirection of the business to Gamma 2000 (S) Pte Ltd, although the court ultimately accepted evidence that the termination decision predated and was not caused solely by her letters.",
+      "Judicial_Reasoning_Log": "The court examined whether Mdm Wong Kah Joo’s letters and actions caused the loss of Tokuhon (Private) Limited’s distributorship and whether she improperly obtained the distributorship for Gamma 2000 (S) Pte Ltd. The plaintiffs argued that her letters of 15 February and 17 March 2000, which disclosed internal disputes and the prospect of winding up, were the main factors leading to termination. The court reviewed the content and circulation of these letters and contrasted them with earlier communications by other directors that also exposed internal conflicts and promoted their own companies as alternative distributors. The court placed substantial weight on the testimony of Michael Chien, who stated that he had been aware of internal discord since 1994, had previously considered terminating the distributorship, and ultimately decided to terminate because he regarded Tokuhon (Private) Limited as dysfunctional and its directors as unable to work together effectively. He stated that the termination was not because of the second defendant’s letters alone. The court accepted this explanation and found that the letters were not the operative cause of termination. On the question of whether she improperly secured the distributorship for Gamma 2000 (S) Pte Ltd, the court considered the timing of the incorporation of Gamma 2000 (S) Pte Ltd, the transfer of shares to her sister-in-law and friend on 2000-06-06, and the subsequent appointment of Gamma 2000 (S) Pte Ltd as distributor with her as manager. The court evaluated whether these steps showed a pre-arranged plan to divert the distributorship while she was still a director of Tokuhon (Private) Limited. It concluded that the evidence did not establish that she had caused the termination or that she had misused her position in a way that would attract liability under the fiduciary principles discussed. The court also noted that the distributorship arrangement with China Merchants was not governed by a fixed-term written contract and could be terminated at will. In light of the overall history of internal conflict and the conduct of other directors, the court held that the plaintiffs had not proved that Mdm Wong Kah Joo’s actions were the legal cause of the loss of the distributorship or that she was precluded from participating in the new distributorship through Gamma 2000 (S) Pte Ltd."
+    },
+    "Label": "Dismissed",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1499/2001",
+      "Coram": "MPH Rubin J",
+      "Judge": "MPH Rubin",
+      "Date": "2003-03-25",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Gamma 2000 (S) Pte Ltd",
+      "Law_Firm": "Wong & M Seow",
+      "Counsel": [
+        "Wong Kah Chiew",
+        "Teh Ee-Von"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2000-02-04",
+          "Text": "Gamma 2000 (S) Pte Ltd was incorporated on 2000-02-04 in Singapore."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-02-04",
+          "Text": "On incorporation, the shareholders of Gamma 2000 (S) Pte Ltd included Dr Seow Kang Hong and Mdm Wong Kah Joo."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-02-04",
+          "Text": "Gamma 2000 (S) Pte Ltd was set up to engage in business including hand-made soaps, skin creams, cosmetics, and plasters."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2000-06-06",
+          "Text": "On 2000-06-06, the shares in Gamma 2000 (S) Pte Ltd held by Dr Seow and Mdm Wong Kah Joo were transferred to Chong Hui Chee and Koh Yang Lee."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-06-06",
+          "Text": "On 2000-06-06, Chong Hui Chee and Koh Yang Lee became directors and shareholders of Gamma 2000 (S) Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2000-06-06",
+          "Text": "Chong Hui Chee, a director and shareholder of Gamma 2000 (S) Pte Ltd, is the sister-in-law of Mdm Wong Kah Joo."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-06-27",
+          "Text": "Around late June 2000, after discussions in Tokyo, Gamma 2000 (S) Pte Ltd was proposed by Mdm Wong Kah Joo to China Merchants as the vehicle to distribute Tokuhon products."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-06-30",
+          "Text": "On or about 2000-06-30, China Merchants appointed Gamma 2000 (S) Pte Ltd as distributor for Tokuhon products in the region previously served by Tokuhon (Private) Limited."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-06-30",
+          "Text": "From mid-2000, Mdm Wong Kah Joo acted as manager of Gamma 2000 (S) Pte Ltd in relation to the Tokuhon distributorship."
+        }
+      ],
+      "Issue": "Whether Gamma 2000 (S) Pte Ltd functioned as the vehicle through which the Tokuhon distributorship formerly held by Tokuhon (Private) Limited was obtained, and whether its ownership and control structure is the dispute.",
+      "Rule": "Where a new company is used to receive a business opportunity previously associated with another company, courts may examine the timing of incorporation, share transfers, and management roles to determine whether the new company is effectively controlled by former insiders of the original company in a way that engages corporate and doctrines.",
+      "Application": "Gamma 2000 (S) Pte Ltd was incorporated in February 2000 by two directors of Tokuhon (Private) Limited, with objects that included dealing in plasters. On 2000-06-06, the shares in Gamma 2000 (S) Pte Ltd were transferred to relatives and an associate of those directors, and they resigned as directors. Shortly after the termination of Tokuhon (Private) Limited’s distributorship on 2000-05-15, Gamma 2000 (S) Pte Ltd was proposed to China Merchants as the new distributor, and by 2000-06-30 it had been appointed as distributor, with one of the former Tokuhon (Private) Limited directors acting as manager. These facts formed the basis for the plaintiffs’ attempt to link Gamma 2000 (S) Pte Ltd to the diversion of the distributorship, and for arguments about beneficial ownership and lifting the corporate veil, which the court ultimately rejected.",
+      "Judicial_Reasoning_Log": "The court considered whether Gamma 2000 (S) Pte Ltd was beneficially owned or controlled by the first and second defendants in a way that would justify treating it as their vehicle for obtaining the Tokuhon distributorship. It examined the incorporation of Gamma 2000 (S) Pte Ltd in February 2000, the stated business objects, the transfer of shares on 2000-06-06 to Chong Hui Chee and Koh Yang Lee, and the subsequent appointment of Gamma 2000 (S) Pte Ltd as distributor on or about 2000-06-30. The court heard evidence from Chong Hui Chee about her acquisition of the shares, her prior assistance in the second defendant’s business, and the arrangement under which the second defendant would manage the Tokuhon side of the business while Chong and Koh handled other products. The plaintiffs argued that the timing of the share transfers and the appointment as distributor indicated a pre-arranged plan and that the first and second defendants remained beneficial owners. The court assessed whether the evidence supported lifting the corporate veil to treat Gamma 2000 (S) Pte Ltd as a mere façade for the first and second defendants. It concluded that the plaintiffs had not established that the first and second defendants were beneficial owners in a manner that would warrant disregarding the separate corporate personality of Gamma 2000 (S) Pte Ltd. Consequently, the only relief sought against Gamma 2000 (S) Pte Ltd, an injunction to prevent it from continuing with the Tokuhon distributorship, was not granted, and the claims against it were dismissed."
+    },
+    "Label": "Dismissed",
+    "Leakage_Score": 3
+  }
+]

@@ -12,7 +12,7 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 MODEL_NAME = "gpt-5.1"
 
-INPUT_FOLDER = Path("Data/Test")
+INPUT_FOLDER = Path("Data/PDFs/ALL")
 OUTPUT_FOLDER = Path("Data/Processed")
 
 INPUT_FOLDER.mkdir(parents=True, exist_ok=True)
@@ -158,6 +158,13 @@ Describe only observable conduct.
 ### FACT EXTRACTION RULES
 
 - MULTI-PARTY: create one object per unique party
+- LEGAL TEAM: 
+    - COUNSEL: Extract the full group of individual lawyers listed before the parentheses as an array.
+    - LAW FIRM: Extract the firm name found in parentheses (e.g., "Lee & Lee").
+- FACT DATING: For every fact, extract the specific ISO date (YYYY-MM-DD). 
+    - If only a month is provided, use YYYY-MM-01. 
+    - If only a year is provided, use YYYY-01-01.
+- DATA HARDENING: Rewrite trial-phase evidence as raw conduct (e.g., "Ledger shows $70k" instead of "He admitted to $70k").
 - FLATTEN facts
 - Preserve:
   - dates
@@ -210,6 +217,8 @@ Store ALL:
   "results": [
     {
       "Metadata": {
+        "Case_Number": "string",
+        "Coram": "string",
         "Judge": "string",
         "Date": "YYYY-MM-DD",
         "Tribunal_Court": "string"
@@ -217,11 +226,10 @@ Store ALL:
       "Party_Details": {
         "Role": "Plaintiff | Defendant",
         "Name": "string",
+        "Law_Firm": "string",
+        "Counsel": ["string"],
         "Facts": [
-          {
-            "Fact_Type": "string",
-            "Text": "string"
-          }
+          { "Fact_Type": "string", "Fact_Date": "YYYY-MM-DD", "Text": "string" }
         ],
         "Issue": "string",
         "Rule": "string",
@@ -236,17 +244,16 @@ Store ALL:
 ---
 
 ### FEW-SHOT ANCHOR (Transformation Example)
-
-RAW JUDGMENT TEXT: 
-"The court found that the defendant, as a director, breached his fiduciary duty by failing to disclose he was helping a competitor, Huadian."
+RAW TEXT: "Tan Tee Jim SC, Julian Tay and Jiang Ke-Yue (Lee & Lee) for the plaintiffs. In Suit 798/2007, the court found the defendant breached his duty by helping Huadian, which he admitted in cross-examination on 2009-03-12. Records show he joined the board on 1998-07-01." 
 
 CLEAN EXTRACTION:
-- Facts: [{"Fact_Type": "CORPORATE_ROLE", "Text": "The defendant held the position of Director from 1998 to 2003."}]
+- Case_Number: "Suit 798/2007" 
+- Law_Firm: "Lee & Lee" 
+- Counsel: ["Tan Tee Jim SC", "Julian Tay", "Jiang Ke-Yue"] 
+- Facts: [{"Fact_Type": "CORPORATE_ROLE", "Fact_Date": "1998-07-01", "Text": "The defendant was appointed as a director of the company."}]
 - Issue: "Whether a Director's role requires disclosure of third-party business assistance."
-- Rule: "Corporate directors are subject to standards of loyalty regarding competitive activity."
-- Application: "The defendant facilitated contact between an expert and a third-party entity while serving as Director."
 - Conclusion: "Liable"
-- Judicial_Reasoning_Log: "Judge Prakash found the fiduciary duty was breached because the assistance created a conflict with the director's role."
+- Judicial_Reasoning_Log: "Defendant admitted to helping Huadian during cross-examination on 2009-03-12. Judge Prakash found this constituted a breach of fiduciary duty."
 
 ---
 
@@ -341,7 +348,7 @@ def main():
     pdf_files = list(INPUT_FOLDER.glob("*.pdf"))
 
     if not pdf_files:
-        print("No PDF files found in Data/Test")
+        print("No PDF files found")
         return
 
     for pdf_file in pdf_files:

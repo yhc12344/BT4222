@@ -1,0 +1,490 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit 445/2003",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2004-11-09",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Velstra Pte Ltd (in compulsory winding up)",
+      "Law_Firm": "Shook Lin and Bok",
+      "Counsel": [
+        "Vinodh Coomaraswamy",
+        "David Chan",
+        "Stanley Tok"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1999-06-19",
+          "Text": "Velstra Pte Ltd was incorporated in Singapore on 19 June 1999 with a paid-up capital of $2.00."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1999-06-19",
+          "Text": "Tony F E Snauwaert, a Belgian national, and Tan Lee Chin, a Singaporean, were directors of Velstra Pte Ltd from its incorporation, and Tan Lee Chin was also the company secretary."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1999-06-19",
+          "Text": "The stated objects of Velstra Pte Ltd included information technology in speech and artificial intelligence, but its actual activity was to act as an investment holding company."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1999-03-31",
+          "Text": "Velstra Pte Ltd is a wholly owned subsidiary of Language Development Fund, a Belgian company incorporated on 31 March 1999."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-03-31",
+          "Text": "Upon incorporation on 31 March 1999, Language Development Fund had a capital of 2.5 million Belgian Francs divided into 2,500 shares of 1,000 Belgian Francs each, with shareholders BVBA Language Development Service holding 2,499 shares and NV Language Investment Company holding one share."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1999-03-31",
+          "Text": "The directors of Language Development Fund on incorporation were Tony F E Snauwaert, BVBA Language Development Service, and NV Language Investment Company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-03-31",
+          "Text": "On 31 March 1999, an extraordinary general meeting of Language Development Fund increased its capital from 2.5 million Belgian Francs to 77.76 million Belgian Francs by issuing 75,260 new shares of 1,000 Belgian Francs each to Mercator & Noordstar NV."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1999-03-31",
+          "Text": "Mercator & Noordstar NV, whose chief executive officer is Ronald Everaert, is an insurance company listed on the Belgian stock exchange and became the main shareholder of Language Development Fund on 31 March 1999."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2000-08-31",
+          "Text": "As at 31 August 2000, Velstra Pte Ltd had nine subsidiaries, six incorporated in Belgium bearing the initials LDC NV and three in Singapore named The French CALC Pte Ltd, The German CALC Pte Ltd and The Italian CALC Pte Ltd."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2000-08-31",
+          "Text": "Velstra Pte Ltd and its Singapore subsidiaries shared a common registered address at UIC Building #12-05, which was the address of a local law firm."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2000-08-31",
+          "Text": "Velstra Pte Ltd and its Singapore subsidiaries did not carry out real business activity in Singapore, and its foreign subsidiaries also did not carry out business activities."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-08-31",
+          "Text": "Velstra Pte Ltd's balance sheet as at 31 August 2000 recorded total liabilities of $4,440,153 and accumulated losses of $4,440,153."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-08-31",
+          "Text": "Velstra Pte Ltd's profit and loss account as at 31 August 2000 showed a net trading loss of $4,439,255."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-08-31",
+          "Text": "As at 31 August 2000, Velstra Pte Ltd's net total assets were $25,736,319 and its paid-up share capital was $2."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-12-24",
+          "Text": "On or about 24 December 1999, Harout Khatchadourian, a Lebanese-American businessman, extended an unsecured loan of US$36 million to Velstra Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1999-12-24",
+          "Text": "The US$36 million loan from Harout Khatchadourian to Velstra Pte Ltd was documented on a one-page document made in Beirut and was classified in Velstra Pte Ltd's accounts as a term loan and long-term liability."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-12-24",
+          "Text": "According to the notes to Velstra Pte Ltd's accounts, the US$36 million loan from Harout Khatchadourian was utilised as working capital and bore interest at 9.41% per annum."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-12-27",
+          "Text": "The US$36 million loan from Harout Khatchadourian to Velstra Pte Ltd was due for repayment on 27 December 2001."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-08-31",
+          "Text": "Velstra Pte Ltd's last audited accounts before liquidation covered the financial period from 19 June 1999 to 31 August 2000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-05-31",
+          "Text": "Velstra Pte Ltd did not repay the €1.5 million sub-loan due to BVBA Language Development Service by 25 May 2001, and was unable to repay the related loan when it expired on 31 May 2001."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2001-06-13",
+          "Text": "On 13 June 2001, a letter from Mattjis, Van Roy, Voet & Co on instructions of Tony F E Snauwaert provided a schedule of bank balances of Velstra Pte Ltd, its Singapore subsidiaries, and Four One-One.Com Pte Ltd, showing substantial US dollar balances in accounts with KBC Bank NV Singapore branch and the Development Bank of Singapore."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-06-13",
+          "Text": "The schedule attached to the 13 June 2001 letter showed that Velstra Pte Ltd maintained US dollar-denominated bank accounts with KBC Bank NV Singapore branch and the Development Bank of Singapore with substantial cash balances."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2001-06-22",
+          "Text": "On 22 June 2001, notice of an assignment of debts from BVBA Language Development Service to Azero Investments SA, including a €1.5 million debt due from Velstra Pte Ltd, was given to Velstra Pte Ltd by M A Verhaagen."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2001-06-25",
+          "Text": "On 25 June 2001, Velstra Pte Ltd acknowledged receipt of the notice of assignment from BVBA Language Development Service to Azero Investments SA and received a demand for payment of the sum owed to BVBA Language Development Service."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2001-06-25",
+          "Text": "By 25 June 2001, Velstra Pte Ltd had been notified that its debt of €1.5 million to BVBA Language Development Service had been assigned to Azero Investments SA and that Azero Investments SA demanded payment."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-07-03",
+          "Text": "On 3 July 2001, Azero Investments SA commenced Suit No 825 of 2001 in Singapore against Velstra Pte Ltd for US$1,872,240, and Velstra Pte Ltd did not enter an appearance to the writ."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-08-08",
+          "Text": "On 8 August 2001, garnishee orders absolute were made against KBC Bank NV Singapore branch and the Development Bank of Singapore in respect of Velstra Pte Ltd's accounts, in the sums of US$204,543.98 and US$91,546.48 respectively."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-08-10",
+          "Text": "On 10 August 2001, KBC Bank NV Singapore branch paid S$308,931.47, equivalent to US$204,543.98, from Velstra Pte Ltd's account to Advocatenassociatie Gilkens Panis Vandersanden, leaving US$5,000 in the KBC account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-08-21",
+          "Text": "On 21 August 2001, the Development Bank of Singapore paid US$91,347.04 from Velstra Pte Ltd's account to Advocatenassociatie Gilkens Panis Vandersanden, leaving a balance of US$113.58 in the account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-09-19",
+          "Text": "On 19 September 2001, Velstra Pte Ltd's account with KBC Bank NV Singapore branch was closed and the credit balance was transferred to its account with the Development Bank of Singapore."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-10-01",
+          "Text": "After 21 August 2001 and before 9 November 2001, various sums of money were deposited into Velstra Pte Ltd's Development Bank of Singapore account by The Taiwanese LDC Pte Ltd, The Vietnamese LDC Pte Ltd, The Malay LDC Pte Ltd, and Four One-One.Com Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-10-11",
+          "Text": "On 11 October 2001, Tony F E Snauwaert tendered his resignation as director and managing director of Velstra Pte Ltd and as director of its subsidiaries and Four One-One.Com Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-11-09",
+          "Text": "On 9 November 2001, Azero Investments SA's solicitors applied to garnish Velstra Pte Ltd's Development Bank of Singapore account again, when the credit balance was US$250,346.98."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-11-26",
+          "Text": "On 26 November 2001, a garnishee order absolute was made against the Development Bank of Singapore in the sum of US$250,346.98 in respect of Velstra Pte Ltd's account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-12-18",
+          "Text": "On 18 December 2001, the Development Bank of Singapore remitted US$250,145.08 from Velstra Pte Ltd's account to Advocatenassociatie Gilkens Panis Vandersanden, after deducting S$140 for its costs."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-04-12",
+          "Text": "On 12 April 2002, Velstra Pte Ltd was placed into compulsory liquidation by an order of court in Companies Winding Up No 600096 of 2002, based on a default judgment obtained by Harout Khatchadourian on the unpaid US$36 million loan."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2002-04-12",
+          "Text": "On 12 April 2002, William Caven Hutchinson, Kon Yin Tong and Wong Kian Kok from Foo, Kon, Tan and Grant Thornton were appointed joint and several liquidators of Velstra Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-04-12",
+          "Text": "After their appointment on 12 April 2002, the liquidators of Velstra Pte Ltd conducted investigations into the affairs of Velstra Pte Ltd and its subsidiaries, including their connections with Lernout & Hauspie Speech Products NV."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-04-12",
+          "Text": "Following the commencement of liquidation, the liquidators of Velstra Pte Ltd instituted proceedings in the name of Velstra Pte Ltd against Azero Investments SA."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-03-22",
+          "Text": "The winding-up petition for Velstra Pte Ltd was presented on 22 March 2002."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2002-04-12",
+          "Text": "After liquidation commenced, Tan Lee Chin submitted on behalf of Velstra Pte Ltd a list of creditors to the liquidators, which included BVBA Language Development Service."
+        }
+      ],
+      "Issue": "Whether payments obtained by Azero Investments SA from Velstra Pte Ltd's Singapore bank accounts pursuant to garnishee proceedings, following an assignment of debts from BVBA Language Development Service, placed Azero Investments SA in a better position than other creditors of Velstra Pte Ltd in the event of Velstra Pte Ltd's insolvency, within the statutory framework on avoidance of unfair preferences.",
+      "Rule": "Under the Bankruptcy Act and Companies Act as applied to companies, a transaction or act that has the effect of putting one creditor into a position which, in the event of insolvency, is better than the position that creditor would have been in if the transaction or act had not occurred may be set aside as an unfair preference if it occurs within the relevant statutory time period and the statutory conditions, including any requirements relating to insolvency and relationships between the parties, are satisfied.",
+      "Application": "Velstra Pte Ltd was an investment holding company with minimal paid-up capital and substantial liabilities, including a large unsecured loan from Harout Khatchadourian. It maintained US dollar-denominated accounts with KBC Bank NV Singapore branch and the Development Bank of Singapore, which held significant balances as at mid-2001. BVBA Language Development Service had advanced funds to Velstra Pte Ltd under a sub-loan and later assigned its rights to Azero Investments SA, with notice and demand for payment given to Velstra Pte Ltd in June 2001. Azero Investments SA then commenced proceedings in Singapore and obtained default judgment against Velstra Pte Ltd, followed by garnishee orders over Velstra Pte Ltd's Singapore bank accounts. Two garnishee orders in August 2001 resulted in payments from KBC Bank NV Singapore branch and the Development Bank of Singapore, leaving small residual balances. Subsequently, additional funds from related entities were deposited into Velstra Pte Ltd's Development Bank of Singapore account, and the KBC account was closed with its balance transferred to that account. A further garnishee application in November 2001 led to a garnishee order absolute and payment in December 2001 of most of the remaining balance in the Development Bank of Singapore account to Azero Investments SA's lawyers. These steps resulted in Azero Investments SA receiving substantial sums from Velstra Pte Ltd's Singapore bank accounts in the months before and within the statutory look-back period preceding the presentation of the winding-up petition, while Velstra Pte Ltd had significant liabilities and limited assets.",
+      "Judicial_Reasoning_Log": "The judge analysed the statutory framework on unfair preferences under sections 99, 100 and 101 of the Bankruptcy Act, section 329 of the Companies Act, and the Companies (Application of Bankruptcy Act Provisions) Regulations. The court considered whether Azero Investments SA was a 'person connected with' or an 'associate' of Velstra Pte Ltd or its shareholder, Language Development Fund, and concluded that the evidence did not establish that relationship. The judge rejected the plaintiff's arguments that Tony F E Snauwaert was a shadow director of Azero Investments SA or that Azero Investments SA was an associate of Language Development Fund by reason of shareholdings and control. As a result, the relevant time period for assessing unfair preference was six months before the presentation of the winding-up petition, not two years. The court held that only the third garnishee payment of US$250,346.98 on 18 December 2001 fell within the six-month period ending on 22 March 2002, and rejected the contention that the three garnishee payments formed a single transaction. The judge found that Velstra Pte Ltd was insolvent within the meaning of section 100(4) of the Bankruptcy Act, taking into account its contingent liability for the US$36 million loan from Harout Khatchadourian and its financial statements as at 31 August 2000. The court accepted that the moneys in Velstra Pte Ltd's KBC and DBS accounts constituted trust property and that the garnished sums were received by Azero Investments SA for its benefit. The judge concluded that, but for the assignment executed by Snauwaert on behalf of BVBA Language Development Service, Azero Investments SA would have had to sue BVBA Language Development Service in Belgium and would not have been able to garnish Velstra Pte Ltd's Singapore bank accounts. The court held that the assignment and subsequent garnishee proceedings had the effect of putting Azero Investments SA in a better position than it would otherwise have been in the event of Velstra Pte Ltd's insolvency, and that this fell within the statutory definition of an unfair preference. The judge further found that the elements of a constructive trust were satisfied, including that Azero Investments SA received the third garnished sum with knowledge that it was trust property transferred in breach of fiduciary duties owed by Snauwaert to Velstra Pte Ltd. The court therefore ordered Azero Investments SA to account to Velstra Pte Ltd for the third garnished sum of US$250,346.98 as constructive trustee, with interest at 8% from 18 December 2001 and costs, while allowing Azero Investments SA to retain the earlier garnished sums obtained outside the relevant six-month period."
+    },
+    "Label": "Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 445/2003",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2004-11-09",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Azero Investments SA",
+      "Law_Firm": "Robert Wang and Woo LLC",
+      "Counsel": [
+        "Conrad Campos",
+        "Ramesh Tiwari"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1999-11-23",
+          "Text": "Azero Investments SA was incorporated under the laws of Luxembourg on 23 November 1999 with its registered office at 106, Route d’Arlon L-8210, Mamer."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1999-11-23",
+          "Text": "Since its incorporation, the directors of Azero Investments SA have been three Luxembourg entities: F van Lanschot Management SA, F van Lanschot Corporate Services SA and Harbour Trust and Management SA."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1999-11-23",
+          "Text": "The shareholders of Azero Investments SA are Rozea Lux Holding SA holding 9,999 shares and FVL Management holding one share."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1999-06-09",
+          "Text": "Rozea Lux Holding SA, the parent company of Azero Investments SA, was incorporated on 9 June 1999 under its former name Azero Investments SA and changed to its present name on 16 November 1999."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1999-06-09",
+          "Text": "The three directors of Azero Investments SA were also the original shareholders and directors of Rozea Lux Holding SA."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "1999-06-09",
+          "Text": "On 9 June 1999, the three original shareholders of Rozea Lux Holding SA transferred their shares to APJ Veltmeijer, Robert AF Veltmeijer and JHMJF Philippen, who are two brothers and their brother-in-law."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1999-01-01",
+          "Text": "The Veltmeijer family owned and operated between 20 to 25 companies in Europe, including amusement parks, real estate and rental businesses, and became cash-rich after selling a large part of their amusement park business in January 1999."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1996-08-17",
+          "Text": "On 17 August 1996, NV Language Investment Company was incorporated with managing director Willem Hardeman."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1999-02-11",
+          "Text": "On 11 February 1999, Tony F E Snauwaert incorporated BVBA Language Development Service in Ghent, Belgium, with himself as sole director."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1999-01-01",
+          "Text": "Lernout & Hauspie Speech Products NV was a Belgian company engaged in speech technology and voice synthesis software, listed on the Belgian stock exchange with a secondary listing on NASDAQ, and had investors including Microsoft and Intel."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-01-01",
+          "Text": "In January 1999, during a skiing holiday, Robert AF Veltmeijer met Thomas Denys, who described himself as a financial adviser of Lernout & Hauspie Speech Products NV and was in fact its general counsel and senior vice president."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1999-01-01",
+          "Text": "During their January 1999 meeting, Thomas Denys informed Robert AF Veltmeijer that Lernout & Hauspie Speech Products NV invested in the development of speech technology for various languages, normally through joint ventures."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-09-14",
+          "Text": "On 14 September 1999, Robert AF Veltmeijer and his Hungarian business partner visited the offices of Lernout & Hauspie Speech Products NV in Leper, met Thomas Denys, Tony F E Snauwaert and Pol Hauspie, and were shown demonstrations of speech technology products."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-11-11",
+          "Text": "On 11 November 1999, Robert AF Veltmeijer attended the opening ceremony of Lernout & Hauspie Speech Products NV's Leper office as an invited guest, where the Crown Prince of Belgium was also present."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1999-11-11",
+          "Text": "At the Leper opening ceremony on 11 November 1999, Robert AF Veltmeijer was introduced to managing director Nico Willaert and observed that Tony F E Snauwaert deferred decisions to him during discussions."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1999-11-26",
+          "Text": "On 26 November 1999, Azero Investments SA entered into a loan agreement with BVBA Language Development Service for a loan of €2 million, which was disbursed on the same day."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1999-11-26",
+          "Text": "On 26 November 1999, a separate surety agreement was signed by Jo Lernout, Pol Hauspie and Nico Willaert as personal guarantors for the €2 million loan from Azero Investments SA to BVBA Language Development Service."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1999-11-26",
+          "Text": "Under the 26 November 1999 loan agreement, the €2 million loan from Azero Investments SA to BVBA Language Development Service was to expire on 31 May 2001."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1999-12-03",
+          "Text": "On 3 December 1999, BVBA Language Development Service and Velstra Pte Ltd entered into a sub-loan agreement under which BVBA Language Development Service agreed to advance 75% of the €2 million loan to Velstra Pte Ltd, repayable by 25 May 2001, with Tony F E Snauwaert signing as legal representative for both companies."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-01-01",
+          "Text": "By early 2000, the Veltmeijer family, through their group of companies, had made several investments including the €2 million loan from Azero Investments SA to BVBA Language Development Service."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-11-10",
+          "Text": "On 10 November 2000, on instructions from Robert AF Veltmeijer, a director of Azero Investments SA wrote to BVBA Language Development Service expressing concern about press reports on Lernout & Hauspie Speech Products NV, inquiring about the relationship between BVBA Language Development Service and Lernout & Hauspie Speech Products NV, requesting further security from the guarantors, and asking for audited accounts of BVBA Language Development Service."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-11-14",
+          "Text": "On 14 November 2000, Tony F E Snauwaert replied to Azero Investments SA's directors stating that BVBA Language Development Service and Lernout & Hauspie Speech Products NV had no relationship, that BVBA Language Development Service's balance sheet was not ready, and that €1.5 million of the loan had been advanced to Velstra Pte Ltd and €0.5 million to Four One-One.Com Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-11-14",
+          "Text": "Following the 14 November 2000 letter, Robert AF Veltmeijer learned that €1.5 million of the loan to BVBA Language Development Service had been invested in Velstra Pte Ltd and further invested in three LDC companies, and that €0.5 million had been channelled to Four One-One.Com Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-02-01",
+          "Text": "In February 2001, Robert AF Veltmeijer met Tony F E Snauwaert, who provided a report prepared by Lernout & Hauspie Speech Products NV describing various LDC companies and stages of speech technology development, and assisted in drawing up a corporate structure of companies related to BVBA Language Development Service."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2001-02-01",
+          "Text": "At the February 2001 meeting, Tony F E Snauwaert explained to Robert AF Veltmeijer that there was no legal relationship between Lernout & Hauspie Speech Products NV and BVBA Language Development Service, and that this structure was based on advice from KPMG for off-balance sheet accounting, with licensing and consultancy fees from BVBA Language Development Service booked as revenue into Lernout & Hauspie Speech Products NV."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-02-01",
+          "Text": "By February 2001, Robert AF Veltmeijer understood that BVBA Language Development Service, the LDC companies and Velstra Pte Ltd were letter-box companies whose main assets were licences obtained from Lernout & Hauspie Speech Products NV."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-03-25",
+          "Text": "Around late March or early April 2001, Robert AF Veltmeijer began considering investing in and taking control of Language Development Fund and held discussions with Deloitte & Touche and Belgian law firm Advocatenassociatie Gilkens Panis Vandersanden, engaging lawyer Leo Panis."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2001-04-01",
+          "Text": "In April 2001, Robert AF Veltmeijer met Mercator & Noordstar NV's CEO Ronald Everaert to discuss the possibility of acquiring Language Development Fund and exchanged offers and counter-offers between April and June 2001."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-05-28",
+          "Text": "On 28 May 2001, Robert AF Veltmeijer acquired 499 shares in Language Development Fund from BVBA Language Development Service to gain access to minutes of general meetings and financial statements."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2001-05-30",
+          "Text": "On 30 May 2001, an extraordinary general meeting of Language Development Fund was held, attended by Robert AF Veltmeijer, where he questioned Mercator & Noordstar NV about withdrawal of funds to repay its loans and requested a valuation of the LDC companies."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2001-06-01",
+          "Text": "On 1 June 2001, lawyer Leo Panis wrote on behalf of Azero Investments SA to Tony F E Snauwaert asking what steps BVBA Language Development Service proposed to take to recover the sub-loans from Velstra Pte Ltd and Four One-One.Com Pte Ltd after the loan expired on 31 May 2001."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2001-06-11",
+          "Text": "On 11 June 2001, Mattjis, Van Roy, Voet & Co replied on behalf of BVBA Language Development Service stating that Velstra Pte Ltd and Four One-One.Com Pte Ltd were unable to pay BVBA Language Development Service and proposing that BVBA Language Development Service assign its sub-loans to Azero Investments SA to discharge the €2 million loan."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2001-06-13",
+          "Text": "On 13 June 2001, Mattjis, Van Roy, Voet & Co sent a letter on instructions of Tony F E Snauwaert to Robert AF Veltmeijer providing a schedule of bank balances of Velstra Pte Ltd, Four One-One.Com Pte Ltd and related companies, including accounts with KBC Bank NV Singapore branch and the Development Bank of Singapore."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2001-06-14",
+          "Text": "On 14 June 2001, Azero Investments SA and BVBA Language Development Service executed an assignment agreement under which BVBA Language Development Service assigned to Azero Investments SA its €1.5 million debt due from Velstra Pte Ltd and its €0.5 million debt due from Four One-One.Com Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-06-19",
+          "Text": "On 19 June 2001, Mattjis, Van Roy, Voet & Co requested on behalf of Tony F E Snauwaert that Azero Investments SA agree not to exercise its rights as assignee in a way that would leave Velstra Pte Ltd and Four One-One.Com Pte Ltd without sufficient funds for daily administrative functions, and Azero Investments SA agreed."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-07-03",
+          "Text": "On 3 July 2001, following the assignment, Azero Investments SA commenced Suit No 824 of 2001 against Four One-One.Com Pte Ltd for US$558,499 and Suit No 825 of 2001 against Velstra Pte Ltd for US$1,872,240 in Singapore."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-07-12",
+          "Text": "On 12 July 2001, Azero Investments SA obtained default judgments in Suit Nos 824 and 825 of 2001 against Four One-One.Com Pte Ltd and Velstra Pte Ltd respectively after neither company entered an appearance."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-08-08",
+          "Text": "Based on the bank balance information from the 13 June 2001 letter, Azero Investments SA's solicitors commenced garnishee proceedings against KBC Bank NV Singapore branch and the Development Bank of Singapore, resulting in garnishee orders absolute on 8 August 2001."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-08-10",
+          "Text": "On 10 August 2001, KBC Bank NV Singapore branch paid S$308,931.47, equivalent to US$204,543.98, from Velstra Pte Ltd's account to Advocatenassociatie Gilkens Panis Vandersanden for the benefit of Azero Investments SA, leaving US$5,000 in the account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-08-21",
+          "Text": "On 21 August 2001, the Development Bank of Singapore paid US$91,347.04 from Velstra Pte Ltd's account to Advocatenassociatie Gilkens Panis Vandersanden for the benefit of Azero Investments SA, leaving US$113.58 in the account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-11-09",
+          "Text": "On 9 November 2001, Azero Investments SA's solicitors applied for a second garnishee order against Velstra Pte Ltd's Development Bank of Singapore account, which then had a credit balance of US$250,346.98."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-11-26",
+          "Text": "On 26 November 2001, a second garnishee order absolute was made against the Development Bank of Singapore in the sum of US$250,346.98 in favour of Azero Investments SA."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-12-18",
+          "Text": "On 18 December 2001, the Development Bank of Singapore remitted US$250,145.08 to Advocatenassociatie Gilkens Panis Vandersanden in discharge of the second garnishee order, after deducting S$140 for its costs."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-01-01",
+          "Text": "By early 2002, Azero Investments SA had received a total of approximately US$546,152 from Velstra Pte Ltd's Singapore bank accounts through three garnishee payments."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-03-22",
+          "Text": "On 22 March 2002, the winding-up petition for Velstra Pte Ltd was presented, and Azero Investments SA later filed a proof of debt for the balance of its claim with the liquidators."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-03-22",
+          "Text": "After Velstra Pte Ltd entered liquidation, Azero Investments SA submitted a proof of debt to the liquidators for the remaining amount claimed under the loan and assignment."
+        }
+      ],
+      "Issue": "Whether Azero Investments SA's receipt of funds from Velstra Pte Ltd's Singapore bank accounts pursuant to garnishee proceedings, following an assignment of debts from BVBA Language Development Service, constituted an unfair preference within the statutory look-back period and whether Azero Investments SA is account for any of those sums as constructive trustee.",
+      "Rule": "A creditor who receives payment or property from an insolvent company within the statutory relevant time may be restore that benefit if the transaction is characterised as an unfair preference under the Bankruptcy Act and Companies Act, particularly where the transaction places that creditor in a better position than other creditors in the event of insolvency and the statutory conditions, including timing and knowledge, are met.",
+      "Application": "Azero Investments SA, through its Luxembourg corporate structure and its parent Rozea Lux Holding SA, extended a €2 million loan to BVBA Language Development Service in November 1999, supported by personal guarantees from the founders of Lernout & Hauspie Speech Products NV. After press reports raised concerns about Lernout & Hauspie Speech Products NV, Azero Investments SA sought information and security, and learned that most of the loan proceeds had been advanced to Velstra Pte Ltd and Four One-One.Com Pte Ltd. When BVBA Language Development Service indicated in June 2001 that Velstra Pte Ltd and Four One-One.Com Pte Ltd could not repay it, BVBA Language Development Service proposed assigning its sub-loans to Azero Investments SA. Following provision of a schedule of bank balances for Velstra Pte Ltd and related companies, Azero Investments SA accepted the assignment on 14 June 2001. Azero Investments SA then obtained default judgments in Singapore against Velstra Pte Ltd and Four One-One.Com Pte Ltd and enforced them by garnisheeing Velstra Pte Ltd's accounts with KBC Bank NV Singapore branch and the Development Bank of Singapore. Two garnishee orders in August 2001 resulted in payments totalling approximately US$296,090.46, and a third garnishee order in November 2001 led to a payment of approximately US$250,145.08 in December 2001. These enforcement steps occurred while Velstra Pte Ltd had significant liabilities and limited assets and before and within six months of the presentation of the winding-up petition. The sequence of the assignment, the use of information on Velstra Pte Ltd's bank balances, and the garnishee proceedings resulted in Azero Investments SA recovering part of the loan through Velstra Pte Ltd's Singapore bank accounts, rather than through proceedings against BVBA Language Development Service or the guarantors in Belgium.",
+      "Judicial_Reasoning_Log": "The court examined Azero Investments SA's corporate structure, its relationship with Rozea Lux Holding SA, and the roles of the Veltmeijer brothers and their brother-in-law. The judge accepted evidence from director JO Van Crugten that Azero Investments SA's directors took instructions from its shareholders and not from Tony F E Snauwaert, and found that Snauwaert was not a director or shadow director of Azero Investments SA or its director companies. The court rejected the plaintiff's contention that Snauwaert was a 'person connected with' Azero Investments SA or that Azero Investments SA was an 'associate' of Velstra Pte Ltd or Language Development Fund under the Companies Regulations and section 101 of the Bankruptcy Act. The judge held that the extended definition of 'director' in section 4 of the Companies Act did not apply to make Snauwaert a shadow director of Azero Investments SA based solely on his cooperation in the assignment and garnishee process. The court also rejected the argument that Azero Investments SA had control over BVBA Language Development Service or Language Development Fund by virtue of the loan or shareholdings, noting that Mercator & Noordstar NV controlled Language Development Fund. Consequently, the court determined that the relevant time period for unfair preference was six months under section 100(1)(c) of the Bankruptcy Act, not two years under section 100(1)(b). The judge concluded that only the third garnishee payment on 18 December 2001 fell within the six-month period preceding the 22 March 2002 winding-up petition and declined to treat the three garnishee payments as a single transaction. The court accepted that Velstra Pte Ltd was insolvent within the statutory definition, taking into account its contingent liability for the US$36 million loan and its financial statements. The judge found that, without the assignment executed by Snauwaert on behalf of BVBA Language Development Service, Azero Investments SA would have had to pursue BVBA Language Development Service in Belgium and would not have been able to garnish Velstra Pte Ltd's Singapore bank accounts. The court held that the assignment and subsequent garnishee proceedings placed Azero Investments SA in a better position than it would otherwise have been in the event of Velstra Pte Ltd's insolvency and therefore constituted an unfair preference in respect of the third garnishee payment. The judge further found that the funds in Velstra Pte Ltd's KBC and DBS accounts were trust property and that Azero Investments SA, through its lawyers, received the third garnished sum with knowledge of the circumstances, satisfying the elements of a constructive trust. The court ordered Azero Investments SA to account to Velstra Pte Ltd for the third garnished sum of US$250,346.98 as constructive trustee, with interest and costs, while allowing Azero Investments SA to retain the earlier garnished sums obtained outside the relevant six-month period."
+    },
+    "Label": "Allowed",
+    "Leakage_Score": 2
+  }
+]

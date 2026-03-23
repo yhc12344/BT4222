@@ -1,0 +1,574 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit 103/2002",
+      "Coram": "Belinda Ang Saw Ean J",
+      "Judge": "Belinda Ang Saw Ean",
+      "Date": "2003-12-09",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Chip Thye Enterprises Pte Ltd (in liquidation)",
+      "Law_Firm": "Legal21 LLC",
+      "Counsel": [
+        "Nicholas Loh",
+        "Christopher Yong"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1973-01-20",
+          "Text": "Chip Thye Enterprises Pte Ltd was incorporated on 20 January 1973 as a family-owned company engaged in the building construction business."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1997-12-31",
+          "Text": "Chip Thye Enterprises Pte Ltd acted as the named main contractor for a condominium and bungalow development at Tanglin Hill for Capital Realty Pte Ltd, and subcontracted the entire building contract to Articon Construction Pte Ltd, with the project completed toward the end of 1997."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-12-01",
+          "Text": "Chip Thye Enterprises Pte Ltd allowed its name to be used by Articon Construction Pte Ltd to tender for the Tanglin Hill project because Articon did not have the required CIDB rating, in return for an agreed payment of $150,000 described by Phay Gi Mo as administrative expenses."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-12-01",
+          "Text": "Chip Thye Enterprises Pte Ltd provided a corporate guarantee for Articon Construction Pte Ltd's loan facility of $4.7 million to serve as working capital for the Tanglin Hill project."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-12-01",
+          "Text": "Chip Thye Enterprises Pte Ltd executed a Deed of Assignment in favour of Overseas Union Bank, assigning all its rights, title and interest in payments arising out of the Tanglin Hill project."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-02-28",
+          "Text": "As at 28 February 1998, debts owing to Chip Thye Enterprises Pte Ltd by its subsidiary Centrad Engineering Pte Ltd and related company Centrad Technology Pte Ltd totalled $515,533, representing 35.1% of Chip Thye Enterprises Pte Ltd's net assets of $1,467,721."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-02-28",
+          "Text": "As at 28 February 1999, debts owing to Chip Thye Enterprises Pte Ltd by Centrad Engineering Pte Ltd and Centrad Technology Pte Ltd totalled $859,374, representing 61.2% of Chip Thye Enterprises Pte Ltd's net assets of $1,404,969."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-02-29",
+          "Text": "As at 29 February 2000, debts owing to Chip Thye Enterprises Pte Ltd by Centrad Engineering Pte Ltd and Centrad Technology Pte Ltd totalled $890,566, representing 91.2% of Chip Thye Enterprises Pte Ltd's net assets of $976,866."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-02-28",
+          "Text": "As at 28 February 2001, debts owing to Chip Thye Enterprises Pte Ltd by Centrad Engineering Pte Ltd and Centrad Technology Pte Ltd totalled $896,266, representing 83.5% of Chip Thye Enterprises Pte Ltd's net assets of $1,073,992."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1996-02-28",
+          "Text": "In the financial statements of Chip Thye Enterprises Pte Ltd for the year ended 28 February 1996, a provision for diminution in value was made against its $600,000 investment in Centrad Engineering Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1997-02-28",
+          "Text": "In the audited financial statements of Chip Thye Enterprises Pte Ltd for the years ended 28 February 1997, 1998 and 1999, the auditors highlighted the material debts owing by Centrad Engineering Pte Ltd and Centrad Technology Pte Ltd and indicated that provisions against these debts might be necessary, and that without such provisions they were unable to form a true and fair opinion on the accounts."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1998-02-28",
+          "Text": "As at 28 February 1998, a directors' resolution later recorded that Centrad Engineering Pte Ltd had net liabilities of $936,000 or $1.56 per share."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-08-14",
+          "Text": "Centrad Technology Pte Ltd's audited accounts for the financial year ended 30 June 1997, signed by directors and auditors on 14 August 1999, showed a net deficiency of assets of $871,667 and included an auditors' note raising doubts on the company's ability to continue as a going concern without support from directors and shareholders."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-02-28",
+          "Text": "In the audited financial statements of Chip Thye Enterprises Pte Ltd for the year ended 28 February 1999, the debts owing by Centrad Engineering Pte Ltd and Centrad Technology Pte Ltd increased to $859,374 from $515,533 the previous year, after $317,000 previously booked as owing by Pey Ciew Chang was reclassified as owing by Centrad Technology Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-02-28",
+          "Text": "For the financial year ended 28 February 1999, the balance sheet of Chip Thye Enterprises Pte Ltd presented by the directors showed that current liabilities exceeded current assets by $506,952 and that audited net assets stood at $1,404,969, with cumulative losses of $95,031."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-02-29",
+          "Text": "For the financial year ended 29 February 2000, management accounts of Chip Thye Enterprises Pte Ltd showed an excess of current liabilities over current assets of $835,824 and net assets of $976,866."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-02-28",
+          "Text": "For the financial year ended 28 February 2001, management accounts of Chip Thye Enterprises Pte Ltd showed an excess of current liabilities over current assets of $9,919 and net assets of $1,073,992."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-02-28",
+          "Text": "As at 28 February 1998, Chip Thye Enterprises Pte Ltd had a bank overdraft of $505,435."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1997-02-28",
+          "Text": "Turnover of Chip Thye Enterprises Pte Ltd for the financial year ended 28 February 1997 was $10,570,503."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-02-28",
+          "Text": "Turnover of Chip Thye Enterprises Pte Ltd for the financial year ended 28 February 1998 declined to $803,209."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-02-28",
+          "Text": "For the financial years ended 28 February 1999, 29 February 2000 and 28 February 2001, Chip Thye Enterprises Pte Ltd recorded no turnover or sales."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-03-01",
+          "Text": "During the financial years ended 28 February 1999, 29 February 2000 and 28 February 2001, Chip Thye Enterprises Pte Ltd curtailed its construction business activities and did not engage in new building contractor projects."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-03-01",
+          "Text": "Around the period after 28 February 1998, Chip Thye Enterprises Pte Ltd began phasing down its construction activities and exploring new business opportunities."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1998-02-28",
+          "Text": "In the audited financial statements of Chip Thye Enterprises Pte Ltd for the year ended 28 February 1998, the value of the company's CLOB shares was written down and this written-down value remained in subsequent years' books."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-09-01",
+          "Text": "CLOB shares were suspended from trading in September 1998 by the Malaysian government and remained suspended until 3 July 2002, affecting the liquidity of Chip Thye Enterprises Pte Ltd's CLOB shareholding."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2000-06-05",
+          "Text": "On 5 June 2000, the directors and auditors of Chip Thye Enterprises Pte Ltd signed the financial statements for the year ended 28 February 1999 and approved adjustments to those accounts."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2000-06-05",
+          "Text": "On 5 June 2000, the directors of Chip Thye Enterprises Pte Ltd passed a resolution to forgive and write off a debt of $196,757.14 owed to the company by Pey Lim Cheng, describing the forgiveness as recognition of his twenty-five years of service as director and chairman."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-06-05",
+          "Text": "On 5 June 2000, Chip Thye Enterprises Pte Ltd wrote off debts totalling $44,270.30 owed by related parties, including $26,025.11 owed by Pro-8 Media Advertising Pte Ltd and P.G.M. Investment Pte Ltd, companies owned by Phay Gi Mo, Pey Lim Cheng and Pey Ciew Chang."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-06-05",
+          "Text": "On 5 June 2000, the directors of Chip Thye Enterprises Pte Ltd agreed to sell the company's Joo Chiat property and granted an option to a purchaser at a price of $1.07 million."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-06-09",
+          "Text": "On 9 June 2000, the purchaser of the Joo Chiat property exercised the option to purchase at $1.07 million."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-07-12",
+          "Text": "On 12 July 2000, the sale of the Joo Chiat property by Chip Thye Enterprises Pte Ltd at $1.07 million was completed, generating sale proceeds for the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-07-14",
+          "Text": "On 14 July 2000, Chip Thye Enterprises Pte Ltd issued cheque payments of interim dividend to its shareholders, with payment vouchers indicating that the dividend related to the financial year ended 28 February 1999."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1999-12-29",
+          "Text": "On 29 December 1999, the directors of Chip Thye Enterprises Pte Ltd declared an interim dividend of $321,900, with dividend tax vouchers indicating that the dividend was for the year ended 28 February 1999 and paid on 29 December 1999."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-04-13",
+          "Text": "On 13 April 2000, Chip Thye Enterprises Pte Ltd submitted a Section 44 statement as at 31 December 1999 to the Inland Revenue Authority of Singapore, signed by Phay Gi Mo, showing tax deducted from dividend stated as paid on 29 December 1999."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2000-06-30",
+          "Text": "On 30 June 2000, the audited accounts of Chip Thye Enterprises Pte Ltd for the year ended 28 February 1999 were laid before the shareholders in general meeting."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-09-05",
+          "Text": "On 5 September 2000, the directors of Chip Thye Enterprises Pte Ltd decided to invest $130,000 in a Thai partnership, Patinya Exin Limited Partnership, which specialised in household products, as part of an intended total investment of $150,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-10-03",
+          "Text": "On 3 October 2000, Chip Thye Enterprises Pte Ltd remitted $130,000 to Patinya Exin Limited Partnership in Thailand as an investment, with the investment recorded in the balance sheet as at 28 February 2001."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-10-31",
+          "Text": "Within about one month after the remittance of $130,000 to Patinya Exin Limited Partnership, Chip Thye Enterprises Pte Ltd instructed that the Thai partnership's operations be stopped, and no steps were taken by the company to recover the remitted amount."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-07-12",
+          "Text": "From the sale proceeds of the Joo Chiat property completed on 12 July 2000, Chip Thye Enterprises Pte Ltd made payments including the interim dividend of $321,900, a payment of $27,666.15 to Phay Gi Mo and Pey Lim Cheng, and the $130,000 remittance to Patinya Exin Limited Partnership."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-07-12",
+          "Text": "Out of the $27,666.15 paid by Chip Thye Enterprises Pte Ltd to Phay Gi Mo and Pey Lim Cheng, $20,914.88 was attributed to an amount allegedly due to Pey Lim Cheng's firm Hiap Hwa from about twenty-six years earlier, and $6,790 was described as compensation to Pey Lim Cheng."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-06-05",
+          "Text": "On 5 June 2000, when asked why the sale proceeds of the Joo Chiat property were not used to pay nominated subcontractors, Phay Gi Mo responded that the company did not pay them and questioned why its own money should be used to pay them."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2001-03-23",
+          "Text": "On 23 March 2001, a Statement of Affairs of Chip Thye Enterprises Pte Ltd was signed by Phay Gi Mo, in which the debts owing by Centrad Engineering Pte Ltd and Centrad Technology Pte Ltd were treated as bad debts and the $150,000 administrative fee from Articon was not listed as an outstanding asset."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-03-01",
+          "Text": "By March 1998, according to Phay Gi Mo, claims against Capital Realty Pte Ltd totalling approximately $3.8 million were known to Chip Thye Enterprises Pte Ltd, and the company was inclined to pay nominated subcontractors only out of amounts it receive from Capital Realty."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-07-17",
+          "Text": "On 17 July 2000, Chip Thye Enterprises Pte Ltd commenced High Court Suit No. 500 of 2000/M against Capital Realty Pte Ltd for non-payment of $1,841,602.53 allegedly due under architect's certificates C25, C26 and C27 read with C28 in respect of the Tanglin Hill project, and the proceedings were stayed for arbitration."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1996-12-01",
+          "Text": "Architect's certificates C25, C26 and C27, amounting in total to $1,903,471.73, were issued and addressed to Chip Thye Enterprises Pte Ltd between December 1996 and April 1997 in relation to the Tanglin Hill project."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-07-01",
+          "Text": "On 1 July 2000, architect's certificate C28 was issued for an overpayment by Capital Realty Pte Ltd in the sum of $61,869.20 in respect of certificates C25 to C27."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1983-01-01",
+          "Text": "Chip Thye Enterprises Pte Ltd held a 35% shareholding in Articon Construction Pte Ltd, and Pey Ciew Chang held a further 16.6% shareholding in Articon."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1983-01-01",
+          "Text": "From 1983 to 1999, Pey Ciew Chang served as a director of Articon Construction Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-02-28",
+          "Text": "In the audited financial statements of Chip Thye Enterprises Pte Ltd for the year ended 28 February 1999, no contingent liabilities relating to nominated subcontractors of the Tanglin Hill project were disclosed in the notes to the accounts, despite the winding up of Articon on 28 May 1999."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-02-28",
+          "Text": "For the financial year ended 28 February 1999, the Quick Assets test ratio for Chip Thye Enterprises Pte Ltd, as later computed by Lee Yuen Chin, was 0.29, indicating that quick assets were less than current liabilities."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-02-29",
+          "Text": "For the financial year ended 29 February 2000, the Quick Assets test ratio for Chip Thye Enterprises Pte Ltd, as later computed by Lee Yuen Chin, was 0.49."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-02-28",
+          "Text": "For the financial year ended 28 February 2001, the Quick Assets test ratio for Chip Thye Enterprises Pte Ltd, as later computed by Lee Yuen Chin, was 1.07."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-12-31",
+          "Text": "During the financial years ended 28 February 1999, 29 February 2000 and 28 February 2001, Chip Thye Enterprises Pte Ltd did not obtain fresh capital or financial support from shareholders or financial institutions to fund its operations or pay existing obligations."
+        }
+      ],
+      "Issue": "Whether, during the period from the financial year ended 28 February 1999 until the winding up on 23 March 2001, the financial condition and transactions of Chip Thye Enterprises Pte Ltd, including large related-company debts, absence of turnover, write-offs of receivables, sale of the Joo Chiat property, declaration and payment of interim dividends, and investments such as the Patinya Exin remittance, coincided with the company being unable to meet its liabilities as they fell due and with reductions of assets otherwise available to creditors.",
+      "Rule": "In company law, directors are generally manage the company so that its capital and assets remain available to meet the company's liabilities, and dividends are ordinarily payable only out of profits and not out of capital. When assessing solvency, courts may consider multiple indicators, including whether the company can meet current demands for debts already due, whether overall liabilities exceed assets, the composition and recoverability of assets, the level of current liabilities relative to current assets, and the availability of external or shareholder funding.",
+      "Application": "The financial statements and management accounts of Chip Thye Enterprises Pte Ltd for the years 1997 to 2001 show a sharp decline in turnover to zero, increasing reliance on debts from loss-making related companies, and an overdraft position. The directors approved write-offs of receivables from insiders and related entities and sold the Joo Chiat property, then used the proceeds for dividend payments, payments to directors, and an overseas investment, rather than retaining those proceeds to address existing liabilities and nominated subcontractor claims. These events, together with the absence of new capital or financing and the treatment of related-company debts as bad in the Statement of Affairs, link the company's transactional history to questions about whether its assets were preserved for creditors and whether it was able to pay debts as they fell due.",
+      "Judicial_Reasoning_Log": "The judge analysed the duties of directors when a company is insolvent or of doubtful solvency, drawing on authorities such as West Mercia Safetywear Ltd v Dodd and Kinsela v Russell Kinsela Pty Ltd, and held that when a company is insolvent the interests of creditors become paramount. The court adopted a holistic approach to insolvency, considering practical and theoretical tests, including cash flow, balance sheet, and quick assets tests, and emphasised that no single test is determinative. The judge accepted the liquidator Khoo Ho Tong's restated balance sheets, which adjusted for non-recoverable related-company debts and contingent liabilities to nominated subcontractors, and rejected the defendants' contention that there were substantial contingent assets from Capital Realty and Articon. The court found that the alleged $1,841,602.53 and $2 million claims against Capital Realty were not substantiated by the accounts, architect's certificates, or documentary evidence, and that the Deed of Assignment to OUB meant that Chip Thye had no direct right to those payments absent reassignment. The court also accepted that the $150,000 administrative fee from Articon had been paid and was not a contingent asset, and that the CLOB shares should remain at their written-down value due to lack of evidence of higher value.\n\nOn insolvency, the judge concluded that by 28 February 1999 Chip Thye's capital had effectively been eroded, with current liabilities exceeding current assets and net assets turning into a deficiency once proper provisions and contingent liabilities were recognised. The absence of turnover for three successive years, the lack of external financing or shareholder support, and the existing overdraft reinforced the conclusion that the company could not pay its debts without realising assets. The sale of the Joo Chiat property was identified as the only significant non-current asset available to satisfy creditors. The judge considered Phay Gi Mo's statement that the directors would not use the company's money to pay nominated subcontractors as indicative of their approach to unsecured creditors.\n\nThe court held that the six impugned transactions occurred while the company was insolvent. For the four transactions grouped as misapplication of funds (write-off of $196,757.14 owed by D2, write-off of $44,270.30 owed by related parties, payment of $27,666.15 to D1 and D2, and the $130,000 remittance to Patinya Exin), the judge found that these reduced assets available to creditors and were not justified by credible evidence. The explanation for the $196,757.14 write-off was inconsistent between the directors' resolution, pleadings, and oral evidence, and the timing of the write-off alongside the Joo Chiat sale suggested a personal benefit to D2. The $44,270.30 write-off benefited companies owned by D1, D2 and D4, and the unexplained balance was not accounted for. The Patinya Exin investment was entered into while the company was insolvent, terminated shortly after remittance, and no recovery efforts were made, leading the court to infer that it was not undertaken with creditors' interests in mind. The payment of $27,666.15 to D1 and D2 lacked supporting documentation, involved obscure antecedent claims, and was made from sale proceeds instead of being applied to creditors.\n\nRegarding the interim dividend of $321,900, the judge held that it was declared and paid when the company was insolvent and that dividends cannot be paid out of capital. Even assuming solvency, the court found that there were no profits, whether realised or unrealised, from which to lawfully declare the dividend. The court examined Article 115 of the company's Articles of Association and section 403(1) of the Companies Act, noting that directors who permit dividends to be paid otherwise than out of profits may be liable to replace the funds and to creditors to the extent of the unlawful distribution. The judge rejected the defendants' reliance on unrealised capital gains and the expert report of Lee Yuen Chin, finding that the proposed write-back of CLOB share provisions lacked evidential basis, that provisions against CE and CT debts were appropriate, and that the revaluation of the Joo Chiat property was retrospective and not properly reflected in the accounts. After adjusting LYC's figures to remove unsupported gains and to provide for CE's debt, the court concluded there was no capital accretion and instead a further diminution of capital, so the dividend was paid out of capital.\n\nThe judge also found that the directors had deliberately issued dividend tax vouchers and a Section 44 statement to IRAS stating that the dividend was paid on 29 December 1999, when in fact payment occurred on 14 July 2000, thereby accelerating tax refunds to shareholders. This conduct supported the conclusion that the directors acted wilfully in declaring and implementing the dividend. The court held D1 and D2 jointly and severally liable to refund the $321,900 dividend and to pay damages for breaches of directors' duties quantified at $398,693.59, with interest at 6% per annum from the date of the writ. Claims against the estate of D3 and against D4 for knowing receipt or undue preference were dismissed due to pleading deficiencies, though no costs orders were made against them. Overall, the court concluded that D1 and D2 had misapplied company funds and caused unlawful distributions while the company was insolvent, and entered judgment accordingly."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 103/2002",
+      "Coram": "Belinda Ang Saw Ean J",
+      "Judge": "Belinda Ang Saw Ean",
+      "Date": "2003-12-09",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Phay Gi Mo",
+      "Law_Firm": "Chelliah and Kiang",
+      "Counsel": [
+        "Ravi Chelliah",
+        "Lee Hwai Bin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1973-01-20",
+          "Text": "From the incorporation of Chip Thye Enterprises Pte Ltd, Phay Gi Mo served as managing director of the company and held a 33.3% share in its equity."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1973-01-20",
+          "Text": "Phay Gi Mo is the brother of Pey Lim Cheng and the uncle of Pey Ciew Chang."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "1996-12-01",
+          "Text": "Although not a director of Articon Construction Pte Ltd, Phay Gi Mo was a cheque signatory to Articon's bank account during the period of the Tanglin Hill project."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-12-01",
+          "Text": "In connection with the Tanglin Hill project, Phay Gi Mo described the $150,000 payable by Articon Construction Pte Ltd to Chip Thye Enterprises Pte Ltd as administrative expenses for the use of Chip Thye's name in the tender."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2000-06-05",
+          "Text": "On 5 June 2000, as a director of Chip Thye Enterprises Pte Ltd, Phay Gi Mo approved the write-off of a debt of $196,757.14 owed by Pey Lim Cheng to the company, recorded in a directors' resolution as recognition of Pey Lim Cheng's twenty-five years of service as director and chairman."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2000-06-05",
+          "Text": "On 5 June 2000, as a director of Chip Thye Enterprises Pte Ltd, Phay Gi Mo approved the write-off of debts totalling $44,270.30 owed by related parties, including amounts owed by Pro-8 Media Advertising Pte Ltd and P.G.M. Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1999-12-29",
+          "Text": "On 29 December 1999, as a director of Chip Thye Enterprises Pte Ltd, Phay Gi Mo participated in the declaration of an interim dividend of $321,900."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-07-12",
+          "Text": "Following completion of the sale of the Joo Chiat property on 12 July 2000, Chip Thye Enterprises Pte Ltd made a payment of $27,666.15 to Phay Gi Mo and Pey Lim Cheng, including $6,790 described as compensation to Pey Lim Cheng and $20,914.88 attributed to an amount allegedly due to Hiap Hwa from about twenty-six years earlier."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-04-13",
+          "Text": "On 13 April 2000, acting for Chip Thye Enterprises Pte Ltd, Phay Gi Mo signed and submitted to the Inland Revenue Authority of Singapore a Section 44 statement as at 31 December 1999, stating that dividend had been paid on 29 December 1999 and that tax had been deducted from that dividend."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-06-05",
+          "Text": "On 5 June 2000, when questioned about using the sale proceeds of the Joo Chiat property to pay nominated subcontractors, Phay Gi Mo responded that the company did not pay them and asked why its own money should be used to pay them."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2001-03-23",
+          "Text": "On 23 March 2001, Phay Gi Mo signed the Statement of Affairs of Chip Thye Enterprises Pte Ltd, in which debts owing by Centrad Engineering Pte Ltd and Centrad Technology Pte Ltd were treated as bad debts and the $150,000 administrative fee from Articon was not listed as an outstanding asset."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-03-01",
+          "Text": "By March 1998, according to his own account, Phay Gi Mo was aware of claims against Capital Realty Pte Ltd totalling approximately $3.8 million and indicated that Chip Thye Enterprises Pte Ltd was inclined to pay nominated subcontractors only out of amounts expected from Capital Realty."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-07-17",
+          "Text": "On 17 July 2000, acting for Chip Thye Enterprises Pte Ltd, Phay Gi Mo caused the company to commence High Court Suit No. 500 of 2000/M against Capital Realty Pte Ltd for non-payment of $1,841,602.53 under architect's certificates C25, C26 and C27 read with C28."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-06-01",
+          "Text": "In June 2000, , Phay Gi Mo agreed on behalf of Chip Thye Enterprises Pte Ltd to enter into a partnership with Patinya Exin Limited Partnership in Thailand, with an intended investment of $150,000."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-10-31",
+          "Text": "Within about one month after the remittance of $130,000 to Patinya Exin Limited Partnership, Phay Gi Mo instructed that the Thai partnership's operations be stopped and did not initiate steps to recover the remitted funds."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-12-29",
+          "Text": "Phay Gi Mo stated that he and Pey Lim Cheng declared the interim dividend on 29 December 1999 without looking at the accounts of Chip Thye Enterprises Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-12-29",
+          "Text": "Phay Gi Mo stated that as at 29 December 1999, he and Pey Lim Cheng intended to sell the Joo Chiat property to fund the interim dividend declared by Chip Thye Enterprises Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-12-01",
+          "Text": "Before the declaration of the interim dividend, Phay Gi Mo telephoned an estate agent and was told that the Joo Chiat property was worth approximately $1.8 million, and he relied on this information in relation to the dividend decision."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-02-28",
+          "Text": "During the financial years ended 28 February 1999, 29 February 2000 and 28 February 2001, Phay Gi Mo maintained that the company's cash flow was healthy until 23 March 2001, although no cash flow statements were produced by him to support this view."
+        }
+      ],
+      "Issue": "Whether, in his capacity as managing director and major shareholder of Chip Thye Enterprises Pte Ltd, Phay Gi Mo's decisions and actions in approving write-offs of receivables, declaring and implementing an interim dividend, directing the use of Joo Chiat property sale proceeds, initiating litigation against Capital Realty, and entering into and terminating the Patinya Exin investment coincided with periods when the company was unable to meet its obligations and resulted in company funds being applied in ways that reduced assets otherwise available to creditors.",
+      "Rule": "Company directors are generally manage the company's affairs so that its capital and assets are preserved for the company, to ensure that dividends are declared only out of available profits, and to consider the company's financial position, including solvency and the impact on creditors, when authorising write-offs, distributions, and investments.",
+      "Application": "As managing director, Phay Gi Mo authorised the write-off of substantial receivables owed by an insider and related entities, participated in declaring an interim dividend without reviewing the accounts, and intended to fund that dividend from the sale of the company's main property asset. He also signed a tax statement representing that the dividend had been paid in December 1999, while payment was actually made in July 2000, and directed that sale proceeds be used for dividend payments, payments to himself and another director, and an overseas investment, rather than for nominated subcontractor claims. These actions occurred against a background of no turnover, significant related-company debts, and an overdraft, linking his conduct to questions about whether company assets were preserved for creditors and whether distributions and investments were consistent with the company's financial capacity.",
+      "Judicial_Reasoning_Log": "The judge held that as managing director, D1 (Phay Gi Mo) owed duties to act in the interests of the company and, once the company was insolvent or of doubtful solvency, to have regard to the interests of creditors. The court found that the company was insolvent from the financial year ended 28 February 1999 and that D1 was aware of the company's financial difficulties, including the absence of turnover, the erosion of capital, and the existence of nominated subcontractor claims. The judge considered D1's statement that the directors would not use the company's money to pay nominated subcontractors as revealing their disregard for unsecured creditors.\n\nIn relation to the misapplication of funds, the court found that D1, together with D2, approved the write-off of $196,757.14 owed by D2 and $44,270.30 owed by related parties, authorised the payment of $27,666.15 to D1 and D2, and caused the remittance of $130,000 to Patinya Exin Limited Partnership. The explanations offered by D1 for these transactions were inconsistent or unsupported by documentation, and the auditors were not called to corroborate his account. The judge drew an adverse inference from the failure to call the auditors and concluded that these transactions were not in the interests of creditors and reduced the pool of assets available to them.\n\nOn the interim dividend, the court found that D1 and D2 declared the dividend on 29 December 1999 without examining the accounts and intended to fund it from the sale of the Joo Chiat property. The judge held that the dividend was declared and paid when the company was insolvent and that there were no profits, whether realised or unrealised, from which to lawfully declare it. The court rejected D1's reliance on an informal telephone valuation of the Joo Chiat property and on the expert report of LYC, finding that the proposed adjustments to create capital profits were artificial and unsupported. The judge also found that D1 signed and submitted a Section 44 statement to IRAS and caused dividend tax vouchers to be issued stating that the dividend was paid on 29 December 1999, when in fact payment occurred on 14 July 2000, thereby accelerating tax refunds to shareholders. This conduct was characterised as intentional and deliberate, supporting a finding that D1 wilfully permitted an unlawful dividend in contravention of section 403(1) of the Companies Act and in breach of his fiduciary duties.\n\nThe court concluded that D1 was jointly and severally liable with D2 to refund the $321,900 dividend and to pay damages of $398,693.59 for breaches of directors' duties, together with interest. The judge rejected the liquidator's separate claim regarding the $317,000 transfer of debt from D4 to Centrad Technology on the basis that the liquidator had treated the full CT debt as owed by CT in his own restated balance sheets, rendering that claim inconsistent. Overall, the reasoning emphasised D1's central role in authorising transactions that depleted company assets during insolvency and his responsibility for the unlawful dividend and misapplication of funds."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 4
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 103/2002",
+      "Coram": "Belinda Ang Saw Ean J",
+      "Judge": "Belinda Ang Saw Ean",
+      "Date": "2003-12-09",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Pey Lim Cheng",
+      "Law_Firm": "Chelliah and Kiang",
+      "Counsel": [
+        "Ravi Chelliah",
+        "Lee Hwai Bin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1973-01-20",
+          "Text": "From the incorporation of Chip Thye Enterprises Pte Ltd, Pey Lim Cheng served as chairman and director of the company and was its major shareholder with a 46.7% shareholding."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1973-01-20",
+          "Text": "Pey Lim Cheng is the brother of Phay Gi Mo and the husband of Lee Tiang Chin."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2000-06-05",
+          "Text": "On 5 June 2000, a directors' resolution of Chip Thye Enterprises Pte Ltd recorded the forgiveness and write-off of a debt of $196,757.14 owed by Pey Lim Cheng to the company, described as recognition of his twenty-five years of service as director and chairman."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-07-12",
+          "Text": "Following the sale of the Joo Chiat property on 12 July 2000, Chip Thye Enterprises Pte Ltd paid $27,666.15 to Phay Gi Mo and Pey Lim Cheng, including $20,914.88 attributed to an amount allegedly due to Pey Lim Cheng's firm Hiap Hwa from about twenty-six years earlier and $6,790 described as compensation to Pey Lim Cheng."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1999-12-29",
+          "Text": "On 29 December 1999, as a director of Chip Thye Enterprises Pte Ltd, Pey Lim Cheng participated in the declaration of an interim dividend of $321,900."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-12-29",
+          "Text": ", Pey Lim Cheng, together with Phay Gi Mo, declared the interim dividend on 29 December 1999 without reviewing the company's accounts."
+        }
+      ],
+      "Issue": "Whether, in his capacity as chairman, director and major shareholder of Chip Thye Enterprises Pte Ltd, Pey Lim Cheng's involvement in the write-off of his personal debt to the company, receipt of payments from the Joo Chiat property sale proceeds, and participation in declaring an interim dividend coincided with a period when the company was unable to meet its obligations and resulted in company funds being applied in ways that reduced assets otherwise available to creditors.",
+      "Rule": "Directors and controlling shareholders are generally avoid causing the company to forgive debts owed by them or to make distributions to them in circumstances where such actions would deplete assets needed to satisfy the company's liabilities, particularly when the company is in financial difficulty.",
+      "Application": "As chairman and major shareholder, Pey Lim Cheng benefited from the forgiveness of a substantial debt owed by him to the company and from payments made to him out of the Joo Chiat property sale proceeds, and he participated in declaring an interim dividend. These events occurred during a period when the company had no turnover, significant related-company debts, and an overdraft, linking his conduct and benefits received to questions about whether company assets were preserved for creditors and whether distributions and write-offs were appropriate given the company's financial position.",
+      "Judicial_Reasoning_Log": "The judge treated D2 (Pey Lim Cheng) as jointly responsible with D1 for the management of Chip Thye Enterprises Pte Ltd and for the impugned transactions. The court found that D2, as chairman, director and major shareholder, participated in decisions to write off his own debt of $196,757.14, to write off related-party debts of $44,270.30, to pay $27,666.15 to himself and D1 from the Joo Chiat sale proceeds, and to declare and pay an interim dividend of $321,900 while the company was insolvent. The judge noted that D2 did not testify, and accepted D1's evidence that whatever applied to D1 would equally apply to D2, drawing adverse inferences from the absence of direct evidence from D2 and from the failure to call the auditors.\n\nThe court held that the forgiveness of D2's debt was timed with the sale of the Joo Chiat property and was for D2's personal benefit without regard to unsecured creditors. The explanation for the write-off was inconsistent between the directors' resolution, pleadings, and oral evidence, and there was no reliable supporting documentation. The payment of $27,666.15, including an alleged decades-old claim by Hiap Hwa and a compensation component, was found to be obscure and unsupported. The judge concluded that these payments and write-offs reduced assets available to creditors at a time when the company was insolvent.\n\nOn the interim dividend, the court found that D2, together with D1, declared the dividend without examining the accounts and intended to fund it from the sale of the Joo Chiat property. The judge held that the dividend was unlawful because it was paid out of capital when there were no profits and the company was insolvent, and that D2, as a director, was jointly and severally liable with D1 to refund the dividend under both fiduciary principles and section 403(1) of the Companies Act. The court also held that D2, as personal representative of D3's estate, had knowledge of the unlawfulness of the dividend, but dismissed the specific knowing receipt and undue preference claims against D3 and D4 due to pleading deficiencies. Overall, the judge concluded that D2 shared responsibility with D1 for the misapplication of funds and unlawful dividend and entered judgment against him accordingly."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 103/2002",
+      "Coram": "Belinda Ang Saw Ean J",
+      "Judge": "Belinda Ang Saw Ean",
+      "Date": "2003-12-09",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Estate of Lee Tiang Chin, Deceased",
+      "Law_Firm": "Chelliah and Kiang",
+      "Counsel": [
+        "Ravi Chelliah",
+        "Lee Hwai Bin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1980-01-01",
+          "Text": "Lee Tiang Chin was the wife of Pey Lim Cheng."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1980-01-01",
+          "Text": "Prior to her death, Lee Tiang Chin held a 13.3% shareholding in Chip Thye Enterprises Pte Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2000-12-29",
+          "Text": "An interim dividend of $321,900 declared by Chip Thye Enterprises Pte Ltd on 29 December 1999 included a distribution to the shareholder interest later represented by the estate of Lee Tiang Chin."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2002-06-21",
+          "Text": "By an Order of Court dated 21 June 2002, the proceedings against the Estate of Lee Tiang Chin were allowed to continue against Pey Lim Cheng as personal representative of the estate as if he were substituted as a party."
+        }
+      ],
+      "Issue": "Whether the estate of a deceased shareholder, represented by Pey Lim Cheng, could be return dividend amounts received from Chip Thye Enterprises Pte Ltd in circumstances where the dividend was later found to have been declared and paid when the company was insolvent and without available profits.",
+      "Rule": "A recipient of company funds may, in some circumstances, be return those funds if they are shown to be part of an unlawful distribution and if the legal requirements for claims such as knowing receipt or undue preference are properly pleaded and established.",
+      "Application": "The estate of Lee Tiang Chin, through its personal representative, received a portion of the interim dividend declared by Chip Thye Enterprises Pte Ltd. Although the dividend was later determined to have been declared and paid when the company lacked profits and was insolvent, the specific legal bases for recovery from the estate, such as knowing receipt or undue preference, depended on the pleadings and proof of the estate's knowledge and role in the transaction.",
+      "Judicial_Reasoning_Log": "The judge accepted that D2, as personal representative of D3 (the estate of Lee Tiang Chin), had knowledge that the interim dividend was unlawful, given his role as director and chairman. However, the court held that the plaintiff's pleadings did not support a cause of action against D3 based on constructive trust or knowing receipt, nor was there a pleaded claim based on undue preference. In the absence of properly pleaded causes of action, the court dismissed the claim against D3 for return of its share of the dividend, notwithstanding the underlying unlawfulness of the distribution. The judge also noted that the claim against D3 overlapped with the defence of D2 and that the additional relief sought against the estate was minimal, and therefore made no order as to costs against D3."
+    },
+    "Label": "Dismissed",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 103/2002",
+      "Coram": "Belinda Ang Saw Ean J",
+      "Judge": "Belinda Ang Saw Ean",
+      "Date": "2003-12-09",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Pey Ciew Chang",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1973-01-20",
+          "Text": "Pey Ciew Chang is the son of Pey Lim Cheng and the nephew of Phay Gi Mo."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1982-01-01",
+          "Text": "From 1982 until 15 April 1994, Pey Ciew Chang served as a director of Chip Thye Enterprises Pte Ltd."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1982-01-01",
+          "Text": "During his period as director, Pey Ciew Chang held a 6.7% shareholding in Chip Thye Enterprises Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1983-01-01",
+          "Text": "Pey Ciew Chang held a 16.6% shareholding in Articon Construction Pte Ltd, in which Chip Thye Enterprises Pte Ltd also held a 35% shareholding."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1983-01-01",
+          "Text": "From 1983 to 1999, Pey Ciew Chang served as a director of Articon Construction Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "1999-02-28",
+          "Text": "In the financial statements of Chip Thye Enterprises Pte Ltd for the year ended 28 February 1999, a sum of $317,000 previously recorded as a debt owed by Pey Ciew Chang was reclassified as a debt owed by Centrad Technology Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-12-29",
+          "Text": "On 29 December 1999, an interim dividend of $321,900 declared by Chip Thye Enterprises Pte Ltd included a distribution to Pey Ciew Chang in his capacity as shareholder."
+        }
+      ],
+      "Issue": "Whether, as a former director and shareholder of Chip Thye Enterprises Pte Ltd and a shareholder and director of Articon Construction Pte Ltd, Pey Ciew Chang could be return dividend amounts or sums associated with the reclassification of a $317,000 debt in circumstances where the company was later found to have been insolvent and the dividend unlawful.",
+      "Rule": "Liability of a recipient of company funds for return of those funds generally depends on the existence of a valid legal cause of action, such as knowing receipt or undue preference, properly pleaded and supported by evidence of the recipient's knowledge and involvement in the impugned transactions.",
+      "Application": "Pey Ciew Chang received a portion of the interim dividend and was associated with a $317,000 debt that was reclassified from his name to Centrad Technology Pte Ltd. The liquidator later treated the full Centrad Technology debt as owed by that company in restated balance sheets. The question of his liability turned on whether there were properly pleaded claims and sufficient evidence that he knowingly received trust property or benefited from an undue preference.",
+      "Judicial_Reasoning_Log": "The judge considered the liquidator's claim that the transfer of the $317,000 debt from D4 (Pey Ciew Chang) to Centrad Technology was deliberate and improper, but found that the liquidator had, in his own restated balance sheets, treated the entire $409,934 owed by Centrad Technology as a debt of that company. This was held to be inconsistent with a claim that the $317,000 remained a personal debt of D4, and the court therefore rejected the claim for $317,000 against D1, D2 and D4. Regarding the interim dividend, the judge accepted that D4 received his share of the dividend but held that the pleadings did not support a cause of action against him as a constructive trustee on the ground of knowing receipt, nor was there a pleaded undue preference claim. Consequently, the claim against D4 for return of his share of the dividend failed. The court made no order as to costs in favour of or against D4, noting that although he succeeded in the outcome, he had caused wasted costs by engaging in extensive arguments on matters primarily concerning D1 and D2 rather than focusing on his own case."
+    },
+    "Label": "Dismissed",
+    "Leakage_Score": 1
+  }
+]

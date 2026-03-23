@@ -1,0 +1,540 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 502 of 2011",
+      "Coram": "Zolton Techs Singapore Pte Ltd v Tan Chew Sim (Chow Hoo Siong, third party) [2018] SGHC 160",
+      "Judge": "Lee Seiu Kin J",
+      "Date": "2018-07-12",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Zolton Techs Singapore Pte Ltd",
+      "Law_Firm": "Eldan Law LLP",
+      "Counsel": [
+        "Fong Lee Cheng Jennifer",
+        "Koh Choon Guan Daniel",
+        "Ng Jia En"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2004-01-01",
+          "Text": "Zolton Techs Singapore Pte Ltd was set up in 2004 by Chow Hoo Siong."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2004-01-01",
+          "Text": "Zolton Techs Singapore Pte Ltd carried on the business of supplying and maintaining machineries used for the production of food and beverages."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "Chow Hoo Siong was a director and 90% shareholder of Zolton Techs Singapore Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2006-10-01",
+          "Text": "Tan Chew Sim, also known as Zoanne, was appointed a director of Zolton Techs Singapore Pte Ltd sometime in October 2006."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2006-10-01",
+          "Text": "Around the time of her appointment as director in October 2006, Tan Chew Sim was shortly prior to her marriage to Chow Hoo Siong."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2011-04-01",
+          "Text": "By April 2011, the marriage between Tan Chew Sim and Chow Hoo Siong had broken down, and Tan obtained an expedited personal protection order against Chow."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2011-09-01",
+          "Text": "In September 2011, Tan Chew Sim filed for divorce from Chow Hoo Siong."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-12-01",
+          "Text": "Interim judgment for divorce between Tan Chew Sim and Chow Hoo Siong was granted in December 2013."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2016-05-01",
+          "Text": "Appeals relating to ancillary matters in the divorce proceedings between Tan Chew Sim and Chow Hoo Siong were disposed of in May 2016."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-07-01",
+          "Text": "In July 2011, Zolton Techs Singapore Pte Ltd commenced Suit No 502 of 2011 against Tan Chew Sim."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "In January 2014, Suit No 502 of 2011 was stayed pending resolution of appeals relating to the divorce between Tan Chew Sim and Chow Hoo Siong."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2008-01-01",
+          "Text": "From 2008, Zolton Techs Singapore Pte Ltd provided maintenance services to mashed potato machines used at 7-Eleven outlets, where the machines and powdered ingredients were supplied by Nestlé Singapore."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2009-01-01",
+          "Text": "In 2009, Nestlé Singapore decided to stop supplying mashed potato machines and sold its existing machines to 7-Eleven for a token sum, after which 7-Eleven needed a new supplier for replacement machines."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-01-01",
+          "Text": "By early 2009, Zolton Techs Singapore Pte Ltd had some spare parts to maintain existing mashed potato machines at 7-Eleven but it became apparent that this was not a sustainable long-term solution."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-01-01",
+          "Text": "Sometime in 2009, 7-Eleven manager Lim Jit Sing discussed with Tan Chew Sim the possibility of Zolton Techs Singapore Pte Ltd supplying new mashed potato machines to 7-Eleven."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-01-01",
+          "Text": "After the 2009 discussion with Lim Jit Sing, Tan Chew Sim spoke to Chow Hoo Siong about the business opportunity for Zolton Techs Singapore Pte Ltd to supply mashed potato machines to 7-Eleven, and Chow expressed interest for the company to take up the opportunity."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-09-30",
+          "Text": "From 2009-09-30 to 2009-10-05, employee Eric Zhou travelled to China to visit the sales offices of Bianchi, FLZD and Happy Line to source for mashed potato machines for potential supply to 7-Eleven."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2009-11-01",
+          "Text": "By November 2009, quotations for mashed potato machines had been obtained from three Chinese suppliers: Bianchi, FLZD and Happy Line."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-11-01",
+          "Text": "In November 2009, FLZD was dropped as a potential supplier because Zolton Techs Singapore Pte Ltd could not transact in the required volume."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "By January 2010, Zolton Techs Singapore Pte Ltd had insufficient spare parts in its warehouse to continue maintaining existing mashed potato machines in 7-Eleven outlets, and 7-Eleven was seeking a more permanent solution."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-04-01",
+          "Text": "In April 2010, Lim Jit Sing asked Eric Zhou to show him the new mashed potato equipment costing and catalogue urgently."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-05-26",
+          "Text": "On 2010-05-26, a meeting was held where quotations for Bianchi mashed potato machines were communicated to Lim Jit Sing, with prior approval from Chow Hoo Siong."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-05-26",
+          "Text": "After the 2010-05-26 meeting, Tan Chew Sim informed Chow Hoo Siong of Lim Jit Sing’s positive reaction, and Chow agreed that a test Bianchi machine could be ordered and asked that a formal purchase order from 7-Eleven be obtained before ordering more machines."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-01",
+          "Text": "Sometime in July 2010, Tan Chew Sim informed Lim Jit Sing that Zolton Techs Singapore Pte Ltd required a formal purchase order before proceeding with ordering mashed potato machines, and Lim asked her to arrange a demonstration of a test machine to 7-Eleven’s management."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-12",
+          "Text": "On 2010-07-12, a purchase order for 100 mashed potato machines addressed to Zolton Techs Singapore Pte Ltd was issued by 7-Eleven and sent by Lim Jit Sing to Tan Chew Sim."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-15",
+          "Text": "On or around 2010-07-15, Lim Jit Sing sent an email to Tan Chew Sim requesting Zolton Techs Singapore Pte Ltd to arrange installation and demonstration of one mashed potato machine by the following week."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-22",
+          "Text": "Sometime after the week of 2010-07-15, a Bianchi test mashed potato machine was demonstrated to 7-Eleven management, and 7-Eleven expressed concern that the Bianchi machines were too bulky for some smaller outlets."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-22",
+          "Text": "During the same period after mid-July 2010, it was observed that Nestlé mashed potato powder tended to clog in the pipes of the Bianchi machine, and Eric Zhou was asked to source for another supplier able to customise machines."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-08-01",
+          "Text": "By around August 2010, Happy Line indicated willingness to customise its mashed potato machines at no extra cost apart from the price of a mould."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-01",
+          "Text": "Around mid-2010, Tan Chew Sim discussed with Chow Hoo Siong the proposal to procure customised mashed potato machines from Happy Line for 7-Eleven."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-09-01",
+          "Text": "Between 2010-09-01 and 2011-05-01, mashed potato machines were supplied to 7-Eleven by Stellar Corporate Management Pte Ltd, a company controlled by Tan Chew Sim."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2010-09-01",
+          "Text": "From September 2010 to May 2011, new mashed potato machines supplied by Stellar Corporate Management Pte Ltd to 7-Eleven were routed through and stored in the warehouse used by Zolton Techs Singapore Pte Ltd, where technicians of Zolton Techs Singapore Pte Ltd calibrated the machines at the warehouse entrance."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-09-01",
+          "Text": "During the period from September 2010 to May 2011, employees of Zolton Techs Singapore Pte Ltd, including technicians, observed boxes of new mashed potato machines in the company’s warehouse."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-09-01",
+          "Text": "During the period from late 2010 onwards, invoices were issued by Zolton Techs Singapore Pte Ltd to 7-Eleven for maintenance work on mashed potato machines, and these invoices were signed by Chow Hoo Siong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-09-01",
+          "Text": "Zolton Techs Singapore Pte Ltd received maintenance fees from 7-Eleven for corrective work done on mashed potato machines, including machines with short serial numbers corresponding to new machines supplied via Stellar Corporate Management Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-09-01",
+          "Text": "Tan Chew Sim paid Zolton Techs Singapore Pte Ltd a sum of $1,712 as compensation for installation work on new mashed potato machines."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-05-31",
+          "Text": "On or around 2010-05-31, Chow Hoo Siong asked employee Sunny Qi to research possible Chinese suppliers of mashed potato machines and forwarded to her a quotation from Eric Zhou for FLZD machines."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-03-01",
+          "Text": "Around March 2010, Chow Hoo Siong was absent from the premises of Zolton Techs Singapore Pte Ltd for about a month due to chicken pox while spare parts for Nestlé mashed potato machines were running low and 7-Eleven was urgently requesting new machines."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-01",
+          "Text": "In July 2010, Eric Zhou sent specifications of Happy Line mashed potato machines to 7-Eleven."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-05-01",
+          "Text": "In early May 2011, Chow Hoo Siong arrived at the office of Zolton Techs Singapore Pte Ltd and was informed by staff of suspicious activity in the warehouse relating to mashed potato machines."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-04-04",
+          "Text": "On 2011-04-04, an incident occurred at the premises of Zolton Techs Singapore Pte Ltd involving a physical altercation between Tan Chew Sim and Chow Hoo Siong."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-04-04",
+          "Text": "After the incident on 2011-04-04, Tan Chew Sim did not report for work at Zolton Techs Singapore Pte Ltd from 2011-04-04 to 2011-05-09."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "In 2010, Zolton Techs Singapore Pte Ltd generated gross sales revenue, and discussions took place about paying Tan Chew Sim a performance-related bonus based on a percentage of that revenue."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "In 2010, Zolton Techs Singapore Pte Ltd paid a relatively low fixed salary to Tan Chew Sim in her role as director."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "In 2010, Zolton Techs Singapore Pte Ltd made payments towards the purchase of a personal car used by Chow Hoo Siong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "In 2010, Zolton Techs Singapore Pte Ltd made a payment of $4,399.60 towards the down-payment of a personal vehicle registered as SJV7766J used by Tan Chew Sim."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Between 2010-01-01 and 2011-05-09, a total of $12,684.48 in personal expenses, including fuel and spa and wellness charges, were incurred on a corporate credit card issued in the name of Zolton Techs Singapore Pte Ltd and used by Tan Chew Sim."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2010-01-01",
+          "Text": "During their marriage, Chow Hoo Siong and Tan Chew Sim used Zolton Techs Singapore Pte Ltd and associated companies to fund aspects of their personal lifestyles."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "During 2010, Chow Hoo Siong and Tan Chew Sim discussed that Zolton Techs Singapore Pte Ltd might pay Tan a performance incentive linked to the company’s financial results."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-01-01",
+          "Text": "In early 2010, Tan Chew Sim and Chow Hoo Siong discussed an oral arrangement under which Tan would receive a sum equivalent to 5% of Zolton Techs Singapore Pte Ltd’s gross sales revenue for 2010 as a performance incentive."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-12-02",
+          "Text": "On 2009-12-02, an internal email from address yuying.yang@chowiz.com.sg stated that Tan Chew Sim was away on leave from 2009-12-02 to 2009-12-06."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct and arrangements, Zolton Techs Singapore Pte Ltd could treat the supply of mashed potato machines to 7-Eleven, the use of its warehouse and staff, and the use of company funds and credit facilities by director Tan Chew Sim as transactions requiring repayment or compensation from her, and whether it was obliged to pay her additional remuneration and benefits.",
+      "Rule": "Under company law, directors and controlling shareholders manage corporate business opportunities, company property, and financial resources in accordance with corporate authorisations and any valid agreements. Company payments for personal expenses and use of corporate facilities may be treated as company costs, loans, remuneration, or benefits depending on prior authorisation or ratification by those with decision-making power. Entitlement to salary, notice, leave, and performance-related remuneration is determined by express or implied employment terms and any agreed incentive arrangements.",
+      "Application": "Zolton Techs Singapore Pte Ltd was controlled by two directors, one of whom held 90% of the shares. Before the dispute, the company maintained 7-Eleven’s mashed potato machines and explored supplying replacement machines, with sourcing trips, quotations, and a 100-machine purchase order addressed to the company. New machines supplied via Stellar Corporate Management Pte Ltd were routed through the company’s warehouse, calibrated by its technicians, and the company invoiced 7-Eleven for maintenance on those machines while receiving a separate payment for installation work. During the same period, the company funded a car down-payment for Tan Chew Sim, paid for a car used by Chow Hoo Siong, and bore personal expenses on a corporate credit card, while paying Tan a relatively low salary and discussing a 5% revenue-based incentive for 2010. These pre-dispute events define the factual parameters of how the company’s business opportunities, premises, staff, and funds were used and how Tan’s remuneration and benefits were structured.",
+      "Judicial_Reasoning_Log": "The court analysed whether the defendant diverted a corporate opportunity and whether any such diversion was consented to by the third party, as well as whether the defendant had to repay sums for a car down-payment and credit card expenses and whether she was entitled to salary in lieu of notice, accrued leave, and a 5% incentive bonus. The judge preferred the defendant’s evidence on the existence of an oral Mashed Potato Agreement, finding it internally consistent and corroborated by objective facts, including the open placement and calibration of 130 new machines in the plaintiff’s warehouse over several months, the lack of concealment despite CCTV coverage, and the plaintiff’s continued maintenance and invoicing for the new machines. The judge considered email patterns suggesting that the third party accessed or could access the defendant’s corporate email account and noted that the defendant did not behave surreptitiously in her communications with 7-Eleven. Testimony from Stella and Joyce corroborated the defendant’s account that the third party was concerned about Chinese suppliers’ reliability, that the defendant sought to preserve 7-Eleven’s relationship, and that she discussed using another company to supply machines while the plaintiff continued maintenance. The court concluded that the Mashed Potato Agreement existed between the only two directors, so there was no breach of fiduciary duty and no need for shareholder ratification; however, the plaintiff was entitled to quantum meruit compensation for use of its premises and labour for installation. On the $4,399.60 car payment, the court found no objective evidence that it was a loan and noted that the company also paid for the third party’s personal car, so it treated the payment as not repayable. On the $12,684.48 credit card expenses, the court accepted that there was a Marriage Agreement under which both spouses used the company as a “cash cow” for personal expenses, and held that the third party, as 90% shareholder, could and did effectively consent to or ratify such charges; arguments about domestic arrangements, consideration, and statutory invalidity were rejected as misdirected because the defendant relied on the arrangement as a defence, not as an enforceable contract. The plaintiff’s second claim was therefore dismissed. For the counterclaim, the court applied common law principles on reasonable notice in the absence of a written employment contract and held that one month’s salary in lieu of notice was reasonable, noting that the defendant’s absence from work after the 4 April 2011 altercation was not a wilful refusal to work. On accrued leave, the court found the defendant had taken trips and had not kept proper records, and it did not accept supporting evidence from Amy, so the claim for accrued leave failed. Regarding the 5% incentive, the court found the third party’s evidence inconsistent and accepted that an oral agreement for a performance bonus existed, concluding that 5% of revenue, rather than profit, was the agreed metric because a profit-based bonus would have been too small to serve as an incentive. The court dismissed the plaintiff’s claims, allowed the defendant’s counterclaim for one month’s salary in lieu of notice and a 5% incentive bonus on 2010 revenue, disallowed the accrued leave claim, and ordered quantum meruit assessment for the plaintiff’s installation services, reserving costs."
+    },
+    "Label": "Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 502 of 2011",
+      "Coram": "Zolton Techs Singapore Pte Ltd v Tan Chew Sim (Chow Hoo Siong, third party) [2018] SGHC 160",
+      "Judge": "Lee Seiu Kin J",
+      "Date": "2018-07-12",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Tan Chew Sim",
+      "Law_Firm": "Josephine Chong LLC",
+      "Counsel": [
+        "Chong Siew Nyuk Josephine",
+        "Yeo Fang Ying, Esther"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2006-10-01",
+          "Text": "Tan Chew Sim, also known as Zoanne, became associated with Zolton Techs Singapore Pte Ltd as a director sometime in October 2006."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2006-10-01",
+          "Text": "From October 2006, Tan Chew Sim held the position of director of Zolton Techs Singapore Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2006-10-01",
+          "Text": "Around the time of her appointment as director in October 2006, Tan Chew Sim was shortly prior to her marriage to fellow director and majority shareholder Chow Hoo Siong."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2011-04-01",
+          "Text": "By April 2011, the marital relationship between Tan Chew Sim and Chow Hoo Siong had deteriorated, and Tan obtained an expedited personal protection order against Chow."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2011-09-01",
+          "Text": "In September 2011, Tan Chew Sim initiated divorce proceedings against Chow Hoo Siong."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-12-01",
+          "Text": "In December 2013, interim judgment for divorce between Tan Chew Sim and Chow Hoo Siong was granted."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2016-05-01",
+          "Text": "In May 2016, appeals relating to ancillary matters in the divorce between Tan Chew Sim and Chow Hoo Siong were disposed of."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-07-01",
+          "Text": "In July 2011, Zolton Techs Singapore Pte Ltd commenced Suit No 502 of 2011 naming Tan Chew Sim as defendant."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "In January 2014, Suit No 502 of 2011 was stayed pending resolution of appeals in the divorce proceedings involving Tan Chew Sim and Chow Hoo Siong."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2008-01-01",
+          "Text": "From 2008, as a director of Zolton Techs Singapore Pte Ltd, Tan Chew Sim was involved in the company’s provision of maintenance services for mashed potato machines at 7-Eleven outlets."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-01-01",
+          "Text": "Sometime in 2009, 7-Eleven manager Lim Jit Sing discussed with Tan Chew Sim the possibility of Zolton Techs Singapore Pte Ltd supplying new mashed potato machines to 7-Eleven."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-01-01",
+          "Text": "After the 2009 discussion with Lim Jit Sing, Tan Chew Sim informed Chow Hoo Siong about the potential business opportunity for Zolton Techs Singapore Pte Ltd to supply mashed potato machines to 7-Eleven."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-09-30",
+          "Text": "From 2009-09-30 to 2009-10-05, Tan Chew Sim arranged for employee Eric Zhou to travel to China to visit the sales offices of Bianchi, FLZD and Happy Line to source mashed potato machines for potential supply to 7-Eleven."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2009-11-01",
+          "Text": "By November 2009, Tan Chew Sim and Eric Zhou had obtained quotations from Bianchi, FLZD and Happy Line for mashed potato machines."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-11-01",
+          "Text": "In November 2009, FLZD was dropped as a potential supplier because Zolton Techs Singapore Pte Ltd could not transact in the required volume."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "By January 2010, Tan Chew Sim observed that Zolton Techs Singapore Pte Ltd had insufficient spare parts to continue maintaining existing mashed potato machines in 7-Eleven outlets and that a more permanent solution was needed."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-04-01",
+          "Text": "In April 2010, Lim Jit Sing asked Eric Zhou, who was working with Tan Chew Sim, to urgently provide new equipment costing and catalogues for mashed potato machines."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-05-26",
+          "Text": "On 2010-05-26, Tan Chew Sim and Eric Zhou attended a meeting with Lim Jit Sing where quotations for Bianchi mashed potato machines were presented, with prior approval from Chow Hoo Siong."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-05-26",
+          "Text": "After the 2010-05-26 meeting, Tan Chew Sim informed Chow Hoo Siong that Lim Jit Sing reacted positively to the Bianchi proposal, and Chow agreed that a test Bianchi machine could be ordered and requested that a formal purchase order from 7-Eleven be obtained before ordering more machines."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-01",
+          "Text": "Sometime in July 2010, Tan Chew Sim told Lim Jit Sing that Zolton Techs Singapore Pte Ltd required a formal purchase order before ordering mashed potato machines, and Lim asked her to arrange a demonstration of a test machine to 7-Eleven’s management."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-12",
+          "Text": "On 2010-07-12, a purchase order for 100 mashed potato machines addressed to Zolton Techs Singapore Pte Ltd was issued by 7-Eleven and sent by Lim Jit Sing to Tan Chew Sim."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-15",
+          "Text": "On or around 2010-07-15, Lim Jit Sing emailed Tan Chew Sim requesting that Zolton Techs Singapore Pte Ltd arrange to install and demonstrate one mashed potato machine by the following week."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-22",
+          "Text": "Sometime after the week of 2010-07-15, Tan Chew Sim demonstrated a Bianchi test mashed potato machine to 7-Eleven management, during which 7-Eleven expressed concern that the machines were too bulky for some outlets and that Nestlé mashed potato powder tended to clog in the pipes."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-22",
+          "Text": "Following the Bianchi test demonstration, Tan Chew Sim asked Eric Zhou to source another supplier able to customise mashed potato machines to address size and powder flow issues."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-08-01",
+          "Text": "By around August 2010, Eric Zhou informed Tan Chew Sim that Happy Line was willing to customise its mashed potato machines at no extra cost apart from the price of a mould."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-01",
+          "Text": "Around mid-2010, Tan Chew Sim discussed with Chow Hoo Siong the proposal to procure customised mashed potato machines from Happy Line for 7-Eleven."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-09-01",
+          "Text": "Between 2010-09-01 and 2011-05-01, mashed potato machines were supplied to 7-Eleven by Stellar Corporate Management Pte Ltd, a company controlled by Tan Chew Sim."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2010-09-01",
+          "Text": "From September 2010 to May 2011, new mashed potato machines supplied by Stellar Corporate Management Pte Ltd to 7-Eleven were routed through and stored in the warehouse used by Zolton Techs Singapore Pte Ltd, where technicians of Zolton Techs Singapore Pte Ltd calibrated the machines at the warehouse entrance."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-09-01",
+          "Text": "During the period from September 2010 to May 2011, Tan Chew Sim arranged for a large number of new mashed potato machines to be delivered to and stored in the warehouse used by Zolton Techs Singapore Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-09-01",
+          "Text": "During the same period, Tan Chew Sim caused technicians of Zolton Techs Singapore Pte Ltd to calibrate new mashed potato machines at the warehouse doorway before deployment to 7-Eleven outlets."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-09-01",
+          "Text": "From late 2010 onwards, invoices were issued by Zolton Techs Singapore Pte Ltd to 7-Eleven for maintenance work on mashed potato machines, including machines with short serial numbers corresponding to new machines supplied via Stellar Corporate Management Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-09-01",
+          "Text": "Zolton Techs Singapore Pte Ltd received maintenance fees from 7-Eleven for corrective work on mashed potato machines supplied via Stellar Corporate Management Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-09-01",
+          "Text": "Tan Chew Sim paid Zolton Techs Singapore Pte Ltd a sum of $1,712 as compensation for installation work on new mashed potato machines supplied to 7-Eleven."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-01",
+          "Text": "In July 2010, Eric Zhou sent specifications of Happy Line mashed potato machines to 7-Eleven in connection with the potential supply of new machines."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-05-01",
+          "Text": "In early May 2011, after staff reported suspicious activity in the warehouse, Chow Hoo Siong confronted individuals including Stella regarding the involvement of Stellar Corporate Management Pte Ltd in supplying mashed potato machines."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-04-04",
+          "Text": "On 2011-04-04, an incident occurred at the premises of Zolton Techs Singapore Pte Ltd involving a physical altercation between Tan Chew Sim and Chow Hoo Siong."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-04-04",
+          "Text": "Following the incident on 2011-04-04, Tan Chew Sim did not report for work at Zolton Techs Singapore Pte Ltd from 2011-04-04 to 2011-05-09."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "In 2010, Zolton Techs Singapore Pte Ltd paid a relatively low fixed salary to Tan Chew Sim in her role as director."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "In 2010, Zolton Techs Singapore Pte Ltd made a payment of $4,399.60 towards the down-payment of a personal vehicle registered as SJV7766J used by Tan Chew Sim."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Between 2010-01-01 and 2011-05-09, a total of $12,684.48 in personal expenses, including fuel and spa and wellness charges, were incurred on a corporate credit card issued in the name of Zolton Techs Singapore Pte Ltd and used by Tan Chew Sim."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2010-01-01",
+          "Text": "During their marriage, Tan Chew Sim and Chow Hoo Siong used Zolton Techs Singapore Pte Ltd and associated companies to fund aspects of their personal lifestyles, including personal vehicles and living expenses."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-01-01",
+          "Text": "During the marriage, Tan Chew Sim and Chow Hoo Siong discussed an understanding that certain personal and household expenses of Tan would be charged to Zolton Techs Singapore Pte Ltd and not reclaimed from her."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "In 2010, Zolton Techs Singapore Pte Ltd generated gross sales revenue, and Tan Chew Sim and Chow Hoo Siong discussed a performance-related incentive for Tan based on a percentage of that revenue."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-01-01",
+          "Text": "In early 2010, Tan Chew Sim and Chow Hoo Siong discussed an oral arrangement under which Tan would receive a sum equivalent to 5% of Zolton Techs Singapore Pte Ltd’s gross sales revenue for 2010 as a performance incentive and as part of resolving marital disagreements."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-12-02",
+          "Text": "On 2009-12-02, an internal email from address yuying.yang@chowiz.com.sg stated that Tan Chew Sim was away on leave from 2009-12-02 to 2009-12-06."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-05-01",
+          "Text": "By May 2011, Tan Chew Sim’s employment with Zolton Techs Singapore Pte Ltd had come to an end, and she claimed one month’s salary in lieu of notice, accrued annual leave from October 2006 to May 2011, and accrued salary from 2011-05-01 to 2011-05-09."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct and arrangements, Tan Chew Sim’s use of a separate company to supply mashed potato machines to 7-Eleven, her use of Zolton Techs Singapore Pte Ltd’s warehouse, staff, and corporate credit card, and her expectations of salary, notice, leave, and a 5% revenue-based incentive were consistent with authorisations and understandings within the company and her relationship with Chow Hoo Siong.",
+      "Rule": "Company directors and employees act within the scope of corporate authorisations, shareholder and board decisions, and any agreed remuneration structures. Corporate opportunities, use of company premises and staff, and company-funded personal expenses may be permitted where there is consent or agreement from those controlling the company. Entitlement to salary in lieu of notice, accrued leave, and performance incentives is determined by express or implied employment terms and any specific oral or written agreements, assessed against the surrounding course of dealing.",
+      "Application": "Before the dispute, Tan Chew Sim, as director, developed the 7-Eleven mashed potato machine opportunity by sourcing suppliers, obtaining quotations, and securing a 100-machine purchase order addressed to Zolton Techs Singapore Pte Ltd. New machines were ultimately supplied via Stellar Corporate Management Pte Ltd, which she controlled, while the machines passed through the plaintiff’s warehouse, were calibrated by its technicians, and generated maintenance revenue for the plaintiff, with a separate payment from Tan for installation work. During her marriage to the majority shareholder, the company funded a car down-payment for her, paid for a car used by him, and bore personal expenses on a corporate credit card, while paying her a relatively low salary and discussing a 5% revenue-based incentive for 2010. These events , prior to the dispute, her operational role, use of company resources, and compensation expectations were shaped by internal arrangements with the controlling shareholder and the company’s established practices.",
+      "Judicial_Reasoning_Log": "The court evaluated whether Tan Chew Sim diverted a corporate opportunity without consent, whether she had to repay a car down-payment and credit card expenses, and whether she was entitled to salary in lieu of notice, accrued leave, and a 5% incentive bonus. The judge found that the Mashed Potato Agreement existed between Tan and Chow, the only directors, allowing Tan to fulfil 7-Eleven’s purchase order through another entity while the plaintiff continued to earn from maintenance. This conclusion was based on the open routing and calibration of 130 new machines through the plaintiff’s warehouse over seven months, visible to staff and subject to CCTV, which was inconsistent with secret diversion; email patterns suggesting Chow accessed or could access Tan’s corporate email; corroborative testimony from Stella that Tan explained Chow’s concerns about Chinese suppliers and the arrangement to use Stellar Corporate Management Pte Ltd; and Joyce’s evidence that Tan spoke candidly about using another company to avoid harming Lim’s position at 7-Eleven. The court held that, because both directors agreed, there was no breach of fiduciary duty and no need for shareholder ratification, though Tan had to compensate the plaintiff on a quantum meruit basis for use of its premises and labour for installation. On the $4,399.60 car payment, the court noted the absence of any indication on the payment voucher that it was a loan and the fact that the company also paid for Chow’s personal car, and therefore did not treat it as repayable. Regarding the $12,684.48 credit card expenses, the court accepted that there was a Marriage Agreement under which both spouses used the company as a “cash cow” for personal expenses, and that Chow, as 90% shareholder, could and did effectively consent to or ratify such charges; arguments that the arrangement was a non-binding domestic agreement, lacked consideration, or contravened the Companies Act were rejected because Tan relied on it defensively, not as an enforceable contract. The plaintiff’s second claim was dismissed. For the counterclaim, the court applied common law principles on reasonable notice in the absence of a written employment contract and held that one month’s salary in lieu of notice was reasonable, noting that Tan’s absence from work after the 4 April 2011 altercation was not a wilful refusal to work. On accrued leave, the court found that Tan had taken trips and had not kept proper records, and it did not accept supporting evidence from Amy, so the claim for accrued leave failed. On the 5% incentive, the court found Chow’s evidence inconsistent and accepted that an oral agreement for a performance bonus existed, concluding that 5% of revenue, rather than profit, was the agreed metric because a profit-based bonus would have been too small to incentivise. The court therefore dismissed the plaintiff’s claims against Tan, held that she was not liable for the sums claimed, ordered quantum meruit assessment for installation services, and allowed her counterclaim for one month’s salary in lieu of notice and a 5% bonus on 2010 revenue while rejecting her claim for accrued leave."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  }
+]

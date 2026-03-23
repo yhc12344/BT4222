@@ -1,0 +1,439 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit 832/2004",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2006-02-24",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Jenton Overseas Investment Pte Ltd",
+      "Law_Firm": "Rabi Ahmad and Co",
+      "Counsel": [
+        "Rabi Ahmad"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2001-01-01",
+          "Text": "Jenton Overseas Investment Pte Ltd is a company incorporated in Singapore and holds all the issued shares in a New Zealand incorporated company called NQF Limited, formerly known as Newmans Quality Foods Limited."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2001-01-01",
+          "Text": "Jenton Overseas Investment Pte Ltd is a wholly-owned subsidiary of Newmans Group Holdings (Pty) Ltd, a company incorporated in Australia."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-07-09",
+          "Text": "Jenton Overseas Investment Pte Ltd was placed in creditors' voluntary liquidation and Chee Yoh Chuang and Lim Lee Meng from Chio Lim & Associates were appointed as liquidators."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2001-01-01",
+          "Text": "The common shareholders of Jenton Overseas Investment Pte Ltd and NQF Limited include Wong Peng Koon and his son, Mark Wong Kuan Meng."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-01-01",
+          "Text": "Wong Peng Koon and Mark Wong Kuan Meng are solicitors practising under the name PK Wong & Associates LLC from 2004-03-01."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-02-13",
+          "Text": "On 13 February 2001, Henry George Townsing wrote to Wong Peng Koon to confirm that the Normandy Group and the CVC Group would subscribe for two million redeemable preference shares in Jenton Overseas Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2001-04-30",
+          "Text": "On 30 April 2001, the Redeemable Convertible Preference Share Agreement was executed between Jenton Overseas Investment Pte Ltd and Normandy Nominees Limited."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2001-04-30",
+          "Text": "The Redeemable Convertible Preference Share Agreement was prepared by M/s PK Wong & Advani, the predecessor of PK Wong & Associates LLC, and described Normandy Nominees Limited as a company incorporated under the laws of the Special Administrative Region of the People's Republic of China with a registered office in Hong Kong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-04-18",
+          "Text": "On 18 April 2001, Normandy Nominees Limited, through Normandy Finance & Investments Asia Ltd, paid S$250,000 to Jenton Overseas Investment Pte Ltd as part of a S$2,000,000 subscription for two million preference shares at S$1.00 per share."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-05-02",
+          "Text": "On 2 May 2001, Normandy Nominees Limited, through Normandy Finance & Investments Asia Ltd, paid the balance S$1,750,000 to Jenton Overseas Investment Pte Ltd, completing the S$2,000,000 subscription for two million preference shares."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-05-02",
+          "Text": "Out of the S$2,000,000 subscription sum received from Normandy Nominees Limited, approximately S$1,125,000 was lent by Jenton Overseas Investment Pte Ltd to NQF Limited."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2001-04-30",
+          "Text": "Under clause 6.2 of the Redeemable Convertible Preference Share Agreement, not more than S$825,000 could be used by Jenton Overseas Investment Pte Ltd to repay bank facilities and advances made to it by its members."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-04-30",
+          "Text": "Pursuant to clause 6.2 of the Redeemable Convertible Preference Share Agreement, loans from Wong Peng Koon, his son Keith Wong, Nicholas Chia and Jenton Overseas Investment Pte Ltd's bank were repaid."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-05-02",
+          "Text": "Pursuant to clause 4.2.1 of the Redeemable Convertible Preference Share Agreement, Jenton Overseas Investment Pte Ltd appointed Henry George Townsing, nominated by Normandy Nominees Limited, as a director of the company on 2 May 2001."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2002-07-08",
+          "Text": "On 8 July 2002, a loan and option agreement known as the Series 1 Agreement was executed between Newmans Group Holdings (Pty) Ltd, Jenton Overseas Investment Pte Ltd and Normandy Nominees Limited, providing that the S$2,000,000 owed to Normandy by Jenton Overseas Investment Pte Ltd was deemed repaid and treated as borrowed by Newmans Group Holdings (Pty) Ltd from Normandy."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2002-07-01",
+          "Text": "In July 2002, Newmans Group Holdings (Pty) Ltd issued a Series 2 Loan Note to its shareholders and in August 2002 called for a rights issue under the Series 2 Loan Note to which Normandy Nominees Limited subscribed for shares valued at S$431,844."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-08-01",
+          "Text": "Normandy Nominees Limited set off S$200,000 against a S$400,000 deposit it had placed with ANZ Bank as required under Recital D of the Series 1 Agreement, instead of making full cash payment of its Series 2 subscription."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2002-07-09",
+          "Text": "On 9 July 2002, Jenton Overseas Investment Pte Ltd executed a deed of debenture in favour of Newmans Group Holdings (Pty) Ltd, drafted by Mark Wong."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-07-09",
+          "Text": "The deed of debenture executed by Jenton Overseas Investment Pte Ltd in favour of Newmans Group Holdings (Pty) Ltd on 9 July 2002 was not stamped or registered with the Registry of Companies & Businesses in Singapore."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2002-09-05",
+          "Text": "On 5 September 2002, Jenton Overseas Investment Pte Ltd executed a charge in favour of Normandy Nominees Limited, referred to as the Jenton charge, which was registered with the Registry of Companies & Businesses in Singapore."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2003-03-12",
+          "Text": "On 12 March 2003, solicitors for Chye Seng Tannery Private Ltd sent a letter of demand to Jenton Overseas Investment Pte Ltd for repayment of a loan."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-06-23",
+          "Text": "On 23 June 2004, Chye Seng Tannery Private Ltd obtained default judgment in Suit No 480 of 2004 against Jenton Overseas Investment Pte Ltd in the sum of S$1,150,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-01-01",
+          "Text": "As at 2004, Jenton Overseas Investment Pte Ltd was indebted to a director of Chye Seng Tannery Private Ltd, Tay Thiam Song, in the sum of S$488,664 and to Wong Peng Koon in the sum of S$99,058 for interest paid on Chye Seng's loan."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-07-09",
+          "Text": "On 9 July 2004, in his capacity as corporate representative of Newmans Group Holdings (Pty) Ltd, Henry George Townsing passed a special resolution to liquidate Jenton Overseas Investment Pte Ltd and, at a creditors' meeting on the same day, a committee of inspection including Wong Peng Koon and Henry George Townsing was appointed."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-07-14",
+          "Text": "On 14 July 2004, the liquidators of Jenton Overseas Investment Pte Ltd demanded payment of S$4,452,284 from NQF Limited, stated as owed to Jenton Overseas Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-07-19",
+          "Text": "On 19 July 2004, Wong Peng Koon wrote to Westpac Bank to notify the bank of the appointment of liquidators of Jenton Overseas Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-07-22",
+          "Text": "On 22 July 2004, the liquidators of Jenton Overseas Investment Pte Ltd adopted a resolution confirming that Wong Peng Koon and Mark Wong had not resigned as directors of NQF Limited and that they were reappointed as directors with immediate effect, and the registered address of Jenton Overseas Investment Pte Ltd was changed."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-07-27",
+          "Text": "On 27 July 2004, a meeting of the committee of inspection of Jenton Overseas Investment Pte Ltd was held in Singapore, attended by Wong Peng Koon and a representative of Chye Seng Tannery Private Ltd, with Henry George Townsing participating via teleconference from Australia."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-08-02",
+          "Text": "On 2 August 2004, the liquidators of Jenton Overseas Investment Pte Ltd passed a special resolution on its behalf to liquidate NQF Limited and appointed Anthony John McCullagh as liquidator of NQF Limited."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2002-08-22",
+          "Text": "On 22 August 2002, PK Wong & Advani rendered a bill to Newmans Group Holdings (Pty) Ltd for Mark Wong's services relating to drafting the Jenton debenture, the Series 1 Agreement and the Series 2 Loan Note, and issuing notices to shareholders for an extraordinary general meeting to approve the Series 1 Agreement and monitoring the subscription for the Series 2 Loan Note."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-01-01",
+          "Text": "For the financial year 2001, Jenton Overseas Investment Pte Ltd recorded a loss of S$53,535 and accumulated losses of S$132,470."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-12-31",
+          "Text": "For the financial year 2002, Jenton Overseas Investment Pte Ltd recorded a loss of S$322,259 and accumulated losses of S$454,729."
+        }
+      ],
+      "Issue": "Whether payments and security arrangements involving the assets of Jenton Overseas Investment Pte Ltd and its subsidiary NQF Limited, including the transfer of sale proceeds from NQF Limited, resulted in Jenton Overseas Investment Pte Ltd not retaining funds to meet its recorded debts to creditors.",
+      "Rule": "A company director is act honestly and with reasonable diligence in managing the company and to avoid using company property or information to cause detriment to the company or to place one creditor in a better position than others in the period leading up to insolvency, where statutory provisions on director conduct and avoidance of preferential transactions apply.",
+      "Application": "Jenton Overseas Investment Pte Ltd received S$2,000,000 from Normandy Nominees Limited, lent approximately S$1,125,000 to NQF Limited, and used up to S$825,000 to repay member and bank advances. Later, Jenton Overseas Investment Pte Ltd became indebted in recorded amounts to Chye Seng Tannery Private Ltd, Tay Thiam Song and Wong Peng Koon, and its 2001 and 2002 accounts showed increasing losses and accumulated deficits. Security documents, including the Jenton debenture and Jenton charge, were executed in favour of Newmans Group Holdings (Pty) Ltd and Normandy Nominees Limited, with the Jenton debenture remaining unstamped and unregistered. In 2004, NQF Limited sold its operating assets and business, and the liquidators of Jenton Overseas Investment Pte Ltd subsequently demanded S$4,452,284 from NQF Limited as owed to Jenton Overseas Investment Pte Ltd. These events created a situation in which the handling of NQF Limited's sale proceeds and the operation of the charges and debentures affected the availability of funds to satisfy Jenton Overseas Investment Pte Ltd's recorded creditor claims.",
+      "Judicial_Reasoning_Log": "The court analysed the Series 1 Agreement, Series 2 Loan Note, NQF charge, Jenton charge, Jenton debenture and NQF debenture to determine whether NQF Limited and Jenton Overseas Investment Pte Ltd were indebted to Normandy Nominees Limited or whether only Newmans Group Holdings (Pty) Ltd owed the debt. It held that NQF Limited was not a party to the Series 1 Agreement or Series 2 Loan Note and that Recital A and clause 1.1(c) of the NQF charge limited the secured moneys to sums directly owed by NQF Limited to Normandy Nominees Limited. The court rejected reliance on clause 4.3 of Schedule 2 to the Series 1 Agreement as binding NQF Limited and Jenton Overseas Investment Pte Ltd to secure Newmans Group Holdings (Pty) Ltd's debt, and applied the contra proferentem rule and the parol evidence rule to construe ambiguities against Normandy Nominees Limited. It found that the S$2,000,000 loan under the Series 1 Agreement was satisfied by set-off against the S$2,000,000 already paid under the RCPS Agreement, resulting in no net indebtedness from Newmans Group Holdings (Pty) Ltd to Normandy Nominees Limited and rendering the consideration for the NGH charge illusory or non-existent. The court treated Normandy Nominees Limited's application in the New Zealand proceedings for a determination of the NQF charge as inconsistent with a confident assertion of its validity. It held that no moneys were owed by NQF Limited to Normandy Nominees Limited that justified the defendant's transfer of NZ$2,707,300 from the Tauranga account to the Auckland account and then to Buddle Findlay's trust account and Normandy Finance & Investments Limited (UK). The court found that the defendant's actions were motivated by loyalty to Normandy Nominees Limited and a desire to recoup its investment, rather than by the interests of NQF Limited or Jenton Overseas Investment Pte Ltd, and that he acted without informing or obtaining consent from the other directors. Applying section 157 of the Companies Act and the Charterbridge test as adopted in Intraco Ltd v Multi-Pak Singapore Pte Ltd, the court concluded that an intelligent and honest director could not reasonably have believed that diverting the bulk of NQF Limited's sale proceeds to Normandy Nominees Limited was for the benefit of NQF Limited or Jenton Overseas Investment Pte Ltd. The court held that the defendant breached his statutory duties under section 157(1) and his fiduciary duties at common law. On undue preference, the court applied section 329 of the Companies Act together with sections 99 and 100 of the Bankruptcy Act and the Companies (Application of Bankruptcy Act Provisions) Regulations. It found that Normandy Nominees Limited was a creditor within section 99(3)(a), that the defendant was an associate of Normandy Nominees Limited as an employee under section 101(4) and regulation 2, and that the payments of NZ$985,246 and NZ$1,692,054 on 4 and 18 June 2004 placed Normandy Nominees Limited in a better position than it would have been in the liquidation of NQF Limited and Jenton Overseas Investment Pte Ltd. The court held that these payments were made within six months of the commencement of winding up and constituted unfair preferences void or voidable under section 329 of the Companies Act and section 100(1)(c) of the Bankruptcy Act. It also held that the Deed of Rectification dated 17 June 2004 was void or voidable at the option of the liquidators as part of the preference scheme. On the misdescription issue, the court accepted expert evidence that misstatement of Normandy Nominees Limited's place of incorporation as Hong Kong rather than the British Virgin Islands did not invalidate the charges or agreements, distinguishing cases on non-existent companies and misnomer. The court rejected the allegation that the defendant controlled Normandy Nominees Limited or Normandy Finance & Investments Limited (UK), finding that investment decisions were made by a committee including other individuals. Ultimately, the court concluded that the defendant's conduct in arranging and executing the transfers of NZ$2,677,303 from NQF Limited's Tauranga account to Normandy-related entities breached his duties and resulted in undue preference, and it entered judgment for Jenton Overseas Investment Pte Ltd for NZ$2,677,303 with interest at 6% per annum from 4 June 2004 and awarded costs on a standard basis."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 832/2004",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2006-02-24",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Townsing Henry George",
+      "Law_Firm": "Drew and Napier LLC",
+      "Counsel": [
+        "Cavinder Bull",
+        "Chia Voon Jiet",
+        "Lim Wei Lee"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2001-01-01",
+          "Text": "Henry George Townsing is an Australian individual."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-01-01",
+          "Text": "At the material time, Henry George Townsing was a director of Newmans Group Holdings (Pty) Ltd, Jenton Overseas Investment Pte Ltd and NQF Limited."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1995-01-01",
+          "Text": "Henry George Townsing was a director of Normandy Nominees Limited between 1995 and 1998."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-01-01",
+          "Text": "Henry George Townsing, together with Daud Yunus, acted as a representative of Normandy Nominees Limited."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-01-01",
+          "Text": "Henry George Townsing is a director of Normandy Finance & Investments Asia Ltd, a wholly-owned subsidiary of Normandy Finance & Investments Limited in the United Kingdom."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2001-01-01",
+          "Text": "The principal activity of the Normandy Group, comprising Normandy Nominees Limited, Normandy Finance & Investments Asia Ltd and Normandy Finance & Investments Limited, is to invest in unlisted companies."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2000-11-01",
+          "Text": "In late 2000, Daud Yunus and John Sharman informed Henry George Townsing of a possible investment opportunity in a New Zealand food manufacturing company for the Normandy Group and the CVC Group."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2000-12-01",
+          "Text": "Before late 2000, Daud Yunus had been introduced to Wong Peng Koon and then to Nicholas Chia, the managing director of NQF Limited."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2001-01-01",
+          "Text": "Subsequently, Daud Yunus introduced Henry George Townsing to Wong Peng Koon and Mark Wong, who were the chairman and director respectively of Jenton Overseas Investment Pte Ltd and NQF Limited, and also introduced Nicholas Chia to Henry George Townsing."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-01-01",
+          "Text": "Daud Yunus negotiated with Wong Peng Koon and Mark Wong on behalf of the Normandy Group and the CVC Group regarding a potential investment in Jenton Overseas Investment Pte Ltd and NQF Limited."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2001-02-13",
+          "Text": "On 13 February 2001, Henry George Townsing wrote to Wong Peng Koon confirming that the Normandy Group and the CVC Group would subscribe for two million redeemable preference shares in Jenton Overseas Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-05-02",
+          "Text": "On 2 May 2001, Henry George Townsing became a director of Jenton Overseas Investment Pte Ltd as Normandy Nominees Limited's nominee pursuant to clause 4.2.1 of the Redeemable Convertible Preference Share Agreement."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-05-10",
+          "Text": "On 10 May 2001, Henry George Townsing informed ANZ Bank that NQF Limited was not in a position to repay NZ$3,000,000 that Nicholas Chia had indicated would be repaid using funds invested by Normandy Nominees Limited."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-05-15",
+          "Text": "At the request of Normandy Nominees Limited, Nicholas Chia was removed from all positions in Jenton Overseas Investment Pte Ltd and NQF Limited, and at Henry George Townsing's suggestion, Ian Greenyer and John Sharman were retained by NQF Limited as consultants to assist in turning the company around."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2001-05-16",
+          "Text": "On 16 May 2001, Henry George Townsing emailed Daud Yunus, Ian Greenyer and John Sharman stating that the terms of the Redeemable Convertible Preference Shares would have to be renegotiated and the investment in Jenton Overseas Investment Pte Ltd and NQF Limited restructured."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-08-21",
+          "Text": "On 21 August 2001, Newmans Group Holdings (Pty) Ltd was incorporated in Australia to facilitate the restructuring of Normandy Nominees Limited's investment, and the shareholders of Jenton Overseas Investment Pte Ltd transferred all their shares to Newmans Group Holdings (Pty) Ltd in exchange for an equal number of shares in Newmans Group Holdings (Pty) Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-07-08",
+          "Text": "On 8 July 2002, Henry George Townsing participated in the execution of the Series 1 Agreement between Newmans Group Holdings (Pty) Ltd, Jenton Overseas Investment Pte Ltd and Normandy Nominees Limited, which treated the S$2,000,000 previously owed by Jenton Overseas Investment Pte Ltd to Normandy Nominees Limited as a loan from Normandy Nominees Limited to Newmans Group Holdings (Pty) Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-07-08",
+          "Text": "On 8 July 2002, Newmans Group Holdings (Pty) Ltd executed a charge in favour of Normandy Nominees Limited, referred to as the NGH charge, to secure moneys owed to Normandy Nominees Limited following the assignment under the Series 1 Agreement."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-08-22",
+          "Text": "On 22 August 2002, at Henry George Townsing's request, NQF Limited executed a charge in favour of Normandy Nominees Limited, referred to as the NQF charge, which was registered in New Zealand."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-01-15",
+          "Text": "In January 2003, Henry George Townsing and Mark Wong signed a Deed of Subordination and Priority on behalf of NQF Limited with ASB Bank, subordinating Normandy Nominees Limited's rights under the NQF charge to those of ASB Bank as security for a refinancing package."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-04-15",
+          "Text": "In April 2003, NQF Limited agreed to sell its operating assets and business, and John Sharman, on behalf of CVC Venture Managers Pty Ltd, was appointed to assist in the sale."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-07-15",
+          "Text": "In July 2003, Henry George Townsing presented Wong Peng Koon and Mark Wong with a draft deed of rectification to amend the Series 1 Agreement and Series 2 Loan Note, which they declined to sign at that time."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2003-08-28",
+          "Text": "On 28 August 2003, Normandy Nominees Limited demanded payment of S$240,404 as interest for loans extended under the Series 1 Agreement and Series 2 Loan Note."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2003-08-29",
+          "Text": "On 29 August 2003, Jenton Overseas Investment Pte Ltd and NQF Limited each wrote to Normandy Nominees Limited disputing liability for the demanded interest."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2003-10-09",
+          "Text": "On 9 October 2003, NQF Limited signed an option with Delmaine Fine Foods Limited to sell all its operating assets and business for NZ$3,737,500, with a down payment of NZ$20,000."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2004-05-13",
+          "Text": "On 13 May 2004, NQF Limited and Delmaine Fine Foods Limited signed a sale and purchase agreement for NQF Limited's operating assets and business, with NZ$2,950,000 payable on or before 28 May 2004 and NZ$787,500 payable on or before 31 May 2005."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-05-12",
+          "Text": "On 12 May 2004, NQF Limited opened a bank account with Westpac Bank in Tauranga, referred to as the Tauranga account, and its managing director arranged for Wong Peng Koon and Henry George Townsing to be joint signatories."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-05-11",
+          "Text": "On 11 May 2004, Wong Peng Koon emailed Henry George Townsing proposing a division of the sale proceeds from Delmaine Fine Foods Limited, suggesting that Normandy Nominees Limited recover its capital and forgo interest, that approximately S$1,000,000 be left with Jenton Overseas Investment Pte Ltd to satisfy debts to Tay Thiam Song and Chye Seng Tannery Private Ltd, and that S$2,600,000 be available for Normandy Nominees Limited to satisfy loans to Newmans Group Holdings (Pty) Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-05-14",
+          "Text": "On 14 May 2004, Normandy Nominees Limited demanded payment of interest totalling S$336,750 from Newmans Group Holdings (Pty) Ltd, Jenton Overseas Investment Pte Ltd and NQF Limited, directing that payment be made into Normandy Finance & Investments Asia Ltd's bank account with HSBC Singapore."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2004-05-19",
+          "Text": "On 19 May 2004, Henry George Townsing wrote on behalf of Normandy Nominees Limited to Kelvin Chia Partnership, instructing the firm to review draft resolutions to remove the existing directors of Jenton Overseas Investment Pte Ltd except himself, appoint a new secretary and director, change its registered office, and to review a resolution appointing him as Jenton Overseas Investment Pte Ltd's corporate representative to the NQF Limited board."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-05-19",
+          "Text": "On 19 May 2004, Henry George Townsing wrote to Leow Quek Shiong of Chio Lim on behalf of Normandy Nominees Limited, outlining a proposal to secure repayment of money owed to Normandy Nominees Limited by a holding company and a trading company, and referring to the appointment of a receiver and a provisional liquidator."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-05-25",
+          "Text": "On 25 May 2004, Henry George Townsing arranged for the appointment of Cheryl Kwan as secretary of Jenton Overseas Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-05-28",
+          "Text": "On 28 May 2004, Henry George Townsing arranged for the appointment of Marimmal d/o Odiyappin as a director of Jenton Overseas Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2004-06-04",
+          "Text": "On 4 June 2004, Henry George Townsing appeared at Westpac Bank in Auckland and presented three shareholders' resolutions of NQF Limited dated 4 June 2004, signed by himself, removing Wong Peng Koon and Mark Wong as directors and changing the registered office to Buddle Findlay, removing Wong Peng Koon as joint signatory of the Tauranga account and making himself sole signatory, and establishing a cash management account with Westpac Bank in Auckland with himself as sole signatory."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2004-06-04",
+          "Text": "On 4 June 2004, Henry George Townsing presented two cheques in favour of NQF Limited for NZ$2,000,000 and NZ$707,300 and instructed Westpac Bank to transfer a total of NZ$2,707,300 from the Tauranga account to the newly established Auckland account."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2004-06-04",
+          "Text": "On 4 June 2004, Henry George Townsing provided Westpac Bank with a document titled 'Newmans Quality Foods Limited Application of Sale Proceeds 4 June 2004' instructing the bank to transfer NZ$985,246 from the Auckland account to Buddle Findlay's trust account and NZ$1,692,054 to Normandy Finance & Investments Limited (UK)."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-06-04",
+          "Text": "On 4 June 2004, Westpac Bank transferred NZ$985,246 from NQF Limited's Auckland account to Buddle Findlay's trust account and NZ$1,692,054 to Normandy Finance & Investments Limited (UK) in accordance with Henry George Townsing's instructions."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-06-04",
+          "Text": "On 4 June 2004, Andrew Rowan and Ronald Bentley Brown of Bentleys MRI were appointed as receivers and managers of Newmans Group Holdings (Pty) Ltd by Normandy Nominees Limited pursuant to the NGH charge, and they wrote to Wong Peng Koon on 7 June 2004 to advise him of their appointment and request a report as to affairs."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-06-04",
+          "Text": "On 4 June 2004, acting through resolutions passed at an extraordinary general meeting, Andrew Rowan and Ronald Bentley Brown purported to act for the shareholders of Jenton Overseas Investment Pte Ltd by appointing Henry George Townsing as its corporate representative, removing four existing directors including Wong Peng Koon, Mark Wong, Ooi Chooi Lean and Tay Kiong Pang, and appointing Marimmal d/o Odiyappin as a director."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-06-07",
+          "Text": "On 7 June 2004, Henry George Townsing and Marimmal passed a directors' resolution removing Rebecca Chung as secretary of Jenton Overseas Investment Pte Ltd, appointing Cheryl Kwan in her place, and changing the registered address of Jenton Overseas Investment Pte Ltd from the office of PK Wong & Advani to Peace Centre #05-34."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-06-18",
+          "Text": "On 18 June 2004, following letters from Henry George Townsing written on behalf of Jenton Overseas Investment Pte Ltd and NQF Limited, Buddle Findlay transferred NZ$985,246 from its trust account to Normandy Finance & Investments Limited (UK)."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2004-06-17",
+          "Text": "On 17 June 2004, a Deed of Rectification was signed by Henry George Townsing on behalf of NQF Limited, by Daud Yunus on behalf of Normandy Nominees Limited, and by Deryk Rowan Andrew as receiver of Newmans Group Holdings (Pty) Ltd, to amend the Series 1 Agreement and Series 2 Loan Note."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-07-09",
+          "Text": "On 9 July 2004, as corporate representative of Newmans Group Holdings (Pty) Ltd, Henry George Townsing passed a special resolution to liquidate Jenton Overseas Investment Pte Ltd and participated in the appointment of a committee of inspection including himself and Wong Peng Koon."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-07-27",
+          "Text": "At the committee of inspection meeting on 27 July 2004, Henry George Townsing stated that he had transferred approximately 95% of the funds from the Tauranga account and that about NZ$25,000 remained."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-10-08",
+          "Text": "On 8 October 2004, Wong Peng Koon, as chairman of Newmans Group Holdings (Pty) Ltd, lodged a complaint with the Australian Securities and Exchange Commission against Henry George Townsing, Andrew Rowan, Ronald Bentley Brown and David Perry, and lodged a separate complaint against David Perry with the Auckland District Law Society."
+        }
+      ],
+      "Issue": "Whether Henry George Townsing's handling of NQF Limited's sale proceeds, including the transfer of NZ$2,707,300 from the Tauranga account to accounts associated with Buddle Findlay and Normandy Finance & Investments Limited (UK), and his use of corporate resolutions and charges, resulted in Normandy-related entities receiving payment ahead of other creditors of Jenton Overseas Investment Pte Ltd and NQF Limited.",
+      "Rule": "A director who manages company assets in the period leading up to insolvency must act in the interests of the company and its body of creditors as a whole, and statutory provisions on director conduct and avoidance of preferential transactions restrict actions that place one creditor in a better position than others through payments or security enforcement shortly before liquidation.",
+      "Application": "Henry George Townsing held directorships in Newmans Group Holdings (Pty) Ltd, Jenton Overseas Investment Pte Ltd and NQF Limited while also holding positions within the Normandy Group. After NQF Limited agreed to sell its operating assets and business to Delmaine Fine Foods Limited for NZ$3,737,500, NQF Limited opened the Tauranga account with Westpac Bank with joint signatories including Henry George Townsing and Wong Peng Koon. On 4 June 2004, Henry George Townsing arranged for resolutions removing the Wongs as directors of NQF Limited, changing its registered office, removing Wong Peng Koon as joint signatory of the Tauranga account, and establishing an Auckland account with himself as sole signatory. He then instructed Westpac Bank to transfer NZ$2,707,300 from the Tauranga account to the Auckland account and directed that NZ$985,246 be transferred to Buddle Findlay's trust account and NZ$1,692,054 to Normandy Finance & Investments Limited (UK). These transfers occurred after Normandy Nominees Limited had issued interest demands under the Series 1 Agreement and Series 2 Loan Note and after security documents including the NGH charge, NQF charge and Jenton charge had been executed. At the time, Jenton Overseas Investment Pte Ltd had recorded debts to Chye Seng Tannery Private Ltd, Tay Thiam Song and Wong Peng Koon, and NQF Limited's financial statements showed continuing losses and negative equity. The sequence of resolutions, account changes and fund transfers resulted in Normandy-related entities receiving substantial sums from NQF Limited's sale proceeds before other recorded creditors of Jenton Overseas Investment Pte Ltd and NQF Limited were paid.",
+      "Judicial_Reasoning_Log": "The court considered whether Henry George Townsing, as a director of Jenton Overseas Investment Pte Ltd and NQF Limited and as a representative of the Normandy Group, breached his statutory and fiduciary duties by orchestrating the transfer of NZ$2,707,300 from NQF Limited's Tauranga account to Normandy-related entities. It examined the Series 1 Agreement, Series 2 Loan Note, NGH charge, NQF charge, Jenton charge, Jenton debenture and NQF debenture to determine whether NQF Limited and Jenton Overseas Investment Pte Ltd were legally indebted to Normandy Nominees Limited. The court held that NQF Limited was not a party to the Series 1 Agreement or Series 2 Loan Note and that Recital A and clause 1.1(c) of the NQF charge limited the secured moneys to sums owed directly by NQF Limited to Normandy Nominees Limited. It rejected the argument that clause 4.3 of Schedule 2 to the Series 1 Agreement created a binding obligation on NQF Limited and Jenton Overseas Investment Pte Ltd to secure Newmans Group Holdings (Pty) Ltd's debt, and applied the contra proferentem rule and the parol evidence rule to construe ambiguities against Normandy Nominees Limited. The court found that the S$2,000,000 loan under the Series 1 Agreement was satisfied by set-off against the S$2,000,000 already paid under the RCPS Agreement, resulting in no net indebtedness from Newmans Group Holdings (Pty) Ltd to Normandy Nominees Limited and rendering the consideration for the NGH charge illusory or non-existent. It treated Normandy Nominees Limited's application in the New Zealand proceedings for a determination of the NQF charge as evidence that its position on the charge's effect was uncertain. The court concluded that no moneys were owed by NQF Limited to Normandy Nominees Limited that justified Henry George Townsing's transfer of NZ$1,692,054 to Normandy Finance & Investments Limited (UK) and NZ$985,246 via Buddle Findlay. Applying section 157 of the Companies Act and the Charterbridge test as adopted in Intraco Ltd v Multi-Pak Singapore Pte Ltd, the court held that an intelligent and honest director could not reasonably have believed that diverting the bulk of NQF Limited's sale proceeds to Normandy Nominees Limited was for the benefit of NQF Limited or Jenton Overseas Investment Pte Ltd. It found that Henry George Townsing's actions were driven by loyalty to Normandy Nominees Limited and a desire to recoup its investment, rather than by the interests of the Newmans Group companies, and that he acted without informing or obtaining consent from the other directors. The court held that he breached his statutory duties under section 157(1) and his fiduciary duties at common law. On undue preference, the court applied section 329 of the Companies Act together with sections 99 and 100 of the Bankruptcy Act and the Companies (Application of Bankruptcy Act Provisions) Regulations. It found that Normandy Nominees Limited was a creditor within section 99(3)(a), that Henry George Townsing was an associate of Normandy Nominees Limited as an employee under section 101(4) and regulation 2, and that the payments of NZ$985,246 and NZ$1,692,054 on 4 and 18 June 2004 placed Normandy Nominees Limited in a better position than it would have been in the liquidation of NQF Limited and Jenton Overseas Investment Pte Ltd. The court held that these payments were made within six months of the commencement of winding up and constituted unfair preferences void or voidable under section 329 of the Companies Act and section 100(1)(c) of the Bankruptcy Act. It also held that the Deed of Rectification dated 17 June 2004, executed after the transfers, could not retrospectively justify the payments and was itself void or voidable at the option of the liquidators. The court rejected the defence that Henry George Townsing relied on legal advice from Rajah & Tann and Kelvin Chia Partnership, noting that no evidence from those firms was adduced and that the advice sought related primarily to the Jenton charge and corporate resolutions rather than to the lawfulness of the fund transfers. It also rejected the contention that Normandy Nominees Limited would have been entitled to a similar proportion of the sale proceeds on a pari passu basis, holding that the allocation of proceeds among creditors was a matter for the liquidators and not for Henry George Townsing to determine unilaterally. The court further held that the misdescription of Normandy Nominees Limited's place of incorporation as Hong Kong rather than the British Virgin Islands did not invalidate the relevant documents, distinguishing cases on non-existent companies and misnomer. It found that Henry George Townsing did not control Normandy Nominees Limited or Normandy Finance & Investments Limited (UK), but that this did not affect the analysis of his duties as a director of the Newmans Group companies. The court entered judgment against Henry George Townsing for NZ$2,677,303 with interest at 6% per annum from 4 June 2004 and awarded costs to Jenton Overseas Investment Pte Ltd on a standard basis."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  }
+]

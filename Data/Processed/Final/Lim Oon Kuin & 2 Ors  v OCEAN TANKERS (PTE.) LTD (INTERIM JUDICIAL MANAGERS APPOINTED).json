@@ -1,0 +1,375 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 29 of 2021; Suit No 630 of 2020",
+      "Coram": "Andrew Phang Boon Leong JCA and Tay Yong Kwang JCA",
+      "Judge": "Andrew Phang Boon Leong JCA",
+      "Date": "2021-10-28",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Ocean Tankers (Pte) Ltd",
+      "Law_Firm": "K&L Gates Straits Law LLC",
+      "Counsel": [
+        "Narayanan Sreenivasan SC",
+        "Rajaram Muralli Raja",
+        "Arias Lim Jie",
+        "Lim Wei Liang Jason",
+        "Ranita Yogeeswaran"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2020-01-01",
+          "Text": "Ocean Tankers (Pte) Ltd is a ship charterer and ship-management company operating a fleet of vessels and was incorporated in Singapore."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2020-01-01",
+          "Text": "Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd are sister companies."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-03",
+          "Text": "Ocean Tankers (Pte) Ltd made a payment of US$15.02 million from its Bank of America account to a Deutsche Bank account in the joint names of Lim Oon Kuin and Lim Huey Ching."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-13",
+          "Text": "Ocean Tankers (Pte) Ltd made a payment of US$4 million from its Bank of America account to a Maybank account in the name of Lim Chee Meng Evan."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-03",
+          "Text": "The payments of US$15.02 million and US$4 million were made from accounts of Ocean Tankers (Pte) Ltd to bank accounts related to members of the Lim family."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-04-03",
+          "Text": "At the time of the payments in April 2020, the sole directors of Ocean Tankers (Pte) Ltd were Lim Oon Kuin, Lim Huey Ching and Lim Chee Meng Evan."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-04-03",
+          "Text": "At the time of the payments in April 2020, the shareholders of Ocean Tankers (Pte) Ltd included Lim Oon Kuin and Lim Huey Ching."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-03",
+          "Text": "The payments of US$15.02 million and US$4 million from Ocean Tankers (Pte) Ltd were approved on both occasions by Lim Chee Meng Evan and Lim Huey Ching."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-17",
+          "Text": "Ocean Tankers (Pte) Ltd filed an application in HC/OS 406/2020 on 17 April 2020 seeking interim moratorium relief under section 211B of the Companies Act to prevent, among other things, legal proceedings from being commenced against the company without leave of court."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2020-04-17",
+          "Text": "Affidavits were filed in support of Ocean Tankers (Pte) Ltd's application for interim moratorium relief in HC/OS 406/2020 describing the financial position of the company and its related company Hin Leong Trading (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-17",
+          "Text": "Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd filed applications on 17 April 2020 seeking interim moratorium relief under section 211B of the Companies Act."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-17",
+          "Text": "Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd filed applications HC/OS 452/2020 and HC/OS 417/2020 to place the companies under judicial management."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2020-04-17",
+          "Text": "Affidavits filed in support of the judicial management applications for Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd described the companies as unable or likely to become unable to pay their debts and set out grounds for judicial management."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2020-02-29",
+          "Text": "As at 29 February 2020, intercompany receivables of about US$185,054,244 were owed by Hin Leong Trading (Pte) Ltd to Ocean Tankers (Pte) Ltd, and these receivables were the single largest debt owed to Ocean Tankers (Pte) Ltd based on its balance sheet."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2020-04-17",
+          "Text": "An affidavit filed for Ocean Tankers (Pte) Ltd's interim moratorium application stated that Ocean Tankers (Pte) Ltd had approximately US$58,501,604 in liabilities to trade creditors, excluding potential liabilities arising from bills of lading issued by Ocean Tankers (Pte) Ltd in respect of trades entered into by Hin Leong Trading (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2020-04-17",
+          "Text": "Affidavits filed in April 2020 described that Hin Leong Trading (Pte) Ltd had liabilities of about US$4.05 billion and that its financial difficulties had impacted Ocean Tankers (Pte) Ltd heavily."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-17",
+          "Text": "Affidavits filed in April 2020 for the moratorium and judicial management applications described a proposed debt restructuring plan for Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd involving raising additional capital through debt financing, sale of assets, and injection of cash and assets by investors and the Lim family, and schemes of arrangement for the debts of both companies."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-17",
+          "Text": "The proposed restructuring plan for Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd contemplated disposing non-core assets, procuring further banking facilities, converting part of existing debt into long-term debt, writing off unsustainable debt, and restructuring or rescheduling sustainable debt."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-08",
+          "Text": "On 8 April 2020, lawyers from Rajah & Tann Singapore LLP met with representatives of Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd to discuss restructuring of the companies and their related entities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-05",
+          "Text": "Between 5 April 2020 and 17 April 2020, the Lim family discussed with Rajah & Tann Singapore LLP the restructuring of Hin Leong Trading (Pte) Ltd, Ocean Tankers (Pte) Ltd and related companies, with a focus on Hin Leong Trading (Pte) Ltd's liquidity issues."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2019-12-31",
+          "Text": "Between the end of 2019 and 31 March 2020, there was a collapse in oil prices that placed a strain on the liquidity of Hin Leong Trading (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2020-03-31",
+          "Text": "By 31 March 2020, bank lenders had withdrawn or reduced credit lines to Hin Leong Trading (Pte) Ltd as a result of decisions to reduce exposure to or exit the commodity trading market."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2020-03-31",
+          "Text": "Hin Leong Trading (Pte) Ltd's financial statements did not reflect about US$800 million in futures losses that it had sustained over time."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-03-31",
+          "Text": "Ocean Tankers (Pte) Ltd's operations and those of Hin Leong Trading (Pte) Ltd were severely disrupted by the COVID-19 pandemic, resulting in a significant decrease in demand for oil and bunkers."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-03-31",
+          "Text": "Ocean Tankers (Pte) Ltd discharged cargo carried for Hin Leong Trading (Pte) Ltd on the basis of letters of indemnity issued by Hin Leong Trading (Pte) Ltd to Ocean Tankers (Pte) Ltd rather than to the holders of the bills of lading, while the holders remained unpaid."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2020-03-31",
+          "Text": "Affidavits filed in April 2020 described potential contingent exposure of up to approximately US$2.67 billion for Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd arising from cargoes discharged on letters of indemnity and inventory stored in floating storage units that were conflicting claims by holders of bills of lading."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2020-03-31",
+          "Text": "As at 31 March 2020, shareholder loans from Lim Oon Kuin to Ocean Tankers (Pte) Ltd amounted to approximately US$225 million and were recorded as unsecured and interest-free loans."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-03-31",
+          "Text": "Over the years up to 31 March 2020, Lim Oon Kuin provided unsecured and interest-free loans to Ocean Tankers (Pte) Ltd, which were recorded as shareholder loans."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-03-31",
+          "Text": "Ocean Tankers (Pte) Ltd had a practice of discharging cargoes on letters of indemnity from Hin Leong Trading (Pte) Ltd, and its auditors were aware of this practice."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2020-03-31",
+          "Text": "Audited financial statements of Ocean Tankers (Pte) Ltd did not include specific disclosure of potential exposure arising from cargoes discharged on letters of indemnity from Hin Leong Trading (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-01",
+          "Text": "Before mid-April 2020, the Lim family and their advisers considered a restructuring plan for Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd that involved schemes of arrangement with creditors."
+        }
+      ],
+      "Issue": "Whether payments made by Ocean Tankers (Pte) Ltd in April 2020 from its accounts to bank accounts related to its directors and shareholders should be reversed or compensated for, in light of the financial condition of Ocean Tankers (Pte) Ltd and its related company at the time of the payments.",
+      "Rule": "Directors of a company are manage the company's affairs in a manner that takes into account the company's financial position and the interests associated with the company when the company is in serious financial difficulty or close to insolvency, including preserving the company's assets for the benefit of those with interests in the company.",
+      "Application": "Ocean Tankers (Pte) Ltd made two payments in April 2020 totaling US$19.02 million from its Bank of America account to bank accounts in the names of its directors and shareholders at a time when affidavits filed shortly thereafter described substantial liabilities, large intercompany receivables from Hin Leong Trading (Pte) Ltd, significant contingent exposures related to cargoes and floating storage inventory, and a group-wide restructuring plan involving raising liquidity and restructuring debts. These circumstances provide the factual context for assessing whether the April 2020 payments from Ocean Tankers (Pte) Ltd to related-party bank accounts are consistent with the expected management of company assets when the company and its related entity are in serious financial difficulty.",
+      "Judicial_Reasoning_Log": "The court described the appeal as stemming from the financial troubles of Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd and noted that interim judicial managers uncovered the April 2020 payments after internal investigations. The High Court judge granted summary judgment to Ocean Tankers (Pte) Ltd on the basis of a prima facie case of breach of fiduciary duties and a failure by the Lim family to raise a bona fide defence. On appeal, the Court of Appeal agreed that Ocean Tankers (Pte) Ltd had demonstrated on a prima facie basis that the payments were made when the company was insolvent or near insolvent, or at least in a parlous financial position, and that the Lim family had breached fiduciary duties owed to the company. The court relied heavily on admissions in affidavits filed for interim moratorium and judicial management applications, which detailed Hin Leong Trading (Pte) Ltd's US$4.05 billion liabilities, the impact of Hin Leong Trading (Pte) Ltd's financial woes on Ocean Tankers (Pte) Ltd, Ocean Tankers (Pte) Ltd's trade liabilities of about US$58.5 million, and contingent exposures of up to US$2.67 billion arising from cargoes discharged on letters of indemnity and floating storage inventory. The court held that these affidavits showed that both companies were in a parlous financial state at the time of the payments and that the Lim family knew of the mounting financial problems. The court rejected attempts by the Lim family to distance Ocean Tankers (Pte) Ltd from Hin Leong Trading (Pte) Ltd's difficulties, to rely on potential unsecured loans from related entities, and to rely on an expert report prepared in November 2020 to reconstruct the balance sheet. The court considered the expert report to be an ex post facto attempt to create a defence inconsistent with earlier sworn admissions. The court concluded that there was no bona fide defence to the claim and that summary judgment was appropriate. The appeal was dismissed, and the court ordered costs against the Lim family on an indemnity basis under Order 59 rule 27 of the Rules of Court, finding that the appeal was conducted unreasonably, with arguments that were irreconcilable with contemporaneous documents and that amounted to wasteful and duplicative litigation."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 29 of 2021; Suit No 630 of 2020",
+      "Coram": "Andrew Phang Boon Leong JCA and Tay Yong Kwang JCA",
+      "Judge": "Andrew Phang Boon Leong JCA",
+      "Date": "2021-10-28",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lim Oon Kuin",
+      "Law_Firm": "Davinder Singh Chambers LLC",
+      "Counsel": [
+        "Davinder Singh s/o Amar Singh SC",
+        "Jaikanth Shankar",
+        "Lo Ying Xi John",
+        "Gerald Paul Seah Yong Sing"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-04-03",
+          "Text": "On 3 April 2020, Lim Oon Kuin was a sole director of Ocean Tankers (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-04-03",
+          "Text": "On 3 April 2020, Lim Oon Kuin was a shareholder of Ocean Tankers (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-01-01",
+          "Text": "Lim Oon Kuin was a director of Hin Leong Trading (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-03",
+          "Text": "On 3 April 2020, a payment of US$15.02 million from Ocean Tankers (Pte) Ltd's Bank of America account was made to a Deutsche Bank account held jointly in the names of Lim Oon Kuin and Lim Huey Ching."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2020-03-31",
+          "Text": "As at 31 March 2020, unsecured and interest-free shareholder loans provided by Lim Oon Kuin to Ocean Tankers (Pte) Ltd amounted to approximately US$225 million."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-03-31",
+          "Text": "Over the years up to 31 March 2020, Lim Oon Kuin provided unsecured and interest-free loans to Ocean Tankers (Pte) Ltd, which were recorded as shareholder loans."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-03-31",
+          "Text": "Instructions were given by Lim Oon Kuin that approximately US$800 million in futures losses sustained by Hin Leong Trading (Pte) Ltd over time were not to be reflected in Hin Leong Trading (Pte) Ltd's financial statements."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-03-31",
+          "Text": "Lim Oon Kuin gave instructions that cargo carried by Ocean Tankers (Pte) Ltd for Hin Leong Trading (Pte) Ltd be discharged on the basis of letters of indemnity issued by Hin Leong Trading (Pte) Ltd to Ocean Tankers (Pte) Ltd rather than to the holders of the bills of lading, while the holders remained unpaid."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2020-04-17",
+          "Text": "On 17 April 2020, Lim Oon Kuin filed an affidavit in HC/OS 405/2020 in support of Hin Leong Trading (Pte) Ltd's application for interim moratorium relief under section 211B of the Companies Act, describing Hin Leong Trading (Pte) Ltd's financial position and liabilities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-17",
+          "Text": "On 17 April 2020, Lim Oon Kuin participated in applications for interim moratorium relief and judicial management for Hin Leong Trading (Pte) Ltd and Ocean Tankers (Pte) Ltd, supported by affidavits describing the financial difficulties of the companies."
+        }
+      ],
+      "Issue": "Whether payments from Ocean Tankers (Pte) Ltd to a bank account jointly held by Lim Oon Kuin and a family member in April 2020, and the handling of group finances and cargo transactions, should result in personal responsibility for the final outcome of the claim.",
+      "Rule": "Individuals who are directors and shareholders of a company are legal standards that assess their management of company assets and transactions with related parties when the company is in serious financial difficulty or close to insolvency.",
+      "Application": "Lim Oon Kuin was a director and shareholder of Ocean Tankers (Pte) Ltd and a director of Hin Leong Trading (Pte) Ltd at the time when Ocean Tankers (Pte) Ltd made a US$15.02 million payment to a Deutsche Bank account jointly held by him and a family member. He had provided substantial unsecured and interest-free loans to Ocean Tankers (Pte) Ltd, and instructions were given under his direction regarding the non-recording of significant futures losses in Hin Leong Trading (Pte) Ltd's financial statements and the discharge of cargoes on letters of indemnity while bill of lading holders remained unpaid. Shortly after the payments, he filed affidavits supporting interim moratorium and judicial management applications that described extensive liabilities and financial difficulties of the group. These facts form the basis for assessing his conduct under the applicable legal standards for directors and shareholders in a distressed company.",
+      "Judicial_Reasoning_Log": "The court treated Lim Oon Kuin as one of the three directors responsible for procuring the April 2020 payments from Ocean Tankers (Pte) Ltd to related-party accounts. The High Court judge and the Court of Appeal concluded that the payments were made when Ocean Tankers (Pte) Ltd was insolvent or near insolvent and that the directors, including Lim Oon Kuin, breached fiduciary duties by causing the company to make the payments to themselves or related parties instead of preserving assets for creditors. The court relied on Lim Oon Kuin's sworn admissions in the moratorium and judicial management affidavits, including acknowledgments of Hin Leong Trading (Pte) Ltd's multi-billion-dollar liabilities, the impact on Ocean Tankers (Pte) Ltd, and contingent exposures arising from cargoes and floating storage inventory. The court noted that the contingent liabilities were linked to his own instructions regarding cargo discharges and non-recording of futures losses. Attempts by Lim Oon Kuin to resile from these admissions and to rely on an expert report reconstructing the balance sheet were rejected as inconsistent with contemporaneous documents and as an attempt to create a defence where none existed. The court held that there was no bona fide defence and upheld summary judgment against him, with indemnity costs ordered due to the unreasonable conduct of the appeal."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 29 of 2021; Suit No 630 of 2020",
+      "Coram": "Andrew Phang Boon Leong JCA and Tay Yong Kwang JCA",
+      "Judge": "Andrew Phang Boon Leong JCA",
+      "Date": "2021-10-28",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lim Huey Ching",
+      "Law_Firm": "Davinder Singh Chambers LLC",
+      "Counsel": [
+        "Davinder Singh s/o Amar Singh SC",
+        "Jaikanth Shankar",
+        "Lo Ying Xi John",
+        "Gerald Paul Seah Yong Sing"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-04-03",
+          "Text": "On 3 April 2020, Lim Huey Ching was a sole director of Ocean Tankers (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-04-03",
+          "Text": "On 3 April 2020, Lim Huey Ching was a shareholder of Ocean Tankers (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-03",
+          "Text": "On 3 April 2020, a payment of US$15.02 million from Ocean Tankers (Pte) Ltd's Bank of America account was made to a Deutsche Bank account held jointly in the names of Lim Oon Kuin and Lim Huey Ching."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-03",
+          "Text": "On 3 April 2020 and 13 April 2020, Lim Huey Ching approved payments of US$15.02 million and US$4 million from Ocean Tankers (Pte) Ltd's Bank of America account to bank accounts related to members of the Lim family."
+        }
+      ],
+      "Issue": "Whether payments from Ocean Tankers (Pte) Ltd to a joint bank account held by Lim Huey Ching and a family member, and her approval of payments to related-party accounts in April 2020, should result in personal responsibility for the final outcome of the claim.",
+      "Rule": "Directors and shareholders who approve or receive company payments to related-party accounts when the company is in serious financial difficulty or close to insolvency are assessed under legal standards governing management of company assets and related-party transactions.",
+      "Application": "Lim Huey Ching was a director and shareholder of Ocean Tankers (Pte) Ltd at the time when Ocean Tankers (Pte) Ltd made a US$15.02 million payment to a Deutsche Bank account jointly held by her and Lim Oon Kuin and a US$4 million payment to a Maybank account in the name of Lim Chee Meng Evan. She approved both payments. These payments occurred shortly before affidavits were filed describing substantial liabilities, large intercompany receivables, and contingent exposures affecting Ocean Tankers (Pte) Ltd and its related company. These facts form the basis for assessing her conduct under the applicable legal standards for directors and shareholders in a distressed company.",
+      "Judicial_Reasoning_Log": "The court treated Lim Huey Ching as one of the three directors responsible for procuring and approving the April 2020 payments from Ocean Tankers (Pte) Ltd to related-party accounts. The High Court judge and the Court of Appeal concluded that the payments were made when Ocean Tankers (Pte) Ltd was insolvent or near insolvent and that the directors, including Lim Huey Ching, breached fiduciary duties by causing the company to make payments to themselves or related parties instead of preserving assets for creditors. The court noted that she approved both payments and was a joint holder of the Deutsche Bank account that received US$15.02 million. The court relied on the group-wide financial admissions in the moratorium and judicial management affidavits and rejected the Lim family's attempts to argue that Ocean Tankers (Pte) Ltd was solvent or insulated from Hin Leong Trading (Pte) Ltd's difficulties. The court held that there was no bona fide defence and upheld summary judgment against her, with indemnity costs ordered due to the unreasonable conduct of the appeal."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 29 of 2021; Suit No 630 of 2020",
+      "Coram": "Andrew Phang Boon Leong JCA and Tay Yong Kwang JCA",
+      "Judge": "Andrew Phang Boon Leong JCA",
+      "Date": "2021-10-28",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lim Chee Meng Evan",
+      "Law_Firm": "Davinder Singh Chambers LLC",
+      "Counsel": [
+        "Davinder Singh s/o Amar Singh SC",
+        "Jaikanth Shankar",
+        "Lo Ying Xi John",
+        "Gerald Paul Seah Yong Sing"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-04-03",
+          "Text": "On 3 April 2020, Lim Chee Meng Evan was a sole director of Ocean Tankers (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-13",
+          "Text": "On 13 April 2020, a payment of US$4 million from Ocean Tankers (Pte) Ltd's Bank of America account was made to a Maybank account in the name of Lim Chee Meng Evan."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-03",
+          "Text": "On 3 April 2020 and 13 April 2020, Lim Chee Meng Evan approved payments of US$15.02 million and US$4 million from Ocean Tankers (Pte) Ltd's Bank of America account to bank accounts related to members of the Lim family."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2020-04-17",
+          "Text": "On 17 April 2020, Lim Chee Meng Evan filed an affidavit in HC/OS 406/2020 in support of Ocean Tankers (Pte) Ltd's application for interim moratorium relief under section 211B of the Companies Act, describing Ocean Tankers (Pte) Ltd's financial position and liabilities."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2020-04-17",
+          "Text": "Lim Chee Meng Evan filed affidavits in support of the judicial management applications HC/OS 452/2020 and HC/OS 417/2020 for Ocean Tankers (Pte) Ltd and Hin Leong Trading (Pte) Ltd, setting out grounds that the companies were unable or likely to become unable to pay their debts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-17",
+          "Text": "In affidavits filed in April 2020, Lim Chee Meng Evan stated that Hin Leong Trading (Pte) Ltd's financial difficulties had impacted Ocean Tankers (Pte) Ltd heavily and provided figures for Ocean Tankers (Pte) Ltd's trade liabilities and potential liabilities from bills of lading."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-05",
+          "Text": "Between 5 April 2020 and 17 April 2020, Lim Chee Meng Evan participated in discussions with Rajah & Tann Singapore LLP about restructuring Hin Leong Trading (Pte) Ltd, Ocean Tankers (Pte) Ltd and related companies, focusing on Hin Leong Trading (Pte) Ltd's liquidity issues."
+        }
+      ],
+      "Issue": "Whether payments from Ocean Tankers (Pte) Ltd to a bank account in the name of Lim Chee Meng Evan, and his approval of payments and participation in restructuring and moratorium applications in April 2020, should result in personal responsibility for the final outcome of the claim.",
+      "Rule": "Directors who approve and receive company payments to related-party accounts and who participate in restructuring and moratorium processes when the company is in serious financial difficulty or close to insolvency are assessed under legal standards governing management of company assets and related-party transactions.",
+      "Application": "Lim Chee Meng Evan was a director of Ocean Tankers (Pte) Ltd at the time when Ocean Tankers (Pte) Ltd made a US$4 million payment to a Maybank account in his name and a US$15.02 million payment to a joint account of family members. He approved both payments. Shortly thereafter, he filed affidavits supporting interim moratorium and judicial management applications that described Ocean Tankers (Pte) Ltd's trade liabilities, potential liabilities from bills of lading, and the impact of Hin Leong Trading (Pte) Ltd's financial difficulties on Ocean Tankers (Pte) Ltd. He also participated in group restructuring discussions with legal advisers. These facts form the basis for assessing his conduct under the applicable legal standards for directors in a distressed company.",
+      "Judicial_Reasoning_Log": "The court treated Lim Chee Meng Evan as one of the three directors responsible for procuring and approving the April 2020 payments from Ocean Tankers (Pte) Ltd to related-party accounts, including a US$4 million payment to his own Maybank account. The High Court judge and the Court of Appeal concluded that the payments were made when Ocean Tankers (Pte) Ltd was insolvent or near insolvent and that the directors, including Lim Chee Meng Evan, breached fiduciary duties by causing the company to make payments to themselves or related parties instead of preserving assets for creditors. The court relied on his affidavits in the moratorium and judicial management applications, which acknowledged that Hin Leong Trading (Pte) Ltd's financial woes had heavily impacted Ocean Tankers (Pte) Ltd and set out Ocean Tankers (Pte) Ltd's liabilities and potential exposures. The court rejected his attempts to argue that Ocean Tankers (Pte) Ltd was solvent, to rely on potential unsecured loans from related entities, and to rely on an expert report reconstructing the balance sheet. The court held that there was no bona fide defence and upheld summary judgment against him, with indemnity costs ordered due to the unreasonable conduct of the appeal."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  }
+]

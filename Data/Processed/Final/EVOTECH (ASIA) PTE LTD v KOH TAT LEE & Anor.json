@@ -1,0 +1,394 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 1242 of 2016",
+      "Coram": "Kannan Ramesh J",
+      "Judge": "Kannan Ramesh",
+      "Date": "2018-11-20",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Evotech (Asia) Pte Ltd",
+      "Law_Firm": "AbrahamLow LLC",
+      "Counsel": [
+        "Leng Siew Wei Aloysius",
+        "Jonathan Tan Yi Wen",
+        "Koh Jian Ying",
+        "Sarah Phang Shih Min"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2018-01-01",
+          "Text": "Evotech (Asia) Pte Ltd is a company incorporated in Singapore engaged in the business of installation of industrial machinery and mechanical engineering works."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "Evotech (Asia) Pte Ltd is wholly owned by Black Sand International (Singapore) Pte Ltd, which is in turn wholly owned by Black Sand Enterprises Limited."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "Black Sand International (Singapore) Pte Ltd is incorporated in Singapore and Black Sand Enterprises Limited is incorporated in Hong Kong."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "The ultimate holding company of the corporate group that includes Evotech (Asia) Pte Ltd is Union Asia Enterprise Holdings Limited, formerly known as Pan Asia Mining Ltd, a company incorporated in the Cayman Islands and listed in Hong Kong."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-03-31",
+          "Text": "As at 31 March 2016, Union Asia Enterprise Holdings Limited recorded in its 2016 Annual Report an amount of HK$92,831,000 described as owing to Kesterion Investments Limited."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-03-31",
+          "Text": "As at 31 March 2016, Union Asia Enterprise Holdings Limited was recorded as indebted to Kesterion Investments Limited in the sum of HK$92,855,948, while Evotech (Asia) Pte Ltd itself did not have any recorded indebtedness to Kesterion Investments Limited."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2016-05-20",
+          "Text": "On 20 May 2016, Evotech (Asia) Pte Ltd appointed Ms Yip Man Yi and Mr Titus Shiu Chi Tak as directors of the company."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2016-05-23",
+          "Text": "On 23 May 2016, Evotech (Asia) Pte Ltd removed Koh Tat Lee and Lily Bey Lay Lay from their positions as directors of the company."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2016-05-23",
+          "Text": "On 23 May 2016, Evotech (Asia) Pte Ltd appointed Mr Thomas Au Siu Yung as a director of the company."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-05-30",
+          "Text": "On 30 May 2016, Evotech (Asia) Pte Ltd sent letters and faxes addressed to Koh Tat Lee and Lily Bey Lay Lay notifying them that they had been removed as directors on 23 May 2016."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-25",
+          "Text": "On 25 May 2016, Evotech (Asia) Pte Ltd made a payment of S$1,400,000 to Kesterion Investments Limited from proceeds realised from the surrender of its leasehold property at 42 Gul Circle Singapore 629577 to Jurong Town Corporation."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-25",
+          "Text": "On 25 May 2016, Evotech (Asia) Pte Ltd made a payment of S$135,000 to Yew Eng Piow from proceeds realised from the surrender of its leasehold property at 42 Gul Circle Singapore 629577 to Jurong Town Corporation."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-26",
+          "Text": "On 26 May 2016, Evotech (Asia) Pte Ltd made a payment of S$300,000 to Koh Tat Lee from proceeds realised from the surrender of its leasehold property at 42 Gul Circle Singapore 629577 to Jurong Town Corporation."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-26",
+          "Text": "On 26 May 2016, Evotech (Asia) Pte Ltd made a payment of S$250,000 to Yao Jun from proceeds realised from the surrender of its leasehold property at 42 Gul Circle Singapore 629577 to Jurong Town Corporation."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-31",
+          "Text": "On 31 May 2016, Evotech (Asia) Pte Ltd made a payment of S$200,000 to Kesterion Investments Limited from proceeds realised from the surrender of its leasehold property at 42 Gul Circle Singapore 629577 to Jurong Town Corporation."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-07-21",
+          "Text": "On 21 July 2016, Evotech (Asia) Pte Ltd made a payment of US$500,000 to Yao Jun."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-08-01",
+          "Text": "On 1 August 2016, Evotech (Asia) Pte Ltd made a payment of US$570,000 to Kesterion Investments Limited."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-06-24",
+          "Text": "On 24 June 2016, Union Asia Enterprise Holdings Limited and Kesterion Investments Limited signed a letter extending the maturity date of the HK$92,855,948 indebtedness from 19 November 2016 to 19 November 2017."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-08-31",
+          "Text": "In or around late August 2016, auditors reviewing the records of Union Asia Enterprise Holdings Limited identified books and vouchers stating that payments totalling S$2,805,127 had been made to Kesterion Investments Limited."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-09-29",
+          "Text": "On 29 September 2016, Union Asia Enterprise Holdings Limited sent an email to Ms Eva Wong attaching a letter signed by Ms Yip Man Yi requesting Kesterion Investments Limited to acknowledge receipt of S$2,805,127 described as repayment of a loan."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-10-04",
+          "Text": "On 4 October 2016, Ms Eva Wong replied by email asking for the identity of the sender and for a breakdown of the S$2,805,127 sum referred to in the 29 September 2016 letter."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-07-01",
+          "Text": "In July 2016, an internal audit or internal control review of Evotech (Asia) Pte Ltd was conducted."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-16",
+          "Text": "In May 2016, Evotech (Asia) Pte Ltd surrendered its leasehold property at 42 Gul Circle Singapore 629577 to Jurong Town Corporation and realised proceeds that were later used to fund several payments to Kesterion Investments Limited, Koh Tat Lee, Yao Jun and Yew Eng Piow."
+        }
+      ],
+      "Issue": "Whether payments made by Evotech (Asia) Pte Ltd in May, July and August 2016 to Kesterion Investments Limited, Koh Tat Lee, Yao Jun and Yew Eng Piow after the removal of Koh Tat Lee and Lily Bey Lay Lay from the board were authorised corporate transactions made for Evotech (Asia) Pte Ltd and whether Evotech (Asia) Pte Ltd was pay further salary and housing allowance to Koh Tat Lee for a period after 28 September 2016.",
+      "Rule": "Company directors and individuals acting in the position of directors are act in the interests of the company, to avoid undisclosed conflicts between their personal or related-party interests and the company’s interests, and to obtain proper corporate approval for significant transactions, especially those involving related parties or use of company funds to satisfy obligations of other entities. An employer may terminate an employment contract by giving the contractually specified notice or by paying salary in lieu of notice, and an employee who does not perform work during the notice period is generally not entitled to salary for that period unless otherwise agreed.",
+      "Application": "Evotech (Asia) Pte Ltd is part of a corporate group ultimately controlled by Union Asia Enterprise Holdings Limited. In May 2016, Evotech (Asia) Pte Ltd removed Koh Tat Lee and Lily Bey Lay Lay from its board and appointed new directors, while also realising cash from surrendering its leasehold property at 42 Gul Circle. Shortly before and after the removal date, Evotech (Asia) Pte Ltd made large payments from these proceeds to Kesterion Investments Limited, a company controlled by the spouse of Koh Tat Lee, to Koh Tat Lee personally, to Yao Jun in connection with matters involving Aquaterra China Trading (Shanghai) Company Limited, and to Yew Eng Piow, a long-time associate of Koh Tat Lee. Union Asia Enterprise Holdings Limited, not Evotech (Asia) Pte Ltd, recorded a substantial debt to Kesterion Investments Limited and later extended the maturity of that debt. The payments from Evotech (Asia) Pte Ltd were not recorded as discharging any indebtedness of Evotech (Asia) Pte Ltd to Kesterion Investments Limited, and there were no contemporaneous board resolutions of Evotech (Asia) Pte Ltd approving these transfers. After 28 September 2016, Evotech (Asia) Pte Ltd issued a termination notice to Koh Tat Lee, and he did not attend work during the notice period while seeking additional salary and housing allowance.",
+      "Judicial_Reasoning_Log": "The judge analysed the timing of the seven payments relative to the date on which the defendants became aware of their removal as directors, drawing a bright line at 1 June 2016. The court accepted that the defendants only learned of their removal on 1 June 2016, so the May payments were made when they believed they were still directors, while the July and August payments were made when they knew they no longer had authority. The court held that for the July and August payments, the defendants could not rely on ignorance of removal and that they acted without authority. For the May payments, the court found that the defendants did not seek ratification from the new board after learning of their removal, which raised serious questions about their bona fides.\n\nThe court rejected the existence of the alleged Verbal Agreement under which the first defendant claimed he was to deliver a \"clean shell\" group to new owners. The judge noted the absence of any documentary evidence, the lack of board approval at Union Asia Enterprise Holdings Limited, the unusual use of intermediaries without direct contact between the parties, the failure to call the intermediaries or new owners as witnesses, and contradictions with other witnesses' evidence. The court concluded that the Verbal Agreement was not proven and treated it as a fabrication. As a result, the explanation that payments to Kesterion were made pursuant to this agreement was disbelieved.\n\nThe judge found that none of the payments to Kesterion or Yao Jun discharged any indebtedness of Evotech (Asia) Pte Ltd, as the acknowledged debt was owed by Union Asia Enterprise Holdings Limited to Kesterion. The court did not accept that the payment to Yew represented repayment of a genuine loan to Evotech (Asia) Pte Ltd, pointing to the absence of loan records, correspondence indicating the amount was to be charged to Kesterion, and the implausibility of the alleged arrangement. Regarding the S$300,000 payment to the first defendant, the court found the defendants' explanations inconsistent and shifting, including unpleaded assertions about assignments of debt and conflicting accounts of whether the sum related to loans to Evotech (Asia) Pte Ltd, Black Sand International (Singapore) Pte Ltd, or Kesterion. The judge held that the defendants' case on these points lacked credibility.\n\nOn the group-interest argument, the court accepted that directors may consider group interests but emphasised that they must not sacrifice the interests of the specific company whose affairs they manage. Citing Intraco and Equiticorp, the judge reiterated that the test remains whether an honest and intelligent director could reasonably regard the transaction as beneficial to the company itself. Given Evotech (Asia) Pte Ltd's poor financial condition and its own unpaid creditors, the use of its funds to pay debts of Union Asia Enterprise Holdings Limited or Aquaterra without benefit to Evotech (Asia) Pte Ltd was held to be inconsistent with this standard. The court found that the defendants' reliance on group benefit was misplaced and that their actions preferred related parties, including entities connected to the first defendant and his relatives.\n\nThe court examined whether the new directors, particularly Ms Yip, had authorised or ratified the payments. It found that the defendants' claim of oral authorisation by Ms Yip was inconsistent with the timeline of their knowledge of removal, unsupported by contemporaneous documents, and contradicted by Ms Yip's testimony, which the judge found credible. The judge considered the absence of emails copying Ms Yip on payment instructions, the lack of detail in the first defendant's affidavit about any authorisation, and the extension of the full Kesterion debt's maturity date as indicating that the new management was unaware of and had not approved the payments. The email and letter sent on 29 September 2016 to Kesterion were interpreted as part of an investigative effort rather than evidence of prior authorisation.\n\nThe judge concluded that the payments were related-party transactions involving clear conflicts of interest: Kesterion was effectively controlled by the first defendant through his wife, Aquaterra was managed by his brother-in-law, Yew was his close friend, and one payment was to the first defendant personally. The defendants did not make full disclosure of these conflicts or seek board approval or ratification. The court held that both defendants acted as de facto directors when authorising the payments, including the second defendant, who signed as a bank signatory in her capacity as a director and continued to act as such after formal removal. Applying the legal standards on directors' duties and de facto directorship, the court found that both defendants were in breach of their fiduciary duties and entered judgment for Evotech (Asia) Pte Ltd for S$2,285,000 and US$1,070,000 with interest.\n\nOn the counterclaim, the court applied the principle that an employer may terminate employment by giving contractual notice or salary in lieu, and that only the employer has the prerogative to elect salary in lieu. The plaintiff gave two months' notice under the employment contract. The first defendant did not attend work after receiving the notice and therefore did not provide services during the notice period. The court rejected his contention that he could unilaterally treat the termination as requiring three months' salary or that he was on leave carried over from another group company, noting the absence of contractual terms or documentary evidence supporting such leave portability. The judge held that the first defendant was not entitled to salary or housing allowance for the post-28 September 2016 period and dismissed the counterclaim. The court also addressed a later application to reopen the trial based on alleged inconsistencies with a separate suit involving Kesterion, finding no material inconsistency that would assist the defendants and declining to reopen the case."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 1242 of 2016",
+      "Coram": "Kannan Ramesh J",
+      "Judge": "Kannan Ramesh",
+      "Date": "2018-11-20",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Koh Tat Lee",
+      "Law_Firm": "Nicholas & Tan Partnership; JLC Advisors LLP; Seng Sheoh & Co",
+      "Counsel": [
+        "Nicholas Jeyaraj s/o Narayanan",
+        "Nichol Yeo",
+        "Lim Seng Sheoh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-09-16",
+          "Text": "On 16 September 2013, Koh Tat Lee was appointed as a director of Evotech (Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2016-05-23",
+          "Text": "On 23 May 2016, Koh Tat Lee ceased to hold the position of director of Evotech (Asia) Pte Ltd following a board decision to remove him."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-05-30",
+          "Text": "On 30 May 2016, a letter and a fax addressed to Koh Tat Lee were sent to the office of Evotech (Asia) Pte Ltd stating that he had been removed as a director on 23 May 2016."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-06-01",
+          "Text": "By 1 June 2016, Koh Tat Lee became aware that he had been removed as a director of Evotech (Asia) Pte Ltd and that new directors had been appointed."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2016-04-01",
+          "Text": "On 1 April 2016, Koh Tat Lee was appointed as general manager of Evotech (Asia) Pte Ltd under a written employment contract dated the same day with a basic salary of S$15,000 per month."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-04-01",
+          "Text": "The 1 April 2016 employment contract between Evotech (Asia) Pte Ltd and Koh Tat Lee provided that the company could terminate his employment on three months' notice if his service or position was no longer required, or on two months' notice if his performance or working attitude was considered unsatisfactory or if specified forms of misconduct occurred."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-25",
+          "Text": "On 25 May 2016, after his formal removal date but before he became aware of it, Koh Tat Lee was involved in authorising a payment of S$1,400,000 from Evotech (Asia) Pte Ltd to Kesterion Investments Limited."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-25",
+          "Text": "On 25 May 2016, Koh Tat Lee was involved in authorising a payment of S$135,000 from Evotech (Asia) Pte Ltd to Yew Eng Piow."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-26",
+          "Text": "On 26 May 2016, Koh Tat Lee was involved in authorising a payment of S$300,000 from Evotech (Asia) Pte Ltd to his own personal bank account."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-26",
+          "Text": "On 26 May 2016, Koh Tat Lee was involved in authorising a payment of S$250,000 from Evotech (Asia) Pte Ltd to Yao Jun."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-31",
+          "Text": "On 31 May 2016, Koh Tat Lee was involved in authorising a payment of S$200,000 from Evotech (Asia) Pte Ltd to Kesterion Investments Limited."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-07-21",
+          "Text": "On 21 July 2016, after he knew he was no longer a director, Koh Tat Lee was involved in authorising a payment of US$500,000 from Evotech (Asia) Pte Ltd to Yao Jun."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-08-01",
+          "Text": "On 1 August 2016, after he knew he was no longer a director, Koh Tat Lee was involved in authorising a payment of US$570,000 from Evotech (Asia) Pte Ltd to Kesterion Investments Limited."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2015-11-01",
+          "Text": "Up to sometime in November 2015, Koh Tat Lee regarded himself as the single largest shareholder in Union Asia Enterprise Holdings Limited through shares held in his name and convertible bonds in that company held by Kesterion Investments Limited."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2015-11-01",
+          "Text": "Kesterion Investments Limited is a company incorporated in the British Virgin Islands whose sole recorded director and shareholder is Ms Eva Wong, the wife of Koh Tat Lee."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2015-09-01",
+          "Text": "Sometime in September 2015, Koh Tat Lee engaged Cheong Lee Securities Limited as placement agent to sell convertible bonds in Union Asia Enterprise Holdings Limited held by Kesterion Investments Limited."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-09-01",
+          "Text": "After appointing Cheong Lee Securities Limited in September 2015, Koh Tat Lee worked with its representatives, including Mr Antony Kwok and Ms Clarea Au, to identify purchasers for the convertible bonds in Union Asia Enterprise Holdings Limited held by Kesterion Investments Limited."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-12-01",
+          "Text": "Following the sale of convertible bonds in Union Asia Enterprise Holdings Limited, Kesterion Investments Limited received sale proceeds of approximately HK$120,000,000, out of which about HK$68,500,000 was used to pay creditors China Shipbuilding Industry Complete Equipment Logistics (Hong Kong) Co Ltd and Magic Stone Fund (China), and about HK$2,000,000 was loaned to Union Asia Enterprise Holdings Limited for operating expenses."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2015-12-31",
+          "Text": "Koh Tat Lee ceased to hold the position of chairman of Union Asia Enterprise Holdings Limited on 31 December 2015."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2016-03-29",
+          "Text": "Koh Tat Lee ceased to hold the position of executive director of Union Asia Enterprise Holdings Limited on 29 March 2016."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2016-01-01",
+          "Text": "Aquaterra China Trading (Shanghai) Company Limited is an ultimate subsidiary within the Union Asia Enterprise Holdings Limited group and its legal representative is Denny Wong, the brother-in-law of Koh Tat Lee."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-04-01",
+          "Text": "In April 2016, Yew Eng Piow issued a cheque for S$135,000 to Evotech (Asia) Pte Ltd, and the funds were subsequently channelled to Liu Tao after conversion to US dollars."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-03-31",
+          "Text": "The financial statements of Evotech (Asia) Pte Ltd for the year ended 31 March 2016 recorded an amount of S$230,000 described as due to a director, with a note stating that the amount was repayable on demand."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-09-28",
+          "Text": "On 28 September 2016, Evotech (Asia) Pte Ltd issued a written notice of termination to Koh Tat Lee giving him two months' notice and referring to preliminary findings of an internal control review that identified issues including unauthorised disposal of fixed assets, invalid authorisation of payments or fund transfers, and improper accounting treatment on disposal of fixed assets."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-09-28",
+          "Text": "After receiving the termination notice dated 28 September 2016, Koh Tat Lee did not report for work at Evotech (Asia) Pte Ltd during the subsequent notice period."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-01-01",
+          "Text": "In HC/SUM 3084/2017, a court awarded Koh Tat Lee S$88,999 in outstanding salary for the period 1 April 2016 to 28 September 2016 and S$12,464 in housing allowance for the period 18 August 2016 to 28 September 2016."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-01-01",
+          "Text": "In 2012, Kesterion Investments Limited advanced sums totalling US$330,000 to Evotech (Asia) Pte Ltd, which Koh Tat Lee later claimed had been assigned to him, although this claim was subsequently withdrawn from his counterclaim."
+        }
+      ],
+      "Issue": "Whether Koh Tat Lee, in his capacity as a former director and general manager of Evotech (Asia) Pte Ltd, was responsible for unauthorised or conflicted payments made from Evotech (Asia) Pte Ltd to Kesterion Investments Limited, himself, Yao Jun and Yew Eng Piow, and whether he was entitled to additional salary and housing allowance for a period after 28 September 2016 despite not attending work.",
+      "Rule": "Individuals who act as directors or de facto directors of a company are manage the company in its interests, to avoid undisclosed conflicts when causing the company to enter into transactions with themselves or related parties, and to obtain proper corporate approval for such transactions. Under employment law, an employer may terminate an employee by giving the contractual notice period, and an employee who does not perform work during the notice period is generally not entitled to salary or benefits for that period unless the employer elects to pay salary in lieu or the contract provides otherwise.",
+      "Application": "Koh Tat Lee was a director of Evotech (Asia) Pte Ltd from September 2013 until his removal on 23 May 2016 and continued to act in a managerial capacity as general manager under a contract dated 1 April 2016. Around the time of his removal and before he became aware of it, he authorised substantial payments from Evotech (Asia) Pte Ltd to Kesterion Investments Limited, a company controlled by his spouse, to his own personal account, and to individuals connected to his business network, including a close friend and a person used as a conduit for funds related to Aquaterra China Trading (Shanghai) Company Limited, which was managed by his brother-in-law. These payments were funded by proceeds from Evotech (Asia) Pte Ltd's surrender of its leasehold property and were not recorded as discharging any debt of Evotech (Asia) Pte Ltd to Kesterion Investments Limited. After learning of his removal, he continued to authorise further payments to Kesterion Investments Limited and Yao Jun. The financial statements of Evotech (Asia) Pte Ltd recorded a director's loan of S$230,000 repayable on demand, but there was no documented demand or board approval for the S$300,000 payment to him. Later, Evotech (Asia) Pte Ltd terminated his employment by giving two months' notice on 28 September 2016, and he did not attend work during the notice period while seeking additional salary and housing allowance. Applying the standards on directors' conduct and employment termination, the court treated his involvement in the payments as conduct giving rise to liability and found that his absence from work during the notice period meant he was not entitled to further salary or housing allowance.",
+      "Judicial_Reasoning_Log": "The court treated Koh Tat Lee as a central decision-maker in Evotech (Asia) Pte Ltd's affairs during the relevant period and analysed his conduct both as a former director and as a de facto director after formal removal. The judge found that he continued to act as if he had authority to direct payments from the company, including after he knew he had been removed from the board. The court concluded that he caused Evotech (Asia) Pte Ltd to make payments that did not discharge its own liabilities, but instead reduced obligations of Union Asia Enterprise Holdings Limited or assisted Aquaterra China Trading (Shanghai) Company Limited, and that these payments were made to entities and individuals closely connected to him.\n\nThe judge rejected his explanation that a Verbal Agreement with new owners of Union Asia Enterprise Holdings Limited justified the payments to Kesterion Investments Limited. The court emphasised the absence of any written record, the lack of board approval at Union Asia Enterprise Holdings Limited, the failure to call the alleged intermediaries or new owners as witnesses, and contradictions with the evidence of other witnesses, including Ms Yip and the second defendant. The court concluded that the Verbal Agreement was not proven and that his reliance on it undermined his credibility.\n\nRegarding the payments to Kesterion Investments Limited, the court noted that the acknowledged debt was owed by Union Asia Enterprise Holdings Limited, not Evotech (Asia) Pte Ltd, and that the maturity of this debt was extended after the first two payments from Evotech (Asia) Pte Ltd. The judge found that these payments effectively benefited Kesterion Investments Limited and, in substance, Koh Tat Lee, given his control over Kesterion Investments Limited through his wife and his own description of himself as the beneficial owner of the convertible bonds. The court held that he placed himself in a position of conflict by directing company funds to a related entity and to himself without full disclosure or board approval.\n\nThe court examined the S$300,000 payment to his personal account and found his explanations inconsistent and unpleaded, including shifting assertions about whether the sum repaid loans to Evotech (Asia) Pte Ltd, Black Sand International (Singapore) Pte Ltd, or Kesterion Investments Limited, and about an assignment of debt that occurred after the payment date. The judge concluded that his account was unreliable and that he had authorised a payment to himself in circumstances of conflict without proper authorisation.\n\nOn the payments to Yao Jun and Yew Eng Piow, the court found that they were connected to Aquaterra China Trading (Shanghai) Company Limited, which was managed by his brother-in-law, and that Evotech (Asia) Pte Ltd did not owe debts to these recipients. The judge held that causing Evotech (Asia) Pte Ltd to assume liabilities or make payments for the benefit of another group company, without benefit to Evotech (Asia) Pte Ltd and without board approval, was inconsistent with his obligations as a director or de facto director. The court rejected his reliance on group-interest reasoning, reiterating that directors must act in the interests of the specific company and cannot subordinate those interests to group considerations.\n\nThe court also addressed his claim that the new directors, particularly Ms Yip, had orally authorised all seven payments. The judge found this claim incompatible with the timeline of his knowledge of removal, unsupported by contemporaneous documentation, and contradicted by credible testimony from Ms Yip. The court considered it implausible that he would not have documented such authorisation given the related-party nature of the transactions and the company's financial condition. The judge concluded that he did not obtain board approval or ratification for the payments.\n\nOn the employment counterclaim, the court applied the principle that only the employer may elect to pay salary in lieu of notice and that an employee must work during the notice period to earn salary unless otherwise agreed. Evotech (Asia) Pte Ltd gave two months' notice under the contract, and Koh Tat Lee did not attend work thereafter. The court rejected his argument that he could insist on three months' salary or treat himself as on leave carried over from another group company, noting the absence of contractual terms or evidence supporting such a practice. The judge held that he was not entitled to salary or housing allowance for the period after 28 September 2016 and dismissed his counterclaim. Overall, the court found that his conduct in relation to the payments and his employment claim rendered him liable and not entitled to the relief he sought."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 1242 of 2016",
+      "Coram": "Kannan Ramesh J",
+      "Judge": "Kannan Ramesh",
+      "Date": "2018-11-20",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lily Bey Lay Lay",
+      "Law_Firm": "Nicholas & Tan Partnership; JLC Advisors LLP; Seng Sheoh & Co",
+      "Counsel": [
+        "Nicholas Jeyaraj s/o Narayanan",
+        "Nichol Yeo",
+        "Lim Seng Sheoh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2011-07-26",
+          "Text": "On 26 July 2011, Lily Bey Lay Lay was appointed as a director of Evotech (Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2016-05-23",
+          "Text": "On 23 May 2016, Lily Bey Lay Lay ceased to hold the position of director of Evotech (Asia) Pte Ltd following a board decision to remove her."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-05-30",
+          "Text": "On 30 May 2016, a letter and a fax addressed to Lily Bey Lay Lay were sent to the office of Evotech (Asia) Pte Ltd stating that she had been removed as a director on 23 May 2016."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-25",
+          "Text": "On 25 May 2016, after her formal removal date but before she became aware of it, Lily Bey Lay Lay, as a bank account signatory, signed or approved payment instructions for a S$1,400,000 transfer from Evotech (Asia) Pte Ltd to Kesterion Investments Limited."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-25",
+          "Text": "On 25 May 2016, Lily Bey Lay Lay, as a bank account signatory, signed or approved payment instructions for a S$135,000 transfer from Evotech (Asia) Pte Ltd to Yew Eng Piow."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-26",
+          "Text": "On 26 May 2016, Lily Bey Lay Lay, as a bank account signatory, signed or approved payment instructions for a S$300,000 transfer from Evotech (Asia) Pte Ltd to Koh Tat Lee."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-26",
+          "Text": "On 26 May 2016, Lily Bey Lay Lay, as a bank account signatory, signed or approved payment instructions for a S$250,000 transfer from Evotech (Asia) Pte Ltd to Yao Jun."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-31",
+          "Text": "On 31 May 2016, Lily Bey Lay Lay, as a bank account signatory, signed or approved payment instructions for a S$200,000 transfer from Evotech (Asia) Pte Ltd to Kesterion Investments Limited."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-07-21",
+          "Text": "On 21 July 2016, Lily Bey Lay Lay, as a bank account signatory, signed or approved payment instructions for a US$500,000 transfer from Evotech (Asia) Pte Ltd to Yao Jun."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-08-01",
+          "Text": "On 1 August 2016, Lily Bey Lay Lay, as a bank account signatory, signed or approved payment instructions for a US$570,000 transfer from Evotech (Asia) Pte Ltd to Kesterion Investments Limited."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2018-01-01",
+          "Text": "Lily Bey Lay Lay is the niece of Koh Tat Lee."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-06-01",
+          "Text": "In early June 2016, Lily Bey Lay Lay became aware that she had been removed as a director of Evotech (Asia) Pte Ltd."
+        }
+      ],
+      "Issue": "Whether Lily Bey Lay Lay, in acting as a bank account signatory and former director of Evotech (Asia) Pte Ltd, participated as a de facto director in authorising payments from Evotech (Asia) Pte Ltd to Kesterion Investments Limited, Koh Tat Lee, Yao Jun and Yew Eng Piow that were not for Evotech (Asia) Pte Ltd's own obligations.",
+      "Rule": "A person who undertakes functions that are properly discharged only by a director, participates in directing a company's affairs, and exercises real influence over corporate governance may be treated as a de facto director and comply with the standards applicable to directors, including acting in the company's interests and avoiding undisclosed conflicts when authorising company payments.",
+      "Application": "Lily Bey Lay Lay was formally appointed as a director of Evotech (Asia) Pte Ltd in July 2011 and remained in that role until her removal on 23 May 2016. She was a bank account signatory for Evotech (Asia) Pte Ltd and, in that capacity, signed or approved payment instructions for all seven impugned transfers in May, July and August 2016, including transfers to Kesterion Investments Limited, to Koh Tat Lee, to Yao Jun and to Yew Eng Piow. These actions involved authorising significant movements of company funds and were carried out in the same manner as when she was a director. She later stated that she regarded herself as following instructions from Koh Tat Lee and suggested she was merely an employee, but there was no documentary evidence of a separate employment role, and her own earlier statements indicated that she was employed by a different group company rather than Evotech (Asia) Pte Ltd. Given her prior directorship, her role as bank signatory, and her continued authorisation of payments after formal removal, the court treated her as acting in the capacity of a de facto director when she approved the transfers.",
+      "Judicial_Reasoning_Log": "The court considered whether Lily Bey Lay Lay could be treated as a de facto director after her formal removal from the board. Applying the criteria from Raffles Town Club, the judge looked at whether she undertook functions that could properly be discharged only by a director, whether she participated in directing the company's affairs on an equal footing with other directors, and whether she exercised real influence over corporate governance. The court noted that she had been a formally appointed director prior to 23 May 2016 and that she was a bank account signatory in that capacity.\n\nThe judge found that when she signed or approved the payment instructions for the seven transfers in May, July and August 2016, she did so in the same capacity in which she had previously acted as a director. The court rejected her characterisation of herself as a mere employee executing instructions, pointing out that there was no documentary evidence of an employment relationship with Evotech (Asia) Pte Ltd and that her own testimony about being employed by another group company was inconsistent. The judge reasoned that, as a bank signatory appointed in her role as director, she could only have been acting in a director-like capacity when authorising the payments.\n\nThe court also observed that she claimed not to have known of her removal until early June 2016 and relied on this to suggest an absence of dishonesty. The judge held that if she believed she remained a director when authorising the May payments, she must have accepted that she was acting as a director and therefore subject to the corresponding obligations. The court concluded that she was a de facto director at least in relation to the authorisation of the impugned payments and that, together with Koh Tat Lee, she was responsible for causing Evotech (Asia) Pte Ltd to make payments that did not discharge its own obligations and involved related parties, without proper disclosure or board approval. On this basis, the court held her jointly and severally liable with Koh Tat Lee for the sums awarded to Evotech (Asia) Pte Ltd."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  }
+]
