@@ -1,0 +1,508 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 517 of 2011",
+      "Coram": "Judith Prakash J",
+      "Judge": "Judith Prakash",
+      "Date": "2015-05-29",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Australian Property Group Pte Ltd",
+      "Law_Firm": "Stamford Law Corporation",
+      "Counsel": [
+        "Adrian Tan",
+        "Yeoh Jean Wern"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2009-02-09",
+          "Text": "Australian Property Group Pte Ltd (APG) was incorporated in Singapore on 9 February 2009."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-02-09",
+          "Text": "From incorporation, APG carried on a business of marketing and selling Australian real estate on behalf of Australian property developers."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-02-09",
+          "Text": "APG earned revenue from commissions paid by Australian property developers and incurred expenses including rent, staff costs and marketing costs."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2009-03-11",
+          "Text": "On 11 March 2009, APG entered into a loan agreement with Goh Cheng Liang under which APG received a loan of $900,000."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2009-02-09",
+          "Text": "On incorporation, APG issued fully paid-up ordinary shares as follows: 360,000 shares to Sean Colville Niven, 160,000 shares to Wang Zijian (James Wang), 40,000 shares to Gan Siong Teck, 200,000 shares to Hou Junyu and 40,000 shares to Lee Jer Ren, although the consideration for these shares had not in fact been paid."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-02-09",
+          "Text": "On incorporation, APG appointed Sean Colville Niven, Wang Zijian (James Wang), Gan Siong Teck, Hou Junyu and Lee Jer Ren as directors."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-03-11",
+          "Text": "Following the 11 March 2009 loan agreement, APG treated Gan Siong Teck, Hou Junyu and Lee Jer Ren as non-executive directors whose role included protecting the interests of lender Goh Cheng Liang, while Sean Colville Niven and Wang Zijian controlled APG's day-to-day operations."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2008-12-01",
+          "Text": "Before APG was incorporated, Sean Colville Niven and Wang Zijian worked together at JL Property Group Pte Ltd, a company involved in selling Australian properties."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-12-01",
+          "Text": "In December 2008, Sean Colville Niven and Wang Zijian decided to start a new company to sell Australian properties and resigned from JL Property Group Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-03-11",
+          "Text": "APG received $900,000 from Goh Cheng Liang as start-up capital funding pursuant to the 11 March 2009 loan agreement."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2009-03-11",
+          "Text": "Goh Cheng Liang was the godfather of Wang Zijian and provided loan funding to APG."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2009-03-11",
+          "Text": "Clause 5 of the 11 March 2009 loan agreement with Goh Cheng Liang stated that until the loan was fully repaid, APG would not make payment of any director's fees, remuneration or benefits to any director, except salaries payable in the ordinary course to the executive directors."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-05-15",
+          "Text": "On 15 May 2009, Lim Kay-Lin Kathlene joined APG as its general manager."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2009-05-15",
+          "Text": "Before joining APG, Lim Kay-Lin Kathlene had purchased Australian properties through JL Property Group Pte Ltd and had come to know Sean Colville Niven and Wang Zijian in that context."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-05-15",
+          "Text": "After 15 May 2009, APG assigned roles such that Sean Colville Niven was responsible for securing marketing rights from Australian property developers and managing APG's finances, Wang Zijian was sales manager, and Lim Kay-Lin Kathlene was in charge of overall operations and the sales team."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-11-01",
+          "Text": "In November 2009, APG borrowed funds from Ubertas Funds Management Pty Ltd, an Australian company, and used those funds to repay the $900,000 loan from Goh Cheng Liang."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2009-11-07",
+          "Text": "On 7 November 2009, non-executive directors Gan Siong Teck, Hou Junyu and Lee Jer Ren resigned from APG and their shares were subsequently transferred to Sean Colville Niven."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-12-08",
+          "Text": "On 8 December 2009, Lim Kay-Lin Kathlene was appointed as a director of APG."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-22",
+          "Text": "In January 2010, Lim Kay-Lin Kathlene purchased 240,000 APG shares from Sean Colville Niven for $160,000."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "By early 2010, APG experienced difficulty paying rent, advertising agencies and staff salaries, and its accounting records were disorganised."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "In early 2010, APG engaged Firstwaters Consultants Pte Ltd to reconstruct APG's accounts from 2009 and to maintain day-to-day accounting."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "APG engaged chartered accountant John Kennedy Stuart to provide tax services and advice to APG's clients."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "After being engaged for tax services, Lim Kay-Lin Kathlene asked John Kennedy Stuart to investigate and report on APG's financial situation."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-02",
+          "Text": "On 2 July 2010, John Kennedy Stuart sent an email to APG's directors stating that, based on APG's cash flow difficulties, existing and pending financial commitments and expected receipts, APG was technically insolvent as at that date."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-02",
+          "Text": "On 2 July 2010, after receiving John Kennedy Stuart's email, Sean Colville Niven replied by email stating that the creditors report and revenue report had been visible to the shareholders for at least six months and that there was nothing new in the summary of APG's cash flow and creditors' position."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-07-01",
+          "Text": "In July 2010, Lim Kay-Lin Kathlene injected $25,000 into APG to help fund a marketing event."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-18",
+          "Text": "On 18 July 2010, Sean Colville Niven sent an email stating that APG had faced financial pressure every month since repaying the loan to Goh Cheng Liang and committing to monthly repayments of A$40,000 to Ubertas."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-05-18",
+          "Text": "On 18 May 2010, APG's landlord informed APG that its rent was more than three months in arrears."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-05-18",
+          "Text": "Around 18 May 2010, Sean Colville Niven emailed APG's landlord asking for understanding and stating that APG, as a new business, had experienced cash flow struggles."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-06-24",
+          "Text": "On 24 June 2010, APG received a demand from its advertising agency to pay an outstanding amount of $59,502.92 by 4 July 2010, with a subsequent notice on 16 July 2010 that legal action would be taken if payment was not received by 19 July 2010."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-07-20",
+          "Text": "In July 2010, APG's advertising agency agreed to accept payment of the outstanding $59,502.92 in two instalments, with $20,000 due by 20 July 2010 and the balance by 30 July 2010."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-09-06",
+          "Text": "On 6 September 2010, APG, Sean Colville Niven, Wang Zijian and Lim Kay-Lin Kathlene executed a written agreement referred to as the September Agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-09-06",
+          "Text": "Under the 6 September 2010 agreement, Lim Kay-Lin Kathlene agreed to capitalise $175,000 owed by APG to her and to inject an additional $150,000 into APG in exchange for 325,000 new APG shares."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-09-06",
+          "Text": "Under the 6 September 2010 agreement, Sean Colville Niven acknowledged owing APG $300,450.37 and it was recorded that APG would write off 40% of this amount, with the remaining $180,270.22 to be paid by him in two instalments by 31 December 2011 and 31 December 2012."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-09-06",
+          "Text": "The 6 September 2010 agreement recorded that unpaid share capital liabilities were allocated as $560,000 for Sean Colville Niven, $160,000 for Wang Zijian and $80,000 for Lim Kay-Lin Kathlene, and that shareholders would repay 10% of the outstanding capital each year for ten years."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-10-06",
+          "Text": "On 6 October 2010, by written directors' resolution signed by Sean Colville Niven and Lim Kay-Lin Kathlene, APG approved the appointment of Ferrier Hodgson Pte Ltd to conduct a review of APG's accounts."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-10-11",
+          "Text": "On 11 October 2010, Ferrier Hodgson Pte Ltd sent APG's board a draft summary of findings from its preliminary review of APG's financial books and records, noting that many payments, including payments to Sean Colville Niven and Wang Zijian, lacked supporting vouchers and that APG had paid for personal expenses of Sean Colville Niven."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-10-13",
+          "Text": "On 13 October 2010, after discussions among the three directors, a handwritten document referred to as the October Agreement was signed by Sean Colville Niven, Wang Zijian and Lim Kay-Lin Kathlene."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-10-13",
+          "Text": "Under the 13 October 2010 document, it was recorded that Sean Colville Niven and Wang Zijian would resign as directors that day and transfer all their APG shares, except for 10% retained by Wang Zijian, to Lim Kay-Lin Kathlene, and that Lim Kay-Lin Kathlene would pay Sean Colville Niven's outstanding expenses and commission in instalments."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-10-13",
+          "Text": "The 13 October 2010 document recorded that upon settlement, Sean Colville Niven and Wang Zijian would have no further compliance-related liabilities to APG and would owe nothing to APG except for personal tax liabilities."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-11-17",
+          "Text": "On or about 17 November 2009, three OCBC cheques were drawn by Sean Colville Niven: cheque number 771893 for $320,000 payable to Lim Kay-Lin Kathlene, cheque number 771397 for $300,000 payable to APG, and cheque number 771399 dated 1 December 2009 for $490,000 payable to APG."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-12-01",
+          "Text": "Around 1 December 2009, part of the proceeds of an A$450,000 loan from Ubertas was deposited into Sean Colville Niven's personal account in Australia and then transmitted in Singapore dollars to APG through cheques including the $490,000 and $300,000 cheques."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-02-22",
+          "Text": "On 22 February 2010, APG issued an invoice to Ubertas 350 William Street Pty Ltd for A$86,000 described as marketing funds for a property marketing campaign, with instructions on the invoice for payment to be made to Sean Colville Niven's personal bank account in Australia."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-02-22",
+          "Text": "Following the 22 February 2010 invoice, Ubertas 350 William Street Pty Ltd paid A$86,000 into Sean Colville Niven's personal bank account in Australia."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-02-06",
+          "Text": "On 6 February 2009, a joint current account with United Overseas Bank Ltd, account number 339xxx, was opened in the joint names of Sean Colville Niven and Wang Zijian."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-02-06",
+          "Text": "Between 6 February 2009 and 31 May 2009, funds were regularly transferred from APG's bank account into the joint UOB account held by Sean Colville Niven and Wang Zijian."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2009-12-08",
+          "Text": "On 8 December 2009, APG's board, then comprising Sean Colville Niven, Wang Zijian and Lim Kay-Lin Kathlene, passed a resolution allowing cheques drawn on APG's bank account to be signed by a single signatory, either Sean Colville Niven or Lim Kay-Lin Kathlene."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-11-01",
+          "Text": "In November 2010, Lim Kay-Lin Kathlene repaid the outstanding Ubertas loan and obtained an assignment of APG's debt to Ubertas, thereby becoming APG's creditor in place of Ubertas."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-05-01",
+          "Text": "From May 2010, Wang Zijian was based in Malaysia and was no longer involved in APG's daily operations and management matters."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2011-03-01",
+          "Text": "On 1 March 2011, Lim Kay-Lin Kathlene applied to place APG under judicial management."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2011-03-21",
+          "Text": "On 21 March 2011, APG was placed under judicial management and Timothy James Reid of Ferrier Hodgson Pte Ltd was appointed as judicial manager."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-07-01",
+          "Text": "In July 2011, APG, acting through its judicial manager, commenced this action to recover money paid to the defendants."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct and financial arrangements, payments made from APG's funds to or for the benefit of Sean Colville Niven and Wang Zijian, and the non-payment of share capital for their APG shares, correspond with APG's claims for recovery of those sums and unpaid capital.",
+      "Rule": "Company directors and shareholders are generally pay for shares they subscribe and to ensure that company funds are used for company purposes in accordance with agreed remuneration and financing arrangements. When a company is in financial difficulty, decisions that reduce assets available to meet existing obligations are take into account the position of those to whom the company owes money.",
+      "Application": "APG's records shares were issued to Sean Colville Niven and Wang Zijian as fully paid although the consideration was not in fact paid, that APG received loan funding from Goh Cheng Liang and later from Ubertas Funds Management Pty Ltd, and that APG experienced cash flow problems in 2010 including rent arrears and creditor demands. During this period, funds were transferred from APG's bank account to a joint account of Sean Colville Niven and Wang Zijian, APG funds were used to pay expenses associated with Sean Colville Niven, and an invoice for A$86,000 in marketing funds was issued with instructions for payment into his personal account. Agreements in September and October 2010 recorded write-offs and rescheduling of amounts owed to APG and reallocation of unpaid share capital obligations while APG was facing cash flow pressure. These pre-dispute events form the factual basis for APG's claims to recover payments and unpaid capital from the defendants.",
+      "Judicial_Reasoning_Log": "The judge analysed APG's business model, the structure of Front End and Back End Commissions, and the defendants' roles. The judgment found that APG's funds had been used for Sean Colville Niven's personal benefit, including American Express card bills, personal legal fees, undocumented payments, family travel expenses, payments to third parties for personal items, and the A$86,000 received from Ubertas 350 William Street Pty Ltd. The court treated appropriation of company funds for personal use as a prima facie abuse of funds and applied authorities such as Creanovate Pte Ltd v Firstlink Energy Pte Ltd. The judge rejected the defendants' contentions that an Account Practice and an Oral Agreement authorised these payments, finding no contemporaneous vouchers or corroborating evidence and noting inconsistencies with clause 5 of the Goh loan agreement and the conduct of the non-executive directors. The court concluded that the alleged oral arrangements were not established.\n\nOn insolvency, the judge relied on the 2 July 2010 email from John Kennedy Stuart describing APG as technically insolvent, Sean Colville Niven's email responses acknowledging the creditors and revenue reports, evidence of rent arrears, creditor demands from the advertising agency, and the need for cash injections. The court held that APG was insolvent or near insolvency by September and October 2010. Applying principles from Chip Thye Enterprises Pte Ltd (in liquidation) v Phay Gi Mo and Liquidators of Progen Engineering Pte Ltd v Progen Holdings Ltd, the judge held that when a company is insolvent or in a parlous financial position, directors must consider creditors' interests and avoid transactions that dissipate assets to the prejudice of creditors.\n\nThe judge examined the September and October Agreements and found that they required APG to write off a substantial portion of Sean Colville Niven's debt, assume half of his personal debt to the non-executive directors, rearrange and postpone payment of unpaid share capital over ten years, and effectively release the defendants from liabilities to APG without corresponding benefit to APG or its creditors. The court held that these agreements were not in the interests of APG's creditors and that the directors, including Lim Kay-Lin Kathlene, acted in breach of their duties in entering into them. The agreements were treated as voidable and set aside, so they did not provide a defence to APG's claims or a basis for the counterclaims.\n\nRegarding unpaid share capital, the judge found that neither Sean Colville Niven nor Wang Zijian had paid for their original share allotments. The court rejected the argument that certain payments in November and December 2009 constituted share capital payments, noting that they largely represented transmission of Ubertas loan funds, were not pleaded as capital payments, and were inconsistent with the September Agreement in which Sean Colville Niven accepted liability for unpaid capital of $560,000. The court held that Sean Colville Niven remained liable for unpaid capital on the shares he continued to hold (400,000 shares, including 40,000 acquired from the non-executive directors) but not for the 240,000 shares transferred to Lim Kay-Lin Kathlene before the call, as liability for calls follows the registered holder at the time of the call under APG's articles. Wang Zijian was held liable for $160,000 in unpaid capital on his 160,000 shares.\n\nOn liability for the payments, the judge held that the defendants had not displaced the prima facie conclusion that the payments for Sean Colville Niven's personal benefit were improper. The court rejected the argument that whatever benefited the 'rain-maker' was necessarily in APG's interest and applied an objective test of whether an honest and diligent person could reasonably regard the transactions as beneficial to the company. The court found that many expenses were clearly personal, lacked supporting documentation, or were not shown to be incurred for APG's business. The judge held that Sean Colville Niven was liable to repay the sums claimed, subject to deduction of amounts already recovered from the first defendant law firm.\n\nAs to Wang Zijian, the court distinguished between his lack of personal benefit from the impugned payments and his responsibilities as a director. The judge found that he did not control APG's cheque books after the single-signatory resolution and that he was not directly responsible for cheques drawn solely by Sean Colville Niven. However, because funds were transferred from APG's account into the joint UOB account held by both defendants, the court held that both defendants had to account jointly and severally for sums paid into that joint account and to repay any amounts not shown to have been used for APG's purposes. The court declined to treat general allegations about accounting systems as a separate pleaded claim for damages.\n\nThe judge did not make findings on alleged misconduct by Lim Kay-Lin Kathlene, noting that her liability was not in issue in this action and that any wrongdoing by her would not absolve the defendants. The court dismissed the defendants' counterclaims, which were premised on the validity of the September Agreement. In the result, the court ordered that Sean Colville Niven pay APG $400,000 for unpaid share capital and $919,980.97 and A$184,264.10 for payments for his personal use (less amounts recovered from the first defendant), that Wang Zijian pay APG $160,000 for unpaid share capital, and that both defendants jointly and severally account for and, where not justified, repay sums paid into their joint account, with interest at the court rate and costs to APG."
+    },
+    "Label": "Allowed",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 517 of 2011",
+      "Coram": "Judith Prakash J",
+      "Judge": "Judith Prakash",
+      "Date": "2015-05-29",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Sean Colville Niven",
+      "Law_Firm": "H.A. & Chung Partnership",
+      "Counsel": [
+        "Troy Yeo"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1989-01-01",
+          "Text": "By 1989, Sean Colville Niven had begun working in the business of marketing and selling Australian properties and had accumulated experience and connections with Australian property developers."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2008-12-01",
+          "Text": "Prior to December 2008, Sean Colville Niven worked with Wang Zijian at JL Property Group Pte Ltd, a company engaged in selling Australian properties."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-12-01",
+          "Text": "In December 2008, Sean Colville Niven and Wang Zijian decided to start a new company to sell Australian properties and resigned from JL Property Group Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-02-09",
+          "Text": "On 9 February 2009, upon incorporation of APG, Sean Colville Niven became a director of APG and was allotted 360,000 ordinary shares."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-05-15",
+          "Text": "After 15 May 2009, APG assigned Sean Colville Niven responsibility for securing marketing rights from Australian property developers and managing APG's finances."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-03-11",
+          "Text": "On 11 March 2009, as part of APG's funding arrangements, Sean Colville Niven and Wang Zijian approached Goh Cheng Liang for a $900,000 loan to provide start-up capital for APG."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-02-06",
+          "Text": "On 6 February 2009, Sean Colville Niven and Wang Zijian opened a joint current account with United Overseas Bank Ltd, account number 339xxx."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-02-06",
+          "Text": "Between 6 February 2009 and 31 May 2009, funds from APG's bank account were regularly transferred into the joint UOB account held by Sean Colville Niven and Wang Zijian."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-11-17",
+          "Text": "On or about 17 November 2009, Sean Colville Niven drew OCBC cheque number 771893 for $320,000 payable to Lim Kay-Lin Kathlene, cheque number 771397 for $300,000 payable to APG, and cheque number 771399 dated 1 December 2009 for $490,000 payable to APG."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-12-01",
+          "Text": "In late 2009, part of an A$450,000 loan from Ubertas Funds Management Pty Ltd was deposited into Sean Colville Niven's personal account in Australia and then transmitted in Singapore dollars to APG through cheques including the $490,000 and $300,000 cheques."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2009-11-07",
+          "Text": "On 7 November 2009, after the resignation of non-executive directors, their APG shares were transferred to Sean Colville Niven, increasing his shareholding to 640,000 shares."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-22",
+          "Text": "On 22 January 2010, Sean Colville Niven sold and transferred 240,000 APG shares to Lim Kay-Lin Kathlene for $160,000, and the transfer form described the shares as fully paid up."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-02-22",
+          "Text": "On 22 February 2010, Sean Colville Niven signed an APG invoice to Ubertas 350 William Street Pty Ltd for A$86,000 in marketing funds and inserted instructions for payment to be made to his personal bank account in Australia."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-02-22",
+          "Text": "Following the 22 February 2010 invoice, Ubertas 350 William Street Pty Ltd paid A$86,000 into Sean Colville Niven's personal bank account in Australia."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-01-01",
+          "Text": "From APG's incorporation, APG made various payments to or on behalf of Sean Colville Niven, including American Express credit card bills, legal fees in Suit No 170 of 2009, payments without supporting documents, travel expenses for him and his family, payments to third parties on his behalf, and payments of marketing funds into his personal account."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-09-06",
+          "Text": "On 6 September 2010, Sean Colville Niven signed the September Agreement with APG, Wang Zijian and Lim Kay-Lin Kathlene, acknowledging a debt of $300,450.37 to APG and agreeing to a repayment schedule with a 40% write-off recorded in the document."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-09-06",
+          "Text": "The 6 September 2010 agreement recorded that Sean Colville Niven's unpaid share capital liability was $560,000 and that he would repay 10% of the outstanding capital each year for ten years."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-10-13",
+          "Text": "On 13 October 2010, Sean Colville Niven signed the handwritten October Agreement with Wang Zijian and Lim Kay-Lin Kathlene, which recorded his resignation as director that day and the transfer of his APG shares to Lim Kay-Lin Kathlene, except for a portion retained by Wang Zijian."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-02",
+          "Text": "On 2 July 2010, after receiving an email from John Kennedy Stuart describing APG as technically insolvent, Sean Colville Niven replied that the creditors report and revenue report had been visible for at least six months and that there was nothing new in the summary of APG's cash flow and creditors' position."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-18",
+          "Text": "On 18 July 2010, Sean Colville Niven emailed that APG had been under financial pressure every month since repaying the loan to Goh Cheng Liang and committing to monthly repayments of A$40,000 to Ubertas."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2009-12-08",
+          "Text": "On 8 December 2009, as a director, Sean Colville Niven participated in a board resolution allowing APG cheques to be signed by a single signatory, either himself or Lim Kay-Lin Kathlene."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "During 2010, APG paid legal fees for Suit No 170 of 2009 in which Sean Colville Niven and Wang Zijian were defendants, and any settlement sums received by Sean Colville Niven from that suit were not paid over to APG."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct and financial arrangements, the payments made from APG's funds to or for the benefit of Sean Colville Niven and the non-payment of share capital for his APG shares correspond with APG's claim that he must repay those sums and unpaid capital.",
+      "Rule": "A person who receives company funds in connection with company business is generally be able to show how those funds were applied for the company's purposes, and a person recorded as owing amounts to a company or as holding shares described as fully paid is generally expected either to have paid the consideration or to remain responsible for the unpaid amount unless responsibility has been transferred in accordance with company law and the company's constitution.",
+      "Application": "APG's records and contemporaneous documents Sean Colville Niven was allotted 360,000 APG shares at incorporation without payment, later acquired additional shares from non-executive directors, and then sold 240,000 shares to Lim Kay-Lin Kathlene for $160,000 while the transfer form described the shares as fully paid. The September Agreement records that he owed APG $300,450.37 and that his unpaid share capital liability was $560,000, with a schedule for repayment. Bank records and invoices APG funds were used to pay his American Express card bills, legal fees in Suit No 170 of 2009, undocumented payments, family travel expenses, payments to third parties on his behalf, and that A$86,000 in marketing funds invoiced by APG to Ubertas 350 William Street Pty Ltd was directed to his personal account. Emails from July 2010 he was aware of APG's cash flow difficulties and creditor pressures. These pre-dispute facts align with APG's position that he should account for and repay company funds used in connection with his personal expenses and that he remains responsible for unpaid capital on the APG shares he continued to hold when calls were made.",
+      "Judicial_Reasoning_Log": "The judge held that the appropriation of APG's funds for Sean Colville Niven's personal use constituted a prima facie abuse of funds and applied the principle from Creanovate Pte Ltd v Firstlink Energy Pte Ltd. The court examined each category of payments: American Express card bills, legal fees in Suit No 170 of 2009, payments without supporting documents, family travel expenses, payments to third parties, and the A$86,000 marketing funds. The judge found that many charges on the American Express bills were clearly personal (such as petrol, department stores, supermarkets, restaurants and expensive clothing) and that there were no vouchers or records showing that these expenses were incurred for APG's business. The court placed the burden on Sean Colville Niven, as the director in charge of accounts, to justify the expenses as company expenses and found that he had not done so.\n\nFor the legal fees in Suit No 170 of 2009, the court noted that APG was not a party to that suit, that APG paid the defendants' legal fees, and that Sean Colville Niven received settlement money from JL Property without reimbursing APG. The judge found no corroboration of his claim that the non-executive directors had agreed that APG would bear the fees while he kept the settlement proceeds, and held that he had to reimburse APG for those fees, subject to deduction of amounts already recovered from the first defendant law firm.\n\nRegarding payments without supporting documents, the court observed that many payments to Sean Colville Niven were described only as 'furniture', 'artwork', 'loans', 'Niven IRAS' or 'commission' and that he produced no evidence linking them to APG's business or showing entitlement. The judge treated payments described as loans as amounts intended to be repaid and held that he had not justified the commission and incentive payments. For family travel expenses, including trips for his wife, children and domestic helper and a trip to France with his wife, the court found no evidence that APG was obliged to pay these or that they were business-related. For payments to third parties on his behalf, such as telephone charges, school fees and furniture rental, the court found no evidence that these were part of his employment package or incurred for APG's benefit.\n\nOn the A$86,000 from Ubertas 350 William Street Pty Ltd, the judge accepted that the funds were paid into his personal account and that he claimed to have spent them on marketing events. However, he produced no receipts or documentation to account for the expenditure and did not call his assistant, whom he said had collected the receipts, to testify. The court held that, as he had received the funds, he had a duty to account for them and, failing proof of application for APG's business, he had to repay the amount.\n\nThe court rejected the defendants' reliance on an alleged Account Practice and Oral Agreement authorising the payments. It found that there were no contemporaneous payment vouchers, that the vouchers in evidence were reconstructed by Firstwaters, and that the defendants had not sought discovery of original vouchers. The judge concluded that the Account Practice did not exist and that the allegation that vouchers had been destroyed was baseless. The court also found that the alleged Oral Agreement was unsupported by evidence, inconsistent with clause 5 of the Goh loan agreement and with the formal approach of the non-executive directors, and was denied by the non-executive directors through their solicitors.\n\nOn unpaid share capital, the judge found that neither Sean Colville Niven nor Wang Zijian had paid for their original share allotments. The court rejected the argument that the November and December 2009 cheques represented share capital payments, noting that they largely transmitted Ubertas loan funds, were not pleaded as capital payments, and were inconsistent with the September Agreement in which he accepted liability for unpaid capital of $560,000. Applying APG's articles, the court held that he remained liable for unpaid capital on the shares he still held when the call was made (400,000 shares, including 40,000 acquired from the non-executive directors) but not for the 240,000 shares transferred to Lim Kay-Lin Kathlene before the call, as liability for calls attaches to the registered holder at the time of the call.\n\nThe judge also considered APG's financial position and held that APG was insolvent or near insolvency by September and October 2010, relying on the Stuart email, Niven's own emails, rent arrears and creditor demands. Applying Chip Thye Enterprises Pte Ltd (in liquidation) v Phay Gi Mo and Progen Engineering, the court held that the September and October Agreements, which wrote off part of his debt, shifted half of his personal debt to APG, and postponed and rearranged unpaid share capital obligations, were not in the interests of APG's creditors and were voidable. The agreements were set aside and did not protect him from liability or support his counterclaim.\n\nThe court concluded that Sean Colville Niven was liable to pay APG $400,000 in respect of unpaid share capital, $919,980.97 and A$184,264.10 for payments made for his personal use (less amounts recovered from the first defendant), and, jointly with Wang Zijian, to account for and, where not justified, repay sums paid into their joint account, with interest and costs."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 517 of 2011",
+      "Coram": "Judith Prakash J",
+      "Judge": "Judith Prakash",
+      "Date": "2015-05-29",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Wang Zijian (James Wang)",
+      "Law_Firm": "H.A. & Chung Partnership",
+      "Counsel": [
+        "Troy Yeo"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2009-02-09",
+          "Text": "On 9 February 2009, upon incorporation of APG, Wang Zijian, also known as James Wang, became a director of APG and was allotted 160,000 ordinary shares."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2008-12-01",
+          "Text": "Prior to December 2008, Wang Zijian worked with Sean Colville Niven at JL Property Group Pte Ltd, a company engaged in selling Australian properties."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-12-01",
+          "Text": "In December 2008, Wang Zijian and Sean Colville Niven decided to start a new company to sell Australian properties and resigned from JL Property Group Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-03-11",
+          "Text": "On 11 March 2009, Wang Zijian and Sean Colville Niven approached Goh Cheng Liang, Wang's godfather, for a $900,000 loan to provide start-up capital for APG."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2009-03-11",
+          "Text": "Goh Cheng Liang was the godfather of Wang Zijian and provided loan funding to APG."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-05-15",
+          "Text": "After 15 May 2009, APG assigned Wang Zijian the role of sales manager."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-02-06",
+          "Text": "On 6 February 2009, Wang Zijian and Sean Colville Niven opened a joint current account with United Overseas Bank Ltd, account number 339xxx."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-02-06",
+          "Text": "Between 6 February 2009 and 31 May 2009, funds from APG's bank account were regularly transferred into the joint UOB account held by Wang Zijian and Sean Colville Niven."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-09-06",
+          "Text": "On 6 September 2010, Wang Zijian signed the September Agreement with APG, Sean Colville Niven and Lim Kay-Lin Kathlene, which recorded his unpaid share capital liability as $160,000 and set out a schedule for repayment over ten years."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-10-13",
+          "Text": "On 13 October 2010, Wang Zijian signed the handwritten October Agreement with Sean Colville Niven and Lim Kay-Lin Kathlene, which recorded that he would resign as director that day and transfer all his APG shares except for 10% retained in his name to Lim Kay-Lin Kathlene."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-05-01",
+          "Text": "From May 2010, Wang Zijian was based in Malaysia and was no longer involved in APG's daily operations and management matters."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-01-01",
+          "Text": "During the period from APG's incorporation until his resignation, Wang Zijian participated in APG's management and in decisions relating to payments, including the use of a joint bank account with Sean Colville Niven into which APG funds were transferred."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct and financial arrangements, Wang Zijian is responsible for unpaid share capital on his APG shares and for accounting for APG funds transferred into the joint bank account he held with Sean Colville Niven.",
+      "Rule": "A registered shareholder is generally responsible for unpaid amounts on shares at the time a valid call is made, and a person who jointly holds an account into which company funds are transferred may be account for those funds and they were applied for the company's purposes.",
+      "Application": "APG's incorporation records Wang Zijian was allotted 160,000 shares described as fully paid although he later acknowledged that he had never paid for those shares. The September Agreement records his unpaid share capital liability as $160,000 with a ten-year repayment schedule. Bank statements APG funds were transferred into a joint UOB account held by him and Sean Colville Niven, and he had access to that account. From May 2010 he was no longer involved in APG's daily operations, and there is no indication that he personally incurred the specific expenses challenged by APG. These pre-dispute facts support APG's position that he remains responsible for the unpaid capital on his 160,000 shares and that he must, together with Sean Colville Niven, account for APG funds paid into their joint account.",
+      "Judicial_Reasoning_Log": "The judge accepted that there was no allegation that Wang Zijian personally benefited from the specific impugned payments for Sean Colville Niven's expenses. However, the court emphasised that as a director he owed duties to APG and could be responsible where he facilitated or was involved in improper payments. The evidence showed that a joint UOB account was opened in the names of both defendants and that APG funds were regularly transferred into this account, allowing them to bypass the requirement for non-executive directors' signatures on APG cheques. The court held that both defendants were jointly and severally liable to account for sums paid into this joint account and to repay any amounts not shown to have been used for APG's purposes.\n\nRegarding unpaid share capital, the court noted that Wang Zijian admitted he had never paid for his 160,000 shares. The September Agreement recorded his unpaid capital liability as $160,000. The judge held that, subject to the invalidity of the September and October Agreements as defences, he remained liable for the unpaid capital on his shares. Applying the principle that calls on unpaid share capital attach to the registered holder at the time of the call, and noting that he remained the registered holder of 160,000 shares when the call was made in March 2011, the court ordered him to pay $160,000 to APG. The court rejected his argument that responsibility should rest solely with Sean Colville Niven and Lim Kay-Lin Kathlene, distinguishing between his lack of personal benefit from the challenged expenses and his obligations as a director and shareholder in relation to share capital and funds transferred into the joint account."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 2
+  }
+]

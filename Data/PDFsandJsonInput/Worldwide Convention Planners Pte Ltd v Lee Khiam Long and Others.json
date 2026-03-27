@@ -1,0 +1,286 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit 578/2007",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck",
+      "Date": "2008-09-15",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Worldwide Convention Planners Pte Ltd",
+      "Law_Firm": "B T Tan & Co",
+      "Counsel": [
+        "Tan Bar Tien",
+        "Quek Seng Soon Winston"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1995-01-01",
+          "Text": "Worldwide Convention Planners Pte Ltd was incorporated in 1995 with 300,000 shares to carry on the business of organising conventions and events."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-12-01",
+          "Text": "In December 2000, Worldwide Convention Planners Pte Ltd purchased the property known as 51A/B Neil Road for $2,400,000."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-12-01",
+          "Text": "From December 2000, Worldwide Convention Planners Pte Ltd carried on its business from the third floor of the property at 51A/B Neil Road."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2006-04-03",
+          "Text": "A valuation report dated 3 April 2006 valued the property at 51A/B Neil Road at $2,050,000."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2006-08-30",
+          "Text": "On 30 August 2006, a meeting took place at the office of the company secretary, Pamela Neo, attended by the first defendant and Gilbert Goh, at which they discussed and resolved that the property be sold to the second and third defendants, that $42,000 be paid to the first defendant as director's fees, that $58,200 be paid to Your Holiday Planners Pte Ltd, and that $510,000 be paid divided to the shareholders."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2006-09-08",
+          "Text": "On 8 September 2006, an agreement was made for the sale of 234,000 shares in Worldwide Convention Planners Pte Ltd to Air Sino Euro Associates Travel Pte Ltd for $150,000 with an additional $30,000 if profit forecasts were met, with clause 2 recording that the company's property at 51/51A/51B Neil Road with a net book value of S$2,485,894 as at 31 December 2005 was sold on 27 July 2006 at S$2,050,000 and that the sale was ratified by all three shareholders."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-01-29",
+          "Text": "Completion of the sale of the property at 51A/B Neil Road to the second defendant and his son through the fourth defendant took place on 29 January 2007."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-01-30",
+          "Text": "By 30 January 2007, the 234,000 shares in Worldwide Convention Planners Pte Ltd were fully transferred to Air Sino Euro Associates Travel Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2007-02-01",
+          "Text": "From February 2007, Worldwide Convention Planners Pte Ltd occupied the property owned by the fourth defendant without an executed tenancy agreement offered by the fourth defendant."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2006-09-26",
+          "Text": "On 26 September 2006, a caveat was lodged against the property at 51/51A/51B Neil Road in relation to Worldwide Convention Planners Pte Ltd and the fourth defendant."
+        }
+      ],
+      "Issue": "Whether the conduct of the first and second defendants in relation to the sale of the plaintiff's property, the declaration and payment of director's fees and sums to shareholders and related entities, and the recording of these transactions in the plaintiff's accounts resulted in financial outcomes adverse to the plaintiff.",
+      "Rule": "Directors and persons controlling a company are generally manage company property and funds in accordance with corporate decisions and to ensure that transactions, including property sales, distributions, and related-party payments, are properly authorised and accurately recorded so that the company does not suffer financial loss from those transactions.",
+      "Application": "The plaintiff's property at Neil Road was purchased and later valued, then sold to the second defendant and his son through the fourth defendant, with completion on 29 January 2007. On 30 August 2006, resolutions were discussed and recorded concerning the sale of the property, payment of director's fees to the first defendant, payment to Your Holiday Planners Pte Ltd, and distribution of $510,000 to shareholders. Subsequently, 234,000 shares in the plaintiff were sold to Air Sino Euro Associates Travel Pte Ltd under an agreement that expressly recorded that the property had already been sold and that the sale was ratified by all three shareholders. The plaintiff continued to occupy the property owned by the fourth defendant from February 2007 without an executed tenancy agreement, and a caveat was lodged on 26 September 2006. These events define the financial and transactional context in which the plaintiff later challenged the conduct of the first and second defendants.",
+      "Judicial_Reasoning_Log": "The judge assessed the plaintiff's claims of breaches of fiduciary duties and found them unmeritorious and lacking in proof. The court considered that Air Sino Euro Associates Travel Pte Ltd, through its owner Mr See, was effectively the real plaintiff and that the plaintiff relied heavily on the evidence of Mr Gilbert Goh, whose evidence the judge found unreliable. The judge noted that any representations to Mr See about the plaintiff would have been made by Mr Gilbert Goh and that clause 2 of the 8 September 2006 share sale agreement showed that the property had been sold and that the sale was ratified by all three shareholders, including Mr Goh. The judge concluded that ASA bought and paid for the shares without the property and rejected Mr See's allegation that he was misled by the company's accounting records, finding no expert accounting evidence to show that the accounts were improperly kept or that the payment of $510,000 as dividends was wrongful. The judge accepted the evidence of the company secretary, Miss Neo, and held that the basic claims that the accounts were falsely recorded or that the property was sold to the disadvantage of the plaintiff were not proved. The judge therefore dismissed the plaintiff's claim. The judge also accepted the first defendant's evidence on his counterclaim for $111,122.25 and granted judgment on that counterclaim, noting that no officer from the plaintiff challenged his evidence and that his documentary support was not challenged. As to the fourth defendant, the judge found that failure to execute the tenancy agreement alone was insufficient to prove trespass and dismissed the trespass counterclaim, but allowed the fourth defendant's claim in respect of the wrongful caveat lodged on 26 September 2006 and ordered damages, if any, to be assessed."
+    },
+    "Label": "Dismissed",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 578/2007",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck",
+      "Date": "2008-09-15",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lee Khiam Long",
+      "Law_Firm": "Choo Hin & Partners",
+      "Counsel": [
+        "Tan Kah Hin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1995-01-01",
+          "Text": "At the time of incorporation of Worldwide Convention Planners Pte Ltd in 1995, the first defendant, Lee Khiam Long, held 246,000 shares in the company, of which 180,000 were held in trust for the second defendant."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1995-01-01",
+          "Text": "From the time of incorporation of Worldwide Convention Planners Pte Ltd in 1995, the first defendant, Lee Khiam Long, was the managing director of the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "Within the 246,000 shares registered in the name of the first defendant in Worldwide Convention Planners Pte Ltd, 66,000 shares were beneficially his and 180,000 shares were held for the second defendant."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2006-08-30",
+          "Text": "On 30 August 2006, the first defendant attended a meeting with company secretary Pamela Neo and shareholder Gilbert Goh at her office, where they discussed and resolved that the property at Neil Road be sold to the second and third defendants, that $42,000 be paid to the first defendant as director's fees, that $58,200 be paid to Your Holiday Planners Pte Ltd, and that $510,000 be divided and paid to the shareholders."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-08-30",
+          "Text": "On or about 30 August 2006, an amount of $42,000 was designated as director's fees payable to the first defendant by Worldwide Convention Planners Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-08-30",
+          "Text": "On or about 30 August 2006, an amount of $510,000 was designated to be divided and paid to the shareholders of Worldwide Convention Planners Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-08-30",
+          "Text": "Around the time of the 30 August 2006 resolutions, the accounts of Worldwide Convention Planners Pte Ltd recorded a payment of $40,000 from the account of shareholder Madam Tan Siew Hua to the first defendant's account as 'costs of sales'."
+        }
+      ],
+      "Issue": "Whether the first defendant's conduct in participating in the sale of the plaintiff's property, receiving director's fees and other payments, and being associated with the recording of these transactions in the company's accounts resulted in financial consequences for the plaintiff that would justify an adverse outcome against him.",
+      "Rule": "A person acting as managing director and shareholder of a company is generally assessed on whether their conduct in relation to company property, distributions, and accounting entries aligns with corporate decisions and does not cause financial loss to the company through unauthorised or improperly recorded transactions.",
+      "Application": "The first defendant held a substantial shareholding in the plaintiff company, with part of it held for the second defendant, and served as managing director from incorporation. He participated in the 30 August 2006 meeting with the company secretary and shareholder Gilbert Goh, where resolutions were discussed and recorded concerning the sale of the property to the second and third defendants, payment of $42,000 to him as director's fees, payment of $58,200 to Your Holiday Planners Pte Ltd, and distribution of $510,000 to shareholders. The company's accounts also recorded a $40,000 payment from Madam Tan Siew Hua's account to the first defendant's account as 'costs of sales'. These events formed the basis on which the plaintiff later challenged his conduct in relation to the company's financial position.",
+      "Judicial_Reasoning_Log": "The judge considered the plaintiff's allegations that the first defendant had assisted in selling the property without proper approval, failed to act against the second and third defendants regarding the option terms, declared dividends to siphon funds, falsified and manipulated accounts, and backdated resolutions. The court found that the plaintiff's claims were unmeritorious and unsupported by adequate proof. The judge noted the absence of expert accounting evidence to show that the accounts were falsely recorded or that the payment of $510,000 as dividends was wrongful, and accepted the evidence of the company secretary, Miss Neo, as reliable. The judge concluded that the basic claims that the accounts were falsely recorded or that the property was sold to the disadvantage of the plaintiff were not established. Consequently, the court dismissed the plaintiff's claim against the first defendant. On the counterclaim, the judge accepted the first defendant's unchallenged evidence and documentary support and granted judgment for his counterclaim of $111,122.25."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 578/2007",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck",
+      "Date": "2008-09-15",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Poh Lye Yee Alan",
+      "Law_Firm": "Straits Law Practice LLC",
+      "Counsel": [
+        "N Sreenivasan",
+        "Shankar s/o Angammah Sevasamy"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1995-01-01",
+          "Text": "The second defendant, Poh Lye Yee Alan, was the beneficial owner of 180,000 shares in Worldwide Convention Planners Pte Ltd, which were held in the name of the first defendant."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Around 2006, the second defendant decided to give up his 180,000 shares in Worldwide Convention Planners Pte Ltd and informed the first defendant and shareholder Gilbert Goh of this decision."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Around the time the second defendant decided to give up his shares, he told shareholder Gilbert Goh that he would sell his 180,000 shares and allow Gilbert Goh to keep the proceeds."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2006-07-27",
+          "Text": "On 27 July 2006, the property at 51/51A/51B Neil Road owned by Worldwide Convention Planners Pte Ltd was sold to the second defendant and his son, the third defendant, through the fourth defendant for $2,050,000."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2006-09-08",
+          "Text": "On 8 September 2006, an agreement was made under which 180,000 shares beneficially owned by the second defendant and 54,000 shares owned by Gilbert Goh, totalling 234,000 shares in Worldwide Convention Planners Pte Ltd, were contracted to be sold to Air Sino Euro Associates Travel Pte Ltd for $150,000 with an additional $30,000 if profit forecasts were met, with the agreement recording that the company's property at Neil Road had been sold and that the sale was ratified by all three shareholders."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-01-29",
+          "Text": "Completion of the sale of the property at Neil Road to the second defendant and his son through the fourth defendant took place on 29 January 2007."
+        }
+      ],
+      "Issue": "Whether the second defendant's acquisition of the plaintiff's property through the fourth defendant and his involvement in the sale of his beneficial shareholding, in the context of the company's distributions and records, resulted in financial consequences for the plaintiff that would justify an adverse outcome against him.",
+      "Rule": "A person who is a significant beneficial shareholder and purchaser of company property is generally assessed on whether transactions involving company assets and their own shareholdings are carried out on terms and in a manner that do not cause financial loss to the company through improperly authorised or structured dealings.",
+      "Application": "The second defendant held 180,000 shares in the plaintiff company through the first defendant and later decided to give up these shares, indicating to shareholder Gilbert Goh that he would sell them and allow Goh to keep the proceeds. The property at Neil Road, owned by the plaintiff, was sold on 27 July 2006 to the second defendant and his son through the fourth defendant for $2,050,000, with completion on 29 January 2007. On 8 September 2006, an agreement was entered into for the sale of 234,000 shares, including the second defendant's beneficial shares, to Air Sino Euro Associates Travel Pte Ltd, with the agreement expressly recording that the property had already been sold and that the sale was ratified by all three shareholders. These events formed the basis for later challenges to the second defendant's conduct in relation to the company's financial position.",
+      "Judicial_Reasoning_Log": "The judge considered the plaintiff's allegations that the second defendant was involved in conduct that disadvantaged the company through the sale of the property and related financial transactions. The court accepted the submission of counsel for the second, third, and fourth defendants that even if the payment of $510,000 as dividends were wrongful, the second defendant's exposure would be limited and would require amendments to the pleadings, which were not made. The judge found that there was no expert accounting evidence to show that the accounts were falsely recorded or that the property was sold to the disadvantage of the plaintiff. The judge concluded that the basic claims against the second defendant were not proved and therefore did not impose liability on him."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 578/2007",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck",
+      "Date": "2008-09-15",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Poh Jian Xiong Christopher",
+      "Law_Firm": "Straits Law Practice LLC",
+      "Counsel": [
+        "N Sreenivasan",
+        "Shankar s/o Angammah Sevasamy"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2006-07-27",
+          "Text": "The third defendant, Poh Jian Xiong Christopher, is the son of the second defendant, Poh Lye Yee Alan."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2006-07-27",
+          "Text": "On 27 July 2006, the third defendant, together with the second defendant, purchased the property at 51/51A/51B Neil Road from Worldwide Convention Planners Pte Ltd through the fourth defendant for $2,050,000."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-01-29",
+          "Text": "Completion of the sale of the property at Neil Road to the second and third defendants through the fourth defendant took place on 29 January 2007."
+        }
+      ],
+      "Issue": "Whether the third defendant's joint acquisition of the plaintiff's property through the fourth defendant resulted in financial consequences for the plaintiff that would justify an adverse outcome against him.",
+      "Rule": "A person who acquires property from a company is generally assessed on whether the acquisition was structured and completed in a manner that does not cause financial loss to the company through improper or unauthorised terms.",
+      "Application": "The third defendant, as the son of the second defendant, jointly purchased the plaintiff's property at Neil Road through the fourth defendant for $2,050,000, with completion on 29 January 2007. This acquisition formed part of the transactional background to the plaintiff's later challenge to the sale of the property and related financial outcomes.",
+      "Judicial_Reasoning_Log": "The judge considered the role of the third defendant as a purchaser of the property together with the second defendant through the fourth defendant. The court found that the transaction for the sale and purchase of the property was validly and properly completed, based on the evidence of the solicitor, Mr Justine Wee, and that there was no basis to attribute bad faith to the parties merely because the vendor and purchaser agreed to a longer time to complete. The judge concluded that the plaintiff had not proved that the sale of the property was to the disadvantage or prejudice of the plaintiff and did not impose liability on the third defendant."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 578/2007",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck",
+      "Date": "2008-09-15",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Chris Lyn Investment Pte Ltd",
+      "Law_Firm": "Straits Law Practice LLC",
+      "Counsel": [
+        "N Sreenivasan",
+        "Shankar s/o Angammah Sevasamy"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2006-07-27",
+          "Text": "The fourth defendant, Chris Lyn Investment Pte Ltd, was used as the purchasing vehicle for the acquisition of the property at 51/51A/51B Neil Road by the second and third defendants for tax purposes."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2006-07-27",
+          "Text": "On 27 July 2006, Chris Lyn Investment Pte Ltd was the entity through which the second and third defendants purchased the property at 51/51A/51B Neil Road from Worldwide Convention Planners Pte Ltd for $2,050,000."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-01-29",
+          "Text": "Completion of the sale of the property at Neil Road to the second and third defendants through Chris Lyn Investment Pte Ltd took place on 29 January 2007."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2007-02-01",
+          "Text": "From February 2007, Chris Lyn Investment Pte Ltd treated Worldwide Convention Planners Pte Ltd as an occupier of the property and offered a tenancy agreement which was not executed by Worldwide Convention Planners Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2006-09-26",
+          "Text": "On 26 September 2006, a caveat was lodged against the property at 51/51A/51B Neil Road in relation to the interests of Chris Lyn Investment Pte Ltd and Worldwide Convention Planners Pte Ltd."
+        }
+      ],
+      "Issue": "Whether the fourth defendant's role as the purchasing vehicle for the property and its subsequent dealings with the plaintiff as occupier, including the lodging of a caveat, resulted in legal or financial consequences that would justify an adverse outcome against it.",
+      "Rule": "A company that acquires property and deals with an occupier is generally assessed on whether its acquisition and subsequent steps, such as offering tenancy terms and lodging caveats, are carried out in accordance with property and contractual norms without causing unjustified legal or financial detriment to others.",
+      "Application": "Chris Lyn Investment Pte Ltd acted as the purchasing entity for the property at Neil Road on behalf of the second and third defendants, with completion on 29 January 2007. After acquisition, it treated Worldwide Convention Planners Pte Ltd as an occupier and offered a tenancy agreement that was not executed. A caveat was lodged on 26 September 2006 in relation to the property. These events formed the basis for later disputes about occupation, trespass, and the propriety of the caveat.",
+      "Judicial_Reasoning_Log": "The judge considered the fourth defendant's counterclaims relating to alleged trespass by the plaintiff and a wrongful caveat. The court found that the failure by the plaintiff to execute the tenancy agreement offered by the fourth defendant was not sufficient evidence of trespass and dismissed the trespass counterclaim. However, the judge accepted that the fourth defendant had a valid claim in respect of a wrongful caveat lodged on 26 September 2006 and ordered that damages, if any, be assessed. Thus, the fourth defendant's claim regarding the wrongful caveat was allowed, while its trespass claim was dismissed."
+    },
+    "Label": "Allowed",
+    "Leakage_Score": 1
+  }
+]

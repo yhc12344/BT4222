@@ -1,0 +1,318 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1463/2001",
+      "Coram": "Belinda Ang Saw Ean J",
+      "Judge": "Belinda Ang Saw Ean",
+      "Date": "2004-09-02",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Dayco Products Singapore Pte Ltd (in liquidation)",
+      "Law_Firm": "Allen and Gledhill",
+      "Counsel": [
+        "Ashok Kumar",
+        "Eugene Thuraisingam"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1994-01-01",
+          "Text": "Dayco Products Singapore Pte Ltd was at all material times a trading company engaged in the business of supplying aftermarket automotive belts and hoses in Asia."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1994-01-01",
+          "Text": "Dayco Products Singapore Pte Ltd was a wholly owned subsidiary of Dayco Products Inc, a company incorporated in Delaware, USA."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1994-01-01",
+          "Text": "The ultimate holding company of Dayco Products Singapore Pte Ltd was Mark IV Industries Inc, a company incorporated in Buffalo, USA."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1994-01-01",
+          "Text": "The subsidiaries of Mark IV Industries Inc were arranged into an industrial division and an automotive division, and Dayco Europe SRL, Dayco Products Inc and Dayco Products Singapore Pte Ltd were grouped in the automotive division."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-09-13",
+          "Text": "Dayco Products Inc changed its name to Dayco Products LLC on 2000-09-13."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1994-01-01",
+          "Text": "The board of Dayco Products Singapore Pte Ltd comprised Ong Cheng Aik, Tan Meow Kheng, William P Montague, Sal H Alfiero and Gerald S Lippes, with the three foreign directors not resident in Singapore."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1994-01-01",
+          "Text": "At the relevant times, John Purden was the vice president and general manager of Dayco Europe for Europe, South America, Asia and Australia and reported to Kurt Johansson, who in turn reported to the board of Mark IV Industries Inc on the affairs of Dayco Products Singapore Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-06-28",
+          "Text": "On 1999-06-28, management informed Ong Cheng Aik that the operations of Dayco Products Singapore Pte Ltd would be closed down by 1999-12-31 and that the company would thereafter be voluntarily liquidated."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-06-28",
+          "Text": "On 1999-06-28, it was decided that a sales representative office of Dayco Europe would be set up to take over the business of Dayco Products Singapore Pte Ltd after its closure."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1999-10-31",
+          "Text": "It was arranged that Ong Cheng Aik would stay on after 1999-10-31 on a full-time basis to close down Dayco Products Singapore Pte Ltd and transfer the existing business to the new sales representative office of Dayco Europe."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2000-01-01",
+          "Text": "A sales representative office of Dayco Europe was set up in Singapore in 2000-01-01 to handle the business previously conducted by Dayco Products Singapore Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2001-04-01",
+          "Text": "In 2001-04-01 or 2001-05-01, the sales representative office of Dayco Europe in Singapore changed its name to Dayco Aftermarket SRL."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1999-07-26",
+          "Text": "By 1999-07-26, Dayco Products Singapore Pte Ltd and Ong Cheng Aik agreed to sell Returned Goods and Bonded Warehouse Stock at a lump sum price of US$150,000 to the company’s Hong Kong and/or Singapore distributors."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1999-07-26",
+          "Text": "By 1999-07-26, Dayco Products Singapore Pte Ltd and Ong Cheng Aik agreed that the Singapore inventory described as Excess Singapore Stock would be sold at a maximum discount of 50% of inter-company costs."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1999-07-26",
+          "Text": "By 1999-07-26, it was agreed that any offers for the Returned Goods, Bonded Warehouse Stock or Excess Singapore Stock other than the agreed terms would have to be approved by Dayco Products Singapore Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "1999-01-01",
+          "Text": "The Returned Goods comprised stock previously sold by Dayco Products Singapore Pte Ltd to its distributor in Seoul, South Korea, Shin Young Trading, whose sole proprietor was An Wea Don."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-01-01",
+          "Text": "As at the material time in 1999, an outstanding sum of US$599,032 remained due from Shin Young Trading to Dayco Products Singapore Pte Ltd for stock previously supplied."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-08-18",
+          "Text": "In a letter dated 1999-08-18, Dayco Products Singapore Pte Ltd agreed to take back the Returned Goods from Shin Young Trading and to refund an earlier payment of US$144,344 to An Wea Don."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-08-31",
+          "Text": "The sale of the Returned Goods and Bonded Warehouse Stock to Tong Chieh Trading (Hong Kong) Co Ltd was evidenced by Dayco Products Singapore Pte Ltd invoice no. 903621 dated 1999-08-31."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-07-01",
+          "Text": "On 1999-07-01, a fax from John Purden discussed selling the Returned Goods to the then current distributors of Dayco Products Singapore Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1999-07-26",
+          "Text": "On 1999-07-26, a fax from Ong Cheng Aik referred to the 1999-07-01 fax from John Purden and to Purden’s agreement and authorisation to sell the Returned Goods and Bonded Warehouse Stock at US$150,000 to the Hong Kong and Singapore distributors of Dayco Products Singapore Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-01-01",
+          "Text": "The cost price of the Returned Goods held by Dayco Products Singapore Pte Ltd was US$538,800.12."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-07-01",
+          "Text": "Around 1999-07-01, John Purden considered selling the Returned Goods and Bonded Warehouse Stock at US$250,000 even though their total value was about US$743,000, as shipping the goods back to Europe was economically and commercially unattractive."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-07-01",
+          "Text": "Around 1999-07-01, Ong Cheng Aik informed John Purden that the Bonded Warehouse Stock was not worth very much and suggested selling it together with the Returned Goods at US$150,000 to Tong Chieh Trading (Hong Kong) Co Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1999-07-01",
+          "Text": "Around 1999-07-01, John Purden agreed to the suggestion to sell the Returned Goods and Bonded Warehouse Stock together at US$150,000 to Tong Chieh Trading (Hong Kong) Co Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-11-08",
+          "Text": "A distributorship agreement between Dayco Products Singapore Pte Ltd and Asia Pacific Automotive Pte Ltd was signed on 1999-11-08 and was dated to take effect from 1999-07-01."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-08-17",
+          "Text": "On 1999-08-17, Dayco Products Singapore Pte Ltd issued two cheques totaling US$150,000 payable to Asia Pacific Automotive Pte Ltd pursuant to the Return Stock arrangement with An Wea Don."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-08-11",
+          "Text": "In a letter dated 1999-08-11, An Wea Don authorised Ong Cheng Aik to accept payment from Dayco Products Singapore Pte Ltd on his behalf under the Return Stock agreement and confirmed that the money due to him was to be paid to Asia Pacific Automotive Pte Ltd."
+        }
+      ],
+      "Issue": "Whether transactions for the sale of Returned Goods, Bonded Warehouse Stock and Excess Singapore Stock to companies associated with the managing director resulted in profits or benefits that must be accounted for to Dayco Products Singapore Pte Ltd.",
+      "Rule": "A company may require a director or senior manager who participates in company transactions to account to the company for profits or benefits obtained from those transactions where the transactions involve that person’s own companies or interests and the company has not given fully informed approval.",
+      "Application": "Dayco Products Singapore Pte Ltd agreed on 1999-07-26 to sell Returned Goods and Bonded Warehouse Stock at a lump sum price of US$150,000 to its Hong Kong and Singapore distributors and to sell Excess Singapore Stock at up to a 50% discount from inter-company cost, with any other offers requiring company approval. The Returned Goods and Bonded Warehouse Stock were sold under invoice no. 903621 dated 1999-08-31, and the Returned Goods had a cost price of US$538,800.12. The Returned Goods and Bonded Warehouse Stock and the Excess Singapore Stock were subsequently dealt with through entities associated with the managing director, including Asia Pacific Automotive Pte Ltd and Mark IV Singapore Pte Ltd, in circumstances where the company’s internal communications and authorisations referred only to sales to existing distributors and did not expressly identify these associated entities as buyers.",
+      "Judicial_Reasoning_Log": "The judgment analyses whether the managing director failed to disclose personal interests in transactions involving Returned Goods, Bonded Warehouse Stock and Excess Singapore Stock and whether he had to account for unauthorised profits or compensate the company. The court considered fiduciary obligations of directors, the requirement of full disclosure to an independent board or shareholders, and the statutory framework under s 156(1) of the Companies Act. It rejected the contention that knowledge or acquiescence of a senior manager such as Purden could substitute for formal disclosure to the board or shareholders. The court evaluated evidence about the incorporation and roles of Mark IV Singapore Pte Ltd and Asia Pacific Automotive Pte Ltd, the use of nominee purchasers such as Tong Chieh Trading (Hong Kong) Co Ltd and Asia Pacific Automotive Pte Ltd, and the backdating of the distributorship agreement. It concluded that there was no adequate disclosure of the director’s interests, that the transactions were arranged through nominee purchasers to circumvent the company’s authorisation to sell to existing distributors, and that the director acted in conflict between personal interest and duty. Applying authorities including Boardman v Phipps, Gwembe Valley Development Co Ltd v Koshy (No 3), Queensland Mines Ltd v Hudson and Consul Development Pty Ltd v DPC Estates Pty Ltd, the court held that the director was accountable for profits made from the Excess Singapore Stock and Bonded Warehouse Stock and for the benefit obtained from the Returned Goods, calculated by reference to cost price and payments, and entered judgment for the plaintiff for US$598,695.37 plus interest and costs."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1463/2001",
+      "Coram": "Belinda Ang Saw Ean J",
+      "Judge": "Belinda Ang Saw Ean",
+      "Date": "2004-09-02",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Ong Cheng Aik",
+      "Law_Firm": "Ari Goh and Partners",
+      "Counsel": [
+        "Francis Goh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1994-01-01",
+          "Text": "At all material times, Ong Cheng Aik was the managing director in charge of the day-to-day management of Dayco Products Singapore Pte Ltd and reported directly to John Purden."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1994-01-01",
+          "Text": "At the relevant times, Ong Cheng Aik was a director of Dayco Products Singapore Pte Ltd and a member of its board together with Tan Meow Kheng, William P Montague, Sal H Alfiero and Gerald S Lippes."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "1999-07-23",
+          "Text": "On 1999-07-23, Ong Cheng Aik caused Mark IV Singapore Pte Ltd to be incorporated."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "1999-07-31",
+          "Text": "On 1999-07-31, Ong Cheng Aik caused Asia Pacific Automotive Pte Ltd to be incorporated."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "1999-07-23",
+          "Text": "Mark IV Singapore Pte Ltd was intended by Ong Cheng Aik to be the vehicle for a proposed regional partnership venture to set up a factory and to take over distribution management in Asia."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "1999-07-31",
+          "Text": "Asia Pacific Automotive Pte Ltd was intended by Ong Cheng Aik to assume the business of distributing Dayco products in Singapore and Indonesia."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "1999-07-23",
+          "Text": "The proposed shareholders of Mark IV Singapore Pte Ltd were to include distributors in Singapore, Hong Kong, South Korea and the Philippines, and shares for John Purden and Josephine Yap were to be held in trust by Ong Cheng Aik as JP Nominees."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1999-06-25",
+          "Text": "According to Ong Cheng Aik, in late June or early July 1999 he discussed with John Purden his plan to take over the business operations of Dayco Products Singapore Pte Ltd after its cessation and to set up a regional partnership venture involving a factory and distributor shareholdings."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1999-07-05",
+          "Text": "According to Ong Cheng Aik, in early July 1999 he discussed with John Purden the incorporation of Mark IV Singapore Pte Ltd and Asia Pacific Automotive Pte Ltd and his plans for these companies."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1999-10-01",
+          "Text": "According to John Purden, Ong Cheng Aik approached him in 1999-10-01 about taking over the operations of Dayco Products Singapore Pte Ltd, and Purden wrote to his management on 1999-11-01 about this proposal."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-11-01",
+          "Text": "On or around the first week of 1999-11-01, John Purden orally informed Ong Cheng Aik that management was not in favour of his proposal to take over the business of Dayco Products Singapore Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "1999-07-01",
+          "Text": "Sometime around the first week of 1999-07-01, Ong Cheng Aik orally offered shares in a new company to be set up by him to John Purden, for a business relating to batteries, filters, brake pads and windshield wipers."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-09-01",
+          "Text": "In or around 1999-09-01, John Purden wrote out a cheque for his proposed shareholding in the new company associated with Ong Cheng Aik but later stopped payment after changing his mind about participation."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-07-26",
+          "Text": "On 1999-07-26, Ong Cheng Aik suggested to John Purden that the Bonded Warehouse Stock be sold together with the Returned Goods at a lump sum price of US$150,000 to Tong Chieh Trading (Hong Kong) Co Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-08-31",
+          "Text": "On 1999-08-31, Dayco Products Singapore Pte Ltd issued invoice no. 903621 for the sale of Returned Goods and Bonded Warehouse Stock to Tong Chieh Trading (Hong Kong) Co Ltd in connection with arrangements made by Ong Cheng Aik."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-09-13",
+          "Text": "On 1999-09-13, Asia Pacific Automotive Pte Ltd paid US$150,000 to Dayco Products Singapore Pte Ltd for the Returned Goods and Bonded Warehouse Stock."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-04-01",
+          "Text": "In 2000-04-01, Mark IV Singapore Pte Ltd paid Asia Pacific Automotive Pte Ltd for the Returned Goods and Bonded Warehouse Stock."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-08-19",
+          "Text": "On or about 1999-08-19, Asia Pacific Automotive Pte Ltd purchased Excess Singapore Stock from Dayco Products Singapore Pte Ltd as a nominee purchaser and then resold the stock to Mark IV Singapore Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-09-02",
+          "Text": "On or about 1999-09-02, Asia Pacific Automotive Pte Ltd completed resale of Excess Singapore Stock to Mark IV Singapore Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-09-01",
+          "Text": "After acquiring the Excess Singapore Stock, Mark IV Singapore Pte Ltd sold the stock to DAV Commercial, Asia Pacific Rubber & Plastics Pte Ltd and Ultra Auto Trading Co Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-01-01",
+          "Text": "The profit made on the sale of Excess Singapore Stock through Mark IV Singapore Pte Ltd was US$44,321."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-01-01",
+          "Text": "Mark IV Singapore Pte Ltd sold the Bonded Warehouse Stock to Shin Young Trading Co Ltd for US$165,574.25."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-01-01",
+          "Text": "According to Ong Cheng Aik, the Bonded Warehouse Stock was only sold off completely about eight months after it was sold to Tong Chieh Trading (Hong Kong) Co Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-01-01",
+          "Text": "According to Ong Cheng Aik, the Returned Goods with a value of US$743,376.63 together with US$50,000 in cash and a US$25,000 loan were used as consideration for an 80% shareholding in Shin Young Trading Co Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "1999-01-01",
+          "Text": "Shin Young Trading Co Ltd in South Korea was formed with an 80% shareholding associated with Mark IV Singapore Pte Ltd and a 20% shareholding held by An Wea Don, with the Returned Goods forming part of the capital injection in kind."
+        }
+      ],
+      "Issue": "Whether profits and benefits obtained by Ong Cheng Aik and his associated companies from transactions involving Returned Goods, Bonded Warehouse Stock and Excess Singapore Stock must be accounted for to Dayco Products Singapore Pte Ltd.",
+      "Rule": "Where a company officer participates in company transactions involving entities in which that officer has an interest, and the company has not given fully informed approval, the officer may be account to the company for profits or benefits obtained from those transactions regardless of whether the company could have made the same profits.",
+      "Application": "Ong Cheng Aik was managing director and a board member of Dayco Products Singapore Pte Ltd and was informed on 1999-06-28 that the company would close and be liquidated, with a new sales representative office to be set up. By 1999-07-26, he agreed with the company on terms for selling Returned Goods, Bonded Warehouse Stock and Excess Singapore Stock, including a lump sum price of US$150,000 for the Returned Goods and Bonded Warehouse Stock and a maximum 50% discount for Excess Singapore Stock, with other offers requiring company approval. Shortly before and after this agreement, he incorporated Mark IV Singapore Pte Ltd on 1999-07-23 and Asia Pacific Automotive Pte Ltd on 1999-07-31, intended to take over distribution and related business. The Returned Goods and Bonded Warehouse Stock were invoiced to Tong Chieh Trading (Hong Kong) Co Ltd on 1999-08-31, while Asia Pacific Automotive Pte Ltd and Mark IV Singapore Pte Ltd later made payments and received the goods, and the Returned Goods were used as capital in Shin Young Trading Co Ltd. Excess Singapore Stock was purchased by Asia Pacific Automotive Pte Ltd as a nominee and resold to Mark IV Singapore Pte Ltd, which then sold to various distributors, generating a profit of US$44,321. Mark IV Singapore Pte Ltd also sold the Bonded Warehouse Stock to Shin Young Trading Co Ltd for US$165,574.25. These transactions involved companies associated with Ong Cheng Aik and resulted in profits and benefits linked to the goods originally owned by Dayco Products Singapore Pte Ltd.",
+      "Judicial_Reasoning_Log": "The court examined whether Ong Cheng Aik, as managing director and director of Dayco Products Singapore Pte Ltd, failed to disclose his personal interests in transactions involving his own companies, Asia Pacific Automotive Pte Ltd and Mark IV Singapore Pte Ltd, and whether he had to account for unauthorised profits or compensate the company. It considered the structure of the Mark IV group, the closure of the plaintiff’s operations, and the agreed terms for selling Returned Goods, Bonded Warehouse Stock and Excess Singapore Stock. The court analysed evidence about the incorporation and intended roles of Mark IV Singapore Pte Ltd and Asia Pacific Automotive Pte Ltd, the use of Tong Chieh Trading (Hong Kong) Co Ltd and Asia Pacific Automotive Pte Ltd as nominee purchasers, and the backdating of the distributorship agreement with Asia Pacific Automotive Pte Ltd. It rejected the argument that knowledge or acquiescence by John Purden satisfied disclosure requirements, holding that disclosure must be to an independent board or shareholders under s 156(1) of the Companies Act or general law. The court found that Ong Cheng Aik did not disclose that his companies were the real purchasers and beneficiaries of the goods and that he placed his personal interest in making and completing the sales above his duty to act for the benefit of the company. Applying fiduciary principles and authorities such as Boardman v Phipps, Gwembe Valley Development Co Ltd v Koshy (No 3), Queensland Mines Ltd v Hudson and Consul Development Pty Ltd v DPC Estates Pty Ltd, the court held that he was accountable for profits of US$44,321 on the Excess Singapore Stock, US$165,574.25 on the Bonded Warehouse Stock, and a further sum calculated for the Returned Goods based on their cost price of US$538,800.12 less US$150,000, resulting in total liability of US$598,695.37 plus interest and costs. The court declined to grant relief under s 391 of the Companies Act, finding that his conduct did not merit such assistance."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  }
+]

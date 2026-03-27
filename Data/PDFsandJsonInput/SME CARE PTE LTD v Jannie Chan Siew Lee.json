@@ -1,0 +1,391 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "[2025] SGHC 27; Bankruptcy No 2648 of 2018; Summonses Nos 4314, 4315, 4316 of 2022; Originating Application No 797 of 2022",
+      "Coram": "Aidan Xu @ Aedit Abdullah J",
+      "Judge": "Aidan Xu @ Aedit Abdullah",
+      "Date": "2025-02-19",
+      "Tribunal_Court": "General Division of the High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "SME Care Pte Ltd",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-01-01",
+          "Text": "SME Care Pte Ltd was operating as a licensed moneylender in Singapore in 2012."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "In 2012, SME Care Pte Ltd extended a loan to JASC Pte Ltd, secured by mortgages over properties and a personal guarantee from Jannie Chan Siew Lee."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-01-01",
+          "Text": "The repayment date of the 2012 loan from SME Care Pte Ltd to JASC Pte Ltd was extended three times."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-09-05",
+          "Text": "By 5 September 2014, JASC Pte Ltd had not made full repayment of the disbursed loan amount, late interest fees, late payment processing fees and extension fees owed to SME Care Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "In 2014, JASC Pte Ltd commenced Originating Summons 850 of 2014 seeking to set aside the loan agreement with SME Care Pte Ltd or to revise the interest rate under the loan."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-03-23",
+          "Text": "On 23 March 2015, the court revised the interest rate on the loan from SME Care Pte Ltd to JASC Pte Ltd to 2.6% per month, the late interest rate to 5.2% per month and the late payment processing fee to $1,000 per month."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-09-19",
+          "Text": "On 19 September 2016, SME Care Pte Ltd commenced Suit 995 of 2016 against Jannie Chan Siew Lee to enforce her personal guarantee relating to the JASC Pte Ltd loan."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-09-26",
+          "Text": "On 26 September 2017, SME Care Pte Ltd and Jannie Chan Siew Lee entered into a settlement agreement in relation to Suit 995 of 2016."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-09-26",
+          "Text": "On 26 September 2017, Jannie Chan Siew Lee signed a draft consent judgment document in favour of SME Care Pte Ltd that could be entered if she did not comply with the settlement agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-05-07",
+          "Text": "On 7 May 2018, a consent judgment was entered in favour of SME Care Pte Ltd for $2,150,000 against Jannie Chan Siew Lee, with contractual interest at 5.2% per month from 26 October 2017 until full payment."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2019-07-26",
+          "Text": "On 26 July 2019, SME Care Pte Ltd lodged a proof of debt in the bankruptcy of Jannie Chan Siew Lee for a total of $5,925,885.51, comprising principal of $2,150,000 and accrued interest of $3,775,885.51."
+        }
+      ],
+      "Issue": "Whether SME Care Pte Ltd's proof of debt based on a 2018 consent judgment for $2,150,000 plus contractual interest should be admitted in the bankruptcy of Jannie Chan Siew Lee.",
+      "Rule": "In bankruptcy administration, a creditor must prove its debt on a balance of probabilities, and a trustee examines proofs of debt and may go behind underlying documents, including judgments and settlements, where there is a reasonable basis to question whether the debt is genuinely due.",
+      "Application": "SME Care Pte Ltd held a consent judgment entered on 7 May 2018 for $2,150,000 plus contractual interest against Jannie Chan Siew Lee, arising from a 2012 loan to JASC Pte Ltd that was secured by mortgages and a personal guarantee and later compromised by a settlement agreement. SME Care Pte Ltd filed a proof of debt in July 2019 for the judgment sum and interest. The private trustee reviewed the loan history, the court-ordered revision of interest in 2015, the settlement agreement, and the consent judgment, and calculated interest on a simple basis rather than compound, partially admitting the proof.",
+      "Judicial_Reasoning_Log": "The judge held that the proof of debt was founded on a valid and subsisting consent judgment and that a consent order is binding until set aside in separate proceedings. The court considered the principles on going behind judgments in the proof of debt context, including the need for indications of fraud, collusion or miscarriage of justice. The judge noted that earlier proceedings (SME Care Pte Ltd v Chan Siew Lee Jannie [2018] SGHC 96) had already addressed and rejected allegations of fraud or misrepresentation in relation to the settlement agreement. In this application, the bankrupt's further assertions about pressure, lack of legal representation and not reading the documents were found not to indicate fraud, undue influence or misrepresentation. The judge observed that the private trustee had in fact gone behind the consent judgment to examine the underlying loan, interest rates, and the moneylending transaction, and concluded that the loan, as reopened and re-rated in OS 850/2014, was valid. The court accepted the trustee's approach of rejecting compound interest and admitting only simple interest. The judge rejected arguments that the transaction was an extortionate credit transaction under section 103 of the Bankruptcy Act, noting that the loan was between SME and JASC with the bankrupt as guarantor, and that the interest had already been judicially revised. The court also rejected contentions of illegality arising from compound interest, given the trustee's adjustment and the permissibility of contractual interest under section 12(2)(b) of the Civil Law Act. Alleged non-compliance with Bankruptcy Rules in the filing of the proof was found either unfounded or irrelevant because the proof was predicated on the consent judgment rather than the original loan agreement. The judge concluded that there was no basis to go behind the consent judgment further and no basis to invalidate SME's admitted claim, and therefore dismissed the bankrupt's application to reverse the trustee's partial admission."
+    },
+    "Label": "Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "[2025] SGHC 27; Bankruptcy No 2648 of 2018; Summonses Nos 4314, 4315, 4316 of 2022; Originating Application No 797 of 2022",
+      "Coram": "Aidan Xu @ Aedit Abdullah J",
+      "Judge": "Aidan Xu @ Aedit Abdullah",
+      "Date": "2025-02-19",
+      "Tribunal_Court": "General Division of the High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Fulcrum Distressed Partners Limited",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2005-02-16",
+          "Text": "Timor Global Pte Ltd was incorporated in Singapore on 16 February 2005."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2005-02-16",
+          "Text": "From its incorporation on 16 February 2005, Timor Global Pte Ltd had three directors, including Jannie Chan Siew Lee, Lay Ni Suig Bobby and Tan Tjo Tek."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2016-08-15",
+          "Text": "On 15 August 2016, Tan Tjo Tek resigned as a director of Timor Global Pte Ltd, leaving Jannie Chan Siew Lee and Lay Ni Suig Bobby as the remaining directors."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2005-02-16",
+          "Text": "Since its incorporation, Jannie Chan Siew Lee was the sole shareholder of Timor Global Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2005-01-01",
+          "Text": "By 2005, Jannie Chan Siew Lee held a 70% shareholding in Timor Global (TL) Pte Ltd, a company registered in Timor Leste, and Lay Ni Suig Bobby was the sole director of that company."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-07-01",
+          "Text": "On 1 July 2007, Timor Global Pte Ltd, Timor Global (TL) Pte Ltd and Intraco Trading Pte Ltd entered into a joint venture agreement for the trading and processing of coffee beans, under which Intraco would advance funds for raw materials to Timor Global (TL) Pte Ltd, resell processed coffee beans to Timor Global Pte Ltd, and share gross profits with Timor Global Pte Ltd according to agreed ratios."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2007-07-31",
+          "Text": "Between 31 July 2007 and 17 October 2007, Intraco Trading Pte Ltd transferred a series of payments totaling approximately S$8.64 million to Timor Global Pte Ltd, and Timor Global Pte Ltd made outgoing payments totaling approximately S$8.14 million to Timor Global (TL) Pte Ltd over multiple dates in that period."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-12-31",
+          "Text": "As at 31 December 2006, Timor Global Pte Ltd's accounts recorded approximately S$6,662,009.44 as amounts due from Timor Global (TL) Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-12-31",
+          "Text": "As at 31 December 2005, Timor Global Pte Ltd's accounts recorded approximately S$3,111,473.32 as amounts due from Timor Global (TL) Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2008-01-01",
+          "Text": "In 2008, Timor Global Pte Ltd's balance sheet showed that its liabilities exceeded its assets by approximately S$667,000, and the largest asset category was receivables due from Timor Global (TL) Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2008-06-19",
+          "Text": "Between 19 June 2008 and 14 November 2008, end-buyers of coffee beans paid a total of approximately S$3,161,247.39 in sales proceeds directly to Timor Global (TL) Pte Ltd instead of Timor Global Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2008-12-31",
+          "Text": "By 31 December 2008, Timor Global Pte Ltd's management accounts for Timor Global (TL) Pte Ltd recorded the S$3,161,247.39 of coffee sales proceeds received directly from end-buyers."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-09-23",
+          "Text": "On or around 23 September 2009, Intraco Trading Pte Ltd commenced arbitration proceedings against Timor Global Pte Ltd and Timor Global (TL) Pte Ltd relating to payments under the 2007 joint venture arrangement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-09-21",
+          "Text": "On 21 September 2010, Intraco Trading Pte Ltd reached a settlement with Timor Global (TL) Pte Ltd in the arbitration, while continuing its claims against Timor Global Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "By 2013, Timor Global Pte Ltd's records showed receivables from Timor Global (TL) Pte Ltd totaling approximately S$15,343,006.93."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-01-01",
+          "Text": "In 2013, during examination of judgment debtor proceedings, Jannie Chan Siew Lee described the S$15,343,006.93 recorded as due from Timor Global (TL) Pte Ltd as cash loans that Timor Global Pte Ltd had extended over the years, which were interest-free, repayable on demand and secured by a director."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-12-31",
+          "Text": "As at 31 December 2014, Timor Global Pte Ltd's accounts recorded S$15,766,459.98 as total receivables due from Timor Global (TL) Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-12-31",
+          "Text": "By 31 December 2014, Timor Global Pte Ltd's balance sheet showed a net deficit of approximately S$6,512,000, with receivables from Timor Global (TL) Pte Ltd remaining its largest asset."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-03-01",
+          "Text": "In early 2015, the directors of Timor Global Pte Ltd instructed its internal accountants to prepare the company for striking off and, following advice from external auditors or accountants, to write off all assets and liabilities on the balance sheet, including receivables from Timor Global (TL) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-03-01",
+          "Text": "By March 2015, Timor Global Pte Ltd's internal accountants had written off the receivables from Timor Global (TL) Pte Ltd from the company's balance sheet with the oral approval of directors including Jannie Chan Siew Lee."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-03-10",
+          "Text": "On 10 March 2015, Intraco Trading Pte Ltd obtained an arbitration award of S$6,635,566.93 against Timor Global Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-11-26",
+          "Text": "On 26 November 2015, Intraco Trading Pte Ltd obtained a second arbitration award of S$3,630,001.74 against Timor Global Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-04-01",
+          "Text": "In April 2015, Intraco Trading Pte Ltd obtained leave from the High Court to enforce one of its arbitration awards against Timor Global Pte Ltd as a court order and commenced examination of judgment debtor proceedings, during which Jannie Chan Siew Lee was examined."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2007-08-01",
+          "Text": "In August 2007, Timor Global Pte Ltd transferred S$1,276,800 from its bank account to Jannie Chan Siew Lee, and this transfer was recorded in the company's records as a loan repayment to her."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2008-12-31",
+          "Text": "On 31 December 2008, Timor Global Pte Ltd's general journal recorded entries showing that receivables from various third-party customers were reclassified as amounts due from or assumed by Jannie Chan Siew Lee."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2008-12-31",
+          "Text": "On 31 December 2008, letters signed in the name of Jannie Chan Siew Lee stated that she was assuming specific debts owed by named third-party customers to Timor Global Pte Ltd, including a letter confirming assumption of US$16,422.09 owed by David G. Brice."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-03-02",
+          "Text": "On 2 March 2018, Timor Global Pte Ltd was placed into compulsory liquidation following winding up proceedings brought by Intraco Trading Pte Ltd for approximately S$9.8 million."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2019-10-14",
+          "Text": "On or around 14 October 2019, Timor Global Pte Ltd filed a proof of debt in the bankruptcy of Jannie Chan Siew Lee."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2022-04-01",
+          "Text": "On or around 1 April 2022, Timor Global Pte Ltd filed a revised proof of debt in the bankruptcy of Jannie Chan Siew Lee for S$18,413,260 and US$2,301,767, based on the same underlying components as its earlier proof."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2022-01-01",
+          "Text": "By 2022, Timor Global Pte Ltd's claim against the estate of Jannie Chan Siew Lee had been assigned to Fulcrum Distressed Partners Limited."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2022-11-02",
+          "Text": "On 2 November 2022, the private trustee in bankruptcy admitted S$2,632,785.68 of Timor Global Pte Ltd's proof of debt against the estate of Jannie Chan Siew Lee and rejected the balance."
+        }
+      ],
+      "Issue": "Whether the components of Timor Global Pte Ltd's assigned claim, including the TL Sum, the Finished Goods Sum, the Jannie Sum and the Purported Repayment, constitute provable debts in the bankruptcy of Jannie Chan Siew Lee and should be admitted or rejected.",
+      "Rule": "In bankruptcy, a claim is provable if it is a liquidated claim or an unliquidated claim arising from specified legal events such as contract, of trust or tort. Claims for of duty by a director can be treated as unliquidated claims arising by reason of of trust and may be resolved through the proof of debt process where appropriate. A trustee or court may scrutinise proofs of debt, including underlying transactions, and may admit only debts that are genuinely due, taking into account limitation rules and statutory exceptions for fraudulent breaches of trust.",
+      "Application": "Timor Global Pte Ltd, whose claim was later assigned to Fulcrum Distressed Partners Limited, recorded substantial receivables from Timor Global (TL) Pte Ltd and from third-party customers, as well as payments from its bank account to Timor Global (TL) Pte Ltd and to Jannie Chan Siew Lee. The TL Sum of S$15,766,459.98 was recorded as amounts due from Timor Global (TL) Pte Ltd as at 31 December 2014, including transfers in 2007 and earlier balances. The company's financial statements and management accounts consistently treated these transfers as receivables, and in examination proceedings Jannie Chan Siew Lee described them as loans extended by Timor Global Pte Ltd to Timor Global (TL) Pte Ltd. The 2007 joint venture agreement with Intraco Trading Pte Ltd and Timor Global (TL) Pte Ltd provided for Intraco to advance funds for raw materials to Timor Global (TL) Pte Ltd and for Timor Global Pte Ltd to purchase processed coffee beans, but the timing and amounts of the 2007 incoming payments from Intraco and outgoing payments to Timor Global (TL) Pte Ltd did not match in a way that clearly showed that Timor Global Pte Ltd was merely a conduit. The receivables from Timor Global (TL) Pte Ltd remained on Timor Global Pte Ltd's balance sheet for years and were not collected, and in 2015 the directors instructed that all assets and liabilities, including these receivables, be written off in preparation for striking off the company. The Finished Goods Sum of S$3,161,247.39 consisted of coffee sales proceeds that end-buyers paid directly to Timor Global (TL) Pte Ltd between June and November 2008, even though the joint venture agreement contemplated that Timor Global Pte Ltd would receive sale proceeds from its customers. These receipts were recorded in Timor Global (TL) Pte Ltd's management accounts. Timor Global Pte Ltd's balance sheets from 2008 onwards showed that its liabilities exceeded its assets, with receivables from Timor Global (TL) Pte Ltd as its largest asset category. The Jannie Sum of S$1,355,985.68 was reflected in Timor Global Pte Ltd's general journal as receivables from third-party customers being reclassified as amounts due from or assumed by Jannie Chan Siew Lee, and contemporaneous letters dated 31 December 2008, bearing her signature, stated that she was assuming specific debts owed by named customers to Timor Global Pte Ltd. The Purported Repayment of S$1,276,800 was a transfer from Timor Global Pte Ltd's bank account to Jannie Chan Siew Lee in August 2007, recorded as a loan repayment to her, without supporting documentation of an underlying loan from her to the company. The private trustee treated some of these components as admissible and others as rejected, and Fulcrum Distressed Partners Limited applied to reverse the rejections while the bankrupt applied to challenge the admissions. The court analysed whether the claims based on director conduct could be treated as provable unliquidated claims arising from of trust, whether the factual records and contemporaneous documents supported the existence and quantum of the debts, and whether limitation periods were displaced by statutory provisions relating to fraudulent breaches of trust.",
+      "Judicial_Reasoning_Log": "The judge first addressed whether claims based on alleged breaches of fiduciary duty by a director are provable in bankruptcy. Relying on the earlier decision in Re Medora Xerxes Jamshid, the court held that such claims are provable as unliquidated claims arising by reason of breach of trust under section 87(3) of the Bankruptcy Act, given the analogy between fiduciary and trust relationships and the policy of giving a bankrupt a fresh start by allowing a broad range of claims to be resolved in bankruptcy. The court noted that such claims are not liquidated debts and are not provable as obligations to make restitution or as contractual claims, but may be resolved through the proof of debt regime where the complexity of the issues permits. Both Fulcrum Distressed Partners Limited and the private trustee accepted that the claims could be dealt with in this way.\n\nOn the TL Sum, the court examined whether the 2007 payments from Timor Global Pte Ltd to Timor Global (TL) Pte Ltd were simply a routing of Intraco Trading Pte Ltd's advances under the 2007 joint venture agreement. The judge analysed the sequence and amounts of incoming payments from Intraco and outgoing payments to Timor Global (TL) Pte Ltd and found that the timing and quantum did not align in a way that clearly showed a conduit arrangement. Some Intraco payments were not matched by corresponding outgoing payments, and the amounts did not match exactly. The court also relied on the accounting treatment: the payments were recorded as receivables due from Timor Global (TL) Pte Ltd, and in examination proceedings Jannie Chan Siew Lee described the S$15.34 million as loans extended by Timor Global Pte Ltd to Timor Global (TL) Pte Ltd, interest-free and repayable on demand. The judge concluded that the TL Sum represented debts due from Timor Global (TL) Pte Ltd to Timor Global Pte Ltd, not merely pass-through payments under the joint venture.\n\nThe court then considered whether the director's conduct in relation to the TL Sum amounted to a breach of fiduciary duty. Applying the framework for the duty to act bona fide in the interests of the company and the creditor-focused duty when insolvency is imminent or inevitable, as set out in Goh Chan Peng, Progen, and Foo Kian Beng, the judge assessed Timor Global Pte Ltd's financial position. The company was balance sheet solvent in 2005–2007 but heavily dependent on receivables from Timor Global (TL) Pte Ltd, which were not being collected and had no repayment schedule. The liquidators' view that the company was in parlous financial straits and effectively insolvent from 2008 onwards was accepted. The judge categorised the company as in an intermediate financial stage in 2006–2007 and in a stage where insolvency proceedings were inevitable from 2008 onwards. The court found that there was no identified commercial benefit to Timor Global Pte Ltd from extending large sums to Timor Global (TL) Pte Ltd, that Timor Global (TL) Pte Ltd was not a subsidiary, and that there was no repayment schedule or demand for repayment. The director had signed off on the financial statements and acknowledged the receivables in examination proceedings. The judge concluded that causing the payments to be made, failing to pursue repayment over many years, and later approving the write-off of the receivables in 2015 in the context of impending insolvency were not consistent with acting in the interests of the company or its creditors. The court therefore held that there was a breach of the duty to act bona fide in the interests of the company in relation to the TL Sum.\n\nOn limitation, the judge considered section 6 of the Limitation Act and the case law on when a cause of action for breach of director's duty accrues, including Ho Pak Kim Realty Co Pte Ltd v Ho Soo Fong and Foo Kian Beng. The court adopted the approach that time runs from the point of breach but held that section 22(1)(a) of the Limitation Act applied. Referring to Panweld Trading Pte Ltd v Yong Kheng Leong and Dynasty Line Ltd v Sukamto Sia, the judge treated the director as a trustee-like figure for company assets and applied the rule that no limitation period applies to actions in respect of fraudulent breaches of trust. The court reasoned that extending large sums to a related company without commercial benefit, not seeking repayment, and writing off the receivables in the face of insolvency could not be reconciled with an honest belief that the conduct was in the company's interests, and therefore amounted to a fraudulent breach of trust for limitation purposes. As a result, the TL Sum claim was not time-barred and was admitted.\n\nFor the Finished Goods Sum, the court examined the 2007 joint venture agreement, which contemplated that Timor Global Pte Ltd would receive sale proceeds from its customers. The evidence showed that between June and November 2008, end-buyers paid S$3,161,247.39 directly to Timor Global (TL) Pte Ltd, and these receipts were recorded in Timor Global (TL) Pte Ltd's accounts. The private trustee had rejected this component on the basis that there was no proof that the director knew of the diversion. The judge considered the director's role and knowledge, noting that she had managed Timor Global Pte Ltd from incorporation, was its sole shareholder, signed its financial statements, and was an authorised bank signatory. The court compared the situation to Dynasty Line and Ho Soo Fong, where directors were found to have knowledge or to be under a duty to inquire given their positions and the size of the transactions. Given the magnitude of the Finished Goods Sum relative to Timor Global Pte Ltd's revenue and deficit in 2008, the judge found it implausible that the director would be unaware of the absence of these receipts and concluded that she either knew or ought to have known of the diversion. In the context of insolvency, allowing sale proceeds to be paid to another entity and not pursuing recovery was found inconsistent with the interests of creditors. The court treated this as a breach of the duty to act in the company's interests and, for limitation purposes, as a fraudulent breach of trust under section 22(1)(a), so that the six-year limitation period did not apply. The Finished Goods Sum was therefore admitted.\n\nRegarding the Jannie Sum, the judge reviewed contemporaneous letters dated 31 December 2008, signed in the name of Jannie Chan Siew Lee, in which she confirmed that she was assuming specific debts owed by named customers to Timor Global Pte Ltd. These letters were supported by general journal entries reclassifying receivables from those customers as amounts due from her. The court rejected her later assertion that the signatures were digital and that the customers owed her personally, noting that the signatures varied and appeared to be wet-ink, that the accounting records treated the sums as company receivables, and that her alternative explanation was raised late and unsupported by documentation. The judge concluded that she had taken over the benefit of receivables that had been company assets without showing a corresponding obligation from the company to her, and that this conduct occurred when the company was insolvent. The court held that this was a misapplication of company assets and a breach of custodial and fiduciary duties, and that the claim fell within the fraudulent breach of trust exception to limitation.\n\nFor the Purported Repayment, the court noted the August 2007 transfer of S$1,276,800 from Timor Global Pte Ltd's bank account to the director, recorded as a loan repayment. The director did not dispute receiving the funds but claimed they repaid a loan she had made to the company. The judge found no documentary evidence of such a loan and no entries in the company's records supporting a liability of that amount to her. In light of the company's financial position and the absence of supporting documentation, the court accepted the private trustee's view that the transfer represented a diversion of company funds to the director without justification. The judge treated this as a breach of fiduciary duty and a fraudulent breach of trust for limitation purposes, so that section 22(1)(a) of the Limitation Act applied and the claim was not time-barred.\n\nOverall, the court held that the TL Sum and the Finished Goods Sum were provable debts arising from breaches of fiduciary duty and should be admitted, reversing the private trustee's rejection of those components. The court upheld the trustee's admission of the Jannie Sum and the Purported Repayment, rejecting the bankrupt's challenges. The judge emphasised that the trustee had a duty to scrutinise proofs of debt but that, on the evidence, the challenged components represented genuine claims against the bankrupt's estate based on her conduct as director of Timor Global Pte Ltd."
+    },
+    "Label": "Allowed",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "[2025] SGHC 27; Bankruptcy No 2648 of 2018; Summonses Nos 4314, 4315, 4316 of 2022; Originating Application No 797 of 2022",
+      "Coram": "Aidan Xu @ Aedit Abdullah J",
+      "Judge": "Aidan Xu @ Aedit Abdullah",
+      "Date": "2025-02-19",
+      "Tribunal_Court": "General Division of the High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Jannie Chan Siew Lee",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-01-01",
+          "Text": "In 2012, Jannie Chan Siew Lee was the sole director and sole shareholder of JASC Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2005-02-16",
+          "Text": "From 16 February 2005, Jannie Chan Siew Lee served as a director of Timor Global Pte Ltd."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2005-02-16",
+          "Text": "From the incorporation of Timor Global Pte Ltd, Jannie Chan Siew Lee was its sole shareholder."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2005-01-01",
+          "Text": "By 2005, Jannie Chan Siew Lee held a 70% shareholding in Timor Global (TL) Pte Ltd, a company registered in Timor Leste."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2005-02-16",
+          "Text": "From 16 February 2005 until Timor Global Pte Ltd entered liquidation in March 2018, Jannie Chan Siew Lee was involved in the management and control of Timor Global Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "In 2012, as sole director of JASC Pte Ltd, Jannie Chan Siew Lee caused JASC Pte Ltd to obtain a loan from SME Care Pte Ltd, secured by mortgages over properties and her personal guarantee."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-09-05",
+          "Text": "By 5 September 2014, JASC Pte Ltd under the control of Jannie Chan Siew Lee had not fully repaid the loan principal, late interest, late payment processing fees and extension fees owed to SME Care Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-09-05",
+          "Text": "On 5 September 2014, Jannie Chan Siew Lee filed an affidavit in Originating Summons 850 of 2014 on behalf of JASC Pte Ltd seeking to set aside or vary the loan agreement with SME Care Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-09-26",
+          "Text": "On 26 September 2017, Jannie Chan Siew Lee signed a settlement agreement with SME Care Pte Ltd in relation to Suit 995 of 2016 concerning her personal guarantee."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-09-26",
+          "Text": "On 26 September 2017, Jannie Chan Siew Lee signed a draft consent judgment document in favour of SME Care Pte Ltd that could be entered if she did not comply with the settlement agreement."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-10-26",
+          "Text": "After 26 October 2017, Jannie Chan Siew Lee did not make full payment of the $2,150,000 sum specified in the settlement arrangement with SME Care Pte Ltd, leading to the entry of a consent judgment."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2007-08-01",
+          "Text": "In August 2007, Jannie Chan Siew Lee received S$1,276,800 from Timor Global Pte Ltd's bank account, which Timor Global Pte Ltd recorded as a loan repayment to her."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2008-12-31",
+          "Text": "On 31 December 2008, Timor Global Pte Ltd's general journal recorded that receivables from certain third-party customers were reclassified as amounts due from or assumed by Jannie Chan Siew Lee."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2008-12-31",
+          "Text": "On 31 December 2008, letters bearing the signature of Jannie Chan Siew Lee stated that she was assuming specific debts owed by named customers to Timor Global Pte Ltd, including a letter confirming assumption of US$16,422.09 owed by David G. Brice."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-01-01",
+          "Text": "In 2013, during examination of judgment debtor proceedings relating to an Intraco Trading Pte Ltd award, Jannie Chan Siew Lee described the S$15,343,006.93 recorded as due from Timor Global (TL) Pte Ltd as cash loans extended by Timor Global Pte Ltd to Timor Global (TL) Pte Ltd, interest-free, repayable on demand and secured by a director."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-03-01",
+          "Text": "In early 2015, as a director of Timor Global Pte Ltd, Jannie Chan Siew Lee approved instructions to internal accountants to write off all assets and liabilities on the company's balance sheet, including receivables from Timor Global (TL) Pte Ltd, in preparation for striking off the company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-03-01",
+          "Text": "By March 2015, Jannie Chan Siew Lee had orally approved the internal accountants of Timor Global Pte Ltd writing off receivables from Timor Global (TL) Pte Ltd from the company's accounts."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2019-05-27",
+          "Text": "On 27 May 2019, a bankruptcy order was made against Jannie Chan Siew Lee in Bankruptcy No 2648 of 2018."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2022-06-09",
+          "Text": "On 9 June 2022, Yit Chee Wah was appointed as private trustee in bankruptcy of the estate of Jannie Chan Siew Lee, replacing the Official Assignee."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2022-02-28",
+          "Text": "On 28 February 2022, the private trustee invited Jannie Chan Siew Lee to state her position in writing regarding SME Care Pte Ltd's proof of debt, and she responded by letter dated 23 March 2022."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2022-07-14",
+          "Text": "On 14 July 2022, Jannie Chan Siew Lee provided a written note setting out her objections to Timor Global Pte Ltd's proof of debt filed in her bankruptcy."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2022-11-29",
+          "Text": "On 29 November 2022, Jannie Chan Siew Lee filed an affidavit in Summons 4315 of 2022 and Summons 4316 of 2022 challenging the private trustee's adjudication of proofs of debt."
+        }
+      ],
+      "Issue": "Whether the debts claimed by SME Care Pte Ltd and by the assignee of Timor Global Pte Ltd's claim should be admitted in the bankruptcy of Jannie Chan Siew Lee, and whether the private trustee's partial admissions and rejections of those proofs of debt should be reversed or varied.",
+      "Rule": "Upon a bankruptcy order, the bankrupt's property vests in the trustee, who must examine proofs of debt and admit only debts that are genuinely due, applying the statutory framework for provable debts and limitation. The trustee and the court may go behind judgments and settlements where there is a reasonable basis to suspect that the underlying debts are not genuine, but generally will not do so absent indications of fraud, collusion or miscarriage of justice. Claims based on director conduct may be treated as unliquidated claims arising from of trust and are limitation rules, with exceptions for fraudulent breaches of trust.",
+      "Application": "As a bankrupt, Jannie Chan Siew Lee faced proofs of debt from SME Care Pte Ltd based on a consent judgment and from Timor Global Pte Ltd, later assigned to Fulcrum Distressed Partners Limited, based on her conduct as director and shareholder of Timor Global Pte Ltd and Timor Global (TL) Pte Ltd. In relation to SME Care Pte Ltd, she had caused JASC Pte Ltd to borrow from SME Care Pte Ltd in 2012, secured by her personal guarantee, and later entered into a settlement agreement and signed a consent judgment in 2017. After she did not pay the agreed sum, a consent judgment was entered in 2018. SME Care Pte Ltd filed a proof of debt in 2019 for the judgment sum and interest. The private trustee reviewed the loan history, the 2015 court-ordered revision of interest, the settlement agreement and the consent judgment, and partially admitted the proof on a simple interest basis. Jannie Chan Siew Lee applied to set aside this admission, raising objections to the loan terms, the settlement agreement and the consent judgment. The court considered whether there was a basis to go behind the consent judgment and whether the trustee had properly scrutinised the proof. Regarding the Timor Global Pte Ltd claim, the court examined her roles and actions: she was the sole shareholder and a director of Timor Global Pte Ltd, held a majority share in Timor Global (TL) Pte Ltd, and was involved in management and control. Timor Global Pte Ltd's accounts recorded large receivables from Timor Global (TL) Pte Ltd, including the TL Sum, and she described these as loans in examination proceedings. The company made substantial payments to Timor Global (TL) Pte Ltd in 2007 and earlier, did not collect repayment, and in 2015 she approved writing off the receivables in preparation for striking off the company. End-buyers of coffee beans paid the Finished Goods Sum directly to Timor Global (TL) Pte Ltd in 2008, while Timor Global Pte Ltd's balance sheets showed deficits and dependence on receivables from Timor Global (TL) Pte Ltd. The Jannie Sum was reflected in journal entries and letters as receivables from customers being assumed by her, and the Purported Repayment was a large transfer from Timor Global Pte Ltd's bank account to her in 2007 recorded as a loan repayment without supporting documentation of an underlying loan. The private trustee admitted the Jannie Sum and the Purported Repayment and rejected the TL Sum and the Finished Goods Sum. Fulcrum Distressed Partners Limited sought reversal of the rejections, and Jannie Chan Siew Lee sought reversal of the admissions. The court analysed the accounting records, contemporaneous documents, her own descriptions in earlier proceedings, the financial condition of Timor Global Pte Ltd, and the statutory framework for provable debts and limitation, including the exception for fraudulent breaches of trust.",
+      "Judicial_Reasoning_Log": "The judge considered three main applications involving the bankrupt, Jannie Chan Siew Lee: her application to set aside SME Care Pte Ltd's proof of debt, the assignee's application to reverse the private trustee's rejection of parts of Timor Global Pte Ltd's proof of debt, and her application to challenge the trustee's admission of other parts of that proof. On the SME Care Pte Ltd proof, the court noted that the proof was based on a consent judgment entered on 7 May 2018 for $2,150,000 plus contractual interest. The judge reviewed the principles governing when a trustee or court may go behind a judgment in the proof of debt context, including the need for indications of fraud, collusion or miscarriage of justice, and the requirement that a consent judgment generally be set aside only in separate proceedings. The court observed that earlier litigation (SME Care Pte Ltd v Chan Siew Lee Jannie [2018] SGHC 96) had already addressed and rejected allegations of fraud or misrepresentation in relation to the settlement agreement. In the present proceedings, the bankrupt's further assertions about pressure, lack of legal representation and not reading the documents were found not to amount to evidence of fraud, undue influence or misrepresentation. The judge also noted that the private trustee had in fact examined the underlying loan, the interest rates and the moneylending transaction, and had adjusted the interest calculation from compound to simple interest. The court concluded that there was no basis to go behind the consent judgment further and no basis to invalidate SME Care Pte Ltd's admitted claim, and therefore dismissed the bankrupt's application to reverse the trustee's partial admission.\n\nOn the Timor Global Pte Ltd proof of debt, the judge first determined that claims based on alleged breaches of fiduciary duty by a director are provable in bankruptcy as unliquidated claims arising by reason of breach of trust under section 87(3) of the Bankruptcy Act, following Re Medora Xerxes Jamshid. The court then examined the TL Sum, the Finished Goods Sum, the Jannie Sum and the Purported Repayment. For the TL Sum, the judge analysed the 2007 joint venture agreement with Intraco Trading Pte Ltd and Timor Global (TL) Pte Ltd and the pattern of payments between Intraco, Timor Global Pte Ltd and Timor Global (TL) Pte Ltd. The court found that the timing and amounts of the 2007 incoming and outgoing payments did not align in a way that clearly showed that Timor Global Pte Ltd was merely a conduit for Intraco's advances. The accounting treatment of the payments as receivables due from Timor Global (TL) Pte Ltd and the bankrupt's own description of them as loans in examination proceedings supported the conclusion that the TL Sum represented debts owed by Timor Global (TL) Pte Ltd to Timor Global Pte Ltd. The judge then applied the framework for the duty to act bona fide in the interests of the company and the creditor-focused duty when insolvency is imminent or inevitable, as set out in Goh Chan Peng, Progen and Foo Kian Beng. The court accepted the liquidators' assessment that Timor Global Pte Ltd was in financial difficulty from 2005–2007 and insolvent from 2008 onwards, with its largest asset category being receivables from Timor Global (TL) Pte Ltd that were not being collected. The judge concluded that causing large payments to be made to Timor Global (TL) Pte Ltd without identified commercial benefit, not seeking repayment over many years, and approving the write-off of the receivables in 2015 in the context of impending insolvency were inconsistent with acting in the interests of the company or its creditors and amounted to breaches of fiduciary duty.\n\nOn limitation, the court considered section 6 of the Limitation Act and the case law on when a cause of action for breach of director's duty accrues, including Ho Pak Kim Realty Co Pte Ltd v Ho Soo Fong and Foo Kian Beng. The judge adopted the approach that time runs from the point of breach but held that section 22(1)(a) of the Limitation Act applied. Referring to Panweld Trading Pte Ltd v Yong Kheng Leong and Dynasty Line Ltd v Sukamto Sia, the court treated the director as a trustee-like figure for company assets and applied the rule that no limitation period applies to actions in respect of fraudulent breaches of trust. The judge reasoned that extending large sums to a related company without commercial benefit, not seeking repayment, and writing off the receivables in the face of insolvency could not be reconciled with an honest belief that the conduct was in the company's interests, and therefore amounted to a fraudulent breach of trust for limitation purposes. As a result, the TL Sum claim was not time-barred and was admitted.\n\nFor the Finished Goods Sum, the court examined the 2007 joint venture agreement, which contemplated that Timor Global Pte Ltd would receive sale proceeds from its customers. The evidence showed that between June and November 2008, end-buyers paid S$3,161,247.39 directly to Timor Global (TL) Pte Ltd, and these receipts were recorded in Timor Global (TL) Pte Ltd's accounts. The private trustee had rejected this component on the basis that there was no proof that the bankrupt knew of the diversion. The judge considered her role and knowledge, noting that she had managed Timor Global Pte Ltd from incorporation, was its sole shareholder, signed its financial statements, and was an authorised bank signatory. The court compared the situation to Dynasty Line and Ho Soo Fong, where directors were found to have knowledge or to be under a duty to inquire given their positions and the size of the transactions. Given the magnitude of the Finished Goods Sum relative to Timor Global Pte Ltd's revenue and deficit in 2008, the judge found it implausible that she would be unaware of the absence of these receipts and concluded that she either knew or ought to have known of the diversion. In the context of insolvency, allowing sale proceeds to be paid to another entity and not pursuing recovery was found inconsistent with the interests of creditors. The court treated this as a breach of the duty to act in the company's interests and, for limitation purposes, as a fraudulent breach of trust under section 22(1)(a), so that the six-year limitation period did not apply. The Finished Goods Sum was therefore admitted.\n\nRegarding the Jannie Sum, the judge reviewed contemporaneous letters dated 31 December 2008, signed in the name of the bankrupt, in which she confirmed that she was assuming specific debts owed by named customers to Timor Global Pte Ltd. These letters were supported by general journal entries reclassifying receivables from those customers as amounts due from her. The court rejected her later assertion that the signatures were digital and that the customers owed her personally, noting that the signatures varied and appeared to be wet-ink, that the accounting records treated the sums as company receivables, and that her alternative explanation was raised late and unsupported by documentation. The judge concluded that she had taken over the benefit of receivables that had been company assets without showing a corresponding obligation from the company to her, and that this conduct occurred when the company was insolvent. The court held that this was a misapplication of company assets and a breach of custodial and fiduciary duties, and that the claim fell within the fraudulent breach of trust exception to limitation.\n\nFor the Purported Repayment, the court noted the August 2007 transfer of S$1,276,800 from Timor Global Pte Ltd's bank account to the bankrupt, recorded as a loan repayment. She did not dispute receiving the funds but claimed they repaid a loan she had made to the company. The judge found no documentary evidence of such a loan and no entries in the company's records supporting a liability of that amount to her. In light of the company's financial position and the absence of supporting documentation, the court accepted the private trustee's view that the transfer represented a diversion of company funds to her without justification. The judge treated this as a breach of fiduciary duty and a fraudulent breach of trust for limitation purposes, so that section 22(1)(a) of the Limitation Act applied and the claim was not time-barred.\n\nThe court therefore dismissed the bankrupt's applications to overturn the trustee's admissions of SME Care Pte Ltd's proof of debt and of the Jannie Sum and Purported Repayment, and allowed the assignee's applications to admit the TL Sum and the Finished Goods Sum as provable debts in her bankruptcy."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  }
+]

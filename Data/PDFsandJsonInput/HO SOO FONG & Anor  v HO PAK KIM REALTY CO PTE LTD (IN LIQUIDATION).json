@@ -1,0 +1,183 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 166 of 2020",
+      "Coram": "Andrew Phang Boon Leong JCA, Chao Hick Tin SJ and Woo Bih Li JAD",
+      "Judge": "Andrew Phang Boon Leong JCA",
+      "Date": "2021-04-07",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Ho Pak Kim Realty Co Pte Ltd (in liquidation)",
+      "Law_Firm": "WNLEX LLC",
+      "Counsel": [
+        "Lee Ming Hui Kelvin",
+        "Ong Xin Ying Samantha",
+        "Kikki Tan"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2018-01-01",
+          "Text": "Ho Pak Kim Realty Co Pte Ltd was in liquidation by the time of the commencement of HC/Suit No 1012 of 2018."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "By 2018, Ho Pak Kim Realty Co Pte Ltd was recorded as owing a judgment debt of about $1.6m to Revitech Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "By 2018, a sum of about $3,590,587 was recorded as owed to Ho Pak Kim Realty Co Pte Ltd by related companies Invest Ho Properties Pte Ltd and Ho Tong Seng Eng Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "By 2018, Invest Ho Properties Pte Ltd and Ho Tong Seng Eng Pte Ltd were related companies of Ho Pak Kim Realty Co Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "Before the commencement of HC/Suit No 1012 of 2018, books and records of Ho Pak Kim Realty Co Pte Ltd existed and were later described as having been destroyed."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "Before the commencement of HC/Suit No 1012 of 2018, statements of affairs relating to Ho Pak Kim Realty Co Pte Ltd were prepared and submitted to the liquidator."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "By 2018, the liquidator of Ho Pak Kim Realty Co Pte Ltd was Don Ho."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "By 2018, the appellants stated that a sum of $2,734,928.66 was owed to them by Ho Pak Kim Realty Co Pte Ltd."
+        }
+      ],
+      "Issue": "Whether, before the commencement of HC/Suit No 1012 of 2018, the existence and non-recovery of a recorded $3.59m debt from related companies Invest Ho Properties Pte Ltd and Ho Tong Seng Eng Pte Ltd, together with the handling of the company’s books and statements of affairs, affected the financial position of Ho Pak Kim Realty Co Pte Ltd and its ability to satisfy a $1.6m judgment debt to Revitech Pte Ltd.",
+      "Rule": "Directors of a company are generally manage the company’s affairs in good faith in the interests of the company, to avoid conflicts between their personal interests and the company’s interests, and to exercise reasonable care, skill and diligence in dealing with company assets and records.",
+      "Application": "Ho Pak Kim Realty Co Pte Ltd was in liquidation by 2018 with an outstanding judgment debt of about $1.6m to Revitech Pte Ltd, while a larger sum of about $3.59m was recorded as owed to it by related companies Invest Ho Properties Pte Ltd and Ho Tong Seng Eng Pte Ltd. The appellants were directors of both the respondent and these related companies, and company books and statements of affairs concerning these financial relationships existed and were handled prior to the commencement of HC/Suit No 1012 of 2018.",
+      "Judicial_Reasoning_Log": "The court described the appellants’ conduct as a deliberate and systematic effort to obstruct the liquidator from obtaining a true picture of the company’s affairs and recovering monies owed. It accepted the trial judge’s findings that the appellants knew of the $3.59m debt owed to the respondent by Invest Ho Properties Pte Ltd and Ho Tong Seng Eng Pte Ltd, failed to pursue recovery of this debt, and that this failure contributed to the respondent being unable to pay a $1.6m judgment debt to Revitech Pte Ltd. The court agreed that the appellants destroyed the respondent’s books and that the first appellant’s explanations were inconsistent and not credible, supporting an inference of deliberate destruction that impeded the liquidator’s recovery efforts. It also agreed that the appellants failed to submit proper statements of affairs, which again impeded asset recovery. The court endorsed the trial judge’s conclusion that the second appellant was not merely a “sleeping” director and that both appellants breached fiduciary and no-conflict duties by prioritising the interests of Invest Ho Properties Pte Ltd and Ho Tong Seng Eng Pte Ltd, and their own interests as shareholders and directors of those entities, over the interests of the respondent. The appellate court rejected new arguments raised on appeal regarding the alleged inability of Ho Tong Seng Eng Pte Ltd to pay and the uncertainty of litigation, finding them unpleaded, unsupported by evidence, and legally untenable. It upheld the trial judge’s award of $3,590,587 against the appellants and dismissed the appeal. The court clarified that the alleged $2,734,928.66 owed by the respondent to the appellants was not in issue in Suit 1012 because the appellants had reserved their rights and did not pursue a counterclaim, and that no res judicata arose from the trial judge’s observations on that sum. The court awarded the respondent costs of $37,534.10 all-in and made the usual consequential orders."
+    },
+    "Label": "Allowed",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 166 of 2020",
+      "Coram": "Andrew Phang Boon Leong JCA, Chao Hick Tin SJ and Woo Bih Li JAD",
+      "Judge": "Andrew Phang Boon Leong JCA",
+      "Date": "2021-04-07",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Ho Soo Fong",
+      "Law_Firm": "Optimus Chambers LLC",
+      "Counsel": [
+        "Choh Thian Chee Irving",
+        "Kor Wan Wen Melissa",
+        "Chen Sixue"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2018-01-01",
+          "Text": "By the time of HC/Suit No 1012 of 2018, Ho Soo Fong was a director of Ho Pak Kim Realty Co Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2018-01-01",
+          "Text": "By 2018, Ho Soo Fong was a director of Invest Ho Properties Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2018-01-01",
+          "Text": "By 2018, Ho Soo Fong was a director of Ho Tong Seng Eng Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "By 2018, a sum of about $3,590,587 was recorded as owed by Invest Ho Properties Pte Ltd and Ho Tong Seng Eng Pte Ltd to Ho Pak Kim Realty Co Pte Ltd while Ho Soo Fong was a director of these companies."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-01-01",
+          "Text": "Before the commencement of HC/Suit No 1012 of 2018, Ho Soo Fong handled or directed the handling of books and records of Ho Pak Kim Realty Co Pte Ltd that were later described as destroyed."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "Before the commencement of HC/Suit No 1012 of 2018, Ho Soo Fong submitted three statements of affairs relating to Ho Pak Kim Realty Co Pte Ltd to the liquidator."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "By 2018, Ho Soo Fong and the second appellant stated that a sum of $2,734,928.66 was owed to them by Ho Pak Kim Realty Co Pte Ltd and reserved their rights to file a claim for this sum."
+        }
+      ],
+      "Issue": "Whether, before the commencement of HC/Suit No 1012 of 2018, the conduct of Ho Soo Fong as a director of Ho Pak Kim Realty Co Pte Ltd and of related companies Invest Ho Properties Pte Ltd and Ho Tong Seng Eng Pte Ltd, in relation to a recorded $3.59m inter-company debt, the handling of company books, and the submission of statements of affairs, affected the financial position of Ho Pak Kim Realty Co Pte Ltd and its ability to satisfy a $1.6m judgment debt to Revitech Pte Ltd.",
+      "Rule": "A director is generally manage the company’s affairs in good faith in the interests of the company, to avoid conflicts between personal interests and the company’s interests, and to exercise reasonable care, skill and diligence in dealing with company assets, inter-company debts, and corporate records.",
+      "Application": "By 2018, Ho Soo Fong held directorships in Ho Pak Kim Realty Co Pte Ltd and in related debtor companies Invest Ho Properties Pte Ltd and Ho Tong Seng Eng Pte Ltd, while a recorded sum of about $3.59m was owed by those related companies to Ho Pak Kim Realty Co Pte Ltd and a judgment debt of about $1.6m was owed by Ho Pak Kim Realty Co Pte Ltd to Revitech Pte Ltd. In this period, books and records of Ho Pak Kim Realty Co Pte Ltd were handled and later described as destroyed, and three statements of affairs were submitted by Ho Soo Fong to the liquidator. These events occurred against the backdrop of the appellants’ position that $2,734,928.66 was owed to them by Ho Pak Kim Realty Co Pte Ltd, for which they reserved their rights to file a claim.",
+      "Judicial_Reasoning_Log": "The trial judge and the Court of Appeal concluded that Ho Soo Fong, as first appellant, breached directors’ and fiduciary duties by failing to pursue recovery of the $3.59m debt owed to the respondent by Invest Ho Properties Pte Ltd and Ho Tong Seng Eng Pte Ltd, companies in which he was a director and shareholder. The courts found that this failure contributed to the respondent’s inability to pay the $1.6m judgment debt to Revitech Pte Ltd and that the monies remained with the related companies to the appellants’ benefit. The courts accepted that the first appellant deliberately destroyed the respondent’s books, rejecting his multiple inconsistent explanations and characterising his account as a blatant lie, and inferred that this destruction impeded the liquidator’s attempts to recover the $3.59m and other assets. They also found that the three statements of affairs submitted by him were defective, wrongly dated, or unsupported by financial documents, further obstructing the liquidator. The courts rejected the contention that the second appellant was a “sleeping” director and held that both appellants breached the no-conflict rule by acting in the interests of Invest Ho Properties Pte Ltd and Ho Tong Seng Eng Pte Ltd and themselves, rather than in the interests of the respondent. The appellate court dismissed new arguments that Ho Tong Seng Eng Pte Ltd lacked funds and that litigation to recover the $3.59m was too uncertain, finding these arguments unpleaded, unsupported, and legally untenable. It upheld the trial judge’s award of $3,590,587 against the appellants, dismissed the appeal, and awarded costs to the respondent. The court also clarified that no res judicata arose regarding the alleged $2,734,928.66 owed to the appellants, as they had reserved their rights and not pursued a counterclaim, but confirmed that they could not re-litigate issues concerning their liability for breaches of directors’ duties."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 166 of 2020",
+      "Coram": "Andrew Phang Boon Leong JCA, Chao Hick Tin SJ and Woo Bih Li JAD",
+      "Judge": "Andrew Phang Boon Leong JCA",
+      "Date": "2021-04-07",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Ho Soo Kheng",
+      "Law_Firm": "Optimus Chambers LLC",
+      "Counsel": [
+        "Choh Thian Chee Irving",
+        "Kor Wan Wen Melissa",
+        "Chen Sixue"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2018-01-01",
+          "Text": "By the time of HC/Suit No 1012 of 2018, Ho Soo Kheng was a director of Ho Pak Kim Realty Co Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2018-01-01",
+          "Text": "By 2018, Ho Soo Kheng was a director of Invest Ho Properties Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2018-01-01",
+          "Text": "By 2018, Ho Soo Kheng was a director of Ho Tong Seng Eng Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "By 2018, a sum of about $3,590,587 was recorded as owed by Invest Ho Properties Pte Ltd and Ho Tong Seng Eng Pte Ltd to Ho Pak Kim Realty Co Pte Ltd while Ho Soo Kheng was a director of these companies."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "By 2018, Ho Soo Kheng and the first appellant stated that a sum of $2,734,928.66 was owed to them by Ho Pak Kim Realty Co Pte Ltd and reserved their rights to file a claim for this sum."
+        }
+      ],
+      "Issue": "Whether, before the commencement of HC/Suit No 1012 of 2018, the position and conduct of Ho Soo Kheng as a director of Ho Pak Kim Realty Co Pte Ltd and of related companies Invest Ho Properties Pte Ltd and Ho Tong Seng Eng Pte Ltd, in relation to a recorded $3.59m inter-company debt and the financial position of Ho Pak Kim Realty Co Pte Ltd, affected the company’s ability to satisfy a $1.6m judgment debt to Revitech Pte Ltd.",
+      "Rule": "A director is generally participate in the management of the company’s affairs in good faith in the interests of the company, to avoid conflicts between personal interests and the company’s interests, and to exercise reasonable care, skill and diligence in relation to company assets and inter-company debts, regardless of whether the director is executive or non-executive.",
+      "Application": "By 2018, Ho Soo Kheng held directorships in Ho Pak Kim Realty Co Pte Ltd and in related debtor companies Invest Ho Properties Pte Ltd and Ho Tong Seng Eng Pte Ltd, while a recorded sum of about $3.59m was owed by those related companies to Ho Pak Kim Realty Co Pte Ltd and a judgment debt of about $1.6m was owed by Ho Pak Kim Realty Co Pte Ltd to Revitech Pte Ltd. During this period, the appellants maintained that $2,734,928.66 was owed to them by Ho Pak Kim Realty Co Pte Ltd and reserved their rights to pursue a claim for that amount. These overlapping roles and financial relationships formed the factual context for assessing the impact of his conduct on the company’s position.",
+      "Judicial_Reasoning_Log": "The courts rejected Ho Soo Kheng’s characterisation of himself as a “sleeping” director and held that he shared responsibility with the first appellant for the company’s affairs. They concluded that both appellants breached fiduciary and no-conflict duties by failing to pursue recovery of the $3.59m owed to the respondent by Invest Ho Properties Pte Ltd and Ho Tong Seng Eng Pte Ltd, companies in which they were directors and shareholders, thereby allowing the monies to remain with those companies to their benefit while the respondent remained unable to satisfy a $1.6m judgment debt to Revitech Pte Ltd. The courts accepted that the appellants took steps that obstructed the liquidator, including the destruction of the respondent’s books and the submission of defective statements of affairs, and treated these actions as part of a concerted and sustained effort to impede inquiries into the respondent’s affairs and the recovery of assets. The appellate court endorsed the trial judge’s findings that the appellants’ conduct constituted breaches of fiduciary and no-conflict duties in every material respect, rejected their new arguments on appeal as unpleaded and lacking evidential and legal merit, and upheld the award of $3,590,587 against them. It clarified that the alleged $2,734,928.66 owed to the appellants by the respondent was not determined in Suit 1012 because they had reserved their rights and not pursued a counterclaim, but confirmed that they are precluded from re-litigating issues concerning their liability for breaches of directors’ duties. The appeal was dismissed and costs were awarded to the respondent."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  }
+]

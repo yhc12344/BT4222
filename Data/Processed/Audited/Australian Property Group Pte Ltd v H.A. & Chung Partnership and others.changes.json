@@ -1,0 +1,165 @@
+[
+  {
+    "case_name": "Australian Property Group Pte Ltd v H.A. & Chung Partnership and others [2015] SGHC 147",
+    "party": "Australian Property Group Pte Ltd",
+    "label_change": {
+      "from": "Allowed",
+      "to": "Claim Allowed"
+    },
+    "fact_changes": [
+      {
+        "path": "Party_Details.Facts[8].Fact_Date",
+        "from": "2008-12-01",
+        "to": "2008-12"
+      },
+      {
+        "path": "Party_Details.Facts[19].Fact_Date",
+        "from": "2010-01-01",
+        "to": "2010-01"
+      },
+      {
+        "path": "Party_Details.Facts[20].Fact_Date",
+        "from": "2010-01-01",
+        "to": "2010-early"
+      },
+      {
+        "path": "Party_Details.Facts[21].Fact_Date",
+        "from": "2010-01-01",
+        "to": "2010-early"
+      },
+      {
+        "path": "Party_Details.Facts[22].Fact_Date",
+        "from": "2010-01-01",
+        "to": "2010-early"
+      },
+      {
+        "path": "Party_Details.Facts[23].Fact_Date",
+        "from": "2010-07-02",
+        "to": "2010-early"
+      },
+      {
+        "path": "Party_Details.Facts[27].Fact_Date",
+        "from": "2010-05-18",
+        "to": "2010-07"
+      },
+      {
+        "path": "Party_Details.Facts[31].Fact_Date",
+        "from": "2010-09-06",
+        "to": "2009-11"
+      },
+      {
+        "path": "Party_Details.Facts[32].Fact_Date",
+        "from": "2010-09-06",
+        "to": "2009-11 to 2009-12"
+      },
+      {
+        "path": "Party_Details.Facts[35].Fact_Date",
+        "from": "2010-10-06",
+        "to": "2009-02"
+      },
+      {
+        "path": "Party_Details.Facts[36].Fact_Date",
+        "from": "2010-10-11",
+        "to": "2009-02 to 2009-05"
+      },
+      {
+        "path": "Party_Details.Facts[37].Fact_Date",
+        "from": "2010-10-13",
+        "to": "2009-12"
+      }
+    ],
+    "facts_removed": [],
+    "status": "CHANGED"
+  },
+  {
+    "case_name": "Australian Property Group Pte Ltd v H.A. & Chung Partnership and others [2015] SGHC 147",
+    "party": "Sean Colville Niven",
+    "label_change": null,
+    "fact_changes": [
+      {
+        "path": "Party_Details.Facts[6].Text",
+        "from": "On 6 February 2009, Sean Colville Niven and Wang Zijian opened a joint current account with United Overseas Bank Ltd, account number 339xxx.",
+        "to": "In February 2009, Sean Colville Niven and Wang Zijian set up a joint current account with UOB Bank Ltd, account number 339xxx."
+      },
+      {
+        "path": "Party_Details.Facts[8].Text",
+        "from": "On or about 17 November 2009, Sean Colville Niven drew OCBC cheque number 771893 for $320,000 payable to Lim Kay-Lin Kathlene, cheque number 771397 for $300,000 payable to APG, and cheque number 771399 dated 1 December 2009 for $490,000 payable to APG.",
+        "to": "The cheques were OCBC cheque No 771893 dated 17 November 2009 for $320,000 to Lim Kay-Lin Kathlene, OCBC cheque No 771397 dated 17 November 2009 for $300,000 to APG, and OCBC cheque No 771399 dated 1 December 2009 for $490,000 to APG."
+      },
+      {
+        "path": "Party_Details.Facts[9].Text",
+        "from": "In late 2009, part of an A$450,000 loan from Ubertas Funds Management Pty Ltd was deposited into Sean Colville Niven's personal account in Australia and then transmitted in Singapore dollars to APG through cheques including the $490,000 and $300,000 cheques.",
+        "to": "In late 2009, part of the Ubertas loan funds were deposited into Sean Colville Niven's personal account in Australia and then transmitted in Singapore dollars to APG through the $490,000 and $300,000 cheques."
+      },
+      {
+        "path": "Party_Details.Facts[14].Text",
+        "from": "From APG's incorporation, APG made various payments to or on behalf of Sean Colville Niven, including American Express credit card bills, legal fees in Suit No 170 of 2009, payments without supporting documents, travel expenses for him and his family, payments to third parties on his behalf, and payments of marketing funds into his personal account.",
+        "to": "From APG's incorporation, APG made various payments to or on behalf of Sean Colville Niven, including American Express credit card bills, legal fees in Suit No 170 of 2009, payments without supporting documents, travel expenses for him and his family, payments to third parties on his behalf, and the A$86,000 marketing funds paid into his personal account."
+      },
+      {
+        "path": "Party_Details.Facts[16].Text",
+        "from": "The 6 September 2010 agreement recorded that Sean Colville Niven's unpaid share capital liability was $560,000 and that he would repay 10% of the outstanding capital each year for ten years.",
+        "to": "The 6 September 2010 agreement recorded that the shareholders agreed the unpaid share capital totalled $800,000, with Mr Niven liable for $560,000, and that 10% of the outstanding capital would be repaid each year for ten years."
+      },
+      {
+        "path": "Party_Details.Facts[17].Text",
+        "from": "On 13 October 2010, Sean Colville Niven signed the handwritten October Agreement with Wang Zijian and Lim Kay-Lin Kathlene, which recorded his resignation as director that day and the transfer of his APG shares to Lim Kay-Lin Kathlene, except for a portion retained by Wang Zijian.",
+        "to": "On 13 October 2010, Sean Colville Niven signed the handwritten October Agreement with Wang Zijian and Lim Kay-Lin Kathlene, which provided that Mr Niven and Mr Wang would resign as directors that day and transfer all their shares, except for 10% in Mr Wang's hands, to Ms Lim."
+      }
+    ],
+    "facts_removed": [
+      "Party_Details.Facts[19]",
+      "Party_Details.Facts[18]"
+    ],
+    "status": "CHANGED"
+  },
+  {
+    "case_name": "Australian Property Group Pte Ltd v H.A. & Chung Partnership and others",
+    "party": "Wang Zijian (James Wang)",
+    "label_change": null,
+    "fact_changes": [
+      {
+        "path": "Party_Details.Facts[0].Text",
+        "from": "On 9 February 2009, upon incorporation of APG, Wang Zijian, also known as James Wang, became a director of APG and was allotted 160,000 ordinary shares.",
+        "to": "On 9 February 2009, upon incorporation of APG, Wang Zijian, also known as James Wang, was allotted 160,000 ordinary shares."
+      },
+      {
+        "path": "Party_Details.Facts[3].Text",
+        "from": "On 11 March 2009, Wang Zijian and Sean Colville Niven approached Goh Cheng Liang, Wang's godfather, for a $900,000 loan to provide start-up capital for APG.",
+        "to": "On 11 March 2009, APG received a $900,000 loan from Goh Cheng Liang."
+      },
+      {
+        "path": "Party_Details.Facts[4].Text",
+        "from": "Goh Cheng Liang was the godfather of Wang Zijian and provided loan funding to APG.",
+        "to": "Goh Cheng Liang was the godfather of Wang Zijian's co-defendant, Mr Wang, and provided loan funding to APG."
+      },
+      {
+        "path": "Party_Details.Facts[5].Text",
+        "from": "After 15 May 2009, APG assigned Wang Zijian the role of sales manager.",
+        "to": "After Ms Lim joined APG on 15 May 2009, Mr Wang was APG's sales manager."
+      },
+      {
+        "path": "Party_Details.Facts[6].Text",
+        "from": "On 6 February 2009, Wang Zijian and Sean Colville Niven opened a joint current account with United Overseas Bank Ltd, account number 339xxx.",
+        "to": "In February 2009, the defendants set up a joint current account with UOB Bank Ltd, account number 339xxx."
+      },
+      {
+        "path": "Party_Details.Facts[7].Text",
+        "from": "Between 6 February 2009 and 31 May 2009, funds from APG's bank account were regularly transferred into the joint UOB account held by Wang Zijian and Sean Colville Niven.",
+        "to": "Between February 2009 and 31 May 2009, funds from APG's bank account were regularly transferred into the joint UOB account held by Wang Zijian and Sean Colville Niven."
+      },
+      {
+        "path": "Party_Details.Facts[10].Text",
+        "from": "From May 2010, Wang Zijian was based in Malaysia and was no longer involved in APG's daily operations and management matters.",
+        "to": "From May 2010, Mr Wang had been in Malaysia and had no longer been involved in the daily operations or management matters of APG."
+      },
+      {
+        "path": "Party_Details.Facts[11].Text",
+        "from": "During the period from APG's incorporation until his resignation, Wang Zijian participated in APG's management and in decisions relating to payments, including the use of a joint bank account with Sean Colville Niven into which APG funds were transferred.",
+        "to": "During the period from APG's incorporation until his resignation, Mr Wang participated in APG's management and in decisions relating to payments, including the use of a joint bank account with Sean Colville Niven into which APG funds were transferred."
+      }
+    ],
+    "facts_removed": [],
+    "status": "CHANGED"
+  }
+]

@@ -1,0 +1,564 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeals Nos 86, 87, 103 and 104 of 2017, Summons No 126 of 2017, Originating Summons No 13 of 2017, Suit No 1098 of 2013, Suit No 122 of 2013",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Sakae Holdings Ltd",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2013-01-01",
+          "Text": "Sakae Holdings Ltd is a listed company in Singapore and was the plaintiff in Suits No 1098 of 2013 and No 122 of 2013."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2010-09-03",
+          "Text": "On 2010-09-03, Sakae Holdings Ltd entered into a joint venture agreement with Griffin Real Estate Investment Holdings Pte Ltd and Gryphon Real Estate Investment Corporation Pte Ltd for investment in units at Bugis Cube, a shopping mall at 470 North Bridge Road, Singapore."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-09-03",
+          "Text": "Under the joint venture agreement dated 2010-09-03, Sakae Holdings Ltd became a minority shareholder of Griffin Real Estate Investment Holdings Pte Ltd holding 24.69% of its issued share capital."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2003-07-01",
+          "Text": "From 2003-07-01, Douglas Foo Peow Yong served as chairman of the board of Sakae Holdings Ltd at all material times mentioned in the dispute."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-11-01",
+          "Text": "In late 2009, Douglas Foo Peow Yong suggested that some of the funding for the proposed Bugis Cube acquisition be provided by Sakae Holdings Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-10-25",
+          "Text": "On 2012-10-25, a Sakae Holdings Ltd board meeting was convened by Douglas Foo Peow Yong to table concerns over various transactions undertaken by Griffin Real Estate Investment Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-11-01",
+          "Text": "In November 2012, the Chief Financial Officer of Sakae Holdings Ltd inspected the records of Griffin Real Estate Investment Holdings Pte Ltd and noted a payment of $8,000,000 recorded as a reimbursement to Andy Ong for sums paid to a project manager for refurbishment of units at Bugis Cube."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-11-01",
+          "Text": "Following the 2012-10-25 board meeting, Douglas Foo Peow Yong caused investigations to be carried out into the financial affairs of Griffin Real Estate Investment Holdings Pte Ltd, during which seven transactions involving that company were identified."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-09-03",
+          "Text": "The joint venture agreement dated 2010-09-03 provided that the board of Griffin Real Estate Investment Holdings Pte Ltd would consist of four directors, with Gryphon Real Estate Investment Corporation Pte Ltd and Sakae Holdings Ltd each entitled to appoint two directors regardless of shareholding."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-09-03",
+          "Text": "The joint venture agreement dated 2010-09-03 specified certain shareholder reserved matters requiring prior unanimous approval of all shareholders in general meeting, with shareholders to act reasonably and in the best interests of the company and shareholders when exercising voting rights."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-09-03",
+          "Text": "The joint venture agreement dated 2010-09-03 specified certain board reserved matters requiring prior majority approval of directors, with directors to exercise voting rights reasonably and in the best interests of the company and shareholders."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-09-03",
+          "Text": "The joint venture agreement dated 2010-09-03 required any director or shareholder with a direct or indirect interest in any matter requiring shareholder approval or board discussion to declare that interest and not participate in discussion or voting on that matter."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-02-23",
+          "Text": "On 2010-02-23, Griffin Real Estate Investment Holdings Pte Ltd entered into a Management Agreement with Gryphon Capital Management Pte Ltd under which Gryphon Capital Management Pte Ltd was appointed to manage the company’s real estate investment and was to be paid annual management fees of $460,000 plus GST and a profit-based amount to be determined annually."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-05-01",
+          "Text": "An addendum to the Management Agreement between Griffin Real Estate Investment Holdings Pte Ltd and Gryphon Capital Management Pte Ltd was dated 2010-05-01 and was signed by Andy Ong purportedly on behalf of Griffin Real Estate Investment Holdings Pte Ltd, stating that management fees of around $2,800,000 were payable to Gryphon Capital Management Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2011-01-01",
+          "Text": "In 2011 and 2012, while Andy Ong and Ong Han Boon were directors of Griffin Real Estate Investment Holdings Pte Ltd, that company paid a total of $2,826,335.17 to Gryphon Capital Management Pte Ltd pursuant to the addendum to the Management Agreement."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-08-01",
+          "Text": "In August 2012, Andy Ong represented to DBS Bank Ltd that Gryphon Capital Management Pte Ltd was entitled to management fees from Griffin Real Estate Investment Holdings Pte Ltd calculated in accordance with the Management Agreement and its addendum."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-09-01",
+          "Text": "In September 2012, Gryphon Capital Management Pte Ltd and DBS Bank Ltd entered into a Third Party Assignment of Proceeds under which management fees due from Griffin Real Estate Investment Holdings Pte Ltd to Gryphon Capital Management Pte Ltd were assigned to DBS Bank Ltd as security for credit facilities to ERC International Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-09-01",
+          "Text": "In September 2012, ERC International Pte Ltd drew on a loan from DBS Bank Ltd secured by the Third Party Assignment of Proceeds and used about $60,000,000 to purchase a property at 101 Penang Road."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2011-01-01",
+          "Text": "In 2011, Griffin Real Estate Investment Holdings Pte Ltd extended a loan of $10,000,000 to ERC Unicampus Pte Ltd under a First Loan Agreement to fund ERC Unicampus Pte Ltd’s purchase of a property later named Big Hotel."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-03-01",
+          "Text": "On 2012-03-01, Griffin Real Estate Investment Holdings Pte Ltd and ERC Institute Pte Ltd entered into a Lease Agreement under which Griffin Real Estate Investment Holdings Pte Ltd agreed to let the third to sixth floors of Bugis Cube to ERC Institute Pte Ltd for a three-year term with options to renew for two additional three-year terms; the Lease Agreement was signed by Ho Yew Kong for Griffin Real Estate Investment Holdings Pte Ltd and by Ong Han Boon for ERC Institute Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2012-05-30",
+          "Text": "A letter dated 2012-05-30 stated that Griffin Real Estate Investment Holdings Pte Ltd purportedly terminated the Lease Agreement with ERC Institute Pte Ltd; an identically worded letter dated 2012-07-31 had been disclosed earlier."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-09-13",
+          "Text": "On 2012-09-13, Griffin Real Estate Investment Holdings Pte Ltd paid $14,300,000 to ERC International Pte Ltd and $1,500,000 to ERC Unicampus Pte Ltd as part of a total $16,000,000 payment recorded as compensation to ERC Institute Pte Ltd for early termination of the Lease Agreement, with the remaining $200,000 to be paid to ERC Holdings Pte Ltd as required."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-04",
+          "Text": "On 2012-05-04, Griffin Real Estate Investment Holdings Pte Ltd entered into a Consultancy Agreement with ERC Consulting Pte Ltd under which ERC Consulting Pte Ltd was to be paid $150,000 to conceptualise the sale of Bugis Cube and coordinate promotional activities; the agreement was signed by Ho Yew Kong for Griffin Real Estate Investment Holdings Pte Ltd and by Ong Siew Bok for ERC Consulting Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-05-02",
+          "Text": "On 2012-05-02, Griffin Real Estate Investment Holdings Pte Ltd engaged Knight Frank Pte Ltd as the sole marketing and sales agent to handle the sale of Bugis Cube, and Knight Frank Pte Ltd was named as sole marketing agent in advertisements for a June 2012 launch event."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-12-24",
+          "Text": "On 2012-12-24, Griffin Real Estate Investment Holdings Pte Ltd paid a total of $160,500 to ERC Consulting Pte Ltd described as marketing consultancy fees for the sale of Bugis Cube."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-05-04",
+          "Text": "On 2012-05-04, as directors of Griffin Real Estate Investment Holdings Pte Ltd, Douglas Foo Peow Yong and Ho Yew Kong passed a board resolution approving a second loan of $10,000,000 to ERC Unicampus Pte Ltd and another board resolution calling for an extraordinary general meeting to be held on 2012-05-07."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2012-05-04",
+          "Text": "On 2012-05-04, Ho Yew Kong issued a notice to inform the shareholders of Griffin Real Estate Investment Holdings Pte Ltd, namely Sakae Holdings Ltd and Gryphon Real Estate Investment Corporation Pte Ltd, of an extraordinary general meeting scheduled for 2012-05-07, and Douglas Foo Peow Yong and Ho Yew Kong, as corporate representatives of the respective shareholders, acknowledged the notice."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-07",
+          "Text": "On 2012-05-07, at an extraordinary general meeting of Griffin Real Estate Investment Holdings Pte Ltd, the shareholders passed a resolution approving a Second Loan Agreement under which the company extended a further $10,000,000 loan to ERC Unicampus Pte Ltd; the Second Loan Agreement was dated 2012-05-07 and signed by Ho Yew Kong for Griffin Real Estate Investment Holdings Pte Ltd and by Andy Ong for ERC Unicampus Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-05-24",
+          "Text": "On 2012-05-24, ERC Holdings Pte Ltd paid $8,800,000 to Griffin Real Estate Investment Holdings Pte Ltd in connection with an option described as an option to subscribe for 8,800,000 ordinary shares of Griffin Real Estate Investment Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2012-06-06",
+          "Text": "On 2012-06-06, Andy Ong informed Douglas Foo Peow Yong that ERC Holdings Pte Ltd intended to exercise an option to subscribe for shares in Griffin Real Estate Investment Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-05-31",
+          "Text": "On 2012-05-31 and 2012-06-01, Douglas Foo Peow Yong signed documents dated 2012-05-31 and 2012-06-01 authorising and approving the allotment of 8,058,025 shares in Griffin Real Estate Investment Holdings Pte Ltd to ERC Holdings Pte Ltd and caused Sakae Holdings Ltd to pay $2,641,975 to Griffin Real Estate Investment Holdings Pte Ltd to subscribe for an additional 2,641,975 shares."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-04",
+          "Text": "A Project Manager Agreement was dated 2012-05-04 between Griffin Real Estate Investment Holdings Pte Ltd and Andy Ong, signed by Ho Yew Kong for Griffin Real Estate Investment Holdings Pte Ltd and by Andy Ong personally, stating that Andy Ong was appointed as project manager to ensure completion of renovation and refurbishment works for the company’s units at Bugis Cube and fixing a contract sum of $8,000,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-05-24",
+          "Text": "On 2012-05-24, Griffin Real Estate Investment Holdings Pte Ltd paid $8,000,000 to Andy Ong, and this payment was recorded in the company’s records as a reimbursement to Andy Ong for sums paid to a project manager for refurbishment of the company’s units at Bugis Cube."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2008-03-01",
+          "Text": "From 2008-03-01 until 2012-03-09, Andy Ong was a de jure director of Griffin Real Estate Investment Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-10-29",
+          "Text": "From 2010-10-29 until 2012-03-09, Ong Han Boon was a de jure director of Griffin Real Estate Investment Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-02-03",
+          "Text": "From 2012-02-03 until 2015-03-01, Ho Yew Kong was a de jure director of Griffin Real Estate Investment Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-09-03",
+          "Text": "On 2010-09-03, Gryphon Real Estate Investment Corporation Pte Ltd became a shareholder of Griffin Real Estate Investment Holdings Pte Ltd holding 75.31% of its issued share capital."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-05-24",
+          "Text": "Following the share subscriptions completed around 2012-05-24 to 2012-06-01, Gryphon Real Estate Investment Corporation Pte Ltd held 45.35% of the issued share capital of Griffin Real Estate Investment Holdings Pte Ltd, ERC Holdings Pte Ltd held 29.96%, and Sakae Holdings Ltd held 24.69%."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2013-01-01",
+          "Text": "In Suit No 1098 of 2013, Sakae Holdings Ltd was a minority shareholder of Griffin Real Estate Investment Holdings Pte Ltd and sought relief in respect of seven transactions involving that company and entities related to Andy Ong."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2013-01-01",
+          "Text": "In Suit No 122 of 2013, Sakae Holdings Ltd brought a claim against Ong Siew Kwee in relation to one of the seven transactions involving Griffin Real Estate Investment Holdings Pte Ltd."
+        }
+      ],
+      "Issue": "Whether the conduct of the management and controllers of Griffin Real Estate Investment Holdings Pte Ltd in relation to seven identified transactions involving payments, loans, share subscriptions, and agreements with entities connected to Andy Ong resulted in commercially unfair treatment of Sakae Holdings Ltd as a minority shareholder, and whether the arrangements surrounding the share subscription by ERC Holdings Pte Ltd and the related payment by Sakae Holdings Ltd of $2,641,975 are consistent with the obligations and expectations arising from the joint venture agreement and the roles of the individuals involved.",
+      "Rule": "In an oppression or unfair prejudice context, a shareholder may seek relief where the affairs of a company are conducted or powers of directors are exercised in a manner that is commercially unfair to that shareholder, assessed objectively in light of the company’s constitution, agreements among participants, and the parties’ legitimate expectations. Corporate wrongs are ordinarily pursued by or on behalf of the company, while personal wrongs to shareholders may be addressed through an oppression remedy. The proper plaintiff rule and the principle against recovery of purely reflective loss limit recovery by shareholders for loss that merely mirrors loss suffered by the company.",
+      "Application": "Sakae Holdings Ltd held 24.69% of the shares in Griffin Real Estate Investment Holdings Pte Ltd under a joint venture agreement that specified board composition, reserved matters, and procedures for dealing with conflicts of interest. Over 2010–2012, Griffin Real Estate Investment Holdings Pte Ltd entered into multiple agreements and financial transactions with companies within the ERC Group and with Andy Ong personally, including substantial management fees, loans to ERC Unicampus Pte Ltd, a lease and compensation structure involving ERC Institute Pte Ltd, a consultancy agreement with ERC Consulting Pte Ltd, a second loan to ERC Unicampus Pte Ltd, a share subscription by ERC Holdings Pte Ltd accompanied by a payment by Sakae Holdings Ltd of $2,641,975 to maintain its shareholding percentage, and an $8,000,000 payment to Andy Ong under a project management arrangement. These transactions involved movement of funds from Griffin Real Estate Investment Holdings Pte Ltd to entities connected to Andy Ong and changes in the shareholding structure, while Sakae Holdings Ltd remained a minority shareholder and relied on the joint venture framework and board processes for protection of its position.",
+      "Judicial_Reasoning_Log": "The Court of Appeal analysed whether Sakae’s claims under section 216 of the Companies Act were properly characterised as personal wrongs to Sakae or corporate wrongs to Griffin Real Estate Investment Holdings Pte Ltd, referring to Ng Kek Wee v Sim City Technology Ltd and foreign authorities such as Re Charnley Davies, Re Chime, and Gamlestaden. The court affirmed that section 216 should not be used to vindicate essentially corporate wrongs and discussed the proper plaintiff rule and the reflective loss principle. It considered the High Court’s findings that six of the seven impugned transactions were oppressive and that various agreements, including the Addendum to the Management Agreement, the Lease Agreement, the Consultancy Agreement, the Share Option Agreement, and the Project Manager Agreement, were shams or fabrications, and that Andy Ong, Ong Han Boon, and Ho Yew Kong had breached fiduciary duties to Griffin Real Estate Investment Holdings Pte Ltd and, in the case of Suit 122, to Sakae Holdings Ltd. The appellate court accepted many of the trial judge’s factual findings, including that Sakae did not know of the impugned transactions at the material times and that Sakae had no effective self-help remedies under the joint venture agreement. It addressed the defendants’ arguments that Sakae’s loss was merely reflective of the company’s loss, that Sakae could have resisted the impugned conduct through its board representation, and that contractual remedies under the joint venture agreement displaced the oppression remedy. The court examined the scope of relief available in oppression proceedings, including whether payment orders could be made in favour of the company and against directors and related parties, and considered the appropriateness of winding up Griffin Real Estate Investment Holdings Pte Ltd versus ordering a buyout. In relation to Suit 122, the court considered whether the execution and use of the purported share option arrangement constituted a breach of Andy Ong’s fiduciary duties to Sakae Holdings Ltd and whether the tort of inducing breach of contract by Griffin Real Estate Investment Holdings Pte Ltd was made out. The court also reviewed the High Court’s treatment of the defendants’ ‘no case to answer’ submission, holding that defendants who elected not to call evidence could nonetheless rely on evidence led by a co-defendant, and it discussed authorities such as Goh Ya Tian, Hummerstone v Leary, and Australian and Malaysian cases on the timing and handling of such submissions. For the third party proceedings, the court examined the application of sections 15 and 16 of the Civil Law Act to claims for contribution by Andy Ong, Ong Han Boon, and Ho Yew Kong against Douglas Foo Peow Yong, applying the three-step test in Tan Juay Pah v Kimly Construction Pte Ltd and considering whether Foo was liable for the same damage as the appellants and whether it was just and equitable to order contribution given the deliberate nature of the appellants’ conduct. The court ultimately allowed Ho Yew Kong’s appeal in Civil Appeal No 86 of 2017, made no order on his appeal in Civil Appeal No 104 of 2017 save for setting aside the indemnity costs order against him in the third party proceedings, allowed Civil Appeal No 87 of 2017 only in respect of Transaction 6, dismissed Civil Appeal No 103 of 2017 in respect of the third party claims under Suit 1098, and made no order on Originating Summons No 13 of 2017 after holding that a single notice of appeal per judgment was procedurally correct for the consolidated suits."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeals Nos 86 and 104 of 2017; Suit No 1098 of 2013; Suit No 122 of 2013",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Ho Yew Kong",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2013-01-01",
+          "Text": "Ho Yew Kong was a defendant in Suit No 1098 of 2013 and Suit No 122 of 2013 and an appellant in Civil Appeals Nos 86 and 104 of 2017."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-02-03",
+          "Text": "On 2012-02-03, Ho Yew Kong was appointed as a director of Griffin Real Estate Investment Holdings Pte Ltd and remained a director until around 2015-03-01."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-01-01",
+          "Text": "At the time of the trial, Ho Yew Kong was the sole director of Gryphon Real Estate Investment Corporation Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-09-03",
+          "Text": "Gryphon Real Estate Investment Corporation Pte Ltd, whose shareholders included Ho Yew Kong, held 75.31% of the issued share capital of Griffin Real Estate Investment Holdings Pte Ltd under the joint venture agreement dated 2010-09-03."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-01-01",
+          "Text": "Ho Yew Kong was a shareholder of Gryphon Real Estate Investment Corporation Pte Ltd together with Andy Ong and Ong Han Boon at all material times."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-01-01",
+          "Text": "Until 2013-07-12, Ho Yew Kong was the sole director of ERC Unicampus Pte Ltd, after which he was replaced by Ong Han Boon."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-05-04",
+          "Text": "On 2012-05-04, as a director of Griffin Real Estate Investment Holdings Pte Ltd, Ho Yew Kong signed a board resolution approving a second loan of $10,000,000 to ERC Unicampus Pte Ltd and a board resolution calling for an extraordinary general meeting on 2012-05-07."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2012-05-04",
+          "Text": "On 2012-05-04, Ho Yew Kong issued a notice to the shareholders of Griffin Real Estate Investment Holdings Pte Ltd, Sakae Holdings Ltd and Gryphon Real Estate Investment Corporation Pte Ltd, convening an extraordinary general meeting for 2012-05-07, and acknowledged the notice as a corporate representative."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-07",
+          "Text": "On 2012-05-07, Ho Yew Kong signed the Second Loan Agreement on behalf of Griffin Real Estate Investment Holdings Pte Ltd under which the company extended a further $10,000,000 loan to ERC Unicampus Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-03-01",
+          "Text": "On 2012-03-01, Ho Yew Kong signed the Lease Agreement on behalf of Griffin Real Estate Investment Holdings Pte Ltd for the lease of the third to sixth floors of Bugis Cube to ERC Institute Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-04",
+          "Text": "On 2012-05-04, Ho Yew Kong signed the Consultancy Agreement on behalf of Griffin Real Estate Investment Holdings Pte Ltd with ERC Consulting Pte Ltd for consultancy services relating to the sale of Bugis Cube."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-04",
+          "Text": "On 2012-05-04, Ho Yew Kong signed the Project Manager Agreement on behalf of Griffin Real Estate Investment Holdings Pte Ltd appointing Andy Ong as project manager for renovation and refurbishment works at Bugis Cube with a contract sum of $8,000,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-09-13",
+          "Text": "On 2012-09-13, while Ho Yew Kong was a director of Griffin Real Estate Investment Holdings Pte Ltd, the company paid $14,300,000 to ERC International Pte Ltd and $1,500,000 to ERC Unicampus Pte Ltd as part of a $16,000,000 payment recorded as compensation for early termination of the Lease Agreement with ERC Institute Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-12-24",
+          "Text": "On 2012-12-24, while Ho Yew Kong was a director of Griffin Real Estate Investment Holdings Pte Ltd, the company paid $160,500 to ERC Consulting Pte Ltd described as marketing consultancy fees for the sale of Bugis Cube."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-05-24",
+          "Text": "On 2012-05-24, while Ho Yew Kong was a director of Griffin Real Estate Investment Holdings Pte Ltd, the company paid $8,000,000 to Andy Ong under the Project Manager Agreement."
+        }
+      ],
+      "Issue": "Whether the actions of Ho Yew Kong in his capacities as director of Griffin Real Estate Investment Holdings Pte Ltd, director of ERC Unicampus Pte Ltd, and representative of Gryphon Real Estate Investment Corporation Pte Ltd in relation to the seven identified transactions contributed to commercially unfair treatment of Sakae Holdings Ltd as a minority shareholder and whether his conduct gave rise to personal liability to restore sums to Griffin Real Estate Investment Holdings Pte Ltd or to Sakae Holdings Ltd.",
+      "Rule": "A director’s conduct may be an oppression analysis where it forms part of the manner in which the affairs of a company are conducted or powers are exercised, and may also give rise to personal liability to account to the company for misapplied funds or unauthorised transactions. In determining personal liability in the context of an oppression claim, courts distinguish between corporate loss recoverable by the company and personal loss suffered by a shareholder, applying the proper plaintiff rule and the principle against recovery of purely reflective loss.",
+      "Application": "Ho Yew Kong held multiple roles connected to Griffin Real Estate Investment Holdings Pte Ltd and the ERC Group. As a director of Griffin Real Estate Investment Holdings Pte Ltd, he signed the Lease Agreement with ERC Institute Pte Ltd, the Consultancy Agreement with ERC Consulting Pte Ltd, the Second Loan Agreement with ERC Unicampus Pte Ltd, and the Project Manager Agreement with Andy Ong, and participated in board resolutions and shareholder communications relating to the second loan. During his tenure, Griffin Real Estate Investment Holdings Pte Ltd made substantial payments to ERC International Pte Ltd, ERC Unicampus Pte Ltd, ERC Consulting Pte Ltd, and Andy Ong. These actions formed part of the factual matrix considered in assessing whether the affairs of Griffin Real Estate Investment Holdings Pte Ltd were conducted in a way that was commercially unfair to Sakae Holdings Ltd and whether Ho Yew Kong should bear responsibility for specific payments made by the company.",
+      "Judicial_Reasoning_Log": "The High Court found that Ho Yew Kong, as a director of Griffin Real Estate Investment Holdings Pte Ltd, was involved in several of the impugned transactions and held that he had breached fiduciary duties to the company in relation to Transactions 1(b), 2, 3, 4, 5, and 7, and that his conduct contributed to oppressive treatment of Sakae Holdings Ltd in respect of certain transactions. The judge ordered Ho jointly and severally liable with Andy Ong to pay $16,000,000 to Griffin Real Estate Investment Holdings Pte Ltd for Transaction 3, $160,500 for Transaction 4, and $8,000,000 for Transaction 7, and found that his conduct in relation to Transaction 5 involved a breach of duty but did not result in an oppression order. On appeal, the Court of Appeal reviewed the factual findings and legal characterisation of Ho’s conduct, including his reliance on an asserted ‘Established Norm’ under which management of Griffin Real Estate Investment Holdings Pte Ltd was left largely to Andy Ong and staff at Gryphon Capital Management Pte Ltd. The appellate court considered whether Ho’s actions and omissions, including signing and backdating documents and facilitating payments, justified personal liability and whether they formed part of commercially unfair conduct toward Sakae Holdings Ltd. The court ultimately allowed Ho’s appeal in Civil Appeal No 86 of 2017, thereby setting aside the substantive orders against him in the main suit, and made no order on his appeal in Civil Appeal No 104 of 2017 save for setting aside the indemnity costs order made against him in the third party proceedings. The reasoning included an assessment of the extent of Ho’s knowledge and involvement in the design and implementation of the transactions, the allocation of responsibility among the individuals involved, and the proper application of oppression principles and contribution rules under the Civil Law Act."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeals Nos 87 and 103 of 2017; Suit No 1098 of 2013; Suit No 122 of 2013",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Ong Siew Kwee (Andy Ong) and associated ERC Group entities",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2013-01-01",
+          "Text": "Ong Siew Kwee, also known as Andy Ong, was a defendant in Suit No 1098 of 2013 and Suit No 122 of 2013 and an appellant in Civil Appeals Nos 87 and 103 of 2017."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1988-01-01",
+          "Text": "By around 1988, Andy Ong and Douglas Foo Peow Yong had known each other as friends for more than 20 years."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2003-07-01",
+          "Text": "In July 2003, following a suggestion by Douglas Foo Peow Yong, Andy Ong was appointed as an independent director of Sakae Holdings Ltd and remained in that role until 2013-03-18."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2008-03-01",
+          "Text": "From 2008-03-01 until 2012-03-09, Andy Ong was a de jure director of Griffin Real Estate Investment Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-03-09",
+          "Text": "After 2012-03-09 and until around 2015-03-01, Andy Ong continued to influence the affairs of Griffin Real Estate Investment Holdings Pte Ltd in a manner described as that of a shadow director."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-01-01",
+          "Text": "Andy Ong was a shareholder of Gryphon Real Estate Investment Corporation Pte Ltd together with Ong Han Boon and Ho Yew Kong at all material times."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-01-01",
+          "Text": "Andy Ong was the founder and chief executive officer of ERC Holdings Pte Ltd, which owned 86.85% of its shares."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-01-01",
+          "Text": "ERC Holdings Pte Ltd was the ultimate holding company of Gryphon Capital Management Pte Ltd, ERC Unicampus Pte Ltd, ERC Institute Pte Ltd, and ERC Consulting Pte Ltd, collectively referred to as the ERC Group."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-01-01",
+          "Text": "At all material times, Andy Ong and Ong Han Boon were directors of Gryphon Capital Management Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-01-01",
+          "Text": "At all material times, Andy Ong and Ong Han Boon were directors of ERC Institute Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-01-01",
+          "Text": "At all material times, Andy Ong was one of two directors of ERC Consulting Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-11-01",
+          "Text": "In late 2009, Andy Ong proposed to Douglas Foo Peow Yong that they acquire more than 90% of the units in Bugis Cube with a view to redeveloping and selling the project at a profit."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-02-23",
+          "Text": "On 2010-02-23, Andy Ong caused Griffin Real Estate Investment Holdings Pte Ltd to enter into a Management Agreement with Gryphon Capital Management Pte Ltd under which Gryphon Capital Management Pte Ltd was appointed to manage the company’s real estate investment."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-05-01",
+          "Text": "An addendum to the Management Agreement between Griffin Real Estate Investment Holdings Pte Ltd and Gryphon Capital Management Pte Ltd was dated 2010-05-01 and signed by Andy Ong on behalf of Griffin Real Estate Investment Holdings Pte Ltd, stating that management fees of around $2,800,000 were payable to Gryphon Capital Management Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2011-01-01",
+          "Text": "In 2011 and 2012, while Andy Ong and Ong Han Boon were directors of Griffin Real Estate Investment Holdings Pte Ltd, the company paid $2,826,335.17 to Gryphon Capital Management Pte Ltd pursuant to the addendum to the Management Agreement."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-08-01",
+          "Text": "In August 2012, Andy Ong informed DBS Bank Ltd that Gryphon Capital Management Pte Ltd was entitled to management fees from Griffin Real Estate Investment Holdings Pte Ltd under the Management Agreement and its addendum."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-09-01",
+          "Text": "In September 2012, Gryphon Capital Management Pte Ltd and DBS Bank Ltd entered into a Third Party Assignment of Proceeds assigning management fees due from Griffin Real Estate Investment Holdings Pte Ltd to DBS Bank Ltd as security for credit facilities to ERC International Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-09-01",
+          "Text": "In September 2012, ERC International Pte Ltd drew on a DBS Bank Ltd loan secured by the Third Party Assignment of Proceeds and used approximately $60,000,000 to purchase a property at 101 Penang Road."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2011-01-01",
+          "Text": "In 2011, while Andy Ong and Ong Han Boon were directors of Griffin Real Estate Investment Holdings Pte Ltd, the company extended a $10,000,000 loan to ERC Unicampus Pte Ltd under a First Loan Agreement to fund ERC Unicampus Pte Ltd’s purchase of a property later named Big Hotel."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-03-01",
+          "Text": "On 2012-03-01, Griffin Real Estate Investment Holdings Pte Ltd and ERC Institute Pte Ltd entered into a Lease Agreement for the third to sixth floors of Bugis Cube, with signatures by Ho Yew Kong for Griffin Real Estate Investment Holdings Pte Ltd and Ong Han Boon for ERC Institute Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-09-13",
+          "Text": "On 2012-09-13, Griffin Real Estate Investment Holdings Pte Ltd paid $14,300,000 to ERC International Pte Ltd and $1,500,000 to ERC Unicampus Pte Ltd as part of a $16,000,000 payment recorded as compensation to ERC Institute Pte Ltd for early termination of the Lease Agreement, with $200,000 to be paid to ERC Holdings Pte Ltd as required."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-04",
+          "Text": "On 2012-05-04, Griffin Real Estate Investment Holdings Pte Ltd entered into a Consultancy Agreement with ERC Consulting Pte Ltd, signed by Ho Yew Kong for Griffin Real Estate Investment Holdings Pte Ltd and by Ong Siew Bok for ERC Consulting Pte Ltd, providing for a $150,000 consultancy fee for conceptualising and promoting the sale of Bugis Cube."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-12-24",
+          "Text": "On 2012-12-24, Griffin Real Estate Investment Holdings Pte Ltd paid $160,500 to ERC Consulting Pte Ltd described as marketing consultancy fees for the sale of Bugis Cube."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-05-04",
+          "Text": "On 2012-05-04, as a shadow director, Andy Ong was involved in the decision for Griffin Real Estate Investment Holdings Pte Ltd to approve a second $10,000,000 loan to ERC Unicampus Pte Ltd and to convene an extraordinary general meeting for 2012-05-07."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-07",
+          "Text": "On 2012-05-07, Griffin Real Estate Investment Holdings Pte Ltd entered into a Second Loan Agreement with ERC Unicampus Pte Ltd, signed by Ho Yew Kong for Griffin Real Estate Investment Holdings Pte Ltd and by Andy Ong for ERC Unicampus Pte Ltd, under which a further $10,000,000 loan was extended."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-05-24",
+          "Text": "On 2012-05-24, ERC Holdings Pte Ltd paid $8,800,000 to Griffin Real Estate Investment Holdings Pte Ltd in connection with an option described as an option to subscribe for 8,800,000 ordinary shares of Griffin Real Estate Investment Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2012-06-06",
+          "Text": "On 2012-06-06, Andy Ong informed Douglas Foo Peow Yong that ERC Holdings Pte Ltd intended to exercise an option to subscribe for shares in Griffin Real Estate Investment Holdings Pte Ltd and indicated that Sakae Holdings Ltd would need to subscribe for additional shares to maintain its shareholding percentage."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-05-31",
+          "Text": "On 2012-05-31 and 2012-06-01, following communications from Andy Ong, documents were signed authorising the allotment of 8,058,025 shares in Griffin Real Estate Investment Holdings Pte Ltd to ERC Holdings Pte Ltd and Sakae Holdings Ltd paid $2,641,975 to subscribe for 2,641,975 additional shares."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-04",
+          "Text": "A Project Manager Agreement dated 2012-05-04 between Griffin Real Estate Investment Holdings Pte Ltd and Andy Ong appointed Andy Ong as project manager for renovation and refurbishment works at Bugis Cube with a contract sum of $8,000,000; the agreement was signed by Ho Yew Kong for Griffin Real Estate Investment Holdings Pte Ltd and by Andy Ong personally."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-05-24",
+          "Text": "On 2012-05-24, Griffin Real Estate Investment Holdings Pte Ltd paid $8,000,000 to Andy Ong, and this payment was recorded as a reimbursement for sums paid to a project manager for refurbishment of the company’s units at Bugis Cube."
+        }
+      ],
+      "Issue": "Whether the series of transactions initiated or influenced by Andy Ong and involving ERC Holdings Pte Ltd, Gryphon Capital Management Pte Ltd, ERC Unicampus Pte Ltd, ERC Institute Pte Ltd, ERC Consulting Pte Ltd, and ERC International Pte Ltd, including management fees, loans, lease compensation, consultancy fees, share subscriptions, and a project management payment, resulted in commercially unfair treatment of Sakae Holdings Ltd as a minority shareholder and whether Andy Ong and the ERC Group entities bear responsibility to restore specific sums to Griffin Real Estate Investment Holdings Pte Ltd or to Sakae Holdings Ltd.",
+      "Rule": "Where a person who controls or significantly influences a company causes it to enter into transactions with related entities or with that person personally, courts may examine whether the company’s affairs were conducted in a manner that is commercially unfair to minority shareholders. In such cases, the court distinguishes between loss suffered by the company, which is ordinarily recoverable by or on behalf of the company, and personal loss suffered by shareholders. Relief in oppression proceedings may include orders requiring individuals to pay sums to the company or to affected shareholders where appropriate, the proper plaintiff rule and the principle against recovery of purely reflective loss.",
+      "Application": "Andy Ong held senior roles in Sakae Holdings Ltd and in the ERC Group and was a director and later a shadow director of Griffin Real Estate Investment Holdings Pte Ltd. He proposed the Bugis Cube investment, participated in the joint venture structure, and was involved in or connected to multiple transactions between Griffin Real Estate Investment Holdings Pte Ltd and ERC Group entities, including the Management Agreement and its addendum with Gryphon Capital Management Pte Ltd, the First and Second Loans to ERC Unicampus Pte Ltd, the Lease Agreement and associated $16,000,000 payment routed to ERC International Pte Ltd and ERC Unicampus Pte Ltd, the Consultancy Agreement and $160,500 payment to ERC Consulting Pte Ltd, the share subscription by ERC Holdings Pte Ltd and the related $2,641,975 payment by Sakae Holdings Ltd, and the Project Manager Agreement and $8,000,000 payment to himself. These transactions involved significant transfers of funds from Griffin Real Estate Investment Holdings Pte Ltd to entities in which Andy Ong had interests and altered the shareholding structure, while Sakae Holdings Ltd remained a minority shareholder relying on the joint venture agreement and board processes. The Court of Appeal considered whether these facts supported relief under section 216 of the Companies Act and whether specific payment orders against Andy Ong and ERC Group entities were appropriate.",
+      "Judicial_Reasoning_Log": "The High Court held that six of the seven impugned transactions were oppressive to Sakae Holdings Ltd and that Andy Ong had breached fiduciary duties to Griffin Real Estate Investment Holdings Pte Ltd in relation to all seven transactions and to Sakae Holdings Ltd in relation to the share subscription arrangement in Suit No 122 of 2013. The judge found that the Addendum to the Management Agreement, the Lease Agreement, the Consultancy Agreement, the Share Option Agreement, and the Project Manager Agreement were shams or fabrications used to justify or conceal unauthorised payments and diversions of funds from Griffin Real Estate Investment Holdings Pte Ltd to ERC Group entities and to Andy Ong. The judge ordered Andy Ong and Ong Han Boon jointly and severally liable to pay $2,826,335.17 to Griffin Real Estate Investment Holdings Pte Ltd for excessive management fees, $7,900,000 for the First Loan, and held Andy Ong and Ho Yew Kong jointly and severally liable to pay $16,000,000 for the Lease Agreement compensation, $160,500 for the Consultancy Agreement, and $8,000,000 for the Project Manager Agreement payment. In Suit No 122 of 2013, the judge ordered Andy Ong to pay $2,641,975 to Sakae Holdings Ltd in connection with the share subscription arrangement. On appeal, the Court of Appeal considered whether Sakae’s claims were properly brought under section 216 or should have been pursued as derivative claims under section 216A, and whether the relief ordered was consistent with the proper plaintiff rule and the reflective loss principle. The court accepted that many of the transactions involved misapplication of company funds and undisclosed conflicts of interest and agreed with much of the High Court’s factual analysis. It nonetheless scrutinised the characterisation of the share subscription arrangement (Transaction 6) and allowed Civil Appeal No 87 of 2017 only in respect of that transaction, adjusting the relief accordingly, while otherwise upholding the main findings of liability and the payment orders against Andy Ong and associated entities. In the third party proceedings, the court dismissed Andy Ong’s appeal in Civil Appeal No 103 of 2017 in respect of Suit No 1098, holding that the requirements for contribution under sections 15 and 16 of the Civil Law Act were not met and that it would be inequitable to require Douglas Foo Peow Yong to contribute to losses arising from deliberate conduct by Andy Ong and his associates."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeals Nos 103 and 104 of 2017; Suit No 1098 of 2013; Suit No 122 of 2013",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Douglas Foo Peow Yong",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2013-01-01",
+          "Text": "Douglas Foo Peow Yong was the third party in Suit No 1098 of 2013 and Suit No 122 of 2013 and the respondent in Civil Appeals Nos 103 and 104 of 2017."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2003-07-01",
+          "Text": "From 2003-07-01 and at all material times, Douglas Foo Peow Yong served as chairman of the board of Sakae Holdings Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-09-03",
+          "Text": "Under the joint venture agreement dated 2010-09-03, Douglas Foo Peow Yong was one of the directors appointed by Sakae Holdings Ltd to the board of Griffin Real Estate Investment Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-05-04",
+          "Text": "On 2012-05-04, as a director of Griffin Real Estate Investment Holdings Pte Ltd, Douglas Foo Peow Yong signed a board resolution approving a second $10,000,000 loan to ERC Unicampus Pte Ltd and a board resolution calling for an extraordinary general meeting on 2012-05-07."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2012-05-04",
+          "Text": "On 2012-05-04, Douglas Foo Peow Yong acknowledged receipt of a notice issued by Ho Yew Kong convening an extraordinary general meeting of Griffin Real Estate Investment Holdings Pte Ltd for 2012-05-07, in his capacity as corporate representative of Sakae Holdings Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-05-07",
+          "Text": "On 2012-05-07, Douglas Foo Peow Yong attended the extraordinary general meeting of Griffin Real Estate Investment Holdings Pte Ltd as corporate representative of Sakae Holdings Ltd at which the Second Loan Agreement with ERC Unicampus Pte Ltd was approved."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-05-31",
+          "Text": "On 2012-05-31 and 2012-06-01, Douglas Foo Peow Yong signed documents authorising and approving the allotment of 8,058,025 shares in Griffin Real Estate Investment Holdings Pte Ltd to ERC Holdings Pte Ltd and caused Sakae Holdings Ltd to pay $2,641,975 to subscribe for 2,641,975 additional shares."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-10-25",
+          "Text": "On 2012-10-25, Douglas Foo Peow Yong convened a Sakae Holdings Ltd board meeting to raise concerns about various transactions undertaken by Griffin Real Estate Investment Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-11-01",
+          "Text": "After the 2012-10-25 board meeting, Douglas Foo Peow Yong initiated investigations into the financial affairs of Griffin Real Estate Investment Holdings Pte Ltd, which led to the identification of seven transactions involving that company and entities related to Andy Ong."
+        }
+      ],
+      "Issue": "Whether Douglas Foo Peow Yong, as chairman of Sakae Holdings Ltd and a director of Griffin Real Estate Investment Holdings Pte Ltd, shared responsibility with Andy Ong, Ong Han Boon, and Ho Yew Kong for the financial consequences of the seven transactions and whether he was to contribute to any sums they were ordered to pay to Griffin Real Estate Investment Holdings Pte Ltd or to Sakae Holdings Ltd.",
+      "Rule": "Under sections 15 and 16 of the Civil Law Act, a person may be to contribute to another’s liability where both are for the same damage to a third party. The court applies a three-step test to determine whether contribution is available and may exempt a person from contribution where it is just and equitable, including where the primary wrongdoer’s conduct is deliberate and the proposed contributor did not profit from the wrongdoing.",
+      "Application": "Douglas Foo Peow Yong participated in certain board and shareholder decisions of Griffin Real Estate Investment Holdings Pte Ltd, including approval of the Second Loan to ERC Unicampus Pte Ltd and the share allotments associated with the ERC Holdings Pte Ltd subscription and Sakae Holdings Ltd’s additional subscription. He later convened a Sakae Holdings Ltd board meeting to raise concerns about transactions involving Griffin Real Estate Investment Holdings Pte Ltd and initiated investigations that uncovered the seven transactions. Andy Ong, Ong Han Boon, and Ho Yew Kong sought contribution from him in third party proceedings, arguing that any liability they incurred to Sakae Holdings Ltd or Griffin Real Estate Investment Holdings Pte Ltd should be shared. The Court of Appeal examined whether Douglas Foo Peow Yong was to Sakae Holdings Ltd for the same damage as the appellants and whether it was equitable to order contribution given the nature of the appellants’ conduct and the fact that Douglas Foo Peow Yong did not benefit from the impugned transactions.",
+      "Judicial_Reasoning_Log": "The High Court dismissed the third party claims by Andy Ong, Ong Han Boon, and Ho Yew Kong against Douglas Foo Peow Yong, holding that the requirements for contribution under section 15(1) of the Civil Law Act were not satisfied because the sums ordered to be paid by the appellants were payable to Griffin Real Estate Investment Holdings Pte Ltd, not to Sakae Holdings Ltd, and because Douglas Foo Peow Yong was not liable to Sakae Holdings Ltd for oppression in respect of the same damage. The judge also held that, even if the statutory requirements were met, Douglas Foo Peow Yong should be exempted from contribution under section 16(2) of the Civil Law Act because the wrongs for which contribution was sought were deliberate acts by the appellants and Douglas Foo Peow Yong had not profited from them. In relation to Suit No 122 of 2013, the judge found no breach of fiduciary duty by Douglas Foo Peow Yong toward Sakae Holdings Ltd in connection with the share subscription arrangement. The Court of Appeal agreed that the third party claims for contribution failed, though it provided additional reasoning on the application of the ‘same damage’ requirement and the proper plaintiff rule. It dismissed Civil Appeal No 103 of 2017 in respect of the third party claims under Suit No 1098 of 2013 and made no order on the third party claim under Suit No 122 of 2013. The court also considered the High Court’s order that the appellants pay Douglas Foo Peow Yong’s costs on an indemnity basis, which had been made on the basis that the appellants had orchestrated the impugned transactions and then sought to shift responsibility to him; the Court of Appeal set aside the indemnity costs order only in relation to Ho Yew Kong in light of its decision on his appeal."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 3
+  }
+]

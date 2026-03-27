@@ -1,0 +1,579 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No 933 of 2012",
+      "Coram": "Judith Prakash J",
+      "Judge": "Judith Prakash",
+      "Date": "2013-09-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Chan Tong Fan and another",
+      "Law_Firm": "Rajah & Tann LLP",
+      "Counsel": [
+        "Gregory Vijayendran",
+        "Rachel Chow",
+        "Benjamin Smith"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1971-05-24",
+          "Text": "Chiam Heng Luan Realty Private Limited and Sloane Court Hotel Pte Ltd were incorporated on or about 24 May 1971 by Mr Chiam Heng Luan."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1971-05-24",
+          "Text": "Mr Chiam Heng Luan and his wife Mdm Lim Wee Leng were the first directors and for a considerable time the only shareholders of Chiam Heng Luan Realty Private Limited and Sloane Court Hotel Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1971-05-24",
+          "Text": "Mr Chiam Heng Luan and Mdm Lim Wee Leng had ten children, including the first plaintiff as their eldest son and second child."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1971-05-24",
+          "Text": "The second plaintiff is the wife of the first plaintiff."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-10-01",
+          "Text": "As at October 2012, Chiam Heng Luan Realty Private Limited had a paid up capital of $342,002 comprising 342,002 ordinary shares of $1.00 each."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-10-01",
+          "Text": "As at October 2012, about 16.4% of the shares in Chiam Heng Luan Realty Private Limited were held by the first plaintiff, the second plaintiff and their daughter, after the first plaintiff had distributed his share among his family a few years earlier."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-10-01",
+          "Text": "As at October 2012, there were four directors of Chiam Heng Luan Realty Private Limited, all being siblings of the first plaintiff."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-10-01",
+          "Text": "As at October 2012, the four directors of Chiam Heng Luan Realty Private Limited collectively held about 43.3% of the shares in the company."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1962-01-01",
+          "Text": "In 1962, a hotel business was run as a partnership between Mr Chiam Heng Luan, Mdm Lim Wee Leng, their daughter Ms Chiam Mui Eng and the first plaintiff."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1955-01-01",
+          "Text": "From 1955 until about 1972, the first plaintiff assisted his parents in running the family hotel business."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1971-05-24",
+          "Text": "After incorporation of the companies, it was decided within the family that Chiam Heng Luan Realty Private Limited would be the land-owning entity and that Sloane Court Hotel Pte Ltd would manage the hotel operations."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1971-05-24",
+          "Text": "The Balmoral Property at 17 Balmoral Road, Singapore, was transferred to Chiam Heng Luan Realty Private Limited, and Sloane Court Hotel Pte Ltd rented the hotel building from Chiam Heng Luan Realty Private Limited at a rental fixed by Mr Chiam Heng Luan."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1971-05-24",
+          "Text": "It was agreed within the family that Sloane Court Hotel Pte Ltd would pay for all repairs to and renovations of the hotel building on the Balmoral Property."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1971-05-24",
+          "Text": "Chiam Heng Luan Realty Private Limited and Sloane Court Hotel Pte Ltd were funded completely by Mr Chiam Heng Luan and Mdm Lim Wee Leng, who in due course allocated shares in both companies to all their children."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1988-01-01",
+          "Text": "In about 1988 or 1989, Ms Chiam Ai Thong, Mr Chiam Toon Tau and Mr Chiam Toon Chew were appointed directors of both Chiam Heng Luan Realty Private Limited and Sloane Court Hotel Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "In 2004, Ms Chiam Ai Huem was appointed a director of Chiam Heng Luan Realty Private Limited."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1990-01-01",
+          "Text": "Mdm Lim Wee Leng died in 1990."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2008-01-01",
+          "Text": "Mr Chiam Heng Luan died in 2008 at the age of 94."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-10-01",
+          "Text": "In October 2012, when the action was commenced, all shareholders of Chiam Heng Luan Realty Private Limited apart from the second plaintiff and her daughter were children of the founders or their legal representatives."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1971-05-24",
+          "Text": "Chiam Heng Luan Realty Private Limited is a property holding company whose main asset is the land at 17 Balmoral Road, Singapore, on which stands a 32-room hotel known as the Sloane Court Hotel and a restaurant."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1971-05-24",
+          "Text": "Sloane Court Hotel Pte Ltd operates the hotel and restaurant on the Balmoral Property under a rental arrangement with Chiam Heng Luan Realty Private Limited."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1975-01-01",
+          "Text": "From the mid-1970s, the first plaintiff occasionally asked his sister Ms Chiam Ai Thong for accounts of Chiam Heng Luan Realty Private Limited but did not receive them."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1997-01-01",
+          "Text": "From 1997, the first plaintiff asked his brother Mr Chiam Toon Chew for accounts of Chiam Heng Luan Realty Private Limited but did not receive them until 2009."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2009-09-08",
+          "Text": "On 8 September 2009, Mr Chiam Toon Chew provided the plaintiffs with accounts of Chiam Heng Luan Realty Private Limited for the financial years 1976, 1979, 1981 and 1983 to 1997."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-06-07",
+          "Text": "On 7 June 2010, about half an hour before the 2010 annual general meeting of Chiam Heng Luan Realty Private Limited started, the plaintiffs received a set of unaudited accounts for financial year 2009."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-06-07",
+          "Text": "An annual general meeting of Chiam Heng Luan Realty Private Limited was held on 7 June 2010."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-06-07",
+          "Text": "At the 2010 annual general meeting, the plaintiffs requested minutes of the meeting and subsequently purchased copies when they were not provided voluntarily."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-08-01",
+          "Text": "The plaintiffs received minutes of the 2011 annual general meeting of Chiam Heng Luan Realty Private Limited on 1 August 2012 after requesting them."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-01-01",
+          "Text": "From the mid-1980s until 8 September 2009, the directors of Chiam Heng Luan Realty Private Limited did not provide the plaintiffs with the company’s audited accounts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-01-01",
+          "Text": "The first plaintiff complained to the Accounting and Corporate Regulatory Authority about the company’s failure to give proper notice of annual general meetings in 2009."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2009-10-28",
+          "Text": "On 28 October 2009, the Accounting and Corporate Regulatory Authority informed Chiam Heng Luan Realty Private Limited that it had not complied with the Companies Act by failing to send out the requisite notice of annual general meeting 14 days before the meeting and advised the company to comply with the relevant provisions in future."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-07-16",
+          "Text": "On 16 July 2009, the first plaintiff sent an email to his siblings asking them to buy his shares."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-06-07",
+          "Text": "At the 2010 annual general meeting, the first plaintiff raised a concern that the annual rental payable by Sloane Court Hotel Pte Ltd for the Balmoral Property was $15,912."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "For financial year 2010, the annual rental payable by Sloane Court Hotel Pte Ltd to Chiam Heng Luan Realty Private Limited for the Balmoral Property was $15,912 excluding property tax, which was also payable by Sloane Court Hotel Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "For financial year 2010, the annual valuation of the Balmoral Property by the Inland Revenue Authority of Singapore was $336,000."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-25",
+          "Text": "On 25 August 2010, CB Richard Ellis (Pte) Ltd sent an email estimating that the achievable market rental for the Balmoral Property would be $50,000 to $60,000 per month, not taking into account the large restaurant and private car park on the property."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1988-01-01",
+          "Text": "Between 1988 and 2010, the sum of the annual valuations of the Balmoral Property by the Inland Revenue Authority of Singapore amounted to $5,221,000, while the total rent and property tax payable by Sloane Court Hotel Pte Ltd to Chiam Heng Luan Realty Private Limited for the same period amounted to $1,016,406."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1983-01-01",
+          "Text": "For 26 financial years between 1983 and 1996 and between 1999 and 2010, the plaintiffs’ data showed years in which property tax was paid but insufficient rent was paid by Sloane Court Hotel Pte Ltd, years in which insufficient property tax was paid and no rental was paid, one year in which both property tax and rental were fully paid, and one year in which a surplus was paid."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "For financial year 2010, the accounts of Chiam Heng Luan Realty Private Limited recorded amounts totalling $222,731 under the heading 'Amount owing by directors', expressed as unsecured, interest-free and repayable on demand."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-06-01",
+          "Text": "In June 2011, the plaintiffs sent notices to the board of directors of Chiam Heng Luan Realty Private Limited expressing concerns over the $222,731 recorded as amounts owing by directors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-02-01",
+          "Text": "In February 2012, the plaintiffs sent further notices to the board of directors of Chiam Heng Luan Realty Private Limited expressing concerns over the $222,731 recorded as amounts owing by directors."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2011-08-01",
+          "Text": "At the 2011 annual general meeting held in August 2011, the directors informed shareholders that the Shanghai Properties had been rented out at various times between 30 June 2002 and financial year 2009 and that rent had been derived from such tenancies."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2011-08-01",
+          "Text": "At the 2011 annual general meeting, accounts of Chiam Heng Luan Realty Private Limited were presented that disclosed rental income and expenses for prior years from the Shanghai Properties in two lump sums in the financial year 2010 accounts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-06-30",
+          "Text": "From 30 June 2002 to 31 December 2009, rental income from the Shanghai Properties was deposited into a personal bank account in Shanghai held by director Ms Chiam Ai Huem, and expenses for the Shanghai Properties were paid from that account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-01-01",
+          "Text": "In January 2009, RMB380,000 from the bank account holding rental income from the Shanghai Properties was transferred to a personal fixed deposit account of Ms Chiam Ai Huem in the Industrial and Commercial Bank of China, and another sum of $10,000 was transferred to another personal fixed deposit account in China."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "For financial year 2010, the accounts of Chiam Heng Luan Realty Private Limited showed a net increase of $17,145 under the item 'Cash and Cash Equivalent in Malaysian Ringgit', which included rent, dividends and interest."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "For financial year 2010, the accounts of Chiam Heng Luan Realty Private Limited recorded holdings of 'Cash and Cash Equivalents' in Malaysian Ringgit amounting to $729,598."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "At the 2010 annual general meeting, director Ms Chiam Ai Huem verbally provided rental figures for two three-storey shop-houses in Johor, stating that together they generated approximately 189,818 per annum in rental, expressed in Malaysian Ringgit."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-01-01",
+          "Text": "In 2009, gross annual rental for the Malaysian Properties owned by Chiam Heng Luan Realty Private Limited amounted to RM292,788, with commercial properties drawing RM16,800 and RM9,354 per month and residential properties drawing rentals between RM2,000 and RM400 per month."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "As at the 2011 annual general meeting, director Ms Chiam Ai Huem stated that the Malaysian income held should be more than one million in Malaysian Ringgit."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "For more than ten years up to 2010, the Serangoon Gardens Property at 65 and 65A Serangoon Gardens Way, a two-storey shop-house owned by Chiam Heng Luan Realty Private Limited, was rented out at approximately $15,000 to $16,000 per month."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "For financial year 2010, the annual valuation by the Inland Revenue Authority of Singapore of one unit of the Serangoon Gardens Property was $24,000 and of the other unit was $204,000, giving a combined annual valuation of $228,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "By 2012, the Serangoon Gardens Property was rented out for $22,000 per month."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1977-01-01",
+          "Text": "In 1977, the Building and Construction Authority granted approval to Chiam Heng Luan Realty Private Limited as legal owner of the Balmoral Property to undertake renovations at the hotel involving internal rearrangements and construction of two car porches."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1979-01-01",
+          "Text": "The 1979 accounts of Chiam Heng Luan Realty Private Limited showed an increase of $207,613 under 'at cost Land and Buildings'."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1981-01-01",
+          "Text": "In or around 1981, renovations were conducted at the hotel at a cost of $34,000, and in 1993 a store was added at a cost of $32,394, with these sums paid by Chiam Heng Luan Realty Private Limited."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1978-01-01",
+          "Text": "Between 1978 and 1983, the amount recorded as 'at cost Land and Buildings' in the accounts of Chiam Heng Luan Realty Private Limited did not change apart from the $207,613 increase reflected in 1979."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1979-01-01",
+          "Text": "The amount of $207,613 recorded in the 1979 accounts was used to purchase properties at 95 & 95A and 97 & 97A Jalan Perisai in Johor, Malaysia, for Chiam Heng Luan Realty Private Limited."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1993-01-01",
+          "Text": "The amount of $32,394 recorded in 1993 was used to pay for renovation costs for two three-storey shop-houses on Jalan Dedap in Johor, Malaysia, owned by Chiam Heng Luan Realty Private Limited."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1977-01-01",
+          "Text": "The first plaintiff was involved in the hotel renovations in 1977 and 1981 as a representative of Chiam Heng Luan Realty Private Limited and Sloane Court Hotel Pte Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-11-07",
+          "Text": "On 7 November 2012, a notice of extraordinary general meeting of Chiam Heng Luan Realty Private Limited was sent to all shareholders to consider resolutions relating to actions of the directors and potential claims."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-11-22",
+          "Text": "On 22 November 2012, an extraordinary general meeting of Chiam Heng Luan Realty Private Limited was held, attended by all living shareholders including the plaintiffs, at which resolutions concerning potential actions against the directors were debated and put to vote."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-12-12",
+          "Text": "On 12 December 2012, the 2012 annual general meeting of Chiam Heng Luan Realty Private Limited was held, at which a resolution was tabled for shareholders to waive or ratify breaches of directors’ duties and release the directors from liability arising from those breaches."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-10-15",
+          "Text": "On 15 October 2012, directors Ms Chiam Ai Thong and Mr Chiam Toon Tau applied to intervene in Originating Summons No 933 of 2012 to file affidavits and be heard via counsel."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-11-20",
+          "Text": "On 20 November 2012, the application by Ms Chiam Ai Thong and Mr Chiam Toon Tau to intervene in Originating Summons No 933 of 2012 was granted."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-11-14",
+          "Text": "On 14 November 2012, Ms Chiam Ai Thong filed an affidavit on behalf of herself and Mr Chiam Toon Tau setting out their perspective on the matters in Originating Summons No 933 of 2012."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Four other shareholders, Ms Chiam Mui Eng, Ms Chiam Ai Peng, Ms Chiam Ai Cheng and Mr Chiam Toon Hai, filed affidavits in the proceedings stating that they believed there was no basis for the application and that it would not be in the interests of Chiam Heng Luan Realty Private Limited to bring legal proceedings against its directors."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct and financial arrangements within a closely held family company, the plaintiffs could obtain leave to cause the company to pursue claims against its directors concerning rental terms, handling of company funds, and property-related transactions.",
+      "Rule": "Under section 216A of the Companies Act, a complainant seeking leave to commence a derivative action in the name and on behalf of a company must give prior notice to the directors, act in good faith, and there is a reasonable basis for the proposed claims and that it appears prima facie to be in the interests of the company for the action to be brought.",
+      "Application": "The plaintiffs relied on historical rental levels, internal accounting entries, and patterns of information flow within the family-run company to argue that certain transactions and arrangements warranted company claims against the directors, while the directors and other shareholders pointed to the long-standing family business structure, funding history, and shareholder voting outcomes to support continuation of existing practices and internal handling of funds.",
+      "Judicial_Reasoning_Log": "The judge considered the plaintiffs' application under section 216A of the Companies Act and evaluated each proposed head of claim. For the Balmoral Property, the judge accepted that the rental arrangement pegged to property tax had been set by the founders and that Chiam Heng Luan Realty Private Limited and Sloane Court Hotel Pte Ltd had been treated as a single family enterprise. The court noted that management decisions on rental levels are commercial matters and that the long-standing practice, supported by the majority of shareholders at the extraordinary general meeting, did not provide a legitimate and arguable basis for a derivative claim. For the alleged loans of $222,731, the judge accepted the explanation that the sum represented rental income from the Shanghai Properties held by director Ai Huem for the company, and that there was no realistic basis for a claim absent a refusal to remit the funds. Regarding the Shanghai Properties, the court rejected claims based on alleged vacancy and suboptimal rents as speculative, but found an arguable case that Ai Huem had not properly accounted for rental income and expenses and had mixed company funds with her personal accounts, including transfers to personal fixed deposits. On that limited basis, the judge granted leave for a derivative action seeking an account of rental moneys from the Shanghai Properties for a defined period. Claims concerning the Malaysian Properties, the Serangoon Gardens Property, and renovation expenses were rejected as lacking evidential foundation or being directed at decisions made before the current directors took office or too remote in time. In assessing whether the proposed actions were in the interests of the company, the judge concluded that only the accounting for Shanghai rental funds met the threshold. On good faith, the court found that the plaintiffs were genuinely aggrieved but had allowed personal disputes to colour their assessment, leading to overbroad and speculative complaints; nonetheless, the limited Shanghai accounting claim was permitted. Overall, leave was allowed only in respect of the claim for an account of rental moneys from the Shanghai Properties and dismissed for the other proposed causes of action."
+    },
+    "Label": "Allowed",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No 933 of 2012",
+      "Coram": "Judith Prakash J",
+      "Judge": "Judith Prakash",
+      "Date": "2013-09-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Chiam Heng Luan Realty Pte Ltd",
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Kong Man Er"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1971-05-24",
+          "Text": "Chiam Heng Luan Realty Private Limited was incorporated on or about 24 May 1971 by Mr Chiam Heng Luan."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1971-05-24",
+          "Text": "On incorporation, Mr Chiam Heng Luan and his wife Mdm Lim Wee Leng were directors of Chiam Heng Luan Realty Private Limited."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1971-05-24",
+          "Text": "Chiam Heng Luan Realty Private Limited was funded by capital provided by Mr Chiam Heng Luan and Mdm Lim Wee Leng, who later allocated shares to their children."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-10-01",
+          "Text": "As at October 2012, Chiam Heng Luan Realty Private Limited had a paid up capital of $342,002 comprising 342,002 ordinary shares of $1.00 each."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-10-01",
+          "Text": "As at October 2012, all shareholders of Chiam Heng Luan Realty Private Limited apart from the second plaintiff and her daughter were children of the founders or their legal representatives."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1988-01-01",
+          "Text": "In about 1988 or 1989, Ms Chiam Ai Thong, Mr Chiam Toon Tau and Mr Chiam Toon Chew were appointed directors of Chiam Heng Luan Realty Private Limited."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "In 2004, Ms Chiam Ai Huem was appointed a director of Chiam Heng Luan Realty Private Limited."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-10-01",
+          "Text": "As at October 2012, the four directors of Chiam Heng Luan Realty Private Limited were Ms Chiam Ai Thong, Mr Chiam Toon Tau, Mr Chiam Toon Chew and Ms Chiam Ai Huem, all siblings of the first plaintiff."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-10-01",
+          "Text": "As at October 2012, the four directors of Chiam Heng Luan Realty Private Limited collectively held about 43.3% of the company’s shares."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1971-05-24",
+          "Text": "Chiam Heng Luan Realty Private Limited is a property holding company whose main asset is the land at 17 Balmoral Road, Singapore, on which stands the Sloane Court Hotel and a restaurant."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1971-05-24",
+          "Text": "The Balmoral Property at 17 Balmoral Road was transferred to Chiam Heng Luan Realty Private Limited, and Sloane Court Hotel Pte Ltd rented the hotel building from Chiam Heng Luan Realty Private Limited at a rental fixed by Mr Chiam Heng Luan."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1971-05-24",
+          "Text": "It was agreed within the family that Sloane Court Hotel Pte Ltd would pay for all repairs to and renovations of the hotel building on the Balmoral Property."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1971-05-24",
+          "Text": "From incorporation, Chiam Heng Luan Realty Private Limited and Sloane Court Hotel Pte Ltd were operated as parts of a family business directed by Mr Chiam Heng Luan and Mdm Lim Wee Leng."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1988-01-01",
+          "Text": "By the time directors from the second generation were appointed in about 1988 or 1989, many business practices of Chiam Heng Luan Realty Private Limited had been established under the direction of Mr Chiam Heng Luan."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-01-01",
+          "Text": "After the death of Mr Chiam Heng Luan in 2008, the directors continued to operate Chiam Heng Luan Realty Private Limited in the same manner as during his lifetime."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1977-01-01",
+          "Text": "Since 1977, Chiam Heng Luan Realty Private Limited has held annual general meetings, with notices often given informally by telephone calls or emails as part of family practice."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1974-01-01",
+          "Text": "The first plaintiff attended annual general meetings of Chiam Heng Luan Realty Private Limited in 1974, 1975, 1977, 1981, 1987, 1991, 1996, 2010 and 2011, according to attendance records."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-01-01",
+          "Text": "After a complaint to the Accounting and Corporate Regulatory Authority in 2009, various shareholders explained that Chiam Heng Luan Realty Private Limited had been run informally and that meetings had been informal."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2009-10-28",
+          "Text": "On 28 October 2009, the Accounting and Corporate Regulatory Authority advised Chiam Heng Luan Realty Private Limited to comply with statutory notice requirements for annual general meetings, and the company took steps thereafter to comply."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "For financial year 2010, the annual rental payable by Sloane Court Hotel Pte Ltd to Chiam Heng Luan Realty Private Limited for the Balmoral Property was $15,912, with property tax also payable by Sloane Court Hotel Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-06-07",
+          "Text": "At the 2010 annual general meeting, director Ms Chiam Ai Thong explained that the rental for the Balmoral Property was pegged to cover the annual property tax payable by Chiam Heng Luan Realty Private Limited."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-06-07",
+          "Text": "At the 2010 annual general meeting, director Ms Chiam Ai Thong stated that Mr Chiam Heng Luan and Mdm Lim had decided that Sloane Court Hotel Pte Ltd should not pay more than the property tax as rental because any excess would be taxed as income in the hands of Chiam Heng Luan Realty Private Limited at a flat rate of 40% at the time."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-06-07",
+          "Text": "At the 2010 annual general meeting, director Ms Chiam Ai Huem stated that she had been holding rental income derived from the Shanghai Properties in her personal bank account in Shanghai."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "For financial year 2010, the accounts of Chiam Heng Luan Realty Private Limited recorded $222,731 under 'Amount owing by directors', corresponding to rental income from the Shanghai Properties held in a personal account of director Ms Chiam Ai Huem."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-06-30",
+          "Text": "From 30 June 2002 to 31 December 2009, rental income from the Shanghai Properties was deposited into a personal bank account in Shanghai held by director Ms Chiam Ai Huem, and expenses for the Shanghai Properties were paid from that account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-01-01",
+          "Text": "In January 2009, RMB380,000 from the bank account holding rental income from the Shanghai Properties was transferred to a personal fixed deposit account of director Ms Chiam Ai Huem in the Industrial and Commercial Bank of China, and another sum of $10,000 was transferred to another personal fixed deposit account in China."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "For financial year 2010, the accounts of Chiam Heng Luan Realty Private Limited showed a net increase of $17,145 under 'Cash and Cash Equivalent in Malaysian Ringgit', which included rent, dividends and interest from Malaysian assets."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "For financial year 2010, the accounts of Chiam Heng Luan Realty Private Limited recorded holdings of 'Cash and Cash Equivalents' in Malaysian Ringgit amounting to $729,598."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-01-01",
+          "Text": "In 2009, gross annual rental for the Malaysian Properties owned by Chiam Heng Luan Realty Private Limited amounted to RM292,788, with commercial properties drawing RM16,800 and RM9,354 per month and residential properties drawing rentals between RM2,000 and RM400 per month."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "For more than ten years up to 2010, the Serangoon Gardens Property at 65 and 65A Serangoon Gardens Way, owned by Chiam Heng Luan Realty Private Limited, was rented out at approximately $15,000 to $16,000 per month."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "By 2012, the Serangoon Gardens Property was rented out for $22,000 per month."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1977-01-01",
+          "Text": "In 1977, the Building and Construction Authority granted approval to Chiam Heng Luan Realty Private Limited as legal owner of the Balmoral Property to undertake renovations at the hotel involving internal rearrangements and construction of two car porches."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1979-01-01",
+          "Text": "The 1979 accounts of Chiam Heng Luan Realty Private Limited showed an increase of $207,613 under 'at cost Land and Buildings', which was used to purchase properties at 95 & 95A and 97 & 97A Jalan Perisai in Johor, Malaysia."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1993-01-01",
+          "Text": "In 1993, an amount of $32,394 was used to pay for renovation costs for two three-storey shop-houses on Jalan Dedap in Johor, Malaysia, owned by Chiam Heng Luan Realty Private Limited."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-11-07",
+          "Text": "On 7 November 2012, Chiam Heng Luan Realty Private Limited issued a notice of extraordinary general meeting to all shareholders to consider resolutions relating to ratification of directors' actions and whether it would be in the company's interests to bring actions against the directors on matters described in Appendix 1 of Originating Summons No 933 of 2012."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-11-22",
+          "Text": "On 22 November 2012, an extraordinary general meeting of Chiam Heng Luan Realty Private Limited was held, attended by all living shareholders including the plaintiffs, at which resolutions were debated on whether it would be in the company's interests to bring actions against the directors on the matters in Appendix 1 of Originating Summons No 933 of 2012."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-11-22",
+          "Text": "At the extraordinary general meeting on 22 November 2012, resolutions that it would not be in the interests of Chiam Heng Luan Realty Private Limited to bring actions against the directors on the matters in Appendix 1 of Originating Summons No 933 of 2012 were passed by a majority vote representing 78.36% of the shares, with the plaintiffs and their daughter holding 16.37% voting against and one sibling holding 5.26% voting against some resolutions."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-12-12",
+          "Text": "On 12 December 2012, at the 2012 annual general meeting of Chiam Heng Luan Realty Private Limited, a resolution was passed that shareholders waive or ratify any breaches of directors’ duties by the directors and release them from liability arising from breaches described in Appendix 1 of Originating Summons No 933 of 2012, with the plaintiffs and their daughter voting against and one sibling abstaining."
+        }
+      ],
+      "Issue": "Whether the internal decisions and practices of a family-owned property holding company, including rental arrangements, handling of overseas rental income, and historical renovation expenditures, should give rise to court-authorised derivative proceedings against its directors in the company’s name.",
+      "Rule": "When shareholders seek leave under section 216A of the Companies Act to commence a derivative action in the name of a company, the court assesses whether the statutory notice requirement is met, whether the applicant is acting in good faith, and whether there is a reasonable basis for the proposed claims such that it appears prima facie to be in the interests of the company to pursue them, taking into account the company’s own decisions and shareholder resolutions.",
+      "Application": "The company’s long-standing family-run structure, the founders’ original rental and funding arrangements, the directors’ continuation of those practices, and the subsequent shareholder resolutions at the extraordinary and annual general meetings were weighed against the plaintiffs’ concerns about rental levels, accounting entries, and the handling of Shanghai and Malaysian rental income to determine which, if any, matters warranted court-authorised proceedings in the company’s name.",
+      "Judicial_Reasoning_Log": "The court examined the internal affairs of Chiam Heng Luan Realty Private Limited in the context of a section 216A application. It recognised that the company and Sloane Court Hotel Pte Ltd had been operated as a family enterprise under the founders, with rental for the Balmoral Property pegged to property tax and practices carried forward by the second-generation directors. The judge emphasised that courts are slow to interfere with bona fide commercial decisions of directors, particularly in family-owned companies where corporate formalities may be relaxed. The majority shareholder support at the extraordinary general meeting and the ratification resolution at the 2012 annual general meeting were treated as significant indicators that the company, through its shareholders, did not wish to pursue most of the proposed claims. The judge found that alleged under-renting of the Balmoral Property, Malaysian Properties, and the Serangoon Gardens Property, as well as historical renovation expenditures, did not amount to legitimate and arguable causes of action for the company, given the evidence and the time periods involved. However, the handling of rental income from the Shanghai Properties by director Ai Huem, including the use of her personal bank accounts and transfers to personal fixed deposits, raised sufficient concern about proper accounting and segregation of company funds to justify a limited derivative claim for an account of rental moneys. The court concluded that only this narrow claim appeared prima facie to be in the company’s interests and granted leave accordingly, while dismissing the remainder of the plaintiffs’ proposed causes of action."
+    },
+    "Label": "Allowed",
+    "Leakage_Score": 1
+  }
+]

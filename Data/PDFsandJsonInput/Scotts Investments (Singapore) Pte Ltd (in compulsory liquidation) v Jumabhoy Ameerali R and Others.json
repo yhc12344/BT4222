@@ -1,0 +1,220 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit 736/2002",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck",
+      "Date": "2004-02-05",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Scotts Investments (Singapore) Pte Ltd (in compulsory liquidation)",
+      "Law_Firm": "Engelin Teh Practice LLC",
+      "Counsel": [
+        "Harish Kumar",
+        "Linda Ong"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1995-01-01",
+          "Text": "Scotts Investments (Singapore) Pte Ltd was a holding company which held shares in Scotts Holdings Ltd and various subsidiary companies such as Lion City Holdings Pte Ltd, and it did not have trading or any substantial or active business for a long period before 1995."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-04-12",
+          "Text": "On 12 April 1996, an application was filed by Ameerali R Jumabhoy and Iqbal Jumabhoy to place Scotts Investments (Singapore) Pte Ltd under receivership, and creditor banks of the company became more concerned about the company’s financial position."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1996-07-27",
+          "Text": "On 27 July 1996, the board of Scotts Investments (Singapore) Pte Ltd passed a resolution appointing Yusuf Jumabhoy and Rafiq Jumabhoy from among the directors to review the company’s investment in Lion City Holdings Pte Ltd, to determine steps to safeguard the company’s investment and amounts owing or guaranteed, and to exercise all powers of the board in connection with that review and related matters."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1996-07-27",
+          "Text": "The 27 July 1996 board resolution authorised Yusuf Jumabhoy and Rafiq Jumabhoy to decide questions, take steps, approve matters to give effect to steps regarding Lion City Holdings Pte Ltd, obtain reports or data they considered necessary, instruct Rajah & Tann as solicitors for the company and other professional advisers, and exercise discretion to do acts and things necessary or expedient to give effect to the matters in the resolution."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1996-07-27",
+          "Text": "The 27 July 1996 board resolution stated that Scotts Investments (Singapore) Pte Ltd would indemnify Yusuf Jumabhoy and Rafiq Jumabhoy for all costs and expenses incurred by them personally in respect of their appointment under that resolution."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-07-27",
+          "Text": "On 27 July 1996, Scotts Investments (Singapore) Pte Ltd appointed Rajah & Tann as the company’s solicitors to act in relation to all matters regarding Lion City Holdings Pte Ltd and authorised them to take instructions from Yusuf Jumabhoy and/or Rafiq Jumabhoy."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1996-08-06",
+          "Text": "On 6 August 1996, the board of Scotts Investments (Singapore) Pte Ltd passed a resolution in terms identical to the 27 July 1996 resolution, relating to Scotts Holdings Ltd and appointing Yusuf Jumabhoy and Rafiq Jumabhoy to review the company’s investment and to be indemnified for all costs and expenses incurred personally in respect of their appointment."
+        }
+      ],
+      "Issue": "Whether the wording in the 1996 board resolutions and related indemnities for Scotts Investments (Singapore) Pte Ltd that the company would indemnify specified directors for all costs and expenses incurred personally in respect of their appointment included payment for those directors’ own time-based fees in addition to reimbursement of out-of-pocket expenditures.",
+      "Rule": "In company law, a director’s remuneration for services is generally payable only where it is specifically authorised or approved by the company or its board, whereas indemnity wording referring to costs and expenses is ordinarily construed as covering out-of-pocket expenditures incurred in the course of authorised tasks unless the context clearly extends it to include personal service fees or time charges.",
+      "Application": "The board resolutions for Scotts Investments (Singapore) Pte Ltd in July and August 1996 expressly referred to indemnifying the appointed directors for all costs and expenses incurred personally in respect of their appointment, while the company was a non-trading holding company facing financial difficulties and creditor pressure. The resolutions detailed the scope of the directors’ authority and the engagement of external solicitors and advisers but did not specify any rate, fixed amount, or formula for paying the directors’ own service fees or time-based charges. The absence of express remuneration terms for the directors, contrasted with the explicit reference to indemnity for costs and expenses and the separate engagement of professional consultants and law firms on stated fee arrangements, aligns with a reading that the resolutions addressed reimbursement of expenditures rather than creating a separate entitlement to director time-based fees.",
+      "Judicial_Reasoning_Log": "The court treated the counterclaim of the third defendant, Rafiq Jumabhoy, as the live claim after the liquidators’ main claim was discontinued. It analysed whether the phrase \"costs and expenses\" in the board resolutions and letters of indemnity extended to director time charges or quantum meruit remuneration. The judge considered dictionary definitions but emphasised that legal documents must be construed in context, including the company’s financial difficulties, its status as a non-trading holding company, and the internal family dispute. The judge evaluated the competing accounts of the 14 May 1996 letter and the alleged oral agreement for a $25,000 monthly fee, preferred Yusuf Jumabhoy’s version, and noted the absence of any reference in the resolutions to that letter or to specific remuneration terms. The judge reasoned that director remuneration requires specific board approval and relied on authority indicating that a director is not entitled to quantum meruit in such circumstances. The judge concluded that the burden of proof on the third defendant to show that the resolutions covered his time costs had not been discharged, and dismissed the claim for time costs while ordering an inquiry limited to determining any out-of-pocket costs and expenses actually incurred on behalf of the company. The third defendant’s counterclaim was therefore dismissed save for the inquiry into out-of-pocket expenses."
+    },
+    "Label": "Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 736/2002",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck",
+      "Date": "2004-02-05",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Jumabhoy Ameerali R",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1995-01-01",
+          "Text": "Before 2002, Ameerali R Jumabhoy was one of the sons of Rajabali Jumabhoy and the father of Rafiq Jumabhoy, and he was involved in a family dispute concerning corporate interests."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-04-12",
+          "Text": "On 12 April 1996, Ameerali R Jumabhoy, together with Iqbal Jumabhoy, filed an application to place Scotts Investments (Singapore) Pte Ltd under receivership."
+        }
+      ],
+      "Issue": "Whether any resolutions or indemnities of Scotts Investments (Singapore) Pte Ltd created an obligation affecting the position of Ameerali R Jumabhoy in relation to director-related payments and indemnities arising from the 1996 appointments.",
+      "Rule": "Obligations of a company towards directors for remuneration or indemnity arise from the terms of resolutions, contracts, or constitutional documents, and affect only those directors or parties within the scope of such instruments as properly construed.",
+      "Application": "The 1996 board resolutions and indemnities identified specific directors, including Yusuf and Rafiq Jumabhoy, for appointment and indemnity in relation to review tasks and did not specify any separate payment or indemnity terms directed at Ameerali R Jumabhoy.",
+      "Judicial_Reasoning_Log": "The judgment focused on the counterclaim of the third defendant, Rafiq Jumabhoy, and did not set out separate reasoning on any personal entitlement or liability of the first defendant, Ameerali R Jumabhoy, in respect of director remuneration or indemnity under the 1996 resolutions."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 736/2002",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck",
+      "Date": "2004-02-05",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Iqbal Jumabhoy",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1995-01-01",
+          "Text": "Before 2002, Iqbal Jumabhoy was a son of Rajabali Jumabhoy and the brother of Rafiq Jumabhoy, and he was involved in the family dispute concerning corporate interests."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-04-12",
+          "Text": "On 12 April 1996, Iqbal Jumabhoy, together with Ameerali R Jumabhoy, filed an application to place Scotts Investments (Singapore) Pte Ltd under receivership."
+        }
+      ],
+      "Issue": "Whether the corporate steps taken in 1996, including the receivership application and subsequent board resolutions, affected any entitlement or obligation of Iqbal Jumabhoy regarding director-related payments or indemnities.",
+      "Rule": "A director’s or shareholder’s rights and obligations in relation to remuneration and indemnity are determined by the company’s resolutions, contracts, and governing instruments as they apply to that individual.",
+      "Application": "The 1996 board resolutions and indemnities identified specific directors, including Yusuf and Rafiq Jumabhoy, for appointment and indemnity in relation to review tasks, and the judgment did not describe any separate remuneration or indemnity arrangement directed at Iqbal Jumabhoy.",
+      "Judicial_Reasoning_Log": "The judgment addressed the counterclaim of the third defendant, Rafiq Jumabhoy, and did not provide detailed reasoning on any separate claim or liability concerning the second defendant, Iqbal Jumabhoy, in relation to director remuneration or indemnity."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 736/2002",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck",
+      "Date": "2004-02-05",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Rafiq Jumabhoy",
+      "Law_Firm": "BT Tan and Co",
+      "Counsel": [
+        "Tan Bar Tien",
+        "Winston Quek"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1995-01-01",
+          "Text": "Before 2002, Rafiq Jumabhoy was a son of Ameerali R Jumabhoy and the brother of Iqbal Jumabhoy, and he was involved in the Jumabhoy family dispute concerning corporate interests."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "In 1995, Suit No 1801 of 1995 was commenced in which Rajabali Jumabhoy and two of his sons, Yusuf and Mustafa, sued Ameerali R Jumabhoy, Iqbal Jumabhoy, and Rafiq Jumabhoy, and a side issue concerning an share option in favour of Rafiq Jumabhoy led to a change in alignment between Rafiq and Iqbal."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "After the commencement of Suit No 1801 of 1995, Rafiq Jumabhoy aligned himself with the group consisting of Rajabali, Mustafa, and Yusuf in the ongoing family dispute."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-04-12",
+          "Text": "Following the filing of the receivership application on 12 April 1996 by Ameerali and Iqbal in respect of Scotts Investments (Singapore) Pte Ltd, Rafiq Jumabhoy participated in efforts to address the company’s situation with its creditor banks."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1996-07-27",
+          "Text": "On 27 July 1996, the board of Scotts Investments (Singapore) Pte Ltd appointed Rafiq Jumabhoy, together with Yusuf Jumabhoy, from among the directors to review the company’s investment in Lion City Holdings Pte Ltd, determine steps to safeguard the company’s investment and amounts owing or guaranteed, and exercise all powers of the board in connection with that review and related matters."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1996-07-27",
+          "Text": "The 27 July 1996 board resolution authorised Rafiq Jumabhoy and Yusuf Jumabhoy to decide questions, take steps, approve matters to give effect to steps regarding Lion City Holdings Pte Ltd, obtain reports or data they considered necessary, instruct Rajah & Tann as solicitors for the company and other professional advisers, and exercise discretion to do acts and things necessary or expedient to give effect to the matters in the resolution."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1996-07-27",
+          "Text": "The 27 July 1996 board resolution stated that Scotts Investments (Singapore) Pte Ltd would indemnify Rafiq Jumabhoy and Yusuf Jumabhoy for all costs and expenses incurred by them personally in respect of their appointment under that resolution."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-07-27",
+          "Text": "On 27 July 1996, Scotts Investments (Singapore) Pte Ltd appointed Rajah & Tann as the company’s solicitors to act in relation to all matters regarding Lion City Holdings Pte Ltd and authorised them to take instructions from Yusuf Jumabhoy and/or Rafiq Jumabhoy."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1996-08-06",
+          "Text": "On 6 August 1996, the board of Scotts Investments (Singapore) Pte Ltd passed a resolution in terms identical to the 27 July 1996 resolution, relating to Scotts Holdings Ltd, appointing Rafiq Jumabhoy and Yusuf Jumabhoy to review the company’s investment and to be indemnified for all costs and expenses incurred personally in respect of their appointment."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1996-05-14",
+          "Text": "On 14 May 1996, Rafiq Jumabhoy wrote a letter to Yusuf Jumabhoy offering his services to Scotts Investments (Singapore) Pte Ltd and requesting a fixed monthly payment of $25,000 for those services."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1996-05-18",
+          "Text": "On 18 May 1996, Rafiq Jumabhoy wrote a letter to Yusuf Jumabhoy in which he referred to a conversation with Andrew Smith and stated that he was still awaiting a response from Yusuf to his earlier letter dated 14 May 1996 regarding his proposed remuneration."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-01-01",
+          "Text": "Before and after the 1996 board resolutions, Rafiq Jumabhoy engaged professional consultants, including Don Ho and Andrew Smith of Haddington Investment Pte Ltd, to assist Scotts Investments (Singapore) Pte Ltd, with those consultants charging daily rates for their services."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-01-01",
+          "Text": "Before the dispute, Rafiq Jumabhoy made payments described as legal costs on behalf of Scotts Investments (Singapore) Pte Ltd to various law firms and incurred travelling expenses in connection with work done for the company."
+        }
+      ],
+      "Issue": "Whether, on a neutral reading of the 1996 board resolutions and related indemnities of Scotts Investments (Singapore) Pte Ltd, the phrase that the company would indemnify Rafiq Jumabhoy for all costs and expenses incurred by him personally in respect of his appointment covered (a) payment of his own time-based fees or quantum meruit remuneration for services performed under those resolutions, and (b) reimbursement of out-of-pocket expenditures such as legal costs and travelling expenses that he paid on behalf of the company.",
+      "Rule": "When construing company board resolutions and indemnity provisions, the meaning of terms such as costs and expenses is determined by their ordinary and contextual usage in corporate practice, under which director remuneration for services generally requires specific approval or express provision, while indemnity for costs and expenses typically refers to reimbursement of out-of-pocket expenditures incurred in carrying out authorised tasks, unless the language or surrounding circumstances clearly extend the indemnity to include the director’s own service fees or time charges.",
+      "Application": "The 1996 board resolutions for Scotts Investments (Singapore) Pte Ltd expressly appointed Rafiq Jumabhoy and Yusuf Jumabhoy to review specified investments, empowered them to instruct solicitors and professional advisers, and stated that the company would indemnify them for all costs and expenses incurred personally in respect of their appointment. The resolutions did not mention any fixed monthly amount, daily rate, or other formula for paying Rafiq Jumabhoy’s own service fees, and they did not refer to his 14 May 1996 letter proposing a $25,000 monthly payment. At the same time, the resolutions expressly contemplated the engagement of external solicitors and professional advisers whose fees would be payable, and Rafiq Jumabhoy in fact incurred legal costs and travelling expenses on behalf of the company. In this context, the wording that the company would indemnify him for all costs and expenses incurred personally in respect of his appointment aligns with reimbursement of out-of-pocket expenditures he paid in carrying out the authorised tasks, rather than creating a separate entitlement to his own time-based fees or quantum meruit remuneration, which would ordinarily require explicit board approval or contractual terms.",
+      "Judicial_Reasoning_Log": "The court examined the counterclaim of the third defendant, Rafiq Jumabhoy, which sought payment of his fees based on time costs or, alternatively, on a quantum meruit basis, and reimbursement of costs and expenses including legal fees and travelling expenses. The judge noted that the claim rested solely on the board resolutions and letters of indemnity. The court considered the 14 May 1996 letter in which Rafiq proposed a $25,000 monthly fee and his assertion of an oral agreement with Yusuf, but preferred Yusuf’s account that the proposal was rejected and observed that the resolutions did not refer to that letter or to any specific remuneration terms. The judge reasoned that the phrase \"costs and expenses\" in the context of indemnifying directors delegated to perform specific tasks ordinarily refers to out-of-pocket expenditures, not director remuneration, which must be specifically approved by the board. The court relied on authority indicating that a director is not entitled to quantum meruit in such circumstances and held that Rafiq had not discharged the burden of proving that the resolutions were intended to cover his time costs. The claim for time-based fees was dismissed. However, the judge accepted that the wording clearly covered reimbursement of out-of-pocket expenses and ordered an inquiry to determine what costs and expenses, if any, had in fact been incurred by Rafiq on behalf of the company. The third defendant’s counterclaim was therefore dismissed except for the inquiry into out-of-pocket expenses."
+    },
+    "Label": "Dismissed",
+    "Leakage_Score": 1
+  }
+]

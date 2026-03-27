@@ -1,0 +1,315 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 844 of 2020",
+      "Coram": "Darco Water Technologies Ltd v Thye Kim Meng [2022] SGHC 49",
+      "Judge": "Hoo Sheau Peng J",
+      "Date": "2022-03-08",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Darco Water Technologies Ltd",
+      "Law_Firm": "Solitaire LLP",
+      "Counsel": [
+        "Yeo Lai Hock Nichol",
+        "Qua Bi Qi"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2001-10-13",
+          "Text": "Darco Water Technologies Ltd was incorporated on 13 October 2001."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2008-05-07",
+          "Text": "Darco Water Technologies Ltd was listed on the main board of the Singapore Exchange on 7 May 2008."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2017-01-01",
+          "Text": "Darco Water Technologies Ltd is in the business of water and waste-water treatment solutions and is part of the Darco Group of companies."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-01-01",
+          "Text": "The Darco Group is governed by a Group Charter which sets out principles for management and governance of each company in the group, including internal guidelines for material contracts and investments exceeding specified amounts."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2017-01-01",
+          "Text": "At the material time, Darco Water Technologies Ltd had a board of directors referred to as the Board."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2017-01-01",
+          "Text": "Darco Water Technologies Ltd is the holding company of Darco Water System Sdn Bhd, a wholly owned Malaysian-incorporated subsidiary."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2017-01-01",
+          "Text": "Darco Water System Sdn Bhd was tasked to carry out the Solar Project in Vietnam."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-10-01",
+          "Text": "In October 2017, Darco Water Technologies Ltd, through its director Thye Kim Meng, initiated contact with consultant Dinh Minh Dao regarding a business opportunity in Can Giuoc District, Vietnam involving a potential acquisition of 90% of the issued equity interest in Can Giuoc Water Works Limited from CA Trading Co Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-11-07",
+          "Text": "On 7 November 2017, representatives of Darco Water Technologies Ltd, including Thye Kim Meng and Heather Tan, met in Singapore with consultant Dinh Minh Dao to discuss the proposed Water Project involving Can Giuoc Water Works Limited."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2017-12-11",
+          "Text": "On 11 December 2017, Thye Kim Meng sent Heather Tan draft terms of a framework agreement for the Water Project to be signed between Darco Water Technologies Ltd and CA Trading Co Ltd, and Heather Tan formalised the agreement."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-12-14",
+          "Text": "On 14 December 2017, Darco Water Technologies Ltd and CA Trading Co Ltd signed a Framework Agreement under which Darco Water Technologies Ltd would have the right to negotiate for the acquisition of 90% of the equity interest in Can Giuoc Water Works Limited, with provisions for technical and financial due diligence and a contemplated separate sale and purchase agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-12-14",
+          "Text": "On 14 December 2017, pursuant to the Framework Agreement, Darco Water Technologies Ltd, through its financial controller Teh Chun Sem, remitted a sum of US$1,000,000 as a refundable deposit to CA Trading Co Ltd, with the Framework Agreement stating that the sum was recoverable upon discovery of specified negative technical or financial findings that would prevent proceeding with a sale and purchase agreement for 90% of Can Giuoc Water Works Limited."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-04-20",
+          "Text": "On 20 April 2018, Mazars LLP was engaged to carry out a financial due diligence exercise on the Water Project relating to the potential acquisition of equity in Can Giuoc Water Works Limited."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-08-06",
+          "Text": "On 6 August 2018, Mazars LLP sent a draft financial due diligence report on the Water Project to financial controller Teh Chun Sem, which identified financial aspects of concern and noted that the report was incomplete due to unresolved technical issues relating to the salinity of the water source."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-10-01",
+          "Text": "In October 2018, consultant Dinh Minh Dao informed director Thye Kim Meng that he had a joint venture with a Vietnamese company via Con Dao Green Energy to construct and operate a solar power plant on Dat Doc beach on one of the Con Dao islands, and this opportunity was identified as the Solar Project involving a potential acquisition of Con Dao Green Energy by Darco Water Technologies Ltd or its group."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-10-01",
+          "Text": "In October 2018, director Thye Kim Meng instructed Darco Water System Sdn Bhd managing director Thye Ze Pin to work on the Solar Project."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-10-19",
+          "Text": "A draft letter of intent dated 19 October 2018 relating to the Solar Project was prepared and later circulated to the board of Darco Water Technologies Ltd on 24 October 2018; this draft remained unsigned."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2018-10-30",
+          "Text": "On 30 October 2018, Darco Water System Sdn Bhd and Con Dao Green Energy entered into a signed letter of intent concerning the Solar Project, which included a payment schedule for a total of US$1,000,000 over several tranches and conditions related to legal and project documentation and subsequent agreements."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2018-11-30",
+          "Text": "On 30 November 2018, Darco Water System Sdn Bhd and Con Dao Green Energy signed a document titled \"Request for Advancement\" pursuant to the 30 October 2018 letter of intent, setting out a six-tranche payment schedule for an advance sum of US$1,000,000 and conditions for each tranche, including provision of legal and project documents and completion of due diligence to the satisfaction of Darco Water System Sdn Bhd, as well as refund provisions if specified conditions were not fulfilled."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-11-30",
+          "Text": "On 30 November 2018, Darco Water Technologies Ltd, on behalf of Darco Water System Sdn Bhd, made a first payment of US$200,000 to consultant Dinh Minh Dao pursuant to the 30 November 2018 Advancement Letter for the Solar Project."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-12-28",
+          "Text": "On 28 December 2018, finance director Heather Tan emailed consultant Dinh Minh Dao requesting additional data regarding the salinity of the water source for the Water Project, copying director Thye Kim Meng on the correspondence."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-12-29",
+          "Text": "On 29 December 2018, consultant Dinh Minh Dao informed representatives of Darco Water Technologies Ltd that two of three key requirements for the Solar Project, including in-principle approval to purchase electricity from the Vietnamese electricity authority and land clearance, had been fulfilled, and suggested that Darco Water System Sdn Bhd acquire both Con Dao Green Energy and Terrawood to obtain certain project documents, indicating he would refund moneys if parties were unable to agree."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2019-01-10",
+          "Text": "On 10 January 2019, Darco Water Technologies Ltd, on behalf of Darco Water System Sdn Bhd, made a second payment of US$300,000 to consultant Dinh Minh Dao pursuant to the 30 November 2018 Advancement Letter for the Solar Project."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2019-02-25",
+          "Text": "On 25 February 2019, at an audit committee meeting of Darco Water Technologies Ltd, director Thye Kim Meng stated that the due diligence process for the Water Project was ongoing."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2019-02-15",
+          "Text": "On 15 February 2019, Darco Water Technologies Ltd, on behalf of Darco Water System Sdn Bhd, made a third payment of US$100,000 to consultant Dinh Minh Dao pursuant to the 30 November 2018 Advancement Letter for the Solar Project, following internal communications between financial controller Teh Chun Sem, director Thye Kim Meng, and Darco Water System Sdn Bhd managing director Thye Ze Pin."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2019-02-15",
+          "Text": "By 15 February 2019, Darco Water Technologies Ltd had made three payments totaling US$600,000 to consultant Dinh Minh Dao under the 30 November 2018 Advancement Letter for the Solar Project, with the payments described in that document as refundable if specified conditions were not fulfilled."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2019-01-01",
+          "Text": "For the Solar Project, Darco Water Technologies Ltd approved an inter-company loan of US$1,000,000 from the holding company to Darco Water System Sdn Bhd to fund the project-related payments."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2020-05-22",
+          "Text": "On 22 May 2020, BDO LLP issued an Internal Audit Report to Darco Water Technologies Ltd that included references to the Group Charter and management comments stating that fund transfers would follow authorisation limits approved in the Group Charter, and that the withdrawal from the Solar Project was not due to unsatisfactory due diligence."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2020-08-07",
+          "Text": "On 7 August 2020, Darco Water Technologies Ltd issued an announcement stating that its proposed acquisition of an equity interest in Can Giuoc Water Works Limited was entry into a definitive sale and purchase agreement and that it was withdrawing from the Water Project because technical issues could not be resolved."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2021-11-01",
+          "Text": "By the time of the trial in November 2021, Darco Water Technologies Ltd had not fully recovered the US$1,000,000 deposit paid to CA Trading Co Ltd for the Water Project and the US$600,000 paid to consultant Dinh Minh Dao for the Solar Project."
+        }
+      ],
+      "Issue": "Whether the conduct of the former director and chief executive officer of Darco Water Technologies Ltd in initiating and managing the Water Project and Solar Project, including entering into the Framework Agreement, arranging the US$1,000,000 deposit, engaging Mazars LLP for due diligence, approving an inter-company loan to Darco Water System Sdn Bhd, and authorising three payments totaling US$600,000 under the 30 November 2018 Advancement Letter, is associated with the non-recovery of these sums after the projects did not proceed.",
+      "Rule": "In company law, directors are generally act in what they consider to be the interests of the company and to exercise reasonable care, skill and diligence, including taking reasonable steps to understand significant transactions, following internal authorisation frameworks such as group charters for material contracts and investments, and overseeing that company funds are applied consistently with agreed contractual frameworks and corporate approvals.",
+      "Application": "Darco Water Technologies Ltd entered into a Framework Agreement with CA Trading Co Ltd on 2017-12-14, paid a US$1,000,000 deposit described as refundable upon specified adverse technical or financial findings, and engaged Mazars LLP on 2018-04-20 to conduct financial due diligence, which produced a draft report on 2018-08-06 noting concerns and incomplete technical information. For the Solar Project, Darco Water Technologies Ltd approved an inter-company loan of US$1,000,000 to its subsidiary Darco Water System Sdn Bhd, which then signed a 30 October 2018 letter of intent and a 30 November 2018 Advancement Letter with Con Dao Green Energy, setting out a six-tranche payment schedule and refund conditions. Acting through its officers, Darco Water Technologies Ltd made three payments totaling US$600,000 to consultant Dinh Minh Dao between 2018-11-30 and 2019-02-15 under this framework. Internal documents, including the Group Charter and the 2020 Internal Audit Report, the group had defined approval thresholds and that management later described the Solar Project withdrawal as not due to unsatisfactory due diligence. Both the Water Project and Solar Project did not proceed to definitive sale and purchase agreements, and by the time of trial Darco Water Technologies Ltd had not fully recovered the US$1,600,000 advanced in connection with these projects.",
+      "Judicial_Reasoning_Log": "The court analysed the pleaded allegations that the defendant, as director and CEO, breached statutory, fiduciary, and common law duties in relation to the Water Project and Solar Project. For the Water Project, the judge held that the Group Charter was operative and required Board approval only for acquisition contracts above S$20m. The Framework Agreement was characterised as a preliminary agreement granting exclusivity and enabling due diligence, not an acquisition contract, so Board approval was not required for either the Framework Agreement or the US$1,000,000 deposit. The judge rejected unpleaded arguments that the deposit quantum was unreasonable or that payment to CA Trading was reckless, accepting the defendant's valuation evidence and the existing commercial relationship with consultant Dao and CA Trading. On due diligence, the court found that responsibility for the Mazars LLP exercise lay with the Investment Committee and other officers, not the defendant, and that the draft Mazars report and unresolved salinity issues did not compel the defendant to demand a refund at the material time, especially as the plaintiff itself treated due diligence as ongoing and only withdrew from the Water Project in August 2020. For the Solar Project, the court found that Darco Water System Sdn Bhd, led by managing director Thye Ze Pin, was the primary executing entity, and that the defendant's role was limited to approving an inter-company loan and countersigning payments. The Group Charter did not require Board approval for the 30 November 2018 Advancement Letter or the payments, as these were preliminary funding arrangements rather than acquisition contracts. The judge held that the 30 November 2018 Advancement Letter modified the earlier 30 October 2018 LOI payment schedule and that the three payments were made in accordance with its terms. The court accepted that the defendant could reasonably rely on Thye Ze Pin to manage due diligence and confirm satisfaction of conditions, and noted the absence of evidence that the conditions for the second and third tranches were not met. The allegation that the payments were really to fund Dao's buyout of another shareholder was treated as a bare assertion unsupported by evidence. The Internal Audit Report and subsequent management explanations indicated that the Solar Project withdrawal was due to commercial reasons rather than unsatisfactory due diligence, breaking any causal chain between the defendant's authorisations and the eventual loss. The judge also declined to entertain several unpleaded theories relating to the letters of intent and alleged misleading of the Board. Overall, the court concluded that the defendant acted honestly and within his authority, that the decisions were commercial in nature, and that no breach of director's duties was established in respect of either project. The plaintiff's claim was therefore dismissed."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 3
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 844 of 2020",
+      "Coram": "Darco Water Technologies Ltd v Thye Kim Meng [2022] SGHC 49",
+      "Judge": "Hoo Sheau Peng J",
+      "Date": "2022-03-08",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Thye Kim Meng",
+      "Law_Firm": "Pinnacle Law LLC",
+      "Counsel": [
+        "Aqbal Singh s/o Kuldip Singh",
+        "Wong Yiping",
+        "Cheng Cui Wen"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2001-10-13",
+          "Text": "Thye Kim Meng is the founder of Darco Water Technologies Ltd and was a director of the company from 13 October 2001."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2017-01-01",
+          "Text": "At the material time concerning the Water Project and Solar Project, Thye Kim Meng was the managing director and chief executive officer of Darco Water Technologies Ltd and served as executive chairman of its Board."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2019-05-31",
+          "Text": "Thye Kim Meng left Darco Water Technologies Ltd on 31 May 2019 and ceased to be a director on that date."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-10-01",
+          "Text": "In October 2017, Thye Kim Meng contacted consultant Dinh Minh Dao regarding a business opportunity in Can Giuoc District, Vietnam involving a potential acquisition of 90% of the issued equity interest in Can Giuoc Water Works Limited from CA Trading Co Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-11-07",
+          "Text": "On 7 November 2017, Thye Kim Meng attended a meeting in Singapore with finance director Heather Tan and consultant Dinh Minh Dao to discuss the proposed Water Project involving Can Giuoc Water Works Limited."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2017-12-11",
+          "Text": "On 11 December 2017, Thye Kim Meng sent Heather Tan draft terms of a framework agreement for the Water Project to be signed between Darco Water Technologies Ltd and CA Trading Co Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-12-14",
+          "Text": "On 14 December 2017, acting in his capacity as managing director and chief executive officer, Thye Kim Meng caused Darco Water Technologies Ltd to enter into a Framework Agreement with CA Trading Co Ltd relating to the potential acquisition of 90% of the equity interest in Can Giuoc Water Works Limited, with provisions for exclusivity, technical and financial due diligence, and a contemplated separate sale and purchase agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-12-14",
+          "Text": "On 14 December 2017, following the signing of the Framework Agreement, Thye Kim Meng authorised the remittance by Darco Water Technologies Ltd of a US$1,000,000 deposit to CA Trading Co Ltd as specified in the agreement."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2017-01-01",
+          "Text": "At the material time, Thye Kim Meng worked with finance director Heather Tan and financial controller Teh Chun Sem on matters relating to the Water Project."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-04-20",
+          "Text": "On 20 April 2018, a financial due diligence engagement for the Water Project was entered into with Mazars LLP; the engagement was handled by the Investment Committee and finance personnel rather than directly by Thye Kim Meng."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-08-06",
+          "Text": "On 6 August 2018, Mazars LLP sent a draft financial due diligence report on the Water Project to financial controller Teh Chun Sem; Thye Kim Meng was not copied on the email correspondence between Mazars LLP and the Investment Committee from 18 April 2018 to 6 August 2018."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-10-01",
+          "Text": "In October 2018, after discussing solar power generation as a business opportunity with consultant Dinh Minh Dao, Thye Kim Meng was informed of a joint venture via Con Dao Green Energy to construct and operate a solar power plant on Dat Doc beach, and he identified this as the Solar Project involving a potential acquisition of Con Dao Green Energy."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-10-01",
+          "Text": "In October 2018, Thye Kim Meng instructed Darco Water System Sdn Bhd managing director Thye Ze Pin to work on the Solar Project and to lead the team handling due diligence and project execution."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2018-10-30",
+          "Text": "On 30 October 2018, under the direction of group management including Thye Kim Meng, Darco Water System Sdn Bhd entered into a letter of intent with Con Dao Green Energy for the Solar Project, which included a payment schedule and conditions related to legal and project documentation and subsequent agreements."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2018-11-30",
+          "Text": "On 30 November 2018, Darco Water System Sdn Bhd and Con Dao Green Energy signed the 30 November 2018 Advancement Letter, which set out a six-tranche payment schedule for an advance sum of US$1,000,000 and conditions for each tranche, including provision of legal agreements, titles, licences, approvals, permits, and completion of due diligence to the satisfaction of Darco Water System Sdn Bhd, as well as refund provisions if specified conditions were not fulfilled."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-11-30",
+          "Text": "On 30 November 2018, acting in his capacity as managing director and chief executive officer of Darco Water Technologies Ltd, and together with Darco Water System Sdn Bhd managing director Thye Ze Pin, Thye Kim Meng authorised a first payment of US$200,000 to consultant Dinh Minh Dao under the 30 November 2018 Advancement Letter for the Solar Project."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2019-01-10",
+          "Text": "On 10 January 2019, following instructions from Darco Water System Sdn Bhd managing director Thye Ze Pin, Thye Kim Meng authorised a second payment of US$300,000 to consultant Dinh Minh Dao under the 30 November 2018 Advancement Letter for the Solar Project."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-12-28",
+          "Text": "On 28 December 2018, Thye Kim Meng was copied on an email from finance director Heather Tan to consultant Dinh Minh Dao requesting additional data regarding the salinity of the water source for the Water Project."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2019-02-25",
+          "Text": "On 25 February 2019, at an audit committee meeting of Darco Water Technologies Ltd, Thye Kim Meng stated that the due diligence process for the Water Project was ongoing."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2019-02-14",
+          "Text": "On 14 February 2019, consultant Dinh Minh Dao sent a WhatsApp message referencing an agreement with \"Mr Thye\" for a payment of US$100,000 for the Solar Project, and financial controller Teh Chun Sem telephoned Thye Kim Meng to seek authorisation for this payment."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2019-02-15",
+          "Text": "On 15 February 2019, after Thye Kim Meng indicated his agreement in principle to the requested payment and Darco Water System Sdn Bhd managing director Thye Ze Pin confirmed that payment could proceed, a third payment of US$100,000 was made to consultant Dinh Minh Dao under the 30 November 2018 Advancement Letter for the Solar Project."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2019-01-01",
+          "Text": "For the Solar Project, Thye Kim Meng approved an inter-company loan of US$1,000,000 from Darco Water Technologies Ltd to its subsidiary Darco Water System Sdn Bhd to fund project-related payments."
+        }
+      ],
+      "Issue": "Whether the pre-dispute conduct of Thye Kim Meng, including initiating the Water Project and Solar Project, causing Darco Water Technologies Ltd to enter into the Framework Agreement and pay a US$1,000,000 deposit, approving an inter-company loan to Darco Water System Sdn Bhd, and authorising three payments totaling US$600,000 under the 30 November 2018 Advancement Letter, is associated with the company’s subsequent non-recovery of these sums after the projects did not proceed.",
+      "Rule": "Directors of companies are generally manage corporate affairs in what they consider to be the interests of the company and to exercise reasonable care, skill and diligence, which includes using internal governance instruments such as group charters to determine when board approval is required, delegating operational tasks like due diligence to appropriate officers or committees, and ensuring that significant payments are made within the framework of agreed contractual documents and corporate approvals.",
+      "Application": "As managing director, chief executive officer, and executive chairman, Thye Kim Meng initiated discussions with consultant Dinh Minh Dao in October 2017 about acquiring 90% of Can Giuoc Water Works Limited, participated in a meeting on 2017-11-07 with finance director Heather Tan and Dao, and sent draft terms of a Framework Agreement on 2017-12-11. On 2017-12-14, he caused Darco Water Technologies Ltd to sign the Framework Agreement with CA Trading Co Ltd and authorised payment of a US$1,000,000 deposit described in the agreement as refundable upon specified adverse findings. Financial due diligence was then engaged with Mazars LLP on 2018-04-20 and handled by the Investment Committee and finance staff, with a draft report issued on 2018-08-06 noting concerns and incomplete technical information. For the Solar Project, after Dao informed him in October 2018 of a joint venture via Con Dao Green Energy, he directed Darco Water System Sdn Bhd managing director Thye Ze Pin to lead the project. Darco Water System Sdn Bhd entered into a 30 October 2018 letter of intent and a 30 November 2018 Advancement Letter with Con Dao Green Energy, which set out a six-tranche payment schedule and refund conditions. Acting within this framework, and in coordination with Thye Ze Pin and financial controller Teh Chun Sem, he approved an inter-company loan of US$1,000,000 from the holding company to the subsidiary and authorised three payments totaling US$600,000 to Dao between 2018-11-30 and 2019-02-15. Internal records, including the Group Charter and a later Internal Audit Report, the group had defined approval thresholds and that management later described the Solar Project withdrawal as not due to unsatisfactory due diligence. Both projects ultimately did not proceed to definitive sale and purchase agreements, and the company had not fully recovered the US$1,600,000 advanced by the time of trial, but these outcomes occurred after his departure on 2019-05-31.",
+      "Judicial_Reasoning_Log": "The judge examined whether the defendant's actions met the standards of honesty, bona fide consideration of the company's interests, and reasonable care, skill and diligence. For the Water Project, the court found that the Group Charter was in force and required Board approval only for acquisition contracts above S$20m. The Framework Agreement was interpreted as a non-definitive agreement granting exclusivity and enabling due diligence, not an acquisition contract, so Board approval was not required for either the agreement or the US$1,000,000 deposit. The court accepted the defendant's evidence that the deposit amount was based on an overall project valuation including existing and greenfield components and that the percentage was commercially reasonable, and rejected unpleaded arguments that the quantum was excessive or that payment to CA Trading was reckless. Responsibility for the Mazars LLP due diligence was found to rest with the Investment Committee and finance officers; the defendant was not copied on key correspondence and reasonably understood the process to be ongoing, as reflected in his statement at the 25 February 2019 audit committee meeting. The draft Mazars report and unresolved salinity issues were not considered so adverse as to require him to demand a refund at that stage, particularly since the plaintiff itself only withdrew from the Water Project in August 2020 after his departure. For the Solar Project, the court determined that Darco Water System Sdn Bhd, led by managing director Thye Ze Pin, was the primary executing entity and that the defendant's role was to approve an inter-company loan and provide high-level authorisations. The 30 November 2018 Advancement Letter was held to modify the earlier 30 October 2018 LOI payment schedule, and the three payments were found to have been made in accordance with its terms. The judge accepted that the defendant could reasonably rely on Thye Ze Pin to manage due diligence and confirm satisfaction of conditions for the second and third tranches, noting the absence of evidence that the conditions were not met. The allegation that the payments were really to fund Dao's buyout of another shareholder was rejected as unsupported. The Internal Audit Report and subsequent management explanations indicated that the Solar Project withdrawal was due to commercial reasons rather than unsatisfactory due diligence, which broke any causal chain between the defendant's authorisations and the eventual loss. The court also declined to entertain several unpleaded theories about the letters of intent and alleged misleading of the Board. Concluding that the defendant acted honestly, within his authority, and with reasonable reliance on delegated personnel, the judge held that no breach of director's duties was established and dismissed the claim against him."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 2
+  }
+]

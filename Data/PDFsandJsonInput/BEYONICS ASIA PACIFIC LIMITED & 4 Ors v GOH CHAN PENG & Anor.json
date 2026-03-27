@@ -1,0 +1,328 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 10 of 2018",
+      "Coram": "Singapore International Commercial Court",
+      "Judge": "Simon Thorley IJ",
+      "Date": "2020-05-28",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Beyonics Asia Pacific Limited and others",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2013-01-09",
+          "Text": "As at 2013-01-09, the Beyonics Group comprised multiple subsidiaries including Beyonics Asia Pacific Ltd (BAP), Beyonics International Limited (BIL), Beyonics Technology (Senai) Sdn Bhd (BTS), Beyonics Technology Electronic (Changshu) Co., Ltd (BTEC), Beyonics Precision (Malaysia) Sdn Bhd (BPM), Beyonics Technology (Thailand) Co Ltd (BTT) and parent company Beyonics Technology Ltd (BTL)."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2011-01-01",
+          "Text": "The Beyonics Group operated two manufacturing divisions, the Precision Engineering Services Division and the Electronic Manufacturing Services Division, with the Precision Engineering Services Division manufacturing and selling baseplates for hard disk drives to customers including Seagate, Hitachi and Western Digital."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2011-01-01",
+          "Text": "BTEC owned and operated a baseplate manufacturing facility in Changshu, China; BPM owned and operated a baseplate facility in Tampoi, Malaysia; and BTT owned and operated a baseplate facility in Ayutthaya, Thailand, while BAP acted as the sales company for baseplates manufactured by BTEC, BPM and BTT."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2000-05-01",
+          "Text": "On 2000-05-01, Beyonics Group appointed Goh Chan Peng as chief executive officer of the Beyonics Group following an invitation from Chay Kwong Soon, chairman of the parent company of the Beyonics group."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011-10-05",
+          "Text": "On 2011-10-05, an Implementation Agreement was entered into under which Bayport Capital Ltd, an investment vehicle of Shaw Kwei & Partners, proposed to acquire the Beyonics Group through Channelview Investments Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2011-12-30",
+          "Text": "On 2011-12-30, a shareholders' meeting of Beyonics Technology Ltd approved a formal offer for the takeover of the Beyonics Group by Channelview Investments Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-02-02",
+          "Text": "On 2012-02-02, a scheme of arrangement for the takeover of the Beyonics Group by Channelview Investments Ltd was completed after being sanctioned by the High Court of Singapore."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-02-02",
+          "Text": "On 2012-02-02, following completion of the takeover, Kyle Arnold Shaw Junior became chairman of Channelview Investments Ltd, and both Goh Chan Peng and Chay Kwong Soon became directors and shareholders of Channelview."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-05-01",
+          "Text": "From 2000-05-01 until 2013-04-30, Goh Chan Peng held the position of chief executive officer of the Beyonics Group."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-01-09",
+          "Text": "On 2013-01-09, Goh Chan Peng resigned his directorships in various companies in the Beyonics Group."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-01-09",
+          "Text": "On 2013-01-09, resignation agreements were signed between Goh Chan Peng and several Beyonics Group companies including Beyonics Asia Pacific Ltd, Beyonics International Limited and Beyonics Technology (Senai) Sdn Bhd, providing for the cessation of his employment on 2013-04-30."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-04-30",
+          "Text": "On 2013-04-30, Goh Chan Peng ceased to be employed by companies in the Beyonics Group pursuant to the resignation agreements."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-15",
+          "Text": "In January 2013, after Goh Chan Peng resigned his directorships, Kyle Arnold Shaw discovered that Goh had left no documents relating to ongoing Beyonics business in the company’s records."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-20",
+          "Text": "In January 2013, Kyle Arnold Shaw requested that Goh Chan Peng return the notebook computer he had been using for Beyonics business, and upon its return, all files on the notebook had been deleted."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-20",
+          "Text": "In January 2013, a desktop computer previously used in connection with Beyonics business was returned to the company with its files deleted."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-01-25",
+          "Text": "In January 2013, Kyle Arnold Shaw engaged FTI Consulting to conduct a forensic investigation into deleted electronic files from computers previously used by Goh Chan Peng in connection with Beyonics business."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-07-23",
+          "Text": "On 2013-07-23, FTI Consulting issued a report to Beyonics Group identifying documents recovered from deleted files relating to dealings between entities associated with Goh Chan Peng and Nedec/Kodec."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-07-23",
+          "Text": "By 2013-07-23, FTI Consulting had identified three agreements between Pacific Globe Enterprises Ltd, then named Wyser International Ltd, and Nedec/Kodec, under which Wyser received substantial payments from Nedec/Kodec."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2013-07-23",
+          "Text": "As at 2013-07-23, Pacific Globe Enterprises Ltd, previously named Wyser International Ltd, was a company owned and controlled by Goh Chan Peng."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-07-23",
+          "Text": "By 2013-07-23, records showed that Wyser International Ltd, later known as Pacific Globe Enterprises Ltd, had received multiple payments from Nedec/Kodec under three agreements."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-07-23",
+          "Text": "The FTI Consulting report dated 2013-07-23 stated that sales of finished baseplates to Seagate and similar customers were recognised in the accounts of Beyonics Asia Pacific Ltd and that the assessed loss related to Beyonics Asia Pacific Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-12",
+          "Text": "On 2013-04-12, Kyle Arnold Shaw emailed Goh Chan Peng requesting a meeting on 2013-04-23 to discuss matters relating to past and future business of the Beyonics Group."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-12",
+          "Text": "On 2013-04-12, Goh Chan Peng replied that he was unavailable on 2013-04-23, indicated he would be travelling for the rest of that week, and requested the purpose, agenda and attendees for the proposed meeting."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-15",
+          "Text": "Around mid-April 2013, Kyle Arnold Shaw responded to Goh Chan Peng stating that it was imperative that Goh attend the proposed meeting on 2013-04-23."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-17",
+          "Text": "On 2013-04-17, Kyle Arnold Shaw sent an email to Goh Chan Peng insisting on a meeting on 2013-04-23 to discuss Goh's past management practices and activities as CEO of Beyonics and included disparaging language about Goh's conduct."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-20",
+          "Text": "On 2013-04-20, Goh Chan Peng emailed Kyle Arnold Shaw stating that he was available for a meeting in May 2013."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-07-24",
+          "Text": "On 2013-07-24, Beyonics director Gerhard Mueller swore an affidavit in Singapore proceedings describing potential claims by Beyonics Asia Pacific Ltd, Beyonics International Limited and Beyonics Technology (Senai) Sdn Bhd for a bonus and salary payments made to Goh Chan Peng and reserving the Beyonics Group's right to pursue those claims."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2015-04-20",
+          "Text": "On 2015-04-20, in an affidavit of evidence-in-chief filed in earlier litigation, Kyle Arnold Shaw stated that as parent company of Beyonics Asia Pacific Ltd, Beyonics Technology Ltd reserved Beyonics Asia Pacific Ltd's right to claim a S$200,000 bonus paid to Goh Chan Peng and reserved the rights of Beyonics Asia Pacific Ltd, Beyonics International Limited and Beyonics Technology (Senai) Sdn Bhd to claim salary payments made to him."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "By 2012-01-01, Beyonics Asia Pacific Ltd had paid a bonus of S$200,000 to Goh Chan Peng, which was later identified internally as a potential subject of a repayment claim."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-04-30",
+          "Text": "Between 2013-01-09 and 2013-04-30, Beyonics Asia Pacific Ltd, Beyonics International Limited and Beyonics Technology (Senai) Sdn Bhd made salary payments to Goh Chan Peng under the resignation agreements, which were later identified internally as potential unjustified salary claims."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-07-25",
+          "Text": "On 2013-07-25, Beyonics Technology Ltd and Beyonics International Pte Ltd commenced High Court Suit No 672 of 2013 in Singapore against Goh Chan Peng, his wife and Wyser International Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-06-27",
+          "Text": "On 2017-06-27, the Singapore Court of Appeal issued a judgment in the earlier Suit No 672 of 2013 stating that losses relating to diversion of Seagate baseplate business were suffered by Beyonics Asia Pacific Ltd rather than by Beyonics Technology Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-08-21",
+          "Text": "On 2017-08-21, five Beyonics subsidiaries, including Beyonics Asia Pacific Ltd, commenced Suit No 10 of 2018 in the Singapore International Commercial Court against Goh Chan Peng and Pacific Globe Enterprises Ltd."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct and corporate structure, the losses from diversion of Seagate hard disk drive baseplate business and related payments to entities associated with Goh Chan Peng are attributable to the Beyonics subsidiary companies rather than the parent company, and whether those subsidiaries can pursue those losses and repayment of bonus and salary against Goh Chan Peng and Pacific Globe Enterprises Ltd in light of earlier proceedings.",
+      "Rule": "Under company law, each incorporated company within a group has a separate legal personality and can recover only its own losses; in civil procedure, a subsequent claim may be barred as an abuse of process where it raises matters that could and reasonably should have been brought in earlier proceedings between parties with sufficiently connected interests.",
+      "Application": "The Beyonics Group structured its baseplate business so that manufacturing was carried out by BTEC, BPM and BTT and sales were recorded in Beyonics Asia Pacific Ltd, while Beyonics Technology Ltd acted as parent. Before the present dispute, internal reports and instructions to FTI Consulting recorded that baseplate sales and related losses were recognised in Beyonics Asia Pacific Ltd's accounts. Agreements between Wyser International Ltd, owned and controlled by Goh Chan Peng, and Nedec/Kodec provided for payments to Wyser in the context of baseplate business. Beyonics Asia Pacific Ltd and related subsidiaries paid a S$200,000 bonus and continued salary to Goh Chan Peng under resignation agreements. Earlier litigation in Suit No 672 of 2013 was brought in the name of the parent and one subsidiary, and internal affidavits in 2013 and 2015 expressly reserved the rights of Beyonics Asia Pacific Ltd, Beyonics International Limited and Beyonics Technology (Senai) Sdn Bhd to pursue claims for the bonus, salaries and baseplate-related losses. These pre-dispute and pre-current-suit facts frame the later procedural conflict over whether the subsidiaries' present claims should have been included in the earlier action.",
+      "Judicial_Reasoning_Log": "The court analysed the extended doctrine of res judicata originating from Henderson v Henderson and subsequent authorities including Johnson v Gore Wood, Goh Nellie v Goh Lian Teck, Lim Geok Lin Andy v Yap Jin Meng Bryan, Antariksa Logistics v Nurdian Cuaca and Takhar v Gracefield Developments. It distinguished cause of action and issue estoppel from abuse of process, emphasising that the latter is a procedural control to prevent oppressive or duplicative litigation. The court held that evidence of findings in the earlier Suit No 672 of 2013 could not be used as proof of primary facts in the present substantive liability issues, but that the existence and scope of the earlier judgment were relevant to the Henderson v Henderson issue under s 42 of the Evidence Act. On the factual matrix, the court found that before Suit No 672 of 2013 was commenced, FTI Consulting had reported that baseplate sales and the assessed losses were recognised in Beyonics Asia Pacific Ltd's accounts, and that this was communicated to Kyle Arnold Shaw. The court accepted in cross-examination that Shaw knew where the revenue was booked and that he could have authorised the inclusion of Beyonics Asia Pacific Ltd and other subsidiaries as plaintiffs in the earlier action. The court also relied on affidavits by Gerhard Mueller in July 2013 and by Shaw in April 2015, which expressly identified potential claims by Beyonics Asia Pacific Ltd, Beyonics International Limited and Beyonics Technology (Senai) Sdn Bhd for a S$200,000 bonus and salary payments to Goh Chan Peng and reserved those companies' rights to sue. The court concluded that the present claims for Diversion Loss and Total Loss mirrored the earlier parent company's claims, and that the additional bonus and salary claims arose from the same factual matrix and were known and available at the time of the earlier proceedings. Applying Order 20 rule 5 of the Rules of Court and authorities on amendments, the court reasoned that an application in Suit No 672 of 2013 to join the subsidiaries and plead their losses would likely have been allowed even at a late stage, with any prejudice addressed by costs and limited additional expert work. The court rejected arguments that the defendants' pleadings or failure to seek strike-out in the earlier case excused the omission, and held that the mistaken belief that the parent was the proper claimant did not justify separate later proceedings. It found that a reasonable litigant, acting in his own interests and in the interests of efficient litigation, should have included the subsidiaries and their claims in Suit No 672 of 2013. Turning to abuse of process, the court weighed the public interest in finality and economy and the private interest in avoiding repeated litigation against the plaintiffs' right of access to the court. It noted that the plaintiffs had a genuine cause of action but held that, in light of the earlier full trial and appeal on the same factual substratum, requiring the defendants to face a second substantial trial on issues that could and should have been resolved in the first action would be manifestly unfair and would risk bringing the administration of justice into disrepute. The court therefore held that Suit No 10 of 2018 constituted an abuse of process under the Henderson v Henderson doctrine and dismissed the action without re-determining the substantive liability issues."
+    },
+    "Label": "Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 10 of 2018",
+      "Coram": "Singapore International Commercial Court",
+      "Judge": "Simon Thorley IJ",
+      "Date": "2020-05-28",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Goh Chan Peng and Pacific Globe Enterprises Limited",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1990-01-01",
+          "Text": "Around 1990-01-01, Kyle Arnold Shaw Junior, together with colleagues S. L. Choi and Andy Kwei, participated in the purchase of the Asian business of Flextronics, where Goh Chan Peng was the chief financial officer."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1990-01-01",
+          "Text": "From about 1990-01-01, Kyle Arnold Shaw Junior worked closely with Goh Chan Peng in the Asian business of Flextronics, during which the business expanded."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2000-01-01",
+          "Text": "In early 2000, Beyonics chairman Chay Kwong Soon approached Goh Chan Peng to invite him to become chief executive officer of the Beyonics Group."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-05-01",
+          "Text": "On 2000-05-01, Goh Chan Peng left Flextronics and was appointed chief executive officer of the Beyonics Group."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-01-09",
+          "Text": "On 2013-01-09, Goh Chan Peng resigned from his directorships in various Beyonics Group companies."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-01-09",
+          "Text": "On 2013-01-09, Goh Chan Peng entered into resignation agreements with several Beyonics Group companies, including Beyonics Asia Pacific Ltd, Beyonics International Limited and Beyonics Technology (Senai) Sdn Bhd, providing for his employment to continue until 2013-04-30."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-04-30",
+          "Text": "On 2013-04-30, Goh Chan Peng ceased employment with the Beyonics Group pursuant to the resignation agreements."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2011-01-01",
+          "Text": "By 2011-01-01, Pacific Globe Enterprises Limited, previously named Wyser International Ltd, was a company owned and controlled by Goh Chan Peng."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-12-01",
+          "Text": "In late 2010 or early 2011, Tsui Sung Lam of Shaw Kwei & Partners met with Goh Chan Peng, during which Goh indicated that Beyonics was considering a sale of its business."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011-10-05",
+          "Text": "On 2011-10-05, an Implementation Agreement was executed under which Bayport Capital Ltd, an investment vehicle of Shaw Kwei & Partners, proposed to acquire the Beyonics Group through Channelview Investments Ltd, with Goh Chan Peng later becoming a director and shareholder of Channelview."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-20",
+          "Text": "In January 2013, after resigning his directorships, Goh Chan Peng returned a notebook computer used for Beyonics business to the company with its files deleted."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-20",
+          "Text": "In January 2013, a desktop computer previously used in connection with Beyonics business and associated with Goh Chan Peng was returned to the company with its files deleted."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-01-25",
+          "Text": "In January 2013, following the return of computers with deleted files, Kyle Arnold Shaw engaged FTI Consulting to conduct a forensic investigation into electronic data previously associated with Goh Chan Peng."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-07-23",
+          "Text": "On 2013-07-23, FTI Consulting issued a report identifying three agreements between Wyser International Ltd, owned and controlled by Goh Chan Peng, and Nedec/Kodec, under which Wyser received substantial payments."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-07-23",
+          "Text": "By 2013-07-23, payment records showed that Wyser International Ltd, later renamed Pacific Globe Enterprises Limited, had received multiple payments from Nedec/Kodec under three agreements."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "By 2012-01-01, Beyonics Asia Pacific Ltd had paid a S$200,000 bonus to Goh Chan Peng, which was later identified by Beyonics management as a potential subject of a repayment claim."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-04-30",
+          "Text": "Between 2013-01-09 and 2013-04-30, Beyonics Asia Pacific Ltd, Beyonics International Limited and Beyonics Technology (Senai) Sdn Bhd made salary payments to Goh Chan Peng under the resignation agreements, which were later identified by Beyonics management as potential unjustified salary claims."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-07-24",
+          "Text": "On 2013-07-24, Beyonics director Gerhard Mueller swore an affidavit in Singapore proceedings describing potential claims against Goh Chan Peng for a S$200,000 bonus and salary payments and reserving the rights of Beyonics Asia Pacific Ltd, Beyonics International Limited and Beyonics Technology (Senai) Sdn Bhd to pursue those claims."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2015-04-20",
+          "Text": "On 2015-04-20, in an affidavit of evidence-in-chief in earlier litigation, Kyle Arnold Shaw stated that Beyonics Technology Ltd, as parent of Beyonics Asia Pacific Ltd, Beyonics International Limited and Beyonics Technology (Senai) Sdn Bhd, reserved those companies' rights to claim repayment of the S$200,000 bonus and salary payments made to Goh Chan Peng."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-07-25",
+          "Text": "On 2013-07-25, Beyonics Technology Ltd and Beyonics International Pte Ltd commenced High Court Suit No 672 of 2013 in Singapore against Goh Chan Peng, his wife and Wyser International Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-06-28",
+          "Text": "On 2016-06-28, the Singapore High Court issued a judgment in Suit No 672 of 2013 addressing claims by Beyonics Technology Ltd and Beyonics International Pte Ltd against Goh Chan Peng and Wyser International Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-06-27",
+          "Text": "On 2017-06-27, the Singapore Court of Appeal issued a judgment in Suit No 672 of 2013 stating that losses relating to diversion of Seagate baseplate business were suffered by Beyonics Asia Pacific Ltd rather than by Beyonics Technology Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-08-21",
+          "Text": "On 2017-08-21, five Beyonics subsidiaries, including Beyonics Asia Pacific Ltd, commenced Suit No 10 of 2018 in the Singapore International Commercial Court against Goh Chan Peng and Pacific Globe Enterprises Limited."
+        }
+      ],
+      "Issue": "Whether, given that Beyonics subsidiaries' losses and payment-related claims against Goh Chan Peng and Pacific Globe Enterprises Limited were known and available at the time of earlier proceedings in Suit No 672 of 2013, the initiation of Suit No 10 of 2018 constitutes an abuse of process under the Henderson v Henderson doctrine.",
+      "Rule": "Under the Henderson v Henderson doctrine, as developed in subsequent case law, a later claim may be stayed or dismissed as an abuse of process where it raises matters that could and reasonably should have been brought in earlier proceedings between parties or privies, taking into account finality in litigation, avoidance of oppressive multiplicity of suits, and the need to prevent collateral attacks on prior decisions, while preserving access to the courts for genuine claims.",
+      "Application": "Before Suit No 672 of 2013 was commenced, FTI Consulting reported that baseplate sales and related losses were recognised in Beyonics Asia Pacific Ltd's accounts, and this information was communicated to Kyle Arnold Shaw. By July 2013, Beyonics management had identified potential claims by Beyonics Asia Pacific Ltd, Beyonics International Limited and Beyonics Technology (Senai) Sdn Bhd for a S$200,000 bonus and salary payments made to Goh Chan Peng and formally reserved those companies' rights in affidavits. In April 2015, Shaw again recorded that the parent company was reserving the subsidiaries' rights to pursue those claims. Despite this, the earlier Suit No 672 of 2013 was brought only in the names of Beyonics Technology Ltd and Beyonics International Pte Ltd, and the subsidiaries were not joined as plaintiffs to claim their own losses or repayment of the bonus and salaries. The present Suit No 10 of 2018, commenced on 2017-08-21, seeks to recover the same categories of diversion and total loss, as well as the bonus and salary payments, now in the names of the subsidiaries against the same individual and his company. These circumstances the present claims were available and identified at the time of the earlier proceedings and that the defendants are now respond to a second substantial action on the same factual substratum.",
+      "Judicial_Reasoning_Log": "The court considered whether Suit No 10 of 2018 should be struck out as an abuse of process under the extended doctrine of res judicata. It reviewed authorities including Henderson v Henderson, Johnson v Gore Wood, Goh Nellie v Goh Lian Teck, Lim Geok Lin Andy v Yap Jin Meng Bryan, Antariksa Logistics v Nurdian Cuaca and Takhar v Gracefield Developments, and emphasised that the key inquiry is whether, in all the circumstances, the later proceedings misuse the court's process by raising matters that could and should have been brought earlier. The court found that the Beyonics subsidiaries' claims for Diversion Loss and Total Loss mirrored the earlier claims brought by the parent company in Suit No 672 of 2013 and arose from the same dealings between Goh Chan Peng, Wyser and Nedec/Kodec. It relied on the FTI Consulting report, which stated before the earlier suit that baseplate sales and the assessed losses were recognised in Beyonics Asia Pacific Ltd's accounts, and on cross-examination in which Kyle Arnold Shaw accepted that he knew where the revenue was booked and that he could have authorised the inclusion of the subsidiaries as plaintiffs. The court also relied on affidavits by Gerhard Mueller in July 2013 and by Shaw in April 2015, which expressly identified potential claims by Beyonics Asia Pacific Ltd, Beyonics International Limited and Beyonics Technology (Senai) Sdn Bhd for the S$200,000 bonus and salary payments to Goh and reserved those companies' rights to sue. The court concluded that the subsidiaries' present bonus and salary claims were known and available at the time of the earlier proceedings and arose from the same factual matrix. Applying Order 20 rule 5 of the Rules of Court and authorities on amendments, the court reasoned that an application in Suit No 672 of 2013 to join the subsidiaries and plead their losses and repayment claims would likely have been allowed even at a late stage, with any prejudice to the defendants addressed by costs and limited additional expert work. It rejected the plaintiffs' arguments that they were free to choose which entities to sue and when, that there was no obligation for group companies to sue in a single action, and that the defendants' pleadings or failure to seek strike-out in the earlier case excused the omission. The court held that the mistaken belief that the parent company was the proper claimant did not justify separate later proceedings and that, in the circumstances, a reasonable litigant should have included the subsidiaries and their claims in Suit No 672 of 2013. Turning to abuse of process, the court weighed the public interest in finality and efficiency and the private interest in avoiding repeated litigation against the plaintiffs' right to have genuine claims heard. It noted that the plaintiffs had a genuine cause of action but held that, given the full trial and appeal already conducted on the same factual substratum, requiring Goh Chan Peng and Pacific Globe Enterprises Limited to face a second substantial trial on issues that could and should have been resolved in the first action would be manifestly unfair and risk undermining confidence in the administration of justice. The court therefore held that Suit No 10 of 2018 was an abuse of process under the Henderson v Henderson doctrine and dismissed the action without re-opening the substantive liability findings from the earlier litigation."
+    },
+    "Label": "Dismissed",
+    "Leakage_Score": 2
+  }
+]

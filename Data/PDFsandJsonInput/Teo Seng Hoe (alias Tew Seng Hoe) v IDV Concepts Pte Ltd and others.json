@@ -1,0 +1,659 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No 471 of 2013",
+      "Coram": "Belinda Ang Saw Ean J",
+      "Judge": "Belinda Ang Saw Ean",
+      "Date": "2013-12-12",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Teo Seng Hoe (alias Tew Seng Hoe)",
+      "Law_Firm": "Characterist LLC",
+      "Counsel": [
+        "Lim Ker Sheon",
+        "Cai Enhuai Amos"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2001-01-01",
+          "Text": "By 2001, Teo and Chew Choon Kong were equal shareholders of IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-01-01",
+          "Text": "By 2001, Teo was a director of IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1997-01-01",
+          "Text": "In 1997, Teo and Chew decided to operate a business partnership under the name IDV Concepts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-01-01",
+          "Text": "In 2001, the IDV Concepts partnership structure was changed to a limited liability company and IDV Concepts Pte Ltd was incorporated."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-01-01",
+          "Text": "After incorporation of IDV Concepts Pte Ltd in 2001, Teo was in charge of production and project management for the business."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2011-08-01",
+          "Text": "By August 2011, Teo and Chew had differing views on IDV Concepts Pte Ltd's business direction, with Teo wanting the company to concentrate on the production side of the business."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-08-01",
+          "Text": "By August 2011, Teo and Chew informed IDV staff that they would be closing down the company, and later decided not to proceed with closing the business."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-08-01",
+          "Text": "From about August 2011, IDV's design, marketing and project management operations were conducted at 8 Admiralty Street while the production team operated at 10 Admiralty Street."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-01-01",
+          "Text": "In the course of 2012, Teo and Chew experienced continuing difficulties in their working relationship at IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-01",
+          "Text": "In 2013, Teo and Chew had a major disagreement over a project referred to as the RISIS project."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-02-01",
+          "Text": "Around February or March 2013, discussions took place between Teo and Chew about not continuing to work together in IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2013-02-01",
+          "Text": "Around February or March 2013, Teo and Chew attended a series of meetings with non-executive director Lim Sing Hok Mervyn to discuss the future of IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-02-01",
+          "Text": "At meetings around February or March 2013, Teo and Chew discussed various proposals for Chew to buy over Teo's shares in IDV Concepts Pte Ltd, but no agreement was reached."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-02-01",
+          "Text": "Following unsuccessful buyout discussions around February or March 2013, Teo and Chew considered other proposals to dispose of IDV Concepts Pte Ltd, its business and its assets, but did not reach agreement."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-03-25",
+          "Text": "On 2013-03-25, Teo and Chew met representatives from Don Ho & Associates to explore liquidation of IDV Concepts Pte Ltd as a possible step to end their business relationship."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-03",
+          "Text": "On 2013-04-03, Teo and Chew met Baker Tilly TFW LLP to explore liquidation of IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-04-03",
+          "Text": "On or shortly after 2013-04-03, a directors' resolution dated 2013-04-03 was prepared proposing that IDV Concepts Pte Ltd be wound up via a members' voluntary liquidation, that Baker Tilly TFW LLP be appointed as liquidators, and that with effect from 2013-04-08 no new orders or related costs would be taken into the business."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-04",
+          "Text": "On 2013-04-04, Teo's solicitors Characterist LLC sent a letter to Chew seeking clarification on the terms of engagement of Baker Tilly TFW LLP and other proposals for resolving IDV Concepts Pte Ltd in a way beneficial to both parties."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-04-08",
+          "Text": "Around early April 2013, arrangements were made for directors' fees to be paid to Teo and Chew, and Teo received a payment of S$131,633.64 as his share of combined directors' fee entitlements."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-04-10",
+          "Text": "On 2013-04-10, a cheque dated 2013-04-05 in favour of Baker Tilly TFW LLP was recorded as having been signed in relation to IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-10",
+          "Text": "On 2013-04-10, Teo received an e-mail from an IDV employee where the signature block identified the sender as being from IDV Concepts Asia Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-04-01",
+          "Text": "IDV Concepts Asia Pte Ltd was incorporated on 2013-04-01 with Jen Cassia Lee Mei Mei as its sole shareholder and director."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-04-09",
+          "Text": "Jen stated that marketing efforts for IDV Concepts Asia Pte Ltd began on 2013-04-09."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Jen stated that bank accounts of IDV Concepts Asia Pte Ltd became active on 2013-04-10."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-11",
+          "Text": "On 2013-04-11, Chew sent an e-mail to potential clients explaining that IDV Concepts Asia Pte Ltd would handle all new projects while IDV Concepts Pte Ltd would complete ongoing jobs."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-15",
+          "Text": "On 2013-04-15, Teo's solicitors sent a letter to Chew and Jen demanding that they cease certain acts relating to IDV Concepts Pte Ltd and IDV Concepts Asia Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Between 2013-04-10 and 2013-04-11, office staff of IDV Concepts Pte Ltd were instructed to change the signature block of their e-mails from IDV Concepts Pte Ltd to IDV Concepts Asia Pte Ltd while retaining slogans previously used by IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, contracts and business opportunities initially negotiated in the name of IDV Concepts Pte Ltd were arranged to proceed with IDV Concepts Asia Pte Ltd as the contracting party."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, the website content of IDV Concepts Pte Ltd was copied for use on the website of IDV Concepts Asia Pte Ltd, including representations of prior project work."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, IDV Concepts Asia Pte Ltd began using the office premises previously used by IDV Concepts Pte Ltd while IDV Concepts Pte Ltd continued paying rental and utilities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, IDV Concepts Asia Pte Ltd took over computers, servers, customer and pricing data, contracts, negotiations, proposals and other confidential information previously used by IDV Concepts Pte Ltd, and staff of IDV Concepts Asia Pte Ltd were allowed full access to this information."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, staff of IDV Concepts Pte Ltd were solicited to transfer their employment from IDV Concepts Pte Ltd to IDV Concepts Asia Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-11",
+          "Text": "On 2013-04-11, an e-mail was sent to business contacts stating that the organisation was now known as IDV Concepts Asia Pte Ltd and thanking them for their support over the past years."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-05-01",
+          "Text": "By May 2013, IDV Concepts Pte Ltd's manufacturing and renovation team continued to be involved in projects."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-05-10",
+          "Text": "On 2013-05-10, Teo sent a 14-day notice under section 216A(3) of the Companies Act to IDV Concepts Pte Ltd and Chew regarding his intention to commence a derivative action."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-05-21",
+          "Text": "On 2013-05-21, Chew filed an application in Companies Winding Up No 78 of 2013 to wind up IDV Concepts Pte Ltd on just and equitable grounds."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-05-27",
+          "Text": "On 2013-05-27, after expiry of the 14-day notice period, Teo filed Originating Summons No 471 of 2013 seeking leave to commence a derivative action in the name and on behalf of IDV Concepts Pte Ltd against the second to fourth defendants."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct and corporate events, a shareholder-director may obtain leave to commence a derivative action on behalf of a company against another director, a senior manager and a related company for diversion of business, use of company resources and use of confidential information.",
+      "Rule": "Under section 216A of the Companies Act, a member seeking leave to commence a derivative action in the name and on behalf of a company must give the directors at least 14 days' notice of the intention to apply, must the proposed action appears to be in the interests of the company, and must be acting in good faith.",
+      "Application": "Teo, as an equal shareholder and director of IDV Concepts Pte Ltd, participated in discussions about liquidation, attended meetings with professional firms regarding possible members' voluntary liquidation, and was involved in the preparation and signing of documents relating to liquidation and appointment of liquidators. Around the same period, a related company, IDV Concepts Asia Pte Ltd, was incorporated by the manager of IDV Concepts Pte Ltd, and began using a similar name, office premises, staff, data, and marketing materials. E-mails and other communications indicated that new projects would be handled by the related company while the original company completed ongoing work. Teo, after discovering these developments, instructed solicitors to send a cease-and-desist letter, issued a statutory notice under section 216A(3), and then filed an application for leave to bring a derivative action on behalf of IDV Concepts Pte Ltd.",
+      "Judicial_Reasoning_Log": "The judge analysed whether the statutory notice requirement under section 216A(3)(a) of the Companies Act was satisfied, holding that the notice need only reasonably inform the directors of the intention to apply for leave and need not list every allegation, relying on Canadian authorities such as Re Bellman and local authority Carolyn Fong. The court concluded that the May Notice, despite omitting some specific allegations, adequately notified the directors and IDV Concepts Asia Pte Ltd of Teo's intention to seek leave, and there was no prejudice from the omissions. On the prima facie interests of the company, the judge applied the low threshold for leave, citing Urs Meisterhans and Ang Thiam Swee, and considered whether the claims were legitimate or arguable rather than bound to fail. The court treated Teo's factual allegations at paragraph 16 as unchallenged in terms of the underlying conduct and found that they supported a prima facie case of breach of duty by a director and a senior employee, including the incorporation and use of IDV Concepts Asia Pte Ltd to take over IDV's business, goodwill, premises, staff, and confidential information. The judge reasoned that directors' and senior employees' obligations continue notwithstanding steps toward liquidation and that it was reasonably arguable that Chew and Jen used IDV Concepts Asia Pte Ltd to solicit IDV's clients, occupy its premises, and access its confidential information. Regarding the claims against IDV Concepts Asia Pte Ltd, the court held that there was an arguable case in passing off, noting that IDV had goodwill and that Teo asserted he would not have signed the directors' resolution had he known of the new company's incorporation. The judge rejected the argument that IDV had no protectable goodwill after 8 April 2013. On copyright in slogans, the court considered Australian authorities and academic commentary and concluded that, at the leave stage, it could not be said that the claim was unarguable, and that authorship of the slogans could not be conclusively determined on the affidavits. The court also noted IDV Concepts Asia Pte Ltd's concession that it had used IDV's premises and equipment without authorisation and its willingness to compensate, treating this as supporting the legitimacy of the claim. The judge further observed that IDV Concepts Asia Pte Ltd had used IDV's client information to send an e-mail announcing the change to IDV Concepts Asia Pte Ltd and inviting continued support, which supported an arguable claim regarding use of confidential information. On whether the action was in IDV's interests, the court considered arguments that reimbursement offers and the impending winding up made litigation unnecessary or disproportionate. Relying on Pang Yong Hock, the judge emphasised that the question is whether the company stands to gain substantially in money or money's worth and that the company should be viewed as a going concern. The court found that the parties had effectively abandoned the members' voluntary liquidation, that IDV remained solvent with ongoing manufacturing and renovation operations, and that the proposed derivative action seeking recovery of diverted opportunities, misuse of funds, and compensation for use of premises and confidential information could benefit IDV in money or money's worth and allow it to continue business. The judge rejected the argument that winding up was a more appropriate or adequate remedy, distinguishing Pang Yong Hock on the basis that IDV was not loss-making and that the object of the derivative litigation was to vindicate the company's rights and potentially preserve its business. On good faith, the court applied the principles from Ang Thiam Swee and Pang Yong Hock, focusing on whether Teo honestly and reasonably believed there was a good cause of action and whether he was motivated by a vendetta. The judge found that Teo did not know of the incorporation of IDV Concepts Asia Pte Ltd at the time of signing the directors' resolution, that his complaints concerned conduct typically addressed in a derivative action, and that there was no evidence of a vendetta or purely personal motivation. The existence of legitimate and arguable claims that the incumbent director was unlikely to pursue supported a finding of good faith. Accordingly, the court granted Teo leave to commence a derivative action in the name and on behalf of IDV Concepts Pte Ltd against the second to fourth defendants, authorised him to control the conduct of the action and any execution proceedings, and ordered that IDV pay his costs of the action on an indemnity basis, with costs of the leave application fixed at S$5,000 plus reasonable disbursements payable by the second to fourth defendants jointly and severally."
+    },
+    "Label": "Allowed",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No 471 of 2013",
+      "Coram": "Belinda Ang Saw Ean J",
+      "Judge": "Belinda Ang Saw Ean",
+      "Date": "2013-12-12",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "IDV Concepts Pte Ltd",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2001-01-01",
+          "Text": "IDV Concepts Pte Ltd is a company in the business of providing interior design and renovation services and was incorporated in 2001 following a prior partnership known as IDV Concepts."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-01-01",
+          "Text": "From 2001, IDV Concepts Pte Ltd had two directors, Teo Seng Hoe and Chew Choon Kong, who were also equal shareholders."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-08-01",
+          "Text": "By August 2011, IDV Concepts Pte Ltd's design, marketing and project management operations were conducted from premises at 8 Admiralty Street, while its production team operated from premises at 10 Admiralty Street."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-03",
+          "Text": "On or shortly after 2013-04-03, a directors' resolution was prepared for IDV Concepts Pte Ltd proposing a members' voluntary liquidation, appointment of Baker Tilly TFW LLP as liquidators, and cessation of new orders and related costs with effect from 2013-04-08."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-04-08",
+          "Text": "In early April 2013, IDV Concepts Pte Ltd arranged for directors' fees to be paid to its two directors, and the total entitlement was combined and divided equally, resulting in each director receiving S$131,633.64."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-08",
+          "Text": "The directors' resolution for IDV Concepts Pte Ltd stated that with effect from 2013-04-08, no new orders or related costs would be taken into the business."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, IDV Concepts Pte Ltd's office staff changed their e-mail signature blocks from IDV Concepts Pte Ltd to IDV Concepts Asia Pte Ltd while retaining slogans previously associated with IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, contracts and business opportunities initially negotiated by IDV Concepts Pte Ltd were arranged to proceed with IDV Concepts Asia Pte Ltd as the contracting party."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, the office premises and equipment previously used by IDV Concepts Pte Ltd were used by IDV Concepts Asia Pte Ltd while IDV Concepts Pte Ltd continued to pay rental and utilities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, computers, servers, customer and pricing data, contracts, negotiations, proposals and other confidential information of IDV Concepts Pte Ltd were accessed and used by IDV Concepts Asia Pte Ltd staff."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-05-01",
+          "Text": "In May 2013, IDV Concepts Pte Ltd's manufacturing and renovation team continued to be involved in projects, indicating ongoing operations."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-05-21",
+          "Text": "On 2013-05-21, an application was filed in Companies Winding Up No 78 of 2013 to wind up IDV Concepts Pte Ltd on just and equitable grounds."
+        }
+      ],
+      "Issue": "Whether IDV Concepts Pte Ltd, as the company on whose behalf a derivative action is sought, stands to benefit in money or money's worth from proposed claims concerning diversion of business, use of premises and equipment, and use of confidential information by its director, manager and a related company.",
+      "Rule": "In assessing an application under section 216A of the Companies Act, the court considers whether the proposed derivative action appears to be in the interests of the company, including whether the company stands to gain substantially in money or money's worth from pursuing the claims, taking into account the company's status as a going concern and any alternative remedies such as winding up.",
+      "Application": "IDV Concepts Pte Ltd operated an interior design and renovation business with separate design and production locations and continued to have manufacturing and renovation capabilities in 2013. During discussions about members' voluntary liquidation and cessation of new orders, a related company, IDV Concepts Asia Pte Ltd, began using IDV Concepts Pte Ltd's name elements, premises, staff, data, and marketing materials, and took on new projects while IDV Concepts Pte Ltd completed existing ones. The proposed derivative action seeks recovery of sums and benefits associated with these arrangements and aims to address the use of IDV Concepts Pte Ltd's resources and confidential information. Given that IDV Concepts Pte Ltd remained solvent with ongoing operations, the potential recovery of diverted opportunities, compensation for use of premises and equipment, and protection of goodwill and confidential information are whether the action is in the company's practical and commercial interests.",
+      "Judicial_Reasoning_Log": "The court treated IDV Concepts Pte Ltd as the company on whose behalf the derivative action would be brought and examined whether the proposed litigation would be in its interests. Applying the guidance from Pang Yong Hock, the judge focused on whether the company stood to gain substantially in money or money's worth, rather than on the ultimate merits of the claims. The judge noted that IDV Concepts Pte Ltd was solvent and continued to operate in manufacturing and renovation, distinguishing it from companies that were loss-making or effectively defunct. The court considered that the alleged diversion of business opportunities, use of company funds, occupation of premises, use of equipment, and access to confidential information by the director, manager and IDV Concepts Asia Pte Ltd could, if established, result in repayment of monies and compensation to IDV Concepts Pte Ltd. The judge rejected the argument that offers by the defendants to reimburse certain expenses rendered the derivative action unnecessary, reasoning that the full scope of potential claims and the company's ongoing business prospects warranted allowing the action to proceed. The court also rejected the contention that winding up was a more appropriate remedy, holding that the existence of a winding up application did not preclude a meritorious section 216A action and that, in this case, pursuing the derivative claims could preserve and enhance the value of IDV Concepts Pte Ltd as a going concern. On this basis, the judge concluded that the proposed derivative action was prima facie in the practical and commercial interests of IDV Concepts Pte Ltd and granted leave accordingly."
+    },
+    "Label": "Allowed",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No 471 of 2013",
+      "Coram": "Belinda Ang Saw Ean J",
+      "Judge": "Belinda Ang Saw Ean",
+      "Date": "2013-12-12",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Chew Choon Kong",
+      "Law_Firm": "PK Wong & Associates LLC",
+      "Counsel": [
+        "Ang Chee Kwang Andrew",
+        "Tan JinJia, Andrea"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-01-01",
+          "Text": "By 2001, Chew Choon Kong was a director of IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2001-01-01",
+          "Text": "By 2001, Chew Choon Kong and Teo Seng Hoe were equal shareholders of IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-01-01",
+          "Text": "After incorporation of IDV Concepts Pte Ltd in 2001, Chew was in charge of marketing, design, sales and administration for the business."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2011-08-01",
+          "Text": "By 2011, Chew and Teo had differing views on the business direction of IDV Concepts Pte Ltd, with Chew wanting to develop the company as a premier design entity with in-house design, project management and production capabilities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-08-01",
+          "Text": "By August 2011, Chew and Teo informed IDV staff that they would be closing down the company, and later decided not to proceed with closing the business."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-01-01",
+          "Text": "In 2012, Chew considered that production works for a display project in Singapore were progressing slowly and was concerned about the impact of delays on IDV Concepts Pte Ltd's reputation."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-01",
+          "Text": "In 2013, Chew and Teo had a major disagreement over the RISIS project, during which Chew stated that the IDV production team delayed the project for five months and that IDV paid a S$36,000 penalty to the client."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-01",
+          "Text": "In relation to the RISIS project in 2013, Chew stated that a subcontractor had not been paid and had threatened at the project site to remove installed items, causing embarrassment to IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-02-01",
+          "Text": "Around February or March 2013, discussions took place between Chew and Teo about not continuing to work together in IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2013-02-01",
+          "Text": "Around February or March 2013, Chew and Teo attended a series of meetings with non-executive director Lim Sing Hok Mervyn to discuss Chew buying over Teo's shares and other options for IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-02-01",
+          "Text": "At meetings around February or March 2013, Chew proposed various options to buy over Teo's shares in IDV Concepts Pte Ltd, but no agreement was reached."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-03-25",
+          "Text": "On 2013-03-25, Chew and Teo met Don Ho & Associates to explore liquidation of IDV Concepts Pte Ltd as a possible step to terminate their business relationship."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-03",
+          "Text": "On 2013-04-03, Chew and Teo met Baker Tilly TFW LLP to explore liquidation of IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-04-03",
+          "Text": "On or shortly after 2013-04-03, Chew prepared a directors' resolution dated 2013-04-03 for IDV Concepts Pte Ltd proposing a members' voluntary liquidation, appointment of Baker Tilly TFW LLP as liquidators, and cessation of new orders and related costs with effect from 2013-04-08."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-05",
+          "Text": "On 2013-04-05, Teo signed and returned the directors' resolution dated 2013-04-03 to Chew."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-04-08",
+          "Text": "A letter dated 2013-04-08 was prepared to appoint Baker Tilly TFW LLP as liquidators of IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "On 2013-04-10, Chew arranged for Teo to attend IDV Concepts Pte Ltd's offices to sign a letter dated 2013-04-08 appointing Baker Tilly TFW LLP as liquidators and to sign a cheque dated 2013-04-05 in favour of Baker Tilly TFW LLP."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-04-08",
+          "Text": "In anticipation of the appointment of liquidators in early April 2013, Chew arranged for directors' fees to be paid to himself and Teo, and following instructions from Jen, their fee entitlements were combined and divided equally, resulting in each receiving S$131,633.64."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2013-04-01",
+          "Text": "IDV Concepts Asia Pte Ltd was incorporated on 2013-04-01 with Chew's wife, Jen Cassia Lee Mei Mei, as sole shareholder and director."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-09",
+          "Text": "Jen stated that business marketing efforts for IDV Concepts Asia Pte Ltd commenced on 2013-04-09, after discussions about IDV Concepts Pte Ltd's liquidation."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Jen stated that bank accounts of IDV Concepts Asia Pte Ltd became active on 2013-04-10."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-11",
+          "Text": "On 2013-04-11, Chew sent an e-mail to potential clients explaining that IDV Concepts Asia Pte Ltd would handle all new projects while IDV Concepts Pte Ltd would complete ongoing jobs."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-11",
+          "Text": "On 2013-04-11, Chew sent an e-mail to IDV Concepts Pte Ltd's clients announcing that the organisation was now known as IDV Concepts Asia Pte Ltd and inviting their continued support."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Between 2013-04-10 and 2013-04-11, Chew and Jen instructed IDV Concepts Pte Ltd's office staff to change their e-mail signature blocks from IDV Concepts Pte Ltd to IDV Concepts Asia Pte Ltd while retaining slogans associated with IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, Chew and Jen arranged for contracts and business opportunities initially negotiated by IDV Concepts Pte Ltd to proceed with IDV Concepts Asia Pte Ltd as the contracting party."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, Chew and Jen arranged for IDV Concepts Asia Pte Ltd to use the office premises, computers, servers, customer and pricing data, contracts, negotiations, proposals and other confidential information previously used by IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, Chew and Jen solicited office staff of IDV Concepts Pte Ltd to transfer their employment to IDV Concepts Asia Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-05-21",
+          "Text": "On 2013-05-21, Chew filed Companies Winding Up No 78 of 2013 seeking to wind up IDV Concepts Pte Ltd on just and equitable grounds."
+        }
+      ],
+      "Issue": "Whether the conduct of a director in arranging for liquidation steps, facilitating the incorporation and operation of a related company using the original company's name elements, premises, staff, data and business opportunities, and filing a winding up application forms a sufficient factual basis for a derivative action by the company.",
+      "Rule": "A derivative action under section 216A of the Companies Act may be permitted where there is a prima facie legitimate or arguable claim that a director's conduct in relation to company assets, business opportunities, goodwill and confidential information warrants the company pursuing relief, provided the statutory notice, company-interest and good-faith requirements are met.",
+      "Application": "Chew, as director and equal shareholder of IDV Concepts Pte Ltd, managed marketing, design, sales and administration and participated in discussions and documentation concerning a proposed members' voluntary liquidation and cessation of new orders. During this period, a related company, IDV Concepts Asia Pte Ltd, was incorporated by his spouse and began using a similar name, the same office premises, staff, data, and marketing materials, and took on new projects while IDV Concepts Pte Ltd completed existing ones. Chew sent communications to clients announcing the transition to IDV Concepts Asia Pte Ltd and explaining that new projects would be handled by the new company. He also filed a winding up application for IDV Concepts Pte Ltd. These events form the factual background for the proposed derivative claims concerning diversion of business, use of premises and equipment, and use of confidential information.",
+      "Judicial_Reasoning_Log": "The judge considered whether there was a prima facie legitimate or arguable case against Chew as a director for the purposes of granting leave under section 216A. The court noted that Teo's factual allegations at paragraph 16 regarding Chew's role in the incorporation and operation of IDV Concepts Asia Pte Ltd, the transfer of business opportunities, use of premises and equipment, and access to confidential information were not directly challenged as to the underlying conduct, but rather on Teo's knowledge and alleged consent. Applying the low threshold for leave, the judge held that these allegations supported a prima facie case of breach of duty by a director, including the use of a new company to take over the business and goodwill of the existing company. The court emphasised that a director's statutory and common law obligations to the company do not cease upon steps toward liquidation and that it is reasonably arguable that Chew used IDV Concepts Asia Pte Ltd to solicit IDV's potential clients, occupy its premises, and access its confidential information. In assessing the interests of the company, the judge found that the proposed claims for diversion of business opportunities, misuse of funds, and use of premises and confidential information had sufficient merit to justify leave and that IDV Concepts Pte Ltd stood to gain in money or money's worth if the claims succeeded. The court also considered Chew's filing of a winding up application and rejected the argument that this alternative remedy should preclude the derivative action, holding that the existence of a winding up petition does not automatically bar a meritorious section 216A claim. On good faith, the judge concluded that Teo's pursuit of claims against Chew was not motivated by a vendetta and that Chew, as the director whose conduct was in question, was unlikely to cause the company to pursue these claims itself. Accordingly, the court granted leave to bring a derivative action against Chew."
+    },
+    "Label": "Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No 471 of 2013",
+      "Coram": "Belinda Ang Saw Ean J",
+      "Judge": "Belinda Ang Saw Ean",
+      "Date": "2013-12-12",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Jen Cassia Lee Mei Mei",
+      "Law_Firm": "PK Wong & Associates LLC",
+      "Counsel": [
+        "Ang Chee Kwang Andrew",
+        "Tan JinJia, Andrea"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-01-01",
+          "Text": "By 2001, Jen Cassia Lee Mei Mei was a manager of IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2001-01-01",
+          "Text": "Jen Cassia Lee Mei Mei is the wife of director and shareholder Chew Choon Kong of IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-04-01",
+          "Text": "On 2013-04-01, Jen became the sole director and shareholder of IDV Concepts Asia Pte Ltd upon its incorporation."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-01",
+          "Text": "On 2013-04-01, Jen arranged for the incorporation of IDV Concepts Asia Pte Ltd, a company with a name similar to IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-08",
+          "Text": "In early April 2013, Jen instructed that the directors' fee entitlements of Teo and Chew be combined and divided equally, resulting in each receiving S$131,633.64."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-09",
+          "Text": "Jen stated that marketing efforts for IDV Concepts Asia Pte Ltd began on 2013-04-09, after discussions about liquidating IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Jen stated that bank accounts of IDV Concepts Asia Pte Ltd became active on 2013-04-10."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Between 2013-04-10 and 2013-04-11, Jen, together with Chew, instructed IDV Concepts Pte Ltd's office staff to change their e-mail signature blocks from IDV Concepts Pte Ltd to IDV Concepts Asia Pte Ltd while retaining slogans associated with IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, Jen, together with Chew, arranged for contracts and business opportunities initially negotiated by IDV Concepts Pte Ltd to proceed with IDV Concepts Asia Pte Ltd as the contracting party."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, Jen, together with Chew, arranged for IDV Concepts Asia Pte Ltd to use the office premises, computers, servers, customer and pricing data, contracts, negotiations, proposals and other confidential information previously used by IDV Concepts Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, Jen, together with Chew, solicited office staff of IDV Concepts Pte Ltd to transfer their employment to IDV Concepts Asia Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, Jen arranged for IDV Concepts Asia Pte Ltd to occupy the office premises previously used by IDV Concepts Pte Ltd while IDV Concepts Pte Ltd continued to pay rental and utilities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, Jen arranged for the copying of IDV Concepts Pte Ltd's website content, including project portfolio, for use on IDV Concepts Asia Pte Ltd's website."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-05-01",
+          "Text": "By May 2013, Jen acknowledged on behalf of IDV Concepts Asia Pte Ltd that it had used IDV Concepts Pte Ltd's office premises and equipment and expressed willingness for IDV Concepts Asia Pte Ltd to compensate IDV Concepts Pte Ltd for rental."
+        }
+      ],
+      "Issue": "Whether the conduct of a senior manager in incorporating and operating a related company using the original company's name elements, premises, staff, data and marketing materials, and arranging for staff and business opportunities to move to the related company, provides a sufficient factual basis for a derivative action by the original company.",
+      "Rule": "A derivative action under section 216A of the Companies Act may be permitted where there is a prima facie legitimate or arguable claim that a senior employee's conduct in relation to the company's business, goodwill, premises, equipment and confidential information warrants the company pursuing relief, provided the statutory requirements of notice, company interest and good faith are satisfied.",
+      "Application": "Jen, as manager of IDV Concepts Pte Ltd and spouse of its director, arranged for the incorporation of IDV Concepts Asia Pte Ltd with a similar name, became its sole director and shareholder, and initiated its marketing and banking arrangements in early April 2013. Around the same time, she instructed that directors' fees be combined and divided equally, and, together with Chew, directed staff to change e-mail signatures to the new company, arranged for contracts and business opportunities to proceed under the new company, and facilitated the new company's use of the original company's premises, equipment, data and confidential information. She also participated in soliciting staff to transfer employment to the new company and later acknowledged the new company's use of the original company's premises and equipment and expressed willingness to compensate for rental. These events form the factual background for the proposed derivative claims concerning use of company resources, diversion of business and use of confidential information.",
+      "Judicial_Reasoning_Log": "The judge evaluated whether there was a prima facie legitimate or arguable case against Jen as a senior employee for the purposes of granting leave under section 216A. The court accepted that Teo's allegations at paragraph 16 regarding Jen's role in incorporating IDV Concepts Asia Pte Ltd, directing the use of IDV Concepts Pte Ltd's premises, equipment, staff and confidential information, and arranging for the transfer of business opportunities were not directly challenged as to the underlying conduct. Applying the low threshold for leave, the judge held that these allegations supported a prima facie case that Jen, as a senior employee owing obligations of fidelity and loyalty, participated in conduct that warranted examination in a derivative action. The court referred to authority such as ABB Holdings v Sher Hock Guan Charles to note that senior employees may be subject to obligations concerning the use of employer resources and opportunities. The judge also noted Jen's acknowledgment, on behalf of IDV Concepts Asia Pte Ltd, of using IDV Concepts Pte Ltd's premises and equipment and her willingness to compensate for rental, treating this as supporting the legitimacy of the claim. In the context of the company's interests and good faith, the court concluded that the claims against Jen formed part of a coherent set of arguable claims that could benefit IDV Concepts Pte Ltd in money or money's worth and that Teo was acting in good faith in seeking to pursue them. Leave was therefore granted to bring a derivative action against Jen."
+    },
+    "Label": "Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No 471 of 2013",
+      "Coram": "Belinda Ang Saw Ean J",
+      "Judge": "Belinda Ang Saw Ean",
+      "Date": "2013-12-12",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "IDV Concepts Asia Pte Ltd",
+      "Law_Firm": "PK Wong & Associates LLC",
+      "Counsel": [
+        "Ang Chee Kwang Andrew",
+        "Tan JinJia, Andrea"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2013-04-01",
+          "Text": "IDV Concepts Asia Pte Ltd was incorporated on 2013-04-01."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-04-01",
+          "Text": "From its incorporation on 2013-04-01, Jen Cassia Lee Mei Mei was the sole director and shareholder of IDV Concepts Asia Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2013-04-01",
+          "Text": "IDV Concepts Asia Pte Ltd has a name similar to IDV Concepts Pte Ltd, an existing interior design and renovation company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-09",
+          "Text": "Jen stated that marketing efforts for IDV Concepts Asia Pte Ltd began on 2013-04-09."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Jen stated that bank accounts of IDV Concepts Asia Pte Ltd became active on 2013-04-10."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-10",
+          "Text": "On 2013-04-10, an e-mail sent by an employee previously associated with IDV Concepts Pte Ltd used a signature block identifying the sender as from IDV Concepts Asia Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-11",
+          "Text": "On 2013-04-11, Chew sent an e-mail to potential clients explaining that IDV Concepts Asia Pte Ltd would handle all new projects while IDV Concepts Pte Ltd would complete ongoing jobs."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-11",
+          "Text": "On 2013-04-11, an e-mail was sent to existing business partners stating that the organisation was now officially known as IDV Concepts Asia Pte Ltd and thanking them for their support over the past years."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Between 2013-04-10 and 2013-04-11, IDV Concepts Asia Pte Ltd's name and slogans were used in e-mail signature blocks by staff who had previously used IDV Concepts Pte Ltd's name and slogans."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, contracts and business opportunities initially negotiated by IDV Concepts Pte Ltd were arranged to proceed with IDV Concepts Asia Pte Ltd as the contracting party."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, IDV Concepts Asia Pte Ltd began using the office premises previously used by IDV Concepts Pte Ltd while IDV Concepts Pte Ltd continued to pay rental and utilities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, IDV Concepts Asia Pte Ltd took over computers, servers, customer and pricing data, contracts, negotiations, proposals and other confidential information previously used by IDV Concepts Pte Ltd, and its staff were allowed full access to this information."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, staff of IDV Concepts Pte Ltd were solicited to transfer their employment to IDV Concepts Asia Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-10",
+          "Text": "Around 2013-04-10, the website content of IDV Concepts Pte Ltd, including project portfolio and slogans, was copied for use on IDV Concepts Asia Pte Ltd's website."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-05-01",
+          "Text": "By May 2013, IDV Concepts Asia Pte Ltd acknowledged using IDV Concepts Pte Ltd's office premises and equipment and expressed willingness to compensate IDV Concepts Pte Ltd for rental."
+        }
+      ],
+      "Issue": "Whether the conduct of a newly incorporated company in using a similar name, taking over premises, staff, data, marketing materials and business opportunities from an existing company provides a sufficient factual basis for derivative claims by the existing company concerning passing off, use of premises and equipment, and use of confidential information.",
+      "Rule": "For the purposes of a derivative action under section 216A of the Companies Act, a company may be a proper defendant where there is a prima facie legitimate or arguable claim that it has benefited from or participated in the use of another company's goodwill, premises, equipment, and confidential information or from the diversion of that company's business opportunities.",
+      "Application": "IDV Concepts Asia Pte Ltd was incorporated on 2013-04-01 with a name similar to IDV Concepts Pte Ltd and began marketing activities and banking operations in early April 2013. Shortly thereafter, staff previously associated with IDV Concepts Pte Ltd used IDV Concepts Asia Pte Ltd's name and slogans in e-mail signatures, and communications were sent to existing business partners announcing that the organisation was now known as IDV Concepts Asia Pte Ltd. The new company used the office premises, equipment, data and confidential information previously used by IDV Concepts Pte Ltd, and took on contracts and business opportunities initially negotiated by IDV Concepts Pte Ltd. Staff were solicited to transfer employment to the new company, and the original company's website content and project portfolio were copied for the new company's website. IDV Concepts Asia Pte Ltd later acknowledged using the original company's premises and equipment and expressed willingness to compensate for rental. These events form the factual basis for proposed derivative claims concerning passing off, use of premises and equipment, and use of confidential information.",
+      "Judicial_Reasoning_Log": "The judge considered whether there was a prima facie legitimate or arguable case against IDV Concepts Asia Pte Ltd for the purposes of granting leave under section 216A. On the passing off claim, the court identified the elements of goodwill, misrepresentation and damage and noted that counsel for the defendants conceded that IDV Concepts Pte Ltd possessed goodwill at least up to 8 April 2013. The judge rejected the argument that goodwill ceased thereafter due to the directors' resolution not to take new orders, particularly in light of Teo's assertion that he would not have signed the resolution had he known of IDV Concepts Asia Pte Ltd's incorporation to take over the business. The court held that it was reasonably arguable that misrepresentations were made to potential and existing customers through the use of a similar name, copied website content and communications announcing that the organisation was now IDV Concepts Asia Pte Ltd. On copyright in slogans, the judge considered Australian case law and academic commentary and concluded that, at the leave stage, it could not be said that the claim was unarguable, and that authorship and ownership of the slogans could not be conclusively determined on the affidavits. Regarding use of premises and equipment, the court noted that IDV Concepts Asia Pte Ltd conceded that it had used IDV Concepts Pte Ltd's office premises and equipment without formal approval and expressed willingness to compensate for rental, treating this as supporting the legitimacy of the claim. On use of confidential information, the judge observed that IDV Concepts Asia Pte Ltd had used IDV Concepts Pte Ltd's client information to send an e-mail announcing the change to IDV Concepts Asia Pte Ltd and inviting continued support, which indicated access to and use of the original company's client data. The court concluded that these matters collectively established a legitimate and arguable case against IDV Concepts Asia Pte Ltd and that, in the context of the company's interests and Teo's good faith, leave should be granted to include IDV Concepts Asia Pte Ltd as a defendant in the derivative action."
+    },
+    "Label": "Allowed",
+    "Leakage_Score": 0
+  }
+]

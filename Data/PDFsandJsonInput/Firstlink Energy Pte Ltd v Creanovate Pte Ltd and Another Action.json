@@ -1,0 +1,637 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit 521/2005, 523/2005",
+      "Coram": "Andrew Ang J",
+      "Judge": "Andrew Ang",
+      "Date": "2006-12-22",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Firstlink Energy Pte Ltd",
+      "Law_Firm": "Rodyk & Davidson",
+      "Counsel": [
+        "Low Chai Chong",
+        "Loh Kia Meng",
+        "Joanna Yeo"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2004-01-01",
+          "Text": "Firstlink Energy Pte Ltd is a wholly-owned subsidiary of Firstlink Investment Corporation, a public company listed on the Singapore Exchange, and was used as a vehicle for Firstlink Investment Corporation's venture into the coal industry."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "Before August 2004, Firstlink Energy Pte Ltd was a dormant company and had two directors, Darren Kee Chit Huei and Joe Wong Siu Kay."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "At the material time, Darren Kee Chit Huei was an executive director of Firstlink Investment Corporation and a director of Firstlink Energy Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "At the material time, Joe Wong Siu Kay was a director of Firstlink Investment Corporation and a director of Firstlink Energy Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2004-07-01",
+          "Text": "In or about July 2004, Ngu Tieng Ung was appointed to the Executive Committee of Firstlink Investment Corporation."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2003-11-01",
+          "Text": "Sometime in November 2003, Ngu Tieng Ung became a substantial shareholder of Firstlink Investment Corporation."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-09-15",
+          "Text": "On 15 September 2004, Ngu Tieng Ung became a director of Firstlink Energy Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-12-22",
+          "Text": "On 22 December 2004, Ngu Tieng Ung became a director of Firstlink Investment Corporation."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2004-08-19",
+          "Text": "On 19 August 2004, Firstlink Energy Pte Ltd, Creanovate Pte Ltd and Tang Kok Heng entered into a Joint Venture Agreement for coal trading, after Tang Kok Heng approached Ngu Tieng Ung with a coal trading proposal and Ngu introduced Tang to Darren Kee."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-08-24",
+          "Text": "On 24 August 2004, the Joint Venture Agreement between Firstlink Energy Pte Ltd, Creanovate Pte Ltd and Tang Kok Heng was presented to the board of directors of Firstlink Investment Corporation."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2004-08-19",
+          "Text": "Under clause 3 of the Joint Venture Agreement dated 19 August 2004, Firstlink Energy Pte Ltd was advance $171,000 to set up basic communications, living and transport infrastructure at the coal stockpile site prior to the start of the business."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-08-19",
+          "Text": "Pursuant to the Joint Venture Agreement, Firstlink Energy Pte Ltd disbursed $170,000 to Creanovate Pte Ltd for infrastructure at the coal stockpile site, and this amount was later written off in Firstlink Investment Corporation's accounts for the financial year ending 31 December 2004."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-09-01",
+          "Text": "On 1 September 2004, Tang Kok Heng sent a letter to Firstlink Energy Pte Ltd requesting an advance of $30,000, stating that he needed the money urgently to settle some urgent outstanding matters and that the sum would be treated as an advance of investment in Creanovate Pte Ltd for coal mining."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-09-06",
+          "Text": "On 6 September 2004, Tang Kok Heng wrote to Firstlink Energy Pte Ltd inviting it to participate in a coal mining investment in Indonesia and requested a total advance of SGD 2,000,000, stating that the money was needed to pay expenses related to mine acquisition in Indonesia and that SGD 940,000 was required by the next day to meet financial obligations."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-09-07",
+          "Text": "On 7 September 2004, Firstlink Energy Pte Ltd advanced $940,000 to Creanovate Pte Ltd by telegraphic transfer following Tang Kok Heng's request of 6 September 2004."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-09-09",
+          "Text": "On 9 September 2004, Tang Kok Heng was appointed as a director of Firstlink Energy Pte Ltd after proposing that his appointment would assist in coal-related investments in Indonesia."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-09-15",
+          "Text": "On 15 September 2004, following Tang Kok Heng's appointment, Ngu Tieng Ung was also appointed as a director of Firstlink Energy Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-09-15",
+          "Text": "After 15 September 2004, Ngu Tieng Ung and Tang Kok Heng managed coal-related activities of Firstlink Energy Pte Ltd, while Joe Wong Siu Kay and Darren Kee Chit Huei handled other existing businesses of Firstlink Investment Corporation."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-11-03",
+          "Text": "On 3 November 2004, Firstlink Energy Pte Ltd advanced a further sum of $500,000 to Creanovate Pte Ltd by telegraphic transfer, stated to be part of the $2,000,000 requested by Tang Kok Heng and/or Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-11-17",
+          "Text": "On 17 November 2004, Firstlink Energy Pte Ltd advanced $280,000 to Creanovate Pte Ltd by cheque number 680668, stated to be part of the $2,000,000 requested by Tang Kok Heng and/or Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2005-01-08",
+          "Text": "On 8 January 2005, Firstlink Energy Pte Ltd, Creanovate Pte Ltd and PT Perdana Andalan Coal entered into a Subscription Agreement under which Firstlink Energy Pte Ltd was to advance a total of $2,000,000 to Creanovate Pte Ltd, taking into account $1,720,000 already advanced, in exchange for $3,500,000 of exchangeable bonds convertible into a 30% equity interest in PT Perdana Andalan Coal, specified conditions precedent to be satisfied by 22 February 2005."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2005-01-08",
+          "Text": "Under the Subscription Agreement dated 8 January 2005, the conditions precedent included receipt by Firstlink Energy Pte Ltd of confirmations from qualified sources regarding the group structure of PT Perdana Andalan Coal and confirmations regarding the coal concession rights of PT Senamas Energuido Mula and PT Kencana Artha Buana, with a deadline of 22 February 2005, and a term that if the conditions were not fulfilled by the deadline, the $2,000,000 advance would be returned to Firstlink Energy Pte Ltd and the Subscription Agreement terminated."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-01-08",
+          "Text": "On 8 January 2005, the board of Firstlink Investment Corporation approved the Subscription Agreement by circular resolution."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-01-18",
+          "Text": "On 18 January 2005, Firstlink Energy Pte Ltd advanced $250,000 to Creanovate Pte Ltd by cheque number 515047."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-01-19",
+          "Text": "On 19 January 2005, Firstlink Energy Pte Ltd advanced $300,000 to Creanovate Pte Ltd by cheque number 515048."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-01-20",
+          "Text": "On 20 January 2005, Firstlink Energy Pte Ltd advanced $280,000 to Creanovate Pte Ltd by cheque number 515064."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-03",
+          "Text": "On 3 February 2005, Firstlink Energy Pte Ltd advanced $710,000 to Creanovate Pte Ltd by cheque number 515096, bringing the total advances under the Subscription Agreement-related dealings to $3,260,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-03",
+          "Text": "By 3 February 2005, the aggregate sum advanced by Firstlink Energy Pte Ltd to Creanovate Pte Ltd in relation to the coal investment and Subscription Agreement context was $3,260,000, exceeding the $2,000,000 contemplated under the Subscription Agreement."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-03-07",
+          "Text": "On 7 March 2005, Firstlink Energy Pte Ltd wrote to Creanovate Pte Ltd reminding it of its obligations regarding the conditions precedent under the Subscription Agreement."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-03-24",
+          "Text": "On 24 March 2005, Firstlink Energy Pte Ltd agreed to extend the deadline for fulfilment of the conditions precedent under the Subscription Agreement to 15 March 2005 and stipulated that if the conditions remained outstanding by that date, Creanovate Pte Ltd would be refund all advances made under the Subscription Agreement."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-03-15",
+          "Text": "On 15 March 2005, Tang Kok Heng wrote to Firstlink Energy Pte Ltd stating that he was attaching a legal opinion on the Indonesian coal mines structure and indicating that more work would have to be done, and as at that date the conditions precedent under the Subscription Agreement had not been satisfied."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-04-05",
+          "Text": "On 5 April 2005, the board of Firstlink Investment Corporation resolved to cancel the Subscription Agreement and to convert Firstlink Energy Pte Ltd's interest into a 51% direct equity interest in PT Perdana Andalan Coal to be held by Firstlink Coal Pte Ltd, with no additional investment cost, and authorised management to proceed with the proposed restructuring of the investment."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2005-04-08",
+          "Text": "A Settlement Agreement dated 8 April 2005 was prepared, under which the Subscription Agreement would be terminated upon execution and the sums advanced by Firstlink Energy Pte Ltd to Creanovate Pte Ltd would be settled by the transfer of 51% of the shares in PT Perdana Andalan Coal from Creanovate Pte Ltd to Firstlink Energy Pte Ltd, approval by the relevant Indonesian authority for the share transfer, failing which Creanovate Pte Ltd would refund $3,260,000 to Firstlink Energy Pte Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-04-19",
+          "Text": "On 19 April 2005, Tang Kok Heng was removed from his position as a director of Firstlink Energy Pte Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-05-03",
+          "Text": "On 3 May 2005, the board of Firstlink Investment Corporation met to discuss matters relating to the coal investment and advances to Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-05-06",
+          "Text": "On 6 May 2005, the board of Firstlink Investment Corporation held another meeting concerning the coal investment and advances to Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-05-18",
+          "Text": "On 18 May 2005, the board of Firstlink Investment Corporation decided to give Tang Kok Heng one week to propose a satisfactory scheme to find a replacement coal mine, failing which Firstlink Investment Corporation would terminate the Subscription Agreement and commence legal action to recover advances made to Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-21",
+          "Text": "On 21 February 2005, Firstlink Investment Corporation transferred $1,000,000 into the bank account of Firstlink Energy Pte Ltd following a request from Ngu Tieng Ung and Tang Kok Heng for an advance purportedly for coal mining business in Indonesia."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-21",
+          "Text": "On 21 February 2005, Firstlink Energy Pte Ltd advanced $1,000,000 from its bank account to Creanovate Pte Ltd, and this sum was withdrawn by Creanovate Pte Ltd on 23 February 2005 via a cash cheque."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-02-21",
+          "Text": "On 21 February 2005, Firstlink Energy Pte Ltd, through a letter signed by Ngu Tieng Ung and Tang Kok Heng as directors, requested from Firstlink Investment Corporation an advance of $1,000,000 to commence coal trading in Indonesia and undertook that the advance would be repaid to Firstlink Investment Corporation no later than two months from the date of the letter."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-05-05",
+          "Text": "On 5 May 2005, Firstlink Investment Corporation wrote to Ngu Tieng Ung and Tang Kok Heng requesting the return of the $1,000,000 advanced to Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-05-11",
+          "Text": "By a letter dated 11 May 2005, Creanovate Pte Ltd wrote to Firstlink Investment Corporation stating that it would return $700,000 by 13 May 2005 in relation to the $1,000,000 advance for coal trading purposes and that the remaining $300,000 would be treated as balance of settlement for the subscription for exchangeable bonds in Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-05-13",
+          "Text": "Creanovate Pte Ltd did not return the $700,000 to Firstlink Investment Corporation by 13 May 2005."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-05-18",
+          "Text": "By 18 May 2005, no replacement coal mine had been identified to Firstlink Investment Corporation following its board decision to allow one week for such a proposal."
+        }
+      ],
+      "Issue": "Whether monetary advances and payments made by Firstlink Energy Pte Ltd in the context of coal trading and investment arrangements with Creanovate Pte Ltd and related entities were recoverable from the counterparties and from individual directors based on the characterisation of those payments and the operation of statutory restrictions on company loans.",
+      "Rule": "Under company law, statutory provisions may restrict a company from making loans or similar financial advances to its directors or to companies in which its directors hold specified equity interests, defined exceptions, and contractual instruments such as subscription or settlement agreements can govern when advances are refundable, including where conditions precedent are not satisfied by agreed deadlines.",
+      "Application": "Firstlink Energy Pte Ltd advanced multiple sums to Creanovate Pte Ltd in the context of a Joint Venture Agreement, a subsequent Subscription Agreement, and later a proposed Settlement Agreement, with documented dates, amounts, and stated purposes related to coal trading and mine acquisition. The Subscription Agreement and the proposed Settlement Agreement each contained terms addressing conditions precedent and refund mechanisms tied to those conditions. Additional advances, including the $1,000,000 payment routed from Firstlink Investment Corporation through Firstlink Energy Pte Ltd to Creanovate Pte Ltd, were documented in correspondence that described their intended use and repayment timing. These factual patterns frame how statutory loan restrictions and contractual refund provisions could be applied to determine which sums were recoverable from Creanovate Pte Ltd and from the individual directors involved in authorising or receiving the funds.",
+      "Judicial_Reasoning_Log": "The court analysed the pleadings and evidence to determine the legal character of the various payments and the effect of the Subscription Agreement and Settlement Agreement. It held that, even assuming the Settlement Agreement bound the plaintiff, Creanovate Pte Ltd remained obliged to refund the advances upon non-fulfilment of the conditions precedent. The judge interpreted the term \"loan\" in sections 162 and 163 of the Companies Act purposively to include advances, rejecting the defendants' narrow construction. The court found that the second and third series of payments and the fourth payment fell within the statutory prohibitions because Tang Kok Heng was both a director of the plaintiff and a majority shareholder of Creanovate Pte Ltd, and that the payments were loans or advances within the meaning of the provisions. The judge concluded that the plaintiff had adequately pleaded a basis for recovery of the $3.26m under the Settlement Agreement's refund clause upon failure of conditions precedent, and that the $1m payment was a loan from the plaintiff to Creanovate Pte Ltd, supported by contemporaneous documents and admissions. As to the $940,000 first payment, the court held that the plaintiff's claim based on knowing receipt failed due to deficiencies in the pleadings, including the absence of pleaded knowledge of breach and the fact that Ngu and Tang were not directors at the time. For Suit 521/2005, the court entered judgment against Creanovate Pte Ltd for $3.26m and $1m plus interest and dismissed the counterclaim. For Suit 523/2005, the court declared that Ngu Tieng Ung and Tang Kok Heng were liable to account for $3.32m (being $4.26m less $940,000) with interest, and ordered that to the extent Creanovate Pte Ltd failed to pay the full $4.26m and interest under Suit 521/2005, Ngu and Tang would pay the shortfall up to $3.32m and interest. The reasoning relied on principles of directors' fiduciary obligations, statutory loan prohibitions, and equitable compensation, and treated the authorisation of the impugned payments as breaches of duty giving rise to liability to indemnify the company for its losses."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 5
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 521/2005, 523/2005",
+      "Coram": "Andrew Ang J",
+      "Judge": "Andrew Ang",
+      "Date": "2006-12-22",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Creanovate Pte Ltd",
+      "Law_Firm": "Mallal & Namazie",
+      "Counsel": [
+        "Tan Teng Muan",
+        "Loh Li Qin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2004-01-01",
+          "Text": "Creanovate Pte Ltd is an exempt private limited company whose main business activities are in general wholesale trade."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "At the material time, the directors of Creanovate Pte Ltd were Tang Kok Heng and May Wijaya."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "At the material time, Tang Kok Heng was the majority and controlling shareholder of Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2004-08-19",
+          "Text": "On 19 August 2004, Creanovate Pte Ltd entered into a Joint Venture Agreement with Firstlink Energy Pte Ltd and Tang Kok Heng for coal trading, under which Creanovate Pte Ltd and Tang Kok Heng agreed to exclusively supply coal to Firstlink Energy Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-08-19",
+          "Text": "Following the Joint Venture Agreement dated 19 August 2004, Creanovate Pte Ltd received $170,000 from Firstlink Energy Pte Ltd for setting up basic communications, living and transport infrastructure at the coal stockpile site."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-09-01",
+          "Text": "On 1 September 2004, Tang Kok Heng, on behalf of Creanovate Pte Ltd, sent a letter to Firstlink Energy Pte Ltd requesting an advance of $30,000, stating that the money was urgently needed to settle outstanding matters and that it would be treated as an advance of investment in Creanovate Pte Ltd for coal mining."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-09-06",
+          "Text": "On 6 September 2004, Tang Kok Heng wrote to Firstlink Energy Pte Ltd on Creanovate Pte Ltd's behalf inviting participation in a coal mining investment in Indonesia and requested a total advance of SGD 2,000,000, stating that the funds were needed to pay expenses related to mine acquisition in Indonesia and that SGD 940,000 was required by the next day."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-09-07",
+          "Text": "On 7 September 2004, Creanovate Pte Ltd received $940,000 from Firstlink Energy Pte Ltd by telegraphic transfer following the 6 September 2004 request."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-11-03",
+          "Text": "On 3 November 2004, Creanovate Pte Ltd received a further $500,000 from Firstlink Energy Pte Ltd by telegraphic transfer, stated to be part of the requested $2,000,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-11-17",
+          "Text": "On 17 November 2004, Creanovate Pte Ltd received $280,000 from Firstlink Energy Pte Ltd by cheque number 680668, stated to be part of the requested $2,000,000."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2004-09-01",
+          "Text": "In 2004, PT Perdana Andalan Coal, an Indonesian company, was formed by Tang Kok Heng and was later included as a party to the Subscription Agreement with Creanovate Pte Ltd and Firstlink Energy Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-01-01",
+          "Text": "Before the Subscription Agreement, Tang Kok Heng represented on various occasions that PT Perdana Andalan Coal held a 60% equity interest in PT Kencana Artha Buana, which in turn held a 72.5% equity interest in PT Senamas Energuido Mula, and that PT Kencana Artha Buana had rights to exploit coal with various companies in southern Kalimantan, while PT Senamas Energuido Mula owned concessions to extract coal from mines in Kota Bahru, South of Kalimantan."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2005-01-08",
+          "Text": "On 8 January 2005, Creanovate Pte Ltd entered into a Subscription Agreement with Firstlink Energy Pte Ltd and PT Perdana Andalan Coal under which Creanovate Pte Ltd would receive a total of $2,000,000 from Firstlink Energy Pte Ltd, including $1,720,000 already advanced, in exchange for $3,500,000 of exchangeable bonds convertible into a 30% equity interest in PT Perdana Andalan Coal, conditions precedent to be satisfied by 22 February 2005."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2005-01-08",
+          "Text": "Under the Subscription Agreement dated 8 January 2005, Creanovate Pte Ltd agreed that if the conditions precedent, including confirmations of PT Perdana Andalan Coal's group structure and coal concession rights of PT Senamas Energuido Mula and PT Kencana Artha Buana, were not fulfilled by 22 February 2005, the $2,000,000 advanced sum would be returned to Firstlink Energy Pte Ltd and the Subscription Agreement terminated."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-01-18",
+          "Text": "On 18 January 2005, Creanovate Pte Ltd received $250,000 from Firstlink Energy Pte Ltd by cheque number 515047."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-01-19",
+          "Text": "On 19 January 2005, Creanovate Pte Ltd received $300,000 from Firstlink Energy Pte Ltd by cheque number 515048."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-01-20",
+          "Text": "On 20 January 2005, Creanovate Pte Ltd received $280,000 from Firstlink Energy Pte Ltd by cheque number 515064."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-03",
+          "Text": "On 3 February 2005, Creanovate Pte Ltd received $710,000 from Firstlink Energy Pte Ltd by cheque number 515096, bringing the total advances from Firstlink Energy Pte Ltd in this series to $3,260,000."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-03-07",
+          "Text": "On 7 March 2005, Firstlink Energy Pte Ltd wrote to Creanovate Pte Ltd reminding it of its obligations regarding the conditions precedent under the Subscription Agreement."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-03-08",
+          "Text": "After 7 March 2005, Tang Kok Heng replied on behalf of Creanovate Pte Ltd explaining reasons for delay in fulfilling the conditions precedent and requested an extension of the deadline to 15 March 2005."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-03-15",
+          "Text": "On 15 March 2005, Tang Kok Heng wrote to Firstlink Energy Pte Ltd on behalf of Creanovate Pte Ltd stating that he was attaching a legal opinion on the Indonesian coal mines structure and indicating that more work would have to be done, while the conditions precedent under the Subscription Agreement remained outstanding."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2005-04-08",
+          "Text": "A Settlement Agreement dated 8 April 2005 was prepared between Creanovate Pte Ltd, Firstlink Energy Pte Ltd and PT Perdana Andalan Coal, providing that upon execution the Subscription Agreement would be terminated and that the sums advanced by Firstlink Energy Pte Ltd to Creanovate Pte Ltd would be settled by the transfer of 51% of the shares in PT Perdana Andalan Coal from Creanovate Pte Ltd to Firstlink Energy Pte Ltd, approval by the relevant Indonesian authority, failing which Creanovate Pte Ltd would refund $3,260,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-21",
+          "Text": "On 21 February 2005, Creanovate Pte Ltd received $1,000,000 from Firstlink Energy Pte Ltd, which had obtained the funds from Firstlink Investment Corporation on the same day."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-23",
+          "Text": "On 23 February 2005, Creanovate Pte Ltd withdrew the $1,000,000 received on 21 February 2005 via a cash cheque."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-05-11",
+          "Text": "On 11 May 2005, Creanovate Pte Ltd wrote to Firstlink Investment Corporation stating that it would return $700,000 by 13 May 2005 in relation to the $1,000,000 advance for coal trading purposes and that the remaining $300,000 would be treated as balance of settlement for the subscription for exchangeable bonds in Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-05-13",
+          "Text": "Creanovate Pte Ltd did not return the $700,000 to Firstlink Investment Corporation by 13 May 2005 as stated in its letter of 11 May 2005."
+        }
+      ],
+      "Issue": "Whether Creanovate Pte Ltd was refund monetary advances totalling $3.26m and an additional $1m received from Firstlink Energy Pte Ltd in the context of the Subscription Agreement and subsequent Settlement Agreement, and how the characterisation of those sums under contract and company law affected Creanovate Pte Ltd's repayment obligations.",
+      "Rule": "Where a company receives advances under a subscription or investment agreement that includes conditions precedent and express refund provisions, the failure of those conditions by the stipulated deadline can trigger a contractual obligation to return the sums. Additionally, statutory provisions restricting loans or similar financial assistance by a company to entities connected with its directors do not negate contractual repayment obligations of the recipient company but may inform the legal framework within which such advances are assessed.",
+      "Application": "Creanovate Pte Ltd received multiple advances from Firstlink Energy Pte Ltd in connection with coal trading and mining investments, including sums advanced before and after the 8 January 2005 Subscription Agreement. The Subscription Agreement specified that if conditions precedent relating to confirmations of corporate structure and coal concession rights were not satisfied by 22 February 2005, the $2,000,000 advanced sum would be returned and the agreement terminated. A later Settlement Agreement dated 8 April 2005 provided that the Subscription Agreement would be terminated and that the advances would be settled by a transfer of 51% of PT Perdana Andalan Coal shares, regulatory approval, failing which Creanovate Pte Ltd would refund $3,260,000. The factual record shows that the conditions precedent under both the Subscription Agreement and the Settlement Agreement were not fulfilled and that Creanovate Pte Ltd did not return the $700,000 portion of the separate $1,000,000 advance by the date it had indicated. These events frame Creanovate Pte Ltd's exposure to repayment claims for the $3.26m and the $1m under the contractual mechanisms agreed with Firstlink Energy Pte Ltd.",
+      "Judicial_Reasoning_Log": "The court rejected Creanovate Pte Ltd's reliance on the Settlement Agreement as a bar to the plaintiff's claim for refund of the $3.26m. It held that, even if the Settlement Agreement superseded the Subscription Agreement, Creanovate Pte Ltd remained contractually bound under clause 3(2) of the Settlement Agreement to refund the advances if the condition precedent (regulatory approval of the share transfer) was not fulfilled. The judge interpreted clause 1 and recital E of the Settlement Agreement as terminating the Subscription Agreement but not extinguishing the plaintiff's right to a refund upon failure of the new condition precedent. The court found that the conditions precedent in the Settlement Agreement were not satisfied and that Creanovate Pte Ltd had not repaid the sums, thereby entitling the plaintiff to recover $3.26m. Regarding the additional $1m, the court treated this as a loan from the plaintiff to Creanovate Pte Ltd, supported by the 21 February 2005 letter signed by Ngu and Tang, the flow of funds through the plaintiff's account, and Tang's subsequent indication that $700,000 would be returned and $300,000 treated as settlement balance. The court concluded that Creanovate Pte Ltd was liable to repay the full $1m plus interest. It therefore entered judgment in Suit 521/2005 against Creanovate Pte Ltd for $3.26m and $1m with interest and dismissed Creanovate Pte Ltd's counterclaim. In Suit 523/2005, the court structured relief so that Ngu and Tang would be liable to cover any shortfall in Creanovate Pte Ltd's payment up to $3.32m, reflecting Creanovate Pte Ltd's primary liability for the advances and the directors' secondary liability as accounting parties."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 4
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 523/2005",
+      "Coram": "Andrew Ang J",
+      "Judge": "Andrew Ang",
+      "Date": "2006-12-22",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Ngu Tieng Ung",
+      "Law_Firm": "Lim & Lim",
+      "Counsel": [
+        "Chopra Sarbjit Singh",
+        "Suja Michelle Sasidharan"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2003-11-01",
+          "Text": "Sometime in November 2003, Ngu Tieng Ung, a Malaysian businessman, became a substantial shareholder of Firstlink Investment Corporation."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-07-01",
+          "Text": "In or about July 2004, Ngu Tieng Ung was appointed to the Executive Committee of Firstlink Investment Corporation."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-09-15",
+          "Text": "On 15 September 2004, Ngu Tieng Ung was appointed as a director of Firstlink Energy Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-12-22",
+          "Text": "On 22 December 2004, Ngu Tieng Ung was appointed as a director of Firstlink Investment Corporation."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2004-07-01",
+          "Text": "In July 2004, after Tang Kok Heng approached him with a coal trading proposal, Ngu Tieng Ung introduced Tang Kok Heng to Darren Kee of Firstlink Investment Corporation."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2004-08-19",
+          "Text": "The decision for Firstlink Energy Pte Ltd to enter into the Joint Venture Agreement with Creanovate Pte Ltd and Tang Kok Heng on 19 August 2004 was made by Ngu Tieng Ung, Darren Kee and Joe Wong Siu Kay."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-09-15",
+          "Text": "After 15 September 2004, Ngu Tieng Ung, together with Tang Kok Heng, took full control in managing Firstlink Energy Pte Ltd's coal-related activities, while other directors handled non-coal businesses."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2005-01-08",
+          "Text": "The Subscription Agreement dated 8 January 2005 between Firstlink Energy Pte Ltd, Creanovate Pte Ltd and PT Perdana Andalan Coal was the product of discussions between Ngu Tieng Ung and Tang Kok Heng."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-02-21",
+          "Text": "On 21 February 2005, Ngu Tieng Ung and Tang Kok Heng, as directors of Firstlink Energy Pte Ltd, signed a letter to Firstlink Investment Corporation requesting an advance of $1,000,000 to commence coal trading in Indonesia and undertaking that the advance would be repaid to Firstlink Investment Corporation within two months."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-21",
+          "Text": "On 21 February 2005, following the request signed by Ngu Tieng Ung and Tang Kok Heng, Firstlink Investment Corporation transferred $1,000,000 to Firstlink Energy Pte Ltd, which then advanced the same amount to Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2005-02-21",
+          "Text": "On 21 February 2005, Ngu Tieng Ung and Tang Kok Heng were the only two directors of Firstlink Energy Pte Ltd and were in a position to authorise the transfer of $1,000,000 from Firstlink Energy Pte Ltd to Creanovate Pte Ltd."
+        }
+      ],
+      "Issue": "Whether, in relation to payments totalling $4.26m made by Firstlink Energy Pte Ltd in the context of coal investments involving Creanovate Pte Ltd, Ngu Tieng Ung incurred personal liability to account for part of those sums based on his role in initiating, structuring, and authorising the advances and the operation of statutory restrictions on loans connected to directors.",
+      "Rule": "Directors who participate in authorising company payments that fall within statutory prohibitions on loans or similar financial assistance to connected entities, or who are involved in transactions where company funds are advanced in circumstances governed by such provisions, may be account personally for resulting losses if the statutory framework and equitable principles on directors' responsibilities so provide.",
+      "Application": "Ngu Tieng Ung was a substantial shareholder and later a director of Firstlink Investment Corporation and a director of Firstlink Energy Pte Ltd. He introduced Tang Kok Heng to the company, participated in the decision to enter into the Joint Venture Agreement, and, together with Tang, managed coal-related activities. The Subscription Agreement was the product of discussions between Ngu and Tang, and on 21 February 2005 they jointly requested a $1,000,000 advance from Firstlink Investment Corporation, which was routed through Firstlink Energy Pte Ltd to Creanovate Pte Ltd. At that time, they were the only directors of Firstlink Energy Pte Ltd and controlled the transfer of funds. These facts situate Ngu within the statutory and equitable framework governing directors' involvement in advances to companies in which a director colleague held a significant equity interest, forming the basis on which the court assessed whether he should account personally for part of the $4.26m.",
+      "Judicial_Reasoning_Log": "The court considered the plaintiff's claim against Ngu Tieng Ung for $4.26m, divided into four components. It held that the first payment of $940,000 could not be recovered from Ngu on a knowing receipt basis because the pleadings did not allege the requisite knowledge and because Ngu was not a director of the plaintiff at the time, with no pleading that he was a shadow director. However, for the second and third series of payments and the fourth payment, the court found that sections 162 and 163 of the Companies Act applied. It interpreted \"loan\" in those sections to include advances and concluded that the payments to Creanovate Pte Ltd, a company in which Tang held a majority interest, were within the statutory prohibitions. The judge noted evidence that funds advanced to Creanovate Pte Ltd were diverted for personal purposes, including payments to Ngu's stockbrokers, and drew inferences about the use of cash cheques and reversals of withdrawals. The court held that the authorisation of the second and third series of payments and the fourth payment in breach of section 163 constituted breaches of fiduciary duty by Ngu and Tang, and applied equitable principles requiring directors who breach such duties to indemnify the company for its losses. In Suit 523/2005, the court declared that Ngu and Tang were liable to account to the plaintiff for $3.32m (being $4.26m less $940,000) with interest, and ordered that to the extent Creanovate Pte Ltd failed to pay the full $4.26m and interest under Suit 521/2005, Ngu and Tang would pay the shortfall up to $3.32m and interest. The reasoning emphasised Ngu's role in structuring and authorising the advances and his participation in the $1m transaction routed through the plaintiff."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 523/2005",
+      "Coram": "Andrew Ang J",
+      "Judge": "Andrew Ang",
+      "Date": "2006-12-22",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Tang Kok Heng",
+      "Law_Firm": "Mallal & Namazie",
+      "Counsel": [
+        "Tan Teng Muan",
+        "Loh Li Qin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "At the material time, Tang Kok Heng was a director of Creanovate Pte Ltd and its majority and controlling shareholder."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2004-07-01",
+          "Text": "In July 2004, Tang Kok Heng approached Ngu Tieng Ung with a business proposal for coal trading, leading to his introduction to Darren Kee of Firstlink Investment Corporation."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2004-08-19",
+          "Text": "On 19 August 2004, Tang Kok Heng, together with Creanovate Pte Ltd and Firstlink Energy Pte Ltd, entered into a Joint Venture Agreement for coal trading, under which he and Creanovate Pte Ltd agreed to exclusively supply coal to Firstlink Energy Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-09-01",
+          "Text": "On 1 September 2004, Tang Kok Heng sent a letter to Firstlink Energy Pte Ltd requesting an advance of $30,000, stating that he needed the money urgently to settle outstanding matters and that the sum would be treated as an advance of investment in Creanovate Pte Ltd for coal mining."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-09-06",
+          "Text": "On 6 September 2004, Tang Kok Heng wrote to Firstlink Energy Pte Ltd inviting it to participate in a coal mining investment in Indonesia and requested a total advance of SGD 2,000,000, stating that the funds were needed to pay expenses related to mine acquisition in Indonesia and that SGD 940,000 was required by the next day."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-09-07",
+          "Text": "On 7 September 2004, following Tang Kok Heng's request, $940,000 was advanced by Firstlink Energy Pte Ltd to Creanovate Pte Ltd by telegraphic transfer."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-09-09",
+          "Text": "On 9 September 2004, Tang Kok Heng was appointed as a director of Firstlink Energy Pte Ltd, having proposed that his appointment would enhance his standing in Indonesia for coal investments."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-09-15",
+          "Text": "After 15 September 2004, Tang Kok Heng, together with Ngu Tieng Ung, took full control in managing Firstlink Energy Pte Ltd's coal-related activities."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-11-03",
+          "Text": "On 3 November 2004, Firstlink Energy Pte Ltd advanced $500,000 to Creanovate Pte Ltd, stated to be part of the $2,000,000 which Tang Kok Heng and/or Creanovate Pte Ltd required for coal-related investment."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-11-17",
+          "Text": "On 17 November 2004, Firstlink Energy Pte Ltd advanced $280,000 to Creanovate Pte Ltd by cheque number 680668, also stated to be part of the $2,000,000 requested by Tang Kok Heng and/or Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2004-01-01",
+          "Text": "By 2004, Tang Kok Heng had formed PT Perdana Andalan Coal, an Indonesian company later included as a party to the Subscription Agreement with Firstlink Energy Pte Ltd and Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-01-01",
+          "Text": "Before the Subscription Agreement, Tang Kok Heng represented on various occasions that PT Perdana Andalan Coal held a 60% equity interest in PT Kencana Artha Buana, which in turn held a 72.5% equity interest in PT Senamas Energuido Mula, and that PT Kencana Artha Buana had rights to exploit coal with various companies in southern Kalimantan, while PT Senamas Energuido Mula owned concessions to extract coal from mines in Kota Bahru, South of Kalimantan."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2005-01-08",
+          "Text": "On 8 January 2005, a Subscription Agreement was entered into between Firstlink Energy Pte Ltd, Creanovate Pte Ltd and PT Perdana Andalan Coal, which was the product of discussions between Tang Kok Heng and Ngu Tieng Ung."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-01-18",
+          "Text": "On 18 January 2005, Firstlink Energy Pte Ltd advanced $250,000 to Creanovate Pte Ltd by cheque number 515047 in the context of the Subscription Agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-01-19",
+          "Text": "On 19 January 2005, Firstlink Energy Pte Ltd advanced $300,000 to Creanovate Pte Ltd by cheque number 515048 in the context of the Subscription Agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-01-20",
+          "Text": "On 20 January 2005, Firstlink Energy Pte Ltd advanced $280,000 to Creanovate Pte Ltd by cheque number 515064 in the context of the Subscription Agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-03",
+          "Text": "On 3 February 2005, Firstlink Energy Pte Ltd advanced $710,000 to Creanovate Pte Ltd by cheque number 515096, bringing the total advances in this series to $3,260,000."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-03-07",
+          "Text": "On 7 March 2005, Firstlink Energy Pte Ltd wrote to Creanovate Pte Ltd reminding it of its obligations regarding the conditions precedent under the Subscription Agreement, and Tang Kok Heng replied explaining reasons for delay and requested an extension of the deadline to 15 March 2005."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-03-15",
+          "Text": "On 15 March 2005, Tang Kok Heng wrote to Firstlink Energy Pte Ltd stating that he was attaching a legal opinion on the Indonesian coal mines structure and indicating that more work would have to be done, while the conditions precedent under the Subscription Agreement remained outstanding."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-04-05",
+          "Text": "On 5 April 2005, the board of Firstlink Investment Corporation resolved to cancel the Subscription Agreement and to convert the investment into a 51% direct equity interest in PT Perdana Andalan Coal, to be held by Firstlink Coal Pte Ltd, with no additional investment cost."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2005-04-08",
+          "Text": "A Settlement Agreement dated 8 April 2005 was prepared, under which Tang Kok Heng, acting for Creanovate Pte Ltd, agreed that the Subscription Agreement would be terminated and that the sums advanced by Firstlink Energy Pte Ltd to Creanovate Pte Ltd would be settled by the transfer of 51% of the shares in PT Perdana Andalan Coal to Firstlink Energy Pte Ltd, regulatory approval, failing which Creanovate Pte Ltd would refund $3,260,000."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-04-19",
+          "Text": "On 19 April 2005, Tang Kok Heng was dismissed as a director of Firstlink Energy Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-21",
+          "Text": "On 21 February 2005, Tang Kok Heng and Ngu Tieng Ung requested from Firstlink Investment Corporation an advance of $1,000,000 for Creanovate Pte Ltd, purportedly for coal mining business in Indonesia, and on the same day Firstlink Investment Corporation transferred $1,000,000 to Firstlink Energy Pte Ltd, which then advanced the sum to Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-23",
+          "Text": "On 23 February 2005, the $1,000,000 advanced to Creanovate Pte Ltd on 21 February 2005 was withdrawn from Creanovate Pte Ltd's account via a cash cheque."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-05-11",
+          "Text": "On 11 May 2005, Tang Kok Heng, on behalf of Creanovate Pte Ltd, wrote to Firstlink Investment Corporation stating that $700,000 of the $1,000,000 advance would be returned by 13 May 2005 and that the remaining $300,000 would be treated as balance of settlement for the subscription for exchangeable bonds in Creanovate Pte Ltd."
+        }
+      ],
+      "Issue": "Whether, in relation to payments totalling $4.26m made by Firstlink Energy Pte Ltd in the context of coal trading and investment arrangements involving Creanovate Pte Ltd and PT Perdana Andalan Coal, Tang Kok Heng incurred personal liability to account for part of those sums based on his roles in Creanovate Pte Ltd and Firstlink Energy Pte Ltd and his conduct in requesting, structuring, and managing the advances.",
+      "Rule": "A director who is also a controlling shareholder of a company that receives advances from another company, and who participates as a director of the advancing company in authorising those advances in circumstances governed by statutory restrictions on loans to connected entities, may be account personally for losses arising from such transactions under principles governing directors' responsibilities and statutory loan prohibitions.",
+      "Application": "Tang Kok Heng was a director and majority shareholder of Creanovate Pte Ltd and later became a director of Firstlink Energy Pte Ltd. He initiated the coal trading proposal, requested advances from Firstlink Energy Pte Ltd, and, together with Ngu Tieng Ung, managed coal-related activities. He was involved in the Joint Venture Agreement, the Subscription Agreement, and the proposed Settlement Agreement, and made written requests for advances, including the $2,000,000 for mine acquisition and the $1,000,000 routed through Firstlink Energy Pte Ltd to Creanovate Pte Ltd. As a director of Firstlink Energy Pte Ltd at the time of the second and third series of payments and the fourth payment, and as a controlling shareholder of the recipient company, his conduct fell within the statutory framework on loans to companies in which directors hold significant equity interests. These facts formed the basis for the court's assessment of his personal responsibility to account for part of the $4.26m.",
+      "Judicial_Reasoning_Log": "The court examined Tang Kok Heng's dual roles as a director and majority shareholder of Creanovate Pte Ltd and as a director of Firstlink Energy Pte Ltd. It held that the first payment of $940,000 could not be recovered from Tang on a knowing receipt basis due to deficiencies in the pleadings and the fact that he was not yet a director of the plaintiff at the time. For the second and third series of payments and the fourth payment, the court applied sections 162 and 163 of the Companies Act, interpreting \"loan\" to include advances. It found that the payments to Creanovate Pte Ltd, a company in which Tang held more than 20% of the equity, were within the statutory prohibitions when authorised by Tang and Ngu as directors of the plaintiff. The judge noted evidence that funds advanced to Creanovate Pte Ltd were diverted for personal purposes, including payments to Ngu's stockbrokers, and commented on the use of cash cheques and reversals of withdrawals as indicative of attempts to obscure the use of funds. The court concluded that authorising the second and third series of payments and the fourth payment in breach of section 163 constituted breaches of fiduciary duty by Tang and Ngu, and applied equitable principles requiring directors who breach such duties to indemnify the company for its losses. In Suit 523/2005, the court declared that Tang and Ngu were liable to account to the plaintiff for $3.32m (being $4.26m less $940,000) with interest, and ordered that to the extent Creanovate Pte Ltd failed to pay the full $4.26m and interest under Suit 521/2005, Tang and Ngu would pay the shortfall up to $3.32m and interest. The reasoning emphasised Tang's central role in initiating the coal investment, requesting and receiving advances, and participating in the contractual structures governing the funds."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 2
+  }
+]

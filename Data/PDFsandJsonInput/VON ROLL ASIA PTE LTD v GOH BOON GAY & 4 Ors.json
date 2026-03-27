@@ -1,0 +1,368 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 58 of 2012",
+      "Coram": "Chan Seng Onn J",
+      "Judge": "Chan Seng Onn",
+      "Date": "2017-04-11",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Von Roll Asia Pte Ltd",
+      "Law_Firm": "Godwin Campos LLC",
+      "Counsel": [
+        "Godwin Gilbert Campos",
+        "Chan Qing Rui, Bryan"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2005-01-01",
+          "Text": "Von Roll Asia Pte Ltd is a company incorporated in Singapore engaged in providing products, services and systems for power generation, insulation, transmission and distribution."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-01-01",
+          "Text": "Von Roll Asia Pte Ltd engaged Faxolif Industries Pte Ltd as one of its main distributors through a written agreement for Faxolif's services."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Von Roll Asia Pte Ltd used agents and distributors to source for and secure new customers in markets where it had yet to establish a presence."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2007-11-16",
+          "Text": "Von Roll Asia Pte Ltd entered into a contract of employment dated 16 November 2007 with Anson Goh Boon Gay for the role of Regional Head of Sales for Asia."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-12-31",
+          "Text": "The written distribution agreement between Von Roll Asia Pte Ltd and Faxolif Industries Pte Ltd provided that it would remain in force for an indeterminate period and could be terminated by either party upon three months' written notice to the end of every calendar year, with 31 December 2007 being the earliest possible termination date."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Von Roll Asia Pte Ltd maintained Faxolif Industries Pte Ltd as one of its main distributors and had upcoming plans with Faxolif for 2008."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Von Roll Asia Pte Ltd used its own customer service and sales teams to manage customers regardless of the size of potential sales."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Von Roll Asia Pte Ltd typically remunerated agents with a commission of about 5 percent of sales revenue for agency work."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Von Roll Asia Pte Ltd's usual practice when appointing a chemical mixing company was to select a mixer that was not involved in the same industry, to reduce the risk of that entity producing competing products."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Von Roll Asia Pte Ltd commonly used drop shipment arrangements in China, under which goods were shipped directly from the manufacturing entity to customers without warehousing by Von Roll Asia Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2008-01-01",
+          "Text": "In January 2008, Faxolif Industries Pte Ltd gave a presentation to the board of Von Roll Asia Pte Ltd listing Faxolif's other customers, including customers for competitors' products."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Von Roll Asia Pte Ltd was aware that Faxolif Industries Pte Ltd carried competitors' brands and considered that the competitors' products served different functions from Von Roll Asia Pte Ltd's products."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2009-06-01",
+          "Text": "By June 2009, Von Roll Asia Pte Ltd was paying monthly rental for warehousing services in Shanghai, China, via invoices issued by Semi-Solution Inc (Singapore) Pte Ltd for 300 square metres of warehouse space at a monthly rental of RMB45,000."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-06-01",
+          "Text": "Von Roll Asia Pte Ltd used warehouse space in Shanghai to cater to a customer in China that required warehousing services, while most other customers were served via drop shipment."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-06-01",
+          "Text": "An internal communication from Jason Lim Keng Huat to personnel at Von Roll Asia Pte Ltd stated that the warehouse space required by Von Roll Asia Pte Ltd in Shanghai was approximately 29.724096 square metres."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Von Roll Asia Pte Ltd supplied kapton-covered wires to Bombardier ChangZhou Power as a customer."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "After Bombardier ChangZhou Power stopped doing business with Von Roll Asia Pte Ltd, the company engaged an agent, Mr Dai, to assist in regaining Bombardier ChangZhou Power as a customer."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Von Roll Asia Pte Ltd agreed to pay an 8 percent commission on sales to Bombardier ChangZhou Power to agent Mr Dai for assisting in regaining that customer's business."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "In the arrangement involving Bombardier ChangZhou Power, 5 percent of sales was treated as commission to agent Mr Dai and an additional 3 percent of sales was treated as an extra commission component."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "From the 8 percent commission on Bombardier ChangZhou Power sales, approximately 1.6 percent of sales value was paid by the agent as tax to the Chinese government, about 4.9 percent was retained by the agent, and about 1.5 percent of sales value, amounting to roughly RMB50,000 in one instance, was transferred in cash by Huang Wei to Anson Goh Boon Gay."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-02-01",
+          "Text": "Huang Wei collected cash representing part of the commission from agent Mr Dai in Changzhou and subsequently handed an unsealed envelope containing approximately RMB50,000 in cash to Anson Goh Boon Gay in Shanghai after Chinese New Year."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-01-01",
+          "Text": "Von Roll Asia Pte Ltd terminated its distribution arrangements with the Semi-Solution group in 2011, after which the Semi-Solution group experienced difficulties in finding its own revenue streams and clients."
+        }
+      ],
+      "Issue": "Whether the conduct of the defendants, including changes in distributors, diversion of customers, commission structures, warehousing arrangements, and product mixing arrangements, resulted in financial loss to Von Roll Asia Pte Ltd and whether Von Roll Asia Pte Ltd is entitled to damages or an account of profits from the defendants.",
+      "Rule": "In civil claims for unlawful means conspiracy and for of directors' duties, a claimant may recover losses caused by coordinated unlawful acts directed at the claimant, and may also obtain equitable remedies such as an account of profits from parties who have profited from participation in such conduct.",
+      "Application": "Von Roll Asia Pte Ltd engaged Faxolif Industries Pte Ltd as a main distributor, later paid commissions and management fees to entities within the Semi-Solution group, rented warehouse space in Shanghai through Semi-Solution Inc (Singapore) Pte Ltd, and implemented an 8 percent commission structure for the Bombardier ChangZhou Power account, with part of the commission being transferred in cash to Anson Goh Boon Gay. These arrangements coincided with the use of Semi-Solution entities as distributors and service providers and with the use of a related chemical mixing company, and they affected how revenue and costs were allocated between Von Roll Asia Pte Ltd and the Semi-Solution entities.",
+      "Judicial_Reasoning_Log": "The court characterised the defendants as conspirators and analysed the elements of unlawful means conspiracy, including combination, intention to injure, unlawfulness of acts, acts in furtherance, and resulting loss. It rejected the defendants' arguments on a higher standard of proof, the need for a predominant purpose to injure in unlawful means conspiracy, and the contention that the tort was outmoded. The judge inferred a conspiracy agreement from undue preferential treatment of the SSI group and the close financial relationship among the conspirators. The judgment treated the termination of Faxolif, appointment of Wecorp and the SSI group, diversion of customers, preferential pricing and credit terms, payment of 4 percent management fees, sale of imitation goods, and rental of excessive warehouse space as unlawful acts in furtherance of the conspiracy. The court found that these acts breached statutory duties under sections 157(1) and 157(2) of the Companies Act and could amount to criminal breach of trust and breach of confidence. It held that the plaintiff suffered loss from diverted customers, unnecessary commissions, excessive warehouse rental, and lost profits from imitation goods, and allowed these heads of loss with quantum to be assessed. On directors' duties, the court applied an objective test of honesty and reasonable diligence, concluded that the first defendant acted dishonestly and made improper use of his position, and held him liable under section 157(3)(a) for profits and damage. The court found a breach of the no-profit rule in relation to the Bombardier commission kickback and ordered an account of profits for that sum. For dishonest assistance, the court held that the third defendant, controlled by the fifth defendant, assisted the first defendant's breaches dishonestly and was liable for losses and, in the alternative, for an account of profits. Relying on English authority such as Novoship, the court accepted that a dishonest assistant can be ordered to account for profits even where loss is not coextensive with gain, subject to a causal link and judicial discretion. The court concluded that the conspiracy claim succeeded, that the first defendant was in breach of fiduciary duties, and that the third defendant was liable for dishonest assistance, and ordered damages and/or an account of profits to be assessed, with the plaintiff to elect between remedies."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 58 of 2012",
+      "Coram": "Chan Seng Onn J",
+      "Judge": "Chan Seng Onn",
+      "Date": "2017-04-11",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Goh Boon Gay",
+      "Law_Firm": "KhattarWong LLP",
+      "Counsel": [
+        "Gopalan Raman"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2007-11-16",
+          "Text": "Anson Goh Boon Gay was employed by Von Roll Asia Pte Ltd as Regional Head of Sales for Asia under a contract of employment dated 16 November 2007."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2007-11-16",
+          "Text": "At the material time, Anson Goh Boon Gay held the position of director of Von Roll Asia Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-02-01",
+          "Text": "Within approximately three months after his employment commenced, Anson Goh Boon Gay arranged for the termination of Von Roll Asia Pte Ltd's distribution agreement with Faxolif Industries Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2008-02-01",
+          "Text": "Anson Goh Boon Gay sent an email to the then Managing Director of Von Roll Asia Pte Ltd, Ray Ng, giving instructions to terminate Faxolif Industries Pte Ltd's services as distributor."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2008-03-03",
+          "Text": "On 3 March 2008, Anson Goh Boon Gay appointed We Corp Pte Ltd as a distributor of Von Roll Asia Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-03-03",
+          "Text": "The appointment of We Corp Pte Ltd as a distributor of Von Roll Asia Pte Ltd on 3 March 2008 was made before We Corp Pte Ltd was incorporated and without review by Von Roll Asia Pte Ltd's legal department."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-09-01",
+          "Text": "In September 2008, services of We Corp Pte Ltd as a distributor of Von Roll Asia Pte Ltd were terminated and replaced with those of Semi-Solution Inc (Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2008-09-01",
+          "Text": "After the termination of We Corp Pte Ltd's services, the main point of contact at We Corp Pte Ltd, Nick Ong, moved to Semi-Solution Inc (Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2008-09-01",
+          "Text": "Semi-Solution Inc (Asia) Pte Ltd, Semi-Solution Inc (Singapore) Pte Ltd, and Semi-Solution Inc Trading (Shanghai) Co Ltd were controlled by Jason Lim Keng Huat."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-10-01",
+          "Text": "Anson Goh Boon Gay implemented internal protocols within Von Roll Asia Pte Ltd requiring major decisions in respect of sales and pricing to be approved by him."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-10-01",
+          "Text": "Anson Goh Boon Gay arranged for previous employees of Von Roll Asia Pte Ltd to be replaced with individuals known to him, including creating new positions to accommodate these appointments."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-09-30",
+          "Text": "Between 30 September 2009 and 8 May 2011, customers that were current or prospective clients of Von Roll Asia Pte Ltd were handled through entities in the Semi-Solution group instead of directly by Von Roll Asia Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-09-30",
+          "Text": "From 30 September 2009 to 8 May 2011, Von Roll Asia Pte Ltd paid commissions to companies in the Semi-Solution group at a rate of 4 percent of sales revenue for customers that were managed by the Semi-Solution group."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-06-01",
+          "Text": "From June 2009 to July 2011, Semi-Solution Inc (Singapore) Pte Ltd issued monthly invoices to Von Roll Asia Pte Ltd for warehouse rental in Shanghai of 300 square metres at RMB45,000 per month."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-06-01",
+          "Text": "Internal emails from the address admin@ssiasia.com.sg within the Semi-Solution group discussed a broken mirror item and an insurance claim, using wording similar to emails sent by Anson Goh Boon Gay from his Von Roll Asia Pte Ltd email account to the company's claims department about the same item."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-06-01",
+          "Text": "Huang Wei stated that Jason Lim Keng Huat told him to refer to Anson Goh Boon Gay as 'Henry' in internal Semi-Solution emails and in some communications involving Von Roll Asia Pte Ltd, and that 'Henry' would appear in Semi-Solution internal emails."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-06-01",
+          "Text": "An email from Jason Lim Keng Huat within the Semi-Solution group referred to payments that were due to 'Henry' for contributions to the Semi-Solution business."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2009-06-01",
+          "Text": "An employment contract between Semi-Solution Inc (Asia) Pte Ltd and Goh Boon Eng specified fees payable that matched a 4 percent rate of sales revenue for customers managed by the Semi-Solution group, without detailed clauses on job scope, entitlements, or termination."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Anson Goh Boon Gay instructed Huang Wei to appoint an agent to help regain Bombardier ChangZhou Power as a customer and indicated that a commission could be paid to the agent for this work."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Huang Wei introduced agent Mr Dai, who had a relationship with Bombardier ChangZhou Power's top management, to work on regaining Bombardier ChangZhou Power as a customer for Von Roll Asia Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Under the arrangement for Bombardier ChangZhou Power, Von Roll Asia Pte Ltd paid an 8 percent commission on sales, of which 5 percent was treated as the agent's commission and 3 percent was treated as an additional commission component."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-02-01",
+          "Text": "Huang Wei received cash from agent Mr Dai representing approximately 1.5 percent of sales value as part of the Bombardier ChangZhou Power commission and later handed this cash, about RMB50,000, to Anson Goh Boon Gay in Shanghai."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-02-01",
+          "Text": "Huang Wei delivered an unsealed envelope containing cash of about RMB50,000 to Anson Goh Boon Gay after Chinese New Year, representing part of the commission from Bombardier ChangZhou Power sales."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-05-09",
+          "Text": "On 9 May 2011, the employment of Anson Goh Boon Gay with Von Roll Asia Pte Ltd as Regional Head of Sales for Asia was terminated."
+        }
+      ],
+      "Issue": "Whether Anson Goh Boon Gay, as director and Regional Head of Sales for Asia of Von Roll Asia Pte Ltd, engaged in coordinated conduct with entities in the Semi-Solution group and others that resulted in diversion of business, payment structures, and other arrangements affecting Von Roll Asia Pte Ltd's revenues and costs, and whether he is responsible for resulting financial consequences.",
+      "Rule": "Company directors are manage company affairs in a manner consistent with statutory and standards, and civil liability may arise where coordinated unlawful means are used to cause loss to a company or where a director's conduct results in personal gain linked to company transactions.",
+      "Application": "After his appointment as Regional Head of Sales for Asia and director, Anson Goh Boon Gay initiated the termination of Faxolif Industries Pte Ltd as a distributor, appointed We Corp Pte Ltd and then Semi-Solution Inc (Asia) Pte Ltd as distributors, and implemented internal approval protocols for sales and pricing. Customers of Von Roll Asia Pte Ltd were subsequently handled through Semi-Solution entities, which received 4 percent management fees and preferential pricing and credit terms. Warehouse space in Shanghai was rented via Semi-Solution Inc (Singapore) Pte Ltd in an amount significantly larger than the space internally identified as required. Internal Semi-Solution emails from admin@ssiasia.com.sg, associated with the alias 'Henry', showed close operational links with communications sent by Anson Goh Boon Gay from his Von Roll Asia Pte Ltd email account. An employment contract for his brother, Goh Boon Eng, with Semi-Solution Inc (Asia) Pte Ltd specified fees aligned with the 4 percent management fee structure. In the Bombardier ChangZhou Power account, an 8 percent commission was arranged, and part of that commission was transferred in cash by Huang Wei to Anson Goh Boon Gay. These events collectively his decisions and interactions with Semi-Solution entities and agents were closely connected to the flow of business and funds between Von Roll Asia Pte Ltd and related entities.",
+      "Judicial_Reasoning_Log": "The court held that Anson Goh Boon Gay was a central participant in an unlawful means conspiracy with the other defendants to injure Von Roll Asia Pte Ltd. It inferred a conspiracy agreement from his preferential treatment of the SSI group, including diversion of customers, extended credit terms, and lower prices, and from the close financial relationship evidenced by the 'Henry' alias and internal SSI emails. The judge rejected the defendants' explanations for terminating Faxolif, appointing Wecorp and the SSI group, and paying 4 percent management fees, finding them commercially irrational and unsupported by evidence. The court concluded that the preparatory steps, diversions, commissions, sale of imitation goods, and excessive warehouse rental were unlawful acts in furtherance of the conspiracy and that they breached section 157(1) and section 157(2) of the Companies Act. It considered that the warehouse arrangement could amount to criminal breach of trust and that the use of confidential technical information for imitation goods could amount to breach of confidence. On directors' duties, the court applied an objective test of honesty and reasonable diligence and found that no honest and intelligent director could reasonably regard the impugned transactions as in the company's interests. It held that his participation in the conspiracy meant he did not act honestly and that he made improper use of his position to benefit himself and others and to cause detriment to the company, thereby incurring liability under section 157(3)(a). Regarding the Bombardier commission, the court accepted Huang Wei's unchallenged evidence that RMB50,000 in cash was passed to Anson Goh Boon Gay as a kickback from the 8 percent commission, and treated this as a secret profit in breach of the no-profit rule. The court ordered him to account for profits from his breaches, including the kickback, and held him liable for damages suffered by the plaintiff as a result of his conduct."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 58 of 2012",
+      "Coram": "Chan Seng Onn J",
+      "Judge": "Chan Seng Onn",
+      "Date": "2017-04-11",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Semi-Solution Inc (Singapore) Pte Ltd",
+      "Law_Firm": "KhattarWong LLP",
+      "Counsel": [
+        "Gopalan Raman"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2008-01-01",
+          "Text": "Semi-Solution Inc (Singapore) Pte Ltd is a company incorporated in Singapore and is part of the Semi-Solution group of companies."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2008-01-01",
+          "Text": "Jason Lim Keng Huat was a director of Semi-Solution Inc (Singapore) Pte Ltd and controlled the Semi-Solution group of companies."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-09-01",
+          "Text": "After the termination of We Corp Pte Ltd's services as distributor in September 2008, entities in the Semi-Solution group, including Semi-Solution Inc (Singapore) Pte Ltd, were engaged by Von Roll Asia Pte Ltd to provide distribution and related services."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-06-01",
+          "Text": "From June 2009 to July 2011, Semi-Solution Inc (Singapore) Pte Ltd issued monthly invoices to Von Roll Asia Pte Ltd for warehouse rental in Shanghai of 300 square metres at a monthly rental of RMB45,000."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-06-01",
+          "Text": "Semi-Solution Inc (Singapore) Pte Ltd rented warehouse space in Shanghai and sub-let this space to Von Roll Asia Pte Ltd for use in serving a customer in China that required warehousing services."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-06-01",
+          "Text": "An email from Jason Lim Keng Huat to Anson Goh Boon Gay and Dennis Chia stated that Von Roll Asia Pte Ltd required approximately 29.724096 square metres of warehouse space, while 300 square metres was being rented and invoiced."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-09-30",
+          "Text": "Between 30 September 2009 and 8 May 2011, companies in the Semi-Solution group, including Semi-Solution Inc (Singapore) Pte Ltd, received commissions from Von Roll Asia Pte Ltd at a rate of 4 percent of sales revenue for customers managed by the Semi-Solution group."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-09-30",
+          "Text": "During the period from 30 September 2009 to 8 May 2011, current and prospective customers of Von Roll Asia Pte Ltd were supplied through entities in the Semi-Solution group, including Semi-Solution Inc (Singapore) Pte Ltd, instead of directly by Von Roll Asia Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-06-01",
+          "Text": "Internal emails within the Semi-Solution group from the address admin@ssiasia.com.sg discussed operational matters such as product breakage and insurance claims and used the name 'Henry' in internal correspondence."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Semi-Solution group entities, including Semi-Solution Inc (Singapore) Pte Ltd, participated in arrangements under which they received lower cost prices and extended credit terms from Von Roll Asia Pte Ltd compared to other distributors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Semi-Solution group entities, including Semi-Solution Inc (Singapore) Pte Ltd, were involved in the sale of chemical products in containers bearing Semi-Solution labels and product codes similar to those of Von Roll Asia Pte Ltd's French-made products, such as Demisol 3030-2CH."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-01-01",
+          "Text": "After Von Roll Asia Pte Ltd terminated its distribution agreements with the Semi-Solution group in 2011, the Semi-Solution group experienced difficulties in finding its own revenue streams and clients."
+        }
+      ],
+      "Issue": "Whether Semi-Solution Inc (Singapore) Pte Ltd, as part of the Semi-Solution group, participated in coordinated arrangements with Anson Goh Boon Gay and others that resulted in diversion of Von Roll Asia Pte Ltd's business, receipt of commissions and warehouse rental payments, and sale of products similar to Von Roll Asia Pte Ltd's products, and whether it is responsible for financial consequences arising from those arrangements.",
+      "Rule": "A company that participates in coordinated unlawful means directed at another company, or that assists a director in conduct that breaches duties owed to that company, may be civil liability for resulting losses and may be disgorge profits obtained through such participation.",
+      "Application": "Semi-Solution Inc (Singapore) Pte Ltd, controlled by Jason Lim Keng Huat, invoiced Von Roll Asia Pte Ltd for 300 square metres of warehouse space in Shanghai at RMB45,000 per month, despite internal communications indicating that less than 30 square metres was required. Entities in the Semi-Solution group received 4 percent management fees on sales to customers that had previously been or could have been served directly by Von Roll Asia Pte Ltd. Internal emails from admin@ssiasia.com.sg, associated with the alias 'Henry', showed operational coordination with Anson Goh Boon Gay's communications. Semi-Solution entities also participated in selling chemical products in containers labelled with Semi-Solution branding and product codes similar to Von Roll Asia Pte Ltd's products. These activities coincided with the period in which Von Roll Asia Pte Ltd's customers were handled through the Semi-Solution group and with preferential pricing and credit terms extended to the group.",
+      "Judicial_Reasoning_Log": "The court treated Semi-Solution Inc (Singapore) Pte Ltd as one of the corporate vehicles through which the conspiracy was implemented. It found that the company, under the control of Jason Lim Keng Huat, received 4 percent management fees and warehouse rental payments that did not correspond to Von Roll Asia Pte Ltd's actual needs. The judge inferred that the excessive warehouse rental was arranged so that spare space could be used by the Semi-Solution group at the plaintiff's expense. The court held that the Semi-Solution group benefited from diverted customers and preferential terms and that these benefits were the product of unlawful means conspiracy and breaches of directors' duties by Anson Goh Boon Gay. For dishonest assistance, the court imputed Jason Lim Keng Huat's knowledge to the Semi-Solution companies and concluded that their assistance in the diversion of customers, commission structures, warehouse arrangements, and product mixing was dishonest. It held that the third defendant was liable for losses arising from its dishonest assistance and, in the alternative, for an account of profits, applying principles that allow a dishonest assistant to be ordered to disgorge profits causally linked to the assistance. The court left quantum and the plaintiff's election between damages and account of profits to be determined at a later assessment."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  }
+]

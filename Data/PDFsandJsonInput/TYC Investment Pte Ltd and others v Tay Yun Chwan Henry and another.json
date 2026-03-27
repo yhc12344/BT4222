@@ -1,0 +1,597 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No 895 of 2013",
+      "Coram": "Lee Kim Shin JC",
+      "Judge": "Lee Kim Shin",
+      "Date": "2014-10-10",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "TYC Investment Pte Ltd",
+      "Law_Firm": "TSMP Law Corporation",
+      "Counsel": [
+        "Thio Shen Yi, SC",
+        "Lim Shaochun, Freddie",
+        "Tan Pei Qian, Rachel"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1979-01-01",
+          "Text": "TYC Investment Pte Ltd was established in 1979 as a family holding company for shares in The Hour Glass Limited and other family assets."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2014-03-31",
+          "Text": "As at the financial year ended 2014-03-31, TYC Investment Pte Ltd held 108,288,397 ordinary shares in The Hour Glass Limited, representing approximately 46% of its issued share capital."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2014-01-01",
+          "Text": "TYC Investment Pte Ltd owned two bungalows at 40A Nassim Road and 40C Nassim Road."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2014-01-01",
+          "Text": "The second, third and fourth plaintiffs were private companies limited by shares and wholly-owned subsidiaries of TYC Investment Pte Ltd, each owning a condominium unit in the Nassim Road area."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1979-01-01",
+          "Text": "From its establishment, TYC Investment Pte Ltd functioned as the family holding company for the Tay and Chan family assets including the stake in The Hour Glass Limited."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-05-01",
+          "Text": "After the divorce in May 2010, TYC Investment Pte Ltd continued to hold a substantial part of the family assets for the Tay and Chan family."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-01-01",
+          "Text": "Under Article 8 of its articles of association, TYC Investment Pte Ltd designated Dr Henry Tay Yun Chwan and Ms Jannie Chan Siew Lee as permanent Governing Directors with authority to exercise all powers, authorities and discretions vested in the directors generally, including convening general meetings and controlling other directors."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-01-01",
+          "Text": "Article 8 of the articles of association of TYC Investment Pte Ltd provided that any other directors appointed would be under the control of the two Governing Directors and bound to conform to their discretion regarding the company’s business."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2010-01-01",
+          "Text": "In terms of voting rights in TYC Investment Pte Ltd, Dr Henry Tay Yun Chwan held 46% and Ms Jannie Chan Siew Lee held 44% through founder shares, with the remaining ordinary shares held by their three children including their son Michael who held 5%."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-04-09",
+          "Text": "On 2010-04-09, a Deed of Settlement between Dr Henry Tay Yun Chwan and Ms Jannie Chan Siew Lee was executed to settle issues relating to division of matrimonial assets and maintenance."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-05-15",
+          "Text": "On 2012-05-15, an Agreement for Amendment to the Deed of Settlement and Settlement of Litigation between Dr Henry Tay Yun Chwan and Ms Jannie Chan Siew Lee was executed, which included amendments to the Deed of Settlement and provisions relating to the management of TYC Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-06-11",
+          "Text": "On 2012-06-11, a Deed among Dr Henry Tay Yun Chwan, Ms Jannie Chan Siew Lee and TYC Investment Pte Ltd was executed to bind TYC Investment Pte Ltd to matters relating to it as agreed in the earlier settlement documents."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-06-11",
+          "Text": "Pursuant to clause 2 of the 2012-06-11 deed, TYC Investment Pte Ltd became entitled to the benefit of and bound by the obligations in the Deed of Settlement and the 2012 amendment agreement that related to TYC Investment Pte Ltd, as if it were a party to the 2012 amendment agreement."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-15",
+          "Text": "Clause 15 of the 2012-05-15 amendment agreement provided that the agreement would be ineffective, null and void if TYC Investment Pte Ltd’s shareholders did not unanimously approve all matters in the agreement relating to TYC, if TYC did not enter into the 2012-06-11 deed, if TYC’s articles were not amended to give effect to the agreement, or if a court order approving the agreement was not obtained after those steps."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "The shareholders of TYC Investment Pte Ltd unanimously approved the provisions of the 2012-05-15 amendment agreement relating to TYC, and TYC entered into the 2012-06-11 deed and amended its articles to give effect to those terms."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Article 16 of the articles of association of TYC Investment Pte Ltd provided that TYC may not amend, vary or waive any of its rights or obligations under or pursuant to the 2012-06-11 deed unless such change has been unanimously consented to by all shareholders of TYC."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Article 16 of the articles of association of TYC Investment Pte Ltd further provided that Article 16 itself could only be amended, varied or repealed with the unanimous consent of all TYC shareholders."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Through the combination of unanimous shareholder approval, the 2012-06-11 deed, and Article 16, the terms of the 2012-05-15 amendment agreement relating to TYC Investment Pte Ltd were entrenched as part of TYC’s constitutional framework."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Clause 10 of the 2012-05-15 amendment agreement introduced a payment voucher system for all future payments by TYC Investment Pte Ltd, requiring that neither Dr Henry Tay nor Ms Jannie Chan would sign a cheque on TYC’s bank accounts unless the other had signed a voucher approving the payment."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-07-01",
+          "Text": "In July 2012, shortly after TYC Investment Pte Ltd entered into the 2012-06-11 deed, Ms Jannie Chan refused to approve certain payments by TYC, including fees payable to KPMG Services Pte Ltd and expenses related to the properties at 40A and 40C Nassim Road."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Article 7 of the articles of association of TYC Investment Pte Ltd classified all issued shares other than the two founder shares held by Dr Henry Tay and Ms Jannie Chan as ordinary shares and restricted the holding of the founder shares to those two individuals."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Article 73 of the articles of association of TYC Investment Pte Ltd adopted the Table A provision that the business of the company shall be managed by or under the direction of the directors, who may exercise all the powers of the company except those required by law or the constitution to be exercised in general meeting."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2011-07-25",
+          "Text": "Clause 5(a) of Appendix B of the 2010-04-09 Deed of Settlement provided that ownership of 40C Nassim Road would be transferred to TYC Investment Pte Ltd and that TYC would be responsible for all costs, taxes and outgoings on 40C Nassim Road after the transfer."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-07-25",
+          "Text": "Between late July 2011 and late July 2013, expenses amounting to $299,880.56 were incurred in respect of 40C Nassim Road, for which reimbursement from TYC Investment Pte Ltd was later sought by Dr Henry Tay."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-07-25",
+          "Text": "By late July 2013, Dr Henry Tay had also incurred expenses amounting to $60,988.02 in respect of 40A Nassim Road and sought reimbursement from TYC Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-04-09",
+          "Text": "Clause 16 of Appendix B of the 2010-04-09 Deed of Settlement provided that ownership of 40A Nassim Road would remain with TYC Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Prior to the disputes, up to approximately 22 million shares in The Hour Glass Limited held by TYC Investment Pte Ltd were pledged with Oversea-Chinese Banking Corporation Limited as security for personal loans to Ms Jannie Chan and companies under her control."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-04-09",
+          "Text": "Clause 11 of Appendix B of the 2010-04-09 Deed of Settlement, read with clause 8 of the 2012-05-15 amendment agreement, required Ms Jannie Chan to procure the redemption and return of approximately 22 million pledged shares in The Hour Glass Limited held by TYC Investment Pte Ltd by 2013-04-09."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-01",
+          "Text": "From April 2013 to August 2013, solicitors for Dr Henry Tay sent a series of letters reminding Ms Jannie Chan of the requirement under the settlement documents to redeem the pledged shares in The Hour Glass Limited by 2013-04-09."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-09-20",
+          "Text": "As at 2013-09-20, approximately 6.53 million shares in The Hour Glass Limited held by TYC Investment Pte Ltd remained pledged with Oversea-Chinese Banking Corporation Limited and had not been redeemed."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-04-09",
+          "Text": "Clause 11(d) of Appendix B of the 2010-04-09 Deed of Settlement provided that if the pledged shares in The Hour Glass Limited were not fully redeemed and returned to TYC Investment Pte Ltd by 2013-04-09, TYC would be entitled to apply dividend payments due to be paid to Ms Jannie Chan towards redemption of its shares and to redeem its shares itself, with the redemption amount becoming a debt due from Ms Jannie Chan to TYC on demand and set-off against future dividends due to her."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Because of the payment voucher system in clause 10 of the 2012-05-15 amendment agreement, any payment by TYC Investment Pte Ltd to redeem pledged shares in The Hour Glass Limited required approval from both Dr Henry Tay and Ms Jannie Chan."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-09-04",
+          "Text": "On 2013-09-04, an extraordinary general meeting of TYC Investment Pte Ltd was held, convened by Dr Henry Tay, to consider resolutions addressing payment approvals and the redemption of pledged shares in The Hour Glass Limited."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-09-04",
+          "Text": "Notice of the 2013-09-04 extraordinary general meeting of TYC Investment Pte Ltd was sent by post to shareholders including Ms Jannie Chan and the three children of the family."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-09-04",
+          "Text": "On 2013-09-04, only Dr Henry Tay and his son Michael attended the extraordinary general meeting of TYC Investment Pte Ltd, and they together held 51% of the voting rights in TYC."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-09-04",
+          "Text": "At the 2013-09-04 extraordinary general meeting of TYC Investment Pte Ltd, 18 resolutions were tabled and passed by the attending shareholders."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-09-04",
+          "Text": "Resolutions 1(1), 1(2) and 3(6) passed at the 2013-09-04 extraordinary general meeting of TYC Investment Pte Ltd approved that TYC and Dr Henry Tay, as director, take steps including appointing solicitors and commencing court proceedings in connection with procuring the redemption and return of the outstanding pledged shares in The Hour Glass Limited."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-09-04",
+          "Text": "Resolutions 4(1), 4(2), 5(1) and 5(2) passed at the 2013-09-04 extraordinary general meeting of TYC Investment Pte Ltd approved payment to Dr Henry Tay of expenses related to 40A and 40C Nassim Road and authorised him to sign cheques and vouchers alone to effect reimbursement."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-09-04",
+          "Text": "Resolutions 4(3) and 5(3) passed at the 2013-09-04 extraordinary general meeting authorised Dr Henry Tay, as director of TYC Investment Pte Ltd, to take steps on TYC’s behalf in relation to payment of the Nassim Road expenses."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-09-04",
+          "Text": "Resolutions 6(1) and 6(2) passed at the 2013-09-04 extraordinary general meeting of TYC Investment Pte Ltd approved reimbursement to Amstay Pte Ltd of the KPMG fees and authorised Dr Henry Tay to sign cheques and vouchers alone to effect reimbursement."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-09-04",
+          "Text": "Resolution 6(3) passed at the 2013-09-04 extraordinary general meeting authorised Dr Henry Tay, as director of TYC Investment Pte Ltd, to take steps on TYC’s behalf in relation to payment of the KPMG fees to Amstay Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-12-01",
+          "Text": "In late 2012, KPMG Services Pte Ltd was engaged by Dr Henry Tay and Ms Jannie Chan to identify and advise TYC Investment Pte Ltd and its shareholders on accounting and tax issues arising from the divorce settlement documents, under a service proposal approved by both of them."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-12-01",
+          "Text": "The service proposal from KPMG Services Pte Ltd in late 2012 set out the scope of work relating to accounting and tax issues arising from the divorce settlement documents and quoted a fee of $18,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-04-01",
+          "Text": "In April 2013, after issuing its final report, KPMG Services Pte Ltd submitted an invoice to TYC Investment Pte Ltd for $19,424.05 including GST and disbursements."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-01",
+          "Text": "Following receipt of the KPMG invoice in April 2013, a payment voucher for the KPMG fees was prepared on the instructions of Dr Henry Tay and presented to Ms Jannie Chan for her approval and signature under the payment voucher system."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-01",
+          "Text": "In April 2013, Ms Jannie Chan declined to sign the payment voucher for the KPMG fees, and TYC Investment Pte Ltd did not make payment of the invoice at that time."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-08-06",
+          "Text": "On 2013-08-06, Amstay Pte Ltd, a company associated with Dr Henry Tay, paid the KPMG fees of $19,424.05 and then sought reimbursement of that amount from TYC Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-07-25",
+          "Text": "By late July 2013, Ms Jannie Chan had not approved reimbursement by TYC Investment Pte Ltd of the Nassim Road expenses claimed by Dr Henry Tay."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-09-09",
+          "Text": "On 2013-09-09, Dr Henry Tay signed a letter of engagement appointing TSMP Law Corporation as solicitors for TYC Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-09-11",
+          "Text": "On 2013-09-11, Dr Henry Tay informed the other shareholders of TYC Investment Pte Ltd by email that TSMP Law Corporation had been appointed as solicitors for TYC."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-09-15",
+          "Text": "In September 2013, through her then solicitors, Ms Jannie Chan informed Dr Henry Tay and TSMP Law Corporation that she did not recognise TSMP as having authority to act on behalf of TYC Investment Pte Ltd and proposed that Mr Michael Hwang SC be appointed as TYC’s solicitor instead."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-09-15",
+          "Text": "In response in September 2013, solicitors for Dr Henry Tay stated that Ms Jannie Chan had received the requisite notice of the 2013-09-04 extraordinary general meeting and that TSMP Law Corporation had already been appointed as solicitors for TYC Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-09-15",
+          "Text": "TSMP Law Corporation, on behalf of TYC Investment Pte Ltd, communicated to Ms Jannie Chan that TSMP’s appointment as solicitors for TYC was proper and that in a board deadlock the powers of management rested with shareholders."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-09-15",
+          "Text": "Following the 2013-09-04 extraordinary general meeting and the appointment of TSMP Law Corporation, expenses were incurred by TYC Investment Pte Ltd including legal fees payable to TSMP and corporate secretarial fees payable to Express Co Registration & Management Ltd for work related to the extraordinary general meeting."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-09-15",
+          "Text": "After the appointment of TSMP Law Corporation and the 2013-09-04 extraordinary general meeting, Ms Jannie Chan declined to approve payment by TYC Investment Pte Ltd of TSMP’s legal fees and Express Co Registration & Management Ltd’s corporate secretarial fees."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-09-15",
+          "Text": "The corporate secretarial fees payable by TYC Investment Pte Ltd to Express Co Registration & Management Ltd for services related to the 2013-09-04 extraordinary general meeting amounted to $321."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-01-01",
+          "Text": "In 2011, before the 2012 settlement documents, Dr Henry Tay commenced proceedings designated OS 1080 seeking an injunction to restrain Ms Jannie Chan from making unilateral payment decisions from TYC Investment Pte Ltd’s bank accounts; these proceedings were discontinued in June 2012 without the reliefs being obtained."
+        }
+      ],
+      "Issue": "Whether, in the context of TYC Investment Pte Ltd’s governance and the entrenched payment voucher system, payments for professional fees, property-related expenses, and share redemption-related costs could be effected without the joint approval of both Governing Directors when one director declined to approve such payments, and whether shareholder actions at a general meeting could validly authorise steps to address a board deadlock over these payments and related corporate actions.",
+      "Rule": "Under company law, the management of a company’s business is ordinarily exercised by its board of directors pursuant to statutory provisions and the company’s constitution, while shareholders in general meeting may exercise only those powers reserved to them by statute or the constitution. In situations where the board is unable or unwilling to act and no contractual mechanism exists to break the deadlock, limited reserve powers may be implied to the shareholders to take steps reasonably necessary to enable the company to act, provided such steps do not contravene express constitutional or contractual provisions. Contractual arrangements incorporated into a company’s constitution, including payment approval mechanisms and entrenched provisions, govern how corporate payments and obligations are to be executed unless unanimously varied in accordance with their terms.",
+      "Application": "TYC Investment Pte Ltd’s articles of association and the settlement documents placed management powers in the board while also introducing a payment voucher system requiring both Governing Directors to approve cheques. The same two individuals were the only directors and also major shareholders, and the payment mechanism applied to a range of obligations including property expenses, professional fees, and potential self-funded redemption of pledged shares. When one director declined to approve certain payments, the board could not implement those payments despite existing contractual provisions on TYC’s obligations. The shareholders, including the two directors and their son, convened an extraordinary general meeting and passed resolutions authorising steps such as appointing solicitors and approving reimbursements, in circumstances where the board structure and entrenched provisions did not provide an alternative internal mechanism to resolve the deadlock. These events created a conflict between the payment approval mechanism and the need to carry out corporate obligations and actions, leading to the present proceedings to determine the validity and effect of shareholder resolutions and the extent to which payments and related actions could proceed without joint approval under the existing governance framework.",
+      "Judicial_Reasoning_Log": "The judgment analyses the division of powers between directors and shareholders under section 157A of the Companies Act and Article 73 of TYC’s articles, concluding that management powers ordinarily rest with the board and cannot generally be overridden by ordinary shareholder resolutions. The judge reviews English, Australian, and Singaporean authorities on the rule in Foss v Harbottle, the concept of shareholder reserve powers, and the impact of Salomon and Automatic Self-Cleansing Filter Syndicate Co Ltd v Cunninghame. He adopts a narrow doctrine of reserve powers, implied on the basis of necessity and business efficacy, and sets out principles that reserve powers arise only when the board is unable or unwilling to act, cannot be used where the constitution provides another way to break deadlock, must be limited to what is reasonably necessary, and must comply with constitutional voting requirements. Applying these principles, the judge finds that TYC’s board was deadlocked because both directors had to approve payments under the payment clause and were the only directors, and that appointing additional directors would not resolve the deadlock due to Article 8 placing other directors under the control of the Governing Directors. The judge holds that in these circumstances it was reasonably necessary for the extraordinary general meeting to have a limited reserve power to authorise the commencement of proceedings and the appointment of solicitors, and that the resolutions passed at the EGM validly authorised TSMP Law Corporation to act for TYC. The judge rejects the argument that Article 76 on powers of attorney restricted the EGM’s ability to appoint solicitors. He then considers whether section 216A on statutory derivative actions displaces or limits shareholder reserve powers, concluding that section 216A is facilitative, primarily directed at minority actions, and does not prevent a majority in general meeting from authorising proceedings in exceptional deadlock situations. The judgment distinguishes between derivative actions and actions brought by the company through reserve powers, emphasising that once the company is properly before the court, the derivative mechanism is unnecessary. The judge also notes that minority shareholders can seek to discontinue majority-initiated proceedings under section 216A(2), providing a check on majority control. On the scope of the EGM’s powers, the judge holds that the EGM could not authorise Dr Henry Tay to unilaterally sign cheques in a way that would override the entrenched payment clause, as this would effectively rewrite the parties’ contractual arrangements and contradict the requirement of joint approval. Turning to the plaintiffs’ alternative basis for relief, the judge examines the proposed implied term that the power to approve payments under the payment clause could not be exercised dishonestly, for an improper purpose, capriciously or arbitrarily. Applying the Sembcorp Marine framework, he accepts that there was a gap in the settlement documents because the parties did not contemplate the possibility that the joint approval mechanism could be used to withhold payments and create deadlock. However, he concludes that it is not necessary to imply the proposed term for business efficacy because the directors already owe broad statutory and general law duties under section 157(1) of the Companies Act, including obligations to act bona fide in the interests of the company, to avoid improper purposes, and to exercise reasonable diligence. The judge reasons that any use of the payment approval power in a dishonest, capricious, arbitrary or improper manner would already fall within potential breaches of these existing duties, making the implied term redundant. He distinguishes authorities such as Paragon Finance and Equitable Life on the basis of the parties’ relative bargaining positions and the absence of equivalent overarching duties in those contexts. The judge therefore declines to imply the term and instead treats the directors’ conduct as governed by their statutory and general law duties. The judgment further addresses the plaintiffs’ reliance on alleged breaches of fiduciary duties and the availability of specific performance under section 409A of the Companies Act, but ultimately confines the relief to what is consistent with the contractual and constitutional framework and the limited reserve powers recognised. The court’s final orders include upholding the validity of TSMP’s appointment, resolving the major monetary issues through consent orders regarding the redemption of pledged shares and reimbursement of Nassim Road expenses, and determining responsibility for the remaining disputed fees in light of the legal analysis."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No 895 of 2013",
+      "Coram": "Lee Kim Shin JC",
+      "Judge": "Lee Kim Shin",
+      "Date": "2014-10-10",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Tay Yun Chwan Henry",
+      "Law_Firm": "Tan Rajah & Cheah",
+      "Counsel": [
+        "Chelva Retnam Rajah, SC",
+        "Sayana Baratham",
+        "Megan Chia"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1979-01-01",
+          "Text": "Dr Henry Tay Yun Chwan co-founded The Hour Glass Limited in 1979 with Ms Jannie Chan Siew Lee."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1979-01-01",
+          "Text": "From 1979, Dr Henry Tay Yun Chwan served as a founder of The Hour Glass Limited, a luxury watch retailer with multiple outlets across the Asia Pacific region."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1979-01-01",
+          "Text": "In 1979, Dr Henry Tay Yun Chwan and Ms Jannie Chan Siew Lee established TYC Investment Pte Ltd as the family holding company for their stake in The Hour Glass Limited and other family assets."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-01-01",
+          "Text": "Under Article 8 of the articles of association of TYC Investment Pte Ltd, Dr Henry Tay Yun Chwan was designated as a permanent Governing Director with authority to exercise all powers, authorities and discretions vested in the directors generally, including convening general meetings and controlling other directors."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Through a founder share in TYC Investment Pte Ltd, Dr Henry Tay Yun Chwan held 46% of the voting rights in the company."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2010-05-01",
+          "Text": "Dr Henry Tay Yun Chwan and Ms Jannie Chan Siew Lee were married for 41 years and their marriage ended in divorce in May 2010."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-04-09",
+          "Text": "On 2010-04-09, Dr Henry Tay Yun Chwan signed a Deed of Settlement with Ms Jannie Chan Siew Lee to settle issues relating to division of matrimonial assets and maintenance."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-05-15",
+          "Text": "On 2012-05-15, Dr Henry Tay Yun Chwan signed an Agreement for Amendment to the Deed of Settlement and Settlement of Litigation with Ms Jannie Chan Siew Lee, which included provisions on the management of TYC Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-06-11",
+          "Text": "On 2012-06-11, Dr Henry Tay Yun Chwan signed a deed with Ms Jannie Chan Siew Lee and TYC Investment Pte Ltd to bind TYC to matters relating to it as agreed in the earlier settlement documents."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-15",
+          "Text": "Clause 10 of the 2012-05-15 amendment agreement, agreed by Dr Henry Tay Yun Chwan and Ms Jannie Chan Siew Lee, introduced a payment voucher system under which neither would sign a cheque on TYC Investment Pte Ltd’s bank accounts unless the other had signed a voucher approving the payment."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-01-01",
+          "Text": "In 2011, before the 2012 settlement documents, Dr Henry Tay Yun Chwan commenced proceedings designated OS 1080 seeking an injunction to restrain Ms Jannie Chan Siew Lee from making unilateral payment decisions from TYC Investment Pte Ltd’s bank accounts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-06-01",
+          "Text": "In June 2012, proceedings OS 1080 commenced by Dr Henry Tay Yun Chwan were discontinued without the reliefs sought being obtained."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-12-01",
+          "Text": "In late 2012, together with Ms Jannie Chan Siew Lee, Dr Henry Tay Yun Chwan engaged KPMG Services Pte Ltd to identify and advise TYC Investment Pte Ltd and its shareholders on accounting and tax issues arising from the divorce settlement documents."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-12-01",
+          "Text": "In late 2012, Dr Henry Tay Yun Chwan approved KPMG Services Pte Ltd’s service proposal and letter of engagement, which set out the scope of work and quoted a fee of $18,000."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-01",
+          "Text": "After KPMG Services Pte Ltd issued its final report in April 2013 and invoiced TYC Investment Pte Ltd, Dr Henry Tay Yun Chwan instructed that a payment voucher be prepared for the KPMG fees and presented to Ms Jannie Chan Siew Lee for approval under the payment voucher system."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-01",
+          "Text": "In April 2013, Dr Henry Tay Yun Chwan took the position that KPMG Services Pte Ltd had performed work in accordance with the agreed scope and that TYC Investment Pte Ltd should pay the invoiced fees."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-08-06",
+          "Text": "On 2013-08-06, a company associated with Dr Henry Tay Yun Chwan, Amstay Pte Ltd, paid the KPMG Services Pte Ltd invoice of $19,424.05 and then sought reimbursement of that amount from TYC Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2011-07-25",
+          "Text": "Between late July 2011 and late July 2013, Dr Henry Tay Yun Chwan incurred expenses totalling $299,880.56 in respect of 40C Nassim Road and later sought reimbursement of these expenses from TYC Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-07-25",
+          "Text": "By late July 2013, Dr Henry Tay Yun Chwan had incurred expenses totalling $60,988.02 in respect of 40A Nassim Road and sought reimbursement from TYC Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-01",
+          "Text": "From April 2013 to August 2013, solicitors acting for Dr Henry Tay Yun Chwan sent letters to Ms Jannie Chan Siew Lee reminding her of the requirement under the settlement documents to redeem the pledged shares in The Hour Glass Limited held by TYC Investment Pte Ltd by 2013-04-09."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-09-04",
+          "Text": "On 2013-09-04, as a shareholder and director, Dr Henry Tay Yun Chwan convened and attended an extraordinary general meeting of TYC Investment Pte Ltd to address issues arising from payment approvals and the redemption of pledged shares."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-09-04",
+          "Text": "At the 2013-09-04 extraordinary general meeting of TYC Investment Pte Ltd, Dr Henry Tay Yun Chwan voted in favour of 18 resolutions, including resolutions authorising steps to procure redemption of outstanding pledged shares, reimbursement of Nassim Road expenses, reimbursement of KPMG fees to Amstay Pte Ltd, and the appointment of solicitors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-09-09",
+          "Text": "On 2013-09-09, acting for and on behalf of TYC Investment Pte Ltd, Dr Henry Tay Yun Chwan signed a letter of engagement appointing TSMP Law Corporation as solicitors for TYC."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-09-11",
+          "Text": "On 2013-09-11, Dr Henry Tay Yun Chwan sent an email to the other shareholders of TYC Investment Pte Ltd informing them of the appointment of TSMP Law Corporation as solicitors for TYC."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-09-15",
+          "Text": "In September 2013, through his solicitors Tan Rajah & Cheah, Dr Henry Tay Yun Chwan responded to Ms Jannie Chan Siew Lee’s position on TSMP Law Corporation’s authority by stating that she had received the requisite notice of the 2013-09-04 extraordinary general meeting and that TSMP had already been appointed as solicitors for TYC Investment Pte Ltd."
+        }
+      ],
+      "Issue": "Whether, given his role as Governing Director and major shareholder of TYC Investment Pte Ltd, Dr Henry Tay Yun Chwan could rely on shareholder resolutions and existing settlement arrangements to implement payments and corporate actions in circumstances where joint approval under the payment voucher system was not forthcoming from the other Governing Director.",
+      "Rule": "Company law allocates management powers to directors the company’s constitution, while shareholders may act through general meetings within the scope of powers reserved or implied to them. Where a board is unable or unwilling to act and no contractual mechanism exists to resolve the impasse, shareholders may in limited circumstances exercise reserve powers to authorise necessary actions, provided these do not contradict express contractual or constitutional provisions. Directors’ conduct in initiating corporate actions and engaging advisers is assessed against statutory and general law duties and the governance framework agreed in binding settlement documents.",
+      "Application": "As a permanent Governing Director and holder of 46% of the voting rights in TYC Investment Pte Ltd, Dr Henry Tay Yun Chwan participated in settlement arrangements that entrenched a joint payment approval mechanism and bound TYC to various obligations. When payments for professional services, property expenses, and share redemption-related steps were not approved by the other Governing Director, he convened an extraordinary general meeting and supported resolutions authorising steps such as appointing solicitors and approving reimbursements. He also engaged KPMG Services Pte Ltd and TSMP Law Corporation and caused related expenses to be incurred or paid through an associated company, seeking reimbursement from TYC. These actions occurred within a governance structure that required joint approval for payments and limited the ability to alter entrenched provisions without unanimous shareholder consent, creating a tension between his efforts to implement obligations and the constraints of the agreed payment mechanism.",
+      "Judicial_Reasoning_Log": "The court considers Dr Henry Tay Yun Chwan’s actions primarily in the context of the governance framework of TYC Investment Pte Ltd and the settlement documents. The judge notes that Henry, as a permanent Governing Director and major shareholder, participated in creating the payment voucher system and the entrenchment of the settlement terms into TYC’s constitution. When faced with non-approval of payments by the other Governing Director, Henry convened an extraordinary general meeting and supported resolutions authorising the commencement of proceedings and the appointment of TSMP Law Corporation. The judge evaluates whether these steps fell within valid shareholder reserve powers and whether they conflicted with the entrenched payment mechanism. The court ultimately upholds the validity of the EGM’s authorisation to commence proceedings and appoint solicitors, recognising a limited reserve power in the shareholders due to the board deadlock and absence of an effective contractual mechanism to resolve it. However, the judge rejects the notion that the EGM could authorise Henry to unilaterally sign cheques in a way that would override the joint approval requirement, as this would effectively rewrite the contractual arrangements. The judgment also addresses Henry’s reliance on an implied term restricting the exercise of the payment approval power and on alleged breaches of fiduciary duties by the other director, concluding that existing statutory and general law duties already govern such conduct and that the proposed implied term is unnecessary. The court’s reasoning frames Henry’s conduct within these legal constraints and grants relief only to the extent consistent with the limited reserve powers and the existing contractual framework."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No 895 of 2013",
+      "Coram": "Lee Kim Shin JC",
+      "Judge": "Lee Kim Shin",
+      "Date": "2014-10-10",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Chan Siew Lee Jannie",
+      "Law_Firm": "Eugene Thuraisingam",
+      "Counsel": [
+        "Eugene Thuraisingam",
+        "Jerrie Tan Qiu Lin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1979-01-01",
+          "Text": "Ms Jannie Chan Siew Lee co-founded The Hour Glass Limited in 1979 with Dr Henry Tay Yun Chwan."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1979-01-01",
+          "Text": "From 1979, Ms Jannie Chan Siew Lee served as a founder of The Hour Glass Limited, a luxury watch retailer with multiple outlets across the Asia Pacific region."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1979-01-01",
+          "Text": "In 1979, Ms Jannie Chan Siew Lee and Dr Henry Tay Yun Chwan established TYC Investment Pte Ltd as the family holding company for their stake in The Hour Glass Limited and other family assets."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-01-01",
+          "Text": "Under Article 8 of the articles of association of TYC Investment Pte Ltd, Ms Jannie Chan Siew Lee was designated as a permanent Governing Director with authority to exercise all powers, authorities and discretions vested in the directors generally, including convening general meetings and controlling other directors."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Through a founder share in TYC Investment Pte Ltd, Ms Jannie Chan Siew Lee held 44% of the voting rights in the company."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2010-05-01",
+          "Text": "Ms Jannie Chan Siew Lee and Dr Henry Tay Yun Chwan were married for 41 years and their marriage ended in divorce in May 2010."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-04-09",
+          "Text": "On 2010-04-09, Ms Jannie Chan Siew Lee signed a Deed of Settlement with Dr Henry Tay Yun Chwan to settle issues relating to division of matrimonial assets and maintenance."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-05-15",
+          "Text": "On 2012-05-15, Ms Jannie Chan Siew Lee signed an Agreement for Amendment to the Deed of Settlement and Settlement of Litigation with Dr Henry Tay Yun Chwan, which included provisions on the management of TYC Investment Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-06-11",
+          "Text": "On 2012-06-11, Ms Jannie Chan Siew Lee signed a deed with Dr Henry Tay Yun Chwan and TYC Investment Pte Ltd to bind TYC to matters relating to it as agreed in the earlier settlement documents."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-15",
+          "Text": "Clause 10 of the 2012-05-15 amendment agreement, agreed by Ms Jannie Chan Siew Lee and Dr Henry Tay Yun Chwan, introduced a payment voucher system under which neither would sign a cheque on TYC Investment Pte Ltd’s bank accounts unless the other had signed a voucher approving the payment."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Prior to the disputes, Ms Jannie Chan Siew Lee pledged up to approximately 22 million shares in The Hour Glass Limited held by TYC Investment Pte Ltd with Oversea-Chinese Banking Corporation Limited in return for personal loans to her and companies under her control."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-04-09",
+          "Text": "Clause 11 of Appendix B of the 2010-04-09 Deed of Settlement, read with clause 8 of the 2012-05-15 amendment agreement, required Ms Jannie Chan Siew Lee to procure the redemption and return of approximately 22 million pledged shares in The Hour Glass Limited held by TYC Investment Pte Ltd by 2013-04-09."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-07-01",
+          "Text": "In July 2012, shortly after TYC Investment Pte Ltd entered into the 2012-06-11 deed, Ms Jannie Chan Siew Lee refused to approve certain payments by TYC, including fees payable to KPMG Services Pte Ltd and expenses related to the properties at 40A and 40C Nassim Road."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-01",
+          "Text": "In April 2013, after a payment voucher for KPMG Services Pte Ltd’s invoice was prepared on the instructions of Dr Henry Tay Yun Chwan and presented to her, Ms Jannie Chan Siew Lee declined to sign the voucher, and TYC Investment Pte Ltd did not pay the invoice at that time."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-07-25",
+          "Text": "By late July 2013, Ms Jannie Chan Siew Lee had not approved reimbursement by TYC Investment Pte Ltd of the Nassim Road expenses claimed by Dr Henry Tay Yun Chwan for 40A and 40C Nassim Road."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-04-01",
+          "Text": "From April 2013 to August 2013, Ms Jannie Chan Siew Lee received letters from solicitors acting for Dr Henry Tay Yun Chwan reminding her of the requirement under the settlement documents to redeem the pledged shares in The Hour Glass Limited held by TYC Investment Pte Ltd by 2013-04-09."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-09-20",
+          "Text": "As at 2013-09-20, approximately 6.53 million shares in The Hour Glass Limited held by TYC Investment Pte Ltd remained pledged with Oversea-Chinese Banking Corporation Limited and had not been redeemed by Ms Jannie Chan Siew Lee."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-09-04",
+          "Text": "Ms Jannie Chan Siew Lee received notice by post of the extraordinary general meeting of TYC Investment Pte Ltd scheduled for 2013-09-04 but did not attend the meeting."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-09-15",
+          "Text": "In September 2013, through her then solicitors, Ms Jannie Chan Siew Lee informed Dr Henry Tay Yun Chwan and TSMP Law Corporation that she did not recognise TSMP as having authority to act on behalf of TYC Investment Pte Ltd and argued that management and administrative powers vested in the board of directors, not in shareholders acting through resolutions at the extraordinary general meeting."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-09-15",
+          "Text": "In the same communication in September 2013, Ms Jannie Chan Siew Lee’s solicitors stated that a directors’ meeting, rather than a shareholders’ meeting, should have been convened to decide on the appointment of solicitors for TYC Investment Pte Ltd and proposed the appointment of Mr Michael Hwang SC as TYC’s solicitor."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-09-15",
+          "Text": "After the 2013-09-04 extraordinary general meeting and the appointment of TSMP Law Corporation, Ms Jannie Chan Siew Lee declined to approve payment by TYC Investment Pte Ltd of TSMP’s legal fees and Express Co Registration & Management Ltd’s corporate secretarial fees related to the extraordinary general meeting."
+        }
+      ],
+      "Issue": "Whether, in light of her role as Governing Director, shareholder, and contracting party to the settlement documents, Ms Jannie Chan Siew Lee’s non-approval of certain payments and her position on the authority of solicitors and the use of shareholder resolutions affected TYC Investment Pte Ltd’s ability to implement payment obligations and corporate actions under the agreed governance and contractual framework.",
+      "Rule": "Directors and shareholders operate within a governance structure defined by the company’s constitution and binding agreements. Payment mechanisms requiring joint approval constrain the execution of corporate obligations unless varied in accordance with entrenched procedures. Where a board is deadlocked and no internal mechanism exists to resolve the impasse, limited shareholder reserve powers may be implied to authorise necessary actions, but such powers cannot override express contractual or constitutional requirements. Directors’ decisions regarding payment approvals and recognition of corporate agents are evaluated against this framework and applicable statutory and general law duties.",
+      "Application": "As a permanent Governing Director and holder of 44% of the voting rights in TYC Investment Pte Ltd, Ms Jannie Chan Siew Lee agreed to a payment voucher system requiring joint approval for cheques and undertook obligations in the settlement documents, including procuring redemption of pledged shares. Her subsequent refusal to approve payments for professional fees, property-related expenses, and corporate secretarial and legal fees, as well as her non-attendance at the extraordinary general meeting and her challenge to the authority of solicitors appointed pursuant to shareholder resolutions, contributed to a situation in which TYC’s board could not implement certain payments or actions. These events occurred within a framework where the payment mechanism and entrenchment provisions limited unilateral changes, and where any implied shareholder reserve powers had to be reconciled with the express requirement of joint approval and the contractual obligations concerning pledged shares and property expenses.",
+      "Judicial_Reasoning_Log": "The court examines Ms Jannie Chan Siew Lee’s conduct primarily through the lens of the governance and contractual arrangements governing TYC Investment Pte Ltd. The judge notes that Jannie, as a permanent Governing Director and major shareholder, agreed to the payment voucher system and to obligations concerning the redemption of pledged shares and responsibility for property-related expenses. Her refusal to approve certain payments and her stance on the authority of TSMP Law Corporation and the validity of shareholder resolutions are treated as elements contributing to a board deadlock. The judgment does not characterise her motives but assesses the legal consequences of her actions within the framework of section 157A of the Companies Act, TYC’s articles, and the settlement documents. The court recognises that the joint approval mechanism and the concentration of directorships in the two ex-spouses created a structural vulnerability to deadlock. In resolving the dispute, the judge upholds the limited reserve power of the extraordinary general meeting to authorise the commencement of proceedings and the appointment of solicitors, while maintaining that the entrenched payment clause requiring joint approval cannot be overridden by shareholder resolutions. The court declines to imply a contractual term restricting the exercise of the payment approval power beyond existing statutory and general law duties, concluding that such duties already govern the manner in which directors may exercise their powers. The reasoning frames Jannie’s non-approval of payments and her objections to TSMP’s authority as part of the factual matrix that triggered the need to consider reserve powers and the interaction between the settlement documents and TYC’s constitutional arrangements, without making findings on her subjective intentions."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  }
+]

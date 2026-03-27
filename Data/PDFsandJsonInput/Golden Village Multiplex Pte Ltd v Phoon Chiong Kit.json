@@ -1,0 +1,284 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit 557/2005",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2006-02-28",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Golden Village Multiplex Pte Ltd",
+      "Law_Firm": "Wong Tan and Molly Lim LLC",
+      "Counsel": [
+        "Philip Ling",
+        "Ambrose Chia Heng Guan"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2000-02-24",
+          "Text": "Golden Village Multiplex Pte Ltd is a Singapore company which owns and operates cinema complexes under the 'Golden Village' name."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-02-24",
+          "Text": "A Shareholders' Agreement dated 24 February 2000 was signed between Golden Village Multiplex Pte Ltd, Village Cinemas Australia Pty Ltd, Golden Screen Limited and Dartina Development Limited."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2000-02-24",
+          "Text": "Dartina Development Limited owns all the issued and paid-up shares of Golden Village Multiplex Pte Ltd through its wholly-owned subsidiary, Golden Village Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-02-24",
+          "Text": "Under the Shareholders' Agreement, Village Cinemas Australia Pty Ltd and Golden Screen Limited each obtained the right to nominate three directors for appointment to the board of directors of Golden Village Multiplex Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-02-24",
+          "Text": "Following the Shareholders' Agreement, Kirk Senior, Graham William Burke and Peter Edwin Foo were nominated and appointed by Village Cinemas Australia Pty Ltd as directors of Golden Village Multiplex Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-02-24",
+          "Text": "Following the Shareholders' Agreement, Raymond Chow, Roberta Chin Chow and Phoon Chiong Kit were nominated and appointed by Golden Screen Limited as directors of Golden Village Multiplex Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2002-09-30",
+          "Text": "By a Letter of Intent dated 30 September 2002 from IMAX Corporation and accepted by Golden Harvest Films Distribution (Pte) Ltd and Village Roadshow (Singapore) Pte Ltd, it was agreed that Golden Harvest Films Distribution (Pte) Ltd and Village Roadshow (Singapore) Pte Ltd would lease from IMAX a large-format projection equipment and technology for installation in an IMAX theatre at the multiplex cinema complex owned and operated by Golden Village Multiplex Pte Ltd at Great World City."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2002-12-23",
+          "Text": "An Agreement for Lease dated 23 December 2002 was entered into under which IMAX Corporation agreed to lease to Golden Harvest Films Distribution (Pte) Ltd and Village Roadshow (Singapore) Pte Ltd the IMAX system for use in the IMAX theatre at Great World City for 20 years commencing 23 December 2002."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2002-12-23",
+          "Text": "In consideration of the Agreement for Lease, Golden Village Holdings Pte Ltd and Golden Harvest Entertainment (Holdings) Limited executed a guarantee dated 23 December 2002 in favour of IMAX Corporation."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-01-05",
+          "Text": "IMAX Corporation delivered the IMAX system to the IMAX theatre at Great World City and it was installed and operated by Golden Village Multiplex Pte Ltd from 5 January 2005."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2003-10-17",
+          "Text": "With the express consent of IMAX Corporation, Golden Village Holdings Pte Ltd and Golden Harvest Entertainment (Holdings) Limited, Golden Harvest Films Distribution (Pte) Ltd and Village Roadshow (Singapore) Pte Ltd assigned all their respective rights and obligations under the Agreement for Lease to Golden Village Multiplex Pte Ltd by an assignment agreement dated 17 October 2003."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2003-10-17",
+          "Text": "The assignment agreement dated 17 October 2003 transferred to Golden Village Multiplex Pte Ltd the rights and obligations of Golden Harvest Films Distribution (Pte) Ltd and Village Roadshow (Singapore) Pte Ltd under the Agreement for Lease with IMAX Corporation."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2004-02-11",
+          "Text": "By a Transfer Agreement dated 11 February 2004 between Village Cinemas Australia Pty Ltd, Village Roadshow (Singapore) Pte Ltd, Golden Harvest Films Distribution (Pte) Ltd, Golden Harvest Entertainment (Holdings) Limited and Golden Village Holdings Pte Ltd, the parties agreed that Golden Village Multiplex Pte Ltd's rights and obligations under the IMAX arrangements would be transferred to Golden Harvest Films Distribution (Pte) Ltd or to a company within the Golden Harvest group, and that Golden Harvest Entertainment (Holdings) Limited would accept a transfer of the obligations under the guarantee dated 23 December 2002."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2004-02-11",
+          "Text": "Clause 1 of the Transfer Agreement provided that if the number of paid admissions to the IMAX theatre fell below 212,000 in any period of 12 consecutive months, Golden Village Multiplex Pte Ltd would be entitled, at the request of Village Cinemas Australia Pty Ltd, to call upon Golden Harvest Films Distribution (Pte) Ltd by a notice of transfer to accept a transfer of Golden Village Multiplex Pte Ltd's rights and obligations under the Letter of Intent and the Agreement for Lease, and that on the date of transfer Golden Harvest Films Distribution (Pte) Ltd would pay Golden Village Multiplex Pte Ltd a transfer sum equivalent to 50% of the amounts paid to IMAX Corporation by Golden Village Multiplex Pte Ltd under the Letter of Intent or the Agreement for Lease."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2003-11-23",
+          "Text": "On 23 November 2003, Golden Village Multiplex Pte Ltd issued a transfer notice to Golden Harvest Films Distribution (Pte) Ltd to take over the lease from IMAX Corporation pursuant to the Transfer Agreement."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-02-15",
+          "Text": "At a board meeting of Golden Village Multiplex Pte Ltd held on 15 February 2005 and attended by its directors including Phoon Chiong Kit, it was decided that the IMAX theatre at Great World City would cease operations."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-02-15",
+          "Text": "At the 15 February 2005 board meeting of Golden Village Multiplex Pte Ltd, it was directed that IMAX Corporation be informed of the company's decision to cease operations of the IMAX theatre and that Golden Harvest Entertainment (Holdings) Limited would identify the location to which the IMAX system would be transferred."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-01-01",
+          "Text": "At the 15 February 2005 board meeting of Golden Village Multiplex Pte Ltd, it was directed that the company continue to pay IMAX Corporation the fees payable under the Agreement for Lease but that the same amounts be recharged to Golden Harvest Films Distribution (Pte) Ltd with effect from 1 January 2005."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-15",
+          "Text": "At the 15 February 2005 board meeting of Golden Village Multiplex Pte Ltd, it was directed that Golden Harvest Films Distribution (Pte) Ltd be billed a 50% share of the fixed rent payable to IMAX Corporation under the Agreement for Lease, which amounted to $1.145 million as the transfer sum."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-01-01",
+          "Text": "Golden Village Multiplex Pte Ltd had paid a total sum of $2,290,680.08 to IMAX Corporation as at 1 January 2005."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-04-25",
+          "Text": "On 25 April 2005, Golden Village Multiplex Pte Ltd sent a letter to Golden Harvest Films Distribution (Pte) Ltd reminding that company and Golden Harvest Entertainment (Holdings) Limited that they had not complied with the transfer notice and demanded compliance by 6 May 2005."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-04-26",
+          "Text": "By a letter dated 26 April 2005 to Golden Village Multiplex Pte Ltd, signed by Phoon Chiong Kit on behalf of Golden Harvest Films Distribution (Pte) Ltd, Golden Harvest Films Distribution (Pte) Ltd stated that Golden Village Multiplex Pte Ltd had not properly promoted and marketed the IMAX theatre in Singapore and that the transfer notice had not been properly given."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-05-18",
+          "Text": "By a letter dated 18 May 2005 to the solicitors of Golden Village Multiplex Pte Ltd, signed by Phoon Chiong Kit on behalf of Golden Harvest Films Distribution (Pte) Ltd, Golden Harvest Films Distribution (Pte) Ltd repeated its position that Golden Village Multiplex Pte Ltd had not properly promoted and marketed the IMAX theatre and that the transfer notice had not been properly given."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-06-07",
+          "Text": "On 7 June 2005, Golden Village Multiplex Pte Ltd commenced Suit 413 of 2005 against Golden Harvest Films Distribution (Pte) Ltd and Golden Harvest Entertainment (Holdings) Limited in relation to the IMAX arrangements."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2005-08-05",
+          "Text": "On 5 August 2005, a warrant to act was signed by managing director Kenneth Tan on behalf of Golden Village Multiplex Pte Ltd authorising Wong Tan and Molly Lim LLC to act for the company in Suit 413 of 2005."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-07-05",
+          "Text": "On 5 July 2005, Golden Harvest Films Distribution (Pte) Ltd filed Summons in Chambers No 3346 of 2005 in Suit 413 of 2005 applying to strike out Golden Village Multiplex Pte Ltd's action on the basis that the warrant to act given to Wong Tan and Molly Lim LLC by Kenneth Tan was invalid."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-07-05",
+          "Text": "On 5 July 2005, in his capacity as a director of Golden Harvest Films Distribution (Pte) Ltd, Phoon Chiong Kit filed an affidavit in support of Summons in Chambers No 3346 of 2005 stating that the board of directors of Golden Village Multiplex Pte Ltd had not authorised the commencement of Suit 413 of 2005 and that Kenneth Tan had no authority to engage Wong Tan and Molly Lim LLC to commence those proceedings."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-07-05",
+          "Text": "On 5 July 2005, in his capacity as a director of Golden Harvest Films Distribution (Pte) Ltd, Phoon Chiong Kit executed the warrant to act of KhattarWong authorising that firm to act for Golden Harvest Films Distribution (Pte) Ltd in Suit 413 of 2005."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-09-15",
+          "Text": "In an affidavit filed on 15 September 2005, Phoon Chiong Kit stated that he had made statements at the 15 February 2005 board meeting of Golden Village Multiplex Pte Ltd before learning about the performance of the IMAX theatre in Taiwan and that after learning of the admission numbers to the IMAX theatre in Taiwan in March 2005 he considered that Golden Village Multiplex Pte Ltd had not properly promoted and marketed the IMAX theatre in Singapore."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-09-15",
+          "Text": "In the same 15 September 2005 affidavit, Phoon Chiong Kit stated that correspondence had passed between him, in his capacity as director of Golden Harvest Films Distribution (Pte) Ltd, and Golden Village Multiplex Pte Ltd as well as its solicitors on the issue of the transfer before Suit 413 of 2005 was commenced, and that Golden Village Multiplex Pte Ltd and its solicitors did not object to him writing in that capacity at that time."
+        }
+      ],
+      "Issue": "Whether the conduct of a director who holds positions in both Golden Village Multiplex Pte Ltd and Golden Harvest Films Distribution (Pte) Ltd in relation to the IMAX arrangements and related litigation is consistent with the standards of conduct required of directors under company law.",
+      "Rule": "Directors are act in the interests of their company, to use reasonable diligence in the discharge of their duties, and to avoid situations where their position and access to company information are used in a manner that creates conflicts between the interests of different companies in which they hold office.",
+      "Application": "Golden Village Multiplex Pte Ltd operated the IMAX theatre at Great World City under arrangements involving IMAX Corporation, Golden Harvest Films Distribution (Pte) Ltd, Village Roadshow (Singapore) Pte Ltd, Golden Village Holdings Pte Ltd and Golden Harvest Entertainment (Holdings) Limited. The company issued a transfer notice to Golden Harvest Films Distribution (Pte) Ltd under the Transfer Agreement and later commenced Suit 413 of 2005 when payment was not made. During this period, director Phoon Chiong Kit participated in board decisions of Golden Village Multiplex Pte Ltd concerning the IMAX theatre, signed correspondence on behalf of Golden Harvest Films Distribution (Pte) Ltd disputing Golden Village Multiplex Pte Ltd's conduct and the transfer notice, executed a warrant to act for KhattarWong to represent Golden Harvest Films Distribution (Pte) Ltd in Suit 413 of 2005, and filed affidavits in support of an application by Golden Harvest Films Distribution (Pte) Ltd to strike out Suit 413 of 2005 on the basis of the authority for Golden Village Multiplex Pte Ltd's warrant to act.",
+      "Judicial_Reasoning_Log": "The judgment discusses the statutory duties of directors under section 157 of the Companies Act and common law principles on conflicts of interest, including authorities such as Kea Holdings Pte Ltd v Gan Boon Hock, Charterbridge Corporation Ltd v Lloyds Bank Ltd, Intraco Ltd v Multi-Pak Singapore Pte Ltd, Duke Group Limited v Pilmer, and others. The judge analyses how these standards apply to a director who holds concurrent directorships in companies that are in litigation against each other and evaluates whether the director's actions in supporting one company in litigation against another company of which he is also a director are consistent with those duties. The court explains why certain arguments based on consent to concurrent directorships, alleged acquiescence, and the adequacy of damages are not accepted, and sets out the reasons for granting injunctive relief to restrain the director from participating in the dispute in a way that aligns with one side. The reasoning also covers the approach to the defendant's application concerning the validity of the plaintiff's warrant to act and the requirement for a board resolution, including the direction that the director abstain from voting on that resolution."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 557/2005",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2006-02-28",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Phoon Chiong Kit",
+      "Law_Firm": "KhattarWong",
+      "Counsel": [
+        "Chan Kia Pheng",
+        "Shaun Koh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-02-24",
+          "Text": "Phoon Chiong Kit was nominated and appointed by Golden Screen Limited as a director of Golden Village Multiplex Pte Ltd pursuant to the Shareholders' Agreement dated 24 February 2000."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-02-24",
+          "Text": "Phoon Chiong Kit was a director of Golden Harvest Films Distribution (Pte) Ltd together with Raymond Chow and Roberta Chin Chow."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-02-24",
+          "Text": "Phoon Chiong Kit was a director of Golden Harvest Entertainment (Holdings) Limited, a Bermudan company within the Golden Harvest group of companies."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2000-02-24",
+          "Text": "Golden Harvest Films Distribution (Pte) Ltd and Golden Harvest Entertainment (Holdings) Limited were part of the Golden Harvest group of companies headed by Raymond Chow, in which Phoon Chiong Kit held directorships."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-10-06",
+          "Text": "On 6 October 2003, as a director of Golden Village Multiplex Pte Ltd, Phoon Chiong Kit attended a board meeting where the performance of the IMAX theatre at Great World City was discussed."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2004-03-31",
+          "Text": "On 31 March 2004, as a director of Golden Village Multiplex Pte Ltd, Phoon Chiong Kit attended a board meeting where the performance of the IMAX theatre at Great World City was discussed."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-01-01",
+          "Text": "As a director of Golden Village Multiplex Pte Ltd and Golden Harvest Films Distribution (Pte) Ltd, Phoon Chiong Kit received internal correspondence between staff of Golden Village Multiplex Pte Ltd on issues of marketing and performance of the IMAX theatre and provided input and ideas on certain issues."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-02-15",
+          "Text": "On 15 February 2005, at a board meeting of Golden Village Multiplex Pte Ltd attended by Phoon Chiong Kit, it was decided that the IMAX theatre at Great World City would cease operations and directions were given regarding notification to IMAX Corporation and financial arrangements with Golden Harvest Films Distribution (Pte) Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-04-26",
+          "Text": "On 26 April 2005, acting in his capacity as a director of Golden Harvest Films Distribution (Pte) Ltd, Phoon Chiong Kit signed a letter to Golden Village Multiplex Pte Ltd stating that Golden Village Multiplex Pte Ltd had not properly promoted and marketed the IMAX theatre in Singapore and that the transfer notice had not been properly given."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-05-18",
+          "Text": "On 18 May 2005, acting in his capacity as a director of Golden Harvest Films Distribution (Pte) Ltd, Phoon Chiong Kit signed a letter to the solicitors of Golden Village Multiplex Pte Ltd reiterating Golden Harvest Films Distribution (Pte) Ltd's position on the promotion and marketing of the IMAX theatre and the validity of the transfer notice."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-07-05",
+          "Text": "On 5 July 2005, in his capacity as a director of Golden Harvest Films Distribution (Pte) Ltd, Phoon Chiong Kit filed an affidavit in Summons in Chambers No 3346 of 2005 in Suit 413 of 2005 stating that the board of directors of Golden Village Multiplex Pte Ltd had not authorised the commencement of Suit 413 of 2005 and that managing director Kenneth Tan had no authority to engage Wong Tan and Molly Lim LLC to commence those proceedings."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2005-07-05",
+          "Text": "On 5 July 2005, in his capacity as a director of Golden Harvest Films Distribution (Pte) Ltd, Phoon Chiong Kit executed the warrant to act of KhattarWong authorising the firm to act for Golden Harvest Films Distribution (Pte) Ltd in Suit 413 of 2005."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-09-15",
+          "Text": "In an affidavit filed on 15 September 2005, Phoon Chiong Kit stated that he had made statements at the 15 February 2005 board meeting of Golden Village Multiplex Pte Ltd before learning about the performance of the IMAX theatre in Taiwan and that after learning of the admission numbers to the IMAX theatre in Taiwan in March 2005 he considered that Golden Village Multiplex Pte Ltd had not properly promoted and marketed the IMAX theatre in Singapore."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-09-15",
+          "Text": "In the same 15 September 2005 affidavit, Phoon Chiong Kit stated that correspondence had passed between him, in his capacity as director of Golden Harvest Films Distribution (Pte) Ltd, and Golden Village Multiplex Pte Ltd as well as its solicitors on the issue of the transfer before Suit 413 of 2005 was commenced, and that Golden Village Multiplex Pte Ltd and its solicitors did not object to him writing in that capacity at that time."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-09-08",
+          "Text": "On 8 September 2005, in support of his own application in Summons in Chambers No 4593 of 2005, Phoon Chiong Kit filed an affidavit referring to correspondence between the solicitors of Golden Harvest Films Distribution (Pte) Ltd and the solicitors of Golden Village Multiplex Pte Ltd regarding the request for a board resolution authorising the warrant to act signed by Kirk Senior for Wong Tan and Molly Lim LLC."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-09-08",
+          "Text": "On 8 September 2005, Phoon Chiong Kit applied by way of Summons in Chambers No 4593 of 2005 for orders including a declaration that the warrant to act signed by Kirk Senior on behalf of Golden Village Multiplex Pte Ltd authorising Wong Tan and Molly Lim LLC to act in Suit 557 of 2005 was invalid and that the action be struck out."
+        }
+      ],
+      "Issue": "Whether the actions of a director who simultaneously holds directorships in Golden Village Multiplex Pte Ltd, Golden Harvest Films Distribution (Pte) Ltd and Golden Harvest Entertainment (Holdings) Limited, including participation in board decisions, signing correspondence, executing warrants to act and filing affidavits in relation to disputes over the IMAX arrangements and related litigation, align with the standards of conduct expected of directors under company law.",
+      "Rule": "A director is act with reasonable diligence in the discharge of his office, to use information obtained in that capacity in a proper manner, and to manage situations where his roles in multiple companies intersect so that his conduct remains consistent with the legal standards governing directors' behaviour.",
+      "Application": "Phoon Chiong Kit held directorships in Golden Village Multiplex Pte Ltd, Golden Harvest Films Distribution (Pte) Ltd and Golden Harvest Entertainment (Holdings) Limited. He attended board meetings of Golden Village Multiplex Pte Ltd where the IMAX theatre's performance and the decision to cease operations were discussed, received internal correspondence on marketing and performance issues, and provided input. In his role with Golden Harvest Films Distribution (Pte) Ltd, he signed letters disputing Golden Village Multiplex Pte Ltd's handling of the IMAX theatre and the transfer notice, executed a warrant to act appointing KhattarWong for Golden Harvest Films Distribution (Pte) Ltd in Suit 413 of 2005, and filed affidavits challenging the authority for Golden Village Multiplex Pte Ltd's warrant to act and the board's authorisation of Suit 413 of 2005. He also initiated Summons in Chambers No 4593 of 2005 seeking orders concerning the validity of the warrant to act in Suit 557 of 2005.",
+      "Judicial_Reasoning_Log": "The court analysed whether the defendant's conduct, including his participation in litigation steps on behalf of Golden Harvest Films Distribution (Pte) Ltd and his role as a director of Golden Village Multiplex Pte Ltd, was compatible with the duties imposed on directors by statute and common law. The judgment considered the implications of concurrent directorships in companies that are in litigation against each other, the use of information obtained through board participation, and the effect of any prior knowledge or consent by the companies involved. The judge evaluated the defendant's arguments based on alleged consent to his roles, the absence of specific identification of confidential information, and the contention that he was required to act in a certain way for Golden Harvest Films Distribution (Pte) Ltd and Golden Harvest Entertainment (Holdings) Limited. The reasoning led to orders designed to prevent the defendant from participating in the dispute in a way that aligned him with one side and to ensure that the plaintiff company could consider and pass a board resolution on the warrant to act without his participation in the vote."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  }
+]

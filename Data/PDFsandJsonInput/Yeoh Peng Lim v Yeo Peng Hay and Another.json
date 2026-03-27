@@ -1,0 +1,756 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit 163/2004",
+      "Coram": "Woo Bih Li J",
+      "Judge": "Woo Bih Li",
+      "Date": "2005-08-17",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Yeoh Peng Lim",
+      "Law_Firm": "K K Yap and Partners",
+      "Counsel": [
+        "Bachoo Mohan Singh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1945-01-01",
+          "Text": "Yeoh Peng Lim is a son of Yeo Gek Chin and an older brother of Yeo Peng Hay, with an age difference of about ten years."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1990-11-10",
+          "Text": "On 10 November 1990, Yeoh Peng Lim became one of the two registered shareholders and directors of Yeo Brothers Launch Services Pte Ltd, together with his brother Yeo Peng Hay."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1980-01-01",
+          "Text": "In 1980, a firm named Yeo Brothers Launch Services was registered with Yeoh Peng Lim and Yeo Peng Hay as the initial two registered partners."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1980-01-01",
+          "Text": "Between 1980 and 1984, although registered as a partner of Yeo Brothers Launch Services, Yeoh Peng Lim mainly worked as a relief boatman for the firm’s launches and continued working as a boatman for Yeo Geok Chin Lighterage Service."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1984-01-01",
+          "Text": "In 1984, following a decision by his father, Yeoh Peng Lim began working full-time for Yeo Brothers Launch Services until its dissolution in 1990."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1990-11-10",
+          "Text": "On 10 November 1990, Yeo Brothers Launch Services Pte Ltd was incorporated and acquired the business and assets of the partnership firm Yeo Brothers Launch Services for $1,940,856."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1990-11-10",
+          "Text": "$1,000,000 of the purchase price for the firm’s business and assets was paid by issuing shares in Yeo Brothers Launch Services Pte Ltd equally to Yeoh Peng Lim and Yeo Peng Hay."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1990-11-10",
+          "Text": "The balance of the $1,940,856 purchase price for the firm’s business and assets was credited to the accounts of Yeoh Peng Lim and Yeo Peng Hay with Yeo Brothers Launch Services Pte Ltd as loans to the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1993-01-01",
+          "Text": "From 1993 onwards, the company’s auditor, Sim Hang Khiang of Jee Ah Chian & Co, audited the accounts of Yeo Brothers Launch Services Pte Ltd, including the directors’ loan accounts of Yeoh Peng Lim and Yeo Peng Hay."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1995-01-26",
+          "Text": "On 26 January 1995, Jee Ah Chian & Co, through auditor Sim Hang Khiang, was appointed as auditor of Yeo Brothers Launch Services Pte Ltd, replacing the previous auditor."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1993-01-01",
+          "Text": "From 1993 onwards, Yeoh Peng Lim and Yeo Peng Hay went to the auditor’s office, usually once a year, to sign the audited accounts of Yeo Brothers Launch Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1993-01-01",
+          "Text": "On each occasion when audited accounts were signed from 1993 onwards, Yeoh Peng Hay drove Yeoh Peng Lim to and from the auditor’s office and transported the accounting records in his car."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-11-30",
+          "Text": "As at November 1995, there was a recorded cash shortfall of $300,000 between cash withdrawn from the company’s bank account and the petty cash accounts, and on 30 November 1995 this $300,000 was debited to the account of Yeo Peng Hay in the company’s books."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-31",
+          "Text": "On 31 December 1995, an accounting entry credited $300,000 to the account of Yeo Peng Hay and debited $300,000 to the account of Yeoh Peng Lim in the books of Yeo Brothers Launch Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-31",
+          "Text": "As at 31 December 1995, after the $300,000 debit entry to his account, the account of Yeoh Peng Lim with Yeo Brothers Launch Services Pte Ltd showed a credit balance of $482,279.15."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "For the 1996 financial year, an amount of $783,737.80 was debited to the account of Yeoh Peng Lim in the books of Yeo Brothers Launch Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "For the 1996 financial year, an amount of $257,540.28 was credited to the account of Yeo Peng Hay in the books of Yeo Brothers Launch Services Pte Ltd as part of the same journal entry that debited $783,737.80 to the account of Yeoh Peng Lim."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "As at 31 December 1996, after the 1996 adjustments, the account of Yeoh Peng Lim with Yeo Brothers Launch Services Pte Ltd showed a debit balance of $293,516.40."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "For the 1996 accounts of Yeo Brothers Launch Services Pte Ltd, a provision of $400,000 was made and credited to an Accruals account, intended to represent directors’ fees of $200,000 each for Yeoh Peng Lim and Yeo Peng Hay."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1997-12-31",
+          "Text": "For the 1997 accounts, a $400,000 adjustment was made to clear the petty cash balance of Yeo Brothers Launch Services Pte Ltd, and the Accruals account was debited with $400,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1997-12-31",
+          "Text": "The directors’ fees of $200,000 each for Yeoh Peng Lim and Yeo Peng Hay, for which a $400,000 provision had been made in 1996, were not actually paid to them."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-12-31",
+          "Text": "For the 1998 accounts, the account of Yeo Peng Hay was debited with $3,515.03 and the account of Yeoh Peng Lim was debited with $3,515.02 to account for a recorded cash shortfall of $7,030.05."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-12-31",
+          "Text": "For the 1998 accounts, an amount of $112,198.10 was debited to the account of each of Yeoh Peng Lim and Yeo Peng Hay to account for another recorded cash shortfall in 1998."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1998-12-31",
+          "Text": "The auditor’s working papers for the 1998 accounts contained a remark that the client said it was the usual policy where the directors would approve of the adjustments including the debit entries of $3,515.02 and $112,198.10 to the directors’ accounts."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-12-31",
+          "Text": "For the 2001 accounts of Yeo Brothers Launch Services Pte Ltd, an amount of $391,620.65 was debited to the account of Yeo Gek Chin and an amount of $3,515.02 was debited to the account of Sea-Dragon Marine Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "In each of the years 1995, 1996, 1997, 1998 and 2001, there was a recorded shortfall between the aggregate amount of cash withdrawn from the company’s current account and the balances of the two petty cash accounts used for cash advances to boatmen and cash expenses, and these shortfalls were reflected through journal entries or audit adjustments including entries to the account of Yeoh Peng Lim."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "From the incorporation of Yeo Brothers Launch Services Pte Ltd, the company maintained a current account with Chung Khiaw Bank Ltd, later United Overseas Bank Limited, operated by any two of three authorised signatories: Yeo Gek Chin, Yeoh Peng Lim, and Yeo Peng Hay."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "From the incorporation of Yeo Brothers Launch Services Pte Ltd, cash was withdrawn from the company’s bank account using cash cheques signed by two authorised signatories, and after withdrawal, cash was handed by Yeo Peng Hay to Yeoh Peng Lim."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "Yeoh Peng Lim used cash received from the company’s withdrawals to advance money to boatmen operating the launches and to pay for operating expenses such as purchase of spare parts and repairs."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "Salaries or fees of boatmen working with Yeo Brothers Launch Services Pte Ltd were paid by cheque rather than in cash."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "When advancing cash to boatmen, Yeoh Peng Lim obtained acknowledgments of receipt on cards bearing the respective boatmen’s names."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "In the course of operations of Yeo Brothers Launch Services Pte Ltd, Yeoh Peng Lim handled cash of thousands of dollars each month for advances and operating expenses."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1997-12-31",
+          "Text": "Up to the end of 1997, Yeoh Peng Lim signed cheques for the company, and he stated that he had signed some cheques in blank, including blank cheques from entire cheque books, before that time."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-01-01",
+          "Text": "From 1998 onwards, Yeoh Peng Lim stopped signing blank cheques for the company and would have been able to see the amounts on each cash cheque he signed."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1998-03-01",
+          "Text": "A directors’ resolution dated 1 March 1998 was prepared to add Tan Bee Lan, the wife of Yeo Peng Hay, as an authorised signatory of the company’s current account."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-03-01",
+          "Text": "On or after 1 March 1998, Yeoh Peng Lim signed the directors’ resolution to add Tan Bee Lan as an authorised signatory of the company’s current account and then crossed out his own signature on the resolution."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1998-03-01",
+          "Text": "After crossing out his signature on the directors’ resolution dated 1 March 1998, Yeoh Peng Lim made a photocopy of the resolution before the original was taken away by Yeo Peng Hay."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-03-01",
+          "Text": "In relation to the proposed addition of Tan Bee Lan as a cheque signatory, Yeoh Peng Lim told Yeo Peng Hay that if Yeo Peng Hay intended to go overseas, he could sign a few blank cheques in advance instead of adding his wife as a signatory."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-04-01",
+          "Text": "In April 1999, a cheque for $300,000 was prepared from Yeo Brothers Launch Services Pte Ltd for a loan to Yeo Peng Hay."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-04-01",
+          "Text": "In April 1999, before signing the $300,000 cheque, Yeoh Peng Lim requested a photocopy of the cheque and wrote on the photocopy the words: \"YEO PENG HAY CREDIT THREE HUNDRED THOUSAND FOR COMPANY YEO BROTHER INTEREST. MONTHLY PD. SIGN\" for Yeo Peng Hay to sign as an acknowledgment."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-04-01",
+          "Text": "In April 1999, Yeoh Peng Lim required Yeo Peng Hay to sign the handwritten acknowledgment on the photocopy of the $300,000 cheque before he signed the cheque for the loan from the company."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1997-12-31",
+          "Text": "An audit confirmation for the year ended 31 December 1997 was prepared to confirm a debit balance in the account of Yeoh Peng Lim with Yeo Brothers Launch Services Pte Ltd, and this confirmation bore his signature."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-12-31",
+          "Text": "An audit confirmation for the year ended 31 December 1999 was prepared to confirm a debit balance in the account of Yeoh Peng Lim with Yeo Brothers Launch Services Pte Ltd, and this confirmation bore his signature."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2001-12-31",
+          "Text": "An audit confirmation for the year ended 31 December 2001 was prepared to confirm a debit balance of $355,459.19 in the account of Yeoh Peng Lim with Yeo Brothers Launch Services Pte Ltd, but this confirmation did not bear his signature."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1997-01-01",
+          "Text": "For income earned in 1997, a Notice of Assessment from the Inland Revenue Authority of Singapore was issued to Yeoh Peng Lim, and he queried the amount of tax shown with Yeo Peng Hay."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1997-01-01",
+          "Text": "Upon receiving income tax notices of assessment for various years, including for income earned in 1997, Yeoh Peng Lim kept photocopies of the notices for himself while handing the originals to an accounts clerk, as the company was paying his taxes."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "Sometime in 2002, Yeoh Peng Lim was asked to sign a document stating that he owed Yeo Brothers Launch Services Pte Ltd money, and he refused to sign that document."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-06-01",
+          "Text": "In June 2003, when his son requested his income tax notices of assessment to support a car loan application, Yeoh Peng Lim arranged for his wife to hand the tax documents to his son."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2003-06-01",
+          "Text": "By June 2003, the Notice of Assessment for Year of Assessment 2000 for Yeoh Peng Lim showed income of $234,000, and the Notice of Assessment for Year of Assessment 2001 showed dividends of $150,287 and employment income of $84,000."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2003-06-01",
+          "Text": "By June 2003, Yeoh Peng Lim had in his possession at least one set of the audited accounts of Yeo Brothers Launch Services Pte Ltd for the year 2001."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-01-01",
+          "Text": "In 2003, Yeoh Peng Lim began making inquiries about the accounting records and accounts of Yeo Brothers Launch Services Pte Ltd, including inquiries with the company’s auditors and the Inland Revenue Authority of Singapore."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-01-01",
+          "Text": "In 2003, Yeoh Peng Lim engaged accountant J H Tan to assist him in reviewing the accounting documents of Yeo Brothers Launch Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2003-01-01",
+          "Text": "In 2003, accountant J H Tan prepared a schedule for Yeoh Peng Lim showing movements in the directors’ accounts from 1995 to 2001, including debit entries of $300,000 for 1995 and $783,737.80 for 1996 to the account of Yeoh Peng Lim."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-01-01",
+          "Text": "In 2003, Yeoh Peng Lim engaged solicitors to make further inquiries with the auditors of Yeo Brothers Launch Services Pte Ltd regarding the company’s accounts and audit working papers."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-01-01",
+          "Text": "Before 2003, Yeoh Peng Lim had not been prevented by Yeo Peng Hay from accessing or obtaining copies of the audited accounts of Yeo Brothers Launch Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1990-11-10",
+          "Text": "From about 10 November 1990 to about 21 August 1996, the office of Yeo Brothers Launch Services Pte Ltd was located at 25 Jurong Pier Road."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1996-08-21",
+          "Text": "From about 21 August 1996 to about 31 July 2002, the office of Yeo Brothers Launch Services Pte Ltd was located at 20 Jurong Pier Road #02-02/03."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2002-07-31",
+          "Text": "From about 31 July 2002 to about April 2004, the office of Yeo Brothers Launch Services Pte Ltd was located at #18/19 Pasir Panjang Lighter Wharves."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-01-01",
+          "Text": "In 1998, the administrative staff of Yeo Brothers Launch Services Pte Ltd who issued cheques and invoices were relocated from the company’s office to the office of Yeo Peng Hay at Tras Street."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-01-01",
+          "Text": "From 1998 onwards, the wife of Yeo Peng Hay, Tan Bee Lan, worked among the administrative staff handling tasks such as issuing cheques and invoices for Yeo Brothers Launch Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2003-01-01",
+          "Text": "In 2003, accountant J H Tan prepared a list of accounting documents kept at the office of Yeo Brothers Launch Services Pte Ltd, which showed that only some accounting documents for certain years were present."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1993-01-01",
+          "Text": "From 1993 onwards, auditor Sim Hang Khiang liaised on the company’s accounts with the bookkeeper Ho Soo Pin and with Yeo Gek Chin and/or Yeo Peng Hay, but not with Yeoh Peng Lim, except when the directors came to sign the audited accounts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "From the incorporation of Yeo Brothers Launch Services Pte Ltd, Yeoh Peng Lim was in charge of operational aspects of the business, including supervision and scheduling of orders and management of boatmen."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "As at 1995, Yeo Brothers Launch Services Pte Ltd operated 14 launches that could carry more than 12 passengers each and 20 launches that carried fewer than 12 passengers each, and employed 42 workers and more than ten subcontractor boatmen under the operational management of Yeoh Peng Lim."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-01-01",
+          "Text": "In 2003, Yeoh Peng Lim filed Originating Summons No 1489 of 2003 seeking inspection of the company’s accounting records with a public accountant."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2004-11-18",
+          "Text": "On 18 November 2004, Yeoh Peng Lim filed Summons in Chambers No 6387 of 2004 seeking an order that the auditors of Yeo Brothers Launch Services Pte Ltd make discovery of documents, including inspection of their audit files."
+        }
+      ],
+      "Issue": "Whether the debit and credit entries and adjustments recorded in the accounts of Yeo Brothers Launch Services Pte Ltd between 1995 and 2001, including entries to the account of Yeoh Peng Lim and related accounts, accurately reflected the underlying cash withdrawals, cash usage, and inter-company balances, and whether those entries should be reversed or reallocated among the directors’ and related parties’ accounts.",
+      "Rule": "In company and directors’ account disputes, courts generally assess whether accounting entries and directors’ loan balances reflect actual underlying transactions and cash movements, taking into account corporate records, audit documentation, directors’ signatures on audited accounts and confirmations, and any subsequent challenges, to determine whether recorded balances should stand or be adjusted.",
+      "Application": "The company’s records show repeated cash withdrawals from the bank account operated by authorised signatories, with cash subsequently used by Yeoh Peng Lim for advances to boatmen and operating expenses, and recorded shortfalls addressed through journal entries and audit adjustments to directors’ and related accounts. Large amounts, including $300,000 in 1995 and $783,737.80 in 1996, were debited to the account of Yeoh Peng Lim, and further amounts were debited in 1998, while other related entries affected the accounts of Yeo Peng Hay, their father, and Sea-Dragon Marine Services Pte Ltd. Over the years, Yeoh Peng Lim signed audited accounts and audit confirmations for 1997 and 1999 acknowledging debit balances in his account, and he retained copies of income tax assessments reflecting income figures derived from those accounts. He later initiated inquiries, engaged an accountant, and commenced court processes to inspect records and challenge the entries. These facts provide the basis for comparing the recorded balances and confirmations against the pattern of cash withdrawals, operational cash usage, and subsequent objections when assessing whether the entries should remain or be reversed or reallocated.",
+      "Judicial_Reasoning_Log": "The judge evaluated extensive evidence about who controlled the firm and the company, the pattern of cash withdrawals, and the handling of cash shortfalls. He found that the father, though not formally a partner, director, or shareholder, controlled the firm and later the company while alive, and that the auditor, Mr Sim, took directions from the father and later from the first defendant. The judge rejected the plaintiff’s vacillating evidence about control and concluded that the father was effectively in charge. On the central factual dispute, the judge found that the first defendant did not hand all withdrawn cash to the plaintiff; instead, part of the cash went to the father, part to the plaintiff, and part was used by the first defendant, including for entertainment and other purposes. The judge considered the plaintiff’s operational role, his handling of substantial cash, his cessation of signing blank cheques by the end of 1997, and the absence of any protest about discrepancies from at least 1998, and inferred that the plaintiff was familiar with the practice of receiving less cash than the amounts of the cash cheques. The judge was critical of the auditor’s performance, finding that Mr Sim accepted vague explanations and made adjustments to cover shortfalls without proper qualification, and that his claim of detailed explanations to the directors was not credible. Nonetheless, the judge held that the plaintiff knew he was signing audited accounts and that he signed audit confirmations for 1997 and 1999 acknowledging debit balances in his account, and that he understood income tax notices showing his supposed earnings. The judge concluded that by signing the 1999 audit confirmation, the plaintiff accepted the debit balance as at the end of 1999, which effectively encompassed the entries and adjustments he was challenging up to that year, and that he had not established grounds to reverse those entries. As for the 2001 entries debited to the accounts of the father and Sea-Dragon Marine Services Pte Ltd, the judge held that the plaintiff was not the proper party to seek their reversal because they did not relate to his own account, though he expressly left open the possibility for the father’s estate and Sea-Dragon or the liquidator to challenge those debits. The judge therefore ordered the company to be wound up by consent and appointed the plaintiff’s nominee as liquidator, but dismissed the plaintiff’s other prayers, including the claims for reversal of the disputed entries and adjustments."
+    },
+    "Label": "Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 163/2004",
+      "Coram": "Woo Bih Li J",
+      "Judge": "Woo Bih Li",
+      "Date": "2005-08-17",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Yeo Peng Hay",
+      "Law_Firm": "De Souza Tay and Goh",
+      "Counsel": [
+        "David De Souza",
+        "Jeanette Lee"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1955-01-01",
+          "Text": "Yeo Peng Hay, also known as Peter, is a son of Yeo Gek Chin and a younger brother of Yeoh Peng Lim, with an age difference of about ten years."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1980-01-01",
+          "Text": "In 1980, when Yeo Brothers Launch Services was registered as a firm, Yeo Peng Hay was one of the initial two registered partners together with his brother Yeoh Peng Lim."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1990-11-10",
+          "Text": "On 10 November 1990, upon incorporation of Yeo Brothers Launch Services Pte Ltd, Yeo Peng Hay became one of the two registered shareholders and directors, together with his brother Yeoh Peng Lim."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1990-07-24",
+          "Text": "On 24 July 1990, Sing-Batam Ferries Pte Ltd was incorporated with Yeo Gek Chin and Yeo Peng Hay as directors and shareholders, each holding 250,000 $1 shares."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1990-08-22",
+          "Text": "On 22 August 1990, Sea-Dragon Marine Services Pte Ltd was incorporated with Yeo Gek Chin and Yeo Peng Hay as directors and shareholders, each holding 250,000 $1 shares."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1980-01-01",
+          "Text": "Between 1980 and 1984, Yeo Peng Hay withdrew cash from the bank account of Yeo Brothers Launch Services and handed cash to his father, according to family practice at that time."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1984-01-01",
+          "Text": "Around 1984, in the presence of Yeoh Peng Lim and another brother, their father stated that cash withdrawn from the firm’s bank account was to be handed by Yeo Peng Hay to Yeoh Peng Lim, who was to take charge of the financial matters of the firm."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1984-01-01",
+          "Text": "From about 1984 onwards, and continuing after the incorporation of Yeo Brothers Launch Services Pte Ltd, Yeo Peng Hay withdrew cash from the firm’s and later the company’s bank account and handed cash to Yeoh Peng Lim."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "From the incorporation of Yeo Brothers Launch Services Pte Ltd, the company’s current account with Chung Khiaw Bank Ltd, later United Overseas Bank Limited, was operated by any two of three authorised signatories: Yeo Gek Chin, Yeoh Peng Lim, and Yeo Peng Hay, and cash withdrawals were made using cash cheques signed by two authorised signatories."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "From 1990 onwards, Yeo Peng Hay was the person who physically withdrew cash from the company’s bank account using cash cheques and then handed cash to Yeoh Peng Lim."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-11-30",
+          "Text": "On 30 November 1995, an accounting entry in the books of Yeo Brothers Launch Services Pte Ltd debited $300,000 to the account of Yeo Peng Hay to reflect a recorded cash shortfall as at November 1995."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-31",
+          "Text": "On 31 December 1995, an accounting entry credited $300,000 to the account of Yeo Peng Hay and debited $300,000 to the account of Yeoh Peng Lim, reversing the earlier debit to his account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-31",
+          "Text": "As at 31 December 1995, after the $300,000 credit entry, the account of Yeo Peng Hay with Yeo Brothers Launch Services Pte Ltd showed a debit balance of $550,683.27."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-31",
+          "Text": "In the 1995 accounts of Yeo Brothers Launch Services Pte Ltd, a sum of $1,132,785.80 owed by Sing-Batam Ferries Pte Ltd to the company was removed from Sing-Batam’s debtor balance and debited to the account of Yeo Peng Hay, following directions from Yeo Gek Chin in view of Sing-Batam’s intended members’ voluntary liquidation."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "For the 1996 accounts of Yeo Brothers Launch Services Pte Ltd, an amount of $783,737.80 was debited to the account of Yeoh Peng Lim and an amount of $257,540.28 was credited to the account of Yeo Peng Hay via a journal entry prepared by the bookkeeper and later analysed by the auditor."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "As at 31 December 1996, after the 1996 adjustments, the account of Yeo Peng Hay with Yeo Brothers Launch Services Pte Ltd showed a debit balance of $271,247.94."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "The auditor’s working papers for the 1996 accounts of Yeo Brothers Launch Services Pte Ltd contained a note stating that an adjustment was made in the accounts by bookkeeper Ho Soo Pin to even out the balances due by the brothers, referring to the accounts of Yeoh Peng Lim and Yeo Peng Hay."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "In the 1996 accounts, a provision of $400,000 was made and credited to an Accruals account for directors’ fees of $200,000 each for Yeoh Peng Lim and Yeo Peng Hay, although these fees were not subsequently paid."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1997-12-31",
+          "Text": "For the 1997 accounts, a $400,000 adjustment was made to clear the petty cash balance of Yeo Brothers Launch Services Pte Ltd, and the Accruals account, which included the provision for directors’ fees for both directors, was debited with $400,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-12-31",
+          "Text": "For the 1998 accounts, the account of Yeo Peng Hay was debited with $3,515.03 and the account of Yeoh Peng Lim was debited with $3,515.02 to account for a recorded cash shortfall of $7,030.05."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-12-31",
+          "Text": "For the 1998 accounts, an amount of $112,198.10 was debited to each of the accounts of Yeo Peng Hay and Yeoh Peng Lim to account for another recorded cash shortfall in 1998."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-12-31",
+          "Text": "For the 2001 accounts of Yeo Brothers Launch Services Pte Ltd, an amount of $391,620.65 was debited to the account of Yeo Gek Chin and an amount of $3,515.02 was debited to the account of Sea-Dragon Marine Services Pte Ltd, both companies in which Yeo Peng Hay was a director and shareholder."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1993-01-01",
+          "Text": "From 1993 onwards, auditor Sim Hang Khiang liaised with Yeo Peng Hay regarding the accounts of Yeo Brothers Launch Services Pte Ltd and did not liaise with Yeoh Peng Lim on accounting matters."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-01-01",
+          "Text": "In 1998, the administrative staff of Yeo Brothers Launch Services Pte Ltd, including staff issuing cheques and invoices, were relocated to the office of Yeo Peng Hay at Tras Street, where his wife, Tan Bee Lan, worked on such administrative tasks."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "From the incorporation of Yeo Brothers Launch Services Pte Ltd, Yeo Peng Hay was responsible for sourcing business for the company and was entrusted by his father to withdraw cash from the company’s bank account."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-07-24",
+          "Text": "As a director and shareholder of Sing-Batam Ferries Pte Ltd and Sea-Dragon Marine Services Pte Ltd, together with his father, Yeo Peng Hay participated in the management of ferry and passenger transport businesses outside the Singapore port limits."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-01-01",
+          "Text": "Around 1996, Sing-Batam Ferries Pte Ltd proceeded towards a members’ voluntary liquidation, and the father directed that the amount owed by Sing-Batam to Yeo Brothers Launch Services Pte Ltd be debited to the account of Yeo Peng Hay in the company’s books."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-03-01",
+          "Text": "On or after 1 March 1998, Yeo Peng Hay presented a directors’ resolution dated 1 March 1998 to add his wife, Tan Bee Lan, as an authorised signatory of the company’s current account and obtained the initial signature of Yeoh Peng Lim on that resolution."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-04-01",
+          "Text": "In April 1999, Yeo Peng Hay approached Yeoh Peng Lim with a cheque for $300,000 from Yeo Brothers Launch Services Pte Ltd, seeking a loan from the company, and signed a handwritten acknowledgment on a photocopy of the cheque before the cheque was signed."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1997-12-31",
+          "Text": "For the year ended 31 December 1997, an audit confirmation was prepared for the account of Yeo Peng Hay with Yeo Brothers Launch Services Pte Ltd, and he returned some audit confirmations in certain years while omitting to return others."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-12-31",
+          "Text": "For the year ended 31 December 1999, an audit confirmation was prepared for the account of Yeo Peng Hay with Yeo Brothers Launch Services Pte Ltd, and he signed and returned confirmations in some years as part of the audit process."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-12-31",
+          "Text": "For the 2001 audit, Yeo Peng Hay brought his signed audit confirmation to the auditor’s office when meeting with the auditor and Yeoh Peng Lim to sign the audited accounts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1993-01-01",
+          "Text": "From 1993 onwards, when attending annual meetings at the auditor’s office, Yeo Peng Hay and Yeoh Peng Lim signed the audited accounts of Yeo Brothers Launch Services Pte Ltd after discussions with the auditor."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "Throughout the 1990s, Yeo Peng Hay operated other businesses, including Hai Huat Boatbuilders Pte Ltd, and served as a director of other companies in addition to his role in Yeo Brothers Launch Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "During the years in question, Yeo Peng Hay was considered by family members and business associates to be more experienced in business and more familiar with the accounts of Yeo Brothers Launch Services Pte Ltd than his brother."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "During the operation of Yeo Brothers Launch Services Pte Ltd, Yeo Peng Hay engaged in entertainment of customers, including meals and other forms of hospitality, as part of his role in sourcing business."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-01-01",
+          "Text": "In 2003, when inquiries were made by or on behalf of Yeoh Peng Lim about the company’s accounts, Yeo Peng Hay maintained that the accounting records were kept at the company’s office."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2004-01-01",
+          "Text": "During the litigation process leading up to Suit 163/2004, Yeo Peng Hay declined to provide personal bank statements for himself and his wife when requested during trial, citing confidentiality."
+        }
+      ],
+      "Issue": "Whether the pattern of cash withdrawals by Yeo Peng Hay from the company’s bank account, the subsequent handling of cash, and the accounting entries and adjustments made to the directors’ and related parties’ accounts between 1995 and 2001 should remain as recorded or be reallocated, including whether amounts debited to the account of Yeoh Peng Lim should instead be debited to the account of Yeo Peng Hay.",
+      "Rule": "In disputes over directors’ loan accounts and internal company accounting, courts generally examine whether recorded debits and credits correspond to actual cash flows and agreed arrangements, considering the conduct of directors, instructions from controlling persons, audit records, and confirmations, to decide whether existing entries should be maintained or reallocated among directors and related parties.",
+      "Application": "The records from the 1980s onwards, Yeo Peng Hay was the person withdrawing cash from the firm’s and later the company’s bank account and handing cash to his brother, while also being involved in other businesses and entertainment of customers. Significant accounting entries were made to his account, including the initial $300,000 debit in November 1995 and the transfer of the Sing-Batam debtor balance of $1,132,785.80 to his account, as well as later credits such as $257,540.28 in 1996 and shared debits of $3,515.03 and $112,198.10 in 1998. These adjustments were recorded in the context of directions from their father and the auditor’s working notes about evening out balances between the brothers. Over the years, both directors signed audited accounts and audit confirmations, and the company’s accounts reflected the evolving balances in their respective loan accounts. When the plaintiff later challenged the entries, the existing documentation and the history of cash withdrawals, entertainment expenses, and inter-company adjustments formed the factual basis for assessing whether the amounts debited to each director’s account, including those affecting Yeo Peng Hay, should be left as recorded or reallocated.",
+      "Judicial_Reasoning_Log": "The judge accepted that the first defendant, Yeo Peng Hay, was more familiar with the company’s accounts and that he withdrew cash and used some of it, including for entertainment and other purposes, but concluded that this did not automatically justify reallocating all disputed debits to his account. The judge found that the father controlled the firm and the company while alive and that many of the adjustments, including the transfer of the Sing-Batam debtor balance and the evening out of the brothers’ accounts, were made on the father’s instructions and implemented by the auditor and bookkeeper. The judge determined that the plaintiff had accepted the state of the accounts up to 1999 by signing the audited accounts and audit confirmations, and that the plaintiff’s later challenge did not displace the recorded balances. Although the judge was critical of the auditor and noted that the first defendant likely knew how the shortfalls were used and had taken some of the cash, he was not prepared to conclude that the first defendant had taken all of the shortfall or that the disputed entries should be reversed and debited to the first defendant’s account. Accordingly, the judge dismissed the plaintiff’s claims for reversal of the entries and adjustments and did not impose liability on the first defendant for the amounts in dispute, while leaving open potential challenges by the father’s estate, Sea-Dragon, or the liquidator regarding debits to their accounts."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 163/2004",
+      "Coram": "Woo Bih Li J",
+      "Judge": "Woo Bih Li",
+      "Date": "2005-08-17",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Yeo Brothers Launch Services Pte Ltd",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1990-11-10",
+          "Text": "Yeo Brothers Launch Services Pte Ltd was incorporated on 10 November 1990 to take over the business and assets of the partnership firm Yeo Brothers Launch Services."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1990-11-10",
+          "Text": "On 10 November 1990, Yeo Brothers Launch Services Pte Ltd acquired the business and assets of the partnership firm Yeo Brothers Launch Services for a consideration of $1,940,856."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1990-11-10",
+          "Text": "From its incorporation, the only registered shareholders and directors of Yeo Brothers Launch Services Pte Ltd were brothers Yeoh Peng Lim and Yeo Peng Hay."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1990-11-10",
+          "Text": "Of the $1,940,856 consideration for the acquisition of the firm’s business and assets, $1,000,000 was satisfied by the issue of shares in Yeo Brothers Launch Services Pte Ltd equally to Yeoh Peng Lim and Yeo Peng Hay, and the balance was credited as loans to the company in their respective accounts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "From incorporation, Yeo Brothers Launch Services Pte Ltd operated a lighterage and passenger launch business, ferrying passengers using motor launches."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "From incorporation, Yeo Brothers Launch Services Pte Ltd maintained a current account with Chung Khiaw Bank Ltd, later United Overseas Bank Limited, operated by any two of three authorised signatories: Yeo Gek Chin, Yeoh Peng Lim, and Yeo Peng Hay."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1990-11-10",
+          "Text": "From time to time after 10 November 1990, various sums of cash were withdrawn from the company’s current account using cash cheques signed by two authorised signatories, and the cash was used for advances to boatmen and operating expenses."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "In each of the years 1995, 1996, 1997, 1998 and 2001, the company’s records showed a shortfall between the aggregate amount of cash withdrawn from the bank account and the balances of the two petty cash accounts used for cash advances and cash expenses."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-11-30",
+          "Text": "As at November 1995, the recorded cash shortfall in the company’s accounts was $300,000, which was initially debited to the account of director Yeo Peng Hay on 30 November 1995."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-31",
+          "Text": "On 31 December 1995, the company’s accounts recorded a transfer of the $300,000 shortfall from the account of Yeo Peng Hay to the account of Yeoh Peng Lim by crediting the former and debiting the latter."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-31",
+          "Text": "In the 1995 accounts, a debtor balance of $1,132,785.80 owed by Sing-Batam Ferries Pte Ltd to Yeo Brothers Launch Services Pte Ltd was removed from Sing-Batam’s account and debited to the account of director Yeo Peng Hay, following directions from Yeo Gek Chin in view of Sing-Batam’s intended members’ voluntary liquidation."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "For the 1996 financial year, the company’s accounts recorded a debit of $783,737.80 to the account of director Yeoh Peng Lim and a credit of $257,540.28 to the account of director Yeo Peng Hay, as part of adjustments to reduce petty cash and even out balances between the directors."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "In the 1996 accounts, Yeo Brothers Launch Services Pte Ltd created a provision of $400,000 credited to an Accruals account, intended to represent directors’ fees of $200,000 each for the two directors, although these fees were not paid."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1997-12-31",
+          "Text": "For the 1997 accounts, Yeo Brothers Launch Services Pte Ltd made a $400,000 adjustment debiting the Accruals account and clearing the petty cash balance, apparently to account for the recorded cash shortfall for 1997."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-12-31",
+          "Text": "For the 1998 accounts, the company debited $3,515.03 to the account of director Yeo Peng Hay and $3,515.02 to the account of director Yeoh Peng Lim to account for a recorded cash shortfall of $7,030.05."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-12-31",
+          "Text": "For the 1998 accounts, the company debited $112,198.10 to each of the accounts of directors Yeoh Peng Lim and Yeo Peng Hay to account for another recorded cash shortfall in 1998."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1998-12-31",
+          "Text": "The auditor’s working papers for the 1998 accounts of Yeo Brothers Launch Services Pte Ltd contained a remark that the client said it was the usual policy where the directors would approve of the adjustments made to account for cash shortfalls."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-12-31",
+          "Text": "For the 2001 accounts, Yeo Brothers Launch Services Pte Ltd debited $391,620.65 to the account of Yeo Gek Chin and $3,515.02 to the account of Sea-Dragon Marine Services Pte Ltd, both related parties, in connection with recorded cash shortfalls."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1993-01-01",
+          "Text": "From 1993 onwards, the company’s audited accounts were prepared by auditor Sim Hang Khiang of Jee Ah Chian & Co, and were signed annually by directors Yeoh Peng Lim and Yeo Peng Hay."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1997-12-31",
+          "Text": "For the year ended 31 December 1997, Yeo Brothers Launch Services Pte Ltd’s auditor issued audit confirmations for the directors’ loan accounts, including a confirmation for the debit balance in the account of Yeoh Peng Lim, which he signed."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-12-31",
+          "Text": "For the year ended 31 December 1999, the auditor issued audit confirmations for the directors’ loan accounts, including a confirmation for the debit balance in the account of Yeoh Peng Lim, which he signed."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2001-12-31",
+          "Text": "For the year ended 31 December 2001, the auditor prepared an audit confirmation for a debit balance of $355,459.19 in the account of Yeoh Peng Lim with Yeo Brothers Launch Services Pte Ltd, but this confirmation was not signed by him."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1990-11-10",
+          "Text": "From about 10 November 1990 to about 21 August 1996, the registered office of Yeo Brothers Launch Services Pte Ltd was at 25 Jurong Pier Road."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1996-08-21",
+          "Text": "From about 21 August 1996 to about 31 July 2002, the registered office of Yeo Brothers Launch Services Pte Ltd was at 20 Jurong Pier Road #02-02/03."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2002-07-31",
+          "Text": "From about 31 July 2002 to about April 2004, the registered office of Yeo Brothers Launch Services Pte Ltd was at #18/19 Pasir Panjang Lighter Wharves."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-01-01",
+          "Text": "In 1998, Yeo Brothers Launch Services Pte Ltd relocated its administrative staff responsible for issuing cheques and invoices from the company’s office to the office of director Yeo Peng Hay at Tras Street."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1993-01-01",
+          "Text": "From 1993 onwards, the company’s auditor, Sim Hang Khiang, liaised primarily with the bookkeeper Ho Soo Pin and with Yeo Gek Chin and/or director Yeo Peng Hay regarding the accounts, and did not liaise with director Yeoh Peng Lim except when the directors came to sign the audited accounts."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2003-01-01",
+          "Text": "In 2003, accountant J H Tan, engaged by the plaintiff, prepared a list of accounting documents kept at the office of Yeo Brothers Launch Services Pte Ltd, which showed that only some accounting documents for certain years were present."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2003-01-01",
+          "Text": "In 2003, accountant J H Tan prepared a schedule of movements in the directors’ loan accounts of Yeo Brothers Launch Services Pte Ltd from 1995 to 2001, highlighting significant debit entries to the account of director Yeoh Peng Lim."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "As at 1995, Yeo Brothers Launch Services Pte Ltd operated 14 launches that could carry more than 12 passengers each and 20 launches that carried fewer than 12 passengers each, employed 42 workers, and engaged more than ten subcontractor boatmen."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-01-01",
+          "Text": "In 2003, Yeo Brothers Launch Services Pte Ltd became the subject of Originating Summons No 1489 of 2003, filed by director and shareholder Yeoh Peng Lim, seeking inspection of the company’s accounting records with a public accountant."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2004-11-18",
+          "Text": "On 18 November 2004, Yeo Brothers Launch Services Pte Ltd was involved in Summons in Chambers No 6387 of 2004, in which its auditors were ordered to make discovery of documents and allow inspection of their audit files relating to the company."
+        }
+      ],
+      "Issue": "Whether the internal accounting treatment by Yeo Brothers Launch Services Pte Ltd of cash withdrawals, petty cash shortfalls, inter-company balances, and directors’ loan accounts between 1995 and 2001, including debits and credits to the accounts of its directors and related parties, should be maintained or adjusted, and whether the company should be wound up.",
+      "Rule": "In company law, courts may order winding up by consent of the parties and may review the company’s internal accounts and directors’ loan balances to determine whether recorded entries reflect actual transactions, but will generally leave the company’s liquidator and affected parties to pursue any necessary adjustments to related party accounts in the course of liquidation.",
+      "Application": "Yeo Brothers Launch Services Pte Ltd recorded recurring cash withdrawals and petty cash shortfalls over several years, which were addressed through journal entries and audit adjustments affecting directors’ and related parties’ accounts, including large debits and credits between the accounts of its two directors and the transfer of a substantial debtor balance from Sing-Batam Ferries Pte Ltd. The company’s audited accounts were signed annually by both directors, and audit confirmations were issued and, in some years, signed. When one director later challenged the entries and sought reversal and reallocation, the company became involved in court proceedings for inspection of records and discovery from its auditors. Ultimately, the parties consented to a winding-up order, and the court considered that any further challenges to debits in the accounts of the father and Sea-Dragon Marine Services Pte Ltd could be pursued by the estate, Sea-Dragon, or the liquidator in the course of the company’s liquidation, rather than through the specific reliefs sought in this action.",
+      "Judicial_Reasoning_Log": "After reviewing the background of the company, its ownership by the two brothers, and the pattern of cash withdrawals and accounting adjustments, the judge noted that many of the disputed entries arose from directions given by the father and were implemented by the auditor and bookkeeper to address cash shortfalls and equalise directors’ balances. The judge found that the plaintiff had not established a basis to reverse the entries in his own account up to 1999, given his signatures on audited accounts and audit confirmations, and that he was not the proper party to challenge entries debited to the accounts of the father and Sea-Dragon Marine Services Pte Ltd. However, in light of the parties’ consent and the breakdown in relations, the judge ordered that Yeo Brothers Launch Services Pte Ltd be wound up and appointed the plaintiff’s nominee, Mr Lau Chin Huat, as liquidator. The judge expressly stated that his order would not preclude the estate of the father, Sea-Dragon, or the liquidator from challenging the amounts debited to their respective accounts or taking steps in respect of those accounts during the liquidation. Thus, while the company’s winding up was allowed by consent, the specific claims for reversal of entries and adjustments were dismissed, leaving further account-related issues to be addressed in the liquidation process."
+    },
+    "Label": "Allowed",
+    "Leakage_Score": 0
+  }
+]

@@ -1,0 +1,518 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 118 of 2021",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair",
+      "Date": "2023-08-15",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Elcarim Science Pte Ltd",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-08-07",
+          "Text": "Elcarim Science Pte Ltd was incorporated in Singapore on 7 August 2012 and is involved in scientific research and development and the supply of products within the security industry in Singapore and overseas."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-08-07",
+          "Text": "As at the time of the dispute, the sole shareholder of Elcarim Science Pte Ltd was Dou Suoke, a Chinese national, who was also its director and chief technology officer."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-08-07",
+          "Text": "At the time of incorporation, Zhang Yongtai was the sole director of Elcarim Science Pte Ltd and was responsible for its day-to-day management."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2012-08-07",
+          "Text": "At the outset, all the shares in Elcarim Science Pte Ltd were registered in the name of Zhang Yongtai, with half of those shares held on trust for Dou Suoke."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2012-08-07",
+          "Text": "On or around the incorporation of Elcarim Science Pte Ltd, Zhang Yongtai and Dou Suoke reached an agreement regarding the establishment of the company and their respective roles, although the detailed terms of that agreement were later disputed."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2012-08-07",
+          "Text": "From the beginning of Elcarim Science Pte Ltd, Dou Suoke contributed capital to the company and participated in some decision-making."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-01-01",
+          "Text": "Dou Suoke was also the owner and directing mind of two foreign companies, Future Digital Science Ltd and Ultra-Array HK Technology Limited, which had business dealings connected with Elcarim Science Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2014-12-01",
+          "Text": "On 1 December 2014, Pang Theng Kin was appointed a director of Elcarim Science Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2014-12-01",
+          "Text": "Before his appointment as a director on 1 December 2014, Pang Theng Kin acted as finance manager and corporate secretary of Elcarim Science Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2014-12-01",
+          "Text": "On 1 December 2014, on the instructions of Dou Suoke, the shares in Elcarim Science Pte Ltd that had been held by Zhang Yongtai on trust for Dou were transferred to Pang Theng Kin to be held on trust for Dou."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-07-22",
+          "Text": "On 22 July 2013, Zhang Yongtai obtained two personal term loans from ANZ Bank in his own name, one for $30,000 on a one-year tenure at 5.8% per annum and another for $30,000 on a three-year tenure at 6.6% per annum, under an ANZ loan account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-07-23",
+          "Text": "On 23 July 2013, a sum of $60,000 was deposited into Elcarim Science Pte Ltd's OCBC bank account number ending 2001, corresponding in amount and timing to the disbursement of the two ANZ personal loans obtained by Zhang Yongtai the previous day."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-09-30",
+          "Text": "As at 30 September 2013, the general ledger of Elcarim Science Pte Ltd for financial year 2013 contained a category labelled 'DUE TO DIRECTOR – ZHANG YONGTAI' with multiple entries, including cash deposits, director's account entries, director's remuneration, salary, GST input tax and travelling expenses."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-09-30",
+          "Text": "The unaudited financial statements of Elcarim Science Pte Ltd for the financial year 2012–2013 (FS2013), prepared based on the 2013 general ledger by Pang Theng Kin, included a line item describing an amount of $685,539 as a sum due to a director."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-01",
+          "Text": "During 2013, Zhang Yongtai used his personal credit card and personal funds on various occasions to pay expenses such as office expenses, travelling expenses and GST input tax items that related to the operations of Elcarim Science Pte Ltd, with those amounts later recorded in the company's general ledger under categories including 'GST INPUT TAX', 'TRAVELLING EXPENSES' and 'OFFICE EXPENSES'."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "In 2013, multiple cash deposits were made into Elcarim Science Pte Ltd's OCBC bank account and recorded in the 2013 general ledger under the 'DUE TO DIRECTOR – ZHANG YONGTAI' account with the description 'BANK – OCBC'."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-02-21",
+          "Text": "On 21 February 2013, a document titled 'Letter of Appointment' for the position of general manager of Elcarim Science Pte Ltd, naming Zhang Yongtai as the appointee and providing for a monthly salary of $18,000 and a three-month notice period, was created and signed only by Zhang Yongtai in both the employer and employee signature blocks."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-03-01",
+          "Text": "For March 2013, Central Provident Fund contribution records for Elcarim Science Pte Ltd reflected a declared monthly salary of $18,000 for Zhang Yongtai."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-04-01",
+          "Text": "For the period April to December 2013, Central Provident Fund contribution records for Elcarim Science Pte Ltd continued to reflect a declared monthly salary of $18,000 for Zhang Yongtai."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "For the period January to April 2014, Central Provident Fund contribution records for Elcarim Science Pte Ltd reflected a declared monthly salary of $20,000 for Zhang Yongtai."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-05-01",
+          "Text": "A salary voucher for May 2014 issued by Elcarim Science Pte Ltd to Zhang Yongtai recorded under 'EARNINGS' a basic salary of $6,000, an allowance of $5,000 and an item described as 'Loan/Advance' of $9,000, totalling $20,000 in earnings for that month."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-05-01",
+          "Text": "The May 2014 salary voucher for Zhang Yongtai, which he signed, showed a 'Loan/Advance' entry of $9,000 in addition to salary and allowance components."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-07-01",
+          "Text": "From around mid-2013, Zhang Yongtai discussed cash flow issues of Elcarim Science Pte Ltd with Dou Suoke and, following those discussions, obtained personal bank loans and channelled funds into the company's bank account."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-07-22",
+          "Text": "After obtaining the ANZ personal loans on 22 July 2013, Zhang Yongtai made monthly repayments on the ANZ loan account from his own funds for approximately the first six months."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "From early 2014 onwards, instalment payments on the ANZ loan account associated with Zhang Yongtai were made using cheques drawn on the bank account of Elcarim Science Pte Ltd, with at least 16 cheques of $3,643 each being issued towards repayment of that loan."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "In 2014, many of the cheques used to pay instalments on the ANZ loan account from Elcarim Science Pte Ltd's bank account were prepared by Pang Theng Kin in his capacity as finance manager."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "By 2014, Pang Theng Kin was involved in logistics and operations of Elcarim Science Pte Ltd in addition to his finance role."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-08-24",
+          "Text": "On 24 August 2014, purchase orders relating to certain restricted equipment later described as the SGCA Goods were issued by Future Digital Science Ltd and addressed to 'Mr Tiger', a nickname used for Zhang Yongtai."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-12-01",
+          "Text": "On 1 December 2014, further purchase orders relating to the SGCA Goods were issued by Future Digital Science Ltd and addressed to 'Mr Tiger'."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "From about 2014, within Elcarim Science Pte Ltd, responsibility for processing purchase orders from customers, including those from Future Digital Science Ltd, was handled by Pang Theng Kin rather than by Zhang Yongtai."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-02-02",
+          "Text": "Around 2 February 2015, Elcarim Science Pte Ltd exported certain equipment later described in regulatory proceedings as strategic goods, without an export permit having been obtained under the Strategic Goods (Control) Act."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-06-09",
+          "Text": "Around 9 June 2015, Elcarim Science Pte Ltd exported further equipment later described in regulatory proceedings as strategic goods, without an export permit having been obtained under the Strategic Goods (Control) Act."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2021-01-01",
+          "Text": "In 2021, Elcarim Science Pte Ltd was convicted on two regulatory charges, DSC-900002-2021 and DSC-900003-2021, relating to exports of the SGCA Goods and was fined a total of $20,000."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-01-01",
+          "Text": "Before the exports of the SGCA Goods, Zhang Yongtai told Dou Suoke that permits were not necessary for all of Elcarim Science Pte Ltd's products."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-03-18",
+          "Text": "Ms Chen Xiao Lan commenced employment with Elcarim Science Pte Ltd on 18 March 2015 and worked there until July 2015, during which time she assisted with logistics for importing and exporting goods."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-03-18",
+          "Text": "During her employment from March to July 2015, Ms Chen Xiao Lan understood that logistics for importing and exporting goods at Elcarim Science Pte Ltd were handled by herself and Zhang Yongtai, and that Pang Theng Kin took over the logistics role only after Zhang left in June 2015."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-06-10",
+          "Text": "On 10 June 2015, Elcarim Science Pte Ltd terminated the employment of Zhang Yongtai without prior notice by issuing him a letter stating that his position as director was terminated with immediate effect."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2015-06-19",
+          "Text": "On 19 June 2015, after the transfer of Zhang Yongtai’s shares to Dou Suoke, Dou and Pang Theng Kin met as shareholders of Elcarim Science Pte Ltd and discussed whether Zhang should resign or be removed."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-06-10",
+          "Text": "Following the termination of Zhang Yongtai on 10 June 2015, Dou Suoke arranged for the shares in Elcarim Science Pte Ltd that were registered in Zhang’s name to be transferred to himself."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-09-03",
+          "Text": "On 3 September 2015, Zhang Yongtai sent a letter to Elcarim Science Pte Ltd in which he stated that he had discovered that his wife's salary had been deducted from his commission."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-11-01",
+          "Text": "Between November 2012 and January 2013, Central Provident Fund contribution records for Elcarim Science Pte Ltd showed CPF contributions being made in the name of Feng Xue Min."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-10-01",
+          "Text": "From October 2014 to April 2015, Elcarim Science Pte Ltd made salary and CPF payments totalling $86,255 to three individuals, Feng Xue Min, Yu De Jun and Yu Meng Shi, who were placed on the company's payroll."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2014-10-01",
+          "Text": "At the time the three individuals were on the payroll of Elcarim Science Pte Ltd, Feng Xue Min was the wife of Zhang Yongtai and the other two individuals, Yu De Jun and Yu Meng Shi, were personally known to him."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-10-01",
+          "Text": "Before the three individuals were placed on the payroll, Zhang Yongtai told Dou Suoke that Elcarim Science Pte Ltd needed to employ more Singaporean employees in order to employ more foreign employees, and Dou agreed to the hiring of the three individuals for marketing, web design and translation work."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-10-01",
+          "Text": "During the period of their recorded employment from October 2014 to April 2015, neither Dou Suoke nor employees Chang Yuliang and Chen Xiao Lan saw the three individuals, Feng Xue Min, Yu De Jun and Yu Meng Shi, working at Elcarim Science Pte Ltd's office or attending company events."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-10-01",
+          "Text": "For the three individuals on the payroll of Elcarim Science Pte Ltd from October 2014 to April 2015, there were no employment contracts, no recorded designations or roles, and no company email addresses or work emails found on the company's server."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-11-27",
+          "Text": "On 27 November 2014, Dou Suoke sent Zhang Yongtai a table listing commissions payable to Zhang, which included initials corresponding to the three individuals and amounts that could be associated with payments to them."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-05-01",
+          "Text": "For May 2015, Elcarim Science Pte Ltd paid Zhang Yongtai a salary of $11,000, as reflected in salary vouchers and accepted by Zhang."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-06-01",
+          "Text": "For June 2015, Central Provident Fund records for Elcarim Science Pte Ltd showed that CPF contributions of $1,357 were to be paid for Zhang Yongtai based on a salary figure of approximately $3,666.67 for the period 1–10 June 2015."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-06-01",
+          "Text": "By June 2015, the last salary level for Zhang Yongtai that had been approved by Dou Suoke for his role in Elcarim Science Pte Ltd was $11,000 per month."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "In the 2013 general ledger of Elcarim Science Pte Ltd, certain entries of $4,500, $5,000 and $50,000 were recorded under the 'DUE TO DIRECTOR – ZHANG YONGTAI' account, which Zhang later accepted were wrongly categorised as loans from him."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "The 2013 general ledger of Elcarim Science Pte Ltd contained discrepancies when compared with the 2012–2013 financial statements, including differences in trade receivables, trade payables, cash bank balances and retained earnings figures."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "Both accounting experts engaged by the parties agreed that the 2013 general ledger of Elcarim Science Pte Ltd was incomplete and that its completeness could not be fully relied upon without examining individual transactions."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "The 2012–2013 financial statements of Elcarim Science Pte Ltd were unaudited and were prepared by Pang Theng Kin based on the 2013 general ledger."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-05-01",
+          "Text": "In May 2015, the Ministry of Manpower made inquiries with Elcarim Science Pte Ltd regarding CPF contributions for some employees, prompting Dou Suoke to review company records relating to employees including the three individuals on the payroll."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-01-01",
+          "Text": "By early 2015, Dou Suoke had previously asked Zhang Yongtai on several occasions to borrow money from Zhang's friends when Elcarim Science Pte Ltd faced cash flow problems."
+        }
+      ],
+      "Issue": "Whether, based only on pre-dispute conduct and records, (a) payments made from Elcarim Science Pte Ltd's bank account towards the ANZ personal loan of Zhang Yongtai, (b) payments of $86,255 to three individuals on the payroll, and (c) amounts recorded as due to director in the 2013 general ledger and 2012–2013 financial statements, correspond to funds or value that should be treated as loans or recoverable sums between Elcarim Science Pte Ltd and Zhang Yongtai.",
+      "Rule": "In company-director financial disputes, courts generally assess: (a) whether funds transferred from a company to or for the benefit of a director were authorised corporate expenditures or unauthorised extractions; (b) whether funds transferred by a director into a company, or expenses paid by a director on the company's behalf, constitute loans or capital contributions, which depends on contemporaneous documentation, accounting treatment, and the parties' communications; (c) whether payroll payments correspond to genuine employment relationships, which is evaluated by reference to contracts, work records, organisational roles and corroborating evidence; and (d) whether entries in internal ledgers or unaudited financial statements amount to reliable admissions of debt, which requires that the entries be accurate, complete, and not solely based on information supplied by an interested party.",
+      "Application": "The pre-dispute records Zhang Yongtai obtained personal ANZ loans and that $60,000 was deposited into Elcarim Science Pte Ltd's OCBC account the next day in the same amount, and that subsequent instalments on the ANZ loan were paid from the company's account using cheques prepared largely by finance manager and later director Pang Theng Kin. The 2013 general ledger and 2012–2013 financial statements record a sum of $685,539 as due to a director, but those documents are incomplete, unaudited and contain acknowledged misclassifications, including entries that Zhang later accepted were wrongly treated as loans. Payroll and CPF records three individuals, including Zhang's wife and two acquaintances, were paid $86,255 between October 2014 and April 2015, while there were no employment contracts, no company email accounts and no observable work at the office for those individuals, according to other employees and Dou. These contemporaneous facts frame the financial relationship between the company and Zhang and the classification of payments and recorded balances, without resolving on their own whether each amount should ultimately be treated as a recoverable debt or as authorised corporate expenditure.",
+      "Judicial_Reasoning_Log": "The judge evaluated whether Zhang was responsible for the SGCA-related exports, noting the absence of direct documentary evidence of his involvement, the lack of export documentation produced by Elcarim, and the fact that Pang was also a director and was prosecuted for similar offences. The judge concluded that Elcarim had not discharged its burden to show that Zhang was responsible for obtaining permits or that his conduct caused the SGCA charges and fines, and dismissed that claim. On the ANZ loan, the judge analysed the ANZ loan documents, the timing and amount of the $60,000 deposit into Elcarim's OCBC account, and the ANZ account statements, rejecting Elcarim's suggestion that the loan was for Zhang's property purchase. The judge found that both tranches of $30,000 were taken around 22 July 2013, that the proceeds were deposited into the company's account, and that instalments were thereafter paid by the company with Pang's knowledge. The judge held that the loan was taken for the company's benefit and that Zhang did not misuse company funds, dismissing Elcarim's misappropriation claim. Regarding the three employees, the judge placed weight on the absence of employment contracts, the lack of any documentary record of work, the absence of company email accounts, and the testimony of Dou, Chang and Chen that they had never seen the three individuals working at the office. The judge found Zhang's oral explanations about their qualifications and contributions to be belated, unsupported and implausible, and concluded that the three individuals did not perform work for Elcarim. The judge held that Zhang caused the company to pay $86,255 to them and that this was a breach of his duties, rejecting Zhang's contention that payments were fully offset against his commissions and that he should be excused under section 391 of the Companies Act. On Zhang's claim for salary in lieu of notice, the judge scrutinised the letter of appointment that Zhang had drafted and signed on both sides, noting that it granted him a three-month notice period and omitted conflict-of-interest and misconduct clauses that appeared in other employees' contracts. The judge found that Dou had not approved this document, that Zhang was in a conflict of interest when he executed it, and held the letter unenforceable. Nonetheless, the judge accepted that Zhang was an employee entitled to reasonable notice, determined that one month was reasonable given his seniority and the one-month notice in Dou's own contract, and awarded him one month's salary at the last approved rate of $11,000. In assessing Zhang's salary level, the judge discounted CPF records and the self-generated appointment letter, and accepted Dou's evidence and salary vouchers showing that $11,000 was the last agreed monthly salary. The judge rejected Zhang's claim for additional salary and CPF for May and 1–10 June 2015 because Zhang had already received $11,000 for May and could not prove non-payment for June, especially in light of CPF records indicating a pro-rated June salary. On the alleged $685,539 loan, the judge examined the 2013 general ledger and 2012–2013 financial statements, noting that they were prepared by Pang based on information from Zhang, were unaudited, incomplete and internally inconsistent with each other. The judge held that the entry of $685,539 as due to a director did not amount to a clear admission by the company, particularly because Zhang had influenced the underlying classifications and later conceded that some entries were wrongly treated as loans. The judge considered expert evidence from both accounting experts, who agreed that the ledger was incomplete and that there were discrepancies between the ledger and the financial statements. The judge also observed that the figure of $685,539 was as at 30 September 2013 and did not account for subsequent payments and further transactions between Zhang and the company. Overall, the judge concluded that Zhang had not established the existence and quantum of the alleged aggregate loan based solely on the ledger and financial statements and that the burden of proof remained with him. The court therefore dismissed Elcarim's claims relating to the SGCA charges and the alleged misuse of funds for the ANZ loan, allowed its claim for $86,255 in respect of the three employees, and on the counterclaim awarded Zhang one month's salary of $11,000 in lieu of notice while rejecting his larger salary and loan claims."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 118 of 2021",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair",
+      "Date": "2023-08-15",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Zhang Yongtai",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-01-01",
+          "Text": "Zhang Yongtai is a Singaporean individual who became involved with Elcarim Science Pte Ltd from its incorporation."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-08-07",
+          "Text": "On 7 August 2012, upon incorporation of Elcarim Science Pte Ltd, Zhang Yongtai was appointed as its sole director and took charge of the day-to-day management of the company."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2012-08-07",
+          "Text": "At the time of incorporation of Elcarim Science Pte Ltd, all shares were registered in the name of Zhang Yongtai, with half of those shares held on trust for Dou Suoke pursuant to their agreement."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-08-07",
+          "Text": "From incorporation until his removal in June 2015, Zhang Yongtai acted as both a director and an executive manager of Elcarim Science Pte Ltd, overseeing operations in Singapore."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-08-07",
+          "Text": "Following the incorporation of Elcarim Science Pte Ltd, Zhang Yongtai managed the company's day-to-day affairs, including administration, logistics, and dealings with suppliers and customers."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-02-21",
+          "Text": "On 21 February 2013, Zhang Yongtai prepared and signed a document titled 'Letter of Appointment' appointing himself as general manager of Elcarim Science Pte Ltd with a stated monthly salary of $18,000 and a three-month notice period, signing in both the employer and employee signature fields."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-03-01",
+          "Text": "From March 2013 onwards, Central Provident Fund contribution filings for Elcarim Science Pte Ltd listed a monthly salary of $18,000 for Zhang Yongtai."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "From January to April 2014, Central Provident Fund contribution filings for Elcarim Science Pte Ltd listed a monthly salary of $20,000 for Zhang Yongtai."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-07-22",
+          "Text": "On 22 July 2013, Zhang Yongtai entered into two personal term loan agreements with ANZ Bank in his own name, one for $30,000 on a one-year tenure at 5.8% per annum and another for $30,000 on a three-year tenure at 6.6% per annum, under a single ANZ loan account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-07-23",
+          "Text": "On 23 July 2013, after the ANZ loans were disbursed to his personal account, Zhang Yongtai arranged for $60,000 to be deposited into Elcarim Science Pte Ltd's OCBC bank account number ending 2001."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-07-22",
+          "Text": "Following discussions with Dou Suoke about Elcarim Science Pte Ltd's cash flow difficulties in mid-2013, Zhang Yongtai agreed to obtain personal bank financing and channel the proceeds into the company's bank account."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-07-22",
+          "Text": "After taking the ANZ personal loans on 22 July 2013, Zhang Yongtai personally paid the monthly instalments on the ANZ loan account for approximately the first six months."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "From early 2014 onwards, instalment payments of $3,643 each on the ANZ loan account were made using cheques drawn on Elcarim Science Pte Ltd's bank account, with a total of 16 such cheques being issued towards repayment of the ANZ loan."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "Many of the cheques used to pay the ANZ loan instalments from Elcarim Science Pte Ltd's bank account were prepared by finance manager and later director Pang Theng Kin, with Zhang Yongtai arranging for the company to make those payments."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-09-30",
+          "Text": "As at 30 September 2013, the general ledger of Elcarim Science Pte Ltd contained a 'DUE TO DIRECTOR – ZHANG YONGTAI' account with multiple entries, including cash deposits, director's account entries, director's remuneration, salary, GST input tax and travelling expenses, which Zhang Yongtai regarded as reflecting amounts he had advanced or incurred for the company."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-09-30",
+          "Text": "The unaudited financial statements of Elcarim Science Pte Ltd for financial year 2012–2013, prepared by Pang Theng Kin based on the 2013 general ledger, included a line item describing $685,539 as a sum due to a director, which Zhang Yongtai treated as an aggregate of loans and expenses he had provided to the company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-01",
+          "Text": "During 2013, Zhang Yongtai used his personal credit card and personal funds to pay for various expenses related to Elcarim Science Pte Ltd, including office expenses, travel and GST input tax, and provided supporting documents to Pang Theng Kin for posting into the company's general ledger."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "In 2013, multiple cash deposits into Elcarim Science Pte Ltd's OCBC bank account were recorded in the general ledger under the 'DUE TO DIRECTOR – ZHANG YONGTAI' account with the description 'BANK – OCBC', which Zhang Yongtai considered to be funds he had introduced to the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "By 30 September 2013, the total of entries recorded in the 'DUE TO DIRECTOR – ZHANG YONGTAI' account in the 2013 general ledger, including cash deposits, expenses and other items, was $685,539, which Zhang Yongtai regarded as an aggregate loan balance owed to him by Elcarim Science Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "After 30 September 2013, Zhang Yongtai received payments from Elcarim Science Pte Ltd that he treated as partial repayments of amounts recorded as due to him, including sums of $35,508.46 and $60,588.72."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-11-01",
+          "Text": "From November 2012 onwards, Zhang Yongtai arranged for his wife, Feng Xue Min, and two acquaintances, Yu De Jun and Yu Meng Shi, to be placed on the payroll of Elcarim Science Pte Ltd at different times, with the stated purpose of increasing the number of Singaporean employees and providing marketing, web design and translation support."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-10-01",
+          "Text": "Between October 2014 and April 2015, Elcarim Science Pte Ltd paid salaries, bonuses and CPF contributions totalling $86,255 to the three individuals, Feng Xue Min, Yu De Jun and Yu Meng Shi, while Zhang Yongtai maintained that these payments were either for work done or were offset against his commissions."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2014-10-01",
+          "Text": "At the time the three individuals were on the payroll of Elcarim Science Pte Ltd, Feng Xue Min was married to Zhang Yongtai, and the other two individuals, Yu De Jun and Yu Meng Shi, were personally known to him."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-11-27",
+          "Text": "On 27 November 2014, Zhang Yongtai received from Dou Suoke a table listing commissions payable to him, which included notations that Zhang interpreted as indicating that portions of his commissions were allocated to the three individuals on the payroll."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-03-18",
+          "Text": "During the period from March to July 2015, while Ms Chen Xiao Lan was employed at Elcarim Science Pte Ltd, Zhang Yongtai continued to oversee logistics for importing and exporting goods, working alongside Ms Chen until his departure in June 2015."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-02-02",
+          "Text": "Around 2 February 2015, goods later described as SGCA Goods were exported by Elcarim Science Pte Ltd, and Zhang Yongtai maintained that he was not involved in those particular export transactions and that they were handled by Pang Theng Kin."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-06-09",
+          "Text": "Around 9 June 2015, further SGCA Goods were exported by Elcarim Science Pte Ltd, and Zhang Yongtai maintained that he neither participated in nor had knowledge of the purchase orders for those goods."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-01-01",
+          "Text": "Before the exports of the SGCA Goods, Zhang Yongtai told Dou Suoke that not all of Elcarim Science Pte Ltd's products required export permits, and that he was responsible for applying for permits only for goods he was directly exporting."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-06-10",
+          "Text": "On 10 June 2015, Zhang Yongtai received a letter from Elcarim Science Pte Ltd stating that his employment as director was terminated with immediate effect, and he ceased working for the company from that date."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-06-10",
+          "Text": "Following his termination on 10 June 2015, the shares in Elcarim Science Pte Ltd that were registered in the name of Zhang Yongtai were transferred to Dou Suoke, which Zhang later challenged as an unlawful transfer."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-09-03",
+          "Text": "On 3 September 2015, Zhang Yongtai sent a letter to Elcarim Science Pte Ltd in which he stated that he had discovered that his wife's salary had been deducted from his commission and raised various demands relating to his financial position with the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-05-01",
+          "Text": "For May 2015, Zhang Yongtai received a payment of $11,000 from Elcarim Science Pte Ltd as his salary, which he later acknowledged in the proceedings."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-06-01",
+          "Text": "For the period 1–10 June 2015, Central Provident Fund records indicated that contributions were to be made for Zhang Yongtai based on a pro-rated salary of approximately $3,666.67, although Zhang later stated he was unsure whether he had actually received that salary payment."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-01",
+          "Text": "Throughout 2013 and 2014, Zhang Yongtai provided documents and information to finance manager Pang Theng Kin for the preparation of the 2013 general ledger and subsequent financial statements of Elcarim Science Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "In the 2013 general ledger of Elcarim Science Pte Ltd, certain entries of $4,500, $5,000 and $50,000 were recorded under the 'DUE TO DIRECTOR – ZHANG YONGTAI' account, which Zhang later accepted were incorrectly categorised as loans from him and should be excluded from his loan claim."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-01",
+          "Text": "During 2013, Zhang Yongtai made various cash deposits into Elcarim Science Pte Ltd's bank account, including an initial $2,000 deposit to open the OCBC account, and treated these deposits as amounts he had advanced to the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "By 2013, Zhang Yongtai considered that unpaid portions of his salary and allowances, as well as redirected commissions from Dou, were to be treated as loans from him to Elcarim Science Pte Ltd and were recorded in the general ledger under the 'DUE TO DIRECTOR – ZHANG YONGTAI' account."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Before and during his involvement with Elcarim Science Pte Ltd, Zhang Yongtai maintained personal and business relationships with individuals in China, including his wife and acquaintances who were later placed on the company's payroll."
+        }
+      ],
+      "Issue": "Whether, based solely on pre-dispute conduct, documents and financial records, (a) the aggregate of amounts recorded as due to director in the 2013 general ledger and subsequent financial statements of Elcarim Science Pte Ltd represents loans or reimbursable expenses from Zhang Yongtai to the company, (b) the use of company funds to service the ANZ personal loan should be treated as repayment of funds previously introduced by Zhang to the company, (c) the payments of $86,255 to three individuals on the payroll correspond to genuine work or to amounts effectively borne by Zhang through his commissions, and (d) the termination of Zhang's employment without notice entitles him to salary in lieu of notice at his last approved salary level.",
+      "Rule": "In disputes between a company and a director over financial flows and termination, courts generally apply the following standards: (a) a person claiming repayment of an loan to a company must prove the existence, amount and terms of the loan by reference to contemporaneous documents, accounting treatment and surrounding conduct; (b) internal ledger entries and unaudited financial statements may be evidence of indebtedness but are not conclusive admissions if their accuracy, completeness or independence is in doubt; (c) where a director uses personal borrowing to fund a company and company funds are later used to service that borrowing, the classification of those payments depends on whether the company benefited from the initial inflow and whether there was an agreement or understanding that the company would bear the repayment; (d) payroll payments are treated as remuneration for genuine employment only if supported by contracts, work records and organisational evidence; and (e) an employee whose contract is terminated without contractual notice is generally entitled to reasonable notice or salary in lieu, with the length of reasonable notice depending on seniority, role and prior agreed terms.",
+      "Application": "The pre-dispute records Zhang Yongtai obtained two ANZ personal loans totalling $60,000 and that the same amount was deposited into Elcarim Science Pte Ltd's OCBC account the next day, followed by company-funded instalment payments prepared largely by finance manager Pang Theng Kin. These facts support Zhang's position that the company received the benefit of the loan proceeds and later serviced the debt, but the records do not themselves specify any written agreement on how those flows should be classified between Zhang and the company. The 2013 general ledger and 2012–2013 financial statements record $685,539 as due to a director, and Zhang treated this as an aggregate loan balance, yet those documents were prepared by Pang based on information from Zhang, are unaudited, incomplete and contain acknowledged misclassifications, which weakens their reliability as independent proof of a loan. Payroll and CPF records three individuals, including Zhang's wife and two acquaintances, were paid $86,255, while there are no employment contracts, no company email accounts and no observable work at the office for them according to other staff, which undermines Zhang's assertion that they were genuine employees or that all payments to them were offset against his commissions. Regarding termination, contemporaneous documents Zhang was summarily removed on 10 June 2015, that his last salary level approved by Dou was $11,000 per month, and that he had been treated as an employee for CPF purposes, which supports a claim to some salary in lieu of notice but not necessarily at the higher levels reflected only in self-generated documents and CPF filings.",
+      "Judicial_Reasoning_Log": "The judge considered Zhang's counterclaims and Elcarim's defences by examining the contemporaneous documents and the credibility of the witnesses. On the alleged aggregate loan of $685,539, the judge noted that Zhang's pleadings relied primarily on the entry in the 2012–2013 financial statements and the 'DUE TO DIRECTOR – ZHANG YONGTAI' account in the 2013 general ledger, without particularising the individual components. The judge held that the reference in the financial statements did not amount to a clear admission by the company because the statements were unaudited, based on a ledger prepared by Pang using information supplied by Zhang, and contained multiple inconsistencies with the ledger, including differences in trade receivables, trade payables, cash bank balances and retained earnings. Both accounting experts agreed that the ledger was incomplete, and Zhang himself accepted that certain entries recorded as loans were wrong. The judge emphasised that the $685,539 figure was as at 30 September 2013 and did not account for subsequent payments and further transactions, and that Zhang bore the burden of proving the existence, amount and terms of any loans. The court concluded that Zhang had not established the claimed aggregate loan and rejected his reliance on the financial statements as an admission. On the ANZ loan, the judge found that the loan proceeds were paid into the company's account and that the company thereafter made instalment payments, but treated this as showing that the loan was taken for the company's benefit rather than as misuse of company funds by Zhang. The judge dismissed Elcarim's claim that Zhang misused $58,288 of company funds and indicated that the ANZ loan would be considered as part of the broader loan account analysis, ultimately finding that Zhang had not proved a net balance due to him. Regarding the three employees, the judge found that there was no documentary evidence of their employment or work, that they were not seen at the office by other staff, and that Zhang's explanations about their roles and qualifications were unconvincing and unsupported. The judge held that the three individuals did not perform work for the company and that Zhang caused the company to pay them $86,255, which was recoverable from him. The judge rejected Zhang's argument that all such payments were offset against his commissions, noting that the table of commissions only partially matched the payroll amounts and periods and that Zhang's own letter of 3 September 2015 suggested he had only later discovered that his wife's salary had been deducted from his commission. On the termination claim, the judge held that the self-executed letter of appointment was unenforceable because Zhang signed it on both sides, altered standard terms in his favour and did so without Dou's approval, but nonetheless recognised that Zhang was an employee entitled to reasonable notice. The judge determined that one month was reasonable given his seniority and the one-month notice in Dou's contract, and awarded Zhang $11,000, the last salary level that Dou had approved. The judge rejected Zhang's higher salary claims based on CPF records and the self-generated appointment letter, and dismissed his claim for additional salary and CPF for May and 1–10 June 2015 because he had already received $11,000 for May and could not prove non-payment for June. Overall, the court dismissed Zhang's large loan claim, allowed his limited claim for one month's salary in lieu of notice, and held him liable to repay the company $86,255 in relation to the three employees, while rejecting Elcarim's claims concerning the SGCA charges and the alleged misuse of funds for the ANZ loan."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 2
+  }
+]

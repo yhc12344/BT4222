@@ -1,0 +1,455 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "HC/Suit No 1236 of 2015; HC/Suit No 239 of 2015",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck",
+      "Date": "2018-02-01",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Lim Seng Choon David",
+      "Law_Firm": "Central Chambers Law Corporation",
+      "Counsel": [
+        "Twang Kern Zern",
+        "Lam Jianhao Mark"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2014-01-01",
+          "Text": "Lim Seng Choon David was an employee of Global Maritime Holdings Ltd and a director of Global Maritime Consultancy Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2012-06-01",
+          "Text": "A property in Woodlands belonging to Lim Seng Choon David and his wife was leased to Global Maritime Consultancy Pte Ltd under a tenancy agreement dated 1 June 2012 with a 24‑month term ending 30 June 2014 and a monthly rental of $2,700."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-02-28",
+          "Text": "On 28 February 2013, a letter issued on behalf of Global Maritime Consultancy Pte Ltd to the wife of Lim Seng Choon David stated that the existing lease of the Woodlands Property would be terminated with effect from 28 February 2013."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-02-28",
+          "Text": "On 28 February 2013, Global Maritime Consultancy Pte Ltd entered into a fresh lease for the Woodlands Property with the wife of Lim Seng Choon David as landlord at an increased rent of $2,800 per month with effect from 1 March 2013, and Lim Seng Choon David signed the tenancy agreement on behalf of the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-02-28",
+          "Text": "Around 28 February 2013, Global Maritime Consultancy Pte Ltd paid $2,996 in commission to PropNex for arranging the new lease of the Woodlands Property."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Between 2012 and 2014, Global Maritime Consultancy Pte Ltd entered into three tenancy agreements, two lease renewal agreements and two amendment agreements with the wife of Lim Seng Choon David in relation to the Woodlands Property and a unit at Lompang Road owned by his son and daughter‑in‑law, with some of these agreements signed by Lim Seng Choon David on behalf of the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "During the period of the leases, Global Maritime Consultancy Pte Ltd made rental payments under tenancy agreements for the Woodlands Property and the Lompang Property where the counterparties were the wife of Lim Seng Choon David and his son and daughter‑in‑law."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "During the period when the Woodlands Property and Lompang Property were leased to Global Maritime Consultancy Pte Ltd, cheques were issued on behalf of the company to Tiffany Liu Yao for cleaning of properties belonging to Lim Seng Choon David and his wife that were leased to the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "During the same period, cheques were issued on behalf of Global Maritime Consultancy Pte Ltd to the wife of Lim Seng Choon David for cleaning services for properties owned by him and his wife that were leased to the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Global Maritime Consultancy Pte Ltd issued cheques in favour of the wife of Lim Seng Choon David for the purchase of used furniture and appliances from her that were associated with the Lompang Property."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Over several years, expense claims were submitted by Lim Seng Choon David to Global Maritime Consultancy Pte Ltd for a SingTel Mio Plan for his home, servicing fees for the air conditioning system at his residence, car insurance and road tax for his own vehicle, top‑ups for his cash card, petrol for his own vehicle, parking expenses, shampoo and bathing oils for his personal use, and passport renewal fees."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "In 2014, Lim Seng Choon David made a total of eight trips to Hong Kong and China that were charged to Global Maritime Consultancy Pte Ltd as business travel expenses."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-01-01",
+          "Text": "In 2014, email correspondence from Jan Vatsvaag, a director of Global Maritime Consultancy Pte Ltd, informed Lim Seng Choon David that matters in China were to be dealt with by the managing director of the China office and questioned a visit he conducted without informing the China office."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2014-01-01",
+          "Text": "In 2014, the China office of the Global Maritime group managed Chinese clients, and the managing director of the China office was designated to handle matters in China."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "In or around 2013 and 2014, Lim Seng Choon David submitted expense claims to Global Maritime Consultancy Pte Ltd for overseas trips including a trip to Vietnam during the Chinese New Year period when the Vietnam office was closed, a family vacation to Indonesia, and a family vacation to Malaysia, including accommodation and food and beverage expenses on non‑working days."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "During the period when Lim Seng Choon David was a director, Global Maritime Consultancy Pte Ltd used claim sheets and receipts to process reimbursement of staff expenses, and its accountant Tiffany Liu checked that claimed amounts matched receipts or the totals on claim sheets."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "During his tenure, Lim Seng Choon David approved his own expense claims within Global Maritime Consultancy Pte Ltd according to the internal practice described by the company accountant."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-11-24",
+          "Text": "On 24 November 2014, Lim Seng Choon David met with Gary Anthony Hogg, a director of Global Maritime Holdings Ltd and Global Maritime Consultancy Pte Ltd, and was asked to retire early."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-11-24",
+          "Text": "On the afternoon of 24 November 2014, after the meeting about his early retirement, Lim Seng Choon David sent an email to Gary Anthony Hogg stating that he was entitled to \"all dues plus 6 months’ salary\"."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-11-24",
+          "Text": "On 24 November 2014, discussions took place between Lim Seng Choon David and Gary Anthony Hogg regarding the immediate termination of his employment, possible compensation including six months’ salary, payment for unutilised holiday leave and \"earned leaves\", a 2013 bonus, transfer of his shares in Global Maritime Group AS at an open market value, repayment of an outstanding balance under a S$500,000 loan agreement, and a six‑month non‑competition period."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-11-25",
+          "Text": "Shortly after 24 November 2014, a draft Separation Agreement and a draft Share Purchase Agreement were circulated to Lim Seng Choon David for his consideration in relation to his departure and the sale of his shares in Global Maritime Group AS."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-11-25",
+          "Text": "The draft Separation Agreement prepared after 24 November 2014 included a proposed non‑competition period of 12 months and terms relating to compensation and the retirement of Lim Seng Choon David."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-01-20",
+          "Text": "On 20 January 2015, Lim Seng Choon David sent an email to Gary Anthony Hogg setting out what he wanted in exchange for his retirement, including terms on compensation."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "Under a loan agreement for S$500,000, Global Maritime Consultancy Pte Ltd owed an outstanding balance to Lim Seng Choon David as at 24 November 2014."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "For the year 2013, a bonus amount of $30,692 was identified as relating to Lim Seng Choon David’s work for Global Maritime Consultancy Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-11-24",
+          "Text": "As at 24 November 2014, Global Maritime Consultancy Pte Ltd maintained leave records for Lim Seng Choon David that were to be used to calculate any aggregate sum for unutilised holiday leave entitlement and \"earned leaves\" accumulated up to that date."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-11-01",
+          "Text": "In November 2014, after discussions about his retirement, Lim Seng Choon David travelled to Hong Kong to collect a gold bar and a gold business card stand on behalf of Global Maritime Consultancy Pte Ltd, and the trip expenses were claimed from the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-11-01",
+          "Text": "In November 2014, Global Maritime Consultancy Pte Ltd incurred costs for commissioning a gold bar described as a 10‑year long service award and a gold business card stand described as a 5‑year long service award, and the only recipients were Lim Seng Choon David and his son respectively."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-11-01",
+          "Text": "According to his own account, Lim Seng Choon David approved the idea of commissioning the gold bar and gold business card stand after discussion with his superior Jan Vatsvaag."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "Financial statements of Global Maritime Consultancy Pte Ltd for the relevant years contained references to the name of the wife of Lim Seng Choon David in connection with related‑party transactions."
+        }
+      ],
+      "Issue": "Whether discussions and communications on and after 24 November 2014 resulted in a binding oral agreement on the terms of Lim Seng Choon David’s early retirement package, and whether his pre‑retirement conduct in causing Global Maritime Consultancy Pte Ltd to incur various expenses and enter into related‑party leases corresponds to amounts later claimed or disputed between the parties.",
+      "Rule": "An oral contract is formed when parties, by their words and conduct, manifest mutual assent to sufficiently certain terms with an intention to create legal relations. Directors of companies are generally ensure that company resources are used for company purposes, that related‑party transactions are properly documented and disclosed, and that expense claims and contractual commitments are aligned with the company’s commercial interests and internal authorisation processes.",
+      "Application": "The timing and content of the 24 November 2014 meeting, the same‑day email stating entitlement to \"all dues plus 6 months’ salary\", and the subsequent circulation of draft written agreements negotiations about retirement terms and share transfer were ongoing rather than fully specified at the meeting. The leave records, identified bonus amount, and outstanding loan balance define the monetary components that could be quantified under any eventual agreement. The pattern of expense claims for travel, personal items, family vacations, gold products, and home‑related services, together with the structure of the Woodlands and Lompang leases and payments to the wife, son, daughter‑in‑law, and Tiffany Liu, show how company funds were applied in connection with properties and benefits linked to Lim Seng Choon David and his family before the dispute arose.",
+      "Judicial_Reasoning_Log": "The court held that there was no binding oral agreement concluded at the 24 November 2014 meeting because the parties were only negotiating, their subsequent correspondence and the draft Separation Agreement and Share Purchase Agreement showed that they did not consider themselves bound, and the alleged terms were uncertain, particularly regarding the basis for six months’ salary and the scope and duration of any non‑competition period. The judge considered that a multinational company was unlikely to allow unlimited accrual of leave and large payments for unutilised leave to be agreed orally, and noted that the quantum of any such leave entitlement was unknown to both sides at the time. The plaintiff’s claim in Suit 1236 of 2015 was therefore dismissed. On the counterclaim, the court applied the director’s duties to act honestly in the company’s best interests and to avoid conflicts of interest. It found that the eight Hong Kong and China trips in 2014 were not in the company’s interests given the China office’s role and instructions from management, and that many other overseas and local expense claims were unsupported or related to family vacations and personal items. The court rejected the plaintiff’s reliance on internal approval practices, finding that he effectively approved his own claims. The commissioning of the gold bar and gold business card stand and the associated Hong Kong trip were found to be in bad faith because only the plaintiff and his son received such awards and there was no established company practice. The court also found that the termination and immediate re‑letting of the Woodlands Property at a higher rent, with commission paid to PropNex, and the payments to Tiffany Liu and the plaintiff’s wife for cleaning services, were not in the company’s best interests. On conflicts of interest, the judge held that the leases of the Woodlands and Lompang properties and the purchase of used furniture and appliances from the plaintiff’s wife were entered into without full prior disclosure to, and release from, the company, and that the mere appearance of the wife’s name in financial statements was insufficient. The court concluded that the plaintiff was in breach of his duties to act honestly and to avoid conflicts of interest, held him liable to the second defendant for $60,327.17 in wrongful expense claims and $5,916 in respect of the PropNex commission and cheques to Tiffany Liu, and ordered damages to be assessed for the Woodlands and Lompang leases, the cleaning services by his wife, and the purchase of used furniture and appliances. Costs of the consolidated suits were ordered to be paid by the plaintiff to the second defendant."
+    },
+    "Label": "Dismissed",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "HC/Suit No 1236 of 2015; HC/Suit No 239 of 2015",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck",
+      "Date": "2018-02-01",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Global Maritime Holdings Ltd",
+      "Law_Firm": "Dentons Rodyk & Davidson LLP",
+      "Counsel": [
+        "Audrey Chiang Ju Hua",
+        "Nerissa Tan Yin Shi"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2014-01-01",
+          "Text": "Global Maritime Holdings Ltd was in the business of providing marine, offshore and engineering consultancy services."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2014-01-01",
+          "Text": "Global Maritime Consultancy Pte Ltd was a wholly‑owned subsidiary of Global Maritime Holdings Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2014-01-01",
+          "Text": "Lim Seng Choon David was employed by Global Maritime Holdings Ltd while serving as a director of its subsidiary Global Maritime Consultancy Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2014-01-01",
+          "Text": "Gary Anthony Hogg was a director of Global Maritime Holdings Ltd and Global Maritime Consultancy Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-11-24",
+          "Text": "On 24 November 2014, Global Maritime Holdings Ltd, represented by director Gary Anthony Hogg, met with employee Lim Seng Choon David to discuss his early retirement from the company."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-11-24",
+          "Text": "At the 24 November 2014 meeting, Global Maritime Holdings Ltd, through Gary Anthony Hogg, discussed with Lim Seng Choon David the immediate termination of his employment, possible waiver of one month’s notice, compensation including six months’ salary, payment for unutilised leave and \"earned leaves\", a 2013 bonus, transfer of his shares in Global Maritime Group AS, repayment of an outstanding loan balance, and a non‑competition period."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-11-24",
+          "Text": "On the afternoon of 24 November 2014, Global Maritime Holdings Ltd received an email from Lim Seng Choon David stating that he was entitled to \"all dues plus 6 months’ salary\" following the retirement discussion."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-11-25",
+          "Text": "Shortly after 24 November 2014, Global Maritime Holdings Ltd and its subsidiary caused a draft Separation Agreement and a draft Share Purchase Agreement to be prepared and circulated to Lim Seng Choon David to document proposed terms of his retirement and the sale of his shares in Global Maritime Group AS."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-11-25",
+          "Text": "The draft Separation Agreement prepared after 24 November 2014 on behalf of Global Maritime Holdings Ltd and its subsidiary proposed a 12‑month non‑competition period and set out terms for compensation and retirement."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-11-25",
+          "Text": "After 24 November 2014, Global Maritime Holdings Ltd and its subsidiary continued to negotiate with Lim Seng Choon David regarding the terms of his departure, as reflected in subsequent email correspondence and draft agreements."
+        }
+      ],
+      "Issue": "Whether Global Maritime Holdings Ltd, through its director and subsequent draft agreements, entered into a binding oral contract with Lim Seng Choon David on 24 November 2014 for his immediate retirement and associated payments, and how its corporate relationship with Global Maritime Consultancy Pte Ltd affected responsibility for employment‑related and share‑related payments.",
+      "Rule": "A company becomes bound by an oral contract when its authorised representatives manifest agreement to definite terms with an intention to create legal relations, and when any subsidiary or parent allocation of obligations is clearly defined. In employment exit situations, negotiations, emails, and draft agreements are assessed to determine whether they reflect a concluded agreement or ongoing discussions.",
+      "Application": "The 24 November 2014 meeting, the same‑day email from Lim Seng Choon David referring to \"all dues plus 6 months’ salary\", and the later circulation of a draft Separation Agreement and Share Purchase Agreement Global Maritime Holdings Ltd used its director to explore terms for immediate retirement and share transfer. The inclusion of a 12‑month non‑competition clause in the draft Separation Agreement and the absence of detailed leave and bonus terms in the early correspondence the company treated the discussions as further documentation rather than as a finalised oral contract. The parent‑subsidiary structure meant that Global Maritime Holdings Ltd remained the formal employer while its subsidiary was involved in operational and financial aspects of the proposed package.",
+      "Judicial_Reasoning_Log": "The court accepted the defendants’ position that the 24 November 2014 discussions were negotiations subject to contract and that no binding oral agreement was concluded. It relied on the lack of detailed terms in the plaintiff’s same‑day email, the content of the draft Separation Agreement and Share Purchase Agreement, and the parties’ subsequent conduct to find that they did not consider themselves bound. The judge also accepted the defendants’ argument that the plaintiff remained employed by the first defendant and that any practice of the second defendant regarding leave accrual did not automatically apply to him. Accordingly, the claim against Global Maritime Holdings Ltd for the alleged oral agreement and related payments was dismissed."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "HC/Suit No 1236 of 2015; HC/Suit No 239 of 2015",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck",
+      "Date": "2018-02-01",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Global Maritime Consultancy Pte Ltd",
+      "Law_Firm": "Dentons Rodyk & Davidson LLP",
+      "Counsel": [
+        "Audrey Chiang Ju Hua",
+        "Nerissa Tan Yin Shi"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2014-01-01",
+          "Text": "Global Maritime Consultancy Pte Ltd was in the business of providing marine, offshore and engineering consultancy services."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2014-01-01",
+          "Text": "Global Maritime Consultancy Pte Ltd was a wholly‑owned subsidiary of Global Maritime Holdings Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2014-01-01",
+          "Text": "Lim Seng Choon David was a director of Global Maritime Consultancy Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2014-01-01",
+          "Text": "Gary Anthony Hogg was a director of Global Maritime Consultancy Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2014-01-01",
+          "Text": "Jan Vatsvaag was a director and regional superior within Global Maritime Consultancy Pte Ltd at the material time."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2014-01-01",
+          "Text": "Anna Keen was the regional manager of Global Maritime Consultancy Pte Ltd at the material time."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2014-01-01",
+          "Text": "Tiffany Liu Yao was the accountant of Global Maritime Consultancy Pte Ltd at the material time."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2014-01-01",
+          "Text": "Global Maritime Consultancy Pte Ltd had a China office with a managing director responsible for managing Chinese clients."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-11-24",
+          "Text": "On 24 November 2014, Global Maritime Consultancy Pte Ltd, through director Gary Anthony Hogg, participated in a meeting with its director Lim Seng Choon David regarding his early retirement and related compensation."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-11-24",
+          "Text": "At the 24 November 2014 meeting, Global Maritime Consultancy Pte Ltd, represented by Gary Anthony Hogg, discussed with Lim Seng Choon David potential terms including immediate termination of his employment with the parent company, waiver of one month’s notice, payment for unutilised leave and \"earned leaves\", a 2013 bonus, repayment of an outstanding loan balance, six months’ salary, a non‑competition period, and transfer of his shares in Global Maritime Group AS."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-11-25",
+          "Text": "Shortly after 24 November 2014, Global Maritime Consultancy Pte Ltd arranged for a draft Separation Agreement and a draft Share Purchase Agreement to be sent to Lim Seng Choon David to record proposed terms of his departure and share transfer."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-11-25",
+          "Text": "The draft Separation Agreement prepared on behalf of Global Maritime Consultancy Pte Ltd after 24 November 2014 proposed a 12‑month non‑competition period and set out terms for compensation and retirement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "Global Maritime Consultancy Pte Ltd owed an outstanding balance to Lim Seng Choon David under a S$500,000 loan agreement as at 24 November 2014."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "Global Maritime Consultancy Pte Ltd identified a bonus amount of $30,692 for the year 2013 in relation to Lim Seng Choon David."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-11-24",
+          "Text": "As at 24 November 2014, Global Maritime Consultancy Pte Ltd maintained leave records for Lim Seng Choon David to calculate any aggregate sum for unutilised holiday leave entitlement and \"earned leaves\" accumulated up to that date."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "In 2014, Global Maritime Consultancy Pte Ltd recorded eight trips by Lim Seng Choon David to Hong Kong and China as business travel expenses charged to the company."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-01-01",
+          "Text": "In 2014, email correspondence from director Jan Vatsvaag informed Lim Seng Choon David that he should not venture into China because matters there were to be dealt with by the managing director of the China office, and the China office questioned a visit he conducted without informing them."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "According to regional manager Anna Keen, Chinese clients of Global Maritime Consultancy Pte Ltd were managed by the China office and there was no operational need for Lim Seng Choon David to visit China or Hong Kong to cultivate business, and he was not authorised to do so."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "Global Maritime Consultancy Pte Ltd used an expense claim process in which its accountant Tiffany Liu checked that claimed amounts matched receipts or the totals on claim sheets, and she understood that small purchases around $10 to $15 might not require receipts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "Within Global Maritime Consultancy Pte Ltd, expense claims submitted by Lim Seng Choon David were approved by himself in line with the internal practice described by the company accountant."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "Global Maritime Consultancy Pte Ltd processed and paid various overseas travel expense claims submitted by Lim Seng Choon David, including claims for accommodation and food and beverage expenses on non‑working days, a trip to Vietnam during the Chinese New Year period when the Vietnam office was closed, and two family vacations to Indonesia and Malaysia."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Over several years, Global Maritime Consultancy Pte Ltd reimbursed personal expenses claimed by Lim Seng Choon David, including a SingTel Mio Plan for his home, servicing fees for the air conditioning system at his residence, car insurance and road tax for his own vehicle, top‑ups for his cash card, petrol for his own vehicle, parking expenses, shampoo and bathing oils for his personal use, and passport renewal fees."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-06-01",
+          "Text": "On 1 June 2012, Global Maritime Consultancy Pte Ltd entered into a tenancy agreement with the wife of Lim Seng Choon David as landlord to lease a Woodlands Property owned by him and his wife for 24 months ending 30 June 2014 at a monthly rental of $2,700."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-02-28",
+          "Text": "On 28 February 2013, Global Maritime Consultancy Pte Ltd issued a letter to the wife of Lim Seng Choon David stating that the existing lease of the Woodlands Property would be terminated with effect from 28 February 2013."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-02-28",
+          "Text": "On 28 February 2013, Global Maritime Consultancy Pte Ltd entered into a fresh lease for the Woodlands Property with the wife of Lim Seng Choon David as landlord at an increased rent of $2,800 per month with effect from 1 March 2013, and the tenancy agreement was signed on behalf of the company by Lim Seng Choon David."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-02-28",
+          "Text": "In connection with the new lease of the Woodlands Property commencing 1 March 2013, Global Maritime Consultancy Pte Ltd paid $2,996 in commission to PropNex, which was recorded as acting on behalf of the company."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Between 2012 and 2014, Global Maritime Consultancy Pte Ltd entered into three tenancy agreements, two lease renewal agreements and two amendment agreements with the wife of Lim Seng Choon David in relation to the Woodlands Property and a Lompang Road unit owned by his son and daughter‑in‑law, with some of these agreements signed by him on behalf of the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "During the term of the Woodlands and Lompang leases, Global Maritime Consultancy Pte Ltd made rental payments under tenancy agreements where the counterparties were the wife of Lim Seng Choon David and his son and daughter‑in‑law."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Global Maritime Consultancy Pte Ltd issued cheques to Tiffany Liu Yao for cleaning of properties belonging to Lim Seng Choon David and his wife that were leased to the company, without supporting contracts being produced in the proceedings."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Global Maritime Consultancy Pte Ltd issued cheques to the wife of Lim Seng Choon David for cleaning services for properties owned by him and his wife that were leased to the company, without written cleaning contracts being produced in the proceedings."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Global Maritime Consultancy Pte Ltd issued cheques to the wife of Lim Seng Choon David for the purchase of used furniture and appliances from her associated with the Lompang Property."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-11-01",
+          "Text": "In November 2014, Global Maritime Consultancy Pte Ltd incurred costs for commissioning a gold bar described as a 10‑year long service award and a gold business card stand described as a 5‑year long service award, and reimbursed the expenses of a trip by Lim Seng Choon David to Hong Kong to collect these items."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-11-01",
+          "Text": "The idea of commissioning the gold bar and gold business card stand was discussed between Lim Seng Choon David and director Jan Vatsvaag, and was then implemented within Global Maritime Consultancy Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-11-01",
+          "Text": "The only recipients of the commissioned gold bar and gold business card stand within Global Maritime Consultancy Pte Ltd were Lim Seng Choon David and his son respectively, and no other employees before or after them received similar gold products for long service."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Financial statements of Global Maritime Consultancy Pte Ltd for the relevant years contained references to the name of the wife of Lim Seng Choon David in connection with related‑party transactions, without detailed disclosure of property ownership and rental terms to the board being recorded in the judgment."
+        }
+      ],
+      "Issue": "Whether Global Maritime Consultancy Pte Ltd was party to a binding oral agreement on 24 November 2014 regarding the retirement package of its director, and whether the company’s pre‑dispute records of travel, expense claims, related‑party leases, cleaning payments, and purchases from the director’s family correspond to amounts later sought to be recovered from or paid to Lim Seng Choon David.",
+      "Rule": "A company is bound by an oral agreement only if its authorised representatives manifest assent to clear and definite terms with an intention to create legal relations. Company law principles generally require that directors ensure company funds are applied for company purposes, that related‑party transactions are properly documented and disclosed, and that internal controls over expense claims and leasing arrangements are observed to protect the company’s financial interests.",
+      "Application": "The 24 November 2014 meeting, the plaintiff’s same‑day email, and the subsequent draft Separation Agreement and Share Purchase Agreement Global Maritime Consultancy Pte Ltd, through its directors, was negotiating but had not yet finalised the terms of any retirement package or share purchase. The company’s leave records, bonus figure, and loan balance defined the financial components that could be included in any eventual agreement. The accounting records of eight Hong Kong and China trips, other overseas travel, personal expense reimbursements, the Woodlands and Lompang leases, payments to the director’s wife and to Tiffany Liu for cleaning, the PropNex commission, and the purchase of used furniture and appliances from the director’s wife provided the factual basis for the company’s later counterclaim to recover sums it considered improperly paid.",
+      "Judicial_Reasoning_Log": "The court concluded that Global Maritime Consultancy Pte Ltd was not bound by any oral agreement alleged to have been made on 24 November 2014, for the same reasons given in relation to the first defendant, and dismissed the plaintiff’s claim against it. On the counterclaim, the judge applied the duties of honesty and avoidance of conflicts of interest and found that the director’s conduct in relation to the Hong Kong and China trips, other overseas trips, personal expenses, gold products, PropNex commission, cheques to Tiffany Liu, cheques to his wife for cleaning, the Woodlands and Lompang leases, and the purchase of used furniture and appliances from his wife amounted to breaches of those duties. The court held the plaintiff liable to the company for $60,327.17 in wrongful expense claims and $5,916 in respect of the PropNex commission and cheques to Tiffany Liu, and ordered damages to be assessed for the Woodlands and Lompang leases, the cleaning services by his wife, and the purchase of used furniture and appliances. The counterclaim by Global Maritime Consultancy Pte Ltd was therefore allowed, and costs of the consolidated suits were awarded in its favour."
+    },
+    "Label": "Allowed",
+    "Leakage_Score": 1
+  }
+]
