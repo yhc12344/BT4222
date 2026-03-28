@@ -1,0 +1,1594 @@
+[
+  {
+    "case_name": "ABB Holdings Pte Ltd and Others v Sher Hock Guan Charles",
+    "party": "ABB Holdings Pte Ltd",
+    "status": "AUTO_FIXED",
+    "audit_suggestion": {
+      "case_name": "ABB Holdings Pte Ltd and Others v Sher Hock Guan Charles",
+      "party": "ABB Holdings Pte Ltd",
+      "status": "CHANGES",
+      "label_change": {
+        "current": "Unknown",
+        "recommended": "Claim Allowed",
+        "evidence": "The judgment states at [111] that there will be judgment for the second and third plaintiffs against the defendant, while the claim of the first plaintiff is dismissed. ABB Holdings Pte Ltd is the first plaintiff.",
+        "recommended_change": "Update the substantive outcome label for this plaintiff row from Unknown to Claim Dismissed."
+      },
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[0].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "ABB Holdings Pte Ltd is part of the ABB Group, a worldwide group of companies that manufacture, market and sell products for industrial and commercial uses, including low, medium and high voltage circuit breakers.",
+          "recommended_value": "ABB Holdings Pte Ltd is part of the ABB Group, a worldwide group of companies that manufacture, market and sell products for industrial and commercial uses, including low, medium and high voltage circuit breakers.",
+          "evidence": "This is general background stated in the judgment and predates the dispute outcome.",
+          "recommended_change": "No change to the text, but this fact is temporally safe background."
+        },
+        {
+          "path": "Party_Details.Facts[1].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "ABB Holdings Pte Ltd is part of the Singapore component of the ABB Group, collectively referred to with other Singapore entities as the ABB Singapore Group.",
+          "recommended_value": "ABB Holdings Pte Ltd is part of the Singapore component of the ABB Group, collectively referred to with other Singapore entities as the ABB Singapore Group.",
+          "evidence": "This is background from the judgment and predates the dispute outcome.",
+          "recommended_change": "No change to the text, but this fact is temporally safe background."
+        },
+        {
+          "path": "Party_Details.Facts[2].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "ABB Holdings Pte Ltd is owned by ABB Asea Brown Boveri Ltd, a Swiss company, and was set up in Singapore to be the holding company of the Singapore businesses.",
+          "recommended_value": "ABB Holdings Pte Ltd is owned by ABB Asea Brown Boveri Ltd, a Swiss company, and was set up in Singapore to be the holding company of the Singapore businesses.",
+          "evidence": "This is background stated in the judgment and predates the dispute outcome.",
+          "recommended_change": "No change to the text, but this fact is temporally safe background."
+        },
+        {
+          "path": "Party_Details.Facts[3].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "ABB Holdings Pte Ltd is the sole shareholder of ABB Installation Materials (East Asia) Pte Ltd and ABB Industry Pte Ltd.",
+          "recommended_value": "ABB Holdings Pte Ltd is the sole shareholder of ABB Installation Materials (East Asia) Pte Ltd and ABB Industry Pte Ltd.",
+          "evidence": "This is background stated in the judgment and predates the dispute outcome.",
+          "recommended_change": "No change to the text, but this fact is temporally safe background."
+        },
+        {
+          "path": "Party_Details.Facts[4].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 19 July 1996, ABB Holdings Pte Ltd issued an employment contract described as covering the period from 1 January 1997 to 31 January 2000 to Sher Hock Guan Charles, stating that he would serve as President of ABB Installation Materials (East Asia) Pte Ltd and use his best endeavours to promote the interest and welfare of the ABB Group.",
+          "recommended_value": "On 19 July 1996, the first employment contract was made between the first plaintiff and Sher Hock Guan Charles, covering the period from 1 January 1997 to 31 January 2000, and stating that he would serve as President of the second plaintiff and use his best endeavours to promote the interest and welfare of the ABB Group.",
+          "evidence": "The judgment at [15] states the first contract was made on 19 July 1996 between the first plaintiff and the defendant, covering 1 January 1997 to 31 January 2000, and that he would serve as President of the second plaintiff and use his best endeavours to promote the interest and welfare of the ABB Group.",
+          "recommended_change": "Correct the party reference from ABB Holdings Pte Ltd to the first plaintiff and align the wording with the judgment."
+        },
+        {
+          "path": "Party_Details.Facts[5].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 20 September 1999, ABB Holdings Pte Ltd issued a second employment contract effective from 1 February 2000 to Sher Hock Guan Charles, stating that he would undertake to maintain and preserve secrecy in all office matters and not to divulge any information to outside members, and that private participation in other business activities, especially in the company’s line of business, was strictly not allowed.",
+          "recommended_value": "On 20 September 1999, the second employment contract was dated between the first plaintiff and Sher Hock Guan Charles, effective from 1 February 2000, stating that he would undertake to maintain and preserve secrecy in all office matters and not to divulge any information to outside members, and that private participation in other business activities, especially in the line of business, was strictly not allowed.",
+          "evidence": "The judgment at [16] states the second contract was dated 20 September 1999, effective from 1 February 2000, and contained the quoted secrecy and private participation terms.",
+          "recommended_change": "Correct the party reference from ABB Holdings Pte Ltd to the first plaintiff and use the judgment's wording."
+        },
+        {
+          "path": "Party_Details.Facts[6].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 15 January 2001, ABB Industry Pte Ltd sent a letter to Sher Hock Guan Charles stating that with retrospective effect from 1 January 2001 his employment had been transferred from ABB Installation Materials (East Asia) Pte Ltd to ABB Industry Pte Ltd, and attached a Summary of Terms and Conditions of Employment for staff category M1/M2.",
+          "recommended_value": "On 15 January 2001, the third plaintiff sent a letter to Sher Hock Guan Charles stating that with retrospective effect from 1 January 2001 his employment had been transferred from the second plaintiff to the third plaintiff, and attached a Summary of Terms and Conditions of Employment for staff category M1/M2.",
+          "evidence": "The judgment at [17] states the third contract was a letter dated 15 January 2001 from the third plaintiff to the defendant, transferring his employment from the second plaintiff to the third plaintiff with retrospective effect from 1 January 2001.",
+          "recommended_change": "Correct the party reference from ABB Industry Pte Ltd to the third plaintiff and align the transfer wording with the judgment."
+        },
+        {
+          "path": "Party_Details.Facts[7].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "As at 4 January 2000, the ABB Singapore Group used an Employee Handbook that contained policies, terms and conditions applicable to employees, including provisions on private participation in other business activities, transfer and deployment, protection of company assets and information, and avoidance of conflicts of interest.",
+          "recommended_value": "As at 4 January 2000, the ABB Singapore Group used an Employee Handbook that contained policies, terms and conditions applicable to employees, including provisions on private participation in other business activities, transfer and deployment, protection of company assets and information, and avoidance of conflicts of interest.",
+          "evidence": "This is background from the judgment and predates the dispute outcome.",
+          "recommended_change": "No change to the text, but this fact is temporally safe background."
+        }
+      ],
+      "facts_to_remove": [
+        {
+          "path": "Party_Details.Judicial_Reasoning_Log",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "The judgment analyses whether the Employee Handbook was contractually incorporated into successive employment contracts, interprets the scope of any obligation to promote the interests of the ABB Group, and determines which provisions are apt to be contractual terms. It concludes that certain Handbook clauses on conflicts of interest and protection of assets and information applied throughout the defendant’s employment, but that an obligation to promote the interests of the global ABB Group did not continue beyond the first contract. The court then uses these findings to frame the assessment of alleged breaches and liability.",
+          "evidence": "This is court reasoning and judicial finding material, which lies beyond the Temporal Wall.",
+          "recommended_change": "Remove judicial reasoning and findings from the row."
+        },
+        {
+          "path": "Party_Details.Application",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "ABB Holdings Pte Ltd issued and administered employment contracts and an Employee Handbook that set out restrictions on outside business participation, confidentiality, and conflicts of interest for senior personnel such as Sher Hock Guan Charles, and these documents formed the framework within which his subsequent conduct in relation to other companies and medium voltage product ventures would be assessed.",
+          "evidence": "This frames the conduct in light of later assessment and is outcome-oriented rather than purely pre-dispute background.",
+          "recommended_change": "Remove outcome-framing language and keep only neutral background if needed."
+        }
+      ]
+    },
+    "applied_changes": {
+      "label_change": {
+        "from": "Unknown",
+        "to": "Claim Allowed",
+        "source": "MODEL"
+      },
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[4].Text",
+          "from": "On 19 July 1996, ABB Holdings Pte Ltd issued an employment contract described as covering the period from 1 January 1997 to 31 January 2000 to Sher Hock Guan Charles, stating that he would serve as President of ABB Installation Materials (East Asia) Pte Ltd and use his best endeavours to promote the interest and welfare of the ABB Group.",
+          "to": "On 19 July 1996, the first employment contract was made between the first plaintiff and Sher Hock Guan Charles, covering the period from 1 January 1997 to 31 January 2000, and stating that he would serve as President of the second plaintiff and use his best endeavours to promote the interest and welfare of the ABB Group.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[5].Text",
+          "from": "On 20 September 1999, ABB Holdings Pte Ltd issued a second employment contract effective from 1 February 2000 to Sher Hock Guan Charles, stating that he would undertake to maintain and preserve secrecy in all office matters and not to divulge any information to outside members, and that private participation in other business activities, especially in the company’s line of business, was strictly not allowed.",
+          "to": "On 20 September 1999, the second employment contract was dated between the first plaintiff and Sher Hock Guan Charles, effective from 1 February 2000, stating that he would undertake to maintain and preserve secrecy in all office matters and not to divulge any information to outside members, and that private participation in other business activities, especially in the line of business, was strictly not allowed.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[6].Text",
+          "from": "On 15 January 2001, ABB Industry Pte Ltd sent a letter to Sher Hock Guan Charles stating that with retrospective effect from 1 January 2001 his employment had been transferred from ABB Installation Materials (East Asia) Pte Ltd to ABB Industry Pte Ltd, and attached a Summary of Terms and Conditions of Employment for staff category M1/M2.",
+          "to": "On 15 January 2001, the third plaintiff sent a letter to Sher Hock Guan Charles stating that with retrospective effect from 1 January 2001 his employment had been transferred from the second plaintiff to the third plaintiff, and attached a Summary of Terms and Conditions of Employment for staff category M1/M2.",
+          "source": "MODEL"
+        }
+      ],
+      "facts_removed": [],
+      "rule_changes": []
+    }
+  },
+  {
+    "case_name": "ABB Holdings Pte Ltd and Others v Sher Hock Guan Charles",
+    "party": "ABB Installation Materials (East Asia) Pte Ltd",
+    "status": "AUTO_FIXED",
+    "audit_suggestion": {
+      "case_name": "ABB Holdings Pte Ltd and Others v Sher Hock Guan Charles",
+      "party": "ABB Installation Materials (East Asia) Pte Ltd",
+      "status": "CHANGES",
+      "label_change": {
+        "current": "Unknown",
+        "recommended": "Liable",
+        "evidence": "The judgment states at [111] that there will be judgment for the second and third plaintiffs against the defendant, and at [109](a) and [109](b) that the defendant was in breach of his fiduciary duty to the second plaintiff.",
+        "recommended_change": "Change the substantive outcome label for this plaintiff row from Unknown to Liable."
+      },
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[0].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "1990-01-01",
+          "recommended_value": "2001-01-01",
+          "evidence": "Paragraph 1 states that the second plaintiff manufactures miniature circuit breakers, while paragraph 2 states that from January 1997 until he left the ABB Group the defendant was based in Singapore and held positions with the second and third plaintiffs; paragraph 38 states the second plaintiff was still an operating company at the time when the defendant was a director.",
+          "recommended_change": "Use a date supported by the source or omit the date if not needed; do not invent 1990."
+        },
+        {
+          "path": "Party_Details.Facts[1].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "1990-01-01",
+          "recommended_value": "2001-01-01",
+          "evidence": "The source text does not state that the second plaintiff is a wholly owned subsidiary of ABB Holdings Pte Ltd. It states that the first plaintiff is owned by ABB Asea Brown Boveri Ltd and is the sole shareholder of the second and third plaintiffs.",
+          "recommended_change": "Remove or rewrite this relationship fact to match the source; the current subsidiary statement is unsupported."
+        },
+        {
+          "path": "Party_Details.Facts[2].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "From January 1997 to January 2000, Sher Hock Guan Charles held the position of President of ABB Installation Materials (East Asia) Pte Ltd.",
+          "recommended_value": "From January 1997 to January 2000, Sher Hock Guan Charles held the position of President of the second plaintiff.",
+          "evidence": "Paragraph 2 states that from January 1997 until he left the ABB Group, the defendant held positions with the second and third plaintiffs, and the schedule at the start of the judgment states 'January 1997 to January 2000 – President, second plaintiff'.",
+          "recommended_change": "Replace the company name with 'the second plaintiff' to match the source wording."
+        },
+        {
+          "path": "Party_Details.Facts[3].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "From July 1998 to February 2003, Sher Hock Guan Charles was a director of ABB Installation Materials (East Asia) Pte Ltd.",
+          "recommended_value": "From July 1998 to February 2003, Sher Hock Guan Charles was a director of the second plaintiff.",
+          "evidence": "Paragraph 2 states that the defendant was a director of the second plaintiff between July 1998 and February 2003.",
+          "recommended_change": "Replace the company name with 'the second plaintiff' to match the source wording."
+        },
+        {
+          "path": "Party_Details.Facts[4].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "Between January 1997 and January 2001, ABB Installation Materials (East Asia) Pte Ltd was the employing entity for Sher Hock Guan Charles under contracts issued by ABB Holdings Pte Ltd.",
+          "recommended_value": "Between January 1997 and January 2001, the second plaintiff was the employing entity for Sher Hock Guan Charles.",
+          "evidence": "Paragraph 2 states that between January 1997 and January 2001, the defendant's employer was the second plaintiff. The source does not say the contracts were issued by ABB Holdings Pte Ltd.",
+          "recommended_change": "Remove the unsupported issuer reference and use the source's employer description."
+        },
+        {
+          "path": "Party_Details.Facts[5].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 1 January 2001, the employment of Sher Hock Guan Charles was transferred from ABB Installation Materials (East Asia) Pte Ltd to ABB Industry Pte Ltd pursuant to a new organisation structure for the ABB Singapore Group.",
+          "recommended_value": "Between January 1997 and January 2001, the second plaintiff was the employing entity for Sher Hock Guan Charles.",
+          "evidence": "The transfer of employment is described in paragraph 2 and is part of the later employment restructuring narrative. For a pre-dispute row, only the neutral background fact that the second plaintiff employed him until January 2001 is needed.",
+          "recommended_change": "Remove the transfer detail and keep only the neutral employment background needed to understand the row."
+        },
+        {
+          "path": "Party_Details.Facts[6].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "The 19 July 1996 employment contract issued by ABB Holdings Pte Ltd stated that Sher Hock Guan Charles would serve as President of ABB Installation Materials (East Asia) Pte Ltd and that his appointment was the General Terms and Conditions of Employment of the Country Organisation.",
+          "recommended_value": "The 19 July 1996 employment contract stated that Sher Hock Guan Charles would serve as President of the second plaintiff and use his best endeavours to promote the interest and welfare of the ABB Group.",
+          "evidence": "Paragraph 15 quotes the first contract. The phrase 'General Terms and Conditions of Employment of the Country Organisation' is in the contract text, but the judgment's later reasoning about incorporation is litigation-stage material and should not be carried into a neutral background row.",
+          "recommended_change": "Trim the fact to the contract term itself and remove litigation-stage characterization."
+        },
+        {
+          "path": "Party_Details.Facts[7].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "The 20 September 1999 employment contract, effective 1 February 2000, identified ABB Installation Materials (East Asia) Pte Ltd as the employing entity for Sher Hock Guan Charles and included clauses on secrecy of office matters and a prohibition on private participation in other business activities, especially in the company’s line of business.",
+          "recommended_value": "The 20 September 1999 employment contract, effective 1 February 2000, identified the second plaintiff as the employing entity for Sher Hock Guan Charles and included clauses on secrecy of office matters and a prohibition on private participation in other business activities, especially in the company's line of business.",
+          "evidence": "Paragraph 16 states that the second contract identified the second plaintiff as the employing entity and contained the quoted secrecy and private participation clauses.",
+          "recommended_change": "Replace the company name with 'the second plaintiff' and keep only the contract terms expressly stated in the source."
+        }
+      ],
+      "facts_to_remove": [
+        {
+          "path": "Party_Details.Facts[5]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 1 January 2001, the employment of Sher Hock Guan Charles was transferred from ABB Installation Materials (East Asia) Pte Ltd to ABB Industry Pte Ltd pursuant to a new organisation structure for the ABB Singapore Group.",
+          "evidence": "This is a restructuring and transfer detail from the judgment narrative. For a party row, it is not necessary and risks importing later dispute context.",
+          "recommended_change": "Remove this fact and retain only neutral employment background."
+        }
+      ]
+    },
+    "applied_changes": {
+      "label_change": {
+        "from": "Unknown",
+        "to": "Liable",
+        "source": "MODEL"
+      },
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[0].Fact_Date",
+          "from": "1990-01-01",
+          "to": "2001-01-01",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[1].Fact_Date",
+          "from": "1990-01-01",
+          "to": "2001-01-01",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[2].Text",
+          "from": "From January 1997 to January 2000, Sher Hock Guan Charles held the position of President of ABB Installation Materials (East Asia) Pte Ltd.",
+          "to": "From January 1997 to January 2000, Sher Hock Guan Charles held the position of President of the second plaintiff.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[3].Text",
+          "from": "From July 1998 to February 2003, Sher Hock Guan Charles was a director of ABB Installation Materials (East Asia) Pte Ltd.",
+          "to": "From July 1998 to February 2003, Sher Hock Guan Charles was a director of the second plaintiff.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[4].Text",
+          "from": "Between January 1997 and January 2001, ABB Installation Materials (East Asia) Pte Ltd was the employing entity for Sher Hock Guan Charles under contracts issued by ABB Holdings Pte Ltd.",
+          "to": "Between January 1997 and January 2001, the second plaintiff was the employing entity for Sher Hock Guan Charles.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[5].Text",
+          "from": "On 1 January 2001, the employment of Sher Hock Guan Charles was transferred from ABB Installation Materials (East Asia) Pte Ltd to ABB Industry Pte Ltd pursuant to a new organisation structure for the ABB Singapore Group.",
+          "to": "Between January 1997 and January 2001, the second plaintiff was the employing entity for Sher Hock Guan Charles.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[6].Text",
+          "from": "The 19 July 1996 employment contract issued by ABB Holdings Pte Ltd stated that Sher Hock Guan Charles would serve as President of ABB Installation Materials (East Asia) Pte Ltd and that his appointment was the General Terms and Conditions of Employment of the Country Organisation.",
+          "to": "The 19 July 1996 employment contract stated that Sher Hock Guan Charles would serve as President of the second plaintiff and use his best endeavours to promote the interest and welfare of the ABB Group.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[7].Text",
+          "from": "The 20 September 1999 employment contract, effective 1 February 2000, identified ABB Installation Materials (East Asia) Pte Ltd as the employing entity for Sher Hock Guan Charles and included clauses on secrecy of office matters and a prohibition on private participation in other business activities, especially in the company’s line of business.",
+          "to": "The 20 September 1999 employment contract, effective 1 February 2000, identified the second plaintiff as the employing entity for Sher Hock Guan Charles and included clauses on secrecy of office matters and a prohibition on private participation in other business activities, especially in the company's line of business.",
+          "source": "MODEL"
+        }
+      ],
+      "facts_removed": [
+        {
+          "path": "Party_Details.Facts[5]",
+          "source": "MODEL"
+        }
+      ],
+      "rule_changes": [
+        {
+          "rule": "INVALID_LABEL_BY_ROLE",
+          "field": "Label",
+          "from": "Liable",
+          "to": "Unknown",
+          "note": "Role 'Plaintiff' does not permit label 'Liable'.",
+          "source": "RULE"
+        }
+      ]
+    }
+  },
+  {
+    "case_name": "ABB Holdings Pte Ltd and Others v Sher Hock Guan Charles",
+    "party": "ABB Industry Pte Ltd",
+    "status": "AUTO_FIXED",
+    "audit_suggestion": {
+      "case_name": "ABB Holdings Pte Ltd and Others v Sher Hock Guan Charles",
+      "party": "ABB Industry Pte Ltd",
+      "status": "CHANGES",
+      "label_change": {
+        "current": "Liable",
+        "recommended": "Unknown",
+        "evidence": "The source judgment is a plaintiff row and the substantive outcome for ABB Industry Pte Ltd is not separately stated. The judgment only states at [111] that judgment will be for the second and third plaintiffs against the defendant, while the first plaintiff's claim is dismissed. ABB Industry Pte Ltd is one of the plaintiffs, but the row does not clearly identify whether it is the second or third plaintiff from the metadata alone.",
+        "recommended_change": "Change the label to Unknown because the row's party identity does not clearly map to a specific substantive outcome in the judgment."
+      },
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[0].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "1990-01-01",
+          "recommended_value": "2001-01-01",
+          "evidence": "The source text states that the defendant was based in Singapore from January 1997 and that he held positions with the second and third plaintiffs during that period. ABB Industry Pte Ltd is the third plaintiff, and the relevant role transfer to the third plaintiff took effect from 1 January 2001.",
+          "recommended_change": "Replace the unsupported 1990 date with 2001-01-01, which is the earliest date explicitly tied to ABB Industry Pte Ltd in the source."
+        },
+        {
+          "path": "Party_Details.Facts[1].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "1990-01-01",
+          "recommended_value": "2001-01-01",
+          "evidence": "The source text says the first plaintiff is the holding company of the second and third plaintiffs, but it does not state that ABB Industry Pte Ltd was wholly owned by ABB Holdings Pte Ltd. It states only that the first plaintiff was owned by ABB Asea Brown Boveri Ltd and was the sole shareholder of the second and third plaintiffs.",
+          "recommended_change": "Remove the unsupported ownership assertion or rewrite it to reflect only that ABB Holdings Pte Ltd is the first plaintiff and sole shareholder of the second and third plaintiffs."
+        },
+        {
+          "path": "Party_Details.Facts[2].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2001-01-01",
+          "recommended_value": "2001-01-01",
+          "evidence": "The source text states that on 15 January 2001, pursuant to a new organisation structure effective from 1 January 2001, the defendant's employment was transferred from the second plaintiff to the third plaintiff with retrospective effect to 1 January 2001. It does not say he was General Manager of ABB Industry Pte Ltd from 1 January 2001.",
+          "recommended_change": "Revise the fact to state that from 1 January 2001 the defendant's employment was transferred to the third plaintiff, ABB Industry Pte Ltd, and that he served there as General Manager BAU LV Products and Systems."
+        },
+        {
+          "path": "Party_Details.Facts[2].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "From 1 January 2001 to February 2003, Sher Hock Guan Charles held the position of General Manager of ABB Industry Pte Ltd.",
+          "recommended_value": "With retrospective effect from 1 January 2001, Sher Hock Guan Charles's employment was transferred to ABB Industry Pte Ltd, where his designation was General Manager BAU LV Products and Systems.",
+          "evidence": "Paragraph 17 of the source states that the third contract letter dated 15 January 2001 transferred his employment to the third plaintiff with retrospective effect from 1 January 2001 and designated him as 'General Manager BAU LV Products and Systems'.",
+          "recommended_change": "Correct the title and avoid overstating the duration as a standalone general manager role."
+        },
+        {
+          "path": "Party_Details.Facts[3].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2001-09-01",
+          "recommended_value": "2001-09-03",
+          "evidence": "The source text states that from 3 September 2001, the defendant also served as Vice-President and Head of Business Area Low Voltage Products, Automation Technology Products Division Asia South, third plaintiff.",
+          "recommended_change": "Correct the start date to 3 September 2001."
+        },
+        {
+          "path": "Party_Details.Facts[4].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "With effect from 1 January 2001, ABB Industry Pte Ltd became the employing entity for Sher Hock Guan Charles following a reorganisation of the ABB Singapore Group.",
+          "recommended_value": "With retrospective effect from 1 January 2001, Sher Hock Guan Charles's employment was transferred from the second plaintiff to ABB Industry Pte Ltd pursuant to a new organisation structure that came into effect on 1 January 2001.",
+          "evidence": "Paragraph 2 of the source states that on 15 January 2001, pursuant to a new organisation structure for the ABB Singapore Group which had come into effect on 1 January 2001, his employment was transferred from the second plaintiff to the third plaintiff with retrospective effect to 1 January 2001.",
+          "recommended_change": "Replace the simplified wording with the source's exact transfer description."
+        },
+        {
+          "path": "Party_Details.Facts[5].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "In February 2003, Sher Hock Guan Charles left the employment of ABB Industry Pte Ltd.",
+          "recommended_value": "After leaving the third plaintiff, Sher Hock Guan Charles joined Huadian as General Manager; his appointment took effect on 3 March 2003.",
+          "evidence": "The source says he left the ABB Group in February 2003 and that after leaving the third plaintiff he joined Huadian as General Manager, with that appointment taking effect on 3 March 2003.",
+          "recommended_change": "Avoid stating an exact employment end date not given in the source; use the source's wording that he left the third plaintiff before joining Huadian."
+        },
+        {
+          "path": "Party_Details.Facts[6].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2002-10-25",
+          "recommended_value": "2002-10-01",
+          "evidence": "The source only says 'In late October 2002' the defendant attended the 10th anniversary celebrations of ABB Xiamen. It does not give an exact day.",
+          "recommended_change": "Replace the exact date with a month-level or approximate date consistent with 'late October 2002'."
+        },
+        {
+          "path": "Party_Details.Facts[6].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In late October 2002, while still employed by ABB Industry Pte Ltd, Sher Hock Guan Charles attended the 10th anniversary celebrations of ABB Xiamen Switchgear Co Ltd in Xiamen, China.",
+          "recommended_value": "In late October 2002, while still employed by the third plaintiff, Sher Hock Guan Charles attended the 10th anniversary celebrations of ABB Xiamen in Xiamen, China.",
+          "evidence": "The source refers to 'the 10th anniversary celebrations of ABB Xiamen' and does not use the full company name 'ABB Xiamen Switchgear Co Ltd' in that sentence.",
+          "recommended_change": "Use the source's wording and avoid adding a fuller company name not used in the relevant passage."
+        },
+        {
+          "path": "Party_Details.Facts[7].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2002-10-25",
+          "recommended_value": "2002-10-01",
+          "evidence": "The source says 'During conversations with them the defendant learnt that XIHARI was looking for a technical adviser' at the late October 2002 event, but does not specify an exact date.",
+          "recommended_change": "Use an approximate late-October 2002 date rather than a specific day."
+        },
+        {
+          "path": "Party_Details.Facts[8].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2002-11-01",
+          "recommended_value": "2002-11-01",
+          "evidence": "The source says 'In November 2002' officers of XIHARI discussed by telephone with the defendant their wish to engage an internationally known technical adviser and mentioned Mr Leonhardt's name.",
+          "recommended_change": "Keep only the month-level timing; do not imply a specific day."
+        },
+        {
+          "path": "Party_Details.Facts[9].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2002-12-03",
+          "recommended_value": "2002-12-01",
+          "evidence": "The source states 'Between 3 December 2002 and 3 February 2003, nine e-mails were exchanged' and does not require the exact start date for a background fact row.",
+          "recommended_change": "If retained, use the date range as stated in the source rather than converting it into a single exact date."
+        },
+        {
+          "path": "Party_Details.Facts[10].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2002-11-15",
+          "recommended_value": "2002-11-01",
+          "evidence": "The source says 'In November 2002, Mr Pei and another officer of XIHARI ... mentioned in various telephone conversations with the defendant' and does not specify a day.",
+          "recommended_change": "Replace the exact date with month-level timing."
+        },
+        {
+          "path": "Party_Details.Facts[11].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2003-01-31",
+          "recommended_value": "2003-01-31",
+          "evidence": "The source says 'By 31 January 2003, Huadian had finished prototyping and the most critical type testing.'",
+          "recommended_change": "This fact is acceptable only if kept as a pre-dispute background fact; otherwise remove if the row is intended to stay strictly before the temporal wall."
+        },
+        {
+          "path": "Party_Details.Facts[12].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2003-01-31",
+          "recommended_value": "2003-01-31",
+          "evidence": "The source says that by the end of January 2003 the defendant had decided to leave the third plaintiff and had told a senior officer, Tom Sjoekvist.",
+          "recommended_change": "This is acceptable only as pre-dispute background; otherwise remove because it is close to the dispute and not necessary for the row."
+        },
+        {
+          "path": "Party_Details.Facts[13].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "On 3 March 2003, after leaving ABB Industry Pte Ltd, Sher Hock Guan Charles commenced employment as General Manager of Xiamen Huadian Switchgear Co. Ltd.",
+          "recommended_value": "On 3 March 2003, after leaving the third plaintiff, Sher Hock Guan Charles commenced employment as General Manager of Huadian.",
+          "evidence": "The source states that after leaving the third plaintiff, the defendant joined Xiamen Huadian Switchgear Co. Ltd ('Huadian') as its General Manager and that this appointment took effect on 3 March 2003.",
+          "recommended_change": "Use the source's company name and avoid the unsupported reference to ABB Industry Pte Ltd in the sentence."
+        },
+        {
+          "path": "Party_Details.Facts[14].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "By 28 March 2004, Gelpag mbH, a German company in which Sher Hock Guan Charles was a shareholder, had acquired 16.2% of the shares in Xiamen Huadian Switchgear Co. Ltd, alongside Fu Hsiang International Pte Ltd and Xian High Voltage Apparatus Research Institute.",
+          "recommended_value": "By 28 March 2004, the shareholders in Huadian were Fu Hsiang (80.5%), XIHARI (3.3%) and Gelpag mbH (16.2%).",
+          "evidence": "The source states that by 28 March 2004, the shareholders in Huadian were Fu Hsiang (80.5%), XIHARI (3.3%) and Gelpag mbH (16.2%). It does not say Gelpag mbH was a company in which the defendant was a shareholder in this sentence, nor does it use the full name 'Xiamen Huadian Switchgear Co. Ltd' there.",
+          "recommended_change": "Replace with the exact shareholder breakdown from the source."
+        },
+        {
+          "path": "Party_Details.Facts[15].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2003-03-05",
+          "recommended_value": "2003-03-01",
+          "evidence": "The source says 'On 5 or 6 March 2003' the defendant called Mr Leonhardt and invited him to visit Huadian's premises.",
+          "recommended_change": "Use an approximate early-March 2003 date rather than a specific day."
+        },
+        {
+          "path": "Party_Details.Facts[16].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2003-03-25",
+          "recommended_value": "2003-03-01",
+          "evidence": "The source says the consultancy agreement was signed in late March 2003 and backdated to 1 March 2003.",
+          "recommended_change": "Use 'late March 2003' or the backdated effective date of 1 March 2003, not a specific late-March day."
+        },
+        {
+          "path": "Party_Details.Facts[17].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2003-07-01",
+          "recommended_value": "2003-07-01",
+          "evidence": "The source says Huadian commenced marketing its vacuum circuit breaker in July 2003 and received the first order in September 2003.",
+          "recommended_change": "Month-level timing is acceptable; no exact day should be inferred."
+        },
+        {
+          "path": "Party_Details.Facts[18].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "On 18 February 2002, Great Vision International Pte Ltd was incorporated in Singapore by Sher Hock Sing and two other individuals, and this company was used to undertake a property development project in Xiamen through a subsidiary, Xiamen Fu Cheng Real Estate Property Development Co. Ltd.",
+          "recommended_value": "On 18 February 2002, the defendant's brother, Sher Hock Sing, and two others procured the incorporation of Great Vision International Pte Ltd.",
+          "evidence": "The source states that on 18 February 2002, the defendant's brother, Sher Hock Sing, and two others procured the incorporation of Great Vision. It does not say the company was used to undertake the Xiamen project in that sentence.",
+          "recommended_change": "Limit the fact to the incorporation event explicitly stated in the source."
+        },
+        {
+          "path": "Party_Details.Facts[19].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "In February 2002, Sher Hock Guan Charles became aware of an opportunity to develop a plot of land in Xiamen and passed this opportunity to his brother, Sher Hock Sing, and business associate Lin Qunxing, leading to the incorporation of Great Vision International Pte Ltd to pursue the project.",
+          "recommended_value": "In February 2002, the defendant knew that Great Vision was set up to carry out the Xiamen project through its subsidiary.",
+          "evidence": "The source says that in court the defendant admitted that in February 2002 he knew Great Vision was set up to carry out the Xiamen project through its subsidiary. It does not state in the factual background that he passed the opportunity to Lin Qunxing.",
+          "recommended_change": "Remove the unsupported assertion that he passed the opportunity to Lin Qunxing and keep only the admitted knowledge if this fact is retained."
+        },
+        {
+          "path": "Party_Details.Facts[20].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "On 3 December 2002, a payment voucher of Xiamen Fu Cheng Real Estate Property Development Co. Ltd recorded a cash advance of RMB70,000 described as a travel expenses loan, with the name of Sher Hock Guan Charles stated on the voucher and payment acknowledged as received by Huang Jianhuang.",
+          "recommended_value": "The Notes to the Financial Statements for 2002 recorded an outstanding amount of RMB70,000 owing from the defendant in respect of a 'Travel Expenses Loan', and a payment voucher dated 3 December 2002 confirmed the RMB70,000 loan, with the defendant reflected as both 'payee' and 'applicant' and payment purportedly received by Huang Jianhuang on 3 December 2002.",
+          "evidence": "The source states both the notes and the voucher details in that form. The current text omits that the notes recorded an outstanding amount owing from the defendant and that the voucher reflected him as both payee and applicant.",
+          "recommended_change": "Use the source's fuller description of the RMB70,000 documentation."
+        },
+        {
+          "path": "Party_Details.Facts[21].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2003-04-25",
+          "recommended_value": "2003-04-25",
+          "evidence": "The source says on 25 April 2003 the defendant was appointed a director of Great Vision and transferred his brother's shares.",
+          "recommended_change": "This is post-employment and should be removed if the row is meant to stay strictly before the temporal wall."
+        },
+        {
+          "path": "Party_Details.Facts[22].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "On 24 May 2002, Webmoney Investment (S) Pte Ltd was incorporated in Singapore with directors including Luo Baocheng and Chen Wei Ting, and its registered address was the home address of Sher Hock Guan Charles.",
+          "recommended_value": "On 24 May 2002, Webmoney was incorporated in Singapore. On incorporation its directors were Luo Baocheng and Chen Wei Ting, and its registered address was the defendant's home address.",
+          "evidence": "The source states that Webmoney was incorporated on 24 May 2002, its directors were Luo Baocheng and Chen Wei Ting, and its registered address was the defendant's home address.",
+          "recommended_change": "Use the source's exact company name and avoid adding unnecessary wording."
+        },
+        {
+          "path": "Party_Details.Facts[23].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 25 April 2003, Sher Hock Guan Charles became a director and a holder of one paid-up share in Webmoney Investment (S) Pte Ltd, acting as a Singapore-resident director to assist his associate Luo Baocheng.",
+          "recommended_value": "On 25 April 2003, the defendant became a director and shareholder of Webmoney and acquired one $1 paid-up share.",
+          "evidence": "The source says he became a director and shareholder on 25 April 2003 and acquired one $1 paid-up share. The explanation that he acted to assist Luo Baocheng is part of the defendant's evidence, not a neutral background fact.",
+          "recommended_change": "Remove the explanatory motive and keep only the neutral appointment/shareholding fact if retained."
+        },
+        {
+          "path": "Party_Details.Facts[24].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By March 2004, Gelpag mbH funded its acquisition of a 16.2% shareholding in Xiamen Huadian Switchgear Co. Ltd using returns that Sher Hock Guan Charles had obtained from the Xiamen property development project undertaken through Great Vision International Pte Ltd and Xiamen Fu Cheng Real Estate Property Development Co. Ltd.",
+          "recommended_value": "Remove.",
+          "evidence": "This is a later evidentiary inference from the judgment about how Gelpag mbH funded its investment and is not necessary background before the temporal wall.",
+          "recommended_change": "Delete this fact because it is post-dispute and outcome-revealing."
+        },
+        {
+          "path": "Party_Details.Facts[25].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In May 2003, Gelpag International Pte Ltd was incorporated in Singapore and Sher Hock Guan Charles became a director and shareholder of this company.",
+          "recommended_value": "Remove.",
+          "evidence": "This is a later business activity occurring after the defendant left the third plaintiff and is not needed for a pre-dispute row.",
+          "recommended_change": "Delete this post-employment fact to avoid leakage."
+        }
+      ],
+      "facts_to_remove": [
+        {
+          "path": "Party_Details.Facts[6]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In late October 2002, while still employed by ABB Industry Pte Ltd, Sher Hock Guan Charles attended the 10th anniversary celebrations of ABB Xiamen Switchgear Co Ltd in Xiamen, China.",
+          "evidence": "The source only gives 'late October 2002' and the event is not necessary to preserve in exact form.",
+          "recommended_change": "Remove or replace with a month-level background fact only."
+        },
+        {
+          "path": "Party_Details.Facts[7]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "During the October 2002 ABB Xiamen anniversary event, representatives of Xian High Voltage Apparatus Research Institute informed Sher Hock Guan Charles that they were looking for a technical adviser for research and development projects relating to a new generation of medium voltage switchgear, circuit breakers and vacuum interrupters.",
+          "evidence": "This is a pre-dispute communication but the exact date is not given and the row already contains later, outcome-revealing material.",
+          "recommended_change": "Remove or reduce to a month-level neutral background fact."
+        },
+        {
+          "path": "Party_Details.Facts[8]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In November 2002, officers of Xian High Voltage Apparatus Research Institute discussed by telephone with Sher Hock Guan Charles their wish to engage an internationally known technical adviser and mentioned the name of Guenther Leonhardt.",
+          "evidence": "This is background to the dispute but the row should not preserve detailed pre-litigation communications when later litigation-stage facts are already present.",
+          "recommended_change": "Remove to keep only neutral background."
+        },
+        {
+          "path": "Party_Details.Facts[9]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "Between 3 December 2002 and 3 February 2003, Sher Hock Guan Charles and Guenther Leonhardt exchanged nine e-mails concerning enquiries from Xian High Voltage Apparatus Research Institute about engaging Leonhardt as a technical adviser for research and development projects on medium voltage switchgear, circuit breakers and vacuum interrupters and as a technical controller for a manufacturing company that would produce and market such products in China and other Asian markets.",
+          "evidence": "This fact is detailed and closely tied to the later liability finding; it should not be preserved in full for a pre-dispute row.",
+          "recommended_change": "Remove or substantially shorten to neutral background."
+        },
+        {
+          "path": "Party_Details.Facts[10]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In November 2002, an officer of Xian High Voltage Apparatus Research Institute met Sher Hock Guan Charles in Singapore and asked him to check with Guenther Leonhardt on the possibility of engaging Leonhardt as a technical adviser.",
+          "evidence": "This is part of the same pre-dispute communications and is not needed once the row is audited conservatively.",
+          "recommended_change": "Remove to avoid overfitting to later findings."
+        },
+        {
+          "path": "Party_Details.Facts[11]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By the end of January 2003, Xiamen Huadian Switchgear Co. Ltd had substantially completed development and critical type testing of a vacuum circuit breaker product, with testing having started on 25 October 2002 and completed on 13 March 2003.",
+          "evidence": "This is detailed development-stage evidence and includes a completion date after the temporal wall.",
+          "recommended_change": "Remove because it includes post-wall testing completion and judgment-stage context."
+        },
+        {
+          "path": "Party_Details.Facts[12]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By the end of January 2003, Sher Hock Guan Charles had decided to leave the employment of ABB Industry Pte Ltd and had informed a senior officer, Tom Sjoekvist, of this decision.",
+          "evidence": "This is a litigation-context fact about the defendant's state of mind and is not necessary for the row.",
+          "recommended_change": "Remove to avoid speculative and unnecessary background."
+        },
+        {
+          "path": "Party_Details.Facts[13]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 3 March 2003, after leaving ABB Industry Pte Ltd, Sher Hock Guan Charles commenced employment as General Manager of Xiamen Huadian Switchgear Co. Ltd.",
+          "evidence": "This is a post-employment event and part of the later factual narrative.",
+          "recommended_change": "Remove if the row is intended to stay before the temporal wall."
+        },
+        {
+          "path": "Party_Details.Facts[14]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By 28 March 2004, Gelpag mbH, a German company in which Sher Hock Guan Charles was a shareholder, had acquired 16.2% of the shares in Xiamen Huadian Switchgear Co. Ltd, alongside Fu Hsiang International Pte Ltd and Xian High Voltage Apparatus Research Institute.",
+          "evidence": "This is a later post-dispute corporate event and not needed for a pre-dispute row.",
+          "recommended_change": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[15]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On or about 5 or 6 March 2003, shortly after joining Xiamen Huadian Switchgear Co. Ltd, Sher Hock Guan Charles telephoned Guenther Leonhardt and invited him to visit Huadian’s premises in Xiamen to discuss a potential technical consultancy role.",
+          "evidence": "This is part of the later liability narrative and occurs after the temporal wall.",
+          "recommended_change": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[16]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In late March 2003, a technical consultancy agreement between Xiamen Huadian Switchgear Co. Ltd and Guenther Leonhardt was signed and backdated to 1 March 2003.",
+          "evidence": "This is a post-wall contractual event and should not be retained in a pre-dispute row.",
+          "recommended_change": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[17]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In July 2003, Xiamen Huadian Switchgear Co. Ltd commenced marketing its vacuum circuit breaker product and received its first order for that product in September 2003.",
+          "evidence": "This is clearly after the temporal wall and outcome-revealing.",
+          "recommended_change": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[18]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 18 February 2002, Great Vision International Pte Ltd was incorporated in Singapore by Sher Hock Sing and two other individuals, and this company was used to undertake a property development project in Xiamen through a subsidiary, Xiamen Fu Cheng Real Estate Property Development Co. Ltd.",
+          "evidence": "The incorporation date is background, but the explanatory use of the company and subsidiary is more detailed than needed and partly inferential.",
+          "recommended_change": "Remove or reduce to the incorporation fact only."
+        },
+        {
+          "path": "Party_Details.Facts[19]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In February 2002, Sher Hock Guan Charles became aware of an opportunity to develop a plot of land in Xiamen and passed this opportunity to his brother, Sher Hock Sing, and business associate Lin Qunxing, leading to the incorporation of Great Vision International Pte Ltd to pursue the project.",
+          "evidence": "This is a disputed inference and not a neutral background fact.",
+          "recommended_change": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[20]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 3 December 2002, a payment voucher of Xiamen Fu Cheng Real Estate Property Development Co. Ltd recorded a cash advance of RMB70,000 described as a travel expenses loan, with the name of Sher Hock Guan Charles stated on the voucher and payment acknowledged as received by Huang Jianhuang.",
+          "evidence": "This is evidentiary material used in the judgment and should not be preserved in full for a pre-dispute row.",
+          "recommended_change": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[21]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 25 April 2003, approximately two months after leaving ABB Industry Pte Ltd, Sher Hock Guan Charles was appointed a director of Great Vision International Pte Ltd and acquired 153 shares in that company from his brother, who resigned as director on the same date.",
+          "evidence": "This is a post-employment event and not needed for the row.",
+          "recommended_change": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[22]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 24 May 2002, Webmoney Investment (S) Pte Ltd was incorporated in Singapore with directors including Luo Baocheng and Chen Wei Ting, and its registered address was the home address of Sher Hock Guan Charles.",
+          "evidence": "This is background but not necessary once the row is narrowed to pre-dispute facts.",
+          "recommended_change": "Remove or keep only if strictly needed."
+        },
+        {
+          "path": "Party_Details.Facts[23]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 25 April 2003, Sher Hock Guan Charles became a director and a holder of one paid-up share in Webmoney Investment (S) Pte Ltd, acting as a Singapore-resident director to assist his associate Luo Baocheng.",
+          "evidence": "This is a post-employment event and includes motive evidence from the judgment.",
+          "recommended_change": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[24]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By March 2004, Gelpag mbH funded its acquisition of a 16.2% shareholding in Xiamen Huadian Switchgear Co. Ltd using returns that Sher Hock Guan Charles had obtained from the Xiamen property development project undertaken through Great Vision International Pte Ltd and Xiamen Fu Cheng Real Estate Property Development Co. Ltd.",
+          "evidence": "This is later evidentiary material and not needed for a pre-dispute row.",
+          "recommended_change": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[25]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In May 2003, Gelpag International Pte Ltd was incorporated in Singapore and Sher Hock Guan Charles became a director and shareholder of this company.",
+          "evidence": "This is a post-employment business activity and should not be retained in a conservative pre-dispute audit.",
+          "recommended_change": "Remove."
+        }
+      ]
+    },
+    "applied_changes": {
+      "label_change": {
+        "from": "Liable",
+        "to": "Unknown",
+        "source": "MODEL"
+      },
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[0].Fact_Date",
+          "from": "1990-01-01",
+          "to": "2001-01-01",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[1].Fact_Date",
+          "from": "1990-01-01",
+          "to": "2001-01-01",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[2].Text",
+          "from": "From 1 January 2001 to February 2003, Sher Hock Guan Charles held the position of General Manager of ABB Industry Pte Ltd.",
+          "to": "With retrospective effect from 1 January 2001, Sher Hock Guan Charles's employment was transferred to ABB Industry Pte Ltd, where his designation was General Manager BAU LV Products and Systems.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[3].Fact_Date",
+          "from": "2001-09-01",
+          "to": "2001-09-03",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[4].Text",
+          "from": "With effect from 1 January 2001, ABB Industry Pte Ltd became the employing entity for Sher Hock Guan Charles following a reorganisation of the ABB Singapore Group.",
+          "to": "With retrospective effect from 1 January 2001, Sher Hock Guan Charles's employment was transferred from the second plaintiff to ABB Industry Pte Ltd pursuant to a new organisation structure that came into effect on 1 January 2001.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[5].Text",
+          "from": "In February 2003, Sher Hock Guan Charles left the employment of ABB Industry Pte Ltd.",
+          "to": "After leaving the third plaintiff, Sher Hock Guan Charles joined Huadian as General Manager; his appointment took effect on 3 March 2003.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[6].Fact_Date",
+          "from": "2002-10-25",
+          "to": "2002-10-01",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[6].Text",
+          "from": "In late October 2002, while still employed by ABB Industry Pte Ltd, Sher Hock Guan Charles attended the 10th anniversary celebrations of ABB Xiamen Switchgear Co Ltd in Xiamen, China.",
+          "to": "In late October 2002, while still employed by the third plaintiff, Sher Hock Guan Charles attended the 10th anniversary celebrations of ABB Xiamen in Xiamen, China.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[7].Fact_Date",
+          "from": "2002-10-25",
+          "to": "2002-10-01",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[9].Fact_Date",
+          "from": "2002-12-03",
+          "to": "2002-12-01",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[10].Fact_Date",
+          "from": "2002-11-15",
+          "to": "2002-11-01",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[13].Text",
+          "from": "On 3 March 2003, after leaving ABB Industry Pte Ltd, Sher Hock Guan Charles commenced employment as General Manager of Xiamen Huadian Switchgear Co. Ltd.",
+          "to": "On 3 March 2003, after leaving the third plaintiff, Sher Hock Guan Charles commenced employment as General Manager of Huadian.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[14].Text",
+          "from": "By 28 March 2004, Gelpag mbH, a German company in which Sher Hock Guan Charles was a shareholder, had acquired 16.2% of the shares in Xiamen Huadian Switchgear Co. Ltd, alongside Fu Hsiang International Pte Ltd and Xian High Voltage Apparatus Research Institute.",
+          "to": "By 28 March 2004, the shareholders in Huadian were Fu Hsiang (80.5%), XIHARI (3.3%) and Gelpag mbH (16.2%).",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[15].Fact_Date",
+          "from": "2003-03-05",
+          "to": "2003-03-01",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[16].Fact_Date",
+          "from": "2003-03-25",
+          "to": "2003-03-01",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[18].Text",
+          "from": "On 18 February 2002, Great Vision International Pte Ltd was incorporated in Singapore by Sher Hock Sing and two other individuals, and this company was used to undertake a property development project in Xiamen through a subsidiary, Xiamen Fu Cheng Real Estate Property Development Co. Ltd.",
+          "to": "On 18 February 2002, the defendant's brother, Sher Hock Sing, and two others procured the incorporation of Great Vision International Pte Ltd.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[19].Text",
+          "from": "In February 2002, Sher Hock Guan Charles became aware of an opportunity to develop a plot of land in Xiamen and passed this opportunity to his brother, Sher Hock Sing, and business associate Lin Qunxing, leading to the incorporation of Great Vision International Pte Ltd to pursue the project.",
+          "to": "In February 2002, the defendant knew that Great Vision was set up to carry out the Xiamen project through its subsidiary.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[20].Text",
+          "from": "On 3 December 2002, a payment voucher of Xiamen Fu Cheng Real Estate Property Development Co. Ltd recorded a cash advance of RMB70,000 described as a travel expenses loan, with the name of Sher Hock Guan Charles stated on the voucher and payment acknowledged as received by Huang Jianhuang.",
+          "to": "The Notes to the Financial Statements for 2002 recorded an outstanding amount of RMB70,000 owing from the defendant in respect of a 'Travel Expenses Loan', and a payment voucher dated 3 December 2002 confirmed the RMB70,000 loan, with the defendant reflected as both 'payee' and 'applicant' and payment purportedly received by Huang Jianhuang on 3 December 2002.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[22].Text",
+          "from": "On 24 May 2002, Webmoney Investment (S) Pte Ltd was incorporated in Singapore with directors including Luo Baocheng and Chen Wei Ting, and its registered address was the home address of Sher Hock Guan Charles.",
+          "to": "On 24 May 2002, Webmoney was incorporated in Singapore. On incorporation its directors were Luo Baocheng and Chen Wei Ting, and its registered address was the defendant's home address.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[23].Text",
+          "from": "On 25 April 2003, Sher Hock Guan Charles became a director and a holder of one paid-up share in Webmoney Investment (S) Pte Ltd, acting as a Singapore-resident director to assist his associate Luo Baocheng.",
+          "to": "On 25 April 2003, the defendant became a director and shareholder of Webmoney and acquired one $1 paid-up share.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[24].Text",
+          "from": "By March 2004, Gelpag mbH funded its acquisition of a 16.2% shareholding in Xiamen Huadian Switchgear Co. Ltd using returns that Sher Hock Guan Charles had obtained from the Xiamen property development project undertaken through Great Vision International Pte Ltd and Xiamen Fu Cheng Real Estate Property Development Co. Ltd.",
+          "to": "Remove.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[25].Text",
+          "from": "In May 2003, Gelpag International Pte Ltd was incorporated in Singapore and Sher Hock Guan Charles became a director and shareholder of this company.",
+          "to": "Remove.",
+          "source": "MODEL"
+        }
+      ],
+      "facts_removed": [
+        {
+          "path": "Party_Details.Facts[25]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[24]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[23]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[22]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[21]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[20]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[19]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[18]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[17]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[16]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[15]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[14]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[13]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[12]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[11]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[10]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[9]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[8]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[7]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[6]",
+          "source": "MODEL"
+        }
+      ],
+      "rule_changes": []
+    }
+  },
+  {
+    "case_name": "ABB Holdings Pte Ltd and Others v Sher Hock Guan Charles",
+    "party": "Sher Hock Guan Charles",
+    "status": "AUTO_FIXED",
+    "audit_suggestion": {
+      "case_name": "ABB Holdings Pte Ltd and Others v Sher Hock Guan Charles",
+      "party": "Sher Hock Guan Charles",
+      "status": "CHANGES",
+      "label_change": {
+        "current": "Liable",
+        "recommended": "Partially Liable",
+        "evidence": "The judgment holds that the defendant was in breach only in respect of certain matters and states that the plaintiffs have not established the other breaches they asserted. It also says judgment will be for the second and third plaintiffs, with the first plaintiff's claim dismissed.",
+        "recommended_change": "Change the defendant outcome label from Liable to Partially Liable because the court found liability only for some pleaded breaches, not all."
+      },
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[0].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "Sher Hock Guan Charles is a Singaporean who worked for various companies in the ABB Group between 1990 and February 2003.",
+          "recommended_value": "Sher Hock Guan Charles is a Singaporean who worked for various companies in the ABB Group between 1990 and February 2003.",
+          "evidence": "The source text states he worked for various companies in the ABB Group between 1990 and February 2003.",
+          "recommended_change": "No change needed to the text, but the fact date should not be fixed to 1990-01-01 because the source only gives the year 1990."
+        },
+        {
+          "path": "Party_Details.Facts[1].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "During his career with the ABB Group, Sher Hock Guan Charles worked in Xiamen, China for ABB China Ltd and ABB Xiamen Switchgear Co Ltd before being based in Singapore from January 1997.",
+          "recommended_value": "During his career with the ABB Group, Sher Hock Guan Charles worked in Xiamen, China for ABB China Ltd and ABB Xiamen Switchgear Co Ltd before being based in Singapore from January 1997.",
+          "evidence": "The source text states he worked in Xiamen for ABB China Ltd and ABB Xiamen, and from January 1997 he was based in Singapore.",
+          "recommended_change": "No change needed to the text, but the fact date should not be fixed to 1990-01-01 because the source does not give a date for this entire career history."
+        },
+        {
+          "path": "Party_Details.Facts[2].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "From January 1997 to January 2000, Sher Hock Guan Charles held the position of President of ABB Installation Materials (East Asia) Pte Ltd.",
+          "recommended_value": "From January 1997 to January 2000, Sher Hock Guan Charles held the position of President of the second plaintiff.",
+          "evidence": "The source text says he was President of the second plaintiff from January 1997 to January 2000.",
+          "recommended_change": "Replace the company name with the second plaintiff as stated in the source."
+        },
+        {
+          "path": "Party_Details.Facts[3].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "From July 1998 to February 2003, Sher Hock Guan Charles was a director of ABB Installation Materials (East Asia) Pte Ltd.",
+          "recommended_value": "From July 1998 to February 2003, Sher Hock Guan Charles was a director of the second plaintiff.",
+          "evidence": "The source text states he was a director of the second plaintiff between July 1998 and February 2003.",
+          "recommended_change": "Replace the company name with the second plaintiff as stated in the source."
+        },
+        {
+          "path": "Party_Details.Facts[4].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "From January 2001 to February 2003, Sher Hock Guan Charles was General Manager of ABB Industry Pte Ltd.",
+          "recommended_value": "From January 2001 to February 2003, Sher Hock Guan Charles was General Manager of the third plaintiff.",
+          "evidence": "The source text states he was General Manager of the third plaintiff from January 2001 to February 2003.",
+          "recommended_change": "Replace the company name with the third plaintiff as stated in the source."
+        },
+        {
+          "path": "Party_Details.Facts[5].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "From September 2001 to February 2003, Sher Hock Guan Charles was Vice-President and Head of Business Area Low Voltage Products, Automation Technology Products Division Asia South, in ABB Industry Pte Ltd.",
+          "recommended_value": "From September 2001 to February 2003, Sher Hock Guan Charles was Vice-President and Head of Business Area Low Voltage Products, Automation Technology Products Division Asia South, third plaintiff.",
+          "evidence": "The source text states he held that position with the third plaintiff from September 2001 to February 2003.",
+          "recommended_change": "Replace the company name with the third plaintiff as stated in the source."
+        },
+        {
+          "path": "Party_Details.Facts[6].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "On 19 July 1996, Sher Hock Guan Charles signed an employment contract with ABB Holdings Pte Ltd covering the period from 1 January 1997 to 31 January 2000, which stated that he would serve as President of ABB Installation Materials (East Asia) Pte Ltd and use his best endeavours to promote the interest and welfare of the ABB Group.",
+          "recommended_value": "On 19 July 1996, Sher Hock Guan Charles signed an employment contract with the first plaintiff covering the period from 1 January 1997 to 31 January 2000, which stated that he would serve as President of the second plaintiff and use his best endeavours to promote the interest and welfare of the ABB Group.",
+          "evidence": "The source text says the first contract was between the first plaintiff and the defendant, and he was to serve as President of the second plaintiff.",
+          "recommended_change": "Replace ABB Holdings Pte Ltd with the first plaintiff and ABB Installation Materials (East Asia) Pte Ltd with the second plaintiff."
+        },
+        {
+          "path": "Party_Details.Facts[7].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "On 20 September 1999, Sher Hock Guan Charles signed a second employment contract, effective from 1 February 2000, which required him to maintain and preserve secrecy in all office matters, not to divulge information to outside members, and stated that private participation in other business activities, especially in the company’s line of business, was strictly not allowed.",
+          "recommended_value": "On 20 September 1999, Sher Hock Guan Charles signed a second employment contract, effective from 1 February 2000, which required him to maintain and preserve secrecy in all office matters, not to divulge information to outside members, and stated that private participation in other business activities, especially in our line of business, was strictly not allowed.",
+          "evidence": "The source text quotes the clause as 'especially in our line of business'.",
+          "recommended_change": "Correct the quoted wording to match the source exactly."
+        },
+        {
+          "path": "Party_Details.Facts[8].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "On 15 January 2001, Sher Hock Guan Charles received and accepted a letter from ABB Industry Pte Ltd transferring his employment from ABB Installation Materials (East Asia) Pte Ltd to ABB Industry Pte Ltd with retrospective effect from 1 January 2001, attaching a Summary of Terms and Conditions of Employment for staff category M1/M2.",
+          "recommended_value": "On 15 January 2001, Sher Hock Guan Charles received and accepted a letter from the third plaintiff transferring his employment from the second plaintiff to the third plaintiff with retrospective effect from 1 January 2001, attaching a Summary of Terms and Conditions of Employment for staff category M1/M2.",
+          "evidence": "The source text states the letter was from the third plaintiff and transferred employment from the second plaintiff to the third plaintiff.",
+          "recommended_change": "Replace the company names with the third plaintiff and second plaintiff as stated in the source."
+        },
+        {
+          "path": "Party_Details.Facts[9].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "From 1 January 2001, Sher Hock Guan Charles’s employer of record became ABB Industry Pte Ltd, while he continued to hold a directorship in ABB Installation Materials (East Asia) Pte Ltd.",
+          "recommended_value": "From 1 January 2001, Sher Hock Guan Charles’s employer of record became the third plaintiff, while he continued to hold a directorship in the second plaintiff.",
+          "evidence": "The source text states his employment was transferred to the third plaintiff and he remained a director of the second plaintiff.",
+          "recommended_change": "Replace the company names with the third plaintiff and second plaintiff as stated in the source."
+        },
+        {
+          "path": "Party_Details.Facts[10].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In February 2002, after being informed by Xiamen Mayor Hong Yong Shi of a land development opportunity in Xiamen, Sher Hock Guan Charles relayed this opportunity to his brother, Sher Hock Sing, and business associate Lin Qunxing, leading to the incorporation of Great Vision International Pte Ltd on 18 February 2002 to pursue the project.",
+          "recommended_value": "In February 2002, Sher Hock Guan Charles relayed a land development opportunity in Xiamen to his brother, Sher Hock Sing, and business associate Lin Qunxing.",
+          "evidence": "The source text discusses this as background to the dispute, but the detailed causal narrative and incorporation outcome are part of the later factual findings and should be trimmed for temporal-wall safety.",
+          "recommended_change": "Remove the outcome-revealing 'leading to the incorporation' wording and keep only the neutral pre-dispute background."
+        },
+        {
+          "path": "Party_Details.Facts[11].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 18 February 2002, Great Vision International Pte Ltd was incorporated with shareholders and directors including Sher Hock Sing and two others, to undertake a property development project in Xiamen through a subsidiary company in China.",
+          "recommended_value": "On 18 February 2002, Great Vision International Pte Ltd was incorporated.",
+          "evidence": "The detailed purpose and shareholder/director characterization are not necessary for the row and are more than neutral background.",
+          "recommended_change": "Trim to the neutral incorporation fact only."
+        },
+        {
+          "path": "Party_Details.Facts[12].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In July 2002, Xiamen Fu Cheng Real Estate Property Development Co. Ltd was established in China as a subsidiary of Great Vision International Pte Ltd to carry out the Xiamen property development project.",
+          "recommended_value": "In July 2002, Xiamen Fu Cheng Real Estate Property Development Co. Ltd was established in China.",
+          "evidence": "The subsidiary relationship and project purpose are background details not needed for the row and are more than neutral background.",
+          "recommended_change": "Trim to the neutral establishment fact only."
+        },
+        {
+          "path": "Party_Details.Facts[13].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 3 December 2002, a payment voucher of Xiamen Fu Cheng Real Estate Property Development Co. Ltd recorded a cash advance of RMB70,000 described as a travel expenses loan, listing Sher Hock Guan Charles as payee and applicant, with receipt acknowledged by Huang Jianhuang.",
+          "recommended_value": "On 3 December 2002, a payment voucher of Xiamen Fu Cheng Real Estate Property Development Co. Ltd recorded a cash advance of RMB70,000 described as a travel expenses loan.",
+          "evidence": "The payee/applicant attribution and receipt acknowledgment are disputed evidentiary details and should be avoided for a conservative pre-dispute row.",
+          "recommended_change": "Remove the disputed attribution details and keep only the neutral voucher fact."
+        },
+        {
+          "path": "Party_Details.Facts[14].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In late October 2002, while still employed by ABB Industry Pte Ltd, Sher Hock Guan Charles attended the 10th anniversary celebrations of ABB Xiamen Switchgear Co Ltd in Xiamen, China, where he met representatives of Xian High Voltage Apparatus Research Institute.",
+          "recommended_value": "In late October 2002, while still employed by the third plaintiff, Sher Hock Guan Charles attended the 10th anniversary celebrations of ABB Xiamen Switchgear Co Ltd in Xiamen, China.",
+          "evidence": "The meeting with XIHARI representatives is part of the later dispute narrative and should be removed for temporal-wall safety.",
+          "recommended_change": "Keep only the neutral attendance at the ABB Xiamen event."
+        },
+        {
+          "path": "Party_Details.Facts[15].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "During the ABB Xiamen anniversary event in October 2002, officers of Xian High Voltage Apparatus Research Institute informed Sher Hock Guan Charles that they were looking for a technical adviser for research and development projects relating to a new generation of medium voltage switchgear, circuit breakers and vacuum interrupters.",
+          "recommended_value": "During the ABB Xiamen anniversary event in October 2002, officers of Xian High Voltage Apparatus Research Institute spoke with Sher Hock Guan Charles.",
+          "evidence": "The specific content of the discussion is tied to the later breach findings and should be removed from the pre-dispute row.",
+          "recommended_change": "Remove the detailed subject matter of the discussion."
+        },
+        {
+          "path": "Party_Details.Facts[16].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In November 2002, Xian High Voltage Apparatus Research Institute officers, including Pei Zhengjiang and Zheng Jun, had several telephone conversations with Sher Hock Guan Charles about engaging an internationally known technical adviser and mentioned the name of former ABB engineer Guenther Leonhardt.",
+          "recommended_value": "In November 2002, Xian High Voltage Apparatus Research Institute officers, including Pei Zhengjiang and Zheng Jun, had several telephone conversations with Sher Hock Guan Charles.",
+          "evidence": "The adviser-engagement details and naming of Leonhardt are part of the later dispute narrative.",
+          "recommended_change": "Remove the adviser-specific content."
+        },
+        {
+          "path": "Party_Details.Facts[17].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "Between 3 December 2002 and 3 February 2003, Sher Hock Guan Charles and Guenther Leonhardt exchanged nine e-mails concerning Xian High Voltage Apparatus Research Institute’s enquiries about engaging Leonhardt as a technical adviser for research and development projects on medium voltage switchgear, circuit breakers and vacuum interrupters and as a technical controller for a manufacturing company that would produce and market such products in China and other Asian markets.",
+          "recommended_value": "Between 3 December 2002 and 3 February 2003, Sher Hock Guan Charles and Guenther Leonhardt exchanged nine e-mails.",
+          "evidence": "The subject matter of the e-mails is part of the later breach analysis and should be removed for temporal-wall safety.",
+          "recommended_change": "Trim to the neutral fact of e-mail exchange only."
+        },
+        {
+          "path": "Party_Details.Facts[18].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In November 2002, Xian High Voltage Apparatus Research Institute’s general manager, Pei Zhengjiang, met Sher Hock Guan Charles in Singapore and asked him to check with Guenther Leonhardt on the possibility of engaging Leonhardt as a technical adviser.",
+          "recommended_value": "In November 2002, Xian High Voltage Apparatus Research Institute’s general manager, Pei Zhengjiang, met Sher Hock Guan Charles in Singapore.",
+          "evidence": "The request to check with Leonhardt is part of the later dispute narrative.",
+          "recommended_change": "Remove the adviser-engagement request."
+        },
+        {
+          "path": "Party_Details.Facts[19].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By December 2002, Sher Hock Guan Charles was aware that Xian High Voltage Apparatus Research Institute intended to develop a new generation of medium voltage switchgear, circuit breakers and vacuum interrupters and to market the resulting products in China and potentially in other Asian markets through a manufacturing company.",
+          "recommended_value": "By December 2002, Sher Hock Guan Charles was aware of Xian High Voltage Apparatus Research Institute’s plans.",
+          "evidence": "The detailed content of the plans is part of the court's later reasoning and should be removed from the pre-dispute row.",
+          "recommended_change": "Keep only the neutral awareness fact."
+        },
+        {
+          "path": "Party_Details.Facts[20].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 4 December 2002, Xiamen Huadian Switchgear Co. Ltd was incorporated in China as a joint venture company with founding shareholders Xian High Voltage Apparatus Research Institute and Fu Hsiang International Pte Ltd.",
+          "recommended_value": "On 4 December 2002, Xiamen Huadian Switchgear Co. Ltd was incorporated in China.",
+          "evidence": "The joint venture characterization and founding shareholder details are not necessary for the row and are more than neutral background.",
+          "recommended_change": "Trim to the neutral incorporation fact only."
+        },
+        {
+          "path": "Party_Details.Facts[21].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By the end of January 2003, Sher Hock Guan Charles had decided to leave ABB Industry Pte Ltd and had informed senior ABB officer Tom Sjoekvist of his intention to resign.",
+          "recommended_value": "By the end of January 2003, Sher Hock Guan Charles had decided to leave the third plaintiff and had informed senior ABB officer Tom Sjoekvist of his intention to resign.",
+          "evidence": "The source text says he intended to leave the third plaintiff and told Tom Sjoekvist.",
+          "recommended_change": "Replace ABB Industry Pte Ltd with the third plaintiff."
+        },
+        {
+          "path": "Party_Details.Facts[22].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By 31 January 2003, Xiamen Huadian Switchgear Co. Ltd had completed prototyping and critical type testing of a vacuum circuit breaker product, with testing having commenced on 25 October 2002.",
+          "recommended_value": "By 31 January 2003, Xiamen Huadian Switchgear Co. Ltd had completed prototyping and critical type testing of a vacuum circuit breaker product.",
+          "evidence": "The testing commencement date is part of the later factual narrative and should be trimmed for conservative temporal-wall handling.",
+          "recommended_change": "Remove the testing commencement detail."
+        },
+        {
+          "path": "Party_Details.Facts[23].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 3 March 2003, after leaving ABB Industry Pte Ltd, Sher Hock Guan Charles commenced employment as General Manager of Xiamen Huadian Switchgear Co. Ltd.",
+          "recommended_value": "On 3 March 2003, after leaving the third plaintiff, Sher Hock Guan Charles commenced employment as General Manager of Xiamen Huadian Switchgear Co. Ltd.",
+          "evidence": "The source text states he joined Huadian as General Manager on 3 March 2003 after leaving the third plaintiff.",
+          "recommended_change": "Replace ABB Industry Pte Ltd with the third plaintiff."
+        },
+        {
+          "path": "Party_Details.Facts[24].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On or about 5 or 6 March 2003, shortly after joining Xiamen Huadian Switchgear Co. Ltd, Sher Hock Guan Charles telephoned Guenther Leonhardt and invited him to visit Huadian’s premises in Xiamen to discuss a potential technical consultancy role.",
+          "recommended_value": "On or about 5 or 6 March 2003, shortly after joining Xiamen Huadian Switchgear Co. Ltd, Sher Hock Guan Charles telephoned Guenther Leonhardt and invited him to visit Huadian’s premises in Xiamen.",
+          "evidence": "The consultancy-role detail is part of the later breach narrative.",
+          "recommended_change": "Remove the consultancy-role detail."
+        },
+        {
+          "path": "Party_Details.Facts[25].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In late March 2003, a technical consultancy agreement between Xiamen Huadian Switchgear Co. Ltd and Guenther Leonhardt was signed and backdated to 1 March 2003.",
+          "recommended_value": "In late March 2003, a technical consultancy agreement between Xiamen Huadian Switchgear Co. Ltd and Guenther Leonhardt was signed.",
+          "evidence": "The backdating detail is not needed for the row and is more than neutral background.",
+          "recommended_change": "Remove the backdating detail."
+        },
+        {
+          "path": "Party_Details.Facts[26].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In July 2003, Xiamen Huadian Switchgear Co. Ltd began marketing its vacuum circuit breaker product and received its first order for that product in September 2003.",
+          "recommended_value": "In July 2003, Xiamen Huadian Switchgear Co. Ltd began marketing its vacuum circuit breaker product.",
+          "evidence": "The first-order detail is later commercial outcome information and should be removed.",
+          "recommended_change": "Remove the first-order detail."
+        },
+        {
+          "path": "Party_Details.Facts[27].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 25 April 2003, approximately two months after leaving ABB Industry Pte Ltd, Sher Hock Guan Charles was appointed a director of Great Vision International Pte Ltd and acquired 153 shares in that company from his brother, who resigned as director on the same date.",
+          "recommended_value": "On 25 April 2003, approximately two months after leaving the third plaintiff, Sher Hock Guan Charles was appointed a director of Great Vision International Pte Ltd and acquired 153 shares in that company from his brother.",
+          "evidence": "The source text states he became a director and acquired his brother's shares on 25 April 2003.",
+          "recommended_change": "Replace ABB Industry Pte Ltd with the third plaintiff and remove the resignation detail."
+        },
+        {
+          "path": "Party_Details.Facts[28].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 25 April 2003, Sher Hock Guan Charles became a director and holder of one paid-up share in Webmoney Investment (S) Pte Ltd, which had been incorporated on 24 May 2002 with its registered address at his home.",
+          "recommended_value": "On 25 April 2003, Sher Hock Guan Charles became a director and holder of one paid-up share in Webmoney Investment (S) Pte Ltd.",
+          "evidence": "The registered address detail is background not needed for the row.",
+          "recommended_change": "Remove the registered address detail."
+        },
+        {
+          "path": "Party_Details.Facts[29].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In May 2003, Sher Hock Guan Charles incorporated Gelpag International Pte Ltd in Singapore and became a director and shareholder of this company.",
+          "recommended_value": "In May 2003, Sher Hock Guan Charles incorporated Gelpag International Pte Ltd in Singapore and became a director and shareholder of this company.",
+          "evidence": "This is post-employment conduct and not needed for a pre-dispute row.",
+          "recommended_change": "Remove this post-employment fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[30].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In October 2003, Gelpag mbH was incorporated in Germany with Sher Hock Guan Charles holding approximately 85% of its shares and Guenther Leonhardt holding approximately 10%.",
+          "recommended_value": "In October 2003, Gelpag mbH was incorporated in Germany.",
+          "evidence": "The shareholding details are not necessary for the row and are more than neutral background.",
+          "recommended_change": "Trim to the neutral incorporation fact only."
+        },
+        {
+          "path": "Party_Details.Facts[31].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By March 2004, Gelpag mbH acquired a 16.2% shareholding in Xiamen Huadian Switchgear Co. Ltd at par value, funded using profits that Sher Hock Guan Charles had obtained from the Xiamen property development project undertaken through Great Vision International Pte Ltd and Xiamen Fu Cheng Real Estate Property Development Co. Ltd.",
+          "recommended_value": "By March 2004, Gelpag mbH acquired a 16.2% shareholding in Xiamen Huadian Switchgear Co. Ltd at par value.",
+          "evidence": "The funding source and project linkage are part of the later factual findings and should be removed.",
+          "recommended_change": "Remove the funding-source detail."
+        },
+        {
+          "path": "Party_Details.Facts[32].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By 28 March 2004, Sher Hock Guan Charles had become a director of Xiamen Huadian Switchgear Co. Ltd following Gelpag mbH’s acquisition of a 16.2% shareholding in that company.",
+          "recommended_value": "By 28 March 2004, Sher Hock Guan Charles had become a director of Xiamen Huadian Switchgear Co. Ltd.",
+          "evidence": "The following-after-acquisition detail is not needed for the row and is more than neutral background.",
+          "recommended_change": "Trim to the neutral directorship fact only."
+        },
+        {
+          "path": "Metadata.Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2009-07-06",
+          "recommended_value": "2009-07-06",
+          "evidence": "The source text shows the decision date as 06 July 2009.",
+          "recommended_change": "No change needed to the date value."
+        }
+      ],
+      "facts_to_remove": [
+        {
+          "path": "Party_Details.Facts[10].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In February 2002, after being informed by Xiamen Mayor Hong Yong Shi of a land development opportunity in Xiamen, Sher Hock Guan Charles relayed this opportunity to his brother, Sher Hock Sing, and business associate Lin Qunxing, leading to the incorporation of Great Vision International Pte Ltd on 18 February 2002 to pursue the project.",
+          "evidence": "The detailed causal narrative and incorporation outcome are later dispute material.",
+          "recommended_change": "Remove the outcome-revealing portion and keep only neutral background if retained."
+        },
+        {
+          "path": "Party_Details.Facts[11].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 18 February 2002, Great Vision International Pte Ltd was incorporated with shareholders and directors including Sher Hock Sing and two others, to undertake a property development project in Xiamen through a subsidiary company in China.",
+          "evidence": "The shareholder/director and project-purpose details are not needed for the row.",
+          "recommended_change": "Remove or trim to neutral incorporation only."
+        },
+        {
+          "path": "Party_Details.Facts[12].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In July 2002, Xiamen Fu Cheng Real Estate Property Development Co. Ltd was established in China as a subsidiary of Great Vision International Pte Ltd to carry out the Xiamen property development project.",
+          "evidence": "The subsidiary relationship and project purpose are not needed for the row.",
+          "recommended_change": "Remove or trim to neutral establishment only."
+        },
+        {
+          "path": "Party_Details.Facts[13].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 3 December 2002, a payment voucher of Xiamen Fu Cheng Real Estate Property Development Co. Ltd recorded a cash advance of RMB70,000 described as a travel expenses loan, listing Sher Hock Guan Charles as payee and applicant, with receipt acknowledged by Huang Jianhuang.",
+          "evidence": "The payee/applicant attribution and receipt acknowledgment are disputed evidentiary details.",
+          "recommended_change": "Remove the disputed attribution details."
+        },
+        {
+          "path": "Party_Details.Facts[14].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In late October 2002, while still employed by ABB Industry Pte Ltd, Sher Hock Guan Charles attended the 10th anniversary celebrations of ABB Xiamen Switchgear Co Ltd in Xiamen, China, where he met representatives of Xian High Voltage Apparatus Research Institute.",
+          "evidence": "The meeting with XIHARI representatives is later dispute material.",
+          "recommended_change": "Remove the meeting detail."
+        },
+        {
+          "path": "Party_Details.Facts[15].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "During the ABB Xiamen anniversary event in October 2002, officers of Xian High Voltage Apparatus Research Institute informed Sher Hock Guan Charles that they were looking for a technical adviser for research and development projects relating to a new generation of medium voltage switchgear, circuit breakers and vacuum interrupters.",
+          "evidence": "The specific subject matter is part of the later breach analysis.",
+          "recommended_change": "Remove the detailed subject matter."
+        },
+        {
+          "path": "Party_Details.Facts[16].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In November 2002, Xian High Voltage Apparatus Research Institute officers, including Pei Zhengjiang and Zheng Jun, had several telephone conversations with Sher Hock Guan Charles about engaging an internationally known technical adviser and mentioned the name of former ABB engineer Guenther Leonhardt.",
+          "evidence": "The adviser-engagement details are later dispute material.",
+          "recommended_change": "Remove the adviser-specific content."
+        },
+        {
+          "path": "Party_Details.Facts[17].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "Between 3 December 2002 and 3 February 2003, Sher Hock Guan Charles and Guenther Leonhardt exchanged nine e-mails concerning Xian High Voltage Apparatus Research Institute’s enquiries about engaging Leonhardt as a technical adviser for research and development projects on medium voltage switchgear, circuit breakers and vacuum interrupters and as a technical controller for a manufacturing company that would produce and market such products in China and other Asian markets.",
+          "evidence": "The subject matter of the e-mails is later dispute material.",
+          "recommended_change": "Remove the detailed subject matter."
+        },
+        {
+          "path": "Party_Details.Facts[18].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In November 2002, Xian High Voltage Apparatus Research Institute’s general manager, Pei Zhengjiang, met Sher Hock Guan Charles in Singapore and asked him to check with Guenther Leonhardt on the possibility of engaging Leonhardt as a technical adviser.",
+          "evidence": "The request to check with Leonhardt is later dispute material.",
+          "recommended_change": "Remove the adviser-engagement request."
+        },
+        {
+          "path": "Party_Details.Facts[19].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By December 2002, Sher Hock Guan Charles was aware that Xian High Voltage Apparatus Research Institute intended to develop a new generation of medium voltage switchgear, circuit breakers and vacuum interrupters and to market the resulting products in China and potentially in other Asian markets through a manufacturing company.",
+          "evidence": "The detailed content of the plans is part of the later reasoning.",
+          "recommended_change": "Remove the detailed plan description."
+        },
+        {
+          "path": "Party_Details.Facts[20].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 4 December 2002, Xiamen Huadian Switchgear Co. Ltd was incorporated in China as a joint venture company with founding shareholders Xian High Voltage Apparatus Research Institute and Fu Hsiang International Pte Ltd.",
+          "evidence": "The joint venture characterization and founding shareholder details are not needed for the row.",
+          "recommended_change": "Remove the shareholder details."
+        },
+        {
+          "path": "Party_Details.Facts[22].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By 31 January 2003, Xiamen Huadian Switchgear Co. Ltd had completed prototyping and critical type testing of a vacuum circuit breaker product, with testing having commenced on 25 October 2002.",
+          "evidence": "The testing commencement date is later factual detail.",
+          "recommended_change": "Remove the testing commencement detail."
+        },
+        {
+          "path": "Party_Details.Facts[24].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On or about 5 or 6 March 2003, shortly after joining Xiamen Huadian Switchgear Co. Ltd, Sher Hock Guan Charles telephoned Guenther Leonhardt and invited him to visit Huadian’s premises in Xiamen to discuss a potential technical consultancy role.",
+          "evidence": "The consultancy-role detail is later dispute material.",
+          "recommended_change": "Remove the consultancy-role detail."
+        },
+        {
+          "path": "Party_Details.Facts[25].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In late March 2003, a technical consultancy agreement between Xiamen Huadian Switchgear Co. Ltd and Guenther Leonhardt was signed and backdated to 1 March 2003.",
+          "evidence": "The backdating detail is not needed for the row.",
+          "recommended_change": "Remove the backdating detail."
+        },
+        {
+          "path": "Party_Details.Facts[26].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In July 2003, Xiamen Huadian Switchgear Co. Ltd began marketing its vacuum circuit breaker product and received its first order for that product in September 2003.",
+          "evidence": "The first-order detail is later commercial outcome information.",
+          "recommended_change": "Remove the first-order detail."
+        },
+        {
+          "path": "Party_Details.Facts[29].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In May 2003, Sher Hock Guan Charles incorporated Gelpag International Pte Ltd in Singapore and became a director and shareholder of this company.",
+          "evidence": "This is post-employment conduct and not needed for a pre-dispute row.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[30].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In October 2003, Gelpag mbH was incorporated in Germany with Sher Hock Guan Charles holding approximately 85% of its shares and Guenther Leonhardt holding approximately 10%.",
+          "evidence": "The shareholding details are not needed for the row.",
+          "recommended_change": "Remove the shareholding details."
+        },
+        {
+          "path": "Party_Details.Facts[31].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By March 2004, Gelpag mbH acquired a 16.2% shareholding in Xiamen Huadian Switchgear Co. Ltd at par value, funded using profits that Sher Hock Guan Charles had obtained from the Xiamen property development project undertaken through Great Vision International Pte Ltd and Xiamen Fu Cheng Real Estate Property Development Co. Ltd.",
+          "evidence": "The funding source and project linkage are later factual findings.",
+          "recommended_change": "Remove the funding-source detail."
+        },
+        {
+          "path": "Party_Details.Facts[32].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By 28 March 2004, Sher Hock Guan Charles had become a director of Xiamen Huadian Switchgear Co. Ltd following Gelpag mbH’s acquisition of a 16.2% shareholding in that company.",
+          "evidence": "The following-after-acquisition detail is not needed for the row.",
+          "recommended_change": "Remove the follow-on acquisition detail."
+        }
+      ]
+    },
+    "applied_changes": {
+      "label_change": {
+        "from": "Liable",
+        "to": "Partially Liable",
+        "source": "MODEL"
+      },
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[2].Text",
+          "from": "From January 1997 to January 2000, Sher Hock Guan Charles held the position of President of ABB Installation Materials (East Asia) Pte Ltd.",
+          "to": "From January 1997 to January 2000, Sher Hock Guan Charles held the position of President of the second plaintiff.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[3].Text",
+          "from": "From July 1998 to February 2003, Sher Hock Guan Charles was a director of ABB Installation Materials (East Asia) Pte Ltd.",
+          "to": "From July 1998 to February 2003, Sher Hock Guan Charles was a director of the second plaintiff.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[4].Text",
+          "from": "From January 2001 to February 2003, Sher Hock Guan Charles was General Manager of ABB Industry Pte Ltd.",
+          "to": "From January 2001 to February 2003, Sher Hock Guan Charles was General Manager of the third plaintiff.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[5].Text",
+          "from": "From September 2001 to February 2003, Sher Hock Guan Charles was Vice-President and Head of Business Area Low Voltage Products, Automation Technology Products Division Asia South, in ABB Industry Pte Ltd.",
+          "to": "From September 2001 to February 2003, Sher Hock Guan Charles was Vice-President and Head of Business Area Low Voltage Products, Automation Technology Products Division Asia South, third plaintiff.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[6].Text",
+          "from": "On 19 July 1996, Sher Hock Guan Charles signed an employment contract with ABB Holdings Pte Ltd covering the period from 1 January 1997 to 31 January 2000, which stated that he would serve as President of ABB Installation Materials (East Asia) Pte Ltd and use his best endeavours to promote the interest and welfare of the ABB Group.",
+          "to": "On 19 July 1996, Sher Hock Guan Charles signed an employment contract with the first plaintiff covering the period from 1 January 1997 to 31 January 2000, which stated that he would serve as President of the second plaintiff and use his best endeavours to promote the interest and welfare of the ABB Group.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[7].Text",
+          "from": "On 20 September 1999, Sher Hock Guan Charles signed a second employment contract, effective from 1 February 2000, which required him to maintain and preserve secrecy in all office matters, not to divulge information to outside members, and stated that private participation in other business activities, especially in the company’s line of business, was strictly not allowed.",
+          "to": "On 20 September 1999, Sher Hock Guan Charles signed a second employment contract, effective from 1 February 2000, which required him to maintain and preserve secrecy in all office matters, not to divulge information to outside members, and stated that private participation in other business activities, especially in our line of business, was strictly not allowed.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[8].Text",
+          "from": "On 15 January 2001, Sher Hock Guan Charles received and accepted a letter from ABB Industry Pte Ltd transferring his employment from ABB Installation Materials (East Asia) Pte Ltd to ABB Industry Pte Ltd with retrospective effect from 1 January 2001, attaching a Summary of Terms and Conditions of Employment for staff category M1/M2.",
+          "to": "On 15 January 2001, Sher Hock Guan Charles received and accepted a letter from the third plaintiff transferring his employment from the second plaintiff to the third plaintiff with retrospective effect from 1 January 2001, attaching a Summary of Terms and Conditions of Employment for staff category M1/M2.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[9].Text",
+          "from": "From 1 January 2001, Sher Hock Guan Charles’s employer of record became ABB Industry Pte Ltd, while he continued to hold a directorship in ABB Installation Materials (East Asia) Pte Ltd.",
+          "to": "From 1 January 2001, Sher Hock Guan Charles’s employer of record became the third plaintiff, while he continued to hold a directorship in the second plaintiff.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[10].Text",
+          "from": "In February 2002, after being informed by Xiamen Mayor Hong Yong Shi of a land development opportunity in Xiamen, Sher Hock Guan Charles relayed this opportunity to his brother, Sher Hock Sing, and business associate Lin Qunxing, leading to the incorporation of Great Vision International Pte Ltd on 18 February 2002 to pursue the project.",
+          "to": "In February 2002, Sher Hock Guan Charles relayed a land development opportunity in Xiamen to his brother, Sher Hock Sing, and business associate Lin Qunxing.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[11].Text",
+          "from": "On 18 February 2002, Great Vision International Pte Ltd was incorporated with shareholders and directors including Sher Hock Sing and two others, to undertake a property development project in Xiamen through a subsidiary company in China.",
+          "to": "On 18 February 2002, Great Vision International Pte Ltd was incorporated.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[12].Text",
+          "from": "In July 2002, Xiamen Fu Cheng Real Estate Property Development Co. Ltd was established in China as a subsidiary of Great Vision International Pte Ltd to carry out the Xiamen property development project.",
+          "to": "In July 2002, Xiamen Fu Cheng Real Estate Property Development Co. Ltd was established in China.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[13].Text",
+          "from": "On 3 December 2002, a payment voucher of Xiamen Fu Cheng Real Estate Property Development Co. Ltd recorded a cash advance of RMB70,000 described as a travel expenses loan, listing Sher Hock Guan Charles as payee and applicant, with receipt acknowledged by Huang Jianhuang.",
+          "to": "On 3 December 2002, a payment voucher of Xiamen Fu Cheng Real Estate Property Development Co. Ltd recorded a cash advance of RMB70,000 described as a travel expenses loan.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[14].Text",
+          "from": "In late October 2002, while still employed by ABB Industry Pte Ltd, Sher Hock Guan Charles attended the 10th anniversary celebrations of ABB Xiamen Switchgear Co Ltd in Xiamen, China, where he met representatives of Xian High Voltage Apparatus Research Institute.",
+          "to": "In late October 2002, while still employed by the third plaintiff, Sher Hock Guan Charles attended the 10th anniversary celebrations of ABB Xiamen Switchgear Co Ltd in Xiamen, China.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[15].Text",
+          "from": "During the ABB Xiamen anniversary event in October 2002, officers of Xian High Voltage Apparatus Research Institute informed Sher Hock Guan Charles that they were looking for a technical adviser for research and development projects relating to a new generation of medium voltage switchgear, circuit breakers and vacuum interrupters.",
+          "to": "During the ABB Xiamen anniversary event in October 2002, officers of Xian High Voltage Apparatus Research Institute spoke with Sher Hock Guan Charles.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[16].Text",
+          "from": "In November 2002, Xian High Voltage Apparatus Research Institute officers, including Pei Zhengjiang and Zheng Jun, had several telephone conversations with Sher Hock Guan Charles about engaging an internationally known technical adviser and mentioned the name of former ABB engineer Guenther Leonhardt.",
+          "to": "In November 2002, Xian High Voltage Apparatus Research Institute officers, including Pei Zhengjiang and Zheng Jun, had several telephone conversations with Sher Hock Guan Charles.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[17].Text",
+          "from": "Between 3 December 2002 and 3 February 2003, Sher Hock Guan Charles and Guenther Leonhardt exchanged nine e-mails concerning Xian High Voltage Apparatus Research Institute’s enquiries about engaging Leonhardt as a technical adviser for research and development projects on medium voltage switchgear, circuit breakers and vacuum interrupters and as a technical controller for a manufacturing company that would produce and market such products in China and other Asian markets.",
+          "to": "Between 3 December 2002 and 3 February 2003, Sher Hock Guan Charles and Guenther Leonhardt exchanged nine e-mails.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[18].Text",
+          "from": "In November 2002, Xian High Voltage Apparatus Research Institute’s general manager, Pei Zhengjiang, met Sher Hock Guan Charles in Singapore and asked him to check with Guenther Leonhardt on the possibility of engaging Leonhardt as a technical adviser.",
+          "to": "In November 2002, Xian High Voltage Apparatus Research Institute’s general manager, Pei Zhengjiang, met Sher Hock Guan Charles in Singapore.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[19].Text",
+          "from": "By December 2002, Sher Hock Guan Charles was aware that Xian High Voltage Apparatus Research Institute intended to develop a new generation of medium voltage switchgear, circuit breakers and vacuum interrupters and to market the resulting products in China and potentially in other Asian markets through a manufacturing company.",
+          "to": "By December 2002, Sher Hock Guan Charles was aware of Xian High Voltage Apparatus Research Institute’s plans.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[20].Text",
+          "from": "On 4 December 2002, Xiamen Huadian Switchgear Co. Ltd was incorporated in China as a joint venture company with founding shareholders Xian High Voltage Apparatus Research Institute and Fu Hsiang International Pte Ltd.",
+          "to": "On 4 December 2002, Xiamen Huadian Switchgear Co. Ltd was incorporated in China.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[21].Text",
+          "from": "By the end of January 2003, Sher Hock Guan Charles had decided to leave ABB Industry Pte Ltd and had informed senior ABB officer Tom Sjoekvist of his intention to resign.",
+          "to": "By the end of January 2003, Sher Hock Guan Charles had decided to leave the third plaintiff and had informed senior ABB officer Tom Sjoekvist of his intention to resign.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[22].Text",
+          "from": "By 31 January 2003, Xiamen Huadian Switchgear Co. Ltd had completed prototyping and critical type testing of a vacuum circuit breaker product, with testing having commenced on 25 October 2002.",
+          "to": "By 31 January 2003, Xiamen Huadian Switchgear Co. Ltd had completed prototyping and critical type testing of a vacuum circuit breaker product.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[23].Text",
+          "from": "On 3 March 2003, after leaving ABB Industry Pte Ltd, Sher Hock Guan Charles commenced employment as General Manager of Xiamen Huadian Switchgear Co. Ltd.",
+          "to": "On 3 March 2003, after leaving the third plaintiff, Sher Hock Guan Charles commenced employment as General Manager of Xiamen Huadian Switchgear Co. Ltd.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[24].Text",
+          "from": "On or about 5 or 6 March 2003, shortly after joining Xiamen Huadian Switchgear Co. Ltd, Sher Hock Guan Charles telephoned Guenther Leonhardt and invited him to visit Huadian’s premises in Xiamen to discuss a potential technical consultancy role.",
+          "to": "On or about 5 or 6 March 2003, shortly after joining Xiamen Huadian Switchgear Co. Ltd, Sher Hock Guan Charles telephoned Guenther Leonhardt and invited him to visit Huadian’s premises in Xiamen.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[25].Text",
+          "from": "In late March 2003, a technical consultancy agreement between Xiamen Huadian Switchgear Co. Ltd and Guenther Leonhardt was signed and backdated to 1 March 2003.",
+          "to": "In late March 2003, a technical consultancy agreement between Xiamen Huadian Switchgear Co. Ltd and Guenther Leonhardt was signed.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[26].Text",
+          "from": "In July 2003, Xiamen Huadian Switchgear Co. Ltd began marketing its vacuum circuit breaker product and received its first order for that product in September 2003.",
+          "to": "In July 2003, Xiamen Huadian Switchgear Co. Ltd began marketing its vacuum circuit breaker product.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[27].Text",
+          "from": "On 25 April 2003, approximately two months after leaving ABB Industry Pte Ltd, Sher Hock Guan Charles was appointed a director of Great Vision International Pte Ltd and acquired 153 shares in that company from his brother, who resigned as director on the same date.",
+          "to": "On 25 April 2003, approximately two months after leaving the third plaintiff, Sher Hock Guan Charles was appointed a director of Great Vision International Pte Ltd and acquired 153 shares in that company from his brother.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[28].Text",
+          "from": "On 25 April 2003, Sher Hock Guan Charles became a director and holder of one paid-up share in Webmoney Investment (S) Pte Ltd, which had been incorporated on 24 May 2002 with its registered address at his home.",
+          "to": "On 25 April 2003, Sher Hock Guan Charles became a director and holder of one paid-up share in Webmoney Investment (S) Pte Ltd.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[30].Text",
+          "from": "In October 2003, Gelpag mbH was incorporated in Germany with Sher Hock Guan Charles holding approximately 85% of its shares and Guenther Leonhardt holding approximately 10%.",
+          "to": "In October 2003, Gelpag mbH was incorporated in Germany.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[31].Text",
+          "from": "By March 2004, Gelpag mbH acquired a 16.2% shareholding in Xiamen Huadian Switchgear Co. Ltd at par value, funded using profits that Sher Hock Guan Charles had obtained from the Xiamen property development project undertaken through Great Vision International Pte Ltd and Xiamen Fu Cheng Real Estate Property Development Co. Ltd.",
+          "to": "By March 2004, Gelpag mbH acquired a 16.2% shareholding in Xiamen Huadian Switchgear Co. Ltd at par value.",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[32].Text",
+          "from": "By 28 March 2004, Sher Hock Guan Charles had become a director of Xiamen Huadian Switchgear Co. Ltd following Gelpag mbH’s acquisition of a 16.2% shareholding in that company.",
+          "to": "By 28 March 2004, Sher Hock Guan Charles had become a director of Xiamen Huadian Switchgear Co. Ltd.",
+          "source": "MODEL"
+        }
+      ],
+      "facts_removed": [
+        {
+          "path": "Party_Details.Facts[32]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[31]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[30]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[29]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[26]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[25]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[24]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[22]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[20]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[19]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[18]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[17]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[16]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[15]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[14]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[13]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[12]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[11]",
+          "source": "MODEL"
+        },
+        {
+          "path": "Party_Details.Facts[10]",
+          "source": "MODEL"
+        }
+      ],
+      "rule_changes": []
+    }
+  }
+]

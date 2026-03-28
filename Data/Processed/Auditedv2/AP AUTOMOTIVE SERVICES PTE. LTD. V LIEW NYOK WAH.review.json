@@ -1,0 +1,1212 @@
+[
+  {
+    "case_name": "AP Automotive Services Pte Ltd v Liew Nyok Wah",
+    "party": "AP Automotive Services Pte Ltd",
+    "status": "CHANGED",
+    "audit_suggestion": {
+      "case_name": "AP Automotive Services Pte Ltd v Liew Nyok Wah",
+      "party": "AP Automotive Services Pte Ltd",
+      "status": "CHANGES",
+      "label_change": {
+        "current": "Dismissed",
+        "recommended": "Claim Dismissed",
+        "evidence": "The judgment states at [56] that 'As the Company has failed in its claim, I award costs in favour of Mr Liew' and at [54]-[55] that the Company has no defence to Mr Liew's counterclaim, with judgment entered for Mr Liew in $719,000.",
+        "recommended_change": "Update the outcome label to the plaintiff-specific label 'Claim Dismissed'."
+      },
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[8].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2021-01-07",
+          "recommended_value": "2021-04-07",
+          "evidence": "Paragraph 15(a) states: 'With respect to Mr Teo’s contribution of $100,000 made on 7 April 2021...'",
+          "recommended_change": "Correct the date to 7 April 2021."
+        },
+        {
+          "path": "Party_Details.Facts[10].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "On 14 January 2021, AP Automotive Services Pte Ltd paid $160,000 to or for the benefit of Teo Ying Ping, which reduced the net amount of his funds remaining with the company.",
+          "recommended_value": "On 14 January 2021, Mr Teo was repaid a sum of $160,000.",
+          "evidence": "Paragraph 16(b) states: 'Mr Teo himself was repaid a sum of $160,000 on 14 January 2021.'",
+          "recommended_change": "Remove the unsupported wording 'to or for the benefit of' and state the repayment as described in the judgment."
+        },
+        {
+          "path": "Party_Details.Facts[11].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "By 7 April 2021, AP Automotive Services Pte Ltd had recorded the $100,000 provided via cheque from Teo Ying Ping as part of funding to the company.",
+          "recommended_value": "On 7 April 2021, AP Automotive Services Pte Ltd received a contribution of $100,000 from Mr Teo.",
+          "evidence": "Paragraph 15(a) refers to 'Mr Teo’s contribution of $100,000 made on 7 April 2021'.",
+          "recommended_change": "Replace the paraphrase with the exact supported fact and date."
+        },
+        {
+          "path": "Party_Details.Facts[12].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2021-01-08",
+          "recommended_value": "2021-01-08",
+          "evidence": "The text says the Mengkim loan was taken on 8 January 2021, but the current fact is otherwise acceptable; however the row should avoid implying a formal 'entered into' phrasing beyond the source if not needed.",
+          "recommended_change": "No date change needed; keep as 8 January 2021."
+        },
+        {
+          "path": "Party_Details.Facts[13].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "Before the Mengkim Holdings Pte Ltd loan was signed on 8 January 2021, shareholder Teo Ying Ping was aware that AP Automotive Services Pte Ltd was entering into this loan.",
+          "recommended_value": "Remove.",
+          "evidence": "This is drawn from trial evidence and judicial reasoning about what Mr Teo knew before signing; it is not needed as neutral background and risks leakage.",
+          "recommended_change": "Delete this fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[14].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "As of 8 January 2021, funding associated with Liew Nyok Wah totalled about $1.3 million and funding associated with Teo Ying Ping totalled about $960,000, excluding their initial capital injections.",
+          "recommended_value": "As of 8 January 2021, Mr Liew was responsible for funding a total sum of $1.3 million while Mr Teo was responsible for $960,000, excluding their initial capital injections of $50,000 each.",
+          "evidence": "Paragraph 24(a) states: 'as of 8 January 2021, Mr Liew was responsible for funding a total sum of $1.3m while Mr Teo was responsible for $960,000 only.'",
+          "recommended_change": "Use the source wording and include the initial capital injections if retained."
+        },
+        {
+          "path": "Party_Details.Facts[15].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "On 8 October 2021, AP Automotive Services Pte Ltd received approximately $260,000 associated with a hire-purchase loan taken over the car of Teo Ying Ping, where the finance company disbursed $260,000 and the company agreed to service monthly instalments of about $5,196 over 60 months.",
+          "recommended_value": "On 8 October 2021, Mr Teo took up a loan of $260,000 by way of a hire-purchase agreement over his car, and the Company agreed to assume monthly instalments of $5,196.",
+          "evidence": "Paragraph 16(d) states that Mr Teo took up a loan of $260,000 by way of a hire-purchase agreement over his car and the Company agreed to assume the monthly instalments.",
+          "recommended_change": "Remove unsupported wording about the company 'receiving' the loan and keep the transaction as described."
+        },
+        {
+          "path": "Party_Details.Facts[16].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "Around 8 October 2021, approximately $60,000 from the $260,000 hire-purchase loan associated with Teo Ying Ping was used for renewal of the car's Certificate of Entitlement, leaving about $200,000 effectively available as funding to AP Automotive Services Pte Ltd.",
+          "recommended_value": "Around 8 October 2021, approximately $60,000 from the $260,000 hire-purchase loan was used for renewal of the car's Certificate of Entitlement, and the principal sum of $260,000 was paid to the Company.",
+          "evidence": "Paragraph 16(d) states that the principal sum of $260,000 was paid to the Company and approximately $60,000 was thereafter used for the COE renewal.",
+          "recommended_change": "Correct the direction of the funds and remove the unsupported 'effectively available as funding' wording."
+        },
+        {
+          "path": "Party_Details.Facts[17].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "From 8 October 2021, AP Automotive Services Pte Ltd began making monthly instalment payments of about $5,196 to the finance company under the hire-purchase loan associated with the car of Teo Ying Ping, covering both principal and interest.",
+          "recommended_value": "From 8 October 2021, the Company began making monthly instalment payments of $5,196 to the finance company on behalf of Mr Teo.",
+          "evidence": "Paragraph 16(d) states that the Company agreed to assume the monthly instalments to the finance company on behalf of Mr Teo in the amount of $5,196.",
+          "recommended_change": "Shorten to the exact supported fact and avoid adding 'covering both principal and interest' unless directly quoted."
+        },
+        {
+          "path": "Party_Details.Facts[18].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2021-06-01",
+          "recommended_value": "2021-04-07",
+          "evidence": "Paragraph 15(a) concerns Mr Teo's $100,000 contribution on 7 April 2021; the current date on the Junk Yard Dog loan fact is not supported by the source as 'mid-2021'.",
+          "recommended_change": "Use a supported date only if the source gives one; otherwise keep the fact undated or remove the date."
+        },
+        {
+          "path": "Party_Details.Facts[18].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "By mid-2021, AP Automotive Services Pte Ltd had obtained a $300,000 loan from Junk Yard Dog Ventures Pte Ltd, which was recorded in the company’s accounting records as a loan from Junk Yard Dog.",
+          "recommended_value": "The Company obtained a $300,000 loan from Junk Yard Dog Ventures Pte Ltd, which was recorded in the Company’s accounting records as a loan from Junk Yard Dog.",
+          "evidence": "Paragraph 15(b) states that of the $2.22m in 'capital' claimed by the Company, at least $300,000 was a loan taken by the Company from Junk Yard Dog Ventures Pte Ltd.",
+          "recommended_change": "Remove the unsupported timing phrase 'By mid-2021'."
+        },
+        {
+          "path": "Party_Details.Facts[21].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2022-01-09",
+          "recommended_value": "2023-01-09",
+          "evidence": "Paragraph 18(e) states: 'Mr Ho signed a Creditors Confirmation Request dated 9 January 2023...'",
+          "recommended_change": "Correct the year from 2022 to 2023."
+        },
+        {
+          "path": "Party_Details.Facts[22].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2022-07-31",
+          "recommended_value": "2022-07-31",
+          "evidence": "The source says the confirmation was as at 31 July 2022, but the fact should not imply that the records themselves were dated 31 July 2022.",
+          "recommended_change": "Keep the as-at date only if needed; otherwise rephrase to match the source precisely."
+        },
+        {
+          "path": "Party_Details.Facts[23].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2020-11-01",
+          "recommended_value": "2020-11-01",
+          "evidence": "Paragraph 18(b) says Mr Teo deposed that he and Mr Ho had, in November 2020, noticed that the contributions were labelled as 'directors’ loans'.",
+          "recommended_change": "This is acceptable as a month-level date, but should not be presented as exact if the source only gives November 2020."
+        },
+        {
+          "path": "Party_Details.Facts[24].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "From around November 2020, Liew Shulin regularly prepared a 'loan sheet' shared in the 'AP Accounting Department' WhatsApp group, listing monies received with headers such as 'Date of Loan', 'Expiry Date of Loan' and 'Loan interest/month', and including entries for funds associated with shareholders.",
+          "recommended_value": "Remove.",
+          "evidence": "This is trial evidence about internal documents and communications used in the judgment; it is not necessary neutral background and risks leakage.",
+          "recommended_change": "Delete this fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[25].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 20 December 2022, AP Automotive Services Pte Ltd paid $15,000 to or for the benefit of Teo Ying Ping.",
+          "recommended_value": "Remove.",
+          "evidence": "This is a repayment event discussed in the judgment's reasoning and is not needed as neutral background for the plaintiff row.",
+          "recommended_change": "Delete this fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[26].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 27 December 2022, AP Automotive Services Pte Ltd made payments of $15,000 each to or for the benefit of both Teo Ying Ping and Liew Nyok Wah.",
+          "recommended_value": "Remove.",
+          "evidence": "This is a litigation-stage repayment fact used in the court's reasoning and should not be retained as background.",
+          "recommended_change": "Delete this fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[27].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "From 1 May 2022 onwards, AP Automotive Services Pte Ltd began making repayments in respect of loans associated with Tan Bee Hong and Ban Leong, totalling $400,000 in principal.",
+          "recommended_value": "Remove.",
+          "evidence": "This repayment sequence is part of the judgment's damages analysis and is beyond the temporal wall for a predictive row.",
+          "recommended_change": "Delete this fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[28].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "The repayment date of the $500,000 loan from Mengkim Holdings Pte Ltd, originally due in January 2022, was extended to 8 April 2022 and later to 8 July 2022 by agreement between AP Automotive Services Pte Ltd and Mengkim Holdings Pte Ltd.",
+          "recommended_value": "Remove.",
+          "evidence": "This is procedural/evidential detail about later loan extensions and repayments discussed in the judgment.",
+          "recommended_change": "Delete this fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[29].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 28 April 2023, AP Automotive Services Pte Ltd made the final repayment under the $500,000 loan from Mengkim Holdings Pte Ltd.",
+          "recommended_value": "Remove.",
+          "evidence": "This is a later repayment fact used in the court's reasoning and is beyond the temporal wall.",
+          "recommended_change": "Delete this fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[30].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "From 16 November 2020 onwards, AP Automotive Services Pte Ltd began selling cars from its fleet, and by 2021 more than 20 cars had been sold.",
+          "recommended_value": "According to the Company, the sale of the Company’s car fleet commenced on 16 November 2020.",
+          "evidence": "Paragraph 39(a) states: 'According to the Company, the sale of the Company’s car fleet commenced on 16 November 2020.'",
+          "recommended_change": "Remove the unsupported 'from 16 November 2020 onwards' and 'by 2021 more than 20 cars had been sold' wording."
+        },
+        {
+          "path": "Party_Details.Facts[31].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By around August or September 2021, a restructuring plan proposed by Marcus Teo for AP Automotive Services Pte Ltd included selling the company’s fleet of cars to improve its finances.",
+          "recommended_value": "Remove.",
+          "evidence": "This is trial evidence and judicially assessed reasoning about a restructuring plan, not neutral background needed before the dispute outcome.",
+          "recommended_change": "Delete this fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[32].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "As part of the restructuring plan implemented around August or September 2021, AP Automotive Services Pte Ltd sold a substantial portion of its car fleet and raised just over $1 million after paying off purchase-related loans on the cars.",
+          "recommended_value": "Remove.",
+          "evidence": "This is judgment-stage factual analysis of the fleet sale and proceeds.",
+          "recommended_change": "Delete this fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[33].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "The sale of the car fleet of AP Automotive Services Pte Ltd was arranged and authorised by Managing Director Ho Siow Poh.",
+          "recommended_value": "Remove.",
+          "evidence": "This is a finding from the judgment and should not be retained as background.",
+          "recommended_change": "Delete this fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[34].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "From March 2021 to May 2023, AP Automotive Services Pte Ltd paid monthly retainer fees to Jackspeed Automobile (S) Pte Ltd, which included rental for office space and related services.",
+          "recommended_value": "Remove.",
+          "evidence": "This is a damages-related fact discussed in the judgment and is not necessary neutral background.",
+          "recommended_change": "Delete this fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[35].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In early 2021, AP Automotive Services Pte Ltd moved its workshop operations to premises at Loyang while retaining some office and storage space at the Tampines premises managed by Jackspeed Automobile (S) Pte Ltd.",
+          "recommended_value": "In early 2021, the Company moved its workshop operations to the Loyang premises while retaining some space at the Tampines premises.",
+          "evidence": "Paragraph 49(a) states that the Company moved its workshop operations to the Loyang premises in early 2021 and retained some space at the Tampines premises.",
+          "recommended_change": "If retained, simplify to the neutral background fact only."
+        },
+        {
+          "path": "Party_Details.Facts[36].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "After moving workshop operations to Loyang in early 2021, AP Automotive Services Pte Ltd continued to store accounting records, other records, furniture and a computer at the Tampines premises and used it as an office space.",
+          "recommended_value": "Remove.",
+          "evidence": "This is detailed trial evidence about premises use and is not needed for the row.",
+          "recommended_change": "Delete this fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[37].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "Until 24 August 2023, the registered office address of AP Automotive Services Pte Ltd remained at the Tampines premises associated with Jackspeed Automobile (S) Pte Ltd.",
+          "recommended_value": "Remove.",
+          "evidence": "This is a later procedural/background fact not needed before the dispute outcome.",
+          "recommended_change": "Delete this fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[38].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "The three shareholders of AP Automotive Services Pte Ltd agreed that after workshop operations moved to Loyang in early 2021, the company would retain an office unit on the second storey and a room on the first storey at the Tampines premises.",
+          "recommended_value": "Remove.",
+          "evidence": "This is a judgment-stage finding about the shareholders' agreement on premises retention.",
+          "recommended_change": "Delete this fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[39].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By June 2021, the shareholders of AP Automotive Services Pte Ltd had discussed the possibility of selling the company’s fleet of cars as part of addressing its financial position.",
+          "recommended_value": "Remove.",
+          "evidence": "This is trial evidence about discussions of the fleet sale and is not necessary neutral background.",
+          "recommended_change": "Delete this fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[40].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 2 May 2023, a meeting took place between shareholders of AP Automotive Services Pte Ltd, including Liew Nyok Wah and Teo Ying Ping, which was recorded and later transcribed, during which they discussed funding contributions and a possible buy-out in the range of $500,000 to $700,000.",
+          "recommended_value": "Remove.",
+          "evidence": "This is litigation evidence and transcript material, which falls beyond the temporal wall.",
+          "recommended_change": "Delete this fact from the row."
+        },
+        {
+          "path": "Party_Details.Facts[41].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "As of 8 October 2021, net contributions associated with Teo Ying Ping and Liew Nyok Wah, whether directly or via third parties they procured, were approximately $2,124,407 and $1.8 million respectively, excluding their initial capital injections of $50,000 each.",
+          "recommended_value": "As of 8 October 2021, Mr Teo and Mr Liew (whether by themselves or through third parties they procured) contributed net sums of $2,124,407 and $1.8 million respectively, excluding their initial capital injections of $50,000 on the incorporation of the Company.",
+          "evidence": "Paragraph 21(a) states the exact figures and that the initial capital injections were $50,000 on incorporation.",
+          "recommended_change": "Use the source wording and avoid paraphrasing that changes the meaning."
+        },
+        {
+          "path": "Party_Details.Facts[42].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "Filings with the Accounting and Corporate Regulatory Authority for AP Automotive Services Pte Ltd recorded its share capital as $100,000 without subsequent increases up to the time of the dispute.",
+          "recommended_value": "The Company's filings with ACRA recorded its share capital as $100,000.",
+          "evidence": "Paragraph 13(e) refers to the financial statements and ACRA filing showing share capital remained at $100,000.",
+          "recommended_change": "Remove the 'without subsequent increases up to the time of the dispute' wording and keep only the neutral filing fact."
+        },
+        {
+          "path": "Party_Details.Facts[43].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "From incorporation, AP Automotive Services Pte Ltd obtained funding through a mix of personal funds from shareholders, loans taken by shareholders and onward transfers, and loans taken directly in the company’s name from third parties.",
+          "recommended_value": "From incorporation, the Company obtained funding through personal funds from shareholders, loans taken by shareholders and onward transfers, and loans taken directly in the Company's name from third parties.",
+          "evidence": "Paragraphs 5 and 17 describe this funding mix as background.",
+          "recommended_change": "If retained, keep it as neutral background and avoid judgment-stage implications."
+        },
+        {
+          "path": "Party_Details.Facts[44].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "The three shareholders of AP Automotive Services Pte Ltd agreed that the company would pay interest on funds they provided beyond the initial $100,000 paid-up capital, with interest rates in some instances recorded at up to 18% per month on certain loans.",
+          "recommended_value": "The three shareholders agreed that the Company would pay Mr Teo and Mr Liew interest on the funds they provided.",
+          "evidence": "Paragraph 14 states that the three shareholders agreed the Company would pay Mr Teo and Mr Liew interest on the funds they provided; paragraph 37(b) refers to rates up to 18% per annum, not per month.",
+          "recommended_change": "Correct the interest-rate unit and remove unsupported 'beyond the initial $100,000 paid-up capital' wording."
+        },
+        {
+          "path": "Party_Details.Facts[45].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "Throughout the life of AP Automotive Services Pte Ltd up to May 2023, shareholders Ho Siow Poh and Teo Ying Ping had access to the company’s accounting records and were aware that shareholder funding was recorded as loans.",
+          "recommended_value": "Mr Ho and Mr Teo had access to the Company's accounting records and were aware of their contents.",
+          "evidence": "Paragraph 18(b) states that Mr Ho and Mr Teo always had access to the Company's accounting records and were aware of their contents.",
+          "recommended_change": "If retained, remove the 'up to May 2023' framing and keep only the neutral access fact."
+        },
+        {
+          "path": "Party_Details.Facts[46].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In August 2023, after the departure of Liew Shulin from AP Automotive Services Pte Ltd, Ho Siow Poh took over responsibility for the company’s financial documents and accounting records.",
+          "recommended_value": "In August 2023, Mr Ho took over the financial documents and accounting records after Ms Liew's departure.",
+          "evidence": "Paragraph 18(d) states that even after Mr Ho took over the financial documents and accounting records in August 2023 after Ms Liew's departure, he took no steps to amend the records.",
+          "recommended_change": "If retained, remove the judgment-stage implication about what he did with the records."
+        },
+        {
+          "path": "Party_Details.Facts[47].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By mid-2023, updated accounts of AP Automotive Services Pte Ltd prepared for adoption at its Annual General Meeting recorded amounts owed to both Liew Nyok Wah and Teo Ying Ping as loans.",
+          "recommended_value": "The Company's most updated accounts tendered in court reflected the amounts owed to Mr Liew and Mr Teo as loans.",
+          "evidence": "Paragraph 18(f) refers to the most updated accounts tendered in court and intended for adoption at the AGM.",
+          "recommended_change": "Remove the court/adoption framing if the fact is retained; otherwise delete as litigation-stage material."
+        },
+        {
+          "path": "Party_Details.Facts[48].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By around May 2023, disagreements over funding arrangements led to a breakdown in the relationship among the shareholders of AP Automotive Services Pte Ltd.",
+          "recommended_value": "In or around May 2023, disagreements over the funding arrangements of the Company caused the shareholders to fall out.",
+          "evidence": "Paragraph 6 states that in or around May 2023 disagreements over the funding arrangements caused the shareholders to fall out.",
+          "recommended_change": "Use the source wording if retained."
+        },
+        {
+          "path": "Party_Details.Facts[49].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 25 July 2023, AP Automotive Services Pte Ltd commenced legal proceedings against shareholder Liew Nyok Wah in the General Division of the High Court.",
+          "recommended_value": "The Company commenced this action against Mr Liew on 25 July 2023.",
+          "evidence": "Paragraph 6 states that the Company eventually commenced this action against Mr Liew on 25 July 2023.",
+          "recommended_change": "If retained, keep only the neutral commencement fact."
+        },
+        {
+          "path": "Party_Details.Facts[50].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 27 July 2023, the employment of Liew Shulin with AP Automotive Services Pte Ltd was terminated.",
+          "recommended_value": "Remove.",
+          "evidence": "This employment termination is collateral and not needed for the plaintiff row; it also arises after the dispute had crystallised.",
+          "recommended_change": "Delete this fact from the row."
+        }
+      ],
+      "facts_to_remove": [
+        {
+          "path": "Party_Details.Facts[13]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "Before the Mengkim Holdings Pte Ltd loan was signed on 8 January 2021, shareholder Teo Ying Ping was aware that AP Automotive Services Pte Ltd was entering into this loan.",
+          "evidence": "Trial evidence and reasoning; not needed as neutral background.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[24]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "From around November 2020, Liew Shulin regularly prepared a 'loan sheet' shared in the 'AP Accounting Department' WhatsApp group, listing monies received with headers such as 'Date of Loan', 'Expiry Date of Loan' and 'Loan interest/month', and including entries for funds associated with shareholders.",
+          "evidence": "Judgment-stage evidential detail.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[25]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 20 December 2022, AP Automotive Services Pte Ltd paid $15,000 to or for the benefit of Teo Ying Ping.",
+          "evidence": "Repayment fact used in damages analysis.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[26]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 27 December 2022, AP Automotive Services Pte Ltd made payments of $15,000 each to or for the benefit of both Teo Ying Ping and Liew Nyok Wah.",
+          "evidence": "Repayment fact used in damages analysis.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[27]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "From 1 May 2022 onwards, AP Automotive Services Pte Ltd began making repayments in respect of loans associated with Tan Bee Hong and Ban Leong, totalling $400,000 in principal.",
+          "evidence": "Judgment-stage damages analysis.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[28]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "The repayment date of the $500,000 loan from Mengkim Holdings Pte Ltd, originally due in January 2022, was extended to 8 April 2022 and later to 8 July 2022 by agreement between AP Automotive Services Pte Ltd and Mengkim Holdings Pte Ltd.",
+          "evidence": "Later repayment/extension detail from the judgment.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[29]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 28 April 2023, AP Automotive Services Pte Ltd made the final repayment under the $500,000 loan from Mengkim Holdings Pte Ltd.",
+          "evidence": "Later repayment fact used in the judgment.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[31]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By around August or September 2021, a restructuring plan proposed by Marcus Teo for AP Automotive Services Pte Ltd included selling the company’s fleet of cars to improve its finances.",
+          "evidence": "Judgment-stage reasoning about restructuring.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[32]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "As part of the restructuring plan implemented around August or September 2021, AP Automotive Services Pte Ltd sold a substantial portion of its car fleet and raised just over $1 million after paying off purchase-related loans on the cars.",
+          "evidence": "Judgment-stage factual analysis.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[33]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "The sale of the car fleet of AP Automotive Services Pte Ltd was arranged and authorised by Managing Director Ho Siow Poh.",
+          "evidence": "Court finding.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[34]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "From March 2021 to May 2023, AP Automotive Services Pte Ltd paid monthly retainer fees to Jackspeed Automobile (S) Pte Ltd, which included rental for office space and related services.",
+          "evidence": "Damages-related litigation fact.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[36]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "After moving workshop operations to Loyang in early 2021, AP Automotive Services Pte Ltd continued to store accounting records, other records, furniture and a computer at the Tampines premises and used it as an office space.",
+          "evidence": "Detailed trial evidence not needed as neutral background.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[37]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "Until 24 August 2023, the registered office address of AP Automotive Services Pte Ltd remained at the Tampines premises associated with Jackspeed Automobile (S) Pte Ltd.",
+          "evidence": "Later background fact not needed for the row.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[38]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "The three shareholders of AP Automotive Services Pte Ltd agreed that after workshop operations moved to Loyang in early 2021, the company would retain an office unit on the second storey and a room on the first storey at the Tampines premises.",
+          "evidence": "Judgment-stage finding.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[39]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By June 2021, the shareholders of AP Automotive Services Pte Ltd had discussed the possibility of selling the company’s fleet of cars as part of addressing its financial position.",
+          "evidence": "Trial evidence and reasoning.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[40]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 2 May 2023, a meeting took place between shareholders of AP Automotive Services Pte Ltd, including Liew Nyok Wah and Teo Ying Ping, which was recorded and later transcribed, during which they discussed funding contributions and a possible buy-out in the range of $500,000 to $700,000.",
+          "evidence": "Transcript evidence and submissions.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[42]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "Filings with the Accounting and Corporate Regulatory Authority for AP Automotive Services Pte Ltd recorded its share capital as $100,000 without subsequent increases up to the time of the dispute.",
+          "evidence": "Judgment-stage framing and dispute timing.",
+          "recommended_change": "Remove this fact or reduce to a neutral filing fact only."
+        },
+        {
+          "path": "Party_Details.Facts[45]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "Throughout the life of AP Automotive Services Pte Ltd up to May 2023, shareholders Ho Siow Poh and Teo Ying Ping had access to the company’s accounting records and were aware that shareholder funding was recorded as loans.",
+          "evidence": "Judgment reasoning and timing beyond the temporal wall.",
+          "recommended_change": "Remove this fact or reduce to neutral background."
+        },
+        {
+          "path": "Party_Details.Facts[46]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In August 2023, after the departure of Liew Shulin from AP Automotive Services Pte Ltd, Ho Siow Poh took over responsibility for the company’s financial documents and accounting records.",
+          "evidence": "Later procedural background not needed.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[47]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By mid-2023, updated accounts of AP Automotive Services Pte Ltd prepared for adoption at its Annual General Meeting recorded amounts owed to both Liew Nyok Wah and Teo Ying Ping as loans.",
+          "evidence": "Court-tendered accounts and AGM context are litigation-stage material.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[49]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 25 July 2023, AP Automotive Services Pte Ltd commenced legal proceedings against shareholder Liew Nyok Wah in the General Division of the High Court.",
+          "evidence": "Procedural filing fact; if retained, it should be neutral and minimal, but for this row it is not necessary.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[50]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 27 July 2023, the employment of Liew Shulin with AP Automotive Services Pte Ltd was terminated.",
+          "evidence": "Collateral post-dispute fact.",
+          "recommended_change": "Remove this fact."
+        }
+      ]
+    },
+    "applied_changes": {
+      "label_change": {
+        "from": "Dismissed",
+        "to": "Claim Dismissed"
+      },
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[8].Fact_Date",
+          "from": "2021-01-07",
+          "to": "2021-04-07"
+        },
+        {
+          "path": "Party_Details.Facts[10].Text",
+          "from": "On 14 January 2021, AP Automotive Services Pte Ltd paid $160,000 to or for the benefit of Teo Ying Ping, which reduced the net amount of his funds remaining with the company.",
+          "to": "On 14 January 2021, Mr Teo was repaid a sum of $160,000."
+        },
+        {
+          "path": "Party_Details.Facts[11].Text",
+          "from": "By 7 April 2021, AP Automotive Services Pte Ltd had recorded the $100,000 provided via cheque from Teo Ying Ping as part of funding to the company.",
+          "to": "On 7 April 2021, AP Automotive Services Pte Ltd received a contribution of $100,000 from Mr Teo."
+        },
+        {
+          "path": "Party_Details.Facts[13].Text",
+          "from": "Before the Mengkim Holdings Pte Ltd loan was signed on 8 January 2021, shareholder Teo Ying Ping was aware that AP Automotive Services Pte Ltd was entering into this loan.",
+          "to": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[14].Text",
+          "from": "As of 8 January 2021, funding associated with Liew Nyok Wah totalled about $1.3 million and funding associated with Teo Ying Ping totalled about $960,000, excluding their initial capital injections.",
+          "to": "As of 8 January 2021, Mr Liew was responsible for funding a total sum of $1.3 million while Mr Teo was responsible for $960,000, excluding their initial capital injections of $50,000 each."
+        },
+        {
+          "path": "Party_Details.Facts[15].Text",
+          "from": "On 8 October 2021, AP Automotive Services Pte Ltd received approximately $260,000 associated with a hire-purchase loan taken over the car of Teo Ying Ping, where the finance company disbursed $260,000 and the company agreed to service monthly instalments of about $5,196 over 60 months.",
+          "to": "On 8 October 2021, Mr Teo took up a loan of $260,000 by way of a hire-purchase agreement over his car, and the Company agreed to assume monthly instalments of $5,196."
+        },
+        {
+          "path": "Party_Details.Facts[16].Text",
+          "from": "Around 8 October 2021, approximately $60,000 from the $260,000 hire-purchase loan associated with Teo Ying Ping was used for renewal of the car's Certificate of Entitlement, leaving about $200,000 effectively available as funding to AP Automotive Services Pte Ltd.",
+          "to": "Around 8 October 2021, approximately $60,000 from the $260,000 hire-purchase loan was used for renewal of the car's Certificate of Entitlement, and the principal sum of $260,000 was paid to the Company."
+        },
+        {
+          "path": "Party_Details.Facts[17].Text",
+          "from": "From 8 October 2021, AP Automotive Services Pte Ltd began making monthly instalment payments of about $5,196 to the finance company under the hire-purchase loan associated with the car of Teo Ying Ping, covering both principal and interest.",
+          "to": "From 8 October 2021, the Company began making monthly instalment payments of $5,196 to the finance company on behalf of Mr Teo."
+        },
+        {
+          "path": "Party_Details.Facts[18].Fact_Date",
+          "from": "2021-06-01",
+          "to": "2021-04-07"
+        },
+        {
+          "path": "Party_Details.Facts[18].Text",
+          "from": "By mid-2021, AP Automotive Services Pte Ltd had obtained a $300,000 loan from Junk Yard Dog Ventures Pte Ltd, which was recorded in the company’s accounting records as a loan from Junk Yard Dog.",
+          "to": "The Company obtained a $300,000 loan from Junk Yard Dog Ventures Pte Ltd, which was recorded in the Company’s accounting records as a loan from Junk Yard Dog."
+        },
+        {
+          "path": "Party_Details.Facts[21].Fact_Date",
+          "from": "2022-06-01",
+          "to": "2023-01-09"
+        },
+        {
+          "path": "Party_Details.Facts[22].Fact_Date",
+          "from": "2022-05-31",
+          "to": "2022-07-31"
+        },
+        {
+          "path": "Party_Details.Facts[23].Fact_Date",
+          "from": "2022-01-09",
+          "to": "2020-11-01"
+        },
+        {
+          "path": "Party_Details.Facts[24].Text",
+          "from": "As at 31 July 2022, the accounting records and financial statements of AP Automotive Services Pte Ltd recorded amounts provided by shareholders, including Liew Nyok Wah and Teo Ying Ping, under headings such as 'Loan from Director'.",
+          "to": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[25].Text",
+          "from": "By November 2020, internal accounting records of AP Automotive Services Pte Ltd labelled shareholder funding as 'directors’ loans', which were accessible to both Ho Siow Poh and Teo Ying Ping.",
+          "to": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[26].Text",
+          "from": "From around November 2020, Liew Shulin regularly prepared a 'loan sheet' shared in the 'AP Accounting Department' WhatsApp group, listing monies received with headers such as 'Date of Loan', 'Expiry Date of Loan' and 'Loan interest/month', and including entries for funds associated with shareholders.",
+          "to": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[27].Text",
+          "from": "On 20 December 2022, AP Automotive Services Pte Ltd paid $15,000 to or for the benefit of Teo Ying Ping.",
+          "to": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[28].Text",
+          "from": "On 27 December 2022, AP Automotive Services Pte Ltd made payments of $15,000 each to or for the benefit of both Teo Ying Ping and Liew Nyok Wah.",
+          "to": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[29].Text",
+          "from": "From 1 May 2022 onwards, AP Automotive Services Pte Ltd began making repayments in respect of loans associated with Tan Bee Hong and Ban Leong, totalling $400,000 in principal.",
+          "to": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[30].Text",
+          "from": "The repayment date of the $500,000 loan from Mengkim Holdings Pte Ltd, originally due in January 2022, was extended to 8 April 2022 and later to 8 July 2022 by agreement between AP Automotive Services Pte Ltd and Mengkim Holdings Pte Ltd.",
+          "to": "According to the Company, the sale of the Company’s car fleet commenced on 16 November 2020."
+        },
+        {
+          "path": "Party_Details.Facts[31].Text",
+          "from": "On 28 April 2023, AP Automotive Services Pte Ltd made the final repayment under the $500,000 loan from Mengkim Holdings Pte Ltd.",
+          "to": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[32].Text",
+          "from": "From 16 November 2020 onwards, AP Automotive Services Pte Ltd began selling cars from its fleet, and by 2021 more than 20 cars had been sold.",
+          "to": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[33].Text",
+          "from": "By around August or September 2021, a restructuring plan proposed by Marcus Teo for AP Automotive Services Pte Ltd included selling the company’s fleet of cars to improve its finances.",
+          "to": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[34].Text",
+          "from": "As part of the restructuring plan implemented around August or September 2021, AP Automotive Services Pte Ltd sold a substantial portion of its car fleet and raised just over $1 million after paying off purchase-related loans on the cars.",
+          "to": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[35].Text",
+          "from": "The sale of the car fleet of AP Automotive Services Pte Ltd was arranged and authorised by Managing Director Ho Siow Poh.",
+          "to": "In early 2021, the Company moved its workshop operations to the Loyang premises while retaining some space at the Tampines premises."
+        },
+        {
+          "path": "Party_Details.Facts[36].Text",
+          "from": "From March 2021 to May 2023, AP Automotive Services Pte Ltd paid monthly retainer fees to Jackspeed Automobile (S) Pte Ltd, which included rental for office space and related services.",
+          "to": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[37].Text",
+          "from": "In early 2021, AP Automotive Services Pte Ltd moved its workshop operations to premises at Loyang while retaining some office and storage space at the Tampines premises managed by Jackspeed Automobile (S) Pte Ltd.",
+          "to": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[38].Text",
+          "from": "After moving workshop operations to Loyang in early 2021, AP Automotive Services Pte Ltd continued to store accounting records, other records, furniture and a computer at the Tampines premises and used it as an office space.",
+          "to": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[39].Text",
+          "from": "Until 24 August 2023, the registered office address of AP Automotive Services Pte Ltd remained at the Tampines premises associated with Jackspeed Automobile (S) Pte Ltd.",
+          "to": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[40].Text",
+          "from": "The three shareholders of AP Automotive Services Pte Ltd agreed that after workshop operations moved to Loyang in early 2021, the company would retain an office unit on the second storey and a room on the first storey at the Tampines premises.",
+          "to": "Remove."
+        },
+        {
+          "path": "Party_Details.Facts[41].Text",
+          "from": "By June 2021, the shareholders of AP Automotive Services Pte Ltd had discussed the possibility of selling the company’s fleet of cars as part of addressing its financial position.",
+          "to": "As of 8 October 2021, Mr Teo and Mr Liew (whether by themselves or through third parties they procured) contributed net sums of $2,124,407 and $1.8 million respectively, excluding their initial capital injections of $50,000 on the incorporation of the Company."
+        },
+        {
+          "path": "Party_Details.Facts[42].Text",
+          "from": "On 2 May 2023, a meeting took place between shareholders of AP Automotive Services Pte Ltd, including Liew Nyok Wah and Teo Ying Ping, which was recorded and later transcribed, during which they discussed funding contributions and a possible buy-out in the range of $500,000 to $700,000.",
+          "to": "The Company's filings with ACRA recorded its share capital as $100,000."
+        },
+        {
+          "path": "Party_Details.Facts[43].Text",
+          "from": "As of 8 October 2021, net contributions associated with Teo Ying Ping and Liew Nyok Wah, whether directly or via third parties they procured, were approximately $2,124,407 and $1.8 million respectively, excluding their initial capital injections of $50,000 each.",
+          "to": "From incorporation, the Company obtained funding through personal funds from shareholders, loans taken by shareholders and onward transfers, and loans taken directly in the Company's name from third parties."
+        },
+        {
+          "path": "Party_Details.Facts[44].Text",
+          "from": "Filings with the Accounting and Corporate Regulatory Authority for AP Automotive Services Pte Ltd recorded its share capital as $100,000 without subsequent increases up to the time of the dispute.",
+          "to": "The three shareholders agreed that the Company would pay Mr Teo and Mr Liew interest on the funds they provided."
+        },
+        {
+          "path": "Party_Details.Facts[45].Text",
+          "from": "From incorporation, AP Automotive Services Pte Ltd obtained funding through a mix of personal funds from shareholders, loans taken by shareholders and onward transfers, and loans taken directly in the company’s name from third parties.",
+          "to": "Mr Ho and Mr Teo had access to the Company's accounting records and were aware of their contents."
+        },
+        {
+          "path": "Party_Details.Facts[46].Text",
+          "from": "The three shareholders of AP Automotive Services Pte Ltd agreed that the company would pay interest on funds they provided beyond the initial $100,000 paid-up capital, with interest rates in some instances recorded at up to 18% per month on certain loans.",
+          "to": "In August 2023, Mr Ho took over the financial documents and accounting records after Ms Liew's departure."
+        },
+        {
+          "path": "Party_Details.Facts[47].Text",
+          "from": "Throughout the life of AP Automotive Services Pte Ltd up to May 2023, shareholders Ho Siow Poh and Teo Ying Ping had access to the company’s accounting records and were aware that shareholder funding was recorded as loans.",
+          "to": "The Company's most updated accounts tendered in court reflected the amounts owed to Mr Liew and Mr Teo as loans."
+        },
+        {
+          "path": "Party_Details.Facts[48].Text",
+          "from": "In August 2023, after the departure of Liew Shulin from AP Automotive Services Pte Ltd, Ho Siow Poh took over responsibility for the company’s financial documents and accounting records.",
+          "to": "In or around May 2023, disagreements over the funding arrangements of the Company caused the shareholders to fall out."
+        },
+        {
+          "path": "Party_Details.Facts[49].Text",
+          "from": "By mid-2023, updated accounts of AP Automotive Services Pte Ltd prepared for adoption at its Annual General Meeting recorded amounts owed to both Liew Nyok Wah and Teo Ying Ping as loans.",
+          "to": "The Company commenced this action against Mr Liew on 25 July 2023."
+        },
+        {
+          "path": "Party_Details.Facts[50].Text",
+          "from": "By around May 2023, disagreements over funding arrangements led to a breakdown in the relationship among the shareholders of AP Automotive Services Pte Ltd.",
+          "to": "Remove."
+        }
+      ],
+      "facts_removed": [
+        {
+          "path": "Party_Details.Facts[50]"
+        },
+        {
+          "path": "Party_Details.Facts[49]"
+        },
+        {
+          "path": "Party_Details.Facts[47]"
+        },
+        {
+          "path": "Party_Details.Facts[46]"
+        },
+        {
+          "path": "Party_Details.Facts[45]"
+        },
+        {
+          "path": "Party_Details.Facts[42]"
+        },
+        {
+          "path": "Party_Details.Facts[40]"
+        },
+        {
+          "path": "Party_Details.Facts[39]"
+        },
+        {
+          "path": "Party_Details.Facts[38]"
+        },
+        {
+          "path": "Party_Details.Facts[37]"
+        },
+        {
+          "path": "Party_Details.Facts[36]"
+        },
+        {
+          "path": "Party_Details.Facts[34]"
+        },
+        {
+          "path": "Party_Details.Facts[33]"
+        },
+        {
+          "path": "Party_Details.Facts[32]"
+        },
+        {
+          "path": "Party_Details.Facts[31]"
+        },
+        {
+          "path": "Party_Details.Facts[29]"
+        },
+        {
+          "path": "Party_Details.Facts[28]"
+        },
+        {
+          "path": "Party_Details.Facts[27]"
+        },
+        {
+          "path": "Party_Details.Facts[26]"
+        },
+        {
+          "path": "Party_Details.Facts[25]"
+        },
+        {
+          "path": "Party_Details.Facts[24]"
+        },
+        {
+          "path": "Party_Details.Facts[13]"
+        }
+      ]
+    }
+  },
+  {
+    "case_name": "AP Automotive Services Pte Ltd v Liew Nyok Wah",
+    "party": "Liew Nyok Wah",
+    "status": "CHANGED",
+    "audit_suggestion": {
+      "case_name": "AP Automotive Services Pte Ltd v Liew Nyok Wah",
+      "party": "Liew Nyok Wah",
+      "status": "CHANGES",
+      "label_change": {
+        "current": "Allowed",
+        "recommended": "Liable",
+        "evidence": "The row is for the defendant, Liew Nyok Wah. The judgment entered judgment in his favour on his counterclaim for $719,000 and awarded him costs, but the top-level label must use the defendant outcome category. For a defendant row, the substantive outcome label should be 'Liable', 'Not Liable', 'Partially Liable', or 'Unknown'.",
+        "recommended_change": "Change the label from the invalid value 'Allowed' to the defendant outcome category 'Liable'."
+      },
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[0].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "On 5 August 2020, Liew Nyok Wah became a shareholder of AP Automotive Services Pte Ltd with a 33% shareholding.",
+          "recommended_value": "On 5 August 2020, Liew Nyok Wah became a shareholder of AP Automotive Services Pte Ltd with a 33% shareholding.",
+          "evidence": "The source states that the company was incorporated on 5 August 2020 and that Mr Liew held 33% of the shares.",
+          "recommended_change": "No substantive change needed; this fact is supported by the source."
+        },
+        {
+          "path": "Party_Details.Facts[1].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2020-01-01",
+          "recommended_value": "2020-08-05",
+          "evidence": "The source says the three were 'long-term friends' but does not give a date for that relationship.",
+          "recommended_change": "Remove the invented date and, if retained, leave the fact undated or use only the general relationship description."
+        },
+        {
+          "path": "Party_Details.Facts[2].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2020-09-01",
+          "recommended_value": "2020-08-05",
+          "evidence": "The source says Ms Liew joined the Company 'shortly after its incorporation' and was involved in finance and business operations; no exact month is given.",
+          "recommended_change": "Replace the invented date with a non-specific timing such as 'shortly after incorporation'."
+        },
+        {
+          "path": "Party_Details.Facts[3].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "At the incorporation of AP Automotive Services Pte Ltd, Liew Nyok Wah contributed $50,000 as part of the initial paid-up capital.",
+          "recommended_value": "At incorporation, Mr Liew and Mr Teo each provided an initial capital sum of $50,000, making up the company's initial paid-up capital of $100,000.",
+          "evidence": "The source states that the company was incorporated with paid-up capital of $100,000 and that Mr Teo and Mr Liew only agreed to provide an initial capital sum of $50,000 each.",
+          "recommended_change": "Correct the fact to reflect that the initial capital was shared equally between Mr Liew and Mr Teo, not solely contributed by Mr Liew."
+        },
+        {
+          "path": "Party_Details.Facts[4].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "From the inception of AP Automotive Services Pte Ltd, funds associated with Liew Nyok Wah were provided to the company both directly and via third-party loans that he procured.",
+          "evidence": "This is a broad background statement, but it is framed in a way that anticipates later disputed characterisation and is not necessary in this form before the temporal wall.",
+          "recommended_change": "Trim to neutral background only, e.g. 'Mr Liew and Mr Teo contributed funds towards the Company over time.'"
+        },
+        {
+          "path": "Party_Details.Facts[5].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "On 8 January 2021, AP Automotive Services Pte Ltd entered into a $500,000 loan with Mengkim Holdings Pte Ltd, which was associated with funding arranged by or through Liew Nyok Wah.",
+          "recommended_value": "The Company complained that Mr Liew procured the Company to take a $500,000 loan from Mengkim Holdings Pte Ltd; the judgment states that Mr Ho, on behalf of the Company, entered into the loan agreement with Mengkim as it was in the Company's best interests.",
+          "evidence": "The source says the Company complained Mr Liew procured the loan, but Mr Ho testified that he entered into the loan agreement on behalf of the Company because it was in the Company's best interests.",
+          "recommended_change": "Remove the unsupported implication that the loan was 'associated with funding arranged by or through' Mr Liew as a factual finding."
+        },
+        {
+          "path": "Party_Details.Facts[6].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "As of 8 January 2021, funding associated with Liew Nyok Wah for AP Automotive Services Pte Ltd totalled about $1.3 million, excluding his initial capital injection.",
+          "recommended_value": "As of 8 January 2021, Mr Liew was responsible for funding a total sum of $1.3 million, while Mr Teo was responsible for $960,000.",
+          "evidence": "The source states that as of 8 January 2021, Mr Liew was responsible for funding $1.3m and Mr Teo for $960,000.",
+          "recommended_change": "Correct the comparative funding figures and avoid implying a judicial finding that the amount was 'associated with' Mr Liew."
+        },
+        {
+          "path": "Party_Details.Facts[7].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2021-08-01",
+          "recommended_value": "2021-10-08",
+          "evidence": "The source refers to the figures as of 8 October 2021, not 1 August 2021.",
+          "recommended_change": "Correct the date to 8 October 2021."
+        },
+        {
+          "path": "Party_Details.Facts[7].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "By 8 October 2021, net contributions associated with Liew Nyok Wah, whether directly or via third parties he procured, amounted to approximately $1.8 million, excluding his initial capital injection of $50,000.",
+          "recommended_value": "As of 8 October 2021, Mr Liew and Mr Teo (whether by themselves or through third parties they procured) contributed net sums of $1.8 million and $2,124,407 respectively, excluding their initial capital injections of $50,000 each.",
+          "evidence": "The source states that as of 8 October 2021, Mr Teo and Mr Liew contributed net sums of $2,124,407 and $1.8m respectively, excluding their initial capital injections of $50,000 on incorporation.",
+          "recommended_change": "Correct the comparative figures and make clear that the $1.8m figure is Mr Liew's net contribution, not a general amount 'associated with' him."
+        },
+        {
+          "path": "Party_Details.Facts[8].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "As at 31 July 2022, internal records of AP Automotive Services Pte Ltd showed that the company owed $1.03 million to Liew Nyok Wah, as confirmed in a creditors’ confirmation signed by Managing Director Ho Siow Poh.",
+          "recommended_value": "Mr Ho signed a Creditors Confirmation Request dated 9 January 2023, confirming that the Company owed Mr Liew $1.03 million as at 31 July 2022.",
+          "evidence": "The source states that Mr Ho signed a Creditors Confirmation Request dated 9 January 2023 confirming the Company owed Mr Liew $1.03m as at 31 July 2022.",
+          "recommended_change": "Correct the date and describe the document accurately."
+        },
+        {
+          "path": "Party_Details.Facts[9].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "The accounting records and financial statements of AP Automotive Services Pte Ltd up to 31 July 2022 recorded funds associated with Liew Nyok Wah under headings such as 'Loan from Director'.",
+          "evidence": "This is supported by the judgment, but it is litigation evidence and court reasoning about disputed characterisation, which should be excluded under the temporal wall for predictive use.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[10].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2022-12-27",
+          "recommended_value": "2022-12-20",
+          "evidence": "The source states that Mr Teo was repaid $15,000 on 20 December 2022.",
+          "recommended_change": "Correct the date to 20 December 2022."
+        },
+        {
+          "path": "Party_Details.Facts[10].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "On 27 December 2022, AP Automotive Services Pte Ltd paid $15,000 to or for the benefit of Liew Nyok Wah.",
+          "recommended_value": "Mr Teo was repaid $15,000 on 20 December 2022.",
+          "evidence": "The source says the repayment of $15,000 was to Mr Teo, not Mr Liew.",
+          "recommended_change": "Correct the recipient and date."
+        },
+        {
+          "path": "Party_Details.Facts[11].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2022-05-01",
+          "recommended_value": "2022-05-01",
+          "evidence": "The source says that in 2022, when the Company was paying out its third-party loans and the shareholders' loans, it did not rationalise the repayments against the Matching Dollar Agreement; it also says that from 1 May 2022 onwards the Company made repayments in respect of the Ban Leong and Tan Bee Hong loans.",
+          "recommended_change": "No date correction needed, but the wording should be narrowed to the source's specific repayment context."
+        },
+        {
+          "path": "Party_Details.Facts[11].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "From 1 May 2022 onwards, AP Automotive Services Pte Ltd made repayments in respect of loans associated with third parties Tan Bee Hong and Ban Leong, which were linked to funding arranged by or through Liew Nyok Wah.",
+          "evidence": "This is tied to disputed repayment conduct and the court's analysis of alleged breaches, which is judgment-stage material.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[12].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2020-11-01",
+          "recommended_value": "2020-11-01",
+          "evidence": "The source says Mr Teo deposed that he and Mr Ho noticed in November 2020 that the contributions were labelled as 'directors' loans'.",
+          "recommended_change": "No exact date is given; use only 'November 2020'."
+        },
+        {
+          "path": "Party_Details.Facts[12].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "From around November 2020, internal 'loan sheets' prepared by Liew Shulin for AP Automotive Services Pte Ltd listed loans associated with Liew Nyok Wah, including dates, expiry dates and monthly interest, and were shared with the accounting team.",
+          "evidence": "This is trial evidence used by the court to decide the disputed characterisation of the funding, and it is not neutral background for predictive use.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[13].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2023-07-01",
+          "recommended_value": "2023-07-01",
+          "evidence": "The source refers to updated accounts tendered in court and intended for the AGM, which is litigation-stage material.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[13].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By mid-2023, updated accounts of AP Automotive Services Pte Ltd prepared for adoption at its Annual General Meeting recorded amounts owed to Liew Nyok Wah as loans.",
+          "evidence": "This is court-tendered evidence and part of the judgment's reasoning.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[14].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2023-05-02",
+          "recommended_value": "2023-05-02",
+          "evidence": "The source refers to a recorded meeting on 2 May 2023, which is part of the dispute evidence.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[14].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 2 May 2023, during a recorded meeting with other shareholders, Liew Nyok Wah discussed funding contributions to AP Automotive Services Pte Ltd and a possible buy-out figure in the range of $500,000 to $700,000.",
+          "evidence": "This is recorded meeting evidence used in the judgment and is not neutral background.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[15].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2023-05-01",
+          "recommended_value": "2023-05-01",
+          "evidence": "The source says disagreements arose in or around May 2023.",
+          "recommended_change": "Keep only the neutral timing if needed; otherwise remove as unnecessary."
+        },
+        {
+          "path": "Party_Details.Facts[15].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By around May 2023, the working relationship between Liew Nyok Wah and the other shareholders of AP Automotive Services Pte Ltd had deteriorated due to disagreements over funding arrangements.",
+          "evidence": "This is neutral background and supported by the source, but it is not necessary if the row is being pared back to pre-dispute facts only.",
+          "recommended_change": "Optional removal to keep only essential background."
+        },
+        {
+          "path": "Party_Details.Facts[16].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2023-05-01",
+          "recommended_value": "2023-05-01",
+          "evidence": "The source says Mr Liew was no longer involved in management after the falling out in or around May 2023.",
+          "recommended_change": "Keep only if needed as neutral background; otherwise remove."
+        },
+        {
+          "path": "Party_Details.Facts[16].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "After the breakdown in relations around May 2023, Liew Nyok Wah was no longer involved in the management of AP Automotive Services Pte Ltd.",
+          "evidence": "This is post-dispute background and not necessary for the substantive outcome.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[17].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2023-07-25",
+          "recommended_value": "2023-07-25",
+          "evidence": "The source states the action was commenced on 25 July 2023.",
+          "recommended_change": "Remove this fact because litigation commencement is leakage under the temporal wall."
+        },
+        {
+          "path": "Party_Details.Facts[17].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 25 July 2023, AP Automotive Services Pte Ltd commenced legal proceedings against shareholder Liew Nyok Wah in the General Division of the High Court.",
+          "evidence": "Litigation filing is expressly listed as leakage.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[18].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2023-01-01",
+          "recommended_value": "2023-01-01",
+          "evidence": "The source states that Mr Liew's pleaded sum was $719,000 and the court awarded judgment on his counterclaim.",
+          "recommended_change": "Remove this fact because it is litigation-stage outcome material."
+        },
+        {
+          "path": "Party_Details.Facts[18].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By the time of the dispute, the total amount claimed by Liew Nyok Wah as outstanding loans owed by AP Automotive Services Pte Ltd was $719,000.",
+          "evidence": "The $719,000 figure is the pleaded counterclaim amount and the judgment outcome, which should not be used as a background fact in this row.",
+          "recommended_change": "Remove this fact."
+        }
+      ],
+      "facts_to_remove": [
+        {
+          "path": "Party_Details.Facts[9]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "The accounting records and financial statements of AP Automotive Services Pte Ltd up to 31 July 2022 recorded funds associated with Liew Nyok Wah under headings such as 'Loan from Director'.",
+          "evidence": "This is litigation evidence and court reasoning about disputed characterisation.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[11]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "From 1 May 2022 onwards, AP Automotive Services Pte Ltd made repayments in respect of loans associated with third parties Tan Bee Hong and Ban Leong, which were linked to funding arranged by or through Liew Nyok Wah.",
+          "evidence": "This is part of the judgment's analysis of alleged breaches and repayments.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[12]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "From around November 2020, internal 'loan sheets' prepared by Liew Shulin for AP Automotive Services Pte Ltd listed loans associated with Liew Nyok Wah, including dates, expiry dates and monthly interest, and were shared with the accounting team.",
+          "evidence": "This is trial evidence used to decide the dispute.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[13]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By mid-2023, updated accounts of AP Automotive Services Pte Ltd prepared for adoption at its Annual General Meeting recorded amounts owed to Liew Nyok Wah as loans.",
+          "evidence": "This is court-tendered evidence and judgment-stage material.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[14]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 2 May 2023, during a recorded meeting with other shareholders, Liew Nyok Wah discussed funding contributions to AP Automotive Services Pte Ltd and a possible buy-out figure in the range of $500,000 to $700,000.",
+          "evidence": "Recorded meeting evidence is litigation-stage material.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[16]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "After the breakdown in relations around May 2023, Liew Nyok Wah was no longer involved in the management of AP Automotive Services Pte Ltd.",
+          "evidence": "This is post-dispute background and unnecessary for the row.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[17]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 25 July 2023, AP Automotive Services Pte Ltd commenced legal proceedings against shareholder Liew Nyok Wah in the General Division of the High Court.",
+          "evidence": "Litigation filing is leakage.",
+          "recommended_change": "Remove this fact."
+        },
+        {
+          "path": "Party_Details.Facts[18]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By the time of the dispute, the total amount claimed by Liew Nyok Wah as outstanding loans owed by AP Automotive Services Pte Ltd was $719,000.",
+          "evidence": "This is the counterclaim amount and judgment outcome, which is not pre-dispute background.",
+          "recommended_change": "Remove this fact."
+        }
+      ]
+    },
+    "applied_changes": {
+      "label_change": {
+        "from": "Allowed",
+        "to": "Liable"
+      },
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[1].Fact_Date",
+          "from": "2020-01-01",
+          "to": "2020-08-05"
+        },
+        {
+          "path": "Party_Details.Facts[2].Fact_Date",
+          "from": "2020-09-01",
+          "to": "2020-08-05"
+        },
+        {
+          "path": "Party_Details.Facts[3].Text",
+          "from": "At the incorporation of AP Automotive Services Pte Ltd, Liew Nyok Wah contributed $50,000 as part of the initial paid-up capital.",
+          "to": "At incorporation, Mr Liew and Mr Teo each provided an initial capital sum of $50,000, making up the company's initial paid-up capital of $100,000."
+        },
+        {
+          "path": "Party_Details.Facts[4].Text",
+          "from": "From the inception of AP Automotive Services Pte Ltd, funds associated with Liew Nyok Wah were provided to the company both directly and via third-party loans that he procured.",
+          "to": null
+        },
+        {
+          "path": "Party_Details.Facts[5].Text",
+          "from": "On 8 January 2021, AP Automotive Services Pte Ltd entered into a $500,000 loan with Mengkim Holdings Pte Ltd, which was associated with funding arranged by or through Liew Nyok Wah.",
+          "to": "The Company complained that Mr Liew procured the Company to take a $500,000 loan from Mengkim Holdings Pte Ltd; the judgment states that Mr Ho, on behalf of the Company, entered into the loan agreement with Mengkim as it was in the Company's best interests."
+        },
+        {
+          "path": "Party_Details.Facts[6].Text",
+          "from": "As of 8 January 2021, funding associated with Liew Nyok Wah for AP Automotive Services Pte Ltd totalled about $1.3 million, excluding his initial capital injection.",
+          "to": "As of 8 January 2021, Mr Liew was responsible for funding a total sum of $1.3 million, while Mr Teo was responsible for $960,000."
+        },
+        {
+          "path": "Party_Details.Facts[7].Fact_Date",
+          "from": "2021-08-01",
+          "to": "2021-10-08"
+        },
+        {
+          "path": "Party_Details.Facts[7].Text",
+          "from": "By 8 October 2021, net contributions associated with Liew Nyok Wah, whether directly or via third parties he procured, amounted to approximately $1.8 million, excluding his initial capital injection of $50,000.",
+          "to": "As of 8 October 2021, Mr Liew and Mr Teo (whether by themselves or through third parties they procured) contributed net sums of $1.8 million and $2,124,407 respectively, excluding their initial capital injections of $50,000 each."
+        },
+        {
+          "path": "Party_Details.Facts[8].Text",
+          "from": "As at 31 July 2022, internal records of AP Automotive Services Pte Ltd showed that the company owed $1.03 million to Liew Nyok Wah, as confirmed in a creditors’ confirmation signed by Managing Director Ho Siow Poh.",
+          "to": "Mr Ho signed a Creditors Confirmation Request dated 9 January 2023, confirming that the Company owed Mr Liew $1.03 million as at 31 July 2022."
+        },
+        {
+          "path": "Party_Details.Facts[9].Text",
+          "from": "The accounting records and financial statements of AP Automotive Services Pte Ltd up to 31 July 2022 recorded funds associated with Liew Nyok Wah under headings such as 'Loan from Director'.",
+          "to": null
+        },
+        {
+          "path": "Party_Details.Facts[10].Fact_Date",
+          "from": "2022-12-27",
+          "to": "2022-12-20"
+        },
+        {
+          "path": "Party_Details.Facts[10].Text",
+          "from": "On 27 December 2022, AP Automotive Services Pte Ltd paid $15,000 to or for the benefit of Liew Nyok Wah.",
+          "to": "Mr Teo was repaid $15,000 on 20 December 2022."
+        },
+        {
+          "path": "Party_Details.Facts[11].Text",
+          "from": "From 1 May 2022 onwards, AP Automotive Services Pte Ltd made repayments in respect of loans associated with third parties Tan Bee Hong and Ban Leong, which were linked to funding arranged by or through Liew Nyok Wah.",
+          "to": null
+        },
+        {
+          "path": "Party_Details.Facts[12].Text",
+          "from": "From around November 2020, internal 'loan sheets' prepared by Liew Shulin for AP Automotive Services Pte Ltd listed loans associated with Liew Nyok Wah, including dates, expiry dates and monthly interest, and were shared with the accounting team.",
+          "to": null
+        },
+        {
+          "path": "Party_Details.Facts[13].Text",
+          "from": "By mid-2023, updated accounts of AP Automotive Services Pte Ltd prepared for adoption at its Annual General Meeting recorded amounts owed to Liew Nyok Wah as loans.",
+          "to": null
+        },
+        {
+          "path": "Party_Details.Facts[14].Text",
+          "from": "On 2 May 2023, during a recorded meeting with other shareholders, Liew Nyok Wah discussed funding contributions to AP Automotive Services Pte Ltd and a possible buy-out figure in the range of $500,000 to $700,000.",
+          "to": null
+        },
+        {
+          "path": "Party_Details.Facts[15].Text",
+          "from": "By around May 2023, the working relationship between Liew Nyok Wah and the other shareholders of AP Automotive Services Pte Ltd had deteriorated due to disagreements over funding arrangements.",
+          "to": null
+        },
+        {
+          "path": "Party_Details.Facts[16].Text",
+          "from": "After the breakdown in relations around May 2023, Liew Nyok Wah was no longer involved in the management of AP Automotive Services Pte Ltd.",
+          "to": null
+        },
+        {
+          "path": "Party_Details.Facts[17].Text",
+          "from": "On 25 July 2023, AP Automotive Services Pte Ltd commenced legal proceedings against shareholder Liew Nyok Wah in the General Division of the High Court.",
+          "to": null
+        },
+        {
+          "path": "Party_Details.Facts[18].Text",
+          "from": "By the time of the dispute, the total amount claimed by Liew Nyok Wah as outstanding loans owed by AP Automotive Services Pte Ltd was $719,000.",
+          "to": null
+        }
+      ],
+      "facts_removed": [
+        {
+          "path": "Party_Details.Facts[18]"
+        },
+        {
+          "path": "Party_Details.Facts[17]"
+        },
+        {
+          "path": "Party_Details.Facts[16]"
+        },
+        {
+          "path": "Party_Details.Facts[14]"
+        },
+        {
+          "path": "Party_Details.Facts[13]"
+        },
+        {
+          "path": "Party_Details.Facts[12]"
+        },
+        {
+          "path": "Party_Details.Facts[11]"
+        },
+        {
+          "path": "Party_Details.Facts[9]"
+        }
+      ]
+    }
+  }
+]

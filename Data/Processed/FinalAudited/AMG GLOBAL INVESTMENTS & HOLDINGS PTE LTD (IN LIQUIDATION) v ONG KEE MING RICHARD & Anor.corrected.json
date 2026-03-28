@@ -1,0 +1,579 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 881 of 2020",
+      "Coram": "Philip Jeyaretnam JC",
+      "Judge": "Philip Jeyaretnam",
+      "Date": "2021-09-28",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "AMG Global Investments & Holdings Pte Ltd (in Liquidation)",
+      "Law_Firm": "Legal Solutions LLC",
+      "Counsel": [
+        "Yeo Teng Yung Christopher",
+        "Lavan Vickneson"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2006-09-01",
+          "Text": "AMG Global Investments & Holdings Pte Ltd was incorporated in Singapore with stated objects of trading in metals and providing financial services."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2006-09-01",
+          "Text": "In September and October 2006, share allotments were made in AMG Global Investments & Holdings Pte Ltd, resulting in 100,000 shares registered to Mr Ong Kee Ming Richard, 1,080,000 shares registered to Mr Koh Ting Giap, and 100,000 shares registered to a third person."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2006-09-01",
+          "Text": "Of the 1,080,000 shares registered to Mr Koh Ting Giap, 1,079,996 shares were allotted to him as a nominee holding on trust for Weeds Natural Remedies Pte Ltd in consideration of Weeds providing certain formulae for natural health supplements and an eight-year licence to exclusive use of certain registered trade marks."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2006-09-13",
+          "Text": "From 13 September 2006, AMG Global Investments & Holdings Pte Ltd had Mr Ong Kee Ming Richard and Mr Koh Ting Giap as directors."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2007-10-18",
+          "Text": "On 18 October 2007, Mr Manu Poovannunilkunnathil Kuttappan became a director of AMG Global Investments & Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2007-10-01",
+          "Text": "From October 2007 onwards, AMG Global Investments & Holdings Pte Ltd had three directors: Mr Manu Poovannunilkunnathil Kuttappan, Mr Ong Kee Ming Richard, and Mr Koh Ting Giap."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2007-10-01",
+          "Text": "From around October 2007 for many years, AMG Global Investments & Holdings Pte Ltd conducted very little business activity while incurring expenses including rental of premises."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-06-13",
+          "Text": "On 13 June 2009, an email from Mr Koh Ting Giap to Mr Manu Poovannunilkunnathil Kuttappan recorded that Mr Koh attributed a total of approximately S$905,000 to cash, loans, office expenses, and office renovation related to AMG Global Investments & Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-07-28",
+          "Text": "On 28 July 2009, an email from Mr Koh Ting Giap to Mr Ong Kee Ming Richard stated that Mr Koh considered a total of S$614,000 as cash, loan, and office rental expenses connected with AMG Global Investments & Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2014-01-01",
+          "Text": "On 10 January 2014, Mr Koh Ting Giap ceased to be a director of AMG Global Investments & Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "By early 2014, Mr Koh Ting Giap left AMG Global Investments & Holdings Pte Ltd to focus on his own transactions."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-06-21",
+          "Text": "On 21 June 2017, AMG Global Investments & Holdings Pte Ltd and Food & Beverage Cap Co Ltd entered into a discounting or monetizing agreement and memorandum of understanding under which AMG was to receive an irrevocable confirmed documentary letter of credit in the sum of US$2,860,000 issued by Kasikornbank Public Company Limited of Bangkok, Thailand."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-06-21",
+          "Text": "Under the 21 June 2017 memorandum of understanding between AMG Global Investments & Holdings Pte Ltd and Food & Beverage Cap Co Ltd, AMG was to pay 75% of the letter of credit value, amounting to US$2,145,000, back to Food & Beverage Cap Co Ltd within three business days."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-06-21",
+          "Text": "Under the 21 June 2017 memorandum of understanding, AMG Global Investments & Holdings Pte Ltd was to pay 5% of the letter of credit value, amounting to US$143,000, to White Lotus Cosmetics Limited as a service fee."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-06-21",
+          "Text": "Under the 21 June 2017 memorandum of understanding, AMG Global Investments & Holdings Pte Ltd was to retain 20% of the letter of credit value, amounting to US$572,000, described as non-recourse payment for AMG."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-06-21",
+          "Text": "Under the arrangement documented on 21 June 2017, AMG Global Investments & Holdings Pte Ltd was described as the seller of 1,000 metric tons of aluminium sheets to Food & Beverage Cap Co Ltd, with payment to be made via the documentary letter of credit issued by Kasikornbank Public Company Limited."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-23",
+          "Text": "On 23 August 2017, a deposit of US$7.22 was made into AMG Global Investments & Holdings Pte Ltd's account with Standard Chartered Bank (Singapore) Limited, which previously had a zero balance."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2017-08-25",
+          "Text": "From 23 August 2017 to 21 September 2017, Mr Manu Poovannunilkunnathil Kuttappan and Mr Ong Kee Ming Richard were joint signatories to AMG Global Investments & Holdings Pte Ltd's account with Standard Chartered Bank (Singapore) Limited."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-25",
+          "Text": "On 25 August 2017, cash of US$11,216.75 was withdrawn from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-25",
+          "Text": "On 25 August 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$22,556.39 from its Standard Chartered Bank account to ORO Trading Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-26",
+          "Text": "On 26 August 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$9,398.50 from its Standard Chartered Bank account to Mr Lim Chin Keng."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-26",
+          "Text": "On 26 August 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$22,142.86 from its Standard Chartered Bank account to Ms Chen Mei Qi."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-26",
+          "Text": "On 26 August 2017, cash of US$20,000 was withdrawn from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-28",
+          "Text": "On 28 August 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$149,398.22 from its Standard Chartered Bank account to Mr Abdul Razeed."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-28",
+          "Text": "On 28 August 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$74,699.11 from its Standard Chartered Bank account to Mr Ong Kee Ming Richard."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-28",
+          "Text": "On 28 August 2017, cash of US$112,666.38 was withdrawn from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-28",
+          "Text": "On 28 August 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$5,000 from its Standard Chartered Bank account to an individual identified as Mr Adanuty."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-29",
+          "Text": "On 29 August 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$75,000 from its Standard Chartered Bank account to Mr Manu Poovannunilkunnathil Kuttappan."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-29",
+          "Text": "On 29 August 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$100,000 from its Standard Chartered Bank account to Three Quality Services Limited, described on the transfer application form as consultancy fees."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-05",
+          "Text": "By around 29 August 2017, the balance in AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account had fallen below US$2,145,000, the amount stipulated in the memorandum of understanding to be paid to Food & Beverage Cap Co Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-05",
+          "Text": "On 5 September 2017, AMG Global Investments & Holdings Pte Ltd made payments totalling US$450,000 from its Standard Chartered Bank account to Mr Kevin Anthony Griffin Jr, with transfer forms referring to supply of aluminium."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-05",
+          "Text": "On 5 September 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$143,000 from its Standard Chartered Bank account to White Lotus Cosmetics Limited, matching the 5% service fee amount specified in the memorandum of understanding with Food & Beverage Cap Co Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-21",
+          "Text": "On 6 September 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$150,000 from its Standard Chartered Bank account to Quality Printers Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2017-09-21",
+          "Text": "A directors' resolution dated 21 September 2017 recorded that 640,000 shares in AMG Global Investments & Holdings Pte Ltd were registered in the name of Mr Ong Kee Ming Richard at that time."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-25",
+          "Text": "On 21 September 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$37,458.77 from its Standard Chartered Bank account to Mr Koh Ting Giap."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2017-09-25",
+          "Text": "On 25 September 2017, Mr Ong Kee Ming Richard ceased to be a director of AMG Global Investments & Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2017-09-26",
+          "Text": "A directors' resolution dated 25 September 2017 recorded a transfer of 640,000 shares in AMG Global Investments & Holdings Pte Ltd from Mr Koh Ting Giap to Mr Manu Poovannunilkunnathil Kuttappan."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2017-09-26",
+          "Text": "From 25 September 2017 until AMG Global Investments & Holdings Pte Ltd was wound up, Mr Koh Ting Giap served again as a director of the company."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2017-09-26",
+          "Text": "From about 26 September 2017, Mr Manu Poovannunilkunnathil Kuttappan became the sole signatory to AMG Global Investments & Holdings Pte Ltd's account with Standard Chartered Bank (Singapore) Limited."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2017-09-26",
+          "Text": "On 26 September 2017, a directors' resolution signed by Mr Manu Poovannunilkunnathil Kuttappan and Mr Koh Ting Giap authorised Mr Manu to be the sole signatory for AMG Global Investments & Holdings Pte Ltd's banking facilities with Standard Chartered Bank (Singapore) Limited."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-03",
+          "Text": "On 29 September 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$37,247.43 from its Standard Chartered Bank account to Mr Koh Ting Giap."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-01",
+          "Text": "By 29 September 2017, AMG Global Investments & Holdings Pte Ltd had made twelve cash withdrawals or cash cheques from its Standard Chartered Bank account totalling US$148,064.97 during the period when Mr Koh Ting Giap was a director after rejoining."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-01",
+          "Text": "On 2 October 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$10,000 from its Standard Chartered Bank account to Uniroyal Communications Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-01",
+          "Text": "On 2 October 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$11,000 from its Standard Chartered Bank account to Ms Chua Pair Shen."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-08-03",
+          "Text": "An acknowledgement dated 3 August 2017 signed by Mr Manu Poovannunilkunnathil Kuttappan stated that he received S$15,000 from Ms Chua Pair Shen as a loan to AMG Global Investments & Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-10-03",
+          "Text": "On 3 October 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$11,500 from its Standard Chartered Bank account to Mr Shuan Jarmen."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-10-11",
+          "Text": "On 11 October 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$3,700 from its Standard Chartered Bank account to Ms Christina Marie Nyanmani."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-10-11",
+          "Text": "On 11 October 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$1,370 from its Standard Chartered Bank account to Mr Ng Wai Loon."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-10-11",
+          "Text": "On 11 October 2017, AMG Global Investments & Holdings Pte Ltd made a payment of US$1,850 from its Standard Chartered Bank account to Mr Abdul Razeed."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-10-15",
+          "Text": "Around 15 October 2017, according to later medical records, Mr Ong Kee Ming Richard was warded at the Institute of Mental Health for approximately three weeks."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-11-09",
+          "Text": "On or about 9 November 2017, an invoice and a delivery order from Smart Recycling Pte Ltd were presented to Standard Chartered Bank (Singapore) Limited in connection with a drawdown on a facility granted to AMG Global Investments & Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-11-09",
+          "Text": "On or about 9 November 2017, AMG Global Investments & Holdings Pte Ltd drew down approximately US$744,000 under a facility with Standard Chartered Bank (Singapore) Limited and paid that amount to Smart Recycling Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-11-22",
+          "Text": "On 22 November 2017, Food & Beverage Cap Co Ltd issued a statutory demand to AMG Global Investments & Holdings Pte Ltd for US$2,145,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-11-22",
+          "Text": "By 22 November 2017, AMG Global Investments & Holdings Pte Ltd had not paid US$2,145,000 to Food & Beverage Cap Co Ltd as specified in the memorandum of understanding."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2018-01-23",
+          "Text": "By 23 January 2018, corporate records showed that Mr Manu Poovannunilkunnathil Kuttappan had become the 100% owner of AMG Global Investments & Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-03-09",
+          "Text": "On 9 March 2018, AMG Global Investments & Holdings Pte Ltd was wound up based on the unsatisfied statutory demand dated 22 November 2017 for US$2,145,000."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2018-03-09",
+          "Text": "On 9 March 2018, Mr Abuthahir s/o Abdul Gafoor of AAG Corporate Advisory Pte Ltd became the liquidator of AMG Global Investments & Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-02-21",
+          "Text": "On 21 February 2020, lawyers for AMG Global Investments & Holdings Pte Ltd sent a letter of demand to Mr Ong Kee Ming Richard concerning payments made from the company's Standard Chartered Bank account."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2020-03-02",
+          "Text": "On 2 March 2020, Mr Ong Kee Ming Richard sent a letter in response to the 21 February 2020 demand, stating that during the period of the questioned payments he was in poor physical and mental health, that he relied on Mr Manu to handle AMG Global Investments & Holdings Pte Ltd's business and account, and that he countersigned documents after being told they were legitimate business payments."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2020-02-26",
+          "Text": "A memo from Clementi Polyclinic dated 26 February 2020 recorded that in September 2017 Mr Ong Kee Ming Richard had been referred to the National University Hospital to investigate a possible psychosis episode and was later seen by the psychiatric team with an impression of psychotic depression."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-08-11",
+          "Text": "On or about 11 August 2017, Mr Manu Poovannunilkunnathil Kuttappan signed a handwritten confirmation addressed to Mr Ong Kee Ming Richard stating that Mr Manu took full responsibility for payments made from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account and for the procurement and supply of goods mentioned in the documentary letter of credit."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-09-01",
+          "Text": "In September 2017, a directors' resolution of AMG Global Investments & Holdings Pte Ltd recorded that 640,000 shares were registered in the name of Mr Ong Kee Ming Richard."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-09-01",
+          "Text": "In late September 2017, a directors' resolution of AMG Global Investments & Holdings Pte Ltd recorded the transfer of 640,000 shares from Mr Koh Ting Giap to Mr Manu Poovannunilkunnathil Kuttappan."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-09-01",
+          "Text": "In 2017, AMG Global Investments & Holdings Pte Ltd entered into a facility agreement with Standard Chartered Bank (Singapore) Limited secured against a fixed deposit of US$1,000,000, with documentation signed by Mr Manu Poovannunilkunnathil Kuttappan and Mr Ong Kee Ming Richard."
+        }
+      ],
+      "Issue": "Whether the directors and signatories of AMG Global Investments & Holdings Pte Ltd authorised or allowed withdrawals and payments from the company's bank account that reduced funds available to meet the US$2,145,000 obligation to Food & Beverage Cap Co Ltd and other company obligations.",
+      "Rule": "Directors of a company are act in the interests of the company, to act for proper corporate purposes, to avoid situations where personal interests conflict with company interests, and to exercise reasonable skill and care, including taking reasonable steps to understand and verify the basis for significant company payments. Where a company receives funds traceable to a trust or similar arrangement, a person who receives those funds for personal benefit may be accountable if the receipt is connected to a misapplication of those funds.",
+      "Application": "AMG Global Investments & Holdings Pte Ltd received approximately US$2.86 million under an arrangement documented in a memorandum of understanding with Food & Beverage Cap Co Ltd, which specified that US$2,145,000 was to be paid to Food & Beverage Cap Co Ltd and US$143,000 to White Lotus Cosmetics Limited, with the remaining US$572,000 described as non-recourse payment for AMG. After the funds were deposited into AMG's Standard Chartered Bank account on 25 August 2017, a series of cash withdrawals and payments were made to various individuals and entities, including directors and related parties, during periods when Mr Ong Kee Ming Richard and later Mr Manu Poovannunilkunnathil Kuttappan alone were authorised signatories. By around 29 August 2017, the account balance fell below US$2,145,000, reducing the funds available to satisfy the amount specified for Food & Beverage Cap Co Ltd. Subsequent payments and withdrawals, including payments to directors and third parties and a later drawdown of approximately US$744,000 under a bank facility to pay Smart Recycling Pte Ltd, further reduced the funds held by AMG. These events form the factual basis for assessing whether the directors' conduct in authorising or permitting these transactions complied with the expected standards for directors and whether any personal receipts are connected to misapplication of company funds.",
+      "Judicial_Reasoning_Log": "The court analysed the duties of directors under general law and section 157 of the Companies Act, emphasising obligations to act bona fide in the interests of the company, for proper purposes, to avoid conflicts, and to exercise reasonable skill and care. It held that a director authorising payments must believe they are for proper corporate purposes and must take reasonable steps to understand and verify transactions, especially large ones. The court also set out the elements of knowing receipt, requiring a disposal of assets in breach of fiduciary duty, beneficial receipt, and knowledge making retention unconscionable.\n\nFor Mr Ong, the court examined nineteen withdrawals and payments he countersigned between 25 August and 21 September 2017 and a facility agreement with Standard Chartered Bank. It accepted that early payments, such as the cash withdrawal of US$11,216.75, the payment to ORO Trading Pte Ltd, the payment for air tickets to Mr Lim Chin Keng, and the repayment to Ms Chen Mei Qi, could reasonably be viewed as legitimate in the context of a newly successful deal. However, the court identified a turning point at the payment of US$149,398.22 to Mr Abdul Razeed on 28 August 2017, after which Mr Ong expressed reluctance and a desire to resign, indicating that he suspected the payments were not legitimate. Despite this, he continued to countersign large withdrawals and payments, including the US$74,699.11 payment to himself, the US$112,666.38 cash withdrawal, the US$5,000 payment to Mr Adanuty, consultancy-labelled payments to Sabre Global Pte Ltd and Three Quality Services Limited, the US$75,000 payment to Mr Manu, and substantial payments to Mr Kevin Anthony Griffin Jr. The court found that these later transactions were not supported by documentation or credible explanations and that Mr Ong knew or ought to have known they were not for proper corporate purposes. The court treated the US$143,000 payment to White Lotus Cosmetics Limited as consistent with the memorandum of understanding and did not hold Mr Ong responsible for that item. It also found that entering into the Standard Chartered Bank facility was not itself a breach, as it could reasonably be seen as beneficial for trading. The court rejected Mr Ong's reliance on mental health issues and section 145(5) of the Companies Act as defences, concluding that he understood his actions and could have refused to countersign. Section 391 relief was denied because his conduct after 28 August 2017 was not objectively reasonable. The court held Mr Ong liable for US$1,297,883.63 plus interest.\n\nFor Mr Koh, the court considered his earlier role as a director, his departure in 2014, his claimed loans and contributions, and his return as director from 25 September 2017. It accepted that he had made some loans and incurred expenses for AMG but did not quantify the exact amount. The court found that when Mr Koh rejoined, he did so partly to recover his loans and agreed to a directors' resolution on 26 September 2017 making Mr Manu the sole signatory on the Standard Chartered Bank account. The court held that this removed the only effective check on withdrawals and was done despite Mr Koh knowing that Mr Ong had been reluctant to sign cheques and had left because of disagreements over payments. The court characterised Mr Koh's conduct as turning a blind eye and prioritising his own repayment over the company's interests, especially given AMG's insolvency once the account balance fell below US$2,145,000. It held him responsible for subsequent unexplained cash withdrawals and payments, including twelve cash withdrawals or cash cheques totalling US$148,064.97, payments to Uniroyal Communications Pte Ltd, Ms Chua Pair Shen, Mr Shuan Jarmen, Ms Christina Marie Nyanmani, Mr Ng Wai Loon, and Mr Abdul Razeed, as well as payments of US$37,247.43 and US$37,458.77 to himself. The court treated the pre-directorship payment of US$37,458.77 as knowing receipt because it was part of a bargain linked to Mr Manu's misuse of company funds. It also held Mr Koh liable for the US$744,000 drawdown under the Standard Chartered Bank facility to Smart Recycling Pte Ltd and the associated interest of US$10,879.76, finding no genuine underlying transaction. The administrative fee for the facility was not awarded against him. Section 391 relief was refused on the basis that Mr Koh had not acted honestly or reasonably, as he effectively agreed not to supervise Mr Manu in exchange for repayment. The court awarded judgment against Mr Koh for US$1,017,070.93 plus interest and ordered that it would hear parties on costs."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 881 of 2020",
+      "Coram": "Philip Jeyaretnam JC",
+      "Judge": "Philip Jeyaretnam",
+      "Date": "2021-09-28",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Ong Kee Ming Richard",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2006-09-13",
+          "Text": "Mr Ong Kee Ming Richard is a Singapore citizen who served as a director of AMG Global Investments & Holdings Pte Ltd from 13 September 2006 to 25 September 2017."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2007-10-01",
+          "Text": "From October 2007 onwards, Mr Ong Kee Ming Richard served together with Mr Manu Poovannunilkunnathil Kuttappan and Mr Koh Ting Giap as directors of AMG Global Investments & Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2014-01-10",
+          "Text": "After 10 January 2014, when Mr Koh Ting Giap left the board, Mr Ong Kee Ming Richard continued as a director of AMG Global Investments & Holdings Pte Ltd together with Mr Manu Poovannunilkunnathil Kuttappan."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2017-08-23",
+          "Text": "From 23 August 2017 to 21 September 2017, Mr Ong Kee Ming Richard and Mr Manu Poovannunilkunnathil Kuttappan were joint signatories to AMG Global Investments & Holdings Pte Ltd's account with Standard Chartered Bank (Singapore) Limited."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-25",
+          "Text": "On 25 August 2017, while a joint signatory, Mr Ong Kee Ming Richard signed for a cash withdrawal of US$11,216.75 from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-25",
+          "Text": "On 25 August 2017, while a joint signatory, Mr Ong Kee Ming Richard signed for a payment of US$22,556.39 from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account to ORO Trading Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-26",
+          "Text": "On 26 August 2017, while a joint signatory, Mr Ong Kee Ming Richard signed for a payment of US$9,398.50 from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account to Mr Lim Chin Keng."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-26",
+          "Text": "On 26 August 2017, while a joint signatory, Mr Ong Kee Ming Richard signed for a payment of US$22,142.86 from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account to Ms Chen Mei Qi."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-26",
+          "Text": "On 26 August 2017, while a joint signatory, Mr Ong Kee Ming Richard signed for a cash withdrawal of US$20,000 from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-28",
+          "Text": "On 28 August 2017, while a joint signatory, Mr Ong Kee Ming Richard signed for a payment of US$149,398.22 from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account to Mr Abdul Razeed."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-28",
+          "Text": "On 28 August 2017, while a joint signatory, Mr Ong Kee Ming Richard signed for a payment of US$74,699.11 from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account to himself."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-28",
+          "Text": "On 28 August 2017, while a joint signatory, Mr Ong Kee Ming Richard signed for a cash withdrawal of US$112,666.38 from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-28",
+          "Text": "On 28 August 2017, while a joint signatory, Mr Ong Kee Ming Richard signed for a payment of US$5,000 from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account to an individual identified as Mr Adanuty."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-29",
+          "Text": "On 29 August 2017, while a joint signatory, Mr Ong Kee Ming Richard signed for two payments from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account to Sabre Global Pte Ltd, described as consultancy fees, contributing to total payments of US$181,119.92 made to that company on 29 August 2017 and 5 September 2017."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-29",
+          "Text": "On 29 August 2017, while a joint signatory, Mr Ong Kee Ming Richard signed for a payment of US$75,000 from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account to Mr Manu Poovannunilkunnathil Kuttappan."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-08-29",
+          "Text": "On 29 August 2017, while a joint signatory, Mr Ong Kee Ming Richard signed for a payment of US$100,000 from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account to Three Quality Services Limited, described as consultancy fees."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-05",
+          "Text": "On 5 September 2017, while a joint signatory, Mr Ong Kee Ming Richard signed for payments from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account to Mr Kevin Anthony Griffin Jr totalling part of US$450,000 paid on 5 and 21 September 2017, with transfer forms referring to supply of aluminium."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-05",
+          "Text": "On 5 September 2017, while a joint signatory, Mr Ong Kee Ming Richard signed for payments from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account to Mr Kevin Anthony Griffin Jr totalling part of US$450,000 paid on 5 and 21 September 2017, with transfer forms purporting to relate to the supply of aluminium."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-06",
+          "Text": "On 6 September 2017, while a joint signatory, Mr Ong Kee Ming Richard signed for a payment of US$150,000 from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account to Quality Printers Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-09-21",
+          "Text": "On 21 September 2017, while a joint signatory, Mr Ong Kee Ming Richard signed for a payment of US$37,458.77 from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account to Mr Koh Ting Giap."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-09-01",
+          "Text": "On 24 June 2021, the court noted that Mr Ong and Mr Manu signed documents with Standard Chartered Bank (Singapore) Limited to establish a facility for AMG Global Investments & Holdings Pte Ltd secured against a fixed deposit of US$1,000,000."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-08-11",
+          "Text": "On or about 11 August 2017, Mr Ong Kee Ming Richard obtained a handwritten confirmation from Mr Manu Poovannunilkunnathil Kuttappan stating that Mr Manu took full responsibility for payments made from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account and for the procurement and supply of goods mentioned in the documentary letter of credit."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-09-01",
+          "Text": "In September 2017, a directors' resolution of AMG Global Investments & Holdings Pte Ltd recorded that 640,000 shares were registered in the name of Mr Ong Kee Ming Richard."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2017-09-25",
+          "Text": "On 25 September 2017, Mr Ong Kee Ming Richard ceased to hold office as a director of AMG Global Investments & Holdings Pte Ltd."
+        }
+      ],
+      "Issue": "Whether, during the period from 25 August 2017 to 21 September 2017, Mr Ong Kee Ming Richard, as director and joint signatory of AMG Global Investments & Holdings Pte Ltd's bank account, authorised or allowed withdrawals and payments that were not aligned with the company's documented arrangements and financial position.",
+      "Rule": "A director who signs or authorises company payments is act in the interests of the company, to ensure that payments serve proper corporate purposes, and to exercise reasonable skill and care by seeking sufficient information and documentation about significant transactions. A director may rely on information from colleagues only where such reliance is both honest and reasonable in the circumstances.",
+      "Application": "As joint signatory with Mr Manu Poovannunilkunnathil Kuttappan, Mr Ong Kee Ming Richard signed for multiple cash withdrawals and payments from AMG Global Investments & Holdings Pte Ltd's Standard Chartered Bank account shortly after the deposit of approximately US$2.76 million linked to the memorandum of understanding with Food & Beverage Cap Co Ltd. Early transactions included a cash withdrawal, a repayment to ORO Trading Pte Ltd, and payments for travel and a personal loan, which he signed based on explanations from Mr Manu without requesting supporting documents. Later transactions involved larger sums, including a payment of US$149,398.22 to Mr Abdul Razeed, a payment of US$74,699.11 to himself, a cash withdrawal of US$112,666.38, payments to Sabre Global Pte Ltd and Three Quality Services Limited described as consultancy fees, a payment of US$75,000 to Mr Manu, and substantial payments to Mr Kevin Anthony Griffin Jr. These later payments were made after he had obtained a handwritten confirmation from Mr Manu taking responsibility for payments and after he had expressed reluctance and a desire to resign. The pattern of increasing withdrawals and payments, the reduction of the account balance below the US$2,145,000 amount specified for Food & Beverage Cap Co Ltd, and the absence of contemporaneous documentation for several large transfers form the factual basis for assessing whether his continued countersigning met the expected standard of care and purpose for a director.",
+      "Judicial_Reasoning_Log": "The court considered Mr Ong's long association with AMG Global Investments & Holdings Pte Ltd and his role as director and joint signatory during the period when substantial funds were received and disbursed. It accepted that for many years AMG had little business and that Mr Manu had spoken of potential deals that did not materialise, which provided context for Mr Ong's initial reliance on Mr Manu when the large deposit arrived on 25 August 2017. The court noted that Mr Ong obtained a handwritten confirmation from Mr Manu on or about 11 August 2017 in which Mr Manu took full responsibility for payments and the goods under the documentary letter of credit, indicating that Mr Ong understood the potential risks and sought some protection.\n\nIn reviewing the individual transactions, the court distinguished between early payments, which it regarded as reasonably viewed as legitimate at the time, and later payments, which it found Mr Ong should not have authorised. It treated the cash withdrawal of US$11,216.75, the repayment to ORO Trading Pte Ltd, the payment for air tickets to Mr Lim Chin Keng, and the repayment to Ms Chen Mei Qi as transactions that, in context, could be accepted as consistent with AMG's business or with explanations given by Mr Manu. The court found that by the time of the US$149,398.22 payment to Mr Abdul Razeed on 28 August 2017, Mr Ong had expressed objections and a desire to resign, and had stated that the payments were becoming too large. This was identified as the point at which he at least suspected that the payments were not legitimate.\n\nDespite this, Mr Ong continued to countersign significant withdrawals and payments, including the US$74,699.11 payment to himself, the US$112,666.38 cash withdrawal, the US$5,000 payment to Mr Adanuty, consultancy-labelled payments to Sabre Global Pte Ltd and Three Quality Services Limited, the US$75,000 payment to Mr Manu, and large payments to Mr Kevin Anthony Griffin Jr. The court found that these transactions lacked adequate supporting documentation or credible business justification and that Mr Ong knew or ought to have known that they were not for proper corporate purposes. It accepted that the US$143,000 payment to White Lotus Cosmetics Limited matched the service fee specified in the memorandum of understanding and treated that payment as consistent with the documented arrangement. It also held that entering into the Standard Chartered Bank facility was not itself improper, as such a facility could reasonably be seen as beneficial for trading.\n\nThe court examined Mr Ong's mental health evidence, including the Clementi Polyclinic memo and his account of being warded at the Institute of Mental Health, but concluded that his mental collapse occurred after the key transactions and that he understood his actions at the time of signing. It rejected the argument that section 145(5) of the Companies Act excused his conduct, noting that while he could not unilaterally resign without a locally resident replacement, he could have refused to countersign payments. In considering section 391 of the Companies Act, the court found that although Mr Ong's situation attracted sympathy, his conduct after 28 August 2017 was not objectively reasonable, as a reasonable director would have refused to authorise further questionable payments. The court therefore declined to grant relief under section 391 and held Mr Ong liable for US$1,297,883.63 plus interest at 5.33% from the date of the writ to the date of judgment."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 881 of 2020",
+      "Coram": "Philip Jeyaretnam JC",
+      "Judge": "Philip Jeyaretnam",
+      "Date": "2021-09-28",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Koh Ting Giap",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2006-09-13",
+          "Text": "Mr Koh Ting Giap is a Singapore citizen who was a director of AMG Global Investments & Holdings Pte Ltd from 13 September 2006 to 10 January 2014, and again from 25 September 2017 until AMG was wound up."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2007-10-01",
+          "Text": "From October 2007 onwards, Mr Koh Ting Giap, Mr Manu Poovannunilkunnathil Kuttappan and Mr Ong Kee Ming Richard were directors of AMG Global Investments & Holdings Pte Ltd together."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2006-09-01",
+          "Text": "As a result of three allotments taking place in September and October 2006, Mr Koh originally held 1,080,000 shares, of which 1,079,996 shares were allotted to him as a nominee holding on trust for Weeds Natural Remedies Pte Ltd in consideration of the provision by Weeds of certain formulae for natural health supplements and an eight-year licence to exclusive use of certain registered trade marks."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2007-10-01",
+          "Text": "For many years, AMG did very little business. It does appear to have incurred expenses, including rental of premises for some period."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-06-13",
+          "Text": "On 13 June 2009, in an email to Mr Manu Poovannunilkunnathil Kuttappan, Mr Koh recorded: 'Total cash plus loan plus office expenses plus office renovation = 205 + 85 + 315 + 300 = 905 k'."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-07-28",
+          "Text": "On 28 July 2009, in an email to Mr Ong Kee Ming Richard, Mr Koh stated: 'So the total cash/liability from my part is: $614K (205+94+315, cash+loan+office rental expenses respectively). ...'"
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2014-01-10",
+          "Text": "On 10 January 2014, Mr Koh Ting Giap ceased to be a director of AMG Global Investments & Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "Mr Koh left AMG in early 2014 for this reason."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2017-09-25",
+          "Text": "A directors’ resolution dated 25 September 2017 recorded a transfer of 640,000 shares from Mr Koh to Mr Manu."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2017-09-25",
+          "Text": "On 25 September 2017, Mr Koh Ting Giap rejoined AMG Global Investments & Holdings Pte Ltd as a director."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2017-09-26",
+          "Text": "On 26 September 2017, Mr Koh and Mr Manu signed a directors’ resolution authorising Mr Manu to be the sole signatory in relation to all the banking facilities with Standard Chartered Bank."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-08-03",
+          "Text": "An acknowledgement dated 3 August 2017 signed by Mr Manu stated that he had received S$15,000 as a loan to AMG."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-09-01",
+          "Text": "In 2017, before rejoining AMG, Mr Koh discussed with Mr Manu that he would rejoin and that Mr Manu would be the sole signatory of the AMG bank account, and that Mr Manu could only afford to pay him two payments of 50,000 SGD each as partial repayment of his loan."
+        }
+      ],
+      "Issue": "Whether, after rejoining AMG Global Investments & Holdings Pte Ltd as director on 25 September 2017, and in connection with a prior payment, Mr Koh Ting Giap allowed or facilitated withdrawals and payments from the company's bank account, including payments to himself and third parties, in a manner inconsistent with the company's financial position and arrangements.",
+      "Rule": "A director is safeguard company assets, especially where the company has limited resources and significant obligations, and should not allow unchecked control of bank accounts where there are indications of prior disagreements over payments. A person who receives company funds in circumstances connected to another's misapplication of those funds may be accountable if the receipt is linked to that misapplication.",
+      "Application": "After rejoining AMG Global Investments & Holdings Pte Ltd as director on 25 September 2017, Mr Koh Ting Giap signed a resolution on 26 September 2017 authorising Mr Manu Poovannunilkunnathil Kuttappan to be the sole signatory for the company's banking facilities with Standard Chartered Bank (Singapore) Limited. This change occurred after Mr Koh was aware that Mr Ong Kee Ming Richard had experienced difficulties with Mr Manu over signing cheques. During the period when Mr Koh was a director, AMG made multiple cash withdrawals and payments from its Standard Chartered Bank account, including twelve cash withdrawals or cash cheques totalling US$148,064.97, payments to Uniroyal Communications Pte Ltd, Ms Chua Pair Shen, Mr Shuan Jarmen, Ms Christina Marie Nyanmani, Mr Ng Wai Loon, and Mr Abdul Razeed, and a payment of US$37,247.43 to Mr Koh himself. In addition, a payment of US$37,458.77 had been made to Mr Koh on 21 September 2017 before he rejoined as director, and a later drawdown of approximately US$744,000 under a bank facility was used to pay Smart Recycling Pte Ltd. These transactions occurred when AMG had no other significant assets or business income and had an outstanding obligation of US$2,145,000 to Food & Beverage Cap Co Ltd under the memorandum of understanding. The pattern of payments, the timing of the resolution granting sole signatory authority, and the prior knowledge of disagreements between Mr Ong and Mr Manu form the factual basis for assessing whether Mr Koh's conduct in facilitating or not checking these transactions met the expected standard for a director and whether his own receipts are connected to misapplication of company funds.",
+      "Judicial_Reasoning_Log": "The court examined Mr Koh's history with AMG Global Investments & Holdings Pte Ltd, including his initial role as director and shareholder, his departure in 2014, and his claimed contributions through Weeds Natural Remedies Pte Ltd and personal loans. It accepted that Weeds' contribution was in the nature of equity and that Mr Koh had made some loans and incurred expenses for AMG, as evidenced by his 2009 emails, but did not determine an exact amount due to lack of detailed records. The court noted that Mr Koh left AMG when it had little business and later rejoined in 2017 after learning that funds had been received through monetisation of a letter of credit.\n\nIn assessing his conduct upon rejoining, the court focused on the 26 September 2017 directors' resolution that made Mr Manu the sole signatory for AMG's banking facilities with Standard Chartered Bank. It found that this removed the only effective check on withdrawals and was done despite Mr Koh knowing that Mr Ong had been reluctant to sign cheques and had left because of disagreements over payments. The court concluded that Mr Koh chose not to inquire further of Mr Ong and instead accepted Mr Manu's account, thereby turning a blind eye to the risk that funds would be used for purposes not aligned with AMG's interests. It characterised this as a decision to prioritise his own interest in recovering loans over his duty to safeguard company assets, particularly given AMG's insolvency once the account balance fell below US$2,145,000.\n\nThe court held Mr Koh responsible for losses arising from withdrawals and payments made while he was a director, including twelve cash withdrawals or cash cheques totalling US$148,064.97, the US$37,247.43 payment to himself on 29 September 2017, and payments to Uniroyal Communications Pte Ltd, Ms Chua Pair Shen, Mr Shuan Jarmen, Ms Christina Marie Nyanmani, Mr Ng Wai Loon, and Mr Abdul Razeed, for which no adequate business documentation or explanation was provided. It also considered the earlier payment of US$37,458.77 to Mr Koh on 21 September 2017, before he rejoined as director, and found that this payment was part of an arrangement under which he agreed to return as director while not acting as a check on Mr Manu. The court treated this as knowing receipt because the payment was connected to Mr Manu's use of company funds in a manner inconsistent with his duties.\n\nRegarding the Standard Chartered Bank facility, the court distinguished between the initial establishment of the facility, which occurred before Mr Koh rejoined and was not itself criticised, and the later drawdown of approximately US$744,000 on or about 9 November 2017 to pay Smart Recycling Pte Ltd. It found that there was no genuine underlying transaction between AMG and Smart Recycling, despite the invoice and delivery order presented to the bank, and held that the drawdown and associated interest of US$10,879.76 represented losses flowing from Mr Koh's decision to allow Mr Manu sole control over the account. The administrative fee for the facility was not awarded against Mr Koh because it related to the initial setup, which the court did not find improper.\n\nIn considering section 391 of the Companies Act, the court concluded that Mr Koh had not acted honestly or reasonably. It found that he effectively agreed to rejoin the board and receive repayments while not supervising Mr Manu, despite indications that prior payments had been contentious. The court held that such an arrangement was incompatible with his duty to protect AMG's assets, especially in the context of insolvency. It therefore declined to grant relief under section 391 and entered judgment against Mr Koh for US$1,017,070.93 plus interest at 5.33% from the date of the writ to the date of judgment."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  }
+]

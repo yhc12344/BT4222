@@ -1,0 +1,741 @@
+[
+  {
+    "case_name": "Airtrust (Singapore) Pte Ltd v Kao Chai-Chau Linda and another suit",
+    "party": "Airtrust (Singapore) Pte Ltd (AT) – Suit No 477 of 2012 (AT (Carolyn))",
+    "status": "CHANGED",
+    "audit_suggestion": {
+      "case_name": "Airtrust (Singapore) Pte Ltd v Kao Chai-Chau Linda and another suit",
+      "party": "Airtrust (Singapore) Pte Ltd (AT) – Suit No 477 of 2012 (AT (Carolyn))",
+      "status": "CHANGES",
+      "label_change": null,
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[0].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2012-01-01",
+          "recommended_value": "2010-01-01",
+          "evidence": "The source states that in Originating Summons No 505 of 2010, the High Court granted leave under section 216A of the Companies Act for Carolyn Fong to institute a derivative action.",
+          "recommended_change": "Correct the date to reflect the originating summons year, not 2012."
+        },
+        {
+          "path": "Party_Details.Facts[1].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2012-01-01",
+          "recommended_value": "2010-01-01",
+          "evidence": "The derivative action leave application was in Originating Summons No 505 of 2010, not 2012.",
+          "recommended_change": "Correct the date to the year of the leave application."
+        },
+        {
+          "path": "Party_Details.Facts[2].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2011-01-01",
+          "recommended_value": "2010-01-01",
+          "evidence": "The source identifies the proceeding as Originating Summons No 505 of 2010.",
+          "recommended_change": "Change the year to 2010."
+        },
+        {
+          "path": "Party_Details.Facts[3].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2010-01-01",
+          "recommended_value": "2010-01-01",
+          "evidence": "The source says Carolyn applied for leave under section 216A of the Companies Act in Originating Summons No 505 of 2010.",
+          "recommended_change": "Revise the text to avoid implying the application occurred before 2011; keep only the year 2010."
+        },
+        {
+          "path": "Party_Details.Facts[4].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2013-01-01",
+          "recommended_value": "2013-09-02",
+          "evidence": "The judgment states that the appeals were heard on 2 September 2013 and 11 October 2013, and that different law firms had been engaged for the two suits.",
+          "recommended_change": "If this fact is retained, specify the actual hearing date only if needed; otherwise remove as litigation-stage leakage."
+        },
+        {
+          "path": "Party_Details.Facts[5].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2006-01-01",
+          "recommended_value": "2006",
+          "evidence": "The source says that 'since 2006' PF had transferred the majority of his shares to the Fong Foundation charitable trust.",
+          "recommended_change": "Use only the year 2006 or 'since 2006'; do not imply a specific date."
+        },
+        {
+          "path": "Party_Details.Facts[6].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "On 2008-04-25, Peter Fong, then Chairman and a significant shareholder of Airtrust (Singapore) Pte Ltd, passed away.",
+          "recommended_value": "Peter Fong passed away on 25 April 2008. He was the majority shareholder and Chairman of AT.",
+          "evidence": "The source states that PF passed away on 25 April 2008 and describes him as the majority shareholder and Chairman.",
+          "recommended_change": "Replace 'significant shareholder' with 'majority shareholder' to match the source."
+        },
+        {
+          "path": "Party_Details.Facts[7].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2008-01-01",
+          "recommended_value": "2008-04-25",
+          "evidence": "The source gives the exact date of death as 25 April 2008.",
+          "recommended_change": "Use the exact date of death rather than a generic 2008 date."
+        },
+        {
+          "path": "Party_Details.Facts[8].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2013-09-02",
+          "recommended_value": "",
+          "evidence": "The source says the appeals were heard on 2 September 2013, which is litigation-stage material after the dispute had arisen.",
+          "recommended_change": "Remove this hearing-stage fact."
+        },
+        {
+          "path": "Party_Details.Facts[9].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2013-10-11",
+          "recommended_value": "",
+          "evidence": "The source says further submissions were made on 11 October 2013, which is litigation-stage material.",
+          "recommended_change": "Remove this submissions-stage fact."
+        },
+        {
+          "path": "Party_Details.Facts[10].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2013-11-04",
+          "recommended_value": "",
+          "evidence": "The source says an application to hand over conduct of the derivative action was heard on 4 November 2013, which is procedural litigation-stage material.",
+          "recommended_change": "Remove this procedural hearing fact."
+        }
+      ],
+      "facts_to_remove": [
+        {
+          "path": "Party_Details.Facts[8]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 2013-09-02, parties attended a hearing before the High Court on Registrar's Appeals No 246 of 2013 and No 247 of 2013 concerning third party proceedings related to Suit No 477 of 2012 and Suit No 1015 of 2012.",
+          "evidence": "The source identifies this as a hearing on the appeals, which is litigation-stage material.",
+          "recommended_change": "Remove hearing-stage litigation facts."
+        },
+        {
+          "path": "Party_Details.Facts[9]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 2013-10-11, parties made further submissions before the High Court on questions concerning the legal consequences of a director following instructions of a controlling chairman in relation to Airtrust (Singapore) Pte Ltd.",
+          "evidence": "The source identifies this as further submissions to the court, which is litigation-stage material.",
+          "recommended_change": "Remove submissions-stage litigation facts."
+        },
+        {
+          "path": "Party_Details.Facts[10]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 2013-11-04, an application by Carolyn Fong for leave to hand over conduct of the derivative action in Suit No 477 of 2012 to the Receivers and Managers of Airtrust (Singapore) Pte Ltd was heard, with the Receivers and Managers taking a neutral position.",
+          "evidence": "The source identifies this as a procedural application heard after the dispute had arisen.",
+          "recommended_change": "Remove procedural hearing facts."
+        }
+      ]
+    },
+    "applied_changes": {
+      "label_change": null,
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[0].Fact_Date",
+          "from": "2012-01-01",
+          "to": "2010-01-01"
+        },
+        {
+          "path": "Party_Details.Facts[1].Fact_Date",
+          "from": "2012-01-01",
+          "to": "2010-01-01"
+        },
+        {
+          "path": "Party_Details.Facts[2].Fact_Date",
+          "from": "2011-01-01",
+          "to": "2010-01-01"
+        },
+        {
+          "path": "Party_Details.Facts[4].Fact_Date",
+          "from": "2013-01-01",
+          "to": "2013-09-02"
+        },
+        {
+          "path": "Party_Details.Facts[5].Fact_Date",
+          "from": "2006-01-01",
+          "to": "2006"
+        },
+        {
+          "path": "Party_Details.Facts[6].Text",
+          "from": "On 2008-04-25, Peter Fong, then Chairman and a significant shareholder of Airtrust (Singapore) Pte Ltd, passed away.",
+          "to": "Peter Fong passed away on 25 April 2008. He was the majority shareholder and Chairman of AT."
+        },
+        {
+          "path": "Party_Details.Facts[7].Fact_Date",
+          "from": "2008-01-01",
+          "to": "2008-04-25"
+        },
+        {
+          "path": "Party_Details.Facts[8].Fact_Date",
+          "from": "2013-09-02",
+          "to": ""
+        },
+        {
+          "path": "Party_Details.Facts[9].Fact_Date",
+          "from": "2013-10-11",
+          "to": ""
+        },
+        {
+          "path": "Party_Details.Facts[10].Fact_Date",
+          "from": "2013-11-04",
+          "to": ""
+        }
+      ],
+      "facts_removed": [
+        {
+          "path": "Party_Details.Facts[10]"
+        },
+        {
+          "path": "Party_Details.Facts[9]"
+        },
+        {
+          "path": "Party_Details.Facts[8]"
+        }
+      ]
+    }
+  },
+  {
+    "case_name": "Airtrust (Singapore) Pte Ltd v Kao Chai-Chau Linda and another suit [2014] SGHC 27",
+    "party": "Airtrust (Singapore) Pte Ltd (AT) – Suit No 1015 of 2012 (AT (RM))",
+    "status": "CHANGED",
+    "audit_suggestion": {
+      "case_name": "Airtrust (Singapore) Pte Ltd v Kao Chai-Chau Linda and another suit [2014] SGHC 27",
+      "party": "Airtrust (Singapore) Pte Ltd (AT) – Suit No 1015 of 2012 (AT (RM))",
+      "status": "CHANGES",
+      "label_change": null,
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[0].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2012-01-01",
+          "recommended_value": "2012-01-01",
+          "evidence": "The source states only that Suit No 1015 of 2012 was brought by the Receivers and Managers of AT; it does not give a specific commencement date in the text provided.",
+          "recommended_change": "Remove the unsupported exact date and keep the fact date unspecified or use a neutral approximate date only if required by schema."
+        },
+        {
+          "path": "Party_Details.Facts[1].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2012-01-17",
+          "recommended_value": "2012-01-17",
+          "evidence": "The source says Ernst & Young was appointed RMs of AT on 17 January 2012, but this is procedural background and not needed for the substantive party row.",
+          "recommended_change": "Retain only if necessary as neutral background; otherwise remove as litigation-stage procedural context."
+        },
+        {
+          "path": "Party_Details.Facts[2].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2012-01-17",
+          "recommended_value": "2012-01-17",
+          "evidence": "The source says a consent order was subsequently granted pursuant to an apparent agreement between Carolyn and Linda, but this is procedural and not needed for the substantive row.",
+          "recommended_change": "Remove this procedural litigation fact."
+        },
+        {
+          "path": "Party_Details.Facts[3].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2012-01-01",
+          "recommended_value": "",
+          "evidence": "The source describes the RMs' post-appointment view and the commencement of Suit No 1015 of 2012, which are litigation-stage developments.",
+          "recommended_change": "Remove because it reflects post-dispute litigation posture and not pre-dispute background."
+        },
+        {
+          "path": "Party_Details.Facts[4].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2012-01-01",
+          "recommended_value": "",
+          "evidence": "The source states that the RMs commenced Suit No 1015 of 2012 after their appointment; this is litigation-stage material.",
+          "recommended_change": "Remove because it is procedural litigation history."
+        },
+        {
+          "path": "Party_Details.Facts[5].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2013-04-19",
+          "recommended_value": "",
+          "evidence": "The source states that Linda commenced third party proceedings on 19 April 2013 in the RM Action; this is procedural litigation material.",
+          "recommended_change": "Remove because it is post-dispute procedural history."
+        },
+        {
+          "path": "Party_Details.Facts[6].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2013-06-12",
+          "recommended_value": "",
+          "evidence": "The source states that the RMs applied on 12 June 2013 to set aside the third party proceedings; this is procedural litigation material.",
+          "recommended_change": "Remove because it is post-dispute procedural history."
+        },
+        {
+          "path": "Party_Details.Facts[7].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2013-07-19",
+          "recommended_value": "",
+          "evidence": "The source states that the Assistant Registrar delivered an oral decision on 19 July 2013; this is judgment-stage/procedural material.",
+          "recommended_change": "Remove because it is litigation-stage outcome material."
+        },
+        {
+          "path": "Party_Details.Facts[8].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2013-08-26",
+          "recommended_value": "",
+          "evidence": "The source states that an application was made on 26 August 2013 to amend the third party notice in Suit No 477 of 2012; this is procedural litigation material and also concerns the other suit.",
+          "recommended_change": "Remove because it is post-dispute procedural history and not specific to this RM party row."
+        }
+      ],
+      "facts_to_remove": [
+        {
+          "path": "Party_Details.Facts[1]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "{\"Fact_Type\":\"CORPORATE_ROLE\",\"Fact_Date\":\"2012-01-17\",\"Text\":\"On 2012-01-17, Ernst & Young was appointed as Receivers and Managers of Airtrust (Singapore) Pte Ltd pursuant to an application by shareholder Carolyn Fong.\"}",
+          "evidence": "The appointment of RMs is procedural background arising after the dispute and is not necessary to understand the substantive row.",
+          "recommended_change": "Remove this litigation-stage procedural fact."
+        },
+        {
+          "path": "Party_Details.Facts[2]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "{\"Fact_Type\":\"BOARD_ACTION\",\"Fact_Date\":\"2012-01-17\",\"Text\":\"On 2012-01-17, a consent order was made in connection with the appointment of Ernst & Young as Receivers and Managers of Airtrust (Singapore) Pte Ltd, following an apparent agreement between Carolyn Fong and Linda Kao Chai-Chau.\"}",
+          "evidence": "This is procedural litigation history and not part of the pre-dispute factual background.",
+          "recommended_change": "Remove this procedural fact."
+        },
+        {
+          "path": "Party_Details.Facts[3]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "{\"Fact_Type\":\"CONDUCT\",\"Fact_Date\":\"2012-01-01\",\"Text\":\"After their appointment in January 2012, the Receivers and Managers of Airtrust (Singapore) Pte Ltd reviewed company affairs and formed the view that there was evidence of diversions involving Linda Kao Chai-Chau and others that were detrimental to Airtrust (Singapore) Pte Ltd, largely concerning events after Peter Fong's death.\"}",
+          "evidence": "This reflects the RMs' post-appointment view and litigation posture.",
+          "recommended_change": "Remove because it is post-dispute and outcome-oriented."
+        },
+        {
+          "path": "Party_Details.Facts[4]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "{\"Fact_Type\":\"CONDUCT\",\"Fact_Date\":\"2012-01-01\",\"Text\":\"Following their review, the Receivers and Managers commenced Suit No 1015 of 2012 on behalf of Airtrust (Singapore) Pte Ltd against Linda Kao Chai-Chau and 15 other individuals in relation to transactions and events mainly occurring after Peter Fong's death.\"}",
+          "evidence": "The commencement of Suit No 1015 of 2012 is litigation-stage material.",
+          "recommended_change": "Remove because it is procedural litigation history."
+        },
+        {
+          "path": "Party_Details.Facts[5]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "{\"Fact_Type\":\"CONDUCT\",\"Fact_Date\":\"2013-04-19\",\"Text\":\"On 2013-04-19, in Suit No 1015 of 2012, Linda Kao Chai-Chau commenced third party proceedings against the estate of Peter Fong seeking an indemnity in respect of Airtrust (Singapore) Pte Ltd's claims.\"}",
+          "evidence": "Third party proceedings are expressly litigation-stage material.",
+          "recommended_change": "Remove because it is procedural and post-dispute."
+        },
+        {
+          "path": "Party_Details.Facts[6]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "{\"Fact_Type\":\"CONDUCT\",\"Fact_Date\":\"2013-06-12\",\"Text\":\"On 2013-06-12, the Receivers and Managers of Airtrust (Singapore) Pte Ltd applied by Summons No 2989 of 2013 to set aside the third party proceedings that Linda Kao Chai-Chau had commenced against the estate of Peter Fong in Suit No 1015 of 2012.\"}",
+          "evidence": "This is a procedural application in the litigation.",
+          "recommended_change": "Remove because it is litigation-stage material."
+        },
+        {
+          "path": "Party_Details.Facts[7]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "{\"Fact_Type\":\"CONDUCT\",\"Fact_Date\":\"2013-07-19\",\"Text\":\"On 2013-07-19, the Assistant Registrar delivered an oral decision on applications concerning third party proceedings in Suit No 1015 of 2012 and Suit No 477 of 2012.\"}",
+          "evidence": "This is a procedural/judgment-stage event.",
+          "recommended_change": "Remove because it is litigation-stage outcome material."
+        },
+        {
+          "path": "Party_Details.Facts[8]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "{\"Fact_Type\":\"CONDUCT\",\"Fact_Date\":\"2013-08-26\",\"Text\":\"On 2013-08-26, an application was made to amend the third party notice in Suit No 477 of 2012 to add an alternative claim for contribution and to state that Peter Fong, as a director of Airtrust (Singapore) Pte Ltd, owed the same duties as Linda Kao Chai-Chau.\"}",
+          "evidence": "This concerns the other suit and is a procedural amendment application after proceedings had begun.",
+          "recommended_change": "Remove because it is post-dispute procedural history and not part of this row."
+        }
+      ]
+    },
+    "applied_changes": {
+      "label_change": null,
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[3].Fact_Date",
+          "from": "2012-01-01",
+          "to": ""
+        },
+        {
+          "path": "Party_Details.Facts[4].Fact_Date",
+          "from": "2012-01-01",
+          "to": ""
+        },
+        {
+          "path": "Party_Details.Facts[5].Fact_Date",
+          "from": "2013-04-19",
+          "to": ""
+        },
+        {
+          "path": "Party_Details.Facts[6].Fact_Date",
+          "from": "2013-06-12",
+          "to": ""
+        },
+        {
+          "path": "Party_Details.Facts[7].Fact_Date",
+          "from": "2013-07-19",
+          "to": ""
+        },
+        {
+          "path": "Party_Details.Facts[8].Fact_Date",
+          "from": "2013-08-26",
+          "to": ""
+        }
+      ],
+      "facts_removed": [
+        {
+          "path": "Party_Details.Facts[8]"
+        },
+        {
+          "path": "Party_Details.Facts[7]"
+        },
+        {
+          "path": "Party_Details.Facts[6]"
+        },
+        {
+          "path": "Party_Details.Facts[5]"
+        },
+        {
+          "path": "Party_Details.Facts[4]"
+        },
+        {
+          "path": "Party_Details.Facts[3]"
+        },
+        {
+          "path": "Party_Details.Facts[2]"
+        },
+        {
+          "path": "Party_Details.Facts[1]"
+        }
+      ]
+    }
+  },
+  {
+    "case_name": "Airtrust (Singapore) Pte Ltd v Kao Chai-Chau Linda and another suit",
+    "party": "Kao Chai-Chau Linda",
+    "status": "CHANGED",
+    "audit_suggestion": {
+      "case_name": "Airtrust (Singapore) Pte Ltd v Kao Chai-Chau Linda and another suit",
+      "party": "Kao Chai-Chau Linda",
+      "status": "CHANGES",
+      "label_change": null,
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[0].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "1996-01-01",
+          "recommended_value": "1996",
+          "evidence": "The judgment states: \"Linda was appointed as managing director of AT some time in 1996\".",
+          "recommended_change": "Replace the exact date with the year only."
+        },
+        {
+          "path": "Party_Details.Facts[1].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "1996-01-01",
+          "recommended_value": "1996-2012",
+          "evidence": "The judgment states: \"Linda was formerly the managing director of AT from 1996 up to 2012.\"",
+          "recommended_change": "Replace the exact date with the stated period."
+        },
+        {
+          "path": "Party_Details.Facts[2].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "Between around 2000 and the date of the writ in Suit No 477 of 2012, transactions involving business opportunities from Chinese chemical companies were carried out in which Linda Kao Chai-Chau was involved, and these transactions later became the subject of claims in the derivative action.",
+          "recommended_value": "The claim for contribution was made in relation to one claim concerning alleged diversions of business opportunities from Chinese chemical companies, said to have taken place between 2000 and the date of the writ.",
+          "evidence": "The judgment states at [58]: \"The first claim, for which contribution is sought, concerns alleged diversions of business opportunities from Chinese chemical companies. It is asserted that the diversions took place between 2000 to the date of the writ.\"",
+          "recommended_change": "Remove the unsupported wording that Linda was involved in the transactions and keep only the stated background about the claim period."
+        },
+        {
+          "path": "Party_Details.Facts[3].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "From around 2001, transactions involving business opportunities from another Chinese company were carried out in which Linda Kao Chai-Chau was involved, and these transactions later became the subject of claims in the derivative action.",
+          "recommended_value": "The claim for contribution was also sought in respect of alleged diversions from another Chinese company from around 2001.",
+          "evidence": "The judgment states at [58]: \"The second claim, for which contribution is also sought, is in respect of diversions from another Chinese company from around 2001.\"",
+          "recommended_change": "Remove the unsupported wording that Linda was involved in the transactions and keep only the stated claim period."
+        },
+        {
+          "path": "Party_Details.Facts[4].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "Around 2002 and 2004, further transactions involving business opportunities were carried out in which Linda Kao Chai-Chau was involved, and these transactions later became the subject of claims in the derivative action.",
+          "recommended_value": "The third claim relates to acts occurring around 2002 and 2004.",
+          "evidence": "The judgment states at [58]: \"The third claim relates to acts occurring around 2002 and 2004.\"",
+          "recommended_change": "Remove the unsupported wording that Linda was involved in the transactions and keep only the stated timing."
+        },
+        {
+          "path": "Party_Details.Facts[5].Text",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "By 2012, Linda Kao Chai-Chau was named as defendant in Suit No 477 of 2012 and as first defendant in Suit No 1015 of 2012 in relation to transactions connected with Airtrust (Singapore) Pte Ltd.",
+          "recommended_value": "Linda Kao Chai-Chau was the defendant in Suit No 477 of 2012 and the first defendant in Suit No 1015 of 2012.",
+          "evidence": "The judgment states at [1] and [7]: Linda was the defendant in S 477/2012 and the plaintiff in S 1015/2012 refers to her as the first defendant.",
+          "recommended_change": "Remove the unsupported phrase 'By 2012' and the extra description about transactions connected with Airtrust."
+        },
+        {
+          "path": "Party_Details.Facts[6].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In 2013, Linda Kao Chai-Chau applied in Suit No 477 of 2012 by Summons No 2990 of 2013 for leave to serve a third party notice against the estate of Peter Fong seeking an indemnity, and later sought to amend that notice to add a claim for contribution.",
+          "recommended_value": "",
+          "evidence": "This is litigation-stage procedural material: the judgment discusses summonses, appeals, and amendment applications at [8]-[12], which are beyond the Temporal Wall.",
+          "recommended_change": "Remove litigation filings and amendment applications."
+        },
+        {
+          "path": "Party_Details.Facts[7].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 2013-04-19, in Suit No 1015 of 2012, Linda Kao Chai-Chau commenced third party proceedings against the estate of Peter Fong seeking an indemnity in respect of claims brought by Airtrust (Singapore) Pte Ltd.",
+          "recommended_value": "",
+          "evidence": "The commencement of third party proceedings is procedural litigation-stage conduct discussed at [9]-[11].",
+          "recommended_change": "Remove procedural litigation conduct."
+        },
+        {
+          "path": "Party_Details.Facts[8].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 2013-08-26, an application was made on behalf of Linda Kao Chai-Chau to amend the third party notice in Suit No 477 of 2012 to include an alternative claim for contribution and to state that Peter Fong, as a director of Airtrust (Singapore) Pte Ltd, owed the same duties as she did.",
+          "recommended_value": "",
+          "evidence": "This is a procedural amendment application discussed at [32], which is litigation-stage material.",
+          "recommended_change": "Remove the amendment application and related litigation-stage assertions."
+        },
+        {
+          "path": "Party_Details.Facts[9].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 2013-09-02, Linda Kao Chai-Chau, through counsel, participated in a hearing of Registrar's Appeals No 246 of 2013 and No 247 of 2013 concerning her third party claims against the estate of Peter Fong.",
+          "recommended_value": "",
+          "evidence": "Hearing participation is procedural litigation-stage material discussed at [12].",
+          "recommended_change": "Remove hearing-stage material."
+        },
+        {
+          "path": "Party_Details.Facts[10].Text",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 2013-10-11, Linda Kao Chai-Chau, through counsel, made further submissions on legal questions relating to the effect of following instructions from a chairman who is said to be the controlling mind of a company.",
+          "recommended_value": "",
+          "evidence": "Further submissions are litigation-stage material discussed at [12].",
+          "recommended_change": "Remove submissions and court-argument material."
+        }
+      ],
+      "facts_to_remove": [
+        {
+          "path": "Party_Details.Facts[6]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "In 2013, Linda Kao Chai-Chau applied in Suit No 477 of 2012 by Summons No 2990 of 2013 for leave to serve a third party notice against the estate of Peter Fong seeking an indemnity, and later sought to amend that notice to add a claim for contribution.",
+          "evidence": "Procedural litigation-stage conduct at [8], [11], [32].",
+          "recommended_change": "Delete this fact."
+        },
+        {
+          "path": "Party_Details.Facts[7]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 2013-04-19, in Suit No 1015 of 2012, Linda Kao Chai-Chau commenced third party proceedings against the estate of Peter Fong seeking an indemnity in respect of claims brought by Airtrust (Singapore) Pte Ltd.",
+          "evidence": "Procedural litigation-stage conduct at [9]-[11].",
+          "recommended_change": "Delete this fact."
+        },
+        {
+          "path": "Party_Details.Facts[8]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 2013-08-26, an application was made on behalf of Linda Kao Chai-Chau to amend the third party notice in Suit No 477 of 2012 to include an alternative claim for contribution and to state that Peter Fong, as a director of Airtrust (Singapore) Pte Ltd, owed the same duties as she did.",
+          "evidence": "Procedural amendment application at [32].",
+          "recommended_change": "Delete this fact."
+        },
+        {
+          "path": "Party_Details.Facts[9]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 2013-09-02, Linda Kao Chai-Chau, through counsel, participated in a hearing of Registrar's Appeals No 246 of 2013 and No 247 of 2013 concerning her third party claims against the estate of Peter Fong.",
+          "evidence": "Hearing-stage material at [12].",
+          "recommended_change": "Delete this fact."
+        },
+        {
+          "path": "Party_Details.Facts[10]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "On 2013-10-11, Linda Kao Chai-Chau, through counsel, made further submissions on legal questions relating to the effect of following instructions from a chairman who is said to be the controlling mind of a company.",
+          "evidence": "Submissions and court-argument material at [12].",
+          "recommended_change": "Delete this fact."
+        }
+      ]
+    },
+    "applied_changes": {
+      "label_change": null,
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[0].Fact_Date",
+          "from": "1996-01-01",
+          "to": "1996"
+        },
+        {
+          "path": "Party_Details.Facts[1].Fact_Date",
+          "from": "1996-01-01",
+          "to": "1996-2012"
+        },
+        {
+          "path": "Party_Details.Facts[2].Text",
+          "from": "Between around 2000 and the date of the writ in Suit No 477 of 2012, transactions involving business opportunities from Chinese chemical companies were carried out in which Linda Kao Chai-Chau was involved, and these transactions later became the subject of claims in the derivative action.",
+          "to": "The claim for contribution was made in relation to one claim concerning alleged diversions of business opportunities from Chinese chemical companies, said to have taken place between 2000 and the date of the writ."
+        },
+        {
+          "path": "Party_Details.Facts[3].Text",
+          "from": "From around 2001, transactions involving business opportunities from another Chinese company were carried out in which Linda Kao Chai-Chau was involved, and these transactions later became the subject of claims in the derivative action.",
+          "to": "The claim for contribution was also sought in respect of alleged diversions from another Chinese company from around 2001."
+        },
+        {
+          "path": "Party_Details.Facts[4].Text",
+          "from": "Around 2002 and 2004, further transactions involving business opportunities were carried out in which Linda Kao Chai-Chau was involved, and these transactions later became the subject of claims in the derivative action.",
+          "to": "The third claim relates to acts occurring around 2002 and 2004."
+        },
+        {
+          "path": "Party_Details.Facts[5].Text",
+          "from": "By 2012, Linda Kao Chai-Chau was named as defendant in Suit No 477 of 2012 and as first defendant in Suit No 1015 of 2012 in relation to transactions connected with Airtrust (Singapore) Pte Ltd.",
+          "to": "Linda Kao Chai-Chau was the defendant in Suit No 477 of 2012 and the first defendant in Suit No 1015 of 2012."
+        },
+        {
+          "path": "Party_Details.Facts[6].Text",
+          "from": "In 2013, Linda Kao Chai-Chau applied in Suit No 477 of 2012 by Summons No 2990 of 2013 for leave to serve a third party notice against the estate of Peter Fong seeking an indemnity, and later sought to amend that notice to add a claim for contribution.",
+          "to": ""
+        },
+        {
+          "path": "Party_Details.Facts[7].Text",
+          "from": "On 2013-04-19, in Suit No 1015 of 2012, Linda Kao Chai-Chau commenced third party proceedings against the estate of Peter Fong seeking an indemnity in respect of claims brought by Airtrust (Singapore) Pte Ltd.",
+          "to": ""
+        },
+        {
+          "path": "Party_Details.Facts[8].Text",
+          "from": "On 2013-08-26, an application was made on behalf of Linda Kao Chai-Chau to amend the third party notice in Suit No 477 of 2012 to include an alternative claim for contribution and to state that Peter Fong, as a director of Airtrust (Singapore) Pte Ltd, owed the same duties as she did.",
+          "to": ""
+        },
+        {
+          "path": "Party_Details.Facts[9].Text",
+          "from": "On 2013-09-02, Linda Kao Chai-Chau, through counsel, participated in a hearing of Registrar's Appeals No 246 of 2013 and No 247 of 2013 concerning her third party claims against the estate of Peter Fong.",
+          "to": ""
+        },
+        {
+          "path": "Party_Details.Facts[10].Text",
+          "from": "On 2013-10-11, Linda Kao Chai-Chau, through counsel, made further submissions on legal questions relating to the effect of following instructions from a chairman who is said to be the controlling mind of a company.",
+          "to": ""
+        }
+      ],
+      "facts_removed": [
+        {
+          "path": "Party_Details.Facts[10]"
+        },
+        {
+          "path": "Party_Details.Facts[9]"
+        },
+        {
+          "path": "Party_Details.Facts[8]"
+        },
+        {
+          "path": "Party_Details.Facts[7]"
+        },
+        {
+          "path": "Party_Details.Facts[6]"
+        }
+      ]
+    }
+  },
+  {
+    "case_name": "Airtrust (Singapore) Pte Ltd v Kao Chai-Chau Linda and another suit",
+    "party": "Estate of Peter Fong",
+    "status": "CHANGED",
+    "audit_suggestion": {
+      "case_name": "Airtrust (Singapore) Pte Ltd v Kao Chai-Chau Linda and another suit",
+      "party": "Estate of Peter Fong",
+      "status": "CHANGES",
+      "label_change": null,
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[0].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "1996-01-01",
+          "recommended_value": "1996",
+          "evidence": "The judgment states that Linda was appointed as managing director of AT \"some time in 1996\" by PF.",
+          "recommended_change": "Replace the invented exact date with the year only."
+        },
+        {
+          "path": "Party_Details.Facts[1].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2006-01-01",
+          "recommended_value": "2006",
+          "evidence": "The judgment says that \"since 2006\" PF had transferred the majority of his shares to the Fong Foundation charitable trust.",
+          "recommended_change": "Replace the invented exact date with the year only."
+        },
+        {
+          "path": "Party_Details.Facts[2].Fact_Date",
+          "issue_type": "ACCURACY_ERROR",
+          "current_value": "2008-04-25",
+          "recommended_value": "2008-04-25",
+          "evidence": "The judgment states that PF passed away on 25 April 2008.",
+          "recommended_change": "No change needed to the date; however the fact should be narrowed to the source wording and not add unsupported role detail if not necessary."
+        },
+        {
+          "path": "Party_Details.Facts[3].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2013-01-01",
+          "recommended_value": "",
+          "evidence": "The fact refers to the estate being named as intended third party and as third party in the 2013 proceedings, which is litigation-stage procedural history.",
+          "recommended_change": "Remove this litigation-stage fact."
+        },
+        {
+          "path": "Party_Details.Facts[4].Fact_Date",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "2013-01-01",
+          "recommended_value": "",
+          "evidence": "The fact concerns the estate not filing applications or objections during the 2013 appeals, which is procedural litigation conduct and post-dispute material.",
+          "recommended_change": "Remove this procedural litigation fact."
+        }
+      ],
+      "facts_to_remove": [
+        {
+          "path": "Party_Details.Facts[3]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "By 2013, the estate of Peter Fong was named as the intended third party in Suit No 477 of 2012 and as third party in Suit No 1015 of 2012 in relation to potential indemnity or contribution claims by Linda Kao Chai-Chau.",
+          "evidence": "This is procedural litigation history from the 2013 third party proceedings and appeals.",
+          "recommended_change": "Delete this fact."
+        },
+        {
+          "path": "Party_Details.Facts[4]",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "Up to the time of the appeals in 2013, the estate of Peter Fong did not file applications to set aside the third party notices or to object to the commencement of third party proceedings in Suit No 477 of 2012 or Suit No 1015 of 2012.",
+          "evidence": "This is litigation-stage procedural conduct and not a neutral pre-dispute fact.",
+          "recommended_change": "Delete this fact."
+        },
+        {
+          "path": "Party_Details.Issue",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "Whether the estate of Peter Fong may bear responsibility, alongside Linda Kao Chai-Chau, in respect of any loss suffered by Airtrust (Singapore) Pte Ltd from the transactions in issue, such that contribution or indemnity between them is available.",
+          "evidence": "This frames the legal issue in the appeal and reflects litigation-stage material.",
+          "recommended_change": "Delete this litigation-stage issue summary."
+        },
+        {
+          "path": "Party_Details.Rule",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "If more than one person is legally responsible in respect of the same damage suffered by a company, statutory contribution provisions allow one such person to seek contribution from another, and third party procedures enable these questions to be determined within the same proceedings.",
+          "evidence": "This is court-level legal reasoning and procedural doctrine from the judgment.",
+          "recommended_change": "Delete this judgment-stage rule summary."
+        },
+        {
+          "path": "Party_Details.Application",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "The estate of Peter Fong is joined or intended to be joined as a third party in Suit No 477 of 2012 and Suit No 1015 of 2012 so that, if both Peter Fong and Linda Kao Chai-Chau are ultimately found responsible in respect of the same loss to Airtrust (Singapore) Pte Ltd, the allocation of that loss between them can be addressed through contribution or indemnity within those suits.",
+          "evidence": "This describes the litigation application and its purpose, which is post-dispute procedural material.",
+          "recommended_change": "Delete this litigation-stage application summary."
+        },
+        {
+          "path": "Party_Details.Judicial_Reasoning_Log",
+          "issue_type": "TEMPORAL_WALL_LEAKAGE",
+          "current_value": "The judgment notes that the estate of Peter Fong, though separately represented, did not participate in the applications to set aside or oppose the third party proceedings. The court considers whether, on the assumed facts, Peter Fong could be responsible in respect of the same damage as Linda Kao Chai-Chau, and concludes that this is a realistic possibility. The court reasons that if both the managing director and the Chairman caused loss to Airtrust (Singapore) Pte Ltd through the transactions in question, statutory contribution between them may arise. The court therefore permits the third party proceedings against the estate of Peter Fong to continue and allows amendments to the third party notices, leaving the determination of any responsibility of the estate and any contribution to the trial court after full evidence is heard.",
+          "evidence": "This is entirely judgment reasoning and outcome material.",
+          "recommended_change": "Delete this entire reasoning log."
+        }
+      ]
+    },
+    "applied_changes": {
+      "label_change": null,
+      "fact_changes": [
+        {
+          "path": "Party_Details.Facts[0].Fact_Date",
+          "from": "1996-01-01",
+          "to": "1996"
+        },
+        {
+          "path": "Party_Details.Facts[1].Fact_Date",
+          "from": "2006-01-01",
+          "to": "2006"
+        },
+        {
+          "path": "Party_Details.Facts[3].Fact_Date",
+          "from": "2013-01-01",
+          "to": ""
+        },
+        {
+          "path": "Party_Details.Facts[4].Fact_Date",
+          "from": "2013-01-01",
+          "to": ""
+        }
+      ],
+      "facts_removed": [
+        {
+          "path": "Party_Details.Facts[4]"
+        },
+        {
+          "path": "Party_Details.Facts[3]"
+        }
+      ]
+    }
+  }
+]
