@@ -1,0 +1,244 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 320 of 2015",
+      "Coram": "High Court — Suit No 320 of 2015",
+      "Judge": "Audrey Lim JC",
+      "Date": "2017-07-11",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Bamian Investments Pte Ltd",
+      "Law_Firm": "Lee & Lee",
+      "Counsel": [
+        "Gan Theng Chong",
+        "Yik Shu Ying"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2014-01-01",
+          "Text": "In 2014, Bamian Investments Pte Ltd held an 81.4% shareholding in Guangzhou Mayer Corporation Limited."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2014-01-01",
+          "Text": "Mayer Holdings Limited wholly owned Bamian Investments Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2014-01-01",
+          "Text": "Mayer Corporation Development International Limited held 21.56% of the shares in Mayer Holdings Limited."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2014-01-01",
+          "Text": "Mayer Steel Pipe Corporation indirectly owned 21.56% of Mayer Holdings Limited through its shareholding in Mayer Corporation Development International Limited."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2002-05-01",
+          "Text": "Around May or June 2002, Guangzhou Mayer Metal Corporation became a sino-foreign equity joint venture enterprise and the plaintiff's shareholding in it was reduced from 100% to 77.52% under a joint venture contract with six minority shareholders."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2002-05-01",
+          "Text": "Around May or June 2002, a joint venture contract for Guangzhou Mayer Metal Corporation named Wu Kuo-Lung as the plaintiff's legal representative in Guangzhou Mayer Metal Corporation and provided that its board would comprise five directors appointed by the plaintiff and one appointed by WHI Limited."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2002-10-01",
+          "Text": "In around October 2002, Guangzhou Mayer Metal Corporation was reincorporated as Guangzhou Mayer Corporation Limited under an agreement that appointed Wu Kuo-Lung as the plaintiff's legal representative in Guangzhou Mayer Corporation Limited."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2002-10-01",
+          "Text": "In around October 2002, the plaintiff's shareholding in Guangzhou Mayer Corporation Limited increased to 81.4% and WHI Limited held 6.4% of the shares."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2002-10-01",
+          "Text": "In around October 2002, the plaintiff and WHI jointly nominated Lo, Wu and four others as members of the first board of directors of GMayer for a term of three years."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1997-01-15",
+          "Text": "Lo Haw and Wu Kuo-Lung were concurrently directors of the plaintiff from 15 January 1997 until they were removed from their respective positions on 31 December 2014."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1997-01-15",
+          "Text": "When GMayer Metal was incorporated, the plaintiff appointed Lo and Wu as GMayer Metal's directors."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1997-01-15",
+          "Text": "The plaintiff also issued a letter of authorisation to authorise Wu to sign on all documents relating to the shareholders' meeting of GMayer on the plaintiff's behalf."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2014-04-23",
+          "Text": "On 23 April 2014, the board of directors of Bamian Investments Pte Ltd passed a resolution to take legal action to protect its rights in response to Guangzhou Mayer Corporation Limited's failure to cooperate with audit requirements."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-04-30",
+          "Text": "On 30 April 2014, the plaintiff's lawyers wrote to GMayer to inform it to cooperate and assist Mayer HK's auditors with the annual audit."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2014-10-09",
+          "Text": "Around 9 October 2014, a new board was constituted in Mayer HK, with Lee appointed as a director."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2014-12-31",
+          "Text": "On 31 December 2014, Mayer HK removed Lo and Wu as the plaintiff's directors and appointed Lee (among others) as its director."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-01",
+          "Text": "From 2013, Mayer HK started facing problems with GMayer. Primarily it was unable to obtain the cooperation of GMayer's management to conduct an annual audit of GMayer, despite numerous attempts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-05-30",
+          "Text": "On 30 May 2014, GMayer held a general meeting of shareholders in Guangzhou, China, and a resolution to amend the Articles was passed."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-05-30",
+          "Text": "On 30 May 2014, the First Resolution amended Articles 61, 66, 41, 92.viii.b and 92.viii.c of GMayer's Articles."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-09-30",
+          "Text": "On 30 September 2014, GMayer held a general meeting of shareholders in Guangzhou, China, and the Second Resolution was passed."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-09-30",
+          "Text": "On 30 September 2014, the Second Resolution amended Article 20, approved the transfer of 1.16% and 0.19% shareholdings to Jiangsu Wuzhong Industrial Co Ltd, extended directors' terms from three to five years, and stated that shareholders other than the transfer parties would be deemed to have given up pre-emption rights."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-10-01",
+          "Text": "Around October 2014, the plaintiff and Mayer HK again sought GMayer's cooperation to enable the plaintiff to fulfil its audit requirements but to no avail."
+        }
+      ],
+      "Issue": "Whether actions taken by directors of Bamian Investments Pte Ltd in relation to amendments of Guangzhou Mayer Corporation Limited's Articles of Association and conduct of its 2014 shareholder meetings altered Bamian Investments Pte Ltd's ability to control board composition, voting thresholds, and financial transactions.",
+      "Rule": "Directors are generally manage a company in accordance with its constitutional documents and applicable company law, including observing procedural requirements for shareholder meetings and considering the impact of corporate actions on the company's shareholding position and governance rights.",
+      "Application": "Amendments to Guangzhou Mayer Corporation Limited's Articles of Association in 2014 changed voting thresholds for special resolutions and director elections, required shareholder meetings to be held at the company's premises, expanded the board's authority over investments and related transactions, allowed board-approved financial assistance for share acquisitions, and extended directors' terms, while Bamian Investments Pte Ltd held 81.4% of the shares and did not record receipt of notices of the 2014 shareholder meetings.",
+      "Judicial_Reasoning_Log": "The court analysed the roles and conduct of Lo Haw and Wu Kuo-Lung in relation to the 2014 shareholder meetings and resolutions of Guangzhou Mayer Corporation Limited, including findings that Lo initiated and drove the amendments to the Articles, controlled the convening and conduct of the meetings, and used authorisation documents that did not comply with the Articles' proxy requirements. The judgment concluded that the amendments to Articles 41, 61, 66, 92 and 20 enhanced the control of Guangzhou Mayer Corporation Limited's board and entrenched Lo's position while diminishing Bamian Investments Pte Ltd's ability to control board composition and oversee significant transactions. The court applied statutory and common law director duties, including the duty to act bona fide in the interests of the company, the duty of loyalty, and conflict of interest principles, and held that Lo subordinated the plaintiff's interests to those of Guangzhou Mayer Corporation Limited and his own. The court also held that Lo had a duty to inform the plaintiff of proposed resolutions that would adversely affect its position and that he failed to do so. On this basis, the court declared that Lo had breached his duties as a director of the plaintiff and awarded costs to the plaintiff, noting that the primary relief was declaratory and that the plaintiff had succeeded on liability."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 320 of 2015",
+      "Coram": "High Court — Suit No 320 of 2015",
+      "Judge": "Audrey Lim JC",
+      "Date": "2017-07-11",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lo Haw",
+      "Law_Firm": "Robert Wang & Woo LLP",
+      "Counsel": [
+        "Woo Tchi Chu",
+        "Lim Rui Cong Roy"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1995",
+          "Text": "In 1995, Lo Haw joined Mayer Steel Pipe Corporation in Taiwan as an administration specialist."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "1972",
+          "Text": "In 1972, Mayer Steel Pipe Corporation was acquired by Lo Haw's father and Wu Kuo-Lung, with Lo's father becoming chairman and Wu becoming general manager."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996",
+          "Text": "In 1996, Lo Haw and Shen Heng-Chiang travelled to Guangzhou, China to set up a steel pipe manufacturing plant owned by a Guangzhou entity later known as Guangzhou Mayer Corporation Limited."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1997",
+          "Text": "From 15 January 1997, Lo Haw served as a director and vice chairman of Guangzhou Mayer Metal Corporation."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1997",
+          "Text": "From 15 January 1997, Lo Haw served as a director of Bamian Investments Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Around October 2002, following reincorporation of Guangzhou Mayer Metal Corporation as Guangzhou Mayer Corporation Limited, Lo Haw became chairman of Guangzhou Mayer Corporation Limited while remaining a director."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "",
+          "Text": "Around May 2002, WHI Limited, a company 49% owned by Lo Haw, acquired a 6.4% shareholding in Guangzhou Mayer Metal Corporation as a minority shareholder."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2006",
+          "Text": "In 2006, WHI Limited nominated Lo Haw as its representative director on the board of Guangzhou Mayer Corporation Limited."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010",
+          "Text": "In 2010, WHI Limited again nominated Lo Haw as its representative director on the board of Guangzhou Mayer Corporation Limited."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Around 2004, Mayer Steel Pipe Corporation decided to list Guangzhou Mayer Corporation Limited on the Hong Kong Stock Exchange through Mayer Holdings Limited, and Lo Haw was involved in this restructuring."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013",
+          "Text": "By 2004, Lo Haw was a director of Mayer Steel Pipe Corporation and later held the title of administration specialist to preserve pension entitlements after he was not re-elected as a director in 2013."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "Around 2012, Lo Haw's relationship with the Huang family, the largest shareholder group in Mayer Steel Pipe Corporation, deteriorated and he was not re-elected as a director of Mayer Steel Pipe Corporation in 2013."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "On 30 May 2014, at a general meeting of shareholders of Guangzhou Mayer Corporation Limited, Lo Haw presided as chairman and signed the resolution amending the Articles of Association as representative for Bamian Investments Pte Ltd based on the earlier letter of authorisation from Wu Kuo-Lung."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "After the 30 September 2014 shareholders' meeting of Guangzhou Mayer Corporation Limited, Shen Heng-Chiang brought the signed resolution to Wu Kuo-Lung's home in Taiwan for Wu to sign as representative of Bamian Investments Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "By July 2014, a Hong Kong court judgment and subsequent dismissal of an appeal resulted in Bumper East Ltd and Aspial Investment Ltd being recognised as entitled to 21.56% of Mayer Holdings Limited's shares previously held by Mayer Corporation Development International Limited."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-08-19",
+          "Text": "On 19 August 2014, Mayer Corporation Development International Limited transferred its 21.56% shareholding in Mayer Holdings Limited to Bumper East Ltd and Aspial Investment Ltd."
+        }
+      ],
+      "Issue": "Whether conduct by Lo Haw in initiating and implementing amendments to Guangzhou Mayer Corporation Limited's Articles of Association and in using authorisation arrangements for shareholder meetings altered governance and control in a way that conflicted with Bamian Investments Pte Ltd's position as majority shareholder.",
+      "Rule": "Company directors are generally manage each company in which they hold office as a separate legal entity, to avoid situations where their actions for one company place them in conflict with the governance position or interests of another company they serve, and to observe internal corporate procedures for shareholder meetings and proxy authorisations.",
+      "Application": "While serving as chairman and a director of Guangzhou Mayer Corporation Limited and as a director of Bamian Investments Pte Ltd, Lo Haw participated in preparing and passing 2014 resolutions that changed voting thresholds, meeting locations, director term lengths, and board authority over investments and financial assistance, and he used a proxy authorisation from Wu Kuo-Lung that did not record specific voting instructions or a date, in circumstances where Bamian Investments Pte Ltd held 81.4% of Guangzhou Mayer Corporation Limited's shares and did not record receiving notices of the meetings.",
+      "Judicial_Reasoning_Log": "The court evaluated detailed evidence about Lo Haw’s role in conceiving, drafting, and implementing the 2014 amendments to Guangzhou Mayer Corporation Limited’s Articles of Association and his use of proxy arrangements. It rejected his account that the amendments were primarily directed by Wu Kuo-Lung and found that Lo was the primary actor who instructed preparation of the draft amendments, understood their effects, and drove the process at both shareholder meetings. The court found that the amendments to Articles 41, 61, 66, 92 and 20 entrenched the board’s and Lo’s control and reduced Bamian Investments Pte Ltd’s ability to control director appointments, removals, and significant transactions. Applying statutory and common law duties, including the duty to act bona fide in the interests of the company, the duty of loyalty, and conflict of interest principles, the court held that Lo preferred the interests of Guangzhou Mayer Corporation Limited and his own position over those of Bamian Investments Pte Ltd. The court also held that Lo had a duty to inform Bamian Investments Pte Ltd of proposed resolutions that would adversely affect its governance position and that he failed to do so. On this basis, the court concluded that Lo breached his duties as a director of Bamian Investments Pte Ltd and granted declaratory relief and costs against him."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  }
+]

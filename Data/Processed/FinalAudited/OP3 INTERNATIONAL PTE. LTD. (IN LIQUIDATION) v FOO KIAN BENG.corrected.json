@@ -1,0 +1,238 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 152 of 2021",
+      "Coram": "Hoo Sheau Peng J",
+      "Judge": "Hoo Sheau Peng",
+      "Date": "2022-09-15",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "OP3 International Pte Ltd (in liquidation)",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2006-12-20",
+          "Text": "OP3 International Pte Ltd was incorporated on 20 December 2006 to engage in interior design, decorating consultancy and construction activities."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-08-01",
+          "Text": "From 1 August 2010, OP3 International Pte Ltd had Mr Foo Kian Beng as its sole director and he was employed as its managing director."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-04-03",
+          "Text": "On 3 April 2020, OP3 International Pte Ltd was wound up pursuant to a court order obtained by Smile Inc Dental Surgeons Pte Ltd based on a judgment debt in HC/S 498/2015."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-07-19",
+          "Text": "On 19 July 2013, OP3 International Pte Ltd entered into an agreement with Smile Inc Dental Surgeons Pte Ltd under which OP3 was to provide fitting out works, including design and construction, at Smile Inc's clinic at Suntec City Mall for a contract price of S$158,010, with half payable upon execution and the balance upon completion of the works."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-09",
+          "Text": "On 9 January 2014, mould was discovered on the walls of Smile Inc's clinic at Suntec City Mall following a flood in the clinic."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-17",
+          "Text": "By 17 January 2014, OP3 International Pte Ltd carried out and completed remedial and rectification works at Smile Inc's clinic following the first flood."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-07-21",
+          "Text": "On 21 July 2014, mould was again discovered on the walls of Smile Inc's clinic at Suntec City Mall following a second flood in the clinic, and rectification works were carried out by a third party."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-05-22",
+          "Text": "On 22 May 2015, Smile Inc Dental Surgeons Pte Ltd commenced HC/S 498/2015 against OP3 International Pte Ltd seeking S$1,807,626."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-12-10",
+          "Text": "On 10 December 2015, OP3 International Pte Ltd passed a resolution declaring S$1,200,000 in dividends for the financial year 2012 in favour of Mr Foo Kian Beng."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-12-11",
+          "Text": "On 11 December 2015, OP3 International Pte Ltd paid S$1,200,000 in dividends for the financial year 2012 to Mr Foo Kian Beng."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-12-10",
+          "Text": "On 10 December 2015, OP3 International Pte Ltd passed a resolution declaring S$700,000 in dividends for the financial year 2014 in favour of Mr Foo Kian Beng."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-12-11",
+          "Text": "On 11 December 2015, OP3 International Pte Ltd paid S$700,000 in dividends for the financial year 2014 to Mr Foo Kian Beng."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-12-11",
+          "Text": "On 11 December 2015, OP3 International Pte Ltd repaid S$138,352 to Mr Foo Kian Beng as moneys owing to him."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-12-31",
+          "Text": "As at 31 December 2015, OP3 International Pte Ltd's financial statements recorded net assets of S$1,136,982 after correcting an earlier error in recording a S$400,000 dividend, and cash and cash equivalents of S$1,551,604 including a bank balance of S$1,289,216.30."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-12-31",
+          "Text": "As at 31 December 2015, invoices due and payable by OP3 International Pte Ltd totalled S$941,224.81, with additional invoices amounting to S$456,349.12 that had no specified due dates."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-07-08",
+          "Text": "On 8 July 2016, OP3 International Pte Ltd passed a resolution declaring S$400,000 in dividends for the financial year 2015 in favour of Mr Foo Kian Beng."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-07-13",
+          "Text": "On 13 July 2016, OP3 International Pte Ltd paid S$400,000 in dividends for the financial year 2015 to Mr Foo Kian Beng."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-12-27",
+          "Text": "On 27 December 2016, OP3 International Pte Ltd resolved to declare S$500,000 in dividends for 2015."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-12-31",
+          "Text": "As at 31 December 2016, OP3 International Pte Ltd's audited financial statements recorded net assets of S$157,683 and a net loss for the year of S$72,299."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-01-01",
+          "Text": "In 2017, OP3 International Pte Ltd made repayments totalling S$682,394 to Mr Foo Kian Beng in respect of amounts recorded as due to him."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-12-31",
+          "Text": "The audit report on OP3 International Pte Ltd's financial statements for the year ended 31 December 2017 stated that there was significant doubt about the company's ability to continue as a going concern."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-12-31",
+          "Text": "For the financial year ended 31 December 2016, OP3 International Pte Ltd recorded revenue of S$1,343,323, representing an 87.6% decrease from its 2015 revenue."
+        }
+      ],
+      "Issue": "Whether, given OP3 International Pte Ltd's financial position and the contingent exposure from HC/S 498/2015 as at and after 25 May 2015, the declaration and payment of dividends and the repayment of moneys to its director affected the availability of assets to meet creditor claims.",
+      "Rule": "Under Singapore company law, when a company is insolvent or in a financially precarious condition, directors are take into account the interests of creditors when deciding on transactions that distribute or apply company assets, including dividends and repayments to insiders.",
+      "Application": "OP3 International Pte Ltd entered into a contract with Smile Inc Dental Surgeons Pte Ltd in July 2013 and, after two flooding incidents at the clinic in 2014, received a letter of demand in August 2014 and was served with a writ in HC/S 498/2015 on 25 May 2015 for S$1,807,626. After service of the writ, OP3 International Pte Ltd declared and paid dividends totalling S$1,900,000 to its sole director in December 2015 and repaid S$138,352 to him, while its 2015 year-end accounts showed net assets of S$1,136,982 and cash and cash equivalents of S$1,551,604. In 2016, OP3 International Pte Ltd declared and paid further dividends of S$400,000 and resolved to declare S$500,000 more, during a period when its annual revenue fell from S$10,834,505 in 2015 to S$1,343,323 in 2016 and its audited 2016 financial statements later recorded net assets of S$157,683 and a net loss of S$72,299. In 2017, OP3 International Pte Ltd repaid S$682,394 to its director while its 2017 audited financial statements later recorded negative net assets of S$545,568. These transactions reduced the company's asset base during the period when the claim in HC/S 498/2015 was pending and before the company was wound up on 3 April 2020 on the basis of the resulting judgment debt.",
+      "Judicial_Reasoning_Log": "The judge analysed when the director's duty to consider creditor interests arises, holding that it is triggered when a company is financially parlous, not only when it is on the verge of insolvency. The court rejected the use of hindsight to assess contingent liabilities and applied the test of whether a contingent liability was reasonably likely to materialise based on information available at the material time. For HC/S 498/2015, the court found that as at 25 May 2015 some liability was reasonably likely to materialise and that a contingent liability in the range of S$441,000 to S$514,500 should have been taken into account. The court rejected the plaintiff's higher figures of S$1,542,206 and S$534,189 as the appropriate contingent values and also rejected the defendant's position that no provision was needed. On solvency, the court held that OP3 was solvent and not financially parlous as at 31 December 2015, but that it was insolvent on a balance sheet basis by 31 December 2016 and clearly insolvent by 31 December 2017. The court found that the December 2015 dividends and the December 2015 repayment of S$138,352 were not made when OP3 was insolvent or financially parlous and therefore did not constitute a breach of duty. However, the court held that by late December 2016 OP3 was insolvent and that the director then owed a duty to consider creditor interests. The court concluded that the director did not properly discharge this duty in declaring and paying the S$500,000 dividend for 2015, because his reliance on legal, technical and accounting advice was either misplaced or based on incorrect assumptions about the need to provide for the contingent liability from HC/S 498/2015. The court also found that the 2017 repayment of S$682,394 to the director was a separate transaction from the S$500,000 dividend and that there was no double counting. Given OP3's insolvency at the end of 2016, the court held that the director failed to act bona fide in the interests of the company and its creditors by procuring repayment of S$682,394 to himself in preference to other creditors. The court rejected the allegation of diversion of business to OP3 Creative Pte Ltd, noting the absence of specific diverted contracts or identified opportunities and finding that the mere association of email and website details and the drop in revenue were insufficient to prove diversion. The court also declined to grant relief under section 391 of the Companies Act, finding that the director had not shown that he acted both honestly and reasonably in relation to the impugned dividend and repayment transactions. OP3's claim was therefore allowed in part, limited to the S$500,000 dividend declared in late 2016 and the S$682,394 repayment in 2017, with the remainder of the claims dismissed."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 152 of 2021",
+      "Coram": "Hoo Sheau Peng J",
+      "Judge": "Hoo Sheau Peng",
+      "Date": "2022-09-15",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Foo Kian Beng",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-08-01",
+          "Text": "From 1 August 2010, Foo Kian Beng was the sole director of OP3 International Pte Ltd and was employed as its managing director."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-05-04",
+          "Text": "On 4 May 2010, OP3 Creative Pte Ltd was incorporated to carry out activities including manufacturing of carpentry and other construction works, and Foo Kian Beng was its sole director and shareholder."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-07-19",
+          "Text": "On 19 July 2013, as director of OP3 International Pte Ltd, Foo Kian Beng caused OP3 to enter into a contract with Smile Inc Dental Surgeons Pte Ltd for fitting out works at Smile Inc's clinic at Suntec City Mall for S$158,010."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-17",
+          "Text": "By 17 January 2014, under the direction of Foo Kian Beng, OP3 International Pte Ltd carried out and completed remedial and rectification works at Smile Inc's clinic following the first flood."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-12-15",
+          "Text": "On 15 December 2015, Parwani Law LLC sent an email to Foo Kian Beng updating him on HC/S 498/2015 and stating that OP3 International Pte Ltd had a strong defence."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-12-10",
+          "Text": "On 10 December 2015, acting as sole director, Foo Kian Beng approved a resolution for OP3 International Pte Ltd to declare S$1,200,000 in dividends for the financial year 2012 in his favour."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-12-11",
+          "Text": "On 11 December 2015, OP3 International Pte Ltd paid S$1,200,000 in dividends for the financial year 2012 to Foo Kian Beng."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-12-10",
+          "Text": "On 10 December 2015, acting as sole director, Foo Kian Beng approved a resolution for OP3 International Pte Ltd to declare S$700,000 in dividends for the financial year 2014 in his favour."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-12-11",
+          "Text": "On 11 December 2015, OP3 International Pte Ltd paid S$700,000 in dividends for the financial year 2014 to Foo Kian Beng."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-12-11",
+          "Text": "On 11 December 2015, OP3 International Pte Ltd repaid S$138,352 to Foo Kian Beng in respect of amounts recorded as owing to him."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-07-08",
+          "Text": "On 8 July 2016, acting as sole director, Foo Kian Beng approved a resolution for OP3 International Pte Ltd to declare S$400,000 in dividends for the financial year 2015 in his favour."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-07-13",
+          "Text": "On 13 July 2016, OP3 International Pte Ltd paid S$400,000 in dividends for the financial year 2015 to Foo Kian Beng."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-12-27",
+          "Text": "On 27 December 2016, acting as sole director, Foo Kian Beng approved a resolution for OP3 International Pte Ltd to declare S$500,000 in dividends for the financial year 2015 in his favour."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-07-01",
+          "Text": "Around 2016, Foo Kian Beng obtained an expert report from Dr Chee Yan Pong regarding the design and construction of the drainage system at Smile Inc's clinic for use in HC/S 498/2015."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-12-01",
+          "Text": "Around late 2016, Foo Kian Beng consulted auditor Wong King Kheng informally on the accounting treatment of the claim in HC/S 498/2015 and the financial position of OP3 International Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-01-01",
+          "Text": "In 2017, OP3 International Pte Ltd made repayments totalling S$682,394 to Foo Kian Beng in respect of amounts recorded as due to him."
+        }
+      ],
+      "Issue": "Whether, in light of OP3 International Pte Ltd's financial condition and the pending claim in HC/S 498/2015, the decisions by Foo Kian Beng to cause OP3 to declare and pay dividends to him and to repay amounts due to him were consistent with the expected standard of director conduct when creditor interests may be affected.",
+      "Rule": "Directors of a company are act in the interests of the company, and when the company is insolvent or in a financially precarious position, this includes taking creditor interests into account when authorising distributions or repayments to themselves. A director's conduct is assessed by whether he honestly believed the transaction was in the company's interests and whether an objective director in his position could reasonably hold that view.",
+      "Application": "As sole director and managing director of OP3 International Pte Ltd, Foo Kian Beng controlled decisions on dividends and repayments while HC/S 498/2015 by Smile Inc Dental Surgeons Pte Ltd was pending. After receiving a letter of demand in August 2014 and service of the writ in May 2015 for S$1,807,626, he consulted Parwani Law LLC and was told in December 2015 that OP3 had a strong defence. In December 2015, he caused OP3 to declare and pay S$1,900,000 in dividends for prior years and to repay S$138,352 to himself at a time when OP3's year-end 2015 accounts later showed positive net assets and substantial cash balances. In July and December 2016, he caused OP3 to declare and pay further dividends of S$400,000 and to declare S$500,000, while OP3's revenue for 2016 later proved significantly lower than in 2015 and its audited 2016 accounts later showed modest net assets and a net loss. In 2017, he caused OP3 to repay S$682,394 to himself while the company later recorded negative net assets by year-end 2017. He obtained legal and expert input on the underlying construction dispute and informal accounting input on the treatment of the claim, and he relied on these when deciding not to treat the claim as requiring a provision in the accounts. The timing and amounts of the distributions and repayments reduced OP3's assets during the period when the claim in HC/S 498/2015 remained unresolved and before the company was wound up on the basis of the resulting judgment debt.",
+      "Judicial_Reasoning_Log": "The court accepted that Foo Kian Beng was the sole director and managing director of OP3 International Pte Ltd from 1 August 2010 to 3 April 2020 and that he controlled the impugned transactions. The judge held that the duty to consider creditor interests arises when a company is financially parlous, not only when it is technically insolvent or on the verge of insolvency. Applying this framework, the court examined OP3's financial position at the end of 2015, 2016 and 2017 and the contingent liability from HC/S 498/2015. The court found that as at 25 May 2015, some liability from HC/S 498/2015 was reasonably likely to materialise and that an objective assessment required a contingent liability in the range of S$441,000 to S$514,500 to be recognised. The court rejected Foo Kian Beng's primary position that no contingent liability should be recognised and his reliance on accounting standards to avoid provision. On solvency, the court held that OP3 was solvent and not financially parlous as at 31 December 2015, so the December 2015 dividends and the S$138,352 repayment did not involve a breach of duty. However, the court concluded that OP3 was insolvent on a balance sheet basis by 31 December 2016 and clearly insolvent by 31 December 2017. In relation to the S$500,000 dividend declared on 27 December 2016, the court held that by that time Foo Kian Beng was required to consider creditor interests. The court found that his reliance on legal advice from Parwani Law LLC and on the expert report of Dr Chee Yan Pong was insufficient to justify treating the HC/S 498/2015 claim as having no meaningful likelihood of liability, and that his informal consultation with auditor Wong King Kheng was based on the incorrect assumption that no provision for the contingent liability was needed. The court therefore held that causing OP3 to declare and pay the S$500,000 dividend in these circumstances was not consistent with acting bona fide in the interests of the company and its creditors. Regarding the S$682,394 repaid in 2017, the court rejected Foo Kian Beng's argument that this amount included the S$500,000 dividend and that there was double counting, preferring the audited 2016 and 2017 cash flow statements which treated the S$500,000 dividend and the S$682,394 repayment as separate items. Given OP3's insolvency by the end of 2016, the court held that causing OP3 to repay S$682,394 to him in 2017, without any legitimate justification for preferring his position over other creditors, amounted to a misapplication of company assets to the prejudice of creditors and a breach of his duty to act in the company's and creditors' interests. The court rejected the allegation that he diverted business from OP3 to OP3 Creative Pte Ltd, noting the absence of specific diverted contracts or identified opportunities and finding that the association of email and website details and the revenue decline did not prove diversion. On relief under section 391 of the Companies Act, the court held that Foo Kian Beng had not shown that he acted both honestly and reasonably in relation to the S$500,000 dividend and the S$682,394 repayment, and it declined to excuse him. The court therefore held him liable in respect of those two transactions while dismissing the remainder of the claims."
+    },
+    "Label": "Partially Liable",
+    "Leakage_Score": 1
+  }
+]

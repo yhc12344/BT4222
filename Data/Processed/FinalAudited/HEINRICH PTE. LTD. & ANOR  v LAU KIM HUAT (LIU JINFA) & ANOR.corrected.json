@@ -1,0 +1,555 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 770 of 2013",
+      "Coram": "Aedit Abdullah JC",
+      "Judge": "Aedit Abdullah",
+      "Date": "2016-06-21",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Heinrich Pte Ltd",
+      "Law_Firm": "Shenton Law Practice LLP",
+      "Counsel": [
+        "Decruz Martin Francis"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2006-01-01",
+          "Text": "Heinrich Pte Ltd was established in 2006 following a proposal made by Lau to Kor Yong Koo."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2006-10-18",
+          "Text": "A written joint venture agreement dated 18 October 2006 described an interest-free shareholders' loan of S$300,000 from Kor Yong Koo to Heinrich for working capital, to be spread out over 24 months commencing on 15 October 2006."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-04-01",
+          "Text": "In April 2009, some of the loans were capitalised into share capital to pay for allotment of shares to Lau Kim Huat and Kor Yong Koo, reducing the amount outstanding."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2009-04-01",
+          "Text": "A directors' resolution in April 2009 approved capitalisation of loan amounts into share capital in Heinrich, resulting in the issue of 29,999 shares to Lau Kim Huat, bringing his shareholding to 30,000 shares, or 10% of the share capital."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-10-18",
+          "Text": "Heinrich's general ledgers showed payments totalling some S$494,066.63 in the three-year period between 18 October 2006 and 18 October 2009, which were listed as payments out to Lau Kim Huat."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2006-01-01",
+          "Text": "The business of Macmacor was purchased in 2006 by Kor Yong Koo."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Macmacor was in fact profitable in the first year after the acquisition, but the business was short of funds."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Around 2006, Macmacor was short of funds to increase its stocks and sales, though business was good."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Around 2006, sales of Macmacor were close to S$1 million a year."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2006-01-01",
+          "Text": "Heinrich was established in 2006 following a proposal made by Lau, Lim and Yasmin to start a business providing container lashing."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "The transhipments involved items purchased from companies in the United Kingdom and the United States by JHY, which were delivered to Heinrich's warehouse and then exported by JHY to Li's company in China."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Lau made arrangements for transhipments of various items for the benefit of Li, and courier transactions were arranged by Lau for the benefit of Li, using Heinrich's resources."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Lau, at the request of Li or Li's company in China, sourced products and arranged for such products or samples to be sent to China."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "The ropes were unwanted ropes; once they were sold, Lau arranged for payments by Heinrich to JHY within a short period of time, and the ropes were later sold to other buyers."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-01-01",
+          "Text": "One rope was sold to Transvictory Marine and Offshore Pte Ltd for S$4,500 of profit; another rope was sold to PT Bumi Aranda for about S$1,000 of profit."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-01-01",
+          "Text": "The other seven coils of rope were sold to Impa Marine Pte Ltd in two transactions."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Lau signed the payment vouchers and encashed the cheques himself; the payment vouchers stated that payment was made in cash to 'Ah Siong'."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2006-01-01",
+          "Text": "Ah Siong was one of the employees of Heinrich, one Lin Yong Siang."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "A payment voucher for the ropes prepared by Lau described the ropes as coming from a 'scrap supplier'."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Lau had used Heinrich's money to pay for courier charges for Li's benefit, arranging the shipment of personal effects for Li."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Lau exposed Heinrich to legal consequences by making a false or untrue declaration in an import permit for the benefit of Li."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-01-01",
+          "Text": "The previously strong relationship between Kor and Lau became bad in 2012, causing Lau to look for alternatives; it was at that point that he and Li decided to team up."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Lau had also prepared for his subsequent directorship and role at Hai Yuan Marine and Offshore Equipment Pte Ltd by printing name cards and arranging GST registration for Hai Yuan while still being employed at Heinrich."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Lau had also allegedly misappropriated confidential information, indicating an intention to divert business from Heinrich."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "In 2013, Lau left Heinrich and set up a new company with Li."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct and financial arrangements, the defendants' use of Heinrich Pte Ltd's funds, facilities, staff time and transactional structures resulted in uncompensated use of Heinrich's resources or financial shortfall under the 2006 joint venture loan and Macmacor acquisition.",
+      "Rule": "Directors and related parties are generally manage company funds and resources in accordance with agreed financing terms, to document and account for transactions involving company assets, and to ensure that third parties who use company facilities or staff time provide appropriate value or reimbursement.",
+      "Application": "The 2006 joint venture agreement fixed an interest-free loan framework of S$300,000 with a three-year reference period and specified percentage responsibilities for named individuals if the loan remained outstanding. Heinrich's ledgers recorded more than S$300,000 in payments credited to or for the account of Lau Kim Huat within that three-year window, and a directors' resolution in April 2009 capitalised loan amounts into share capital, issuing 29,999 shares to Lau and bringing his stake to 10%. In parallel, Heinrich's warehouse, forklifts, employees and freight forwarder were used over several years to handle ropes and other goods connected with JHY Marine and Offshore Equipment Pte Ltd and Li Cunkou, and Heinrich funds were used for courier and transhipment activities. Some of these activities generated identifiable profits for Heinrich, such as profits on rope sales to Transvictory Marine and Offshore Pte Ltd and PT Bumi Aranda, and resale profits by Impa Marine Pte Ltd, while other activities primarily consumed staff time and facilities without clear direct revenue attribution. These patterns frame the quantitative relationship between the loan flows, share capitalisation, and the extent of uncompensated or indirectly compensated use of Heinrich's operational resources by counterparties linked to the defendants.",
+      "Judicial_Reasoning_Log": "The judge concluded that the JV Agreement covered only the initial S$300,000 loan, that this amount had been repaid within the three-year period as evidenced by ledger entries and the subsequent share capitalisation, and that Lau's liability under the JV Agreement, even if engaged, would be limited to 10% of that S$300,000. The court held that the plaintiffs did not prove actionable misrepresentation in relation to the Macmacor acquisition because the key statements were either true, non-factual opinions, not shown to have been made, or not shown to have been relied upon by Kor, and the Misrepresentation Act did not apply as there was no contract between Kor and Lau. On the directors' duties claims, the court applied the Intraco and Ho Kang Peng standards and found that Lau's activities, including rope transactions, transhipments, courier arrangements and other assistance to Li, were commercially explicable as efforts to cultivate a supplier and did not amount to acting otherwise than bona fide in Heinrich's interests, nor did they demonstrate conflicts of interest, improper purposes, or misuse of position or information under s 157 of the Companies Act. The court found no loss to Heinrich from the rope transactions, accepted that Heinrich made profits on onward sales, and rejected the suggestion of secret profits or sham payments, accepting evidence that 'Ah Siong' referred to an actual employee and that the description 'scrap supplier' on vouchers did not indicate wrongdoing. The cumulative scale of Lau's activities for Li was held insufficient to infer disloyalty or a shift of allegiance, and the later formation of a business with Li in 2012–2013 was not treated as evidence that earlier conduct was disloyal. Because no breach of fiduciary or statutory duty by Lau was established, the knowing assistance claims against Li and JHY failed at the threshold; in any event, the court held that the plaintiffs had not shown the dishonest state of mind required for knowing assistance, as there was no evidence that Li or JHY knew of any breach or acted contrary to ordinary standards of honesty. The court further held that the 'user principle' is a measure of damages contingent on an underlying wrong involving use of property and does not create a free-standing cause of action; since no primary wrong was established and the claims concerned use of services and facilities rather than wrongful use of property in the relevant sense, the user-based restitutionary claim could not succeed. Overall, the court characterised the plaintiffs' approach as a wide-ranging, ex post attempt to recast many years of minor and low-value transactions as misconduct following Lau's departure, and determined that suspicion and disappointment did not translate into legal liability. All claims were dismissed and costs of S$100,000 plus reasonable disbursements were awarded to the defendants."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 770 of 2013",
+      "Coram": "Aedit Abdullah JC",
+      "Judge": "Aedit Abdullah",
+      "Date": "2016-06-21",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Kor Yong Koo",
+      "Law_Firm": "Shenton Law Practice LLP",
+      "Counsel": [
+        "Decruz Martin Francis"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1995-01-01",
+          "Text": "From about 1995, Kor Yong Koo and Lau Kim Huat knew each other and worked together."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-10-18",
+          "Text": "Around 2006, after discussions with Lau Kim Huat, Kor Yong Koo agreed to establish Heinrich Pte Ltd to carry on a container lashing business."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-10-18",
+          "Text": "On 18 October 2006, Kor Yong Koo entered into a written joint venture agreement with Lau Kim Huat, Lim Keng Leng, Yasmin Binte Mustaffah and Heinrich Pte Ltd, under which Kor agreed to provide an interest-free shareholders' loan of S$300,000 to Heinrich."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-10-18",
+          "Text": "Pursuant to the 2006 joint venture agreement, Kor Yong Koo agreed to provide an interest-free shareholders' loan of S$300,000 for Heinrich's working capital."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-01-01",
+          "Text": "By 2009, Kor Yong Koo had made further loans to Heinrich, and the total sum amounted to some S$1.3 million."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-04-01",
+          "Text": "In April 2009, part of the loans from Kor Yong Koo to Heinrich were converted into share capital, including S$29,999 used to pay for a 10% allotment of shares to Lau Kim Huat."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-04-01",
+          "Text": "Kor Yong Koo waived the condition that repayment of the loans had to occur before share allotment could occur."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2006-01-01",
+          "Text": "In 2006, Kor Yong Koo purchased the business of Macmacor, which was later incorporated as Macmacor Engineering Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "In 2006, before acquiring the Macmacor business, Kor Yong Koo discussed the business with Lau Kim Huat, including its profitability, sales level and fit with Heinrich's operations."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Macmacor was profitable in its first year after acquisition but was short of funds to increase its stocks and sales."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Around the time of the Macmacor acquisition in 2006, Kor Yong Koo alleged statements about Macmacor being a good business to acquire, being profitable, complementing Heinrich, and having sales close to S$1 million a year."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-01-01",
+          "Text": "By 2012, the relationship between Kor Yong Koo and Lau Kim Huat had deteriorated."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-01",
+          "Text": "After Lau Kim Huat left Heinrich in 2013 to start a new company with Li Cunkou, Kor Yong Koo became aware of past transactions and activities involving Lau, Li and JHY Marine and Offshore Equipment Pte Ltd."
+        }
+      ],
+      "Issue": "Whether, based on the pre-dispute financial flows and information available to him, Kor Yong Koo experienced uncompensated loan exposure and adverse economic effects from the Macmacor acquisition and from Heinrich's dealings with entities connected to the defendants.",
+      "Rule": "An investor or shareholder who advances funds and acquires businesses typically evaluates repayment patterns, capitalisation decisions, and business performance data to determine whether counterparties have met agreed financial responsibilities and whether acquisitions and related-party dealings have produced the expected economic benefits.",
+      "Application": "Kor advanced S$300,000 under the 2006 joint venture loan framework and later increased his total loans to Heinrich to about S$1.3 million, while also waiving a condition that loans be repaid before share allotment, enabling a 10% share issue to Lau funded by S$29,999 of Kor's loan. Ledger entries showed substantial repayments credited to Lau, and a directors' resolution in April 2009 capitalised loan amounts into share capital. In parallel, Kor acquired the Macmacor Engineering business in 2006 after discussions with Lau about profitability, sales near S$1 million, and complementarity with Heinrich, and later observed that Macmacor was profitable in its first year but short of funds to expand. Over the following years, Heinrich's facilities and staff were used in transactions involving JHY Marine and Offshore Equipment Pte Ltd and Li Cunkou, some of which generated profits for Heinrich and some of which primarily consumed resources. These pre-dispute data points define Kor's exposure: the scale of his loans relative to recorded repayments and capitalisation, the actual performance of Macmacor compared with the described prospects, and the net economic effect on Heinrich of the resource-intensive dealings with entities linked to the defendants.",
+      "Judicial_Reasoning_Log": "The court treated Kor's claims as co-extensive with Heinrich's and analysed his position as lender, shareholder and acquirer of Macmacor. It held that the JV Agreement did not extend beyond the initial S$300,000 loan and that this loan had been repaid, undermining Kor's contention that Lau remained responsible for a larger outstanding amount or for 30% of a broader loan pool. On the Macmacor acquisition, the judge found that Kor did not prove that he relied on Lau's statements in the legally relevant sense, noting that Kor was an experienced businessman who could and did consult others, and that the alleged misrepresentations were either true, non-actionable opinions, or not shown to have been made or relied upon. The court emphasised the long delay between the 2006 acquisition and the 2013 complaint, and the absence of contemporaneous protest, as factors weakening Kor's narrative. Regarding the extensive list of alleged breaches of duty and misuses of Heinrich's resources, the judge concluded that Kor's post-2013 review of historical transactions reflected disappointment and a sense of betrayal after Lau left to join Li, but that this retrospective dissatisfaction did not establish legal wrongs. The court described Kor's approach as a 'scatter-shot' or 'kitchen-sink' strategy that obscured the truly material issues, and ultimately held that none of the pleaded causes of action were made out on the evidence, resulting in dismissal of Kor's personal and derivative claims."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 770 of 2013",
+      "Coram": "Aedit Abdullah JC",
+      "Judge": "Aedit Abdullah",
+      "Date": "2016-06-21",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lau Kim Huat",
+      "Law_Firm": "Robin Law Corporation",
+      "Counsel": [
+        "Lai Swee Fung",
+        "Lim Boon Cheng Robin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1995",
+          "Text": "From about 1995, Lau Kim Huat and Kor Yong Koo knew each other and had worked together."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2006-01-01",
+          "Text": "Lau came to work for Kor in Heinrich in about 2006."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Heinrich was established in 2006 following a proposal made by Lau to Kor involving Lim Keng Leng and Yasmin Binte Mustaffah, and the proposal was for a business providing container lashing to be carried out by Heinrich."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2006-10-18",
+          "Text": "On 18 October 2006, Kor, Lau, Lim Keng Leng and Yasmin Binte Mustaffah entered into a joint venture agreement, with Heinrich also a party to the agreement, under which Kor agreed to provide an interest-free shareholders' loan of S$300,000."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-10-18",
+          "Text": "Under the written JV Agreement, if the S$300,000 loan was not repaid by the end of three years, Lau, Lim and Yasmin would each be given a 10% share."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-10-18",
+          "Text": "Heinrich's general ledgers showed payments totalling some S$494,066.63 in the three-year period between 18 October 2006 and 18 October 2009, which were listed as payments out to Lau."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "",
+          "Text": "In April 2009, a directors' resolution capitalised loan amounts into share capital, resulting in the issuing of 29,999 shares to Lau and bringing his shareholding to 30,000 shares, or 10% of the share capital."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-04-01",
+          "Text": "Kor had used his loan of S$29,999 to pay for Lau's 10% allotment of shares."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "The business of Macmacor was purchased in 2006 by Kor, and Lau introduced the then-owner of Macmacor to Kor for the purchase."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "In connection with the purchase of Macmacor, Lau was alleged to have said that Macmacor was profitable and would complement Heinrich, that Macmacor was demonstrably short of funds to increase its stocks and sales, though business was good, and that sales of Macmacor were close to S$1 million a year."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "The alleged representation was that sales of Macmacor were close to S$1 million a year."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "The alleged representations included that Macmacor was a good business to acquire, that it would complement Heinrich, and that sales should increase to S$1 million after the injection of funds."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "The transhipments involved items purchased from companies in the United Kingdom and the United States by JHY, which were delivered to Heinrich's warehouse, where Heinrich's employees, forklifts and facilities, as well as Heinrich's usual freight forwarder, handled the unloading or unstuffing from containers, and the items were then exported by JHY to Li's company in China."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "Lau made arrangements for the transhipments of various items for the benefit of Li, and courier transactions were arranged by Lau for the benefit of Li, using Heinrich's resources."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "Courier transactions were arranged by Lau for the benefit of Li, using Heinrich's resources."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "Various other transactions including the sourcing of products, and arrangements for the delivery of items, were allegedly conducted for Li's benefit by Lau."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "Lau attempted to sell ropes from JHY to Gaylin International Pte Ltd, but did not proceed with the transaction in the end."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "The ropes were kept at Heinrich's premises, meeting Li's request to leave the ropes there, and Lau sold the ropes on consignment."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006",
+          "Text": "One rope was sold to Transvictory Marine and Offshore Pte Ltd for S$4,500 of profit; another rope was sold to PT Bumi Aranda for about S$1,000 of profit."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006",
+          "Text": "The other seven coils of rope were sold to Impa Marine Pte Ltd in two transactions."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "Lau arranged for one 'Ah Siong' to sign payment vouchers for payments made by Heinrich in relation to the ropes; the monies paid out were credited into Lau's accounts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "Lau had used Heinrich's resources to obtain a profit for the benefit of Li and JHY, and in comparison, losses were caused by the payment to 'Ah Siong', as rejected ropes were purchased without obtaining further discounts to maximise Heinrich's profits."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "Lau had used Heinrich's money to pay for courier charges for Li's benefit, arranging the shipment of personal effects for Li and thus exposing Heinrich to legal consequences by making a false or untrue declaration in an import permit for the benefit of Li, and from the evasion of Goods and Services Tax."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012",
+          "Text": "Lau had also prepared for his subsequent directorship and role at Hai Yuan Marine and Offshore Equipment Pte Ltd by printing name cards and arranging GST registration for Hai Yuan while still being employed at Heinrich."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013",
+          "Text": "In 2013, Lau left the company, setting up a new company with Li."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-01",
+          "Text": "Before leaving Heinrich in 2013, Lau Kim Huat deleted emails relating to transactions with Li Cunkou and JHY Marine and Offshore Equipment Pte Ltd from his office computer."
+        }
+      ],
+      "Issue": "Whether, based on his pre-dispute conduct and financial dealings, Lau Kim Huat's management of loan repayments, share capitalisation, Macmacor-related information, and Heinrich's resources in transactions involving Li Cunkou and JHY Marine and Offshore Equipment Pte Ltd resulted in uncompensated use of Heinrich's assets or shortfall under agreed financial arrangements.",
+      "Rule": "A director who participates in shareholder loan arrangements, facilitates acquisitions, and controls the use of company facilities and funds is generally ensure that loan obligations are satisfied in accordance with written terms, that share issuances reflect actual capital contributions, and that third-party use of company resources is structured so that the company either earns a profit or receives appropriate value for the resources deployed.",
+      "Application": "Under the 2006 joint venture agreement, Lau accepted a defined 10% responsibility for any outstanding portion of the S$300,000 loan if it remained unpaid after three years. Heinrich's ledgers recorded more than S$300,000 in amounts credited to or for Lau between 2006-10-18 and 2009-10-18, and a directors' resolution in April 2009 capitalised loan amounts into share capital, issuing 29,999 shares to Lau funded by S$29,999 of Kor's loan. In parallel, Lau introduced the Macmacor Engineering opportunity to Kor and conveyed information about its profitability, sales level and fit with Heinrich, after which Kor acquired the business and Macmacor recorded a profit in its first year while being short of funds to expand. Over several years, Lau arranged for Heinrich's warehouse, forklifts, employees and freight forwarder to handle goods purchased by JHY from overseas suppliers and exported to a company in China associated with Li, and used Heinrich's funds and courier accounts for shipments and sourcing activities requested by Li. Some of these activities generated identifiable profits for Heinrich, such as profits on rope sales to Transvictory and PT Bumi Aranda and sales to Impa, while others primarily consumed staff time and facilities. These pre-dispute patterns define the quantitative and operational context for assessing whether Lau's management of repayments, capitalisation and resource deployment left Heinrich without appropriate compensation or exposed Kor's loan position beyond what the written JV terms contemplated.",
+      "Judicial_Reasoning_Log": "The court held that the JV Agreement imposed on Lau only a 10% exposure to the defined S$300,000 'Loan' and rejected the plaintiffs' attempt to extend his responsibility to later advances totalling S$1.3 million. By construing the contract's wording and examining the ledgers and the April 2009 capitalisation, the judge concluded that the S$300,000 had in fact been repaid within the three-year period and that the share issue to Lau was consistent with completion of the bargain. On the Macmacor acquisition, the judge found that the plaintiffs did not prove that Lau made fraudulent or negligent misstatements or that Kor relied on them; the court emphasised that Macmacor was actually profitable in its first year, that statements about complementarity and future growth were opinions, and that the Misrepresentation Act did not apply because Lau was not a party to the acquisition contract. Regarding directors' duties, the court applied the Intraco and Ho Kang Peng framework and determined that Lau's actions in arranging rope transactions, transhipments, courier shipments and other assistance to Li were commercially explicable as efforts to cultivate a supplier and did not cross the threshold into disloyalty, conflict of interest, improper purpose or lack of honesty under s 157 of the Companies Act. The judge noted that Heinrich was not shown to have suffered loss on the rope transactions, that it in fact made profits on onward sales, and that there was no evidence of secret profits. The court accepted explanations for the use of 'Ah Siong' on vouchers and the 'scrap supplier' description, and found that the cumulative scale of Lau's activities for Li was insufficient to infer a shift of allegiance away from Heinrich. The later decision to form a new company with Li in 2012–2013 was not treated as evidence that earlier conduct was disloyal. The court also rejected the plaintiffs' reliance on the deletion of emails as a basis for adverse inferences. Overall, the judge concluded that Lau's conduct did not amount to breach of fiduciary, statutory or common law duties and that the claims against him failed."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 770 of 2013",
+      "Coram": "Aedit Abdullah JC",
+      "Judge": "Aedit Abdullah",
+      "Date": "2016-06-21",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Li Cunkou",
+      "Law_Firm": "Robin Law Corporation",
+      "Counsel": [
+        "Lai Swee Fung",
+        "Lim Boon Cheng Robin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2006-01-01",
+          "Text": "From about 2006, Li Cunkou was an associate of Lau Kim Huat."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Li Cunkou was associated with JHY Marine and Offshore Equipment Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Li Cunkou was involved in transhipment arrangements involving goods purchased by JHY from companies in the United Kingdom and the United States and delivered to Heinrich's warehouse."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Goods purchased by JHY were unloaded or unstuffed at Heinrich's warehouse using Heinrich's employees, forklifts and freight forwarder, and then exported by JHY to Li's company in China."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Lau attempted to sell ropes from JHY to Gaylin International Pte Ltd; the ropes were a total of nine coils."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "After Gaylin did not proceed with the rope purchase, the ropes were kept at Heinrich's premises and later sold to other buyers."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Following the aborted Gaylin transaction, the ropes were sold to Transvictory Marine and Offshore Pte Ltd, PT Bumi Aranda and Impa Marine Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Li requested that Lau source products, including healthcare products, and arrange for them to be sent to China."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Li requested courier shipments for items connected with his business and personal matters."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-01-01",
+          "Text": "Li requested assistance with personal matters, including shipment of personal effects and repair of furniture."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Li Cunkou and Lau discussed the possibility of starting a new business venture together."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Around 2012, Li Cunkou and Lau Kim Huat intended to be involved in a new company."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "Li Cunkou and Lau later set up a new company together."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute transactions and interactions, Li Cunkou's use of Heinrich Pte Ltd's warehouse, staff, freight services and courier facilities through JHY Marine and Offshore Equipment Pte Ltd and personal requests resulted in uncompensated or under-compensated use of Heinrich's resources.",
+      "Rule": "A business counterparty who routes goods and personal or business shipments through another company's facilities and staff is generally ensure that the host company is appropriately compensated through pricing, commissions or other consideration for storage, handling, sourcing and administrative services.",
+      "Application": "From 2006 onwards, Li used Heinrich's warehouse, forklifts, employees and freight forwarder to handle goods purchased by JHY from overseas suppliers and exported to a company in China associated with him, and he requested that nine coils of rope be stored at Heinrich and sold on consignment after the Gaylin transaction did not proceed. These ropes were later sold to Transvictory, PT Bumi Aranda and Impa, generating profits for both Heinrich and JHY or Li. In addition, Li requested product sourcing, sample shipments and courier arrangements using Heinrich's accounts for both business and personal matters, consuming staff time and incurring courier charges. The record shows that some of these activities produced identifiable profits or potential supply relationships for Heinrich, while others primarily involved service provision without clearly documented direct charges. These pre-dispute patterns define the extent to which Li's business and personal dealings leveraged Heinrich's infrastructure and whether the economic return to Heinrich matched the level of resources deployed.",
+      "Judicial_Reasoning_Log": "The court held that the knowing assistance claim against Li required proof of an underlying breach of fiduciary duty by Lau and a dishonest state of mind on Li's part. Having found no breach by Lau, the court concluded that the claim against Li failed at the outset. In the alternative, the judge examined Li's conduct and found no evidence that Li knew or ought to have known that Lau was acting in breach of duty; the fact that Li requested transhipments, storage, sourcing and courier services through Heinrich did not, in the court's view, show that Li appreciated any irregularity or conflict. The judge emphasised that the plaintiffs had not demonstrated the level of knowledge or dishonesty required under the Royal Brunei and George Raymond Zage line of authorities, and that nothing in Li's conduct, including the later decision to form a new company with Lau, met the standard of acting contrary to ordinary standards of honest behaviour. The court also rejected the plaintiffs' attempt to invoke the user principle against Li, holding that it is a measure of damages contingent on an established wrong involving use of property and that no such underlying wrong was proven. Accordingly, all claims against Li were dismissed."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 770 of 2013",
+      "Coram": "Aedit Abdullah JC",
+      "Judge": "Aedit Abdullah",
+      "Date": "2016-06-21",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "JHY Marine and Offshore Equipment Pte Ltd",
+      "Law_Firm": "Robin Law Corporation",
+      "Counsel": [
+        "Lai Swee Fung",
+        "Lim Boon Cheng Robin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2006",
+          "Text": "From about 2006, JHY Marine and Offshore Equipment Pte Ltd had dealings with Heinrich Pte Ltd through Lau Kim Huat and Li Cunkou."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "From about 2006 onwards, goods purchased by JHY Marine and Offshore Equipment Pte Ltd from companies in the United Kingdom and the United States were delivered to Heinrich Pte Ltd's warehouse in Singapore for handling and onward export."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "From about 2006 onwards, items purchased by JHY Marine and Offshore Equipment Pte Ltd were unloaded or unstuffed at Heinrich's premises using Heinrich's employees, forklifts, facilities and freight forwarder, and then exported by JHY to Li's company in China."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "Around 2006, nine coils of rope supplied by JHY Marine and Offshore Equipment Pte Ltd were the subject of an attempted sale to Gaylin International Pte Ltd arranged through Heinrich and Lau Kim Huat."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "After Gaylin International Pte Ltd did not proceed with the rope purchase, the nine coils of rope were kept at Heinrich's premises for storage and consignment sale."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006",
+          "Text": "Following the aborted Gaylin transaction, coils of rope were sold to Transvictory Marine and Offshore Pte Ltd, PT Bumi Aranda and Impa Marine Pte Ltd, and Heinrich made profit on the sales."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006",
+          "Text": "In connection with the rope transactions, Heinrich made payments to JHY within a short period after the ropes were sold, while some other Heinrich suppliers experienced longer payment intervals."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006",
+          "Text": "From about 2006 onwards, JHY Marine and Offshore Equipment Pte Ltd was involved in multiple transhipment and sourcing transactions in which Heinrich's facilities and staff time were used."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute dealings, JHY Marine and Offshore Equipment Pte Ltd's use of Heinrich Pte Ltd's warehouse, staff, freight services and payment flows in rope and other goods transactions resulted in uncompensated or under-compensated use of Heinrich's resources.",
+      "Rule": "A supplier that stores goods at another company's premises, uses its staff and logistics infrastructure, and receives payments through that company is generally ensure that the host company is compensated through commissions, margins or other agreed terms for storage, handling and transactional support.",
+      "Application": "From 2006 onwards, JHY used Heinrich's warehouse, forklifts, employees and freight forwarder to handle goods purchased from overseas suppliers and exported to a company in China associated with its owner, and it stored nine coils of rope at Heinrich for consignment sale after the Gaylin transaction did not proceed. These ropes were later sold to Transvictory, PT Bumi Aranda and Impa, with Heinrich earning profits on some sales and JHY or its owner receiving sale proceeds via payments from Heinrich. Heinrich's payment timing to JHY on rope transactions was relatively prompt compared with some other suppliers, and JHY's use of Heinrich's facilities and staff time extended over multiple transactions. These pre-dispute patterns define the extent to which JHY's business leveraged Heinrich's infrastructure and whether the economic return to Heinrich, via margins or commissions, matched the level of resources deployed.",
+      "Judicial_Reasoning_Log": "The court held that the knowing assistance claim against JHY depended on establishing a breach of fiduciary duty by Lau and attributing to JHY a dishonest state of mind through its directing mind, Li. Having found no breach by Lau and no dishonesty on Li's part, the court concluded that the claim against JHY could not succeed. The judge accepted that JHY's goods were stored and handled at Heinrich's premises and that rope transactions involved prompt payments to JHY, but found that Heinrich was not shown to have suffered loss on these transactions and in fact made profits on onward sales. The court rejected the suggestion that JHY's use of Heinrich's facilities and payment flows, without more, demonstrated participation in any breach of duty or dishonest assistance. The attempt to recover from JHY on a 'user principle' basis was also rejected on the ground that the user principle is a measure of damages contingent on an established wrong involving use of property, and no such underlying wrong was proven. Accordingly, all claims against JHY Marine and Offshore Equipment Pte Ltd were dismissed."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  }
+]

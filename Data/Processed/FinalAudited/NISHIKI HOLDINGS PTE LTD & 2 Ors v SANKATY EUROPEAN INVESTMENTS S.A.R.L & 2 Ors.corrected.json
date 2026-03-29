@@ -1,0 +1,348 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 84 of 2020",
+      "Coram": "Kwek Mean Luck JC",
+      "Judge": "Kwek Mean Luck",
+      "Date": "2021-12-20",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Nishiki Holdings Pte Ltd",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Nishiki Holdings Pte Ltd (NH) is a company incorporated in Singapore and functions as a holding company."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "",
+          "Text": "At the time of the Sale Leaseback Transaction in 2016, NH was owned 50% by Dr Masami Yabumoto and 50% by a Medical Charitable Trust."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "",
+          "Text": "After the Sale Leaseback Transaction, the shareholding of NH changed so that Dr Masami Yabumoto and Ms Zhang Ran were equal shareholders, with Ms Zhang holding her shares on behalf of Dr Yabumoto."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2016-06-01",
+          "Text": "From June 2016 to about 2018-10-23, Mr Theodore Meegan was the sole director of Nishiki Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "",
+          "Text": "Nishiki Holdings Pte Ltd is the ordinary shareholder of Nishiki Real Estate Pte Ltd and the sole shareholder of Nishiki International Investments Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2016-06-27",
+          "Text": "On 2016-06-27, a director's resolution for Nishiki Holdings Pte Ltd was prepared in connection with financing documents for the Sale Leaseback Transaction, identifying that its sole director, Mr Theodore Meegan, also held 51% of the issued and paid-up shares in Brocade Investment Pte Ltd and Brocade Management Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-06-27",
+          "Text": "On 2016-06-27, a form of Members' Resolution in Writing for Nishiki Holdings Pte Ltd was prepared to approve transaction documents including a loan agreement, noting that the sole director was also a director and 51% shareholder of Brocade Investment Pte Ltd and Brocade Management Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-06-30",
+          "Text": "On 2016-06-30, Latham & Watkins LLP issued a legal opinion addressed to the lender in the Sale Leaseback Transaction stating that they had reviewed written resolutions signed by the shareholders of Nishiki Holdings Pte Ltd dated 2016-06-27 authorising execution of principal transaction agreements including a loan agreement."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-06-28",
+          "Text": "On 2016-06-28, an Investment Management Deed was executed under which Brocade Management Pte Ltd was appointed as manager to provide discretionary investment management services in relation to the assets of Nishiki Holdings Pte Ltd's subsidiaries involved in the Sale Leaseback Transaction."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2016-06-28",
+          "Text": "Under the Investment Management Deed dated 2016-06-28, Nishiki Holdings Pte Ltd and its subsidiaries granted Brocade Management Pte Ltd powers, including powers of attorney, to act in relation to management of the companies and compliance with financing documents."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-06-21",
+          "Text": "Around 2016-06-21, Nishimura and Asahi, acting with input labelled from NH, Latham & Watkins and N&A, sent to the lender a marked-up draft of the loan agreement containing comments seeking to limit the involvement of Dr Masami Yabumoto in the loan transaction and to remove or amend references to him in certain definitions and clauses."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-06-21",
+          "Text": "Around 2016-06-21, comments from NH, Latham & Watkins and Nishimura and Asahi on the draft loan agreement included amendments and remarks relating to the definition and payment of an Additional Interest Amount and payments to Brocade entities."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-06-30",
+          "Text": "On 2016-06-30, a Sponsor Indemnity Agreement was signed by Dr Masami Yabumoto in favour of the lender, under which he agreed to various obligations connected to the loan agreement, including restrictions on initiating winding up proceedings for a period after repayment and liability for losses arising from certain contractual breaches by Nishiki-related parties."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-06-30",
+          "Text": "By signing the Sponsor Indemnity Agreement on 2016-06-30, Dr Masami Yabumoto confirmed that he had access to facts and information regarding the plaintiffs, Nishiki Tokutei Mokuteki Kaisha and related contracts, and agreed that the lender could rely on him as a person with such access."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-06-30",
+          "Text": "On 2016-06-30, a loan agreement was executed between Nishiki Real Estate Pte Ltd, Nishiki International Investments Pte Ltd, Nishiki Holdings Pte Ltd and Sankaty European Investments S.A.R.L, providing for a principal loan of JPY100 million to Nishiki Real Estate Pte Ltd, fixed interest at 10% per annum, and an Additional Interest Amount calculated by reference to the fair market value of Nishiki Tokutei Mokuteki Kaisha's assets."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-06-30",
+          "Text": "Under Schedule 1 of the loan agreement dated 2016-06-30, the parties agreed that upon an Exit or certain trigger events, Exit Proceeds based on the fair market value of Nishiki Tokutei Mokuteki Kaisha's assets would be applied in a specified order, including a distribution of 20% of residual amounts to the lender and a preferred shareholder in the ratio 93.103 to 6.897, with the lender's portion described as Additional Interest Amount."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-06-30",
+          "Text": "The loan agreement dated 2016-06-30 defined an Appraiser as a reputable appraisal firm with operations in Japan appointed by Sankaty European Investments S.A.R.L in consultation with Nishiki Real Estate Pte Ltd as Borrower Agent."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2018-11-30",
+          "Text": "The original maturity date under the loan agreement between the plaintiffs and Sankaty European Investments S.A.R.L was set as 2018-06-30, with the maturity date later amended multiple times and ultimately extended to 2018-11-30."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-07",
+          "Text": "In or about 2016-07, Sankaty European Investments S.A.R.L advanced a loan of JPY100 million to Nishiki Real Estate Pte Ltd pursuant to the loan agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-06-29",
+          "Text": "On or about 2017-06-29, Nishiki Real Estate Pte Ltd repaid in full the JPY100 million loan and accrued fixed interest to Sankaty European Investments S.A.R.L."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Nishiki Real Estate Pte Ltd is a company incorporated in Singapore and operates as a holding company, with Nishiki Holdings Pte Ltd as its ordinary shareholder."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2015-10-12",
+          "Text": "Nishiki International Investments Pte Ltd is a company incorporated in Singapore and operates as a holding company; it is a wholly owned subsidiary of Nishiki Holdings Pte Ltd, and from 2015-10-12 to about 2018-10-23, its sole director was Mr Theodore Meegan."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Nishiki Tokutei Mokuteki Kaisha is a Japanese special purpose company wholly owned by Nishiki Real Estate Pte Ltd and holds nine Osaka medical properties formerly owned by Kinshukai Medical Corporation."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Kinshukai Medical Corporation is a large healthcare provider in Japan with substantial holdings of hospitals in Osaka, and its controlling shareholder is Dr Masami Yabumoto."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-06",
+          "Text": "Around mid-2016, Kinshukai Medical Corporation restructured its corporate structure by transferring ownership of nine Osaka medical properties to Nishiki Tokutei Mokuteki Kaisha."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-06",
+          "Text": "Around 2016-06-30, Kinshukai Medical Corporation and Nishiki Tokutei Mokuteki Kaisha entered into a sale and leaseback transaction under which Kinshukai Medical Corporation sold nine Osaka medical properties to Nishiki Tokutei Mokuteki Kaisha and leased them back."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-06",
+          "Text": "To finance the purchase of the nine Osaka medical properties from Kinshukai Medical Corporation, Nishiki Tokutei Mokuteki Kaisha raised senior, mezzanine and equity financing, with senior financing provided by Deutsche Bank Tokyo and United Overseas Bank Tokyo as bridge financing until a sale of the properties to third-party investors."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-06",
+          "Text": "As part of the mezzanine financing structure for Nishiki Tokutei Mokuteki Kaisha, Sankaty European Investments S.A.R.L funded Deutsche Bank Tokyo for mezzanine financing of JPY6.9 billion to Nishiki Tokutei Mokuteki Kaisha and provided a principal loan of JPY100 million to Nishiki Real Estate Pte Ltd under the loan agreement."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2017-12-18",
+          "Text": "On 2017-12-18, Mr Theodore Meegan, with assistance from Ms Zhang Ran, sent an email to Dr Masami Yabumoto stating that although Bain's mezzanine and term loan had been repaid in June 2017, certain covenants with the lender remained until equity exit, including an Additional Interest component."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2017-12-18",
+          "Text": "On 2017-12-18, in response to the email about remaining covenants including Additional Interest, Dr Masami Yabumoto replied by email that he did not know about such a covenant with Bain and asked to be informed of the conditions to be released from the covenant effectively."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2018-10-23",
+          "Text": "On 2018-10-23, Nishiki Holdings Pte Ltd removed Mr Theodore Meegan as sole director and appointed Mr Hiroyuki Horikawa and Ms Zhang Ran as directors, with corresponding updates made to ACRA records."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-12-04",
+          "Text": "On or about 2018-12-04, Sankaty European Investments S.A.R.L sent a demand for payment of an Additional Interest Amount by email to a list of contacts including Mr Theodore Meegan, Mr Shinsuke Kataoka and Ms Zhang Ran; only Mr Shinsuke Kataoka received the email because Ms Zhang's email account had been deactivated and Mr Meegan's email was not functioning."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-12-05",
+          "Text": "On 2018-12-05, Ms Eve Lee of Sankaty European Investments S.A.R.L emailed Mr Shinsuke Kataoka proposing three firms, Houlihan Lokey, PwC and Deloitte, as potential appraisers for valuation under Schedule 1 of the loan agreement."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-12-05",
+          "Text": "On 2018-12-05, Mr Shinsuke Kataoka replied to Ms Eve Lee stating that he had no objection to either Houlihan or PwC as appraisers, assuming they performed a fair valuation."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2019-02-06",
+          "Text": "On 2019-02-06, Sankaty European Investments S.A.R.L entered into an engagement with Houlihan Lokey (China) Limited to act as appraiser for determining the fair market value of Nishiki Tokutei Mokuteki Kaisha's assets for purposes of calculating the Additional Interest Amount."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2019-02-06",
+          "Text": "Under the 2019-02-06 engagement, Houlihan Lokey (China) Limited subcontracted the valuation of the nine Osaka medical properties to Enrix Co Ltd, a Japanese valuation firm, and relied on Enrix's property valuations in its overall fair market value assessment."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2019-03",
+          "Text": "On 2019-03-25, Houlihan Lokey (China) Limited produced a draft valuation report for Sankaty European Investments S.A.R.L that included Enrix Co Ltd's valuation of the nine Osaka medical properties at JPY28.601 billion and an overall fair market value of Nishiki Tokutei Mokuteki Kaisha's assets of approximately JPY29.188 billion as of 2018-11-30."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2019-08-07",
+          "Text": "On 2019-08-07, a meeting took place between representatives of Sankaty European Investments S.A.R.L, Dr Masami Yabumoto, representatives of Nishiki Corporation and senior lenders involved in a Mizuho refinancing, arranged by Mr Shinsuke Kataoka."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2019-09-27",
+          "Text": "On or about 2019-09-27, the plaintiffs' representative, Mr Takeyuki Matsuda, met with the lender's representative, Mr Tetsuji Okamoto, to discuss the Houlihan Lokey (China) Limited valuation and the Additional Interest claim."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2019-10-18",
+          "Text": "On or about 2019-10-18, Sankaty European Investments S.A.R.L appointed Mr Sajjad Ahmad Akhtar and Mr Chin Sek Peng Michael as joint private receivers over certain charged assets of the plaintiffs pursuant to security documents associated with the loan agreement."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2019-10-23",
+          "Text": "On or about 2019-10-23, the joint receivers, Mr Sajjad Ahmad Akhtar and Mr Chin Sek Peng Michael, sent letters to each of the plaintiff companies informing them of their appointment as receivers over the plaintiffs' charged assets."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute corporate documents, communications and transaction structure, the plaintiffs were contractually bound to pay an Additional Interest Amount under the loan agreement and whether the lender's appointment of an appraiser and receivers complied with the agreed mechanisms.",
+      "Rule": "Under contract law, the effect of a loan agreement and related security and indemnity documents is determined by their express terms, including provisions on interest, additional return mechanisms, valuation procedures and appointment of receivers, interpreted objectively in light of the commercial context and any specified requirements for appointment of valuers or agents.",
+      "Application": "The plaintiffs entered into a loan agreement on 2016-06-30 providing for fixed interest and an Additional Interest Amount calculated by reference to the fair market value of Nishiki Tokutei Mokuteki Kaisha's assets as determined by an appraiser appointed by the lender in consultation with Nishiki Real Estate Pte Ltd. Corporate resolutions, a legal opinion from Latham & Watkins LLP and a Sponsor Indemnity Agreement signed by Dr Masami Yabumoto were provided to the lender as part of the transaction closing. The loan principal and fixed interest were repaid in June 2017, but the Additional Interest mechanism remained in place. In late 2018 and 2019, the lender demanded Additional Interest, engaged Houlihan Lokey (China) Limited as appraiser, relied on Enrix Co Ltd's property valuations, and appointed private receivers over the plaintiffs' charged assets. These events created a dispute over whether the contractual conditions for Additional Interest and for appointment of the appraiser and receivers had been satisfied.",
+      "Judicial_Reasoning_Log": "The court analysed whether the lender was on notice that Mr Theodore Meegan lacked authority to bind the plaintiffs to the Additional Interest provisions, considering the NRE and NH director's resolutions, the Latham & Watkins LLP opinion, the Sponsor Indemnity Agreement and the marked-up loan agreement from NH/L&W/N&A. It held that the lender was entitled to rely on these documents as evidence that the ultimate owner, Dr Masami Yabumoto, knew of and approved the transaction, including the potential conflict of interest arising from payments to Brocade Investment Pte Ltd. The court rejected the plaintiffs' reliance on Dr Yabumoto's 2017 email stating he did not know of the covenant, finding that this could reflect forgetfulness or inadequate internal explanations rather than lack of initial knowledge. The court noted that the plaintiffs did not call Dr Yabumoto to testify. It concluded that the loan agreement, including the Additional Interest provisions, was valid and enforceable.\n\nOn the HL China issue, the court examined Schedule 1 paragraph 3(a) of the loan agreement, which required an 'Appraiser' to be a reputable appraisal firm with operations in Japan appointed by the lender in consultation with Nishiki Real Estate Pte Ltd. It found that the Investment Management Deed did not confer actual authority on Brocade Management Pte Ltd or Mr Shinsuke Kataoka to act as Borrower Agent for consultation on the appraiser appointment, and that the plaintiffs' conduct did not create apparent authority or estoppel. The court held that consulting only Mr Kataoka, who was not an NRE employee and had a personal economic interest via Brocade Investment Pte Ltd, did not satisfy the contractual requirement to consult NRE. It also interpreted 'operations in Japan' to mean appraisal operations in Japan and found that Houlihan Lokey (China) Limited did not have such operations; at most, there was an affiliate in Japan whose appraisal capabilities were not established. Accordingly, HL China did not fall within the contractual definition of Appraiser, and its appointment and valuation report were set aside as invalid.\n\nBecause the appointment of HL China and its valuation report were invalidated, the court held that the lender had not established a valid Additional Interest Amount under the contractual mechanism. The court therefore did not need to decide the detailed 'Valuation Issue' on alleged manifest errors in the Enrix valuations, although it discussed aspects of those arguments and indicated that Enrix's assumption about demolishing certain hospital properties for residential use was problematic. As there was no validly determined Additional Interest debt, the basis for the receivers' appointment fell away, and the plaintiffs' alternative claim against the receivers was resolved accordingly. The overall outcome was that the loan agreement remained valid but the HL China appointment and valuation were set aside, and the lender's claim to enforce the Additional Interest and related enforcement steps was dismissed."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 84 of 2020",
+      "Coram": "Kwek Mean Luck JC",
+      "Judge": "Kwek Mean Luck",
+      "Date": "2021-12-20",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Sankaty European Investments S.A.R.L",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Sankaty European Investments S.A.R.L is a private limited company incorporated in Luxembourg and forms part of the debt division of Bain Capital LP; it was later renamed Bain Capital Credit."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-07-01",
+          "Text": "As part of the financing for the Sale Leaseback Transaction completed around 2016-06-30, Sankaty European Investments S.A.R.L funded Deutsche Bank Tokyo for mezzanine financing of JPY6.9 billion to Nishiki Tokutei Mokuteki Kaisha and agreed to provide a principal loan of JPY100 million to Nishiki Real Estate Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "",
+          "Text": "The Loan Agreement was entered into by the plaintiffs and the 1st defendant. It was concluded on the plaintiffs’ behalf by Mr Theodore Meegan. Under cl 2, the 1st defendant would advance JPY100m to NRE; cl 8.1 provided for fixed interest at 10% per annum; and cl 8.2 provided for an Additional Interest mechanism based on the fair market value of Nishiki TMK’s assets."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "",
+          "Text": "Under Schedule 1 of the 2016-06-30 loan agreement, Sankaty European Investments S.A.R.L was entitled, upon specified trigger events including maturity or acceleration, to receive an Additional Interest Amount equal to a defined share of Exit Proceeds after payment of specified items, with the lender's share set at 93.103% of a 20% residual pool."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-07-01",
+          "Text": "In or about 2016-07, Sankaty European Investments S.A.R.L advanced the JPY100 million loan to Nishiki Real Estate Pte Ltd pursuant to the loan agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-06-29",
+          "Text": "On or about 2017-06-29, Sankaty European Investments S.A.R.L received full repayment of the JPY100 million principal and accrued fixed interest from Nishiki Real Estate Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "",
+          "Text": "The loan agreement dated 2016-06-30 provided that the Additional Interest Amount would be payable on the maturity date or upon acceleration, and that the maturity date, originally 2018-06-30, could be amended by agreement; it was subsequently extended several times to a final maturity date of 2018-11-30."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "As part of the closing of the Sale Leaseback Transaction on or around 2016-06-30, Sankaty European Investments S.A.R.L received from the plaintiffs corporate resolutions, articles of association, an investment management deed, and a legal opinion from Latham & Watkins LLP confirming corporate authorisations for the loan agreement."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "Sankaty European Investments S.A.R.L received a Sponsor Indemnity Agreement dated 2016-06-30 signed by Dr Masami Yabumoto, under which he undertook obligations in support of the loan agreement, including restrictions on initiating insolvency proceedings and liability for losses arising from certain contractual breaches by Nishiki-related parties."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "Around the final maturity date of 2018-11-30, Sankaty European Investments S.A.R.L considered that an Additional Interest Amount had become payable under clause 8.2 of the loan agreement and prepared to calculate it based on a fair market valuation of Nishiki Tokutei Mokuteki Kaisha's assets."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-12-04",
+          "Text": "On or about 4 December 2018, the 1st defendant emailed the plaintiffs a 'Demand for Payment of Additional Interest Amount'. The email was sent to Mr Meegan, Mr Shinsuke Kataoka and Ms Zhang, but only Mr Kataoka received it."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-12-05",
+          "Text": "On 5 December 2018, Ms Eve Lee of the 1st defendant wrote to Mr Kataoka suggesting the appointment of Houlihan Lokey, PWC and Deloitte as potential Appraisers for the valuation under Schedule 1 of the Loan Agreement."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-12-05",
+          "Text": "On 5 December 2018, Mr Kataoka replied that he had no objection to either Houlihan or PWC, assuming they do a fair valuation. The 1st defendant appointed HL China on 6 February 2019 as the Appraiser."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2019-02-06",
+          "Text": "On 2019-02-06, Sankaty European Investments S.A.R.L executed an engagement letter with Houlihan Lokey (China) Limited appointing it to determine the fair market value of Nishiki Tokutei Mokuteki Kaisha's assets as of 2018-11-30 for purposes of calculating the Additional Interest Amount."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2019-02-06",
+          "Text": "HL China subsequently subcontracted the entirety of the work of determining the fair market value of the Properties to Enrix Co Ltd. HL China relied on Enrix's valuation of the Properties."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2019-02-06",
+          "Text": "HL China subsequently subcontracted the entirety of the work of determining the fair market value of the Properties to Enrix Co Ltd. For its report, HL China relied on Enrix's valuation of the Properties."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2019-03-25",
+          "Text": "On 2019-03-25, Houlihan Lokey (China) Limited issued a draft valuation report to Sankaty European Investments S.A.R.L stating that, as of 2018-11-30, the fair market value of Nishiki Tokutei Mokuteki Kaisha's assets was approximately JPY29.188 billion, including Enrix Co Ltd's valuation of the nine Osaka medical properties at JPY28.601 billion."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2019-11-13",
+          "Text": "On 2019-11-13, Houlihan Lokey (China) Limited issued a final valuation report to Sankaty European Investments S.A.R.L confirming the same fair market value figures for Nishiki Tokutei Mokuteki Kaisha's assets as in the 2019-03-25 draft report."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2019-07-13",
+          "Text": "On 13 July 2019, Ms Lee asked Mr Kataoka to let the 1st defendant know if there was another NRE contact to copy on the email, as she had tried to reach Ms Zhang but her email was bouncing."
+        }
+      ],
+      "Issue": "Whether Sankaty European Investments S.A.R.L could enforce an Additional Interest Amount and related enforcement actions under the loan agreement based on its appointment of Houlihan Lokey (China) Limited as appraiser and its subsequent appointment of receivers over the plaintiffs' charged assets.",
+      "Rule": "A lender seeking to enforce additional return mechanisms and security under a loan agreement must comply with the contractual conditions precedent, including any specified requirements for appointing valuers or appraisers, consultation obligations with designated borrower entities, and definitions governing the qualifications of appraisers.",
+      "Application": "Sankaty European Investments S.A.R.L entered into a loan agreement on 2016-06-30 that entitled it to an Additional Interest Amount based on a fair market valuation of Nishiki Tokutei Mokuteki Kaisha's assets by an appraiser defined as a reputable appraisal firm with operations in Japan appointed in consultation with Nishiki Real Estate Pte Ltd. After the loan principal and fixed interest were repaid in June 2017, Sankaty European Investments S.A.R.L treated the Additional Interest mechanism as still operative and, around the 2018-11-30 maturity date, initiated steps to calculate and demand Additional Interest. It sent a demand email on 2018-12-04, proposed candidate appraisers to Mr Shinsuke Kataoka on 2018-12-05, and, following his indication of no objection, engaged Houlihan Lokey (China) Limited on 2019-02-06. Houlihan Lokey (China) Limited subcontracted property valuations to Enrix Co Ltd and issued draft and final valuation reports in March and November 2019, which Sankaty European Investments S.A.R.L used to quantify an Additional Interest claim of JPY1.111 billion in a 2019-07-12 demand letter. It then appointed private receivers over the plaintiffs' charged assets on or about 2019-10-18. The enforceability of these steps turned on whether Houlihan Lokey (China) Limited satisfied the contractual definition of appraiser and whether consultation with Nishiki Real Estate Pte Ltd, rather than with a non-employee consultant, had occurred.",
+      "Judicial_Reasoning_Log": "The court accepted that the loan agreement, including the Additional Interest mechanism, was valid and enforceable in principle, and that Sankaty European Investments S.A.R.L had advanced and been repaid the JPY100 million principal and fixed interest. However, it scrutinised whether the lender had complied with the contractual requirements for appointing an appraiser and calculating the Additional Interest Amount. The court held that the Investment Management Deed did not give Brocade Management Pte Ltd or Mr Shinsuke Kataoka authority to act as Borrower Agent for consultation on the appraiser appointment, and that the plaintiffs' conduct in allowing Mr Kataoka to liaise on financing matters did not amount to a representation that he could bind Nishiki Real Estate Pte Ltd in relation to the appraiser selection. It found that Sankaty European Investments S.A.R.L knew that Mr Kataoka was associated with Brocade rather than the Nishiki group and that he had a personal economic interest in the Additional Interest via his shareholding in Brocade Investment Pte Ltd.\n\nOn the definition of 'Appraiser', the court interpreted 'a reputable appraisal firm with operations in Japan' to require that the firm itself have appraisal operations in Japan, not merely an affiliate with unspecified capabilities. It found that Houlihan Lokey (China) Limited did not have appraisal operations in Japan and that the evidence did not establish that its Japanese affiliate conducted real estate appraisal under its control. Accordingly, Houlihan Lokey (China) Limited did not meet the contractual definition of Appraiser. The court also held that the lender had not fulfilled its obligation to consult Nishiki Real Estate Pte Ltd on the appointment, as it had only consulted Mr Kataoka. As a result, the appointment of Houlihan Lokey (China) Limited and its valuation report were declared invalid and set aside.\n\nBecause the Additional Interest Amount claimed by Sankaty European Investments S.A.R.L was based entirely on the invalid Houlihan Lokey (China) Limited valuation, the court concluded that there was no contractually established Additional Interest debt. It therefore held that the lender's demand for JPY1.111 billion and its subsequent appointment of receivers over the plaintiffs' charged assets lacked a valid contractual foundation. The court did not need to resolve all of the detailed valuation criticisms but observed that certain assumptions made by Enrix Co Ltd, such as treating two hospital properties as candidates for demolition and residential redevelopment based on negative cashflows, were highly questionable. Ultimately, the lender's claims to enforce the Additional Interest and related enforcement actions were dismissed, even though the underlying loan agreement remained valid."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  }
+]

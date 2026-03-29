@@ -1,0 +1,439 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 911 of 2014",
+      "Coram": "Kannan Ramesh JC",
+      "Judge": "Kannan Ramesh",
+      "Date": "2016-12-27",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Prima Bulkship Pte Ltd (in creditors’ voluntary liquidation)",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2009-12-16",
+          "Text": "Prima Bulkship Pte Ltd was incorporated in Singapore on 16 December 2009 with an issued and paid-up share capital of S$2."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2010-01-01",
+          "Text": "At the material time, the sole shareholder of Prima Bulkship Pte Ltd was RP Capital Sdn Bhd, a company incorporated in Malaysia by Halim Bin Mohammad."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-07-15",
+          "Text": "Lim Say Wan was appointed as the sole director on record of Prima Bulkship Pte Ltd on 15 July 2010."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-13",
+          "Text": "On 13 July 2010, JTJB approached Lim with a view to appointing two local nominee directors for Prima and Star."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2010-07-13",
+          "Text": "Lim operates Corporate Managers Pte Ltd, a company involved in the business of providing corporate secretarial services including nominee directorships, and Lim and Jude Benny, a partner in JTJB, have known each other for a long time."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-13",
+          "Text": "Lim approached Beh, an employee of Lim’s former associate firm, to ask if he was agreeable to be the local nominee director for one of the Companies. Beh agreed."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-07-13",
+          "Text": "Around 13 July 2010, a fee of S$2,000 per annum per company was discussed and agreed for the nominee directorships of Prima Bulkship Pte Ltd and Star Bulkship Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-14",
+          "Text": "The following day, JTJB emailed Lim to inform him that their client, ie, the Purchasers, had agreed to appoint Lim and Beh as the sole nominee directors for Prima and Star respectively."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-07-15",
+          "Text": "On 15 July 2010, a written directors' resolution of Prima Bulkship Pte Ltd was executed authorising the company to purchase suitable dry bulk vessels to engage in the international carriage of dry bulk commodities."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-07-15",
+          "Text": "On 15 July 2010, a written directors' resolution of Prima Bulkship Pte Ltd authorised the company to enter into any Memorandum of Agreement pertaining to the purchase of dry bulk vessels."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-07-15",
+          "Text": "On 15 July 2010, a written directors' resolution of Prima Bulkship Pte Ltd appointed Halim Bin Mohammad, Hisham Halim and Panchacharam Ramasamy as attorneys-in-fact of the company, each empowered to act alone in relation to the purchase of dry bulk vessels."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-15",
+          "Text": "On 15 July 2010, the directors' resolution of Prima Bulkship Pte Ltd authorised the appointed attorneys-in-fact to execute instruments and documents, make payments and perform acts they considered necessary for the contemplated vessel purchase transactions, based on a certified copy of the resolutions without a separate power of attorney."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2010-07-19",
+          "Text": "As at 19 July 2010, Halim Bin Mohammad and his son Hisham Halim were directors of RP Capital Sdn Bhd, the sole shareholder of Prima Bulkship Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-07-15",
+          "Text": "It bears repeating that RP Capital and RP Ventures, the respective Companies’ shareholders, were incorporated by Halim, and that Halim and Hisham were directors of RP Capital and RP Ventures (as at 19 July 2010)."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-07-15",
+          "Text": "Under the Memorandum of Agreement between Sonic Finance Inc and Prima Bulkship Pte Ltd dated 15 July 2010, the purchase price of MV Sunray was set at US$34,000,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-07-15",
+          "Text": "Under the MOA, the Companies were each required to make payment of a deposit of US$3.4m within 48 hours of entry into certain Tripartite Agreements, under which the Companies were to take over from the respective Sellers liability for the time charters in relation to the Vessels between Korea Line Corporation and the respective Sellers."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-07-27",
+          "Text": "The Tripartite Agreements were entered into on 27 July 2010 (despite being dated 20 July 2010) and consequently, the Deposits were due on 29 July 2010."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-07-29",
+          "Text": "The parties also agreed that the Deposits were to be paid into a joint account opened with DNB Bank and would only be released upon the joint instructions of the Companies and the Sellers."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-07-28",
+          "Text": "On 28 July 2010, the Companies each opened a bank account with Credit Suisse AG, Singapore. However, the Bank Accounts were never funded and no transactions were made under them."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-29",
+          "Text": "By 29 July 2010, the Companies had yet to pay any part of the Deposits. Halim informed SSY Singapore that he had given instructions for the Deposits to be remitted to the DNB Bank joint account and that the Deposits would be received by 2 August 2010 at the latest."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-29",
+          "Text": "The Sellers agreed to give an extension of time for payment of the Deposits till then."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-31",
+          "Text": "On 31 July 2010, the POA Holders were informed that the 'Moonray' had been arrested in New Orleans, the USA and the 'Sunray' was at risk of imminent arrest."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-08-02",
+          "Text": "It came to light that the 'Moonray' was indeed arrested on 26 July 2010, but was subsequently released on 2 August 2010."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-04-01",
+          "Text": "Prior to the liquidation, Lim and Beh had signed all the necessary documents for the voluntary liquidation, including the balance sheet and profit and loss account of Prima and Star (as at 31 December 2010)."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2011-04-18",
+          "Text": "Prior to the liquidation, Lim and Beh had signed all the necessary documents for the voluntary liquidation, including the Statement of Affairs (and affidavit verifying the same) of Prima and Star."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2011-04-18",
+          "Text": "On or about 18 April 2011, the Companies were both placed in creditors’ voluntary liquidation by the appointment of Mr Robert Yam Mow Lam as provisional liquidator."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2011-05-12",
+          "Text": "On 12 May 2011, Mr Yam was appointed the liquidator of the Companies."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2011-10-21",
+          "Text": "On 21 October 2011, the Companies were purportedly dissolved by Mr Yam."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-07-15",
+          "Text": "Lim and Beh each received a Nominee Director Indemnity Agreement (collectively, the 'NDI Agreements') signed by Halim. Clauses 1.3 and 4.2 provide that the Nominee Director shall provide routine services as a Nominee Director of the Company, limited to signature of routine notices, approval of the annual audited accounts, the convening of an annual general meeting and the execution of the annual return (if requested), and that the Services are provided in a purely nominee capacity and the Nominee Director will not act in any executive capacity or undertake commercial decisions or assume any commercial responsibility."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "The amounts were initially paid for by RP Capital and RP Ventures by way of shareholder’s loans, but upon the liquidation of the Companies, RP Capital and RP Ventures filed proofs of debts against the Companies in respect of these sums."
+        }
+      ],
+      "Issue": "Whether, before the dispute arose, the conduct of Prima Bulkship Pte Ltd and its director in authorising and structuring the vessel purchase transaction, including delegation to attorneys-in-fact and reliance on shareholder funding, exposed the company to unpaid deposit liabilities under the Memorandum of Agreement.",
+      "Rule": "Directors are generally exercise reasonable care, skill and diligence in managing a company, including understanding key transactions, monitoring delegated authority, and considering the company’s financial position and creditor interests when entering into substantial obligations.",
+      "Application": "Prima Bulkship Pte Ltd was incorporated as a special purpose vehicle with S$2 paid-up capital and no operating assets, and its sole director, appointed as a local nominee, passed resolutions authorising vessel purchases and broad powers for attorneys-in-fact to negotiate and execute the Memorandum of Agreement and related tripartite agreements. The Memorandum of Agreement for MV Sunray set a US$34,000,000 price and a US$3,400,000 deposit payable shortly after the tripartite agreement, while the company’s bank account at Credit Suisse remained unfunded and the deposit was not remitted by the agreed dates. These pre-dispute events define the configuration of authority, funding expectations, and contractual obligations that preceded the later arbitration claims for the unpaid deposit.",
+      "Judicial_Reasoning_Log": "The judgment analyses whether Lim Say Wan, as director of Prima Bulkship Pte Ltd, breached duties of care, skill and diligence, duties when the company was insolvent or of doubtful solvency, and other director duties, and whether any such breaches caused the company’s losses, including the arbitration awards for unpaid deposits. The court records that the liquidators did not challenge the commercial terms of the Memoranda of Agreement or the bona fides of the vessel purchases, and accepted that the purchasers were serious buyers with means. The judge emphasises that the liquidators’ core complaint was the absence of funding arrangements when the MOAs were executed and when deposits fell due, but concludes that, in context, it was reasonable for the director to rely on the purchasers and shareholders for funding and that the director had no independent means to procure financing. The court distinguishes cases on impermissible fetters of directors’ discretion and nominee arrangements, finding that the Nominee Director Indemnity Agreements reflected a non-executive role rather than a wholesale surrender of decision-making. The judge notes that the attorneys-in-fact were effectively the controlling minds behind the companies and their shareholders, with industry experience and legal advice, and that the liquidators did not contend that the attorneys-in-fact acted unreasonably in deciding not to proceed with the MOAs after the vessel arrest issues. The reasoning applies causation principles, holding that even if there were deficiencies in the director’s involvement or monitoring, the liquidators did not show that different conduct by the director would have prevented the breach of the MOAs or the resulting arbitration awards. The judgment also addresses the scope of directors’ duties when a company is insolvent or of doubtful solvency, explaining that such duties focus on preventing dissipation or exploitation of assets to the prejudice of creditors, and should not be expanded to impose personal liability for entering bona fide transactions that are reasonably expected to benefit the company. Ultimately, the court evaluates the pleaded categories of duty, the agreed facts about the director’s lack of involvement in negotiations and funding arrangements, and the surrounding commercial circumstances, and reaches conclusions on liability and the availability of defences such as shareholder ratification and statutory relief, which are not reproduced here in detail."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 911 of 2014",
+      "Coram": "Kannan Ramesh JC",
+      "Judge": "Kannan Ramesh",
+      "Date": "2016-12-27",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Star Bulkship Pte Ltd (in creditors’ voluntary liquidation)",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2010-07-13",
+          "Text": "Star Bulkship Pte Ltd was incorporated in Singapore on 13 July 2010 with an issued and paid-up share capital of S$2."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2010-01-01",
+          "Text": "At the material time, the sole shareholder of Star Bulkship Pte Ltd was RP Ventures Sdn Bhd, a company incorporated in Malaysia by Halim Bin Mohammad."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-07-15",
+          "Text": "Beh Thiam Hock was appointed as the sole director on record of Star Bulkship Pte Ltd on 15 July 2010."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-07-15",
+          "Text": "On 15 July 2010, a written directors' resolution of Star Bulkship Pte Ltd was executed authorising the company to purchase suitable dry bulk vessels to engage in the international carriage of dry bulk commodities."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-07-15",
+          "Text": "On 15 July 2010, a written directors' resolution of Star Bulkship Pte Ltd authorised the company to enter into any Memorandum of Agreement pertaining to the purchase of dry bulk vessels."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-07-15",
+          "Text": "On 15 July 2010, a written directors' resolution of Star Bulkship Pte Ltd appointed Halim Bin Mohammad, Hisham Halim and Panchacharam Ramasamy as attorneys-in-fact of the company, each empowered to act alone in relation to the purchase of dry bulk vessels."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-15",
+          "Text": "On 15 July 2010, the directors' resolution of Star Bulkship Pte Ltd authorised the appointed attorneys-in-fact to execute instruments and documents, make payments and perform acts they considered necessary for the contemplated vessel purchase transactions, based on a certified copy of the resolutions without a separate power of attorney."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2010-07-19",
+          "Text": "As at 19 July 2010, Halim Bin Mohammad and his son Hisham Halim were directors of RP Ventures Sdn Bhd, the sole shareholder of Star Bulkship Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-07-15",
+          "Text": "On 15 July 2010, a Memorandum of Agreement dated 15 July 2010 was executed between Mirage Finance Inc and Star Bulkship Pte Ltd for the purchase of the vessel MV Moonray, with the document signed on behalf of Star Bulkship Pte Ltd by Halim Bin Mohammad."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-07-15",
+          "Text": "Under the Memorandum of Agreement between Mirage Finance Inc and Star Bulkship Pte Ltd dated 15 July 2010, the purchase price of MV Moonray was set at US$34,000,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-07-15",
+          "Text": "Under the Memorandum of Agreement between Mirage Finance Inc and Star Bulkship Pte Ltd dated 15 July 2010, Star Bulkship Pte Ltd was pay a deposit of US$3,400,000 within 48 hours after entry into specified tripartite agreements relating to the vessel's time charter."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-07-27",
+          "Text": "On 27 July 2010, a tripartite agreement, dated 20 July 2010, was entered into under which Star Bulkship Pte Ltd took over from Mirage Finance Inc the liability for the time charter of MV Moonray with Korea Line Corporation."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-07-29",
+          "Text": "As a result of the 27 July 2010 tripartite agreement, the US$3,400,000 deposit under the Memorandum of Agreement for MV Moonray became contractually due from Star Bulkship Pte Ltd on 29 July 2010, to be paid into a joint account with DNB Bank."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-07-28",
+          "Text": "On 28 July 2010, Star Bulkship Pte Ltd opened a bank account with Credit Suisse AG, Singapore, which remained unfunded and had no transactions during the relevant period."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-31",
+          "Text": "On 31 July 2010, the attorneys-in-fact for Star Bulkship Pte Ltd were informed that the vessel MV Moonray had been arrested in New Orleans, USA."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-31",
+          "Text": "Between 31 July 2010 and 6 August 2010, multiple emails were exchanged between the attorneys-in-fact, Messrs Joseph Tan Jude Benny LLP, the sellers' solicitors Reed Smith LLP, and Simpson Spence Young Singapore concerning the arrest of MV Moonray and the status of the vessel transactions."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-26",
+          "Text": "On 26 July 2010, the vessel MV Moonray was arrested in New Orleans, USA, and was later released on 2 August 2010."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-06",
+          "Text": "On 6 August 2010, the sellers' solicitors requested confirmation from the attorneys-in-fact and Messrs Joseph Tan Jude Benny LLP that the deposits under the Memoranda of Agreement would be paid by 9 August 2010."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-08-09",
+          "Text": "By 9 August 2010, the sellers' solicitors had not received confirmation that the deposits would be paid, and they notified Messrs Joseph Tan Jude Benny LLP that the sellers had cancelled or terminated the Memoranda of Agreement for the vessels, including the agreement with Star Bulkship Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-08-10",
+          "Text": "On 10 August 2010, the sellers commenced arbitration proceedings in London against Star Bulkship Pte Ltd, claiming US$3,400,000 as the unpaid deposit under the Memorandum of Agreement for MV Moonray, together with interest and costs."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-07-15",
+          "Text": "Around 15 July 2010, Beh Thiam Hock received a Nominee Director Indemnity Agreement signed by Halim Bin Mohammad, which stated that the nominee director's routine services were limited to signing routine notices, approving annual audited accounts, convening annual general meetings and executing annual returns, and that the nominee director would not act in any executive capacity or undertake commercial decisions or responsibilities."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "During 2010, initial operational costs and expenses of Star Bulkship Pte Ltd, including legal fees and vessel inspection fees, were paid by RP Ventures Sdn Bhd by way of shareholder support, and RP Ventures later filed a proof of debt in the liquidation for these sums."
+        }
+      ],
+      "Issue": "Whether, before the dispute arose, the conduct of Star Bulkship Pte Ltd and its director in authorising and structuring the vessel purchase transaction, including delegation to attorneys-in-fact and reliance on shareholder funding, exposed the company to unpaid deposit liabilities under the Memorandum of Agreement.",
+      "Rule": "Directors are generally exercise reasonable care, skill and diligence in managing a company, including understanding key transactions, monitoring delegated authority, and considering the company’s financial position and creditor interests when entering into substantial obligations.",
+      "Application": "Star Bulkship Pte Ltd was incorporated shortly before the vessel purchase, with S$2 paid-up capital and no operating assets, and its sole director, appointed as a local nominee, passed resolutions authorising vessel purchases and broad powers for attorneys-in-fact to negotiate and execute the Memorandum of Agreement and related tripartite agreements. The Memorandum of Agreement for MV Moonray set a US$34,000,000 price and a US$3,400,000 deposit payable shortly after the tripartite agreement, while the company’s bank account at Credit Suisse remained unfunded and the deposit was not remitted by the agreed dates. These pre-dispute events define the configuration of authority, funding expectations, and contractual obligations that preceded the later arbitration claims for the unpaid deposit.",
+      "Judicial_Reasoning_Log": "The judgment considers whether Beh Thiam Hock, as director of Star Bulkship Pte Ltd, breached duties of care, skill and diligence, duties when the company was insolvent or of doubtful solvency, and other director duties, and whether any such breaches caused the company’s losses, including the arbitration awards for unpaid deposits. The court notes that Star Bulkship Pte Ltd was a special purpose vehicle with minimal capital and that its director acted as a local nominee under an indemnity agreement limiting his role to routine statutory functions. The judge evaluates the extent to which such a director must involve himself in commercial decisions, the reasonableness of delegating all commercial aspects of the vessel purchase to experienced attorneys-in-fact who were also the effective controllers and shareholders, and the impact of the company’s financial position on duties owed to creditors. The reasoning addresses the liquidators’ contention that the director should have ensured funding or prevented entry into the Memorandum of Agreement in the absence of secured financing, and concludes that, in the circumstances, it was not shown that different conduct by the director would have altered the decision to enter or not perform the MOA or avoided the subsequent arbitration liabilities. The court also examines whether any duties to creditors in a context of doubtful solvency were engaged and, if so, whether they were breached by permitting the company to participate in a bona fide acquisition transaction that was expected to be funded by the shareholders and purchasers. The judgment further discusses defences such as shareholder ratification and statutory relief, and reaches final conclusions on liability that are not detailed here."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 911 of 2014",
+      "Coram": "Kannan Ramesh JC",
+      "Judge": "Kannan Ramesh",
+      "Date": "2016-12-27",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lim Say Wan",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2010-07-15",
+          "Text": "On 15 July 2010, Lim Say Wan was appointed as a director of Prima Bulkship Pte Ltd."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2010-07-13",
+          "Text": "Lim Say Wan operated Corporate Managers Pte Ltd, a company involved in the business of providing corporate secretarial services including nominee directorships."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2010-07-13",
+          "Text": "Lim Say Wan and Jude Benny, a partner in JTJB, had known each other for a long time, and Jude Benny had in the past approached Lim for the purpose of appointment as a nominee director for other ship-owning companies which were involved in transactions that Jude Benny was acting in."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-13",
+          "Text": "On 13 July 2010, JTJB approached Lim with a view to appointing two local nominee directors for Prima and Star."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-13",
+          "Text": "Lim approached Beh, an employee of Lim’s former associate firm, to ask if he was agreeable to be the local nominee director for one of the Companies."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-07-13",
+          "Text": "The rate of S$2,000 per annum per company was discussed and agreed."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-14",
+          "Text": "The following day, JTJB emailed Lim to inform him that their client, the Purchasers, had agreed to appoint Lim and Beh as the sole nominee directors for Prima and Star respectively."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-07-15",
+          "Text": "Lim received a Nominee Director Indemnity Agreement signed by Halim. Clauses 1.3 and 4.2 limited the nominee director's routine services and stated that the services were provided in a purely nominee capacity and the nominee director would not act in any executive capacity or undertake commercial decisions or assume any commercial responsibility."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-07-15",
+          "Text": "Upon appointment, Lim caused a director’s resolution in writing to be passed by Prima, resolving that the company be authorised to purchase suitable dry bulk vessels, to enter into any Memorandum of Agreement(s) pertaining to the purchase of the vessels, and to appoint Halim, Hisham and Panchacharam as attorneys-in-fact, each empowered to act alone, in connection with the transactions."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-28",
+          "Text": "On 28 July 2010, the Companies each opened a bank account with Credit Suisse AG, Singapore. The Bank Accounts were never funded and no transactions were made under them."
+        }
+      ],
+      "Issue": "Whether, based solely on pre-dispute conduct, the way Lim Say Wan accepted and performed a nominee directorship, delegated authority over the vessel purchase, and handled company documentation and liquidation steps is associated with the eventual financial exposure of Prima Bulkship Pte Ltd under the vessel purchase arrangements.",
+      "Rule": "Company directors, including non-executive and nominee directors, are generally exercise reasonable care, skill and diligence in their role, which includes understanding the nature of the company’s main transactions, making informed decisions about delegating authority, and overseeing key corporate actions such as entering major contracts and initiating liquidation procedures.",
+      "Application": "Lim Say Wan agreed to act as a local nominee director for Prima Bulkship Pte Ltd at a fixed annual fee, under an indemnity agreement that framed his role as limited to routine statutory functions and excluded commercial decision-making. Shortly after his appointment, he approved resolutions authorising the company to purchase a vessel and to grant broad authority to attorneys-in-fact, who were also the effective controllers and shareholders, to negotiate and execute the Memorandum of Agreement and related documents. He also signed bank account opening forms, financial statements as at 31 December 2010, and the Statement of Affairs used to place the company into creditors' voluntary liquidation. These actions he facilitated the corporate structure and formal steps around the vessel purchase and subsequent liquidation, while leaving commercial and funding decisions to the attorneys-in-fact and shareholders.",
+      "Judicial_Reasoning_Log": "The judgment evaluates whether Lim Say Wan, as a nominee director, failed to meet the applicable standard of care, skill and diligence by not informing himself of the terms of the Memorandum of Agreement, not monitoring the attorneys-in-fact, and not ensuring funding for the deposit and purchase price. The court notes that he did not review the MOA, was unaware of the deposit obligations and the arbitrations, and left all commercial decisions to the attorneys-in-fact. However, the judge considers the context: Prima Bulkship Pte Ltd was a special purpose vehicle with S$2 capital, Lim’s role was expressly limited by the Nominee Director Indemnity Agreement, and the attorneys-in-fact were experienced industry participants who controlled the shareholders and had legal advice. The reasoning concludes that, in these circumstances, it was reasonable for Lim to rely on the attorneys-in-fact and shareholders for commercial decisions and funding, and that there was no realistic step he could have taken to prevent the non-payment of the deposit or the breach of the MOA once the transaction was in place. The court also addresses arguments that he owed enhanced duties to creditors due to doubtful solvency, and rejects an expansive view of such duties that would effectively impose personal liability for trading in an insolvent situation outside the statutory wrongful or fraudulent trading provisions. The judgment further considers Lim’s defences of shareholder ratification and statutory relief under section 391 of the Companies Act, and reaches a final conclusion on his liability that is not reproduced here."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 3
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 911 of 2014",
+      "Coram": "Kannan Ramesh JC",
+      "Judge": "Kannan Ramesh",
+      "Date": "2016-12-27",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Beh Thiam Hock",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2010-07-15",
+          "Text": "On 15 July 2010, Beh Thiam Hock was appointed as a director and the sole director on record of Star Bulkship Pte Ltd."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2010-07-13",
+          "Text": "As at July 2010, Beh Thiam Hock was an employee of a former associate firm of Lim Say Wan."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-13",
+          "Text": "Around 13 July 2010, after being approached by Messrs Joseph Tan Jude Benny LLP, Lim Say Wan asked Beh Thiam Hock if he was agreeable to act as a local nominee director for one of the companies involved in the vessel purchase transactions, and Beh agreed."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-07-13",
+          "Text": "Around 13 July 2010, a fee of S$2,000 per annum per company was discussed and agreed as remuneration for the nominee directorships of Prima Bulkship Pte Ltd and Star Bulkship Pte Ltd, including the role accepted by Beh Thiam Hock."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-07-15",
+          "Text": "On or about 15 July 2010, Beh Thiam Hock received and signed a Nominee Director Indemnity Agreement, executed by Halim Bin Mohammad, which limited his services as nominee director to routine statutory functions and stated that he would not act in any executive capacity or undertake commercial decisions or responsibilities for Star Bulkship Pte Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-07-15",
+          "Text": "On 15 July 2010, as director of Star Bulkship Pte Ltd, Beh Thiam Hock approved a written directors' resolution authorising the company to purchase suitable dry bulk vessels, to enter into Memoranda of Agreement for such purchases, and to appoint Halim Bin Mohammad, Hisham Halim and Panchacharam Ramasamy as attorneys-in-fact with authority to act alone in relation to those transactions."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-28",
+          "Text": "On or about 28 July 2010, Beh Thiam Hock signed a bank account opening form for a Star Bulkship Pte Ltd account with Credit Suisse AG, Singapore, which was subsequently opened but remained unfunded."
+        }
+      ],
+      "Issue": "Whether, based solely on pre-dispute conduct, the way Beh Thiam Hock accepted and performed a nominee directorship, delegated authority over the vessel purchase, and handled company documentation and liquidation steps is associated with the eventual financial exposure of Star Bulkship Pte Ltd under the vessel purchase arrangements.",
+      "Rule": "Company directors, including non-executive and nominee directors, are generally exercise reasonable care, skill and diligence in their role, which includes understanding the nature of the company’s main transactions, making informed decisions about delegating authority, and overseeing key corporate actions such as entering major contracts and initiating liquidation procedures.",
+      "Application": "Beh Thiam Hock agreed to act as a local nominee director for Star Bulkship Pte Ltd at a fixed annual fee, under an indemnity agreement that framed his role as limited to routine statutory functions and excluded commercial decision-making. Shortly after his appointment, he approved resolutions authorising the company to purchase a vessel and to grant broad authority to attorneys-in-fact, who were also the effective controllers and shareholders, to negotiate and execute the Memorandum of Agreement and related documents. He also signed bank account opening forms, financial statements as at 31 December 2010, and the Statement of Affairs used to place the company into creditors' voluntary liquidation. These actions he facilitated the corporate structure and formal steps around the vessel purchase and subsequent liquidation, while leaving commercial and funding decisions to the attorneys-in-fact and shareholders.",
+      "Judicial_Reasoning_Log": "The judgment examines whether Beh Thiam Hock, as a nominee director of Star Bulkship Pte Ltd, failed to meet the applicable standard of care, skill and diligence by not informing himself of the terms of the Memorandum of Agreement, not monitoring the attorneys-in-fact, and not ensuring funding for the deposit and purchase price. The court notes that he did not review the MOA, was unaware of the deposit obligations and the arbitrations, and left all commercial decisions to the attorneys-in-fact. The judge considers the context of his appointment as a local nominee director for a special purpose vehicle with minimal capital, the limitations in his Nominee Director Indemnity Agreement, and the fact that the attorneys-in-fact were experienced industry participants who controlled the shareholders and had legal advice. The reasoning parallels the analysis for Lim Say Wan, concluding that it was reasonable for Beh to rely on the attorneys-in-fact and shareholders for commercial decisions and funding, and that there was no realistic step he could have taken to prevent the non-payment of the deposit or the breach of the MOA once the transaction was in place. The court also addresses arguments about duties to creditors in a context of doubtful solvency and rejects an expansive interpretation that would impose personal liability for entering bona fide transactions expected to be funded by the controllers. The judgment further considers defences such as shareholder ratification and statutory relief, and reaches a final conclusion on his liability that is not detailed here."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 3
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 908 of 2010",
+      "Coram": "Tan Lee Meng J",
+      "Judge": "Tan Lee Meng",
+      "Date": "2013-02-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Han Cheng Fong",
+      "Law_Firm": "Bih Li & Lee",
+      "Counsel": [
+        "Anthony Lee Hwee Khiam",
+        "Pua Lee Siang"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2010-01-01",
+          "Text": "Han Cheng Fong is a former Chief Executive Officer of Fraser & Neave Ltd and a former Deputy Chairman of DBS Land Ltd with experience in the property market in Singapore and China."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2009-01-01",
+          "Text": "Han Cheng Fong was a former Chief Executive Officer of Fraser & Neave Ltd and a former Deputy Chairman of DBS Land Ltd, and he had expertise in the property market in Singapore and China."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2009-01-01",
+          "Text": "In late 2009, the founder directors of Cleantech Partners Pte Ltd invited Han Cheng Fong to participate in a low-carbon project in Hangzhou, China, known as the Hangzhou-Singapore Eco-Park."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-02-28",
+          "Text": "On 23 February 2010, Richard emailed Christine and others that Christine had proposed a formal agreement among CTP shareholders to govern their business relationship and that a first draft would be prepared soon."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-03-01",
+          "Text": "On 28 February 2010, Richard stated that Christine had requested preparation of a simple shareholders' agreement among the CTP board members to be signed by 1 March 2010 and that a resolution would be sent out by 1 March 2010 covering shareholdings, appointments, and proposed profit sharing."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-03-01",
+          "Text": "On 1 March 2010, a document titled 'Directors' Resolution in Writing Pursuant to the Company's Articles of Association' was signed by Patrick Teo, Han Cheng Fong, Richard SH Lim, Robin Low, Michael Heng, Christine Liew and on behalf of Cleantech Ventures Asia Pte Ltd, recording that with effect from 1 March 2010 each of the six individuals would hold two ordinary shares in Cleantech Partners Pte Ltd and Cleantech Ventures Asia Pte Ltd would hold four ordinary shares, for a total of 16 shares."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-03-01",
+          "Text": "The 1 March 2010 document recorded that CTP would set up CTP-Hangzhou Pte Ltd as a 100% subsidiary to be the special purpose vehicle for the Hangzhou-Singapore Eco-Park project, that the CTP-Hangzhou board would consist of all six directors of CTP with Han Cheng Fong as Chairman and Christine Liew as CEO, that net income would be split 67% to CTP-Hangzhou and 33% to CTP, and that of CTP-Hangzhou's 67% share, 33% would be distributed to its board and 67% to CTP-Hangzhou management headed by Han and Christine at Han's sole discretion."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-03-01",
+          "Text": "The 1 March 2010 document stated that any change to the recorded resolutions required a unanimous decision of the board of directors of CTP."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-03-23",
+          "Text": "Under the 1 March 2010 document, Han Cheng Fong was designated as Deputy Chairman of CTP and as Chairman of the board of CTP-Hangzhou Pte Ltd to be formed."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-03-24",
+          "Text": "On 23 March 2010, CTP entered into a tripartite agreement with HQEDA and Vanwarm to collaborate on the preparation of a master plan for and the development and promotion of the Hangzhou project."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-04-07",
+          "Text": "On 24 March 2010, the Business Times reported that CTP was 'dipping its toes into potential deals, including a coal gasification project in Indonesia, a wind farm project in Vietnam and a solar panel installation business in China' after an interview with Patrick, Richard and Michael."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-04-01",
+          "Text": "On 7 April 2010, Han informed CTP's directors by email that he would focus his attention on CTPHZ and not sit on the CTP board so as not to stand in the way of CTP's fund-raising efforts, and the directors accepted his stand."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-05-31",
+          "Text": "On 1 April 2010, CTPHZ was incorporated. Han became its chairman. The other directors were Robin, Patrick, Richard and Christine. Michael was not appointed to the CTPHZ board."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-06-01",
+          "Text": "On 31 May 2010, Han signed a collaboration agreement with Vanwarm on CTPHZ's behalf under which a joint venture company named HVC was to be set up, CTPHZ was guaranteed a profit of RMB130 million from the Hangzhou project, and Vanwarm undertook to arrange for Hong Jia to lend CTPHZ USD6 million to pay for CTPHZ's 40% share of HVC's registered capital of USD15 million."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2010-06-03",
+          "Text": "On 1 June 2010, Han sent an email to Patrick stating that if he had known before signing that Patrick had had an outburst directed at Christine but aimed at him, he would not have signed and the project would be lost, and that he had conscientiously worked to get the project off the ground while managing financial and reputational risks."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-06-03",
+          "Text": "On 3 June 2010, Richard emailed Patrick proposing to reduce Han to 10% max, remove him from the chairmanship of CTPHZ, remove Han and Christine as bank signatories, and freeze them from further information and updates until they felt useless."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-06-17",
+          "Text": "On 3 June 2010, Patrick replied that achieving the three goals would trigger a confrontation, that he preferred an 'elegant' approach via a marathon meeting, that CTP and CTPHZ were cleantech vendors so their role was diminished, and that they could be frozen from further information and updates until they felt useless."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2010-08-01",
+          "Text": "On 17 June 2010, HVC was incorporated in China. CTPHZ appointed Han and Robin to the HVC board. HVC's other directors were Vanwarm's chairman Liu Hai, Vanwarm's general manager Chen Yang and Zeng Jimin."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2010-08-01",
+          "Text": "By August 2010, Han discovered that Patrick and Richard were planning to deprive him and Christine of their rights under the 1 March document and to remove him from his posts in CTPHZ, and Robin handed over the incriminating emails to Han and Christine."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-17",
+          "Text": "By August 2010, Han discovered that Patrick and Richard were trying to sell their CTP shares to Bintan Kindenko Corporation Berhad, contrary to the understanding with HQEDA and Vanwarm that the Hangzhou project was to be a China-Singapore project."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-17",
+          "Text": "On 17 August 2010, Frankie emailed Patrick that Han may have to be got rid of before doing a deal with OPK because they would jam the deal once it was announced."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-24",
+          "Text": "On 17 August 2010, Patrick emailed Frankie describing a 'covert' dilution scheme involving a Malaysian company (MCO) controlled by Frankie and OPK, stating that Han and Christine could be diluted down to 19.23% or further and that at the time of the cash subscription they would ask Han to step down from the chair of CTPHZ and Christine from CTP."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-30",
+          "Text": "On 24 August 2010, Patrick emailed Richard and Robin stating that he was planning something with Frankie to get rid of Han and Christine and that they were going to be ruthless."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-08-25",
+          "Text": "On 30 August 2010, Patrick emailed Harpal Mahtani Partnership stating that he and his partners planned to exchange their shares in CTP for shares in a public listed company, that the altercation with Han would create problems, and that he needed to get Han out of the way or neutralise him somehow."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-09-05",
+          "Text": "On 25 August 2010, Han instructed Ng to ask all CTPHZ directors to disclose their directorships."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-09-18",
+          "Text": "On 5 September 2010, Patrick emailed the other CTPHZ directors stating that he would address the issues raised by Han with Ng in a memo to CTP members at a later date."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-09-24",
+          "Text": "On 18 September 2010, Christine and Robin formed Green Solutions @ ARB Pte Ltd, which changed its name to International Eco-City Pte Ltd on 20 January 2011."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-09-27",
+          "Text": "On 24 September 2010, Han arranged for a meeting of the CTPHZ board to be held on 29 September 2010."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-09-29",
+          "Text": "On 27 September 2010, after receiving notice of the 29 September 2010 CTPHZ board meeting, Patrick emailed Richard and Robin asking them not to attend, stating that attendance could lead to the breakup of CTP and that Han had planned to catch them wrong-footed."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-10-01",
+          "Text": "On 29 September 2010, a CTPHZ board meeting attended by Han, Robin and Christine replaced Ng with Sally Phuar, changed the company's registered address to the new company secretary's address, and confirmed that CTPHZ had five directors, namely Patrick, Richard, Han, Robin and Christine, with one seat left vacant."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-10-05",
+          "Text": "On 1 October 2010, Patrick instructed Ng to retain CTPHZ's records until further notice because the majority of CTP's board did not agree to the change of CTPHZ's company secretary."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-10-06",
+          "Text": "On 5 October 2010, Han emailed Patrick stating that he regretted being involved with the likes of Patrick and Richard, that he was committed to seeing the project through for the Chinese partners, that he would do all he could to ensure Patrick and Richard stayed within the law and observed good governance, and that he had documentary proof of what they had been up to in the last few months which he had communicated to Liu Hai and Vanwarm."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-10-12",
+          "Text": "On 6 October 2010, Patrick emailed Han saying that he had neither the time nor the passion to spar with Han and reserving his comments on Han's views on corporate governance."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-10-21",
+          "Text": "On 12 October 2010, Patrick caused an EGM of CTPHZ to be held to remove Han and Christine as directors with immediate effect, Michael was appointed a director of CTPHZ, and on the same day the defendants caused a board meeting of CTPHZ to approve a resolution removing Han as the company's corporate representative on HVC and replacing him with Patrick."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-10-29",
+          "Text": "On 21 October 2010, Ng emailed Han the resolutions dismissing him from his positions in CTPHZ; no reasons were given for the dismissal."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2010-11-30",
+          "Text": "On 29 October 2010, after Han had already been dismissed, Michael emailed Patrick and Richard proposing an action agenda for himself and Patrick that included the tasks Han allegedly did not do and concluding that the new agenda would support Han's removal as chairman of CTPHZ and from HVC together with Robin."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-12-02",
+          "Text": "On 30 November 2010, Vanwarm's chairman Liu Hai came to Singapore to mediate."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-12-03",
+          "Text": "On 2 December 2010, the defendants said they agreed to reinstate Han and Christine to the CTPHZ board in accordance with the 1 March document, but Han wanted an assurance that he would not be dismissed again until after completion of the Hangzhou project."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2011-01-31",
+          "Text": "On 3 December 2010, Han served his writ on the defendants."
+        }
+      ],
+      "Issue": "Whether, based on the 1 March 2010 document and the parties' pre-dispute conduct, Han Cheng Fong had a contractual or agreed right to remain as chairman and director of CTP-Hangzhou Pte Ltd and whether his subsequent removal from those positions on 12 October 2010 corresponded to a dismissal outcome.",
+      "Rule": "In company and contract law, the effect of a written agreement or resolution among shareholders and participants is assessed objectively by examining its terms and the surrounding communications to determine whether it constitutes a binding agreement on shareholding, board composition and decision-making, including any requirement for unanimous consent to alter specified arrangements. A director or office-holder who has an agreed right to hold a position may only be removed consistently with the terms of that agreement and applicable company law procedures; otherwise, removal may be treated as a dismissal or termination of that agreed position.",
+      "Application": "The 1 March 2010 document, together with contemporaneous emails in February and March 2010, recorded specific share allocations in Cleantech Partners Pte Ltd, the creation and ownership of CTP-Hangzhou Pte Ltd, and Han's designation as chairman of CTP-Hangzhou's board, with a clause requiring unanimous board consent to change the recorded resolutions. Subsequent conduct, including Han's appointment as chairman of CTP-Hangzhou upon its incorporation on 1 April 2010 and his role in signing the collaboration agreement with Vanwarm on 31 May 2010, aligned with these recorded arrangements. On 12 October 2010, an Extraordinary General Meeting and board meeting of CTP-Hangzhou removed Han from his directorship and from his role as corporate representative on the joint venture without prior notice to him and without recorded reasons, and without evidence of unanimous consent among all parties who had signed the 1 March 2010 document. These pre-dispute events frame the later judicial determination of whether the removal complied with or departed from the agreed framework.",
+      "Judicial_Reasoning_Log": "The judgment analysed whether the 1 March 2010 document was a binding shareholders' agreement, considering its language, the parties' emails, and the fact that non-directors signed it. The judge rejected the defendants' characterisation of the document as a mere board resolution and found it to be a valid shareholders' agreement that conferred on Han a right to be and remain chairman and director of CTPHZ, subject to unanimous consent for changes. The court also accepted that Han had a legitimate expectation, based on the circumstances of his joining the project, that he would continue in those roles. The judge examined extensive email evidence showing that Patrick and Richard planned to dilute Han and Christine, freeze them out of information, and remove them, including through proposed share sales to BKCB and a 'covert' dilution scheme. The court treated these as evidence of a conspiracy by unlawful means. The defendants advanced multiple justifications for Han's removal, including alleged failure to raise funds, decisions on the RESOHO component, an alleged attempt to seize control of CTPHZ on 29 September 2010, failure to meet project deadlines, exclusion of Michael from the CTPHZ board, failure to perform management tasks, competition via other projects, and disclosure of internal disputes to Vanwarm. The judge evaluated each ground, often relying on cross-examination admissions, and found them unproven or inconsistent, noting that decisions such as non-participation in the RESOHO component were collective and that Patrick himself accepted responsibility for missed deadlines and for Michael's non-appointment. On the disclosure issue, the court distinguished Tokuhon, holding that Han's communications to Vanwarm about internal disputes and the proposed Malaysian share sale did not cause the loss of the Hangzhou project and occurred in a context where Patrick and Richard were themselves pursuing a sale inconsistent with the China-Singapore understanding. The court concluded that the defendants had wrongfully dismissed Han on 12 October 2010 in breach of the shareholders' agreement and his legitimate expectations, that Patrick and Richard had conspired by unlawful means to injure Han, and that Han was entitled to damages to be assessed. The court also ordered that CTP and CTPHZ be wound up under section 216 of the Companies Act and awarded costs to Han."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 908 of 2010",
+      "Coram": "Tan Lee Meng J",
+      "Judge": "Tan Lee Meng",
+      "Date": "2013-02-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Teo Chong Nghee Patrick",
+      "Law_Firm": "KhattarWong LLP",
+      "Counsel": [
+        "Chan Kia Pheng",
+        "Harpal Singh",
+        "Tan Wei Ming",
+        "Favian Kang"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2010-01-01",
+          "Text": "Patrick Teo Chong Nghee is a founder director of Cleantech Partners Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-01-01",
+          "Text": "As at early 2010, Patrick Teo was a director of Cleantech Partners Pte Ltd and a director of CTPHZ after its incorporation."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Patrick Teo and Lim Shih Hsi Richard controlled Cleantech Ventures Asia Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-03-01",
+          "Text": "On 1 March 2010, Patrick Teo signed the 1 March document recording share allocations in Cleantech Partners Pte Ltd, the establishment of CTPHZ as a wholly-owned subsidiary, and the appointment of Han as Deputy Chairman of CTP and Chairman of CTPHZ."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-03-23",
+          "Text": "On 23 March 2010, CTP entered into a tripartite agreement with HQEDA and Vanwarm to collaborate on the preparation of a master plan for and the development and promotion of the Hangzhou project."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-01-30",
+          "Text": "On 30 January 2010, Patrick emailed the other directors of CTP stating that CTP did not have the savvy, political clout or any real estate track record in China, and that Han had the prominence needed by CTP and the aura and personality to carry CTP's views to Vanwarm."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-03-24",
+          "Text": "On 24 March 2010, the Business Times reported that CTP was 'dipping its toes into potential deals, including a coal gasification project in Indonesia, a wind farm project in Vietnam and a solar panel installation business in China'."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-04-07",
+          "Text": "On 7 April 2010, Han informed CTP's directors that he would focus his attention on CTPHZ and not sit on the CTP board so as not to stand in the way of CTP's fund raising efforts, and the directors of CTP accepted his stand."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-05-31",
+          "Text": "On 31 May 2010, Han signed a collaboration agreement with Vanwarm on CTPHZ's behalf under which HVC was to be set up, CTPHZ was guaranteed a profit of RMB130 million from the Hangzhou project, and Hong Jia was to lend CTPHZ USD6 million to pay for CTPHZ's 40% share of HVC's registered capital."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-06-03",
+          "Text": "On 3 June 2010, Richard emailed Patrick to ask the latter to 'remove' Han and Christine, proposing to reduce Han to 10% max, remove him from Chairman, make him and Christine no longer bank signatories, and 'deodorise' them and sideline them."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-06-03",
+          "Text": "On 3 June 2010, Patrick replied to Richard stating that achieving their three goals would trigger a confrontation, that he preferred an 'elegant' approach via a marathon meeting, that CTP and CTPHZ were cleantech vendors so their role was diminished, that they could freeze Han and Christine from further information and updates until they felt useless, and that Han would threaten to resign and Christine might depart."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-06-03",
+          "Text": "On 3 June 2010, Richard replied to Patrick that 'THAT IS OUR PLAN'."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2010-04-01",
+          "Text": "On 1 April 2010, CTPHZ was incorporated. Han became its chairman. The other directors were Robin, Patrick, Richard and Christine. Michael was not appointed to the CTPHZ board."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2010-06-17",
+          "Text": "On 17 June 2010, HVC was incorporated in China. CTPHZ appointed Han and Robin to the HVC board. HVC's other directors were Vanwarm's chairman, Mr Liu Hai, Vanwarm's general manager, Mr Chen Yang, and Mr Zeng Jimin."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2010-08-01",
+          "Text": "By August 2010, Patrick and Richard were trying to sell their CTP shares to BKCB."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-17",
+          "Text": "On 17 August 2010, Frankie emailed Patrick that he thought Han had to be got rid of before the deal with BKCB could materialise because Han and Christine would jam the deal once it was announced."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-17",
+          "Text": "On 17 August 2010, Patrick emailed Frankie describing a 'covert' dilution scheme involving a Malaysian company (MCO) controlled by Frankie and OPK, stating that Han and Christine could be diluted down to 19.23% or further, and that at the time of the cash subscription they would ask Han to step down from the chair of CTPHZ and Christine from CTP."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-24",
+          "Text": "On 24 August 2010, Patrick emailed Richard and Robin as follows: 'Am planning something with Frankie to get rid of [Han] and [Christine]. We are going to be ruthless.'"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-30",
+          "Text": "On 30 August 2010, Patrick emailed Harpal Mahtani Partnership stating that he and his partners planned to exchange their shares in CTP for shares in a public listed company, that the altercation with Han would create problems, and that he needed to get Han out of the way or neutralise him somehow."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-09-05",
+          "Text": "On 5 September 2010, Patrick emailed the other CTPHZ directors that he would address the issues raised by Han with Ng in a 'memo to CTP members' at a later date."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-09-27",
+          "Text": "On 27 September 2010, Patrick emailed Richard and Robin asking them not to attend the 29 September 2010 meeting, stating that if any one of them did, it would be the breakup of CTP and that Han had already planned to catch them wrong footed."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-10-01",
+          "Text": "On 1 October 2010, Patrick instructed Ng to retain CTPHZ's records until further notice because the majority of CTP's board did not agree to the change of CTPHZ's company secretary."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-10-06",
+          "Text": "On 6 October 2010, Patrick emailed Han saying that he had neither the time nor the passion to spar with Han and reserved his comments on Han's views on corporate governance."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-10-12",
+          "Text": "On 12 October 2010, Patrick caused an EGM of CTPHZ to be held to remove Han and Christine as directors with immediate effect. At the same meeting, Michael was appointed a director of CTPHZ. On the same day, the defendants caused a board meeting of CTPHZ to approve a resolution to remove Han as the company's corporate representative on HVC and to replace him with Patrick."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-10-21",
+          "Text": "On 21 October 2010, Ng emailed Han the resolutions that dismissed him from his positions in CTPHZ. No reasons were given for the dismissal."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2010-10-28",
+          "Text": "On 28 October 2010, Patrick and Michael went to Hangzhou to discuss matters with Vanwarm's Liu Hai. Patrick said that Liu Hai requested and he agreed that Han and Robin remain as HVC's directors because HVC was then bidding for land in the Hangzhou project and Chinese government officials frowned on dealing with companies with internal problems."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-10-29",
+          "Text": "On 29 October 2010, Michael emailed Patrick proposing an 'action agenda' for himself and Patrick that included the tasks Han allegedly did not do and concluded that the new action agenda would support Han's removal as Chairman of CTPHZ and from HVC together with Robin."
+        }
+      ],
+      "Issue": "Whether, in light of the 1 March 2010 document and subsequent pre-dispute communications and corporate actions, Patrick Teo and the other defendants' removal of Han from his positions in CTP-Hangzhou Pte Ltd and related steps in relation to the Hangzhou project corresponded to a finding of dismissal and conspiracy by unlawful means.",
+      "Rule": "A director or shareholder who participates in a binding agreement governing shareholdings, board composition and decision-making may not unilaterally depart from that agreement when effecting changes to board positions or corporate control. A combination of persons who agree to use unlawful means, such as acting in of a binding agreement or company law requirements, to cause loss to another may be found to have engaged in a conspiracy by unlawful means when their plan is implemented and causes the intended harm.",
+      "Application": "Patrick signed the 1 March 2010 document that set out share allocations in Cleantech Partners Pte Ltd, the establishment and board composition of CTP-Hangzhou Pte Ltd, and a unanimity requirement for changes to the recorded resolutions. Subsequent emails in June, August and September 2010 show Patrick and Richard discussing reducing Han's economic participation, removing him from the chairmanship of CTP-Hangzhou, freezing him and Christine out of information, and using share transactions with a Malaysian listed company to dilute their holdings and secure Han's resignation or removal. On 12 October 2010, Patrick initiated and participated in an Extraordinary General Meeting and board meeting of CTP-Hangzhou that removed Han and Christine as directors and replaced Han as corporate representative on the joint venture, without prior notice to Han and without recorded reasons, and without evidence of unanimous consent among all signatories to the 1 March 2010 document. These steps, together with the pre-dispute communications, formed the factual basis for the court's later conclusions on dismissal and conspiracy.",
+      "Judicial_Reasoning_Log": "The court examined Patrick's role as a founder director of CTP and CTPHZ and as a signatory to the 1 March 2010 document. It rejected his characterisation of the document as a non-binding internal resolution, noting that non-directors signed it and that its unanimity clause functioned as a voting agreement among shareholders. The judge relied on Patrick's cross-examination admissions that there was an agreement to give Han shares and to implement the profit-sharing clauses. The court analysed numerous emails in which Patrick and Richard discussed reducing Han's share, removing him from the chairmanship, freezing him and Christine out of information, and using a 'covert' dilution scheme involving a Malaysian company to dilute their holdings and secure their removal. The judge treated these as clear evidence of a plan to use unlawful means to injure Han. The court found that Patrick orchestrated the 12 October 2010 EGM and board meeting that removed Han and Christine without notice and without justification consistent with the shareholders' agreement. It evaluated each justification advanced by Patrick, including alleged failures by Han regarding fundraising, the RESOHO component, management tasks, deadlines, and competition, and found them unsupported or contradicted by Patrick's own admissions. The court concluded that Patrick and Richard had conspired by unlawful means to remove Han and that the dismissal was wrongful, leading to liability for damages and to orders winding up CTP and CTPHZ."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 4
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 908 of 2010",
+      "Coram": "Tan Lee Meng J",
+      "Judge": "Tan Lee Meng",
+      "Date": "2013-02-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lim Shih Hsi Richard",
+      "Law_Firm": "KhattarWong LLP",
+      "Counsel": [
+        "Chan Kia Pheng",
+        "Harpal Singh",
+        "Tan Wei Ming",
+        "Favian Kang"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-02-23",
+          "Text": "In an email dated 23 February 2010, Richard confirmed that Christine had raised the issue of a shareholders' agreement among CTP shareholders and said that they would look into it and get the first draft out soonest."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-02-28",
+          "Text": "On 28 February 2010, Richard emailed that Christine had requested the preparation of a simple shareholders' agreement among the six BOD members of CTP to be signed by 1 March 2010, and that he had prepared a resolution to be sent out by 1 March covering shareholdings, appointments of Dr Han Cheng Fong and Christine Liew as company directors, Dr Han Cheng Fong as Deputy Chairman of CTP, CTVA as manager, and proposed profit sharing between the companies."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-03-01",
+          "Text": "On 1 March 2010, Richard signed the 1 March document recording share allocations in CTP, the establishment of CTPHZ, and the appointment of Han as Deputy Chairman of CTP and Chairman of CTPHZ."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2010-04-01",
+          "Text": "On 1 April 2010, CTPHZ was incorporated as a wholly-owned subsidiary of CTP, and Richard became one of its directors alongside Robin, Patrick, Christine and Han."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-03-11",
+          "Text": "On 11 March 2010, Richard emailed Patrick, Robin and Christine stating that he would tell Michael that Christine would not be back on Monday so the meeting had to be postponed, and that the discussion was sensitive on a number of issues including the RMB130 million guaranteed profit for CTP."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-04-01",
+          "Text": "On 1 April 2010, Richard emailed Vanwarm stating that Michael should not be told about the source of funds for CTP's participation in the Hangzhou project."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-06-03",
+          "Text": "On 3 June 2010, Richard emailed Patrick proposing to reduce Han to 10% max, remove him from Chairman, make Han and Christine no longer bank signatories, and 'deodorise' them and sideline them, saying 'Don't leave luggage behind.'"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-06-03",
+          "Text": "On 3 June 2010, Richard replied to Patrick that 'THAT IS OUR PLAN' after Patrick said Han would threaten to resign and Christine might also depart."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2010-08-01",
+          "Text": "By August 2010, Patrick and Richard were trying to sell their CTP shares to Bintan Kindenko Corporation Berhad (BKCB), a Malaysian company, through Frankie Tan and BKCB's executive chairman Ong Puay Koon."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-24",
+          "Text": "On 24 August 2010, Patrick emailed Richard and Robin stating: 'Am planning something with Frankie to get rid of [Han] and [Christine]. We are going to be ruthless.'"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-06-03",
+          "Text": "On 3 June 2010, Richard emailed Patrick saying he '1 million [per cent]' objected to having Michael as a shareholder of another company and that Michael did not need them and they did not need him either."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute agreements and communications, Lim Shih Hsi Richard participated with others in a plan to remove Han from his positions in CTP-Hangzhou Pte Ltd in a manner later characterised as conspiracy by unlawful means and dismissal.",
+      "Rule": "Where multiple individuals coordinate to implement steps that depart from a binding agreement on shareholding and governance, and those steps are directed at removing another participant from agreed positions, a court may treat their coordinated conduct as a conspiracy by unlawful means if it involves of contractual or company law constraints and results in the intended harm.",
+      "Application": "Richard was a signatory to the 1 March 2010 document that set out share allocations, the creation and board composition of CTP-Hangzhou Pte Ltd, and a unanimity requirement for changes. His emails in February 2010 he understood the document as implementing a shareholders' agreement requested by Christine on Han's behalf. Subsequent emails in March and June 2010 show Richard proposing to reduce Han's share, remove him from the chairmanship of CTP-Hangzhou, remove Han and Christine as bank signatories, and freeze them from information until they felt useless, and agreeing with Patrick that inducing Han's resignation was their plan. By August 2010, Richard was involved with Patrick in exploring a share sale to a Malaysian company that would alter the ownership structure. These pre-dispute communications and his role in the corporate structure formed the factual basis for the court's later finding that he participated in a conspiracy by unlawful means and in the removal of Han.",
+      "Judicial_Reasoning_Log": "The court considered Richard's role in drafting and circulating the 1 March 2010 document and his emails describing it as a simple shareholders' agreement requested by Christine. It found that his explanations for why Han, Christine and CTVA signed the document were unconvincing and that the document functioned as a binding shareholders' agreement. The judge examined Richard's emails proposing to reduce Han's share, remove him from the chairmanship, strip him and Christine of signing authority, and freeze them out of information, and his agreement with Patrick that inducing Han's resignation was their plan. The court also noted Richard's involvement in excluding Michael from certain discussions and in keeping Michael uninformed about funding sources. In cross-examination, Richard admitted that the proposed share sale plans were intended to remove Han and that the plans would result in Han's removal from CTPHZ's board. The judge found his evidence inconsistent, particularly regarding Michael's non-appointment to the CTPHZ board, and concluded that Richard's credibility was severely undermined. On this basis, the court held that Richard, together with Patrick, had conspired by unlawful means to remove Han and that their actions contributed to Han's wrongful dismissal."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 3
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 908 of 2010",
+      "Coram": "Tan Lee Meng J",
+      "Judge": "Tan Lee Meng",
+      "Date": "2013-02-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Michael Heng Swee Hai",
+      "Law_Firm": "Hin Tat Augustine & Partners",
+      "Counsel": [
+        "Sean Lim"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2010-01-01",
+          "Text": "Michael Heng Swee Hai is a director of Cleantech Partners Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-01-01",
+          "Text": "As at early 2010, Michael was a director of Cleantech Partners Pte Ltd but was not initially appointed to the board of CTP-Hangzhou Pte Ltd upon its incorporation on 1 April 2010."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-03-01",
+          "Text": "On 1 March 2010, Michael signed the 1 March document, which recorded that he would hold two shares in CTP and that CTP-HZ Board of Directors would consist of all the six Directors of CTP and Dr Han Cheng Fong as Chairman and Christine Liew as CEO."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-02-10",
+          "Text": "On 10 February 2010, Michael emailed Patrick stating that he would still prefer to be seen as a key driver in the Hangzhou project and that in the proposed setup his presence had strangely disappeared."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2010-04-01",
+          "Text": "On 1 April 2010, CTPHZ was incorporated. Han became its chairman. The other directors were Robin, Patrick, Richard and Christine. Michael was not appointed to the CTPHZ board."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-03-11",
+          "Text": "On 11 March 2010, Richard emailed Patrick, Robin and Christine that he would tell Michael that Christine would not be back on Monday so the meeting had to be postponed."
+        }
+      ],
+      "Issue": "Whether, on the pre-dispute record, Michael Heng's involvement in the governance of CTP-Hangzhou Pte Ltd and his communications about Han's role contributed to the outcome on liability for dismissal and conspiracy.",
+      "Rule": "A director who joins a board after key agreements are in place may still be implicated in removal of another director if he participates in or endorses steps that implement an unlawful plan, but liability depends on the extent of his knowledge and participation in the underlying agreement and scheme.",
+      "Application": "Michael was a signatory to the 1 March 2010 document and a founder director of CTP, but he was not initially appointed to the CTP-Hangzhou board when it was incorporated on 1 April 2010. Pre-dispute emails other directors sometimes excluded him from sensitive discussions about the Hangzhou project and funding. On 12 October 2010, he was appointed to the CTP-Hangzhou board at the same meeting where Han and Christine were removed, and on 29 October 2010 he sent an email proposing an action agenda and asserting that Han had not performed certain management tasks, suggesting that this would support Han's removal. These facts were considered by the court in assessing his role relative to Patrick and Richard.",
+      "Judicial_Reasoning_Log": "The court noted that Michael was a founder director of CTP and a signatory to the 1 March 2010 document, but that he was not initially appointed to the CTPHZ board. Evidence showed that Patrick and Richard sometimes kept him out of sensitive meetings and information. The judge considered Michael's complaint email of 10 February 2010 about his diminished role and his later email of 29 October 2010 proposing an action agenda and asserting that Han had not performed management tasks, which the defendants later relied on as a justification for Han's removal. While the primary focus of the conspiracy finding was on Patrick and Richard, the court treated Michael as part of the group of defendants responsible for Han's wrongful dismissal and for the corporate actions taken after Han's removal, and entered judgment against all defendants accordingly."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 3
+  }
+]

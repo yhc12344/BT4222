@@ -1,0 +1,279 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1079/2001",
+      "Coram": "Belinda Ang Saw Ean JC",
+      "Judge": "Belinda Ang Saw Ean",
+      "Date": "2002-12-11",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Peter Kwee Seng Chio",
+      "Law_Firm": "Rajah & Tann",
+      "Counsel": [
+        "R Chandra Mohan",
+        "Edric Pan"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2000-04",
+          "Text": "In or about April 2000, long-time business associate Andrew Quek introduced Goh to Kwee."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-04",
+          "Text": "In or about April 2000, Goh invited Kwee to participate in a restructuring scheme for Seng Hup Corporation Berhad."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "Between August and October 2000, Kwee remitted a total of RM7 million in three tranches following instructions relayed through Law for the benefit of Biogenics."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "During negotiations in 2000, Kwee met Law on several occasions in connection with the proposed loan and the purchase of the Standard Chartered Bank Building at 2 Jalan Ampang, Kuala Lumpur."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-08-16",
+          "Text": "On 16 August 2000, a Loan Agreement dated 16 August 2000 was prepared to record the terms of a loan of RM7 million from Kwee to Biogenics."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-08-16",
+          "Text": "Under the agreed loan terms recorded in the Loan Agreement dated 16 August 2000, Kwee was to lend RM7 million to Biogenics, with repayment of principal and interest by 30 March 2001 at 3% above the prime lending rate of one of the then top four local banks in Singapore."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2000-08-16",
+          "Text": "As part of the loan arrangement documented around 16 August 2000, Kwee was to receive a 20% interest in Biogenics, while the remaining 80% was to be held by Goh (60%), Quek (10%) and Law (10%)."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-08",
+          "Text": "In connection with the loan documented on 16 August 2000, Kwee arranged for the preparation of a Deed of Guarantee and Warranty and an Undertaking through solicitor Lim Lian Kee of M/s Chong, Chia & Lim."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-08",
+          "Text": "On or about 16 August 2000, Kwee instructed solicitor Lim Lian Kee to prepare the Loan Agreement, Deed of Guarantee and Warranty and Undertaking, which Lim emailed in draft to Kwee for printing and execution."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "Between August and October 2000, Kwee remitted RM7 million in three tranches, which contemporaneous receipts described as a loan to Biogenics or as funds for the account of Biogenics, and included RM2 million identified as a security deposit for the restructuring scheme."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "",
+          "Text": "Between August and October 2000, Kwee received two receipts acknowledging money as a loan to Biogenics and two receipts from Sentowana Sdn Bhd acknowledging that money remitted by Kwee was for the account of Biogenics, as well as a fifth receipt for RM2 million described as a security deposit for the restructuring scheme."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-08",
+          "Text": "As security for the RM7 million loan and Kwee's 20% stake in Biogenics, it was agreed with Goh that Kwee would retain original share certificates of Biogenics, executed share transfer forms (Form 32A) in escrow, directors' resolutions for appointment of additional directors and approval for transfer of shares executed in escrow, and undated letters of resignation from the two nominee directors."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-08",
+          "Text": "In connection with the loan arrangement around 16 August 2000, Goh and Quek provided a personal guarantee in favour of Kwee as additional security for the RM7 million loan."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-10-11",
+          "Text": "On 11 October 2000, solicitor Lim, acting on Kwee's instructions, requested from Law various documents from Biogenics, including a resolution approving the loan."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-10-24",
+          "Text": "On 24 October 2000, Kwee sent to Law the wording of a proposed resolution approving the loan, following Law's earlier request relayed to Kwee."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-10-24",
+          "Text": "By 24 October 2000, Kwee had not received from Biogenics a signed board resolution approving the loan, despite earlier indications from Law that such a resolution would be provided."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-08",
+          "Text": "Following the creation of the security package around 16 August 2000, Kwee held two Biogenics share certificates and duly signed blank transfer forms as security for the loan."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2001-03-30",
+          "Text": "Under the loan terms agreed between Kwee and Biogenics, the principal sum of RM7 million and interest were scheduled to be repaid by 30 March 2001."
+        }
+      ],
+      "Issue": "Whether, based on the pre-dispute dealings and documentation, Biogenics Sdn Bhd was the borrower under the RM7 million loan documented on 16 August 2000 and whether that loan agreement was binding on Biogenics.",
+      "Rule": "A company may enter into a binding loan agreement through its directors or agents acting within actual or apparent authority, and third parties dealing with the company are generally entitled to assume that internal company procedures, such as board resolutions, have been properly complied with unless circumstances put them on inquiry.",
+      "Application": "Kwee negotiated with Goh and Law regarding funding for the Seng Hup restructuring scheme and agreed to provide RM7 million to Biogenics on terms recorded in a Loan Agreement dated 16 August 2000, including repayment by 30 March 2001 and interest at a specified rate. Contemporaneous receipts and correspondence described the RM7 million remitted by Kwee between August and October 2000 as a loan to Biogenics or for the account of Biogenics, and security was structured around Biogenics' shares and board documentation. The loan documentation, security arrangements, and communications involving Biogenics' directors and Goh linked Kwee's funds to Biogenics as borrower under the recorded loan terms.",
+      "Judicial_Reasoning_Log": "The judgment records that this was an action by Kwee against Biogenics for return of RM7 million remitted pursuant to a Loan Agreement dated 16 August 2000. After a three-day trial, the judge allowed the claim with contractual interest and costs. The court rejected the defendants' position that they did not make or accept any loan from Kwee and that the funds came from Goh and MBF Finance. The judge found the testimony of Law, Ang and Liow unsatisfactory and unreliable, noting contradictions between their oral evidence, written statements, and prior affidavits. The court relied on contemporaneous documents, including receipts and correspondence, to conclude that the RM7 million was a loan between Kwee and Biogenics. The judge held that Law, Ang and Liow were aware of the loan and, in any event, as nominee directors they were fixed with Goh's knowledge under principles discussed in Selangor United Rubber Estates Ltd v Cradock (No 3). The court rejected the contention that Ang's signature on the Loan Agreement was placed on a previously pre-signed blank sheet, finding instead that Ang signed the loan document itself in his capacity as director. On authority, the court considered the rule in Turquand and the absence of a formal resolution, but concluded that informal assent and acquiescence by the board were sufficient to vest authority in Ang to accept the Loan Agreement on behalf of Biogenics, referring to SAL Industrial Leasing Ltd v Lin Hwee Guan. The judge found that the board had informally acquiesced in Ang's acceptance of the Loan Agreement and that the Loan Agreement was binding on Biogenics. Judgment was entered for Kwee for RM7 million plus interest of RM1,361,285.01 as at 18 October 2002 and continuing contractual interest at 8.5% per annum until payment."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1079/2001",
+      "Coram": "Belinda Ang Saw Ean JC",
+      "Judge": "Belinda Ang Saw Ean",
+      "Date": "2002-12-11",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Biogenics Sdn Bhd",
+      "Law_Firm": "Joseph Tan Jude Benny",
+      "Counsel": [
+        "Danny Chua",
+        "Tan Hui Tsing"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2000-05-15",
+          "Text": "Biogenics Sdn Bhd was incorporated in Malaysia as a shelf company on 15 May 2000."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-05-15",
+          "Text": "Biogenics was used by Goh as the vehicle for the sole purpose of acquiring and holding the Standard Chartered Bank Building at 2 Jalan Ampang, Kuala Lumpur."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-07-01",
+          "Text": "In July 2000, Goh appointed Ang Bee Kiong and Liow Seng Kee as nominee directors and shareholders of Biogenics, and they became the first directors of Biogenics, each holding one share."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2000-07-01",
+          "Text": "At the time of their appointment in July 2000, Ang and Liow were long-time employees of Goh, having worked in his restaurant as kitchen help and cashier respectively."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2000-07-01",
+          "Text": "At all material times, Ang and Liow were also nominee directors and shareholders of Sentowana Sdn Bhd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2000-07-01",
+          "Text": "Ang and Liow stated that Biogenics was one of the many companies controlled by Goh and that they acted as his nominees, his direction and control."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1999-09-09",
+          "Text": "At all material times, Goh was a director with a substantial interest in Seng Hup Corporation Berhad, a public company in Malaysia that was placed under Special Administrators on 9 September 1999."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1999-09-09",
+          "Text": "On 9 September 1999, Special Administrators were appointed to Seng Hup Corporation Berhad under the Pengurusan Danaharta Nasional Berhad Act 1998, and its listing on the Kuala Lumpur Stock Exchange was suspended."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-09-09",
+          "Text": "Following the appointment of Special Administrators on 9 September 1999, Goh, described as a promoter, developed a rescue plan to save and restructure Seng Hup, which required a RM2 million deposit to the Special Administrators as a commitment to the scheme."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-09-09",
+          "Text": "Under the restructuring scheme for Seng Hup, Goh planned to inject an income-generating property into Seng Hup, targeting the Standard Chartered Bank Building at 2 Jalan Ampang, Kuala Lumpur, for acquisition and leaseback to the bank, with Seng Hup issuing fresh shares to Biogenics in exchange for the building."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-09-09",
+          "Text": "As part of the restructuring scheme, a RM2 million deposit was be paid to the Special Administrators of Seng Hup as a commitment to the scheme."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-05-15",
+          "Text": "Biogenics was designated as the company to acquire and hold the Standard Chartered Bank Building for use in the Seng Hup restructuring scheme."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-07-01",
+          "Text": "In July 2000, Ang and Liow each took one share in Biogenics, with only two shares allotted at that time."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-08-01",
+          "Text": "In the course of negotiations in 2000, Law, managing director of Seng Hup, attended several meetings with Kwee and Quek relating to the conclusion of the loan and the purchase of the Standard Chartered Bank Building."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-08-01",
+          "Text": "Between August and October 2000, RM7 million was remitted by Kwee in three tranches following instructions that Law gave regarding remittances connected to Biogenics."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-08-01",
+          "Text": "Between August and October 2000, two receipts were issued to Kwee acknowledging money as a loan to Biogenics; these receipts were prepared on Law's instructions and signed by Ang."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-08-01",
+          "Text": "Between August and October 2000, Sentowana Sdn Bhd issued two receipts acknowledging that money remitted by Kwee was for the account of Biogenics, and a fifth receipt recorded RM2 million as a security deposit for the restructuring scheme."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-08-16",
+          "Text": "A Loan Agreement dated 16 August 2000 identified Biogenics as borrower of RM7 million from Kwee, with repayment by 30 March 2001 and interest at 3% above the prime lending rate of one of the then top four local banks in Singapore."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-08-16",
+          "Text": "On or after 16 August 2000, Ang's signature appeared on the execution page of the Loan Agreement in the space designated for Biogenics' director."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-08-16",
+          "Text": "In connection with the loan documented on 16 August 2000, Biogenics' share certificates and signed blank transfer forms (Form 32A), directors' resolutions executed in escrow, and undated letters of resignation from Ang and Liow were created and delivered as security."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-08-16",
+          "Text": "Ang and Liow signed blank share transfer forms and directors' resolutions in escrow, which were then handed to Law for onward delivery as part of the security package."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-08-16",
+          "Text": "Law arranged for Biogenics' share certificates and signed blank transfer forms to be couriered to Kwee as security for the loan."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-08-16",
+          "Text": "As part of the loan structure, Goh and Quek provided a personal guarantee in favour of Kwee in respect of Biogenics' obligations under the loan."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-10-11",
+          "Text": "On 11 October 2000, Law received a request from solicitor Lim for Biogenics to provide various documents, including a board resolution approving the loan."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-10-24",
+          "Text": "By 24 October 2000, Law had requested from Kwee the wording of a resolution approving the loan, and Kwee sent the proposed wording to Law on that date."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-10-24",
+          "Text": "Despite earlier indications, Biogenics did not provide Kwee with a signed board resolution approving the loan by 24 October 2000."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2000-08-16",
+          "Text": "Goh initialled the loan document to indicate his agreement with the terms negotiated on behalf of Biogenics."
+        }
+      ],
+      "Issue": "Whether, based on Biogenics' pre-dispute corporate actions and documentation, Ang's execution of the 16 August 2000 Loan Agreement and the associated security arrangements bound Biogenics to the RM7 million loan from Kwee.",
+      "Rule": "A company is bound by contracts executed by a director who has actual or apparent authority, and third parties may rely on the indoor management rule to assume that internal company requirements, such as board resolutions, have been complied with unless circumstances put them on inquiry. Informal assent or acquiescence by all directors can operate as a board resolution.",
+      "Application": "Biogenics was incorporated as a vehicle to acquire and hold the Standard Chartered Bank Building for the Seng Hup restructuring scheme. In July 2000, Ang and Liow became the first directors and shareholders, acting as nominees for Goh. A Loan Agreement dated 16 August 2000 identified Biogenics as borrower of RM7 million from Kwee, and Ang's signature appeared on the execution page in the position designated for a director of Biogenics. Between August and October 2000, RM7 million was remitted by Kwee in three tranches, with receipts prepared on Law's instructions and signed by Ang describing the funds as a loan to Biogenics or for the account of Biogenics, and a separate receipt described RM2 million as a security deposit for the restructuring scheme. Security for the transaction included Biogenics' share certificates, signed blank transfer forms, directors' resolutions executed in escrow, and undated resignation letters from Ang and Liow, which were created and delivered through Law. Goh initialled the loan document and, together with Quek, provided a personal guarantee. Law communicated with Kwee's solicitor about providing a board resolution approving the loan and requested wording for such a resolution. These pre-dispute actions and documents linked Ang's execution of the Loan Agreement and the security structure to Biogenics' role in the financing of the building acquisition.",
+      "Judicial_Reasoning_Log": "The court considered Biogenics' defence that it did not make or accept any loan from Kwee and that the funds came from Goh and MBF Finance Bhd, and that Ang's signature on the Loan Agreement was genuine but unauthorised, allegedly placed on a pre-signed blank sheet. The judge found the defendants' witnesses, Law, Ang and Liow, to be unsatisfactory and unreliable, noting contradictions between their oral evidence, written statements, and prior affidavits. The court held that contemporaneous documents, including receipts and correspondence, showed that the RM7 million was a loan between Kwee and Biogenics. The judge concluded that Law, Ang and Liow were aware of the loan and, alternatively, that as nominee directors they were fixed with Goh's knowledge under the principle that a nominee director is bound by the knowledge of the person for whom he acts, citing Selangor United Rubber Estates Ltd v Cradock (No 3). On the issue of Ang's signature, the court rejected the contention that the Loan Agreement was printed on pre-signed blank paper, relying on the positioning of the signature relative to the text and the evidence of solicitor Lim, Kwee and Quek about the preparation and circulation of the document. The judge found that Ang signed the loan document itself in his capacity as director of Biogenics. Regarding authority, the court addressed the argument that the loan was not binding in the absence of a formal board resolution. The judge noted that the power to borrow was within Biogenics' memorandum of association and considered the rule in Turquand and the parol evidence rule. The court held that it would be unfair to allow Biogenics to rely on its own failure to provide a resolution and that the transaction was one from which Biogenics stood to benefit. Referring to SAL Industrial Leasing Ltd v Lin Hwee Guan, the judge accepted that informal assent of all directors could be tantamount to a board resolution and inferred from the objective facts that Ang was authorised to sign the Loan Agreement and that the board had informally acquiesced in his acceptance of it. The court concluded that the Loan Agreement was binding on Biogenics and entered judgment for Kwee for RM7 million plus interest and costs."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 2
+  }
+]

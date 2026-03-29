@@ -1,0 +1,646 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suits Nos 3 and 4 of 2017",
+      "Coram": "Kannan Ramesh J, Roger Giles IJ and Anselmo Reyes IJ",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-07-03",
+      "Tribunal_Court": "Singapore International Commercial Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "DyStar Global Holdings (Singapore) Pte Ltd",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2010-02-04",
+          "Text": "DyStar Global Holdings (Singapore) Pte Ltd, previously named Kiri Holding Singapore Private Limited until 2012-01-19, acquired selected assets of the pre-acquisition DyStar group under an asset purchase agreement with German insolvency administrators on 2010-02-04."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-01-19",
+          "Text": "The Singapore company originally incorporated as Kiri Holding Singapore Private Limited changed its name to DyStar Global Holdings (Singapore) Pte Ltd on 2012-01-19."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2009-12-04",
+          "Text": "On 2009-12-04, DyStar GmbH and DyStar KG agreed under an asset purchase agreement that DyStar Global Holdings (Singapore) Pte Ltd would purchase selected assets, including shares of various subsidiaries, for a total price of EUR 40,000,002, with payment to be secured by bank guarantees."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-01-04",
+          "Text": "Under the 2009-12-04 asset purchase agreement, DyStar Global Holdings (Singapore) Pte Ltd was provide bank guarantees for the EUR 40,000,002 purchase price by 2010-01-04, failing which DyStar GmbH and DyStar KG could withdraw from the agreement with repayment of a transfer share to DyStar Global Holdings (Singapore) Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-01-01",
+          "Text": "Around 2009, DyStar Global Holdings (Singapore) Pte Ltd paid approximately EUR 9,000,000, described as a transfer share, to DyStar Textilfarben GmbH & Co Deutschland KG for the purpose of establishing companies in Germany to take over employment of DyStar KG employees as required under the asset purchase agreement."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-03-05",
+          "Text": "On 2010-03-05, the first DyStar board meeting was held, attended by directors including Manishkumar Pravinchandra Kiri, Ruan Weixiang, Chang Sheng, Xiang Zhifeng, Steve Barron and Bart van Kuijk."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-03-05",
+          "Text": "At the DyStar board meeting on 2010-03-05, Steve Barron and Bart van Kuijk tendered their resignations as directors and the board approved the appointment of Mukherjee Amitava as a director nominated by Kiri Industries Limited."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-03-05",
+          "Text": "At the DyStar board meeting on 2010-03-05, the board appointed Manishkumar Pravinchandra Kiri as Chairman of the DyStar board."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-05-07",
+          "Text": "At a DyStar board meeting on 2010-05-07, the board resolved that Ruan Weixiang be appointed as co-Chairman of the DyStar board and designated Xu Yalin as the chief representative of Longsheng to coordinate between the DyStar board and DyStar management."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-05-11",
+          "Text": "On 2010-05-11, Manishkumar Pravinchandra Kiri emailed Steve Barron stating that Kiri Industries Limited would not be able to raise or provide any more debt to DyStar."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-07-28",
+          "Text": "At a DyStar board meeting held over 2010-07-28 and 2010-07-29, the board resolved to set up a Remuneration Committee and an Audit Committee, with the Remuneration Committee comprising Chang Sheng, Mukherjee Amitava, Xu Yalin, Steve Barron and Petra Gerweek, and the Audit Committee comprising Chang Sheng, Mukherjee Amitava, Xu Yalin, Steve Barron, Viktor Leendertz and the head of internal auditors."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-07-28",
+          "Text": "From around 2010-07-28, the DyStar Audit Committee and Remuneration Committee held meetings separately from and prior to each quarterly DyStar board meeting until around 2013-01-01, when their meetings were consolidated with board meetings."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-05-25",
+          "Text": "On 2012-05-25, Manishkumar Pravinchandra Kiri stepped down as co-Chairman of the DyStar board but remained a director."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-07-14",
+          "Text": "On 2012-07-14, the DyStar board passed a resolution approving the transfer of a EUR 22,000,000 zero-coupon convertible bond from Well Prospering Limited to Senda International Capital Limited pursuant to a convertible bond subscription agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-12-26",
+          "Text": "On 2012-12-26, Senda International Capital Limited converted all outstanding principal under a EUR 22,000,000 zero-coupon convertible bond into DyStar shares at SGD 10 per share, resulting in Senda holding 4,359,520 shares and Kiri Industries Limited holding 2,623,354 shares."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-04-22",
+          "Text": "By the DyStar board meeting on 2014-04-22 and 2014-04-23, DyStar Global Holdings (Singapore) Pte Ltd and its subsidiary DyStar Singapore Pte Ltd had extended loans totaling USD 33,500,000 to Longsheng-related entities between 2014-01-13 and 2014-03-26, with DyStar lending USD 5,000,000 and DyStar Singapore Pte Ltd lending USD 28,500,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-01-13",
+          "Text": "On 2014-01-13, DyStar Global Holdings (Singapore) Pte Ltd entered into a loan arrangement with Amino-Chem (HK) Co., Limited under which DyStar provided a revolving credit facility up to USD 20,000,000, later documented as the Amino-Chem Loan Agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-03-18",
+          "Text": "On 2014-03-18, DyStar Singapore Pte Ltd entered into a loan arrangement with Well Prospering Limited under which DyStar Singapore Pte Ltd provided a revolving credit facility up to USD 80,000,000, later documented as the WPL Loan Agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-03-31",
+          "Text": "A debit note dated 2014-03-31 from DyStar to Amino-Chem (HK) Co., Limited charged interest on the Amino-Chem loan from 2014-01-13, indicating that DyStar had disbursed USD 2,000,000 under the Amino-Chem Loan Agreement before the agreement was fully documented."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-05-30",
+          "Text": "On 2014-05-30, Mukherjee Amitava emailed Viktor Leendertz expressing the expectation that the outstanding loan from DyStar to Longsheng-related entities would be unwound."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2014-07-01",
+          "Text": "At a DyStar shareholders' meeting in July 2014, attended by all DyStar directors, the parties discussed loans from DyStar-related entities to Longsheng-related entities and conditions were discussed that such loans should not exceed cash margins posted by Longsheng for guarantees and that interest rates should at least match DyStar's borrowing costs."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-07-24",
+          "Text": "On 2014-07-24, Xu Shan emailed a draft DyStar board resolution to ratify and approve the related party loans to Amino-Chem (HK) Co., Limited and Well Prospering Limited, describing them as revolving credit facilities up to USD 20,000,000 and USD 80,000,000 respectively."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-07-25",
+          "Text": "On 2014-07-25, Mukherjee Amitava replied to Xu Shan stating that his understanding from the July 2014 meeting was that the loan amounts would match the cash collateral amounts provided by Longsheng and requested further details before signing the resolution."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-08-24",
+          "Text": "On 2014-08-24, Mukherjee Amitava sent a further email to Xu Shan, copied to Manishkumar Pravinchandra Kiri and Xu Yalin, explaining his position on the conditions for approving the related party loans."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-10-12",
+          "Text": "On 2014-10-12, Mukherjee Amitava emailed Xu Shan, copied to Manishkumar Pravinchandra Kiri and Xu Yalin, requesting that the minutes of the July 2014 shareholders' meeting correctly reflect that the borrowing limit for related party loans was based on cash margins posted by Longsheng."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-10-01",
+          "Text": "By the DyStar board meeting in October 2014, DyStar-related entities had outstanding loans to Longsheng-related entities of approximately USD 85,700,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-01-01",
+          "Text": "By the DyStar board meeting in January 2015, DyStar-related entities had outstanding loans to Longsheng-related entities of approximately USD 98,400,000."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-02-14",
+          "Text": "On 2015-02-14, Mukherjee Amitava emailed Xu Yalin requesting information on cash margins provided by Zhejiang Longsheng Group Co., Ltd for the period October to December 2014 in relation to guarantees for DyStar-related borrowings."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-01-20",
+          "Text": "On 2015-01-20, Amino-Chem (HK) Co., Limited repaid the outstanding loan to DyStar under the Amino-Chem Loan Agreement with interest."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-02-02",
+          "Text": "On 2015-02-02, Well Prospering Limited repaid the outstanding loan to DyStar Singapore Pte Ltd under the WPL Loan Agreement with interest."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-03-30",
+          "Text": "On 2015-03-30, Xu Shan emailed Mukherjee Amitava stating that Zhejiang Longsheng Group Co., Ltd had provided cash margins of approximately USD 40,000,000 for bank guarantees related to DyStar and attached copies of the WPL Loan Agreement and the Amino-Chem Loan Agreement."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-04-02",
+          "Text": "On 2015-04-02, Mukherjee Amitava emailed Xu Shan, copied to Xu Yalin, Viktor Leendertz and Manishkumar Pravinchandra Kiri, stating that the outstanding related party loans in October 2014 and January 2015 exceeded the approximately USD 40,000,000 cash margins disclosed."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-05-06",
+          "Text": "On 2015-05-06, Viktor Leendertz emailed Mukherjee Amitava stating that DyStar management had been advised by Ruan Weixiang that requests to management should be routed through the DyStar board rather than made directly to management."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-07-01",
+          "Text": "In July 2014, DyStar Singapore Pte Ltd and DyStar (Shanghai) Trading Co., Ltd entered into a cash-pooling agreement under which they agreed to pool surplus funds to provide loans to DyStar-related entities, including Longsheng-related entities."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-03-01",
+          "Text": "By March 2015, under the cash-pooling agreement, DyStar (Shanghai) Trading Co., Ltd had lent approximately USD 36,300,000 to a Longsheng-related entity at an interest rate of 3.6% per annum."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-10-21",
+          "Text": "On 2015-10-21, Mukherjee Amitava emailed Viktor Leendertz, copied to Eric Hopmann and Xu Yalin, requesting a copy of the cash-pooling agreement and related information."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-11-05",
+          "Text": "On 2015-11-05, Xu Shan emailed Mukherjee Amitava, enclosing a copy of the Chinese-language cash-pooling agreement between DyStar Singapore Pte Ltd and DyStar (Shanghai) Trading Co., Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-11-20",
+          "Text": "On 2015-11-20, Mukherjee Amitava emailed Viktor Leendertz requesting an English translation of the cash-pooling agreement."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-03-11",
+          "Text": "On 2016-03-11, Viktor Leendertz sent Mukherjee Amitava an English translation of the cash-pooling agreement between DyStar Singapore Pte Ltd and DyStar (Shanghai) Trading Co., Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-03-10",
+          "Text": "On 2015-03-10, Well Prospering Limited and DyStar Singapore Pte Ltd entered into a loan agreement under which Well Prospering Limited agreed to lend USD 150,000,000 to DyStar Singapore Pte Ltd for one year at an interest rate of 3.5% per annum."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2015-10-01",
+          "Text": "At a DyStar board meeting in October 2015, DyStar management informed the board of a USD 150,000,000 loan from Well Prospering Limited to DyStar Singapore Pte Ltd at 3.5% interest and discussed DyStar's alternative bank borrowing rate of about 3% excluding guarantee costs."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2014-01-20",
+          "Text": "At a DyStar board meeting on 2014-01-20, DyStar management presented a 2014 bonus matrix for DyStar employees, and the board suggested modifications and submission of a revised document to Longsheng's human resources department for further review."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "During the 2014 financial year, DyStar paid bonuses to employees under a 2014 bonus matrix, although the specific recipients and amounts were not detailed to Kiri's representatives."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-10-21",
+          "Text": "On 2014-10-21, a document titled Special Incentive Plan was prepared and signed by Ruan Weixiang, setting out potential incentive amounts for him based on DyStar group earnings after tax for 2014, with a scale from USD 60,000,000 to USD 100,000,000 and a USD 2,000,000 incentive at USD 90,000,000 earnings."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-11-21",
+          "Text": "On 2014-11-21, Xu Shan emailed Manishkumar Pravinchandra Kiri attaching a DyStar board resolution dated 2014-10-21, pre-signed by the Longsheng-nominated directors, proposing that DyStar China Ltd pay a USD 2,000,000 special incentive to Ruan Weixiang and requesting Manish's signature."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "In the 2014 financial year, DyStar group achieved earnings after tax of approximately USD 90,000,000, which corresponded to the USD 2,000,000 incentive level in the Special Incentive Plan signed by Ruan Weixiang."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-08-31",
+          "Text": "On 2010-08-31, DyStar Colours Deutschland GmbH and Zhejiang Longsheng Group Co., Ltd signed a patent assignment agreement under which DyStar Colours Deutschland GmbH assigned a patent relating to Orange 288 dye mixtures and processes to Zhejiang Longsheng Group Co., Ltd on a temporary basis for the purpose of defending invalidation proceedings in China."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-08-31",
+          "Text": "At the 56th meeting of the DyStar Patent Committee around 2010-08-31, the committee decided that a patent covering Orange 288 dye mixtures would be temporarily assigned to Zhejiang Longsheng Group Co., Ltd to improve DyStar's chances in Chinese invalidation proceedings brought by Zhejiang Runtu Group."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2014-01-01",
+          "Text": "At the 71st meeting of the DyStar Patent Committee in 2014, the committee recorded that two patents transferred to Zhejiang Longsheng Group Co., Ltd still had to be re-transferred to DyStar."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-01-01",
+          "Text": "For the 2015 financial year, DyStar recorded and later paid an aggregate amount of USD 10,500,000 to Zhejiang Longsheng Group Co., Ltd as management and corporate guarantee fees."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-04-01",
+          "Text": "Minutes of the DyStar board meeting in April 2015 recorded that Zhejiang Longsheng Group Co., Ltd provided significant guarantees in cash and other forms for DyStar loans without charging fees and provided technical, operational and management support without charges, and that the relationship between shareholder responsibilities and returns should be considered."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-11-27",
+          "Text": "On 2015-11-27, Viktor Leendertz emailed Xu Yalin attaching slides proposing that DyStar pay Zhejiang Longsheng Group Co., Ltd USD 16,280,000 in fees for 2015 and asked Xu to coordinate a board meeting to approve the proposal."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-11-27",
+          "Text": "On 2015-11-27, Xu Shan emailed the DyStar board attaching materials on proposed Longsheng fees and called for a board meeting to review the fees."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2011-01-01",
+          "Text": "In 2011, Kiri Industries Limited's sales of products to DyStar amounted to approximately USD 30,700,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-01-01",
+          "Text": "In 2015, Kiri Industries Limited's sales of products to DyStar decreased to approximately USD 70,000."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-10-26",
+          "Text": "On 2015-10-26, Kiri Industries Limited approached DyStar category manager Dr Monika Singh offering to supply Turquoise Blue dye and sent samples for testing as part of DyStar's procurement process."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-01-04",
+          "Text": "On 2016-01-04, after Kiri Industries Limited submitted a price offer for Turquoise Blue, Dr Monika Singh emailed DyStar's head of global procurement, Vera Huang, stating that Kiri was ready to match a low price without margin and asking for guidance, and noted that she understood from Luo that purchase orders were not allowed to be placed on Kiri."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "In the 2014 financial year, DyStar group recorded profit after tax of over USD 100,000,000."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-01-26",
+          "Text": "On 2015-01-26, Luo, translating for Yao Jianfang, emailed Kiri Industries Limited stating that DyStar's total loans as at 2014-12-31 were approximately USD 349,885,842.68, of which USD 326,783,419.47 were guaranteed by Zhejiang Longsheng Group Co., Ltd, and that DyStar required about USD 300,000,000 in working capital and had high expenses, and that no guarantee fees had been charged by Longsheng."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "Between 2013-01-01 and 2017-06-30, DyStar recorded total profits of approximately USD 380,530,000 and did not declare dividends during this period."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-03-05",
+          "Text": "At the DyStar board meeting on 2010-03-05, Manishkumar Pravinchandra Kiri informed the board that a proposal for an initial public offering of DyStar was being prepared, with a target of achieving total group revenue of EUR 1,000,000,000 before the offering."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-07-28",
+          "Text": "At the DyStar board meeting on 2010-07-28 and 2010-07-29, the board resolved to ensure that intellectual property be located with the headquarters for a future initial public offering plan in 2013."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-11-14",
+          "Text": "On 2013-11-14, Kiri Industries Limited and the State General Reserve Fund of Oman executed a non-binding letter of intent to negotiate the purchase of Kiri's DyStar shares by the fund for USD 165,000,000, minority protection clauses being added to the DyStar shareholders' agreement."
+        }
+      ],
+      "Issue": "Whether the conduct of DyStar's majority-associated entities and board in relation to related party financing, cash pooling, intra-group loans, management and guarantee fees, patent assignment, procurement choices, and non-distribution of profits affected the value and enjoyment of DyStar Global Holdings (Singapore) Pte Ltd as a corporate vehicle and its relationships with its shareholders.",
+      "Rule": "In corporate joint ventures, board decisions and shareholder-related transactions are generally evaluated against standards requiring that directors act in good faith in the interests of the company as a whole, that related party transactions be on terms comparable to arm's length dealings, that material financing and asset transactions be appropriate board oversight, and that controlling shareholders avoid using their position to extract non-pro rata financial or structural advantages at the expense of other shareholders.",
+      "Application": "The pre-dispute events DyStar's capital structure and governance were shaped by a shareholders' agreement and a convertible bond that enabled a Longsheng-associated entity to become majority shareholder, while Kiri retained two entrenched board seats. After the acquisition of DyStar's business, DyStar and its subsidiaries entered into multiple financing arrangements with Longsheng-related entities, including loans from DyStar to those entities, a cash-pooling agreement, and a large loan from Well Prospering Limited to DyStar Singapore Pte Ltd. These arrangements involved interest rate differentials and guarantee structures that affected DyStar's cost of funds and liquidity. Board and shareholder meetings recorded that Kiri-nominated directors requested information and conditions regarding the size of related party loans relative to cash margins and the pricing of such loans, and that documentation and detailed data were provided with delays. DyStar also recorded and later paid substantial management and guarantee fees to Zhejiang Longsheng Group Co., Ltd for 2015, and booked provisions for similar fees for 2016, based on transfer pricing analyses and proposals initiated by management and Longsheng representatives. In parallel, a key patent originally acquired by DyStar was assigned to Zhejiang Longsheng Group Co., Ltd under an agreement describing the transfer as temporary for the purpose of defending invalidation proceedings, with committee minutes later noting an expectation of re-transfer. DyStar's procurement data show a decline in purchases from Kiri and internal emails some DyStar staff understood there to be constraints on placing purchase orders with Kiri, while Kiri continued to offer products and participate in testing. Financial records DyStar generated significant profits from 2013 onwards without declaring dividends, and correspondence from Longsheng representatives linked this to DyStar's working capital needs and Longsheng's guarantee support. These factual patterns describe how financing flows, fee arrangements, intellectual property allocation, procurement decisions, and profit retention operated within the joint venture structure before the dispute was filed.",
+      "Judicial_Reasoning_Log": "The court analysed whether the described conduct amounted to minority oppression under section 216 of the Companies Act, considering legitimate expectations arising from the shareholders' agreement and general company law, and evaluated if there was a visible departure from standards of fair dealing. It examined the structure of the convertible bond and its effect on control, the manner in which related party loans were initiated and approved, the absence or delay of board approval and information flows, and the interest rate differentials that favoured Longsheng-related entities. The judges considered the cash-pooling arrangement and the Longsheng Financing Concept as potential mechanisms to channel DyStar funds or financing benefits to Longsheng, and assessed whether these were commercially justifiable and in DyStar's interests. They scrutinised the Special Incentive Payment to Ruan, including the timing and self-referential nature of the Special Incentive Plan, and whether approval processes complied with governance norms. Regarding the patent assignment, the court focused on the temporary language of the Patent Assignment Agreement, the Patent Committee's understanding that the patent would be re-transferred, and Longsheng's subsequent exploitation of the patent without re-assignment or accounting, to determine if DyStar's opportunities were diverted. The court also evaluated the Longsheng Fees for 2015 and provisions for 2016, weighing Ernst & Young's transfer pricing reports against the timing of the fees, the initial higher fee proposal, and the absence of prior budgeting or clear board approval before accruals. It considered the decline in DyStar's purchases from Kiri despite a preferred supplier clause, including internal emails suggesting restrictions on placing orders with Kiri, and assessed whether procurement decisions were driven by quality and price or by shareholder alignment. The judges reviewed DyStar's sustained profitability, the absence of dividends, and Longsheng's explanations based on working capital and guarantees, in the context of Kiri's inability to realise value through a proposed sale to the State General Reserve Fund and Senda's lower counter-offer. Overall, the court applied the compendious unfairness test under section 216, determined the extent to which Senda's and Longsheng's conduct, through the DyStar board and corporate mechanisms, was commercially unfair to Kiri as a minority shareholder, and decided on appropriate relief, including a buy-out mechanism and valuation adjustments such as adding back certain fees or reversing the economic effect of specific transactions."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 7
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suits Nos 3 and 4 of 2017",
+      "Coram": "Kannan Ramesh J, Roger Giles IJ and Anselmo Reyes IJ",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-07-03",
+      "Tribunal_Court": "Singapore International Commercial Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Kiri Industries Limited",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1998",
+          "Text": "Kiri Industries Limited is an Indian incorporated company listed on the National Stock Exchange and the Bombay Stock Exchange and is in the business of manufacturing and selling reactive dyes, dye intermediates, and basic chemicals."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1998",
+          "Text": "Pravinchandra Amrutlal Kiri's son, Manishkumar Pravinchandra Kiri, has served as Managing Director of Kiri Industries Limited."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "",
+          "Text": "From the late 1990s, Kiri regularly supplied dyes to Pre-Acquisition DyStar, which was based in Germany."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2007",
+          "Text": "In 2007, Zhejiang Longsheng Group Co., Ltd was looking for potential investment opportunities in India, and its employee Xiang Zhifeng became acquainted with Manishkumar Pravinchandra Kiri, leading to negotiations between Kiri Industries Limited and Longsheng."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2008",
+          "Text": "In 2008, Kiri Industries Limited and Well Prospering Limited entered into a joint venture agreement to establish Lonsen Kiri Chemical Industries Limited in India, with Kiri holding 40% of the shares and Well Prospering Limited holding 60%."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008",
+          "Text": "Under the 2008 joint venture, Lonsen Kiri Chemical Industries Limited was intended to manufacture reactive dyes in India using technical know-how exchanged between Kiri Industries Limited and Zhejiang Longsheng Group Co., Ltd, with Longsheng identifying customers through its network."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009",
+          "Text": "In 2009, Manishkumar Pravinchandra Kiri learned that Platinum Equity was seeking to sell the pre-acquisition DyStar group and introduced Ruan Weixiang and Xiang Zhifeng of Zhejiang Longsheng Group Co., Ltd to Platinum Equity to explore a joint acquisition with Kiri Industries Limited."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2009-09-02",
+          "Text": "On 2 September 2009, Kiri, through Manish, entered into an exclusivity agreement for the proposed acquisition of Pre-Acquisition DyStar."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2009-11-24",
+          "Text": "On 24 November 2009, Kiri incorporated KIPL and two companies in Singapore. KIPL was incorporated because Kiri had been considering investing in DyStar through a company in Mauritius for tax reasons. One of the Singapore companies was DyStar, later renamed Kiri Holding Singapore Private Limited until 19 January 2012."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-11-24",
+          "Text": "KIPL is a company incorporated in Mauritius and a wholly-owned subsidiary of Kiri. Manish is also a director of KIPL."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-01-27",
+          "Text": "On 27 January 2010, Ruan on behalf of WPL and Manish on behalf of Kiri executed a term sheet under which WPL would invest €22m, comprising equity of €3m and debt under a compulsory convertible zero-coupon bond of €19m, and Kiri would subscribe to €13m worth of shares in DyStar."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-01-27",
+          "Text": "At a meeting on 27 January 2010, Manish and Ruan discussed the possibility of Longsheng investing in DyStar, with differing accounts as to Manish's funding position."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-01-31",
+          "Text": "On 31 January 2010, the Share Subscription and Shareholders Agreement and the Convertible Bond Subscription Agreement were executed by Pravin and Manish personally, as well as on behalf of Kiri and DyStar respectively; Manish also signed the SSSA on behalf of KIPL."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-01-31",
+          "Text": "Luo emailed Manish attaching the SSSA and CBSA and stated that due to time being very short, some sentences might not be very perfect and some were aggressive, and that during execution the parties may consult with each other."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-03-04",
+          "Text": "On 4 March 2010, the day before the first DyStar Board meeting, Manish and Amit met with Ruan and Manish shared his dissatisfaction with the terms of the SSSA and CBSA and asked for amendments to reflect the Term Sheet and minority rights."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-05-11",
+          "Text": "On 11 May 2010, Manish emailed Steve confirming that Kiri would not be able to raise any more debt and would not be able to provide any more debt to DyStar."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-05-25",
+          "Text": "On 25 May 2012, Manish stepped down as co-Chairman of the DyStar Board, though he remained a director."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-11-14",
+          "Text": "On 14 November 2013, Kiri and the SGRF executed a non-binding letter of intent for the purchase of Kiri's DyStar shares at US$165m, subject to minority investor protection clauses being added to the SSSA."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-04-22",
+          "Text": "Shortly before the DyStar Board meeting on 22 and 23 April 2014, Amit learned from presentation slides that DyStar and DSPL had extended loans of US$5m and US$28.5m respectively to Longsheng-related entities."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-04-22",
+          "Text": "At the April 2014 Meeting, Amit and Manish expressed concern that DyStar-related entities were borrowing from Longsheng-related entities at 6.6% while lending under the Related Party Loans at 3.27735% and 3.3747%."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-07-01",
+          "Text": "At the July 2014 Meeting, the Kiri Directors were prepared to approve the Related Party Loans on condition that they did not exceed the Cash Margins and that the interest payable would at least match the borrowing costs of the lending DyStar-related entities."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-08-24",
+          "Text": "On 24 August 2014, Amit emailed Shan to explain his position further after stating that the amount of loan would be matching the cash collaterals."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-02-14",
+          "Text": "On 14 February 2015, Amit emailed Xu to request information on the Cash Margins provided by Longsheng for the period between October and December 2014."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-03-30",
+          "Text": "On 30 March 2015, Shan informed Amit that the Cash Margin provided by Longsheng amounted to approximately US$40m and enclosed copies of the WPL Loan Agreement and the Amino-Chem Loan Agreement."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-04-02",
+          "Text": "On 2 April 2015, Amit emailed Shan, copied among others to Xu, Viktor and Manish, stating that the Related Party Loans as of October 2014 and January 2015 exceeded the applicable Cash Margins."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-10-21",
+          "Text": "On 21 October 2015, Amit emailed Viktor, copied to Eric and Xu, requesting, inter alia, a copy of the Cash-pooling Agreement."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-11-27",
+          "Text": "On 27 November 2015, Viktor attached slides proposing US$16.28m as fees to be paid to Longsheng and asked Xu to coordinate with the board for a meeting to approve."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2011-01-01",
+          "Text": "Kiri's sales to DyStar dropped steadily from US$30.70m in 2011 to US$0.07m in 2015."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-10-26",
+          "Text": "On 26 October 2015, Kiri approached Dr Monika Singh offering to supply Turquoise Blue to DyStar and sent samples for testing."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-01-04",
+          "Text": "On 4 January 2016, Dr Singh emailed Huang stating that Kiri was ready to match the lowest possible quotes without keeping any margin and asking whether Kiri people were not aware that purchase orders were not allowed to be placed on Kiri."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-01-26",
+          "Text": "On 26 January 2015, Luo, translating for Yao, declined Kiri's request for a dividend and said DyStar needed huge working capital and that Longsheng had provided guarantees for most DyStar loans without charging fees."
+        }
+      ],
+      "Issue": "Whether the pre-dispute conduct of Senda International Capital Limited, Well Prospering Limited, Zhejiang Longsheng Group Co., Ltd, and their nominated directors in relation to DyStar's financing, related party transactions, fee arrangements, patent ownership, procurement decisions, and profit retention affected Kiri Industries Limited's position and economic participation as a minority shareholder in DyStar.",
+      "Rule": "In joint venture companies, minority shareholders commonly rely on agreed governance structures and general company law principles that directors act in good faith in the interests of the company, that material related party transactions are transparent board processes and arm's length terms, that controlling shareholders do not use their influence to divert company value or opportunities to themselves, and that information flows enable board representatives to participate meaningfully in decisions affecting the company and the economic value of their shareholding.",
+      "Application": "The factual record shows that Kiri Industries Limited moved from being the majority funder of the DyStar acquisition to a minority shareholder after a convertible bond held by a Longsheng-associated entity was converted into equity. Kiri retained the right to appoint two directors to the DyStar board and participate in management through those representatives. After conversion, DyStar and its subsidiaries entered into several financing arrangements with Longsheng-related entities, including loans from DyStar to those entities, a cash-pooling agreement, and a large loan from Well Prospering Limited to DyStar Singapore Pte Ltd. Kiri's directors learned of some of these transactions from board materials shortly before meetings and requested information on cash margins, loan amounts, and interest rates to assess the impact on DyStar. The information was provided in stages, with some agreements and data only disclosed months after execution, while outstanding loan balances at certain dates exceeded the disclosed cash margins. DyStar also recorded and later paid significant management and guarantee fees to Zhejiang Longsheng Group Co., Ltd for 2015 and booked provisions for similar fees for 2016, based on transfer pricing reports commissioned after the period in question and proposals initiated by DyStar management and Longsheng representatives. Kiri objected to the timing and quantum of these fees and sought to delay payment pending resolution of its minority oppression suit. Separately, a key patent originally acquired by DyStar was assigned to Zhejiang Longsheng Group Co., Ltd under an agreement describing the transfer as temporary for invalidation proceedings, and DyStar's patent committee later noted that patents transferred to Longsheng still had to be re-transferred, while no re-assignment occurred before the dispute. Kiri's sales to DyStar declined sharply over several years despite a contractual preferred supplier clause, and internal DyStar emails referenced an understanding that purchase orders were not to be placed on Kiri, even as Kiri continued to offer products and participate in testing. During a period of strong profitability at DyStar, Kiri requested dividends and explored a sale of its DyStar stake to the State General Reserve Fund of Oman at a price of USD 165,000,000, which required amendments to the shareholders' agreement that Senda did not accept, and DyStar did not declare dividends. These events describe how control, financing flows, fee allocations, intellectual property location, procurement patterns, and profit retention operated in ways that influenced Kiri's ability to obtain information, participate in decisions, and realise value from its DyStar shareholding before the dispute was filed.",
+      "Judicial_Reasoning_Log": "The court treated Kiri Industries Limited as the oppressed minority claimant and examined whether Senda and Longsheng, acting through their shareholdings and nominated directors, conducted DyStar's affairs in a manner that was commercially unfair to Kiri. It identified Kiri's legitimate expectations from the shareholders' agreement, including a board-managed structure with entrenched Kiri representation, and from general company law, such as directors' duties to act in DyStar's interests and to manage conflicts in related party transactions. The judges rejected Kiri's argument that there was a separate quasi-partnership understanding beyond the written agreements, finding that the parties were sophisticated listed companies that had comprehensively documented their relationship. The court then assessed specific categories of conduct: related party loans from DyStar to Longsheng-related entities, the cash-pooling arrangement, and the Longsheng Financing Concept; remuneration decisions including the 2014 bonus matrix and the USD 2,000,000 special incentive to Ruan; the patent assignment to Longsheng and subsequent exploitation; the Longsheng management and guarantee fees for 2015 and provisions for 2016; DyStar's declining purchases from Kiri despite a preferred supplier clause; the absence of dividends despite substantial profits; and Senda's stance on Kiri's proposed sale of its DyStar stake to the State General Reserve Fund. For each category, the court considered whether Kiri's board representatives were informed in a timely and complete manner, whether board or committee approvals were obtained before implementation, whether pricing and terms were consistent with DyStar's commercial interests, and whether the economic effect was to transfer value or opportunities from DyStar to Longsheng or to constrain Kiri's ability to benefit from its investment. The court applied the compendious unfairness test under section 216, concluded that certain patterns of conduct cumulatively amounted to oppression of Kiri as a minority shareholder, and ordered a buy-out of Kiri's shares in DyStar by Senda, with directions on valuation including adjustments for specific transactions such as related party loans, Longsheng fees, and the patent assignment."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 3
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suits Nos 3 and 4 of 2017",
+      "Coram": "Kannan Ramesh J, Roger Giles IJ and Anselmo Reyes IJ",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-07-03",
+      "Tribunal_Court": "Singapore International Commercial Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Senda International Capital Limited",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2006-01-01",
+          "Text": "Senda International Capital Limited is a company incorporated in Hong Kong and is a wholly-owned subsidiary of Zhejiang Longsheng Group Co., Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2006-01-01",
+          "Text": "Well Prospering Limited is a company incorporated in Hong Kong and is a wholly-owned subsidiary of Zhejiang Longsheng Group Co., Ltd, and both Senda International Capital Limited and Well Prospering Limited are associated with Longsheng's investments."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-02-01",
+          "Text": "On 2010-02-01, at Longsheng's request, Ruan Weixiang and other Longsheng representatives were appointed by Well Prospering Limited as directors of DyStar Global Holdings (Singapore) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-02-01",
+          "Text": "Ruan Weixiang served as a director of Senda International Capital Limited, Chairman of the board of Zhejiang Longsheng Group Co., Ltd, and Chairman of the board of DyStar Global Holdings (Singapore) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-02-01",
+          "Text": "Xu Yalin and Yao Jianfang served as directors of DyStar Global Holdings (Singapore) Pte Ltd and were nominated to the DyStar board by Well Prospering Limited at the behest of Zhejiang Longsheng Group Co., Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-07-14",
+          "Text": "On 2012-07-14, the DyStar board approved the transfer of a EUR 22,000,000 zero-coupon convertible bond from Well Prospering Limited to Senda International Capital Limited pursuant to the convertible bond subscription agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-12-26",
+          "Text": "On 2012-12-26, Senda International Capital Limited converted all outstanding principal under the EUR 22,000,000 zero-coupon convertible bond into DyStar shares at SGD 10 per share, resulting in Senda holding 4,359,520 DyStar shares, approximately 62.43% of DyStar's share capital."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2012-12-26",
+          "Text": "After the 2012-12-26 conversion of the convertible bond, Senda International Capital Limited became the majority shareholder of DyStar Global Holdings (Singapore) Pte Ltd, while Kiri Industries Limited held approximately 37.57% of the shares."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-01-13",
+          "Text": "On 2014-01-13, DyStar Global Holdings (Singapore) Pte Ltd entered into a revolving credit facility up to USD 20,000,000 with Amino-Chem (HK) Co., Limited, a Longsheng-related entity, under the Amino-Chem Loan Agreement, with DyStar as lender and Amino-Chem as borrower."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-03-18",
+          "Text": "On 2014-03-18, DyStar Singapore Pte Ltd entered into a revolving credit facility up to USD 80,000,000 with Well Prospering Limited under the WPL Loan Agreement, with DyStar Singapore Pte Ltd as lender and Well Prospering Limited as borrower."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-01-13",
+          "Text": "Between 2014-01-13 and 2014-03-26, DyStar and DyStar Singapore Pte Ltd disbursed loans totaling USD 33,500,000 to Longsheng-related entities under the Amino-Chem and WPL loan arrangements."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-07-01",
+          "Text": "In July 2014, DyStar Singapore Pte Ltd and DyStar (Shanghai) Trading Co., Ltd entered into a cash-pooling agreement under which they pooled surplus funds to provide loans to DyStar-related entities, including entities related to Zhejiang Longsheng Group Co., Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-03-01",
+          "Text": "By March 2015, under the cash-pooling agreement, DyStar (Shanghai) Trading Co., Ltd had lent approximately USD 36,300,000 to a Longsheng-related entity at an interest rate of 3.6% per annum."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-03-10",
+          "Text": "On 2015-03-10, Well Prospering Limited and DyStar Singapore Pte Ltd entered into a loan agreement under which Well Prospering Limited agreed to lend USD 150,000,000 to DyStar Singapore Pte Ltd for one year at an interest rate of 3.5% per annum."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-01-20",
+          "Text": "On 2015-01-20, Amino-Chem (HK) Co., Limited repaid its loan to DyStar under the Amino-Chem Loan Agreement with interest, and on 2015-02-02, Well Prospering Limited repaid its loan to DyStar Singapore Pte Ltd under the WPL Loan Agreement with interest."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-01-01",
+          "Text": "For the 2015 financial year, DyStar recorded and later paid an aggregate amount of USD 10,500,000 to Zhejiang Longsheng Group Co., Ltd as management and corporate guarantee fees for services and guarantees related to DyStar's operations."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-07-19",
+          "Text": "On 2016-07-19, Ernst & Young Solutions LLP issued a transfer pricing report to DyStar concluding that management services provided by Zhejiang Longsheng Group Co., Ltd to DyStar should be remunerated under the arm's length principle."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-08-23",
+          "Text": "On 2016-08-23, Ernst & Young Solutions LLP issued a transfer pricing report to DyStar concluding that corporate guarantees provided by Zhejiang Longsheng Group Co., Ltd for DyStar's borrowings should be remunerated under the arm's length principle."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "In the 2014 financial year, DyStar group achieved profit after tax of over USD 100,000,000 while Senda International Capital Limited held a majority shareholding and Kiri Industries Limited held a minority shareholding."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-01-26",
+          "Text": "On 2015-01-26, Luo, translating for Yao Jianfang, emailed Kiri Industries Limited stating that as at 2014-12-31 DyStar's total loans were approximately USD 349,885,842.68, of which USD 326,783,419.47 were guaranteed by Zhejiang Longsheng Group Co., Ltd, and that Longsheng had not charged DyStar fees for these guarantees."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-11-14",
+          "Text": "In November 2013, Senda International Capital Limited did not agree to proposed amendments to the DyStar shareholders' agreement requested by the State General Reserve Fund of Oman as a condition for purchasing Kiri's DyStar shares, and instead indicated conditions including non-interference with operational management and evidence of value-add from the fund."
+        }
+      ],
+      "Issue": "Whether Senda International Capital Limited, as majority shareholder associated with Zhejiang Longsheng Group Co., Ltd, used its control and related party structures in a way that affected DyStar's financing, fee flows, and profit distribution, and thereby influenced the economic position of other shareholders.",
+      "Rule": "Majority shareholders in a joint venture company are generally exercise their control through the board and shareholder rights in a manner consistent with the company's interests, to ensure that related party transactions are on terms comparable to arm's length dealings, and to avoid extracting non-proportional financial benefits or constraining other shareholders' ability to realise value from their investment.",
+      "Application": "Senda International Capital Limited became DyStar's majority shareholder after converting a EUR 22,000,000 convertible bond into equity, while its affiliate Well Prospering Limited and other Longsheng-related entities engaged in multiple financing transactions with DyStar and its subsidiaries. These included loans from DyStar to Longsheng-related entities, a cash-pooling arrangement that channelled surplus funds to a Longsheng-related borrower, and a USD 150,000,000 loan from Well Prospering Limited to DyStar Singapore Pte Ltd. The interest rates and guarantee structures in these transactions affected DyStar's cost of funds and liquidity. Senda-associated directors on the DyStar board participated in approving or implementing these arrangements, and Kiri's representatives sought information and conditions regarding loan sizes and pricing. DyStar later recorded and paid substantial management and guarantee fees to Zhejiang Longsheng Group Co., Ltd for 2015 and booked provisions for similar fees for 2016, based on transfer pricing reports and proposals coordinated with Longsheng. During a period of strong profitability, DyStar did not declare dividends, and correspondence from Longsheng representatives linked this to DyStar's working capital needs and Longsheng's guarantee support. Senda did not agree to contractual changes requested by a potential third-party investor in connection with a proposed purchase of Kiri's DyStar stake, and DyStar remained privately held. These pre-dispute events describe how Senda, through its shareholding and associated entities, influenced DyStar's financial flows and capital structure in ways that shaped the distribution of economic benefits among shareholders.",
+      "Judicial_Reasoning_Log": "The court considered Senda International Capital Limited as the majority shareholder respondent in the minority oppression claim and examined whether Senda, acting together with Well Prospering Limited and Zhejiang Longsheng Group Co., Ltd, conducted DyStar's affairs in a manner that was commercially unfair to Kiri Industries Limited. It analysed the structure and timing of the convertible bond conversion that gave Senda majority control, the subsequent pattern of related party loans from DyStar to Longsheng-related entities, the cash-pooling arrangement, and the USD 150,000,000 loan from Well Prospering Limited to DyStar Singapore Pte Ltd. The judges evaluated whether these transactions were properly brought to the DyStar board for approval, whether Kiri's directors received adequate information, and whether the interest rates and guarantee arrangements were consistent with DyStar's interests or favoured Longsheng-related entities. The court scrutinised the management and guarantee fees paid and provisioned for Longsheng, including the reliance on Ernst & Young transfer pricing reports, the initial higher fee proposal, and the absence of prior budgeting or clear board approval before accruals. It also considered Senda's and Longsheng's stance on dividends and on Kiri's proposed sale of its DyStar stake to the State General Reserve Fund, assessing whether these positions effectively prevented Kiri from realising value from its investment while Senda retained control and access to DyStar's cash flows. Applying the compendious unfairness test under section 216, the court concluded that certain aspects of Senda's and Longsheng's conduct, through the DyStar board and related party structures, contributed to oppressive treatment of Kiri as a minority shareholder and ordered a buy-out of Kiri's shares by Senda with valuation adjustments to neutralise the economic impact of specific transactions."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 2
+  }
+]

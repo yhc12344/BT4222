@@ -1,0 +1,359 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 453 of 2016",
+      "Coram": "Lee Seiu Kin J",
+      "Judge": "Lee Seiu Kin",
+      "Date": "2019-11-05",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Tuitiongenius Pte Ltd",
+      "Law_Firm": "TSMP Law Corporation",
+      "Counsel": [
+        "Adrian Tan Gim Hai",
+        "Ong Pei Ching",
+        "Michelle Chew Wai Yin",
+        "Yeoh Jean Ann"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2009-04-01",
+          "Text": "Tuitiongenius Pte Ltd was incorporated in April 2009 by Eugene and Keng."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "After premises were secured at Clementi, TGPL commenced business operations in January 2010."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2009-08-20",
+          "Text": "The Employment Agreement provided for a monthly salary of SGD 2,000 for Eugene as managing director and SGD 5,000 as director, with payment to commence only after all initial startup capital had been recovered."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2009-08-20",
+          "Text": "The Employment Agreement contained an exclusive employment clause stating that during employment with the Company, the Executive would not do anything to compete with the Company’s present or contemplated business and would not enter into any agreement which conflicted with his duties or obligations to the Company."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2009-09-01",
+          "Text": "In September 2009, TGPL registered a sole proprietorship business called REAL Education Centre."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-04-01",
+          "Text": "Keng made various capital injections to TGPL."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Tuition fees were collected by TGPL and the tutors were paid by TGPL in accordance with the number of students in their classes."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "In 2012, the fees from Eugene’s classes at the Clementi Centre were paid directly to Eugene."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-04-01",
+          "Text": "TGPL was incorporated in April 2009 by Eugene and Keng, who were the only two directors of the company with each of them holding half its shares."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2015-10-01",
+          "Text": "At the commencement of the suit, the sole director and shareholder of TGPL was Jun Hao."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-09-01",
+          "Text": "TGPL’s tuition business was conducted by Eugene, along with various full-time staff and temporary staff, including Lim Gim Siong, Eugene Koh Joon Shih, Teoh Shin Fung, Ang Lee Theng and Wong Jing Yong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2011-07-19",
+          "Text": "On 19 July 2011, Keng wrote '[w]hat are the claims on this sheet for?' on a claim form he signed."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-11-15",
+          "Text": "On 15 November 2014, Keng wrote 'Why are there different hourly rates of $74, $95 and $125? Please let me know how much each student is charged per month?' on a claim form for tutor allowance."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-08-26",
+          "Text": "Around 26 August 2013, separate employment contracts were signed for Jing Yong with ETG, TGPL and Think Tank."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "The Admin Guide used by the financial and administrative staff of TGPL listed the partners of the Clementi Centre as 'Mr Keng and Eugene' and the partner of Economics at TuitionGenius as 'Eugene'."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "An administrative form entitled 'List of Bank Accounts' stated 'Economics At TuitionGenius Pte Ltd' and 'All Mr Toh’s classes' with OCBC 686-476078-001."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-01",
+          "Text": "The Intern’s Phone Guide included prompts such as 'there are also other econs tutors at RealEdu. Always try to push for Mr Toh’s classes when signing up'."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "The different tuition entities sometimes conducted joint marketing activities, for instance the designing, printing and distribution of flyers."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct and contractual arrangements, the managing director’s external tuition activities and use of related entities and resources were inconsistent with the Employment Agreement and the company’s interests, and whether the defendants’ use of the \"Economics at TuitionGenius\" branding created a conflict over control of the \"TuitionGenius\" name.",
+      "Rule": "In disputes involving a company and its former director over parallel businesses and branding, courts generally assess: (a) the terms of any written employment or management agreements, including exclusivity and non-solicitation clauses; (b) whether there were later oral or informal arrangements between all relevant controllers that modified or qualified those written terms; (c) whether the director’s external activities were carried out openly with knowledge and acquiescence of the other controllers; and (d) in passing off claims, whether a party has goodwill in a sign, whether another party’s use of a similar sign amounts to a misrepresentation to the public, and whether such misrepresentation causes damage to that goodwill.",
+      "Application": "Tuitiongenius Pte Ltd operated tuition centres under the REAL Education branding while its corporate name contained the word \"Tuitiongenius\". Its managing director, who co-owned the company with the other director, simultaneously operated economics tuition activities under the \"TuitionGenius\" and \"Economics at TuitionGenius\" names through separate vehicles. Internal documents and bank account structures distinguished between the company’s operations and the economics business, and the other director signed off on payments and administrative arrangements that reflected this separation. The Employment Agreement contained exclusivity and non-solicitation clauses, but the parties’ subsequent conduct, including joint marketing and separate branding, indicated a practical division between the company’s multi-subject tuition business and the economics-focused business using the \"TuitionGenius\" name. This factual pattern framed the later dispute over whether the director’s external activities and branding were within or outside the agreed business structure and whether the company, rather than the individual, held the relevant goodwill in the \"TuitionGenius\" name.",
+      "Judicial_Reasoning_Log": "The court analysed the Employment Agreement and found that, although it contained exclusivity and non-solicitation clauses, the parties had entered into oral arrangements allowing the director to continue his separate economics tuition business and to retain its revenues, and that the company’s other controller knew of and acquiesced in these arrangements. Applying principles akin to the Duomatic rule and waiver by election, the court held that the company could not rely on clauses 5 and 11 to challenge the director’s external economics activities. The court did, however, find a breach of clause 12 in relation to the hiring of one tutor while still employed. On the fiduciary duties claim, the court distinguished between conduct covered by the agreed arrangements and conduct that was not. It held that certain acts, such as using the Bedok Centre premises and student base for another entity and directing staff to prioritise the director’s classes, amounted to breaches of fiduciary duties, but then considered whether those acts were effectively authorised or waived by the other controller. On passing off, the court held that Tuitiongenius Pte Ltd had not established goodwill in the \"TuitionGenius\" mark as a badge of its own services, noting that its public branding was under \"REAL Education\" and that the director had used the \"TuitionGenius\" name for his economics business before the company existed. Accordingly, the company’s passing off claim failed. On the counterclaims, the court rejected the defendants’ passing off claim for lack of proof of goodwill, dismissed the copyright claim on the basis that the materials were created in the course of employment and that the company owned the copyright, and found that the elements of lawful means conspiracy were not made out because there was insufficient evidence that the predominant purpose of commencing the suit was to injure the defendants or that there was a combination between two or more persons to that end. The court therefore dismissed all of the plaintiff’s claims except for the limited breach of clause 12 and dismissed the counterclaims in their entirety."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 453 of 2016",
+      "Coram": "Lee Seiu Kin J",
+      "Judge": "Lee Seiu Kin",
+      "Date": "2019-11-05",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Toh Yew Keat",
+      "Law_Firm": "NLC Law Asia LLC",
+      "Counsel": [
+        "Ng Lip Chih",
+        "Beatrice Chiang Sing Hui",
+        "Goh Hui Hua"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2015-01-01",
+          "Text": "As at around 2015, Toh Yew Keat, also known as Eugene, was approximately 31 years old and working as a tutor at Economics at Tuitiongenius Pte Ltd."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2007-01-01",
+          "Text": "After completing his A-level examinations in 2007 and while serving National Service, Toh Yew Keat began giving private tuition classes to earn income for his family."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2003-01-01",
+          "Text": "From about the time when Toh Yew Keat was around 12 years old, his family maintained a close relationship with Keng Yew Huat and his wife, who were friends of his parents."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2004-01-01",
+          "Text": "After the divorce of his parents around 2003 or 2004, Toh Yew Keat continued to have frequent visits from Keng Yew Huat at the family flat in Choa Chu Kang."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2007-01-01",
+          "Text": "In 2007, due to his mother’s bankruptcy and the family’s move into a hostel to rent out their Choa Chu Kang flat, Toh Yew Keat used income from night tuition classes to support household finances."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-01-01",
+          "Text": "By 2008, Toh Yew Keat was conducting group tuition classes in a room at the Choa Chu Kang flat and had built up a base of economics students."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2007-10-01",
+          "Text": "In October 2007, Toh Yew Keat registered the domain name tuitiongenius.com and used the TuitionGenius name to promote his tuition services."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2007-01-01",
+          "Text": "Around 2007, Toh Yew Keat created and used the email address tuitiongenius@gmail.com in connection with his tuition activities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2007-01-01",
+          "Text": "From 2007 onwards, Toh Yew Keat advertised his tuition business under the name \"TuitionGenius\" through online forums, flyers, and a website linked to the tuitiongenius.com domain."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2008-01-01",
+          "Text": "By 2008, economics notes prepared by Toh Yew Keat for his students included a header using the phrase \"Economics @ TuitionGenius\" on at least some versions."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-04-01",
+          "Text": "In April 2009, upon incorporation of Tuitiongenius Pte Ltd, Toh Yew Keat became a director and shareholder holding half of the company’s shares."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-08-20",
+          "Text": "On 20 August 2009, under an Employment Agreement, Toh Yew Keat was designated as Managing Director of Tuitiongenius Pte Ltd for a five-year period."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "From January 2010, at the Clementi Centre operated by Tuitiongenius Pte Ltd, Toh Yew Keat taught economics classes for second-year junior college students under course codes including J2EC01 and JCEC02."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "After Tuitiongenius Pte Ltd began operating the Clementi Centre, Toh Yew Keat continued to teach some students at the Choa Chu Kang flat outside the company’s operations."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-11-01",
+          "Text": "In November 2010, Toh Yew Keat registered a sole proprietorship named Economics at Tuitiongenius to conduct economics tuition classes."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-11-01",
+          "Text": "After registering Economics at Tuitiongenius as a sole proprietorship in November 2010, Toh Yew Keat used that vehicle to conduct economics classes in addition to his work with Tuitiongenius Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-06-01",
+          "Text": "From June 2011, Toh Yew Keat conducted economics classes at a Bedok branch operated in conjunction with Tuitiongenius Pte Ltd under the REAL Education branding."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-09-01",
+          "Text": "In September 2012, Toh Yew Keat became a director of Thinktank Learning Centre Pte Ltd alongside Keng Yew Huat and Xavier Tong."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-11-01",
+          "Text": "From November 2012, Toh Yew Keat participated in operating a tuition centre at Choa Chu Kang under the Thinktank name through Thinktank Learning Centre Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-01-01",
+          "Text": "From 2012 onwards, fees from economics classes taught by Toh Yew Keat at the Clementi Centre were directed to him personally rather than to Tuitiongenius Pte Ltd’s bank accounts."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-04-01",
+          "Text": "On the day Economics at Tuitiongenius Pte Ltd was incorporated in April 2014, the registration of the sole proprietorship Economics at Tuitiongenius was terminated."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2014-04-01",
+          "Text": "In April 2014, Economics at Tuitiongenius Pte Ltd was incorporated with Toh Yew Keat as its sole director and shareholder."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-04-01",
+          "Text": "After April 2014, Toh Yew Keat conducted economics tuition classes through Economics at Tuitiongenius Pte Ltd at locations including Jurong West, Bukit Timah, and Choa Chu Kang."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-01",
+          "Text": "By around 2013, Toh Yew Keat was involved in joint marketing activities where flyers and promotional materials featured services of Tuitiongenius Pte Ltd, Economics at Tuitiongenius, and Thinktank Learning Centre Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-01",
+          "Text": "An internal phone script used by interns at the tuition centres instructed them to promote economics classes taught by Toh Yew Keat when handling enquiries about economics tuition."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "By 2014, administrative staff at the tuition centres were handling registration forms and payments for classes under Economics at Tuitiongenius Pte Ltd, with cheques directed to that company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-05-01",
+          "Text": "In May 2014, Thinktank Learning Centre Pte Ltd engaged tutor Timothy Lim to teach, while he was also employed by Tuitiongenius Pte Ltd during part of that year."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "By late 2014, Toh Yew Keat was involved in training administrative staff, including Keng Jun Hao, on procedures that treated revenues from Economics at Tuitiongenius and REAL Education Centre as separate streams."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "During 2014, Toh Yew Keat discussed with Keng Yew Huat the financial performance of the Bedok Centre and the possibility of closing that branch due to low profitability."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-05-01",
+          "Text": "Around mid-2014, operations at the Bedok Centre under REAL Education branding ceased, and the premises were subsequently used for tuition activities associated with Thinktank Learning Centre Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-09-09",
+          "Text": "On 9 September 2015, an incident occurred in which a car driven by Keng Xiang Qi moved into the path of a car driven by Toh Yew Keat’s mother and at times reversed slowly towards it, leading to a later criminal prosecution of Keng Xiang Qi."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-10-01",
+          "Text": "On 1 October 2015, Toh Yew Keat resigned as a director of Tuitiongenius Pte Ltd and signed documents transferring his shares in the company to Keng Yew Huat."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-12-14",
+          "Text": "On 14 December 2016, Toh Yew Keat recorded another phone conversation with Keng Yew Huat concerning the ongoing dispute and the conduct of the litigation."
+        }
+      ],
+      "Issue": "Whether, given the pre-dispute history of Toh Yew Keat’s independent economics tuition business under the \"TuitionGenius\" and \"Economics at Tuitiongenius\" names, his simultaneous roles in Tuitiongenius Pte Ltd, Economics at Tuitiongenius entities, and Thinktank, and the parties’ informal arrangements, his conduct fell within or outside the scope of the Employment Agreement and company expectations, and whether his use of the \"TuitionGenius\" branding and related materials conflicted with any rights claimed by Tuitiongenius Pte Ltd.",
+      "Rule": "When a director of a closely held company operates a parallel business, courts typically examine: (a) the chronology of the director’s pre-existing business and branding relative to the company’s incorporation; (b) the express terms of any employment or management contracts, including exclusivity and non-solicitation provisions; (c) any subsequent oral or informal agreements between all controllers that permit continuation of the director’s separate business, retention of its revenues, or joint marketing; (d) the openness of the director’s conduct and the other controllers’ knowledge and acquiescence; and (e) for name and branding disputes, whether the individual or the company owns goodwill in the sign and whether any later use by either party amounts to passing off or infringement of contractual or statutory rights.",
+      "Application": "Before Tuitiongenius Pte Ltd was formed, Toh Yew Keat had already developed an economics tuition business under the \"TuitionGenius\" name, supported by a dedicated domain, email, and branded notes. After incorporation, he became a co-owner and managing director of Tuitiongenius Pte Ltd while continuing to operate economics classes through a sole proprietorship and later Economics at Tuitiongenius Pte Ltd, and also through Thinktank Learning Centre Pte Ltd. The Employment Agreement contained exclusivity and non-solicitation clauses, but the parties’ subsequent conduct, including separate bank accounts, internal guides distinguishing partners for different entities, and joint marketing materials, indicated that his economics business was treated as distinct from the company’s broader tuition operations. The other controller, Keng Yew Huat, signed off on payments and administrative arrangements that reflected this separation. These pre-dispute facts framed the later arguments about whether his external activities and branding were contractually permitted, informally authorised, or in conflict with the company’s claimed rights in the \"TuitionGenius\" name and in the course materials he produced.",
+      "Judicial_Reasoning_Log": "The court accepted that Toh Yew Keat had established and used the \"TuitionGenius\" branding for his economics tuition business before Tuitiongenius Pte Ltd was incorporated and that, after incorporation, he continued that business through a sole proprietorship and later a company, Economics at Tuitiongenius Pte Ltd. It found that oral agreements between him and the other controller, Keng Yew Huat, allowed him to continue his separate economics business, retain its revenues, and engage in joint marketing with Tuitiongenius Pte Ltd. Applying principles similar to the Duomatic rule and waiver by election, the court held that Tuitiongenius Pte Ltd could not rely on the Employment Agreement’s exclusivity provisions to challenge those aspects of his conduct. The court did find a breach of the non-solicitation clause in relation to the hiring of one tutor while he was still employed, but otherwise rejected the company’s contractual claims. On fiduciary duties, the court distinguished between conduct covered by the agreed arrangements and conduct that was not, holding that certain acts, such as the way the Bedok Centre premises and student base were used and the direction to staff to prioritise his classes, amounted to breaches of fiduciary duties, but then considered whether those breaches were effectively authorised or waived. On the passing off claim brought by the company, the court concluded that the company had not established goodwill in the \"TuitionGenius\" mark as its own badge of origin, noting that its public branding was under \"REAL Education\" and that the mark had been used by Toh Yew Keat for his own business before the company existed. The company’s passing off claim therefore failed. On the counterclaims, the court held that the defendants had not proved goodwill for their own passing off claim, that the course materials were created in the course of employment and that the company owned the copyright, and that the elements of lawful means conspiracy were not satisfied because there was insufficient evidence of a predominant intention to injure or of a combination between two or more persons to that end. Overall, the court dismissed the bulk of the claims against Toh Yew Keat, save for a limited breach of the non-solicitation clause, and dismissed his counterclaims."
+    },
+    "Label": "Partially Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 453 of 2016",
+      "Coram": "Lee Seiu Kin J",
+      "Judge": "Lee Seiu Kin",
+      "Date": "2019-11-05",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Economics at Tuitiongenius Pte Ltd",
+      "Law_Firm": "NLC Law Asia LLC",
+      "Counsel": [
+        "Ng Lip Chih",
+        "Beatrice Chiang Sing Hui",
+        "Goh Hui Hua"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2014-04-01",
+          "Text": "Economics at Tuitiongenius Pte Ltd is a company in the educational services business incorporated in April 2014 in Singapore."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2014-04-01",
+          "Text": "From its incorporation in April 2014, Economics at Tuitiongenius Pte Ltd had Toh Yew Keat as its sole director and shareholder."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-11-01",
+          "Text": "In November 2010, before the company’s incorporation, a sole proprietorship named Economics at Tuitiongenius was registered to conduct economics tuition classes."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-04-01",
+          "Text": "On the day Economics at Tuitiongenius Pte Ltd was incorporated in April 2014, the registration of the Economics at Tuitiongenius sole proprietorship was terminated."
+        }
+      ],
+      "Issue": "Whether Economics at Tuitiongenius Pte Ltd’s operation of economics tuition classes and use of the \"Economics at TuitionGenius\" branding, in conjunction with shared premises and joint marketing with Tuitiongenius Pte Ltd, conflicted with any contractual or branding rights claimed by Tuitiongenius Pte Ltd and whether its activities were part of an agreed business structure between the controllers.",
+      "Rule": "In assessing disputes involving a spin-off or parallel entity formed by a director of an existing company, courts generally consider: (a) the timing and purpose of the new entity’s incorporation relative to the original business; (b) whether the new entity’s branding and services derive from a pre-existing business of the director or from the company; (c) any express or implied agreements between the controllers about the use of premises, staff, and marketing for the new entity; and (d) whether the new entity’s use of names, premises, and resources amounts to a misappropriation of the original company’s business or goodwill or is consistent with an agreed division of activities.",
+      "Application": "Economics at Tuitiongenius Pte Ltd was incorporated in April 2014 as a continuation of an earlier sole proprietorship that had been using the \"Economics at TuitionGenius\" name since 2010. Its sole director and shareholder, Toh Yew Keat, had been operating an economics tuition business under the \"TuitionGenius\" branding before Tuitiongenius Pte Ltd was formed. After incorporation, the new company used its own bank account, appeared on internal administrative lists as a separate entity, and had registration forms directing payments to it. At the same time, it shared premises and marketing channels with Tuitiongenius Pte Ltd and Thinktank Learning Centre Pte Ltd. These arrangements were implemented openly within the group’s operations and were reflected in internal documentation, indicating that the controllers treated Economics at Tuitiongenius Pte Ltd as a distinct but coordinated vehicle for economics tuition within a broader network of tuition entities.",
+      "Judicial_Reasoning_Log": "The court treated Economics at Tuitiongenius Pte Ltd as the corporate continuation of a pre-existing economics tuition business that had been operated by Toh Yew Keat under the \"TuitionGenius\" branding before Tuitiongenius Pte Ltd existed. It found that the incorporation of Economics at Tuitiongenius Pte Ltd and its use of separate bank accounts and registration forms were known within the group and that the other controller, Keng Yew Huat, acquiesced in these arrangements. In evaluating the plaintiff’s contractual and fiduciary duty claims, the court focused primarily on the conduct of Toh Yew Keat rather than on separate wrongdoing by Economics at Tuitiongenius Pte Ltd. On the passing off claim, the court concluded that Tuitiongenius Pte Ltd had not established goodwill in the \"TuitionGenius\" mark as its own, and therefore the use of the \"Economics at TuitionGenius\" name by this defendant did not amount to passing off against the plaintiff. The court also rejected the defendants’ counterclaims, including passing off and conspiracy, for lack of proof of the necessary elements. As a result, Economics at Tuitiongenius Pte Ltd was not held liable on the plaintiff’s claims and did not succeed on its counterclaims."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  }
+]

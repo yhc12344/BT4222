@@ -1,0 +1,676 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit 163/2004",
+      "Coram": "Woo Bih Li J",
+      "Judge": "Woo Bih Li",
+      "Date": "2005-08-17",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Yeoh Peng Lim",
+      "Law_Firm": "K K Yap and Partners",
+      "Counsel": [
+        "Bachoo Mohan Singh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1950-01-01",
+          "Text": "Yeoh Peng Lim is a son of Yeo Gek Chin and an older brother of Yeo Peng Hay, with an age difference of about ten years."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1990-11-10",
+          "Text": "The Company was incorporated on 10 November 1990. The Plaintiff and the First Defendant were and are the only registered shareholders and directors of the Company."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1980-01-01",
+          "Text": "In 1980, a firm by the name of Yeo Brothers Launch Services was registered. The Plaintiff and the First Defendant were the initial two persons registered as partners of the Firm."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1980-01-01",
+          "Text": "Until 1984, the Plaintiff had nothing much to do with the Firm. He was working only as a relief boatman for the Firm’s launches from time to time. In the meantime, he continued to work for YGCLS as a boatman."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1984-01-01",
+          "Text": "In 1984, the Father decided that the Plaintiff should work for the Firm and he did so until its dissolution in 1990."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1990-11-10",
+          "Text": "On 10 November 1990, Yeo Brothers Launch Services Pte Ltd was incorporated and acquired the business and assets of the partnership firm Yeo Brothers Launch Services for $1,940,856."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1990-11-10",
+          "Text": "$1,000,000 of the purchase price for the firm’s business and assets was paid by issuing shares in Yeo Brothers Launch Services Pte Ltd equally to Yeoh Peng Lim and Yeo Peng Hay."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1990-11-10",
+          "Text": "The balance of the $1,940,856 purchase price for the firm’s business and assets was credited to the accounts of Yeoh Peng Lim and Yeo Peng Hay with Yeo Brothers Launch Services Pte Ltd as loans to the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1993-01-01",
+          "Text": "Mr Sim’s firm was appointed on 26 January 1995. Initially, he audited the Company’s accounts for 1993, 1994 and 1995 and then for subsequent years."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1995-01-26",
+          "Text": "On 26 January 1995, Jee Ah Chian & Co, through auditor Sim Hang Khiang, was appointed as auditor of Yeo Brothers Launch Services Pte Ltd, replacing the previous auditor."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1993-01-01",
+          "Text": "The only times Mr Sim dealt with the Plaintiff was when the Plaintiff and the First Defendant had come down to Mr Sim’s office, usually once a year, to sign the audited accounts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1993-01-01",
+          "Text": "It was not disputed that the First Defendant had brought the Plaintiff (who did not drive) to and from Mr Sim’s office each time in his car and the accounting records were brought back in his car."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-11-30",
+          "Text": "As at November 1995, the shortfall was $300,000. The First Defendant’s account was first debited with this sum on 30 November 1995."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-31",
+          "Text": "On 31 December 1995, the First Defendant’s account was credited with $300,000 and the Plaintiff’s account was debited with $300,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-31",
+          "Text": "As at 31 December 1995, the Plaintiff’s account had a credit balance of $482,279.15."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "For the 1996 accounts, a sum of $783,737.80 was debited to the Plaintiff’s account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "For the 1996 accounts, a sum of $257,540.28 was credited to the First Defendant’s account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "After debiting the Plaintiff’s account with the $783,737.80 and crediting the First Defendant’s account with $257,540.28, the Plaintiff’s account had a debit balance of $293,516.40 as at 31 December 1996."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "For the 1996 accounts, a provision of $400,000 was made and credited to the Accruals account. It was intended to be for directors’ fees of $200,000 for each of the Plaintiff and the First Defendant."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1997-12-31",
+          "Text": "For the 1997 accounts, a $400,000 adjustment was made to clear the petty cash balance in the Company apparently to account for the shortfall in cash for 1997 and the Accruals account was debited with the $400,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1997-12-31",
+          "Text": "The directors did not in fact receive the fees of $200,000 each."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-12-31",
+          "Text": "For 1998, the First Defendant’s account was debited with the sum of $3,515.03 and the Plaintiff’s account was debited with $3,515.02 to account for a shortfall of $7,030.05."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-12-31",
+          "Text": "Another sum of $112,198.10 was debited to each of their accounts to account for another shortfall in 1998."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1998-12-31",
+          "Text": "There was a remark in Mr Sim’s working papers in respect of those two adjustments and a third adjustment which was not in issue. The remark states, 'Client says this is the usual policy where the directors would approve of it'."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-12-31",
+          "Text": "For 2001, $391,620.65 was debited to the Father’s account even though he had passed away on 1 March 1998. Another sum of $3,515.02 was debited to the account of Sea-Dragon."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "Various sums of cash were withdrawn from time to time from the Company’s current account. In each of the years in question, there was a shortfall between the aggregate amount of cash withdrawn from the Company’s current account and the two petty cash accounts of the Company which were used for cash advances to boatmen and cash expenses."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "Apparently the Father, the Plaintiff and the First Defendant were the authorised signatories and any two of them could operate the account."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "The First Defendant was the only person to withdraw cash from the account using cash cheques signed by two of the authorised signatories. It was not clear from the evidence who the usual two signatories were. In any event, the Plaintiff’s evidence was that he was aware that the First Defendant was the one withdrawing the cash. Indeed it was common ground that after withdrawal, the First Defendant would hand cash to the Plaintiff."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "The Plaintiff used the cash he received to advance money to boatmen who were operating the launches and to pay for operating expenses like the purchase of spare parts and repairs."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "The salaries or fees of the boatmen were paid by cheque."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "From time to time he would hand cash to boatmen as advances and get them to acknowledge receipt thereof on cards which contained the boatmen’s respective names."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "The Plaintiff handled cash of thousands of dollars each month."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1997-12-31",
+          "Text": "As regards the Plaintiff’s allegation that he had signed blank cheques, it was also his evidence that he had stopped signing blank cheques by the end of 1997."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-01-01",
+          "Text": "In view of this and his experience in handling cash, he would have known the amounts of each cash cheque he had signed from 1998, if not earlier, and the amount of cash he had actually received from the First Defendant."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1998-03-01",
+          "Text": "The first incident was when the First Defendant had requested the Plaintiff to sign a directors’ resolution dated 1 March 1998, ie the same date as the Father’s death although the resolution might have been back-dated. The resolution was to add the First Defendant’s wife, Tan Bee Lan, as an authorised signature of the Company’s current account."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-03-01",
+          "Text": "The Plaintiff signed the resolution and then crossed out his signature."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1998-03-01",
+          "Text": "The Plaintiff also said in oral evidence that the original was taken away by the First Defendant."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-03-01",
+          "Text": "The Plaintiff said he responded by saying that if the First Defendant was intending to go overseas, he could sign a few blank cheques first."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-04-01",
+          "Text": "In April 1999, the First Defendant had approached the Plaintiff with a cheque which had been made out for $300,000."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-04-01",
+          "Text": "The Plaintiff made a photocopy of the cheque and he wrote some words in broken English below the photocopy for the First Defendant to sign thereon. The words were: 'YEO PENG HAY CREDIT THREE HUNDRED THOUSAND FOR COMPANY YEO BROTHER INTEREST. MONTHLY PD. SIGN'."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-04-01",
+          "Text": "The Plaintiff required the First Defendant to sign the acknowledgment before he signed the cheque."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1997-12-31",
+          "Text": "The audit confirmation for 1997 was to confirm a debit balance in the Plaintiff’s account."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-12-31",
+          "Text": "The audit confirmation for 1999 was also to confirm a debit balance in the Plaintiff’s account."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2001-12-31",
+          "Text": "The Plaintiff’s version was that Mr Sim handed this document for him to sign after he had signed the audited accounts for 2001 and Mr Sim said it was a confirmation that the Plaintiff owed the Company $355,459.19."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1997-01-01",
+          "Text": "In one of his responses for the assessment for income earned in 1997, he said that he had asked the First Defendant why the tax was so high and the First Defendant had replied that as they had wanted to expand their business, the tax would be more."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1997-01-01",
+          "Text": "While he said that he had handed each notice of assessment to an accounts clerk, as the Company was paying his taxes, he had made a copy for himself."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "According to the Plaintiff’s son, Yeoh Chong Heng, he had wanted to use his father’s name to obtain a loan to buy a car in June 2003. Chong Heng asked the Plaintiff for his Income Tax Notices of Assessment. The Plaintiff then got his wife to hand Chong Heng some tax documents."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-06-01",
+          "Text": "For Y/E 2000, the Notice of Assessment stated the Plaintiff’s income to be $234,000. For Y/E 2001, there were dividends of $150,287 and income from employment was $84,000."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-01-01",
+          "Text": "The oral evidence of Mr Sim and his working papers suggested that, at times, Mr Sim would liaise with the First Defendant on the accounts but never with the Plaintiff."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1990-11-10",
+          "Text": "It was undisputed that he was in charge of the operational aspects of the business of the Company including the supervision and scheduling of orders and the management of the boatmen."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1996-08-21",
+          "Text": "As at 1995, the Company was operating 14 launches that could carry more than 12 passengers each and 20 launches that carried less than 12 passengers each. The Company employed 42 workers and engaged more than ten subcontractors as boatmen."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-01-01",
+          "Text": "From 1998 onwards, the wife of Yeo Peng Hay, Tan Bee Lan, worked among the administrative staff handling tasks such as issuing cheques and invoices for Yeo Brothers Launch Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2003-01-01",
+          "Text": "In 2003, accountant J H Tan prepared a list of accounting documents kept at the office of Yeo Brothers Launch Services Pte Ltd, which showed that only some accounting documents for certain years were present."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1993-01-01",
+          "Text": "From 1993 onwards, auditor Sim Hang Khiang liaised on the company’s accounts with the bookkeeper Ho Soo Pin and with Yeo Gek Chin and/or Yeo Peng Hay, but not with Yeoh Peng Lim, except when the directors came to sign the audited accounts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "From the incorporation of Yeo Brothers Launch Services Pte Ltd, Yeoh Peng Lim was in charge of operational aspects of the business, including supervision and scheduling of orders and management of boatmen."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "As at 1995, Yeo Brothers Launch Services Pte Ltd operated 14 launches that could carry more than 12 passengers each and 20 launches that carried fewer than 12 passengers each, and employed 42 workers and more than ten subcontractor boatmen under the operational management of Yeoh Peng Lim."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2003-01-01",
+          "Text": "In 2003, Yeoh Peng Lim filed Originating Summons No 1489 of 2003 seeking inspection of the company’s accounting records with a public accountant."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2004-11-18",
+          "Text": "On 18 November 2004, Yeoh Peng Lim filed Summons in Chambers No 6387 of 2004 seeking an order that the auditors of Yeo Brothers Launch Services Pte Ltd make discovery of documents, including inspection of their audit files."
+        }
+      ],
+      "Issue": "Whether the debit and credit entries and adjustments recorded in the accounts of Yeo Brothers Launch Services Pte Ltd between 1995 and 2001, including entries to the account of Yeoh Peng Lim and related accounts, accurately reflected the underlying cash withdrawals, cash usage, and inter-company balances, and whether those entries should be reversed or reallocated among the directors’ and related parties’ accounts.",
+      "Rule": "In company and directors’ account disputes, courts generally assess whether accounting entries and directors’ loan balances reflect actual underlying transactions and cash movements, taking into account corporate records, audit documentation, directors’ signatures on audited accounts and confirmations, and any subsequent challenges, to determine whether recorded balances should stand or be adjusted.",
+      "Application": "The company’s records show repeated cash withdrawals from the bank account operated by authorised signatories, with cash subsequently used by Yeoh Peng Lim for advances to boatmen and operating expenses, and recorded shortfalls addressed through journal entries and audit adjustments to directors’ and related accounts. Large amounts, including $300,000 in 1995 and $783,737.80 in 1996, were debited to the account of Yeoh Peng Lim, and further amounts were debited in 1998, while other related entries affected the accounts of Yeo Peng Hay, their father, and Sea-Dragon Marine Services Pte Ltd. Over the years, Yeoh Peng Lim signed audited accounts and audit confirmations for 1997 and 1999 acknowledging debit balances in his account, and he retained copies of income tax assessments reflecting income figures derived from those accounts. He later initiated inquiries, engaged an accountant, and commenced court processes to inspect records and challenge the entries. These facts provide the basis for comparing the recorded balances and confirmations against the pattern of cash withdrawals, operational cash usage, and subsequent objections when assessing whether the entries should remain or be reversed or reallocated.",
+      "Judicial_Reasoning_Log": "The judge evaluated extensive evidence about who controlled the firm and the company, the pattern of cash withdrawals, and the handling of cash shortfalls. He found that the father, though not formally a partner, director, or shareholder, controlled the firm and later the company while alive, and that the auditor, Mr Sim, took directions from the father and later from the first defendant. The judge rejected the plaintiff’s vacillating evidence about control and concluded that the father was effectively in charge. On the central factual dispute, the judge found that the first defendant did not hand all withdrawn cash to the plaintiff; instead, part of the cash went to the father, part to the plaintiff, and part was used by the first defendant, including for entertainment and other purposes. The judge considered the plaintiff’s operational role, his handling of substantial cash, his cessation of signing blank cheques by the end of 1997, and the absence of any protest about discrepancies from at least 1998, and inferred that the plaintiff was familiar with the practice of receiving less cash than the amounts of the cash cheques. The judge was critical of the auditor’s performance, finding that Mr Sim accepted vague explanations and made adjustments to cover shortfalls without proper qualification, and that his claim of detailed explanations to the directors was not credible. Nonetheless, the judge held that the plaintiff knew he was signing audited accounts and that he signed audit confirmations for 1997 and 1999 acknowledging debit balances in his account, and that he understood income tax notices showing his supposed earnings. The judge concluded that by signing the 1999 audit confirmation, the plaintiff accepted the debit balance as at the end of 1999, which effectively encompassed the entries and adjustments he was challenging up to that year, and that he had not established grounds to reverse those entries. As for the 2001 entries debited to the accounts of the father and Sea-Dragon Marine Services Pte Ltd, the judge held that the plaintiff was not the proper party to seek their reversal because they did not relate to his own account, though he expressly left open the possibility for the father’s estate and Sea-Dragon or the liquidator to challenge those debits. The judge therefore ordered the company to be wound up by consent and appointed the plaintiff’s nominee as liquidator, but dismissed the plaintiff’s other prayers, including the claims for reversal of the disputed entries and adjustments."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 163/2004",
+      "Coram": "Woo Bih Li J",
+      "Judge": "Woo Bih Li",
+      "Date": "2005-08-17",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Yeo Peng Hay",
+      "Law_Firm": "De Souza Tay and Goh",
+      "Counsel": [
+        "David De Souza",
+        "Jeanette Lee"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1945-01-01",
+          "Text": "Yeo Peng Hay, also known as Peter, is a son of Yeo Gek Chin and a younger brother of Yeoh Peng Lim, with an age difference of about ten years."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1980-01-01",
+          "Text": "In 1980, Yeo Brothers Launch Services was registered as a firm, with Yeoh Peng Lim and Yeo Peng Hay as the initial two registered partners."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1990-11-10",
+          "Text": "On 10 November 1990, Yeo Brothers Launch Services Pte Ltd was incorporated and acquired the Firm's business and assets for $1,940,856; $1 million was paid by the issue of shares equally to Yeoh Peng Lim and Yeo Peng Hay, and the balance was credited to their accounts as loans."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1990-07-24",
+          "Text": "On 24 July 1990, Sing-Batam Ferries Pte Ltd was incorporated with Yeo Gek Chin and Yeo Peng Hay as directors and shareholders, each holding 250,000 $1 shares."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1990-08-22",
+          "Text": "On 22 August 1990, Sea-Dragon Marine Services Pte Ltd was incorporated with Yeo Gek Chin and Yeo Peng Hay as directors and shareholders, each holding 250,000 $1 shares."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1980-01-01",
+          "Text": "Between 1980 and 1984, Yeo Peng Hay would withdraw cash from the Firm's bank account and hand the cash to the Father."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1984-01-01",
+          "Text": "In or about 1984, in the presence of the Plaintiff, the First Defendant and Peng Yok, the Father said that the cash withdrawn was to be handed by the First Defendant to the Plaintiff, who was to take charge of the financial matters of the Firm."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1984-01-01",
+          "Text": "From then on, the First Defendant would hand all the cash withdrawn to the Plaintiff and the practice continued after the Company was incorporated."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "Apparently, the Father, the Plaintiff and the First Defendant were the authorised signatories and any two of them could operate the account."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "The First Defendant was the only person to withdraw cash from the account using cash cheques signed by two of the authorised signatories, and after withdrawal he would hand cash to the Plaintiff."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-11-30",
+          "Text": "On 30 November 1995, the First Defendant's account was first debited with $300,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-31",
+          "Text": "On 31 December 1995, the First Defendant's account was credited with $300,000 and the Plaintiff's account was debited with $300,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-31",
+          "Text": "As at 31 December 1995, the First Defendant's account had a debit balance of $550,683.27."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-31",
+          "Text": "According to Mr Sim, Sing-Batam was proceeding towards a members' voluntary liquidation in 1996, and the Father directed that an adjustment be made in the Company's 1995 accounts so that the sum of $1,132,785.80 owed by Sing-Batam would be debited to the First Defendant's account first."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "For the 1996 accounts, a sum of $783,737.80 was debited to the Plaintiff's account and a sum of $257,540.28 was credited to the First Defendant's account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "After the 1996 adjustments, the First Defendant's account had a debit balance of $271,247.94 as at 31 December 1996."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "Mr Sim's audit working papers had a note stating 'Adjustment was made in the account by Steve Ho to even out the balance due by the brothers'."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "In the 1996 accounts, a provision of $400,000 was credited to the Accruals account and was intended to be for directors' fees of $200,000 each for the Plaintiff and the First Defendant."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1997-12-31",
+          "Text": "For the 1997 accounts, a $400,000 adjustment was made to clear the petty cash balance in the Company apparently to account for the shortfall in cash for 1997, and the Accruals account was debited with the $400,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-12-31",
+          "Text": "For 1998, the First Defendant's account was debited with $3,515.03 and the Plaintiff's account was debited with $3,515.02 to account for a shortfall of $7,030.05."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-12-31",
+          "Text": "Another sum of $112,198.10 was debited to each of their accounts to account for another shortfall in 1998."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-12-31",
+          "Text": "For 2001, $391,620.65 was debited to the Father's account even though he had passed away on 1 March 1998, and another sum of $3,515.02 was debited to the account of Sea-Dragon."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1993-01-01",
+          "Text": "The oral evidence of Mr Sim and his working papers suggested that, at times, Mr Sim would liaise with the First Defendant on the accounts but never with the Plaintiff."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-01-01",
+          "Text": "The administrative staff doing work like issuing cheques and invoices were relocated from the Company's office to the First Defendant's office at Tras Street in 1998. The First Defendant's wife, Tan Bee Lan, was one of the staff doing such work."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "It was he who was to source for business and it was he whom his Father had entrusted to withdraw the cash."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-07-24",
+          "Text": "The business of Sing-Batam was to operate ferries plying between Singapore and Batam. The business of Sea-Dragon was to ferry passengers outside the Singapore port limits."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-01-01",
+          "Text": "According to Mr Sim, Sing-Batam was proceeding towards a members' voluntary liquidation in 1996, and the Father directed that an adjustment be made in the Company's 1995 accounts and that this sum be debited to the First Defendant's account first."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-03-01",
+          "Text": "The First Defendant requested the Plaintiff to sign a directors' resolution dated 1 March 1998 to add the First Defendant's wife, Tan Bee Lan, as an authorised signatory of the Company's current account."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-04-01",
+          "Text": "In April 1999, the First Defendant approached the Plaintiff to borrow $300,000 from the Company and the Plaintiff made a photocopy of the cheque and wrote words in broken English below the photocopy for the First Defendant to sign thereon."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1997-12-31",
+          "Text": "The audit confirmation for 1997 was to confirm a debit balance in the Plaintiff's account."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-12-31",
+          "Text": "The audit confirmation for 1999 was also to confirm a debit balance in the Plaintiff's account."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "He also had his own business, Hai Huat Boatbuilders Pte Ltd, and was a director of other companies."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "It was he who was to source for business and it was he whom his Father had entrusted to withdraw the cash."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "If there were substantial sums of cash spent on 'entertainment', it would have been the First Defendant who did the 'entertainment'."
+        }
+      ],
+      "Issue": "Whether the pattern of cash withdrawals by Yeo Peng Hay from the company’s bank account, the subsequent handling of cash, and the accounting entries and adjustments made to the directors’ and related parties’ accounts between 1995 and 2001 should remain as recorded or be reallocated, including whether amounts debited to the account of Yeoh Peng Lim should instead be debited to the account of Yeo Peng Hay.",
+      "Rule": "In disputes over directors’ loan accounts and internal company accounting, courts generally examine whether recorded debits and credits correspond to actual cash flows and agreed arrangements, considering the conduct of directors, instructions from controlling persons, audit records, and confirmations, to decide whether existing entries should be maintained or reallocated among directors and related parties.",
+      "Application": "The records from the 1980s onwards, Yeo Peng Hay was the person withdrawing cash from the firm’s and later the company’s bank account and handing cash to his brother, while also being involved in other businesses and entertainment of customers. Significant accounting entries were made to his account, including the initial $300,000 debit in November 1995 and the transfer of the Sing-Batam debtor balance of $1,132,785.80 to his account, as well as later credits such as $257,540.28 in 1996 and shared debits of $3,515.03 and $112,198.10 in 1998. These adjustments were recorded in the context of directions from their father and the auditor’s working notes about evening out balances between the brothers. Over the years, both directors signed audited accounts and audit confirmations, and the company’s accounts reflected the evolving balances in their respective loan accounts. When the plaintiff later challenged the entries, the existing documentation and the history of cash withdrawals, entertainment expenses, and inter-company adjustments formed the factual basis for assessing whether the amounts debited to each director’s account, including those affecting Yeo Peng Hay, should be left as recorded or reallocated.",
+      "Judicial_Reasoning_Log": "The judge accepted that the first defendant, Yeo Peng Hay, was more familiar with the company’s accounts and that he withdrew cash and used some of it, including for entertainment and other purposes, but concluded that this did not automatically justify reallocating all disputed debits to his account. The judge found that the father controlled the firm and the company while alive and that many of the adjustments, including the transfer of the Sing-Batam debtor balance and the evening out of the brothers’ accounts, were made on the father’s instructions and implemented by the auditor and bookkeeper. The judge determined that the plaintiff had accepted the state of the accounts up to 1999 by signing the audited accounts and audit confirmations, and that the plaintiff’s later challenge did not displace the recorded balances. Although the judge was critical of the auditor and noted that the first defendant likely knew how the shortfalls were used and had taken some of the cash, he was not prepared to conclude that the first defendant had taken all of the shortfall or that the disputed entries should be reversed and debited to the first defendant’s account. Accordingly, the judge dismissed the plaintiff’s claims for reversal of the entries and adjustments and did not impose liability on the first defendant for the amounts in dispute, while leaving open potential challenges by the father’s estate, Sea-Dragon, or the liquidator regarding debits to their accounts."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 163/2004",
+      "Coram": "Woo Bih Li J",
+      "Judge": "Woo Bih Li",
+      "Date": "2005-08-17",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Yeo Brothers Launch Services Pte Ltd",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1990-11-10",
+          "Text": "Yeo Brothers Launch Services Pte Ltd was incorporated on 10 November 1990 to take over the business and assets of the firm Yeo Brothers Launch Services."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1990-11-10",
+          "Text": "On 10 November 1990, Yeo Brothers Launch Services Pte Ltd acquired the business and assets of the firm Yeo Brothers Launch Services for a consideration of $1,940,856."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1990-11-10",
+          "Text": "From its incorporation, Yeoh Peng Lim and Yeo Peng Hay were the only registered shareholders and directors of Yeo Brothers Launch Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1990-11-10",
+          "Text": "Of the $1,940,856 consideration for the acquisition of the firm’s business and assets, $1,000,000 was satisfied by the issue of shares in Yeo Brothers Launch Services Pte Ltd equally to Yeoh Peng Lim and Yeo Peng Hay, and the balance was credited as loans to the company in their respective accounts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "From incorporation, Yeo Brothers Launch Services Pte Ltd acquired the Firm’s business and assets and carried on the passenger launch business."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1990-11-10",
+          "Text": "The company had a current account with Chung Khiaw Bank Ltd, later United Overseas Bank Limited, and the Father, the Plaintiff and the First Defendant were the authorised signatories; any two of them could operate the account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1990-11-10",
+          "Text": "Various sums of cash were withdrawn from the company’s current account using cash cheques signed by two authorised signatories."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "In each of the years 1995, 1996, 1997, 1998 and 2001, there was a shortfall between the aggregate amount of cash withdrawn from the company’s current account and the two petty cash accounts used for cash advances to boatmen and cash expenses."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-11-30",
+          "Text": "As at November 1995, the shortfall was $300,000, and the First Defendant’s account was first debited with this sum on 30 November 1995."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-31",
+          "Text": "On 31 December 1995, the First Defendant’s account was credited with $300,000 and the Plaintiff’s account was debited with $300,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-31",
+          "Text": "According to Mr Sim, Sing-Batam was proceeding towards a members’ voluntary liquidation in 1996 and a sum of $1,132,785.80 owed by Sing-Batam to the Company was debited to the First Defendant’s account first."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "For the 1996 accounts, a sum of $783,737.80 was debited to the Plaintiff’s account and a sum of $257,540.28 was credited to the First Defendant’s account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "For the 1996 accounts, a provision of $400,000 was credited to the Accruals account and was intended to be for directors’ fees of $200,000 for each of the Plaintiff and the First Defendant."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1997-12-31",
+          "Text": "For the 1997 accounts, a $400,000 adjustment was made to clear the petty cash balance in the Company and the Accruals account was debited with the $400,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-12-31",
+          "Text": "For 1998, the First Defendant’s account was debited with $3,515.03 and the Plaintiff’s account was debited with $3,515.02 to account for a shortfall of $7,030.05."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-12-31",
+          "Text": "For 1998, another sum of $112,198.10 was debited to each of their accounts to account for another shortfall in 1998."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1998-12-31",
+          "Text": "The auditor’s working papers contained a remark: \"Client says this is the usual policy where the directors would approve of it\"."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2001-12-31",
+          "Text": "For 2001, $391,620.65 was debited to the Father’s account and another sum of $3,515.02 was debited to the account of Sea-Dragon Marine Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1993-01-01",
+          "Text": "Mr Sim’s firm was appointed on 26 January 1995. Initially, he audited the Company’s accounts for 1993, 1994 and 1995 and then for subsequent years."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1997-12-31",
+          "Text": "The audit confirmation for 1997 was to confirm a debit balance in the Plaintiff’s account, and the Plaintiff signed it."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-12-31",
+          "Text": "The audit confirmation for 1999 was also to confirm a debit balance in the Plaintiff’s account, and the Plaintiff signed it."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2001-12-31",
+          "Text": "For the 2001 accounts, the Plaintiff said he was handed an audit confirmation stating that he owed the Company $355,459.19, and he refused to sign it."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1990-11-10",
+          "Text": "From about 10 November 1990 to about 21 August 1996, the company’s office was at 25 Jurong Pier Road."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1996-08-21",
+          "Text": "From about 21 August 1996 to about 31 July 2002, the company’s office was at 20 Jurong Pier Road #02-02/03."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2002-07-31",
+          "Text": "From about 31 July 2002 to about April 2004, the company’s office was at #18/19 Pasir Panjang Lighter Wharves."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-01-01",
+          "Text": "The administrative staff doing work like issuing cheques and invoices were relocated from the Company’s office to the First Defendant’s office at Tras Street in 1998."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1993-01-01",
+          "Text": "Mr Sim’s oral evidence and working papers suggested that, at times, he would liaise with the First Defendant on the accounts but never with the Plaintiff."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "As at 1995, the Company was operating 14 launches that could carry more than 12 passengers each and 20 launches that carried less than 12 passengers each. The Company employed 42 workers and engaged more than ten subcontractors as boatmen."
+        }
+      ],
+      "Issue": "Whether the internal accounting treatment by Yeo Brothers Launch Services Pte Ltd of cash withdrawals, petty cash shortfalls, inter-company balances, and directors’ loan accounts between 1995 and 2001, including debits and credits to the accounts of its directors and related parties, should be maintained or adjusted, and whether the company should be wound up.",
+      "Rule": "In company law, courts may order winding up by consent of the parties and may review the company’s internal accounts and directors’ loan balances to determine whether recorded entries reflect actual transactions, but will generally leave the company’s liquidator and affected parties to pursue any necessary adjustments to related party accounts in the course of liquidation.",
+      "Application": "Yeo Brothers Launch Services Pte Ltd recorded recurring cash withdrawals and petty cash shortfalls over several years, which were addressed through journal entries and audit adjustments affecting directors’ and related parties’ accounts, including large debits and credits between the accounts of its two directors and the transfer of a substantial debtor balance from Sing-Batam Ferries Pte Ltd. The company’s audited accounts were signed annually by both directors, and audit confirmations were issued and, in some years, signed. When one director later challenged the entries and sought reversal and reallocation, the company became involved in court proceedings for inspection of records and discovery from its auditors. Ultimately, the parties consented to a winding-up order, and the court considered that any further challenges to debits in the accounts of the father and Sea-Dragon Marine Services Pte Ltd could be pursued by the estate, Sea-Dragon, or the liquidator in the course of the company’s liquidation, rather than through the specific reliefs sought in this action.",
+      "Judicial_Reasoning_Log": "After reviewing the background of the company, its ownership by the two brothers, and the pattern of cash withdrawals and accounting adjustments, the judge noted that many of the disputed entries arose from directions given by the father and were implemented by the auditor and bookkeeper to address cash shortfalls and equalise directors’ balances. The judge found that the plaintiff had not established a basis to reverse the entries in his own account up to 1999, given his signatures on audited accounts and audit confirmations, and that he was not the proper party to challenge entries debited to the accounts of the father and Sea-Dragon Marine Services Pte Ltd. However, in light of the parties’ consent and the breakdown in relations, the judge ordered that Yeo Brothers Launch Services Pte Ltd be wound up and appointed the plaintiff’s nominee, Mr Lau Chin Huat, as liquidator. The judge expressly stated that his order would not preclude the estate of the father, Sea-Dragon, or the liquidator from challenging the amounts debited to their respective accounts or taking steps in respect of those accounts during the liquidation. Thus, while the company’s winding up was allowed by consent, the specific claims for reversal of entries and adjustments were dismissed, leaving further account-related issues to be addressed in the liquidation process."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  }
+]

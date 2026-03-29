@@ -1,0 +1,157 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "CA 64/2003/R",
+      "Coram": "Chao Hick Tin JA; Lai Kew Chai J; Yong Pung How CJ",
+      "Judge": "Lai Kew Chai J",
+      "Date": "2004-05-28",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Heap Huat Rubber Company Sdn Bhd; HHR Properties Sdn Bhd; HHR Trading Sdn Bhd; HHR Construction and Supply Sdn Bhd",
+      "Law_Firm": "Rodyk and Davidson",
+      "Counsel": [
+        "Philip Jeyaretnam SC",
+        "Jean Lim"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Heap Huat Rubber Company Sdn Bhd, HHR Properties Sdn Bhd, HHR Trading Sdn Bhd and HHR Construction and Supply Sdn Bhd were parties to a dispute with Kong Choot Sian, Kong Siew Seng and Ng Phuay Khoon concerning directors' remuneration and whether such remuneration was authorised by the companies' articles of association."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-01-01",
+          "Text": "On or after 1 January 1998, the second respondent, Kong Siew Seng, received payments from Heap Huat Rubber Company Sdn Bhd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-01-01",
+          "Text": "On or after 1 January 1998, the total payments received by Kong Siew Seng from Heap Huat Rubber Company Sdn Bhd amounted to S$86,000 and RM28,650."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-01-01",
+          "Text": "On or after 1 January 1998, the third respondent, Ng Phuay Khoon, received payments from Heap Huat Rubber Company Sdn Bhd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-01-01",
+          "Text": "On or after 1 January 1998, the total payments received by Ng Phuay Khoon from Heap Huat Rubber Company Sdn Bhd amounted to S$168,710 and RM55,275."
+        }
+      ],
+      "Issue": "Whether the remuneration and payments received by the directors from the companies, including bonuses and other moneys, were authorised by the companies' articles of association and the directors' contracts for services.",
+      "Rule": "Directors' entitlement to remuneration and related payments is determined by the provisions of the company's articles of association and any applicable contracts for services, and payments outside such authorisation may be repayment.",
+      "Application": "The companies made payments and bonuses to the individual directors, and the amounts and sources of these payments can be compared against the terms of the companies' articles of association and the directors' contracts for services to determine whether the payments were within the authorised framework.",
+      "Judicial_Reasoning_Log": "The court referred to its earlier judgment dated 30 March 2004 in which it allowed the appellants' appeal in part and ordered that payments received by the second and third respondents from the first appellant on or after 1 January 1998 be refunded, and that bonuses or other moneys received by the first respondent from the second to fourth appellants which were not provided for in his contracts for services be refunded. In the present judgment, the court clarified the specific total amounts in Singapore dollars and Malaysian ringgit to be refunded by each respondent. The court also noted that the respondents admitted during cross-examination to having received these payments, and used this as part of its reasoning in quantifying the sums to be repaid."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "CA 64/2003/R",
+      "Coram": "Chao Hick Tin JA; Lai Kew Chai J; Yong Pung How CJ",
+      "Judge": "Lai Kew Chai J",
+      "Date": "2004-05-28",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Kong Choot Sian",
+      "Law_Firm": "",
+      "Counsel": [
+        "In person"
+      ],
+      "Facts": [],
+      "Issue": "Whether the bonuses and other moneys received by Kong Choot Sian from the companies were within the scope of authorisation given by the companies' articles of association and his contracts for services.",
+      "Rule": "A director's entitlement to bonuses and other remuneration is governed by the company's articles of association and the director's contracts for services, and payments outside such authorisation may be repayment.",
+      "Application": "The bonuses and other moneys received by Kong Choot Sian from the companies, and the fact that these were not provided for in his contracts for services, are compared with the governing documents to determine whether the payments fell within authorised remuneration.",
+      "Judicial_Reasoning_Log": "The court, referring to its earlier judgment, determined that the bonuses and other moneys received by Kong Choot Sian from the second to fourth appellant companies, which were not provided for in his contracts for services, had to be refunded. In this judgment, the court clarified that the total amount to be refunded by him was RM308,400. The court relied on the respondents' admissions during cross-examination regarding receipt of these payments and treated these admissions as part of the evidential basis for ordering repayment."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "CA 64/2003/R",
+      "Coram": "Chao Hick Tin JA; Lai Kew Chai J; Yong Pung How CJ",
+      "Judge": "Lai Kew Chai J",
+      "Date": "2004-05-28",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Kong Siew Seng",
+      "Law_Firm": "",
+      "Counsel": [
+        "In person"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Kong Siew Seng was the second respondent in proceedings concerning directors' remuneration and whether such remuneration was authorised by the company's articles of association."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-01-01",
+          "Text": "On or after 1 January 1998, Kong Siew Seng received payments from HHR."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-01-01",
+          "Text": "On or after 1 January 1998, the total payments received by Kong Siew Seng from HHR amounted to S$86,000 and RM28,650."
+        }
+      ],
+      "Issue": "Whether the payments received by Kong Siew Seng from Huap Huat Rubber Company Sdn Bhd on or after 1 January 1998 were within the scope of authorisation given by the company's articles of association and any applicable contracts for services.",
+      "Rule": "Directors' entitlement to remuneration and related payments is governed by the company's articles of association and any applicable contracts for services, and payments outside such authorisation may be repayment.",
+      "Application": "The payments received by Kong Siew Seng from the company, and their total amounts in Singapore dollars and Malaysian ringgit, are assessed against the company's articles of association and any contracts for services to determine whether they were authorised remuneration.",
+      "Judicial_Reasoning_Log": "The court, in its earlier judgment, ordered that payments received by Kong Siew Seng from the first appellant on or after 1 January 1998 be refunded. In this judgment, the court clarified that the total amount to be refunded by him was S$86,000 and RM28,650. The court noted that he admitted during cross-examination to having received these payments and used this admission as part of the evidential basis for quantifying the sums to be repaid."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "CA 64/2003/R",
+      "Coram": "Chao Hick Tin JA; Lai Kew Chai J; Yong Pung How CJ",
+      "Judge": "Lai Kew Chai J",
+      "Date": "2004-05-28",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Ng Phuay Khoon",
+      "Law_Firm": "",
+      "Counsel": [
+        "In person"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2004-01-01",
+          "Text": "Ng Phuay Khoon was a respondent in proceedings involving Heap Huat Rubber Company Sdn Bhd concerning directors' remuneration and whether such remuneration was authorised by the company's articles of association."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-01-01",
+          "Text": "On or after 1 January 1998, Ng Phuay Khoon received payments from Huap Huat Rubber Company Sdn Bhd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-01-01",
+          "Text": "On or after 1 January 1998, the total payments received by Ng Phuay Khoon from Huap Huat Rubber Company Sdn Bhd amounted to S$168,710 and RM55,275."
+        }
+      ],
+      "Issue": "Whether the payments received by Ng Phuay Khoon from Huap Huat Rubber Company Sdn Bhd on or after 1 January 1998 were within the scope of authorisation given by the company's articles of association and any applicable contracts for services.",
+      "Rule": "Directors' entitlement to remuneration and related payments is governed by the company's articles of association and any applicable contracts for services, and payments outside such authorisation may be repayment.",
+      "Application": "The payments received by Ng Phuay Khoon from the company, and their total amounts in Singapore dollars and Malaysian ringgit, are assessed against the company's articles of association and any contracts for services to determine whether they were authorised remuneration.",
+      "Judicial_Reasoning_Log": "The court, in its earlier judgment, ordered that payments received by Ng Phuay Khoon from the first appellant on or after 1 January 1998 be refunded. In this judgment, the court clarified that the total amount to be refunded by him was S$168,710 and RM55,275. The court noted that he admitted during cross-examination to having received these payments and used this admission as part of the evidential basis for quantifying the sums to be repaid."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  }
+]

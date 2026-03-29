@@ -1,0 +1,519 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "CA 124/1999",
+      "Coram": "Chao Hick Tin JA; L P Thean JA; Yong Pung How CJ",
+      "Judge": "Chao Hick Tin JA; L P Thean JA; Yong Pung How CJ",
+      "Date": "2000-07-28",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Low Hua Kin",
+      "Law_Firm": "Wong Partnership",
+      "Counsel": [
+        "Alvin Yeo SC",
+        "Nandakumar Ponniya"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "In the early 1970s, Low Hua Kin worked as a lecturer at the University of Singapore."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1972-01-01",
+          "Text": "In 1972, while still a lecturer, Low Hua Kin, with the consent of the university, began working for Kumagai Gumi Co Ltd as a consultant and advisor."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1972-01-01",
+          "Text": "From 1972, Low Hua Kin had a consultancy and advisory relationship with Kumagai Gumi Co Ltd, a Japanese construction corporation operating in Singapore."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1976-01-01",
+          "Text": "In 1976, Low Hua Kin resigned from the University of Singapore and became a full-time consultant and advisor to Kumagai Gumi Co Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1979",
+          "Text": "In 1979, with the consent of Kumagai Gumi Co Ltd, Low Hua Kin incorporated Zenecon Pte Ltd, a company under his control."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1979",
+          "Text": "From 1979, Low Hua Kin was a director and chairman of Zenecon Pte Ltd and held controlling shares in the company."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "1979",
+          "Text": "In 1979, the other shareholders of Zenecon Pte Ltd were the wife and brother of Low Hua Kin, and Jason Lim was the company secretary."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1983-04-25",
+          "Text": "On 25 April 1983, Kumagai Gumi Co Ltd and Zenecon Pte Ltd executed a shareholders' agreement and memorandum of understanding to form a joint venture company for construction, civil and structural engineering, and property development."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1983-06-03",
+          "Text": "On 3 June 1983, Kumagai-Zenecon Construction Pte Ltd was incorporated as the joint venture company pursuant to the shareholders' agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1983-06-03",
+          "Text": "From incorporation on 3 June 1983, Zenecon Pte Ltd held 51% of the shares in Kumagai-Zenecon Construction Pte Ltd and Kumagai Gumi Co Ltd held 49%."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1983-06-03",
+          "Text": "Under the joint venture arrangements effective from 3 June 1983, Kumagai Gumi Co Ltd was to provide technical expertise and working capital, while Zenecon Pte Ltd was to manage the day-to-day operations of Kumagai-Zenecon Construction Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1983-06-03",
+          "Text": "From 3 June 1983, Kumagai Gumi Co Ltd and Zenecon Pte Ltd each appointed three nominee directors to the board of Kumagai-Zenecon Construction Pte Ltd, and Low Hua Kin was appointed managing director."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1984-11-01",
+          "Text": "In November 1984, with the agreement of Kumagai Gumi Co Ltd, Kumagai-Zenecon Construction Pte Ltd caused the incorporation of Kumagai Property Marketing Pte Ltd as a subsidiary to market housing development projects."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "Soon after its incorporation in November 1984, Kumagai Property Marketing Pte Ltd allotted 9,000 shares to Kumagai-Zenecon Construction Pte Ltd and 1,000 shares to Lim Thye San, the brother-in-law of Low Hua Kin and property manager of the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "After the initial allotment, the 1,000 shares in Kumagai Property Marketing Pte Ltd held by Lim Thye San were acquired by Low Hua Kin."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "From the time of its early operations, the directors of Kumagai Property Marketing Pte Ltd consisted of Low Hua Kin and his nominees, and there were no Kumagai Gumi Co Ltd nominees on its board."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "From its early operations, Low Hua Kin was appointed as the representative of Kumagai-Zenecon Construction Pte Ltd at general meetings of Kumagai Property Marketing Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "Subsequently, Low Hua Kin began operating Kumagai Property Marketing Pte Ltd in a manner treating it as if it were wholly owned by him."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "Without prior consultation with Kumagai Gumi Co Ltd, Low Hua Kin used Kumagai Property Marketing Pte Ltd to purchase shares in certain public listed companies with the objective of gaining control in those companies."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "",
+          "Text": "To facilitate share investments, Low Hua Kin caused the name of Kumagai Property Marketing Pte Ltd to be changed to Kumagai Investments Pte Ltd and altered its memorandum of association to include investing in shares as part of its business."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "In May 1991, Kumagai Investments Pte Ltd purchased approximately 7,321,000 shares in Pacific Can Investment Holdings Ltd following directions from Low Hua Kin."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "On 10 May 1991, Kumagai Investments Pte Ltd entered into a loan agreement with Arab Bank plc for a loan facility of up to US$6,000,000 to finance the purchase of Pacific Can Investment Holdings Ltd shares, with those shares charged to the bank as security."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "By 10 May 1991, Kumagai Gumi Co Ltd had not been informed by Low Hua Kin or Kumagai Investments Pte Ltd of the change of name, the share purchase transactions, or the loan agreement with Arab Bank plc."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "In August 1991, Kumagai Investments Pte Ltd purchased an additional 278,000 shares in Pacific Can Investment Holdings Ltd without the knowledge of Kumagai Gumi Co Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "By August 1991, Kumagai Investments Pte Ltd had acquired a total of 7,599,000 shares in Pacific Can Investment Holdings Ltd at the direction of Low Hua Kin."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "",
+          "Text": "By late 1991, the relationship between Kumagai Gumi Co Ltd and Low Hua Kin had become strained, and disputes arose between them."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "On 29 January 1992, Kumagai Gumi Co Ltd filed a petition under section 216 of the Companies Act in relation to Kumagai-Zenecon Construction Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "On 29 January 1992, Kumagai Gumi Co Ltd presented a petition for the winding up of Kumagai-Zenecon Construction Pte Ltd under section 254(1)(i) of the Companies Act on the basis of a breakdown in the relationship between Kumagai Gumi Co Ltd and Zenecon Pte Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "",
+          "Text": "On 11 February 1992, by consent order of court, Don Ho and Wee Aik Guan of Deloitte and Touche were appointed as provisional liquidators of Kumagai-Zenecon Construction Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "On 15 April 1992, Arab Bank plc issued a margin call to Kumagai Investments Pte Ltd requiring payment of S$220,000, which the company could not meet until a partial payment of S$30,000 was made."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "On 22 April 1992, Arab Bank plc informed Kumagai Investments Pte Ltd that it intended to sell sufficient Pacific Can Investment Holdings Ltd shares to cover the margin shortfall unless payment was made by 2:30 pm that day, and accepted a partial payment of S$30,000 from the company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "By 23 April 1992, Kumagai Investments Pte Ltd had received another margin call from Arab Bank plc for S$150,000 and had a bank balance of S$3,649.37."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "On 23 April 1992, the provisional liquidators of Kumagai-Zenecon Construction Pte Ltd decided that, given Kumagai Investments Pte Ltd had no income or funds to meet further margin calls or interest payments, selling the Pacific Can Investment Holdings Ltd shares en bloc was the preferred solution."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "After receiving notice of the proposed en bloc sale at S$0.78 per share, Low Hua Kin, through his solicitors, stated that he agreed only to the sale of such number of shares as necessary to meet the margin call and requested the identity of the intended purchaser."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "The offer to purchase all Pacific Can Investment Holdings Ltd shares at S$0.78 per share was not accepted and lapsed in or around May 1992."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "Following the lapse of the S$0.78 per share offer, the provisional liquidators continued to seek the cooperation of Low Hua Kin to sell the Pacific Can Investment Holdings Ltd shares en bloc, while he responded that he did not consider a full disposal to be in the best interests of Kumagai Investments Pte Ltd and did not propose an alternative plan."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "",
+          "Text": "For the financial year ending 30 September 1991, Pacific Can Investment Holdings Ltd recorded poor profits, and around that time newspapers reported rumours of a boardroom tussle in the company."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "",
+          "Text": "On 12 June 1992, Low Hua Kin and his associates were removed as directors of Kumagai Investments Pte Ltd, and Kumagai-Zenecon Construction Pte Ltd, acting through the provisional liquidators, appointed two nominees to the board in their place."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "On 22 June 1992, Kumagai Investments Pte Ltd defaulted on an interest payment of S$42,076.39 to Arab Bank plc."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "By letter dated 24 June 1992, Arab Bank plc notified Kumagai Investments Pte Ltd that the failure to pay interest constituted an event of default under the loan agreement and demanded payment of the entire outstanding sum of S$3,074,040.37."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "",
+          "Text": "On 25 June 1992, the secretary of Kumagai Investments Pte Ltd issued a notice convening an extraordinary general meeting for 10 July 1992 to seek shareholder approval under section 160 of the Companies Act for the sale of all Pacific Can Investment Holdings Ltd shares, and requested shareholders' consent to shorter notice."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "On 1 July 1992, Arab Bank plc wrote to Kumagai Investments Pte Ltd granting an extension until 3 July 1992 to arrange an en bloc 'married deal' sale of the Pacific Can Investment Holdings Ltd shares."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "On 3 July 1992, Low Hua Kin wrote directly to Kumagai Investments Pte Ltd in response to the request for consent to shorter notice, asking about the identity of the proposed buyer, the proposed selling price, whether Arab Bank plc had consented to the sale, and the intended use of sale proceeds and any surplus after repayment of the loan."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "On 3 July 1992, Kumagai Investments Pte Ltd replied by fax to Low Hua Kin answering his queries and, in a separate fax, again requested his consent to shorter notice for the extraordinary general meeting."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "On 4 July 1992, Low Hua Kin wrote to Kumagai Investments Pte Ltd asking what would be a fair price for an en bloc sale of the Pacific Can Investment Holdings Ltd shares."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "On 8 July 1992, Low Hua Kin wrote to Kumagai Investments Pte Ltd requesting a right of first refusal to the Pacific Can Investment Holdings Ltd shares in the event of any sale."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "",
+          "Text": "On 10 July 1992, an extraordinary general meeting of Kumagai Investments Pte Ltd was held, at which Kumagai-Zenecon Construction Pte Ltd was represented by provisional liquidator Don Ho and Jason Lim attended as proxy for Low Hua Kin; a resolution authorising the directors to dispose of the whole or substantially the whole of the company's undertaking was passed, and Jason Lim abstained from voting."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "On 14 July 1992, Kumagai Investments Pte Ltd wrote to Low Hua Kin asking him to state a price if he wished to purchase the Pacific Can Investment Holdings Ltd shares."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "On 16 July 1992, Kumagai Investments Pte Ltd sent another letter to Low Hua Kin, and a similar letter to his solicitors, repeating the request for an offer to purchase the Pacific Can Investment Holdings Ltd shares and giving him until the end of the working day on 17 July 1992 to respond."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "On 17 July 1992, through his solicitors, Low Hua Kin informed Kumagai Investments Pte Ltd that he did not wish to make a first offer to purchase the Pacific Can Investment Holdings Ltd shares and repeated his request for a right of first refusal."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "On 21 July 1992, Kumagai Investments Pte Ltd faxed Low Hua Kin stating that there was an interested party willing to purchase all its Pacific Can Investment Holdings Ltd shares at S$0.70 per share and asking whether he was interested in paying a higher price, with a deadline of 5 pm that day for his response."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "On 21 July 1992, Low Hua Kin sent a fax to the directors of Kumagai Investments Pte Ltd offering to purchase the Pacific Can Investment Holdings Ltd shares at S$0.7025 per share and requesting 14 days to complete the transaction."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "On 22 July 1992, Kumagai Investments Pte Ltd sold its Pacific Can Investment Holdings Ltd shares at S$0.70 per share in an en bloc transaction."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "On 23 July 1992, provisional liquidator Don Ho first saw the fax from Low Hua Kin dated 21 July 1992 offering S$0.7025 per share, after the sale at S$0.70 per share had already been accepted."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "The sale of the Pacific Can Investment Holdings Ltd shares by Kumagai Investments Pte Ltd on 22 July 1992 resulted in a net loss of S$2,982,517.17 for the company."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "",
+          "Text": "On 1 July 1994, the High Court ordered that Kumagai-Zenecon Construction Pte Ltd and Kumagai Investments Pte Ltd be wound up and that liquidators be appointed."
+        }
+      ],
+      "Issue": "Whether the financial loss of S$2,982,517.17 incurred by Kumagai Investments Pte Ltd on the sale of Pacific Can Investment Holdings Ltd shares, acquired using borrowed funds and directed by a managing director, is attributable to that director's pre-sale conduct in causing the company to acquire and hold those shares on margin financing.",
+      "Rule": "A director who participates in the management of a company is generally exercise powers relating to the acquisition and disposal of company assets, including share investments financed by borrowing, in a manner that does not cause the company to suffer loss that is factually and legally connected to those management decisions.",
+      "Application": "Low Hua Kin directed the incorporation and structure of Zenecon Pte Ltd and later Kumagai Investments Pte Ltd, controlled their boards, and caused Kumagai Investments Pte Ltd to acquire 7,599,000 Pacific Can Investment Holdings Ltd shares using a US$6,000,000 loan from Arab Bank plc secured on those shares. Kumagai Investments Pte Ltd had limited cash resources and no independent income to service the loan, leading to margin calls and eventual forced sale of the shares at S$0.70 per share, crystallising a loss of S$2,982,517.17. The sequence of events links his decisions on incorporation, control, borrowing, and concentrated investment to the later financial position of the company at the time of sale.",
+      "Judicial_Reasoning_Log": "The Court of Appeal adopted and affirmed the reasoning of GP Selvam J that the appellant, as a director, owed fiduciary duties to Kumagai-Zenecon Construction Pte Ltd and Kumagai Investments Pte Ltd and that his conduct in procuring the purchase of Pacific Can Investment Holdings Ltd shares on borrowed money constituted a breach of those duties. The court accepted that the investment conferred no benefit on Kumagai Investments Pte Ltd and served only the appellant's personal objectives in the boardroom of Pacific Can Investment Holdings Ltd. It held that the loss of S$2,982,517.17 was caused by the appellant's breach of duty and that the subsequent actions of the provisional liquidators, including the en bloc sale of the shares, did not break the chain of causation. The court rejected arguments that the provisional liquidators acted ultra vires or negligently, finding that they had statutory power to realise assets, acted within the scope of the appointment order, and made a commercial decision that could not be characterised as one which no reasonable provisional liquidator would have made. The court emphasised that the primary duty of a provisional liquidator to preserve the status quo is not absolute and that, in the circumstances of mounting margin calls, lack of funds, poor performance of Pacific Can Investment Holdings Ltd, and market rumours, a prompt en bloc sale was a reasonable course. The court also noted that the appellant had multiple opportunities to make a firm offer for the shares or to inject funds but declined to do so until after the sale was effectively concluded. It concluded that the appellant was liable to reimburse Kumagai Investments Pte Ltd the sum of S$2,982,517.17 and dismissed the appeal with costs, thereby upholding the misfeasance finding under section 341 of the Companies Act and the earlier oppression findings under section 216."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "CA 124/1999",
+      "Coram": "Chao Hick Tin JA; L P Thean JA; Yong Pung How CJ",
+      "Judge": "Chao Hick Tin JA; L P Thean JA; Yong Pung How CJ",
+      "Date": "2000-07-28",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Kumagai-Zenecon Construction Pte Ltd (in liquidation) and Kumagai Property Marketing Pte Ltd / Kumagai Investments Pte Ltd",
+      "Law_Firm": "Bih Li & Lee",
+      "Counsel": [
+        "Anthony Lee",
+        "Rodney Keong"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1983-06-03",
+          "Text": "Kumagai-Zenecon Construction Pte Ltd was incorporated on 3 June 1983 as a joint venture company between Kumagai Gumi Co Ltd and Zenecon Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1983-06-03",
+          "Text": "As provided in the agreement, Zenecon held 51% of the shares in K-Z, while Kumagai held the remaining 49% of the shares."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1983-06-03",
+          "Text": "Under the agreement, Kumagai was to supply the necessary technical expertise and working capital, while Zenecon was to assume the responsibility for the day-to-day management of the company."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1983-06-03",
+          "Text": "Both parties to the joint venture appointed three nominee directors to the board of K-Z respectively."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1984-11-01",
+          "Text": "In November 1984, with the agreement of Kumagai, a subsidiary of K-Z called Kumagai Property Marketing Pte Ltd (KPM) was formed for the purpose of marketing the housing development projects undertaken by K-Z."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1984-11-01",
+          "Text": "Soon after the incorporation, K-Z was allotted 9,000 shares of KPM, and one Lim Thye San, the brother-in-law of the appellant, who was then the property manager of KPM, was allotted 1000 shares."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1985-01-01",
+          "Text": "These 1000 shares were subsequently acquired by the appellant."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1985-01-01",
+          "Text": "The directors of KPM consisted of the appellant and his nominees, and there were no nominees from Kumagai on the board of this company."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1985-01-01",
+          "Text": "The appellant was appointed the representative to represent K-Z at general meetings of KPM."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1990-01-01",
+          "Text": "Subsequently, the appellant began to run KPM as if it were wholly owned by him. Without any prior consultation with Kumagai, he proceeded to make use of the company to purchase shares in certain public listed companies with a view to gaining control in these companies. For that purpose, he caused the name of KPM to be changed to Kumagai Investments Pte Ltd and also the objects clause in the memorandum of association of KPM to be altered so as to include the investing in shares as part of its business."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1991-05-10",
+          "Text": "On 10 May 1991, KPM entered into a loan agreement with Arab Bank plc (`Arab Bank`) under which a loan facility up to an amount of US$6m was provided by the bank to KPM, and as security for the loan the shares purchased were charged to the bank."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1991-05-01",
+          "Text": "In May 1991, a total of some 7,321,000 shares in Pacific Can Investment Holdings Ltd (`Pac Can`) were purchased by KPM pursuant to the appellant's directions."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1991-08-01",
+          "Text": "In August 1991, KPM bought 278,000 more shares in Pac Can, and this purchase was again made without Kumagai's knowledge. In all, a total of 7,599,000 shares in Pac Can were bought by KPM at the direction of the appellant."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1991-05-15",
+          "Text": "Kumagai was not informed of these transactions. It only learnt of the change of name and purchase of the shares from newspaper reports."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1991-10-01",
+          "Text": "The relationship between Kumagai and the appellant became strained and very soon various disputes between them erupted."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1992-01-29",
+          "Text": "On 29 January 1992, Kumagai filed a petition seeking reliefs under s 216 of the Companies Act (Cap 50, 1990 Ed) in respect of K-Z. Kumagai also presented a petition for the winding up of K-Z under s 254(1)(i) of the Companies Act on the ground that it was just and equitable to do so by reason of the breakdown in the relationship between the two shareholders, Kumagai and Zenecon."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1992-02-11",
+          "Text": "Soon after the filing of these petitions, an order of court by consent was made on 11 February 1992 appointing Don Ho and Wee Aik Guan of Deloitte and Touche as provisional liquidators of K-Z."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1992-04-15",
+          "Text": "On 15 April 1992, Arab Bank made a margin call on KPM requiring the company to pay up a sum of $220,000. KPM failed to meet this demand. On 22 April 1992, the bank indicated its intention to sell sufficient amount of shares to satisfy the margin shortfall, unless the shortfall was paid by 2.30pm that day. This impending crisis was averted only after the bank agreed to accept a partial payment of $30,000 from KPM."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1992-04-22",
+          "Text": "On 22 April 1992, the bank indicated its intention to sell sufficient amount of shares to satisfy the margin shortfall, unless the shortfall was paid by 2.30pm that day. This impending crisis was averted only after the bank agreed to accept a partial payment of $30,000 from KPM."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1992-04-23",
+          "Text": "Subsequently, another margin call was made and KPM was requested to pay up a sum of $150,000. It became clear by this time that KPM was in dire financial straits. As at 23 April 1992, its bank balance stood at a meagre sum of $3,649.37."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1992-04-23",
+          "Text": "The provisional liquidators took the view that as KPM had no income, no potential source of income or any other funds to meet further margin calls or even the next interest payment, the best solution in the circumstances was to sell the shares en bloc."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1992-05-15",
+          "Text": "The offer to purchase the shares at 78 cents per share was not taken up, and it lapsed."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1991-09-30",
+          "Text": "Pac Can had also recorded dismal profits in the financial year ending 30 September 1991."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1992-06-12",
+          "Text": "On 12 June 1992, the appellant and his associates were removed as directors of KPM. K-Z, acting through the provisional liquidators, appointed two of their nominees to the board of KPM in place of the appellant and his associates."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1992-06-22",
+          "Text": "On 22 June 1992, KPM defaulted on an interest payment amounting to $42,076.39."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1992-06-24",
+          "Text": "By a letter dated 24 June 1992, the bank gave notice that the failure to pay the interest constituted an event of default under the loan agreement and demanded payment from KPM of the entire outstanding sum inclusive of interest amounting in total to $3,074,040.37, in default of which they said that they would exercise all their rights under the loan agreement without further reference to the company."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1992-06-25",
+          "Text": "Accordingly, on 25 June 1992, the secretary of KPM sent to the shareholders of KPM a notice calling for an extraordinary general meeting of the company to be held on 10 July 1992 for the purpose of passing an ordinary resolution authorising the directors to sell the shares. The secretary also requested shareholders to consent to shorter notice of the meeting so that the matter could be resolved early."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1992-07-01",
+          "Text": "On 1 July 1992, Arab Bank wrote to KPM agreeing to give the company a short period of time, until 3 July 1992, to arrange a `married deal` for the en bloc sale of the Pac Can shares."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1992-07-03",
+          "Text": "The appellant himself, on 3 July 1992, wrote direct to KPM, in response to the secretary's request for consent to a shorter notice of the extraordinary general meeting. In that letter he raised a series of queries on the sale of the shares, namely, the identity of the proposed buyer, the proposed selling price, whether the bank had consented to the sale, and what the directors of KPM proposed to do with the proceeds of sale and surplus funds after payment of the loan to the bank. On the same day, KPM replied by fax furnishing him the replies to his queries, and by a separate fax sought his consent to the shorter notice."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1992-07-10",
+          "Text": "On 10 July 1992, an extraordinary general meeting of the shareholders of KPM was held. K-Z was represented by Don Ho, one of the provisional liquidators. The appellant for his part did not show up. Instead, he sent Jason Lim as his proxy. At this meeting, a resolution authorising the directors to dispose of the whole or substantially the whole of the company's undertaking was passed. Jason Lim abstained from voting."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1992-07-14",
+          "Text": "On 14 July 1992, KPM wrote to the appellant asking him to offer a price for the purchase of the shares, if he wished to purchase them."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1992-07-16",
+          "Text": "On 16 July 1992, KPM sent another letter to the appellant repeating the above request, giving the appellant up till the end of the working day on 17 July 1992 to make an offer. A separate letter to the same effect was also sent to the appellant's solicitors."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1992-07-17",
+          "Text": "The appellant replied through his solicitors on 17 July 1992, stating that he did not wish to make a first offer to purchase the Pac Can shares from KPM, and repeating his earlier request for a right of first refusal."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1992-07-18",
+          "Text": "The provisional liquidators' solicitors replied on 18 July 1992 denying that the appellant had any such right of first refusal. They maintained that their objective was to obtain the best possible price for the shares."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1992-07-21",
+          "Text": "Finally, on 21 July 1992 KPM sent the following fax to the appellant: \"We have an interested party to purchase all the Kumagai Investments` shares in Pacific Can for 70 cents per share. Are you interested to pay a higher price? If so, please revert before 5 pm today.\""
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1992-07-22",
+          "Text": "No offer or indication of any interest from the appellant having been received by KPM by the time stated in the notice, the shares were sold on 22 July 1992 at 70 cents per share. However, it later transpired that the appellant had sent a fax to the directors of KPM dated 21 July 1992 making an offer to purchase the shares at 70.25 cents per share and further asked for 14 days to complete the sale. Don Ho did not see this letter until 23 July 1992, by which time he had already accepted the offer to sell the shares at 70 cents per share on behalf of KPM."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1992-07-22",
+          "Text": "The net loss incurred by KPM in the sale of the Pac Can shares amounted to $2,982,517.17."
+        }
+      ],
+      "Issue": "Whether Kumagai-Zenecon Construction Pte Ltd and Kumagai Investments Pte Ltd can recover from a former managing director the loss of S$2,982,517.17 arising from the sale of Pacific Can Investment Holdings Ltd shares that were acquired and held using a bank loan secured on those shares.",
+      "Rule": "Where a company suffers a financial loss on the disposal of assets acquired under the direction of a director, the company may seek to recover that loss from the director if there is a sufficient causal connection between the director's management decisions and the loss, and if intervening acts, such as decisions by liquidators or agents, do not break the chain of causation.",
+      "Application": "Kumagai-Zenecon Construction Pte Ltd and Kumagai Investments Pte Ltd were structured so that the latter, controlled by a managing director, acquired 7,599,000 Pacific Can Investment Holdings Ltd shares using a US$6,000,000 loan from Arab Bank plc secured on those shares. Kumagai Investments Pte Ltd had limited cash and no independent income, leading to margin calls, interest defaults, and a demand for full repayment. The provisional liquidators, acting for Kumagai-Zenecon Construction Pte Ltd as majority shareholder, obtained shareholder approval under section 160 of the Companies Act and arranged an en bloc sale at S$0.70 per share, crystallising a loss of S$2,982,517.17. The companies' claim links this loss to the director's earlier decisions on borrowing and concentrated investment, while the director argues that the provisional liquidators' sale decisions and ultra vires or negligent conduct constitute intervening acts that break the causal chain.",
+      "Judicial_Reasoning_Log": "The Court of Appeal held that Kumagai-Zenecon Construction Pte Ltd and Kumagai Investments Pte Ltd, acting through their liquidators, were entitled to recover the loss of S$2,982,517.17 from the appellant under section 341 of the Companies Act. The court accepted the trial judge's findings that the appellant, as a director, owed fiduciary duties to both companies and that his procurement of the purchase of Pacific Can Investment Holdings Ltd shares on borrowed money was a breach of those duties. It concluded that the investment was against the commercial interests of Kumagai Investments Pte Ltd and served only the appellant's personal objectives. The court rejected the appellant's argument that there was insufficient evidence of causation, noting that in the earlier oppression proceedings the order for reimbursement had been set aside only because the provisional liquidators' report was hearsay, whereas in the present proceedings Don Ho and Peter Chi gave direct evidence and confirmed the substance of the report. On the issue of whether the provisional liquidators were the true sellers of the shares, the court held that, as a matter of law, the vendor was Kumagai Investments Pte Ltd, with the provisional liquidators acting merely as agents exercising the rights of Kumagai-Zenecon Construction Pte Ltd as 90% shareholder. The court further held that the provisional liquidators did not act ultra vires: under section 267 read with section 272 of the Companies Act and the terms of the appointment order, they had power to collect and realise the assets of Kumagai-Zenecon Construction Pte Ltd, which included controlling its 90% shareholding in Kumagai Investments Pte Ltd and directing the sale of that company's main asset. The court rejected the contention that the provisional liquidators were negligent in failing to seek third-party advice or in deciding to sell the shares en bloc rather than only so many as were needed to repay the bank. It emphasised that the primary duty of a provisional liquidator to preserve the status quo is not absolute and that, in the circumstances of mounting margin calls, lack of funds, poor performance of Pacific Can Investment Holdings Ltd, and market rumours, a prompt en bloc sale was a reasonable commercial decision. Applying the standard articulated in Northbourne Developments Pty Ltd v Reiby Chambers Pty Ltd, the court found no basis to conclude that the provisional liquidators acted in a way in which no reasonable provisional liquidator would have acted. The court also held that the provisional liquidators' actions did not break the chain of causation between the appellant's breach of duty and the loss. It noted that the appellant had multiple opportunities to inject funds or make a firm offer for the shares but declined to do so until after the sale had been agreed. The court refused to judge the provisional liquidators' decision with the benefit of hindsight, observing that the later rise in the share price to S$1.59 by 1 July 1994 was unforeseeable. It concluded that the loss flowed from the appellant's breach of fiduciary duty in causing the company to enter into a speculative, leveraged investment and that the provisional liquidators' sale was a reasonable response to the financial crisis rather than an independent, superseding cause. Accordingly, the court dismissed the appeal and upheld the order requiring the appellant to reimburse Kumagai Investments Pte Ltd the sum of S$2,982,517.17, with costs."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 2
+  }
+]

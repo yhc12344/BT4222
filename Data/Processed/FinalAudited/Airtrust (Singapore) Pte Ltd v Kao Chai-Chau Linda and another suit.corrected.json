@@ -18,12 +18,12 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2012",
+          "Fact_Date": "2012-01-01",
           "Text": "Suit No 477 of 2012 is an action brought in the name of Airtrust (Singapore) Pte Ltd against Linda Kao Chai-Chau, with conduct of the suit taken by shareholder Carolyn Fong as a derivative action."
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2012",
+          "Fact_Date": "2012-01-01",
           "Text": "In Suit No 477 of 2012, Airtrust (Singapore) Pte Ltd is the company on whose behalf shareholder Carolyn Fong is pursuing a derivative action against former managing director Linda Kao Chai-Chau."
         },
         {
@@ -33,27 +33,27 @@
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010",
+          "Fact_Date": "2010-01-01",
           "Text": "Before 2011, shareholder Carolyn Fong applied for leave under section 216A of the Companies Act to commence a derivative action on behalf of Airtrust (Singapore) Pte Ltd against managing director Linda Kao Chai-Chau."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2013",
+          "Fact_Date": "2013-01-01",
           "Text": "By 2013, different law firms had been engaged to represent Airtrust (Singapore) Pte Ltd in Suit No 477 of 2012 and Suit No 1015 of 2012."
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2006",
+          "Fact_Date": "2006-01-01",
           "Text": "Around 2006, Peter Fong transferred a majority of his shares in Airtrust (Singapore) Pte Ltd to the Fong Foundation charitable trust, resulting in the Fong Foundation holding about 51% of the shares."
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "",
+          "Fact_Date": "2008-04-25",
           "Text": "On 2008-04-25, Peter Fong, then Chairman and a significant shareholder of Airtrust (Singapore) Pte Ltd, passed away."
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "",
+          "Fact_Date": "2008-01-01",
           "Text": "At around the time of Peter Fong's death in 2008, he held approximately 3.6% of the shares in Airtrust (Singapore) Pte Ltd, the Fong Foundation held about 51%, and the remaining shares were held by 11 other persons including Carolyn Fong with about 6.2%."
         }
       ],
@@ -87,26 +87,6 @@
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "",
           "Text": "Suit No 1015 of 2012 is an action brought in the name of Airtrust (Singapore) Pte Ltd by its Receivers and Managers against Linda Kao Chai-Chau and 15 other individuals, including corporate entities."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2012-01-17",
-          "Text": "On 2012-01-17, Ernst & Young was appointed as Receivers and Managers of Airtrust (Singapore) Pte Ltd pursuant to an application by shareholder Carolyn Fong."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "",
-          "Text": "On 2012-01-17, a consent order was made in connection with the appointment of Ernst & Young as Receivers and Managers of Airtrust (Singapore) Pte Ltd, following an apparent agreement between Carolyn Fong and Linda Kao Chai-Chau."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "After their appointment in January 2012, the Receivers and Managers of Airtrust (Singapore) Pte Ltd reviewed company affairs and formed the view that there was evidence of diversions involving Linda Kao Chai-Chau and others that were detrimental to Airtrust (Singapore) Pte Ltd, largely concerning events after Peter Fong's death."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "Following their review, the Receivers and Managers commenced Suit No 1015 of 2012 on behalf of Airtrust (Singapore) Pte Ltd against Linda Kao Chai-Chau and 15 other individuals in relation to transactions and events mainly occurring after Peter Fong's death."
         }
       ],
       "Issue": "Whether, in Suit No 1015 of 2012, losses to Airtrust (Singapore) Pte Ltd from diversions of business after Peter Fong's death can be attributed solely to the conduct of Linda Kao Chai-Chau and other defendants, or also to conduct attributable to Peter Fong such that contribution or indemnity between them is in issue.",
@@ -138,33 +118,58 @@
       "Facts": [
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1996",
+          "Fact_Date": "1996-01-01",
           "Text": "In 1996, Linda Kao Chai-Chau was appointed as managing director of Airtrust (Singapore) Pte Ltd by its majority shareholder and then Chairman, Peter Fong."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
+          "Fact_Date": "1996-01-01",
           "Text": "From 1996 up to 2012, Linda Kao Chai-Chau held the position of managing director of Airtrust (Singapore) Pte Ltd."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2000-01-01",
-          "Text": "Between around 2000 and the date of the writ, business opportunities from Chinese chemical companies were allegedly diverted."
+          "Text": "Between around 2000 and the date of the writ in Suit No 477 of 2012, transactions involving business opportunities from Chinese chemical companies were carried out in which Linda Kao Chai-Chau was involved, and these transactions later became the subject of claims in the derivative action."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2001-01-01",
-          "Text": "From around 2001, business opportunities from another Chinese company were allegedly diverted."
+          "Text": "From around 2001, transactions involving business opportunities from another Chinese company were carried out in which Linda Kao Chai-Chau was involved, and these transactions later became the subject of claims in the derivative action."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2002-01-01",
-          "Text": "Around 2002 and 2004, further alleged diversions of business opportunities occurred."
+          "Text": "Around 2002 and 2004, further transactions involving business opportunities were carried out in which Linda Kao Chai-Chau was involved, and these transactions later became the subject of claims in the derivative action."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2012-01-01",
-          "Text": "Linda Kao Chai-Chau was the defendant in Suit No 477 of 2012 and the first defendant in Suit No 1015 of 2012."
+          "Text": "By 2012, Linda Kao Chai-Chau was named as defendant in Suit No 477 of 2012 and as first defendant in Suit No 1015 of 2012 in relation to transactions connected with Airtrust (Singapore) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-01",
+          "Text": "In 2013, Linda Kao Chai-Chau applied in Suit No 477 of 2012 by Summons No 2990 of 2013 for leave to serve a third party notice against the estate of Peter Fong seeking an indemnity, and later sought to amend that notice to add a claim for contribution."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-19",
+          "Text": "On 2013-04-19, in Suit No 1015 of 2012, Linda Kao Chai-Chau commenced third party proceedings against the estate of Peter Fong seeking an indemnity in respect of claims brought by Airtrust (Singapore) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-08-26",
+          "Text": "On 2013-08-26, an application was made on behalf of Linda Kao Chai-Chau to amend the third party notice in Suit No 477 of 2012 to include an alternative claim for contribution and to state that Peter Fong, as a director of Airtrust (Singapore) Pte Ltd, owed the same duties as she did."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-09-02",
+          "Text": "On 2013-09-02, Linda Kao Chai-Chau, through counsel, participated in a hearing of Registrar's Appeals No 246 of 2013 and No 247 of 2013 concerning her third party claims against the estate of Peter Fong."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-10-11",
+          "Text": "On 2013-10-11, Linda Kao Chai-Chau, through counsel, made further submissions on legal questions relating to the effect of following instructions from a chairman who is said to be the controlling mind of a company."
         }
       ],
       "Issue": "Whether, in relation to transactions involving Airtrust (Singapore) Pte Ltd between about 2000 and 2012, any financial loss to the company should be allocated solely to the conduct of managing director Linda Kao Chai-Chau or also to conduct attributable to Peter Fong such that Linda may seek contribution or indemnity from his estate.",
@@ -191,18 +196,18 @@
       "Facts": [
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1996-01-01",
-          "Text": "In 1996, Peter Fong was the majority shareholder and Chairman of Airtrust (Singapore) Pte Ltd, and Linda Kao Chai-Chau was appointed as managing director."
+          "Fact_Date": "1996",
+          "Text": "In 1996, Peter Fong was the majority shareholder and Chairman of Airtrust (Singapore) Pte Ltd when Linda Kao Chai-Chau was appointed as managing director."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2006-01-01",
-          "Text": "In 2006, Peter Fong transferred some 51% of the shares to the Fong Foundation charitable trust; at the date of his death, he held 3.6% of the shares and the Fong Foundation held some 51%."
+          "Fact_Date": "2006",
+          "Text": "Around 2006, Peter Fong transferred the majority of his shares in Airtrust (Singapore) Pte Ltd to the Fong Foundation charitable trust, after which he held about 3.6% of the shares and the Fong Foundation held about 51%."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2008-04-25",
-          "Text": "Peter Fong passed away on 25 April 2008."
+          "Fact_Date": "",
+          "Text": "On 2008-04-25, Peter Fong, then Chairman of Airtrust (Singapore) Pte Ltd, passed away."
         }
       ],
       "Issue": "Whether the estate of Peter Fong may bear responsibility, alongside Linda Kao Chai-Chau, in respect of any loss suffered by Airtrust (Singapore) Pte Ltd from the transactions in issue, such that contribution or indemnity between them is available.",

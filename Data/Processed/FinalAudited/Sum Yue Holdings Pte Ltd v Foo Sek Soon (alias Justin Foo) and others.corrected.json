@@ -1,0 +1,777 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 13 of 2008",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2010-06-29",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Sum Yue Holdings Pte Ltd",
+      "Law_Firm": "H T Sam & Co",
+      "Counsel": [
+        "Sam Han Tatt"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2004-01-01",
+          "Text": "At the material time, Sum Yue Holdings Pte Ltd had three shareholders: Justin Foo, Lim Men See and Sum Yue Electrical Industries Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "At the material time, Lim Men See was the managing-director of Sum Yue Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2004-01-01",
+          "Text": "At the material time, the shareholders of Sum Yue Electrical Industries Pte Ltd were Lim Men See and Bob Lim."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-01-04",
+          "Text": "On 2005-01-04, Chow issued purchase order no. 05-0001 in the sum of $300,000 to Sum Yue Holdings Pte Ltd for the NH Glass project."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-01-07",
+          "Text": "On 2005-01-07, Sum Yue Holdings Pte Ltd rendered invoice SYH 2100 for $75,000 to Chow for a 25% down payment on the NH Glass project."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-01-10",
+          "Text": "On 2005-01-10, Chow paid the $75,000 invoice."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-01-13",
+          "Text": "On 2005-01-13, Sum Yue Holdings Pte Ltd placed an order with Sim Lee Seng for installation of metal ducting and dismantling of an existing cooling tower and made a down payment of $15,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-01-24",
+          "Text": "Between 2005-01-24 and 2005-05-05, Sum Yue Holdings Pte Ltd ordered materials from ESAB Asia Pacific Pte Ltd totalling $124,564.83."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-03-31",
+          "Text": "On 2005-03-31, Chow wrote to Sum Yue Holdings Pte Ltd stating that he had cancelled purchase order no. 05-0001 due to unsatisfactory work progress and had appointed other contractors to take over the NH Glass project."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-04-13",
+          "Text": "On 2005-04-13, Justin Foo and Chow Chee Meng attended a meeting with representatives of NH Glass."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-03-27",
+          "Text": "On 2004-03-27, at a meeting, it was minuted that Justin Foo was tasked to take over the administration of Sum Yue Holdings Pte Ltd and Sum Yue Electrical Industries Pte Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-08-13",
+          "Text": "On 2004-08-13, at a meeting attended by Lim Men See, Ronald Lee Lim Sim, Bob Lim, Peter Lim and Theresa Ang, Justin Foo presented a flowchart proposing to merge the administrative operations of Sum Yue Holdings Pte Ltd and Sum Yue Electrical Industries Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-08-13",
+          "Text": "On 2004-08-13, during the meeting, Justin Foo requested the accounts and financial statements of Sum Yue Holdings Pte Ltd and Sum Yue Electrical Industries Pte Ltd."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-09-21",
+          "Text": "On 2004-09-21, at a meeting, Ronald said the proposal to merge the administrative operations of the two companies was not workable because the staff of the two companies could not work together due to disagreements."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-01-07",
+          "Text": "On 2005-01-07, at a meeting attended by Justin Foo, Richard Lim, Bob Lim, Peter Lim and Theresa Ang, Bob Lim informed the attendees that Lim Men See wanted Justin Foo to cease getting business for Sum Yue Holdings Pte Ltd and that Justin Foo should set up his own company if he wanted to continue doing business."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-01-28",
+          "Text": "On 2005-01-28, at a meeting, Justin Foo reported that Lim Men See had expressed his intention to stop all jobs relating to the NH Glass project and suggested that the seventh defendant take over the balance job."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-03-31",
+          "Text": "On 2005-03-31, Justin Foo tendered his resignation from employment with Sum Yue Holdings Pte Ltd, with his last day of work to be 2005-04-30."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-06-03",
+          "Text": "On 2005-06-03, at a meeting, it was recorded that Justin Foo had resigned on 2005-03-31 with his last day being 2005-04-30, and that Bob would retain Justin Foo and extend his stay until 2005-06-30 to complete projects."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-06-03",
+          "Text": "On 2005-06-03, it was recorded that Justin would pay rent for the plaintiff's premises and would let the plaintiff know what rental he would pay and the period of lease, and that his company’s business dealings, workers and subcontractors were not related in any way with the plaintiff."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-06-22",
+          "Text": "On 2005-06-22, at a meeting, Lim reported on the loans and overdrafts owed by the plaintiff to its bankers and said that the company had other creditors. He and Ronald suggested selling the plaintiff's premises."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-06-27",
+          "Text": "On 2005-06-27, at a meeting, Ronald reported that the plaintiff's debts were too heavy and it would cease operations on 2005-06-30. He proposed that the plaintiff's premises be sold to settle the bank's loan."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-06-29",
+          "Text": "On 2005-06-29, Sum Yue Holdings Pte Ltd issued a letter to employee Zulkarnain Bin Said stating that decisions had been made to close the Engineering department during the management meeting with effect from 30 June 2005 due to slow down in business and the company having to trim down its overhead."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-07-04",
+          "Text": "On 2005-07-04, Lim Men See sent a note to Justin Foo requesting arrangements for any future letters concerning Justin Foo's company not to be sent to No. 4 Soon Lee Road and to redirect all such letters immediately."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-07-04",
+          "Text": "On 2005-07-04, Lim Men See sent a note to Theresa, copied to Bob and Peter, requesting that suppliers bill under your company with immediate effect from 01 July 2005, asking whether the company was interested in buying the two lorries YJ6711T and YJ6127E, requesting termination letters to staff as at 30/6/2005, and asking about rental of premises by Mr Peter Lim and the outcome of Mr Justin Foo's rental payment."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-07-05",
+          "Text": "On 2005-07-05, Peter sent a memorandum to Lim stating that the third defendant would purchase lorry YJ6711T, confirming rental of the existing office, spray booth/machine workshop and ground floor workshop at S$4,000.00 per month, and stating that Justin Foo confirmed rental of the workshop for the last one and a half month with electricity until 15 July at a total sum of S$3,750 and requested billing accordingly."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-07-18",
+          "Text": "On 2005-07-18, Sum Yue Holdings Pte Ltd sent letters requiring Justin, Theresa, Peter and Bob to hand over all the plaintiff's documents to Angie and reminding them not to remove any documents from the plaintiff's premises."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-07-19",
+          "Text": "On 2005-07-19, the plaintiff's workshop was secured by additional locks and chains, and save for Bob, the other defendants were denied entry."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-11-01",
+          "Text": "In November 2006, Sum Yue Holdings Pte Ltd engaged I-Analysis Pte Ltd to conduct a digital forensic investigation of its computer hard disks."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-12-09",
+          "Text": "On 2005-12-09, Lim lodged a police report over the incident."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-06-01",
+          "Text": "In June 2002, the plaintiff purchased its premises from Epson for $700,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-06-30",
+          "Text": "The third defendant paid approximately $46,000 to the plaintiff's employees."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-09-14",
+          "Text": "On 2005-09-14, the plaintiff novated its contract with SIS to Automation Control Engineering Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-07-28",
+          "Text": "On or about 2005-07-28, two projects, Temptech Pte Ltd and Powder Coating Engineering Pte Ltd, were transferred to Peter."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-09-28",
+          "Text": "On 2005-09-28, the plaintiff's tax invoice SYH1244 for $20,000 related to Peter's purchase of lorry YJ6711T."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2006-10-03",
+          "Text": "On 2006-10-03, Lim's solicitors wrote to Bob's solicitors enclosing a draft sale and purchase agreement for the sale of Bob's shares in SYEI, which contained a clause that upon completion Bob would have no claims against Lim and/or SYEI and/or the plaintiff."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-01-07",
+          "Text": "The plaintiff commenced this suit on 2008-01-07."
+        }
+      ],
+      "Issue": "Whether, before the dispute, the transfer of the NH Glass project and related payments and use of premises and resources created a conflict between Sum Yue Holdings Pte Ltd and the defendants regarding responsibility for project work and entitlement to project revenues and materials.",
+      "Rule": "In company and employment law, directors and employees who manage projects and customer relationships are generally conduct company business through the company, to account to the company for project revenues received in connection with company contracts, and to avoid diverting ongoing company projects or company-funded resources to separate entities without the company’s knowledge and consent.",
+      "Application": "Sum Yue Holdings Pte Ltd entered into a $300,000 purchase order with Sam Hui Engineering Works and Service for the NH Glass project and received a $75,000 down payment. The company then ordered materials and engaged subcontractors for the project. Meetings in 2004 and 2005 recorded that Justin Foo was running administration, that he was asked to stop getting new orders and to set up his own company, and that the company’s operations might cease with its premises to be sold. Notes and memoranda in July 2005 Lim Men See requested that suppliers bill under another company, that Peter Lim and Justin Foo would rent space at the plaintiff’s premises, and that a separate company would purchase a company lorry. The company later novated another project to a third party and transferred two projects to Peter Lim, and its financial statements recorded sale of its premises and disposal of assets before the suit. These pre-dispute events frame the factual context in which project work, payments and use of premises and resources were allocated between Sum Yue Holdings Pte Ltd and the defendants’ separate company.",
+      "Judicial_Reasoning_Log": "The court reviewed extensive evidence including witness testimony, minutes of meetings, correspondence, financial records and expert reports. The judge found Lim Men See to be an unreliable and untruthful witness and rejected his account, while accepting the evidence of the defendants and of Chow Chee Meng as credible. The court accepted that Lim and Ronald intended to close down the plaintiff’s operations, that they indicated Justin and Peter could start their own company and rent space at the plaintiff’s premises, and that the third defendant conducted its business openly from those premises with the plaintiff’s knowledge. The judge concluded that Justin and Bob did not breach fiduciary duties as directors and that Theresa, Richard and Peter did not breach duties as employees. The court found no conspiracy between the defendants and no dishonest assistance by the third or seventh defendants. The claims for $20,000 and $90,000 were found to relate to loans from Chow used to pay subcontractors, and the claim for $124,564.83 in materials was not substantiated as the materials were partly used for another project. The court held that allowing the plaintiff to recover the remaining 75% of the NH Glass project value would unjustly enrich the plaintiff because the plaintiff did not perform that work and the third defendant assumed the obligations and completed the project. The allegation that defendants removed hard disks was rejected. The action was found to be unmeritorious and brought in bad faith, and the plaintiff’s claims against all seven defendants were dismissed with costs."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 13 of 2008",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2010-06-29",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Foo Sek Soon (alias Justin Foo)",
+      "Law_Firm": "Harry Elias Partnership",
+      "Counsel": [
+        "Palmer Michael Anthony",
+        "Lem Jit Min Andy",
+        "Deryne Sim Lifen"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1999-01-01",
+          "Text": "Between 1999-01-01 and 2004-01-01, Justin Foo was a shareholder and director of Sum Yue Instrumentation Engineering Pte Ltd together with Bob Lim and Peter Lim."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2004-01-01",
+          "Text": "In January 2004, projects from Sum Yue Instrumentation Engineering Pte Ltd were transferred to Sum Yue Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2004-02-01",
+          "Text": "In February 2004, projects from Sum Yue Engineering Pte Ltd, a company owned by Bob Lim and Peter Lim, were transferred to Sum Yue Electrical Industries Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "In January 2004, Justin Foo joined Sum Yue Holdings Pte Ltd and was in charge of mechanical projects, including projects for SIS 88 Pte Ltd and for Chow Chee Meng."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2004-01-01",
+          "Text": "In 2004, Justin Foo held 10 shares in Sum Yue Holdings Pte Ltd as a minority shareholder."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-03-27",
+          "Text": "On 2004-03-27, at a meeting of Sum Yue Holdings Pte Ltd, it was minuted that Justin Foo would run the administration of Sum Yue Holdings Pte Ltd and Sum Yue Electrical Industries Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2004-06-01",
+          "Text": "In June 2004, Justin Foo was asked to merge the administration of Sum Yue Holdings Pte Ltd and Sum Yue Electrical Industries Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2004-08-13",
+          "Text": "On 2004-08-13, Justin Foo convened a general meeting attended by Lim Men See, Ronald Lee Lim Sim, Bob Lim, Peter Lim and Theresa Ang, and presented a flowchart proposing to merge the administrative operations of Sum Yue Holdings Pte Ltd and Sum Yue Electrical Industries Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-08-13",
+          "Text": "On 2004-08-13, Justin Foo requested accounts and financial statements of Sum Yue Holdings Pte Ltd and Sum Yue Electrical Industries Pte Ltd to verify whether projects inherited from Sum Yue Instrumentation Engineering Pte Ltd and Sum Yue Engineering Pte Ltd were making losses."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2004-08-13",
+          "Text": "On 2004-08-13, Justin Foo raised objections to the practice where Sum Yue Holdings Pte Ltd handled projects and paid for materials and labour on behalf of Sum Yue Electrical Industries Pte Ltd while Sum Yue Electrical Industries Pte Ltd invoiced customers and collected payments."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-09-21",
+          "Text": "On 2004-09-21, at a meeting, it was decided that Sum Yue Holdings Pte Ltd and Sum Yue Electrical Industries Pte Ltd would be managed separately, and Justin Foo’s proposal to merge administrative operations was rejected."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2004-12-01",
+          "Text": "Between 2004-09-21 and 2004-12-31, the working relationship between Justin Foo and Lim Men See deteriorated, and Lim Men See began withholding cheque signatures for payments to suppliers and contractors on projects under Justin Foo’s charge."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-01-07",
+          "Text": "On 2005-01-07, at a meeting, Bob Lim informed Justin Foo and others that Lim Men See wanted Justin Foo to stop obtaining new orders for Sum Yue Holdings Pte Ltd and that Justin Foo should set up his own company if he wished to continue doing business."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-01-28",
+          "Text": "On 2005-01-28, at a meeting, Justin Foo reported that Lim Men See intended to stop all jobs relating to the NH Glass project and suggested that Sam Hui Engineering Works and Service take over the remaining work."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-02-01",
+          "Text": "In February 2005, Justin Foo informed Chow Chee Meng that Sum Yue Holdings Pte Ltd was unable to complete the NH Glass project on time and that another company could complete it under Justin Foo’s supervision."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-02-23",
+          "Text": "On 2005-02-23, Latrade Automation Pte Ltd was incorporated with Justin Foo and Theresa Ang as its shareholders and directors while both were still working for Sum Yue Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-03-11",
+          "Text": "On 2005-03-11, Latrade Automation Pte Ltd issued invoice no. 238801/05 for $20,000 to Sam Hui Engineering Works and Service at Chow Chee Meng’s request, and the invoice date was later described as backdated."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-03-09",
+          "Text": "On 2005-03-09, Sum Yue Holdings Pte Ltd issued a note to SLS, a subcontractor, recording payment of $20,000 for labour, with a project reference initially marked as NH Glass and corrected to SIS, and job number 10481 for the SIS project."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-03-28",
+          "Text": "On 2005-03-28, Sum Yue Holdings Pte Ltd issued a payment voucher for $20,000 referencing job number 10521, and reimbursed Justin Foo $20,000 which he had used to pay SLS for labour on the SIS project."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-03-31",
+          "Text": "On 2005-03-31, Justin Foo prepared a cancellation letter for purchase order no. 05-0001 for the NH Glass project and obtained the signature of Chow Chee Meng on that letter."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-03-31",
+          "Text": "On 2005-03-31, Justin Foo, on behalf of Latrade Automation Pte Ltd, issued an offer letter to Sam Hui Engineering Works and Service for Latrade Automation Pte Ltd to take over the NH Glass project for $225,000."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-03-31",
+          "Text": "On 2005-03-31, Justin Foo resigned from employment with Sum Yue Holdings Pte Ltd, with his last working day to be 2005-04-30."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-04-01",
+          "Text": "On 2005-04-01, Latrade Automation Pte Ltd commenced operations, initially using the address 6 Bloxhome Drive, Singapore 559702 as its registered address."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-04-02",
+          "Text": "On 2005-04-02, Latrade Automation Pte Ltd and Sam Hui Engineering Works and Service entered into an agreement under which Latrade Automation Pte Ltd took over the NH Glass project for $225,000 and accepted an obligation to pay liquidated damages for delay at 10% per day of the contract price."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-04-13",
+          "Text": "On 2005-04-13, Justin Foo attended a meeting with representatives of NH Glass and Chow Chee Meng and signed minutes on behalf of Sum Yue Holdings Pte Ltd agreeing to a schedule of works and potential penalty charges for delay."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-04-23",
+          "Text": "On 2005-04-23, Latrade Automation Pte Ltd issued invoice no. 238808/05 to Sam Hui Engineering Works and Service for $225,000 for the NH Glass project, recording deductions of $20,000 and $90,000 as first and second progressive payments and a balance of $115,000 plus GST."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-06-03",
+          "Text": "On 2005-06-03, at a meeting, it was recorded that Justin Foo’s resignation date was 2005-03-31 with last day 2005-04-30, and that his stay would be extended until 2005-06-30 to complete ongoing projects, with an arrangement for him to pay rent for use of the plaintiff’s premises."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-06-03",
+          "Text": "On 2005-06-03, it was recorded that Justin Foo would set up a company whose registered address would not be at the plaintiff’s premises and whose business dealings, workers and subcontractors would not be related to Sum Yue Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-07-04",
+          "Text": "On 2005-07-04, Lim Men See sent a note to Justin Foo requesting that correspondence concerning Justin Foo’s company not be sent to 4 Soon Lee Road and to redirect all such letters immediately."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-07-05",
+          "Text": "On 2005-07-05, Peter Lim informed Lim Men See that Justin Foo had rented workshop space with electricity at the plaintiff’s premises for one and a half months until 2005-07-15 for a total of $3,750 and requested that Justin Foo be billed accordingly."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-07-18",
+          "Text": "On 2005-07-18, Sum Yue Holdings Pte Ltd sent a letter to Justin Foo requiring him to leave the company’s premises immediately, hand over all company documents to Angie, and not remove any documents."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-07-19",
+          "Text": "On 2005-07-19, access to the plaintiff’s workshop at 4 Soon Lee Road was restricted by additional locks and chains, and Justin Foo no longer had access to the premises."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-10-01",
+          "Text": "By October 2005, Latrade Automation Pte Ltd had completed the NH Glass project for Sam Hui Engineering Works and Service."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-10-01",
+          "Text": "Between October 2005 and January 2006, Latrade Automation Pte Ltd issued invoices totalling approximately $42,277.20 to Sum Yue Holdings Pte Ltd for work done on projects of Sum Yue Electrical Industries Pte Ltd, which were not acknowledged for payment by Lim Men See."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2006-09-01",
+          "Text": "In September 2006, Ronald Lee Lim Sim approached Bob Lim to ask if he wanted to sell his shares in Sum Yue Electrical Industries Pte Ltd to Lim Men See and suggested that the parties part ways."
+        }
+      ],
+      "Issue": "Whether, before the dispute, Justin Foo’s incorporation and operation of Latrade Automation Pte Ltd, his role in the transfer of the NH Glass project, and his continued use of the plaintiff’s premises and resources created a conflict over which entity was responsible for the NH Glass project and entitled to its payments.",
+      "Rule": "Directors and senior managers who control projects and customer relationships are generally conduct those projects through the company that contracted for them, to account to that company for project-related payments, and to avoid diverting ongoing projects or company-funded resources to another entity they control without the knowledge and agreement of the original contracting company.",
+      "Application": "Justin Foo was a minority shareholder and director involved in mechanical projects for Sum Yue Holdings Pte Ltd, including the NH Glass project. After internal disagreements and instructions that he stop obtaining new orders, he participated in the incorporation of Latrade Automation Pte Ltd and arranged for that company to take over the NH Glass project for $225,000 following a cancellation letter signed by Chow Chee Meng. He continued to work on projects and to use the plaintiff’s premises under recorded arrangements for rental and separation of business addresses and dealings. Latrade Automation Pte Ltd issued invoices and received payments for the NH Glass project and other work, while the plaintiff had earlier received a 25% down payment and had purchased materials and engaged subcontractors. These pre-dispute events define the allocation of project work, premises use and payment flows between Justin Foo’s company and Sum Yue Holdings Pte Ltd.",
+      "Judicial_Reasoning_Log": "The court accepted that Justin Foo was credible and that his account of events, including the incorporation and operation of Latrade Automation Pte Ltd and the transfer of the NH Glass project, was corroborated by other defendants and by Chow Chee Meng. The judge found that Lim Men See and Ronald intended to close down the plaintiff’s operations, that they encouraged Justin and Peter to set up their own company and allowed them to rent space at the plaintiff’s premises, and that the third defendant’s activities at the premises were conducted openly with the plaintiff’s knowledge. The court held that Justin Foo did not breach fiduciary duties as a director in arranging for the third defendant to take over the NH Glass project because the plaintiff was not in a position to complete the project and the transfer was effectively authorised or acquiesced in by Lim. The court rejected the plaintiff’s claims that Justin Foo wrongfully received $20,000 and $90,000, accepting instead that these sums were loans from Chow used to pay subcontractors and were reimbursed or accounted for. The judge concluded that Justin Foo was not liable for conspiracy, misdirection of business or misuse of company resources and dismissed the claims against him."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 13 of 2008",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2010-06-29",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Latrade Automation Pte Ltd",
+      "Law_Firm": "Harry Elias Partnership",
+      "Counsel": [
+        "Palmer Michael Anthony",
+        "Lem Jit Min Andy",
+        "Deryne Sim Lifen"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2005-02-23",
+          "Text": "On 2005-02-23, Latrade Automation Pte Ltd was incorporated with its registered address initially at 6 Bloxhome Drive, Singapore 559702."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2005-02-23",
+          "Text": "On 2005-02-23, Justin Foo and Theresa Ang became shareholders and directors of Latrade Automation Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-04-01",
+          "Text": "On 2005-04-01, Latrade Automation Pte Ltd commenced operations."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-04-01",
+          "Text": "Between 2005-04-01 and 2005-07-18, Latrade Automation Pte Ltd sent and received correspondence, invoices, quotations and delivery orders at 4 Soon Lee Road, the premises of Sum Yue Holdings Pte Ltd, and met customers there."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-03-11",
+          "Text": "On 2005-03-11, Latrade Automation Pte Ltd issued invoice no. 238801/05 for $20,000 to Sam Hui Engineering Works and Service. The invoice was later described as backdated."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-03-17",
+          "Text": "On 2005-03-17, Latrade Automation Pte Ltd issued invoice no. 238802/05 to Sam Hui Engineering Works and Service for $90,000 as a 30% progress payment for the NH Glass project. The invoice was later described as backdated."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-03-31",
+          "Text": "On 2005-03-31, Justin Foo wrote to Chow to confirm that the third defendant would take over the NH Glass project for $225,000."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-04-02",
+          "Text": "On 2005-04-02, Chow's evidence was that the third defendant took over the NH Glass project under an agreement dated 2 April 2005 and assumed an obligation to pay liquidated damages for delay at 10% per diem of the contract price."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-04-15",
+          "Text": "On 2005-04-15, the third defendant invoiced Chow $720 for glass supplied to the NH Glass project, and the invoice was signed by Justin Foo."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-04-23",
+          "Text": "On 2005-04-23, the third defendant's invoice no. 238808/05 to Chow stated particulars for the NH Glass project, including less first progressive payment of $20,000, less second progressive payment of $90,000, and a subtotal of $115,000 plus GST."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-10-01",
+          "Text": "By October 2005, the NH Glass project was completed."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-10-01",
+          "Text": "Between October 2005 and January 2006, the third defendant rendered invoices approximating $42,277.20 to the plaintiff for work done for projects of SYEI."
+        }
+      ],
+      "Issue": "Whether, before the dispute, Latrade Automation Pte Ltd’s assumption of the NH Glass project and its use of the plaintiff’s premises and customer relationships created a conflict over entitlement to project revenues and responsibility for project obligations.",
+      "Rule": "A company that takes over an ongoing project from another contracting company generally assumes responsibility for the project work and related obligations, while entitlement to project revenues depends on the terms of the transfer and on whether the original contracting company agreed to or acquiesced in the transfer and the new company’s use of its premises and customer relationships.",
+      "Application": "Latrade Automation Pte Ltd was incorporated in February 2005 by individuals employed by Sum Yue Holdings Pte Ltd and began operations in April 2005. It issued invoices and entered into an agreement with Sam Hui Engineering Works and Service to take over the NH Glass project for $225,000, including an obligation to pay liquidated damages for delay. It operated from the plaintiff’s premises, used those premises for correspondence and customer meetings, and completed the NH Glass project by October 2005. These pre-dispute events define Latrade Automation Pte Ltd’s role as the entity performing the remaining NH Glass project work and receiving the associated payments, in place of Sum Yue Holdings Pte Ltd.",
+      "Judicial_Reasoning_Log": "The court found that Latrade Automation Pte Ltd commenced operations openly from the plaintiff’s premises with the knowledge and consent of Lim Men See and Ronald. The judge accepted that the third defendant took over the NH Glass project under an agreement with Sam Hui Engineering Works and Service, assumed the risk of liquidated damages, and completed the project after the plaintiff had effectively ceased operations. The court held that the third defendant did not participate in any conspiracy or dishonest assistance and that its receipt of project payments corresponded to work it performed and obligations it assumed. The claims against Latrade Automation Pte Ltd were therefore dismissed."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 13 of 2008",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2010-06-29",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Theresa Ang",
+      "Law_Firm": "Harry Elias Partnership",
+      "Counsel": [
+        "Palmer Michael Anthony",
+        "Lem Jit Min Andy",
+        "Deryne Sim Lifen"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-11-01",
+          "Text": "In November 2004, Theresa Ang joined Sum Yue Holdings Pte Ltd as an employee performing administrative functions, including recording minutes of meetings and preparing quotations and delivery orders."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2005-02-23",
+          "Text": "On 23 February 2005, Latrade Automation Pte Ltd was incorporated by Justin Foo and Theresa Ang."
+        }
+      ],
+      "Issue": "Whether, before the dispute, Theresa Ang’s dual roles in Sum Yue Holdings Pte Ltd and Latrade Automation Pte Ltd and her recording of internal decisions about project transfers and premises use created a conflict over her involvement in the NH Glass project and related business activities.",
+      "Rule": "Employees who hold positions in both an existing company and a new company are generally keep the business of each entity separate and to follow the existing company’s internal decisions and instructions regarding project allocation and use of premises and resources.",
+      "Application": "Theresa Ang joined Sum Yue Holdings Pte Ltd in November 2004 and later became a director and shareholder of Latrade Automation Pte Ltd in February 2005. She recorded minutes of meetings where management decisions were made about stopping Justin Foo’s new orders, considering transfer of the NH Glass project, ceasing the plaintiff’s operations, selling its premises, and allowing new companies to rent space and keep their business dealings separate. These pre-dispute events her activities in recording and implementing management decisions occurred within a framework where the plaintiff’s management contemplated project transfers and new entities operating from the same premises.",
+      "Judicial_Reasoning_Log": "The court accepted Theresa Ang’s evidence that she accurately recorded minutes of meetings and that those minutes reflected the participation of Lim Men See and Ronald in decisions to cease operations, sell the premises and allow new companies to operate from the plaintiff’s premises. The judge found no basis to conclude that Theresa Ang breached any duties as an employee or that she participated in a conspiracy to divert business. The claims against her were dismissed."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 13 of 2008",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2010-06-29",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Richard Lim",
+      "Law_Firm": "Harry Elias Partnership",
+      "Counsel": [
+        "Palmer Michael Anthony",
+        "Lem Jit Min Andy",
+        "Deryne Sim Lifen"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2004-01-01",
+          "Text": "In 2004, Richard Lim was the son of Bob Lim."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "In January 2004, Richard Lim joined Sum Yue Holdings Pte Ltd as an employee assisting Justin Foo on mechanical projects, including the SIS project and the NH Glass project."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-03-09",
+          "Text": "On 2005-03-09, a note from Sum Yue Holdings Pte Ltd to SLS for $20,000 for labour on the SIS project contained corrections made by Richard Lim changing the project reference from NH Glass to SIS and indicating job number 10481."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-03-01",
+          "Text": "In March 2005, Richard Lim and Justin Foo used materials initially acquired for the NH Glass project for the SIS project due to non-payment to suppliers and contractors by Sum Yue Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-06-30",
+          "Text": "On 2005-06-30, Richard Lim’s employment with Sum Yue Holdings Pte Ltd was terminated as part of the closure of the engineering department."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-07-18",
+          "Text": "On 2005-07-18, Sum Yue Holdings Pte Ltd sent a letter to Richard Lim requiring him to leave the company’s premises immediately, hand over all company documents to Angie, and not remove any documents."
+        }
+      ],
+      "Issue": "Whether, before the dispute, Richard Lim’s use of materials and his role in projects under Justin Foo’s supervision created a conflict over allocation of materials and project work between the plaintiff and Latrade Automation Pte Ltd.",
+      "Rule": "Employees working on multiple projects are generally allocate materials and labour according to project requirements and company instructions, and to ensure that materials purchased for one project are properly accounted for if used on another project.",
+      "Application": "Richard Lim assisted Justin Foo on the NH Glass and SIS projects. Due to non-payment by the plaintiff to suppliers and contractors, he and Justin used materials initially acquired for the NH Glass project on the SIS project, and he corrected documentation to reflect that the $20,000 payment to SLS related to the SIS project. His employment ended when the engineering department was closed. These pre-dispute events define his involvement in material allocation and project work that later became part of the dispute over project costs and revenues.",
+      "Judicial_Reasoning_Log": "The court accepted Richard Lim’s evidence that some materials ordered by the plaintiff were used for the SIS project and that he had handed over all project documents to the plaintiff, which then did not produce them to substantiate its claim that all materials were used for the NH Glass project. The judge found no basis to hold Richard Lim liable for any alleged misallocation of materials or participation in conspiracy, and dismissed the claims against him."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 13 of 2008",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2010-06-29",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Peter Lim",
+      "Law_Firm": "Harry Elias Partnership",
+      "Counsel": [
+        "Palmer Michael Anthony",
+        "Lem Jit Min Andy",
+        "Deryne Sim Lifen"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-11-01",
+          "Text": "In November 2004, Peter Lim joined the plaintiff."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2004-02-01",
+          "Text": "In February 2004, projects from Sum Yue Engineering Pte Ltd were transferred to Sum Yue Electrical Industries Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-06-03",
+          "Text": "On 2005-06-03, it was recorded that Justin would pay rent for the plaintiff’s premises and that staff working under Justin and Richard would have their services terminated once the projects they worked on were completed."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-06-27",
+          "Text": "On 2005-06-27, it was recorded that Peter could continue doing the same business provided a new company was set up with no connection to the plaintiff, and that he could rent the plaintiff’s premises until the building was sold."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-07-04",
+          "Text": "On 2005-07-04, Lim sent a note to Theresa, copied to Bob and Peter, asking whether Peter's company was interested in buying the two lorries and requesting information on rental charges for the premises."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-07-05",
+          "Text": "On 2005-07-05, Peter sent a memorandum to Lim stating that the third defendant would purchase lorry YJ6711T, confirming rental of existing office, spray booth/machine workshop and ground floor workshop at $4,000 per month, and stating that Justin Foo had rented workshop space with electricity until 15 July 2005 for $3,750."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-07-28",
+          "Text": "On or about 28 July 2005, two projects, Temptech Pte Ltd and Powder Coating Engineering Pte Ltd, were transferred to Peter."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-09-28",
+          "Text": "On 28 September 2005, Peter purchased lorry YJ6711T for $20,000 as recorded in tax invoice SYH1244."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-06-30",
+          "Text": "The third defendant paid approximately $46,000 to the plaintiff’s employees."
+        }
+      ],
+      "Issue": "Whether, before the dispute, Peter Lim’s continuation of similar business through a new company, his rental of the plaintiff’s premises, and his acquisition of company assets and projects created a conflict over business and asset allocation between him and Sum Yue Holdings Pte Ltd.",
+      "Rule": "When a company winds down operations, management may transfer projects and assets to other parties and allow those parties to rent premises; such transfers and rental arrangements generally define the allocation of business and assets between the original company and the new operators.",
+      "Application": "Peter Lim joined the plaintiff in November 2004 and later became involved in arrangements where the plaintiff considered ceasing operations and selling its premises. Meeting minutes and correspondence he was allowed to continue similar business through a new company, rent the plaintiff’s premises, purchase a company lorry, and receive transfers of two projects. He also advanced funds to pay employee salaries when the plaintiff did not pay them. These pre-dispute events define how business activities and certain assets were shifted from the plaintiff to Peter Lim’s operations.",
+      "Judicial_Reasoning_Log": "The court found that Peter Lim acted within the framework of decisions made by Lim Men See and Ronald to cease the plaintiff’s operations, sell its premises and allow new companies to rent space and take over projects and assets. The judge held that Peter Lim did not owe fiduciary duties as a director and that his conduct in renting premises, acquiring a lorry and taking over projects was consistent with management’s decisions. The claims against Peter Lim were dismissed."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 13 of 2008",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2010-06-29",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Bob Lim",
+      "Law_Firm": "Harry Elias Partnership",
+      "Counsel": [
+        "Palmer Michael Anthony",
+        "Lem Jit Min Andy",
+        "Deryne Sim Lifen"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2004-01-01",
+          "Text": "In 2004, the shareholders of Sum Yue Electrical Industries Pte Ltd were Lim Men See and Bob."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2004-02-01",
+          "Text": "Projects from Sum Yue Engineering Pte Ltd, a company owned by Bob and Peter, were transferred to SYEI some time in February 2004."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "Together with Richard and he had joined the plaintiff in January 2004."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2004-03-24",
+          "Text": "On 24 March 2004, Bob announced that Justin would run the plaintiff's administration department with immediate effect."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-03-31",
+          "Text": "On 31 March 2005, Justin resigned from the plaintiff's employment. On 26 April 2005 and 16 May 2005, Bob wrote letters on behalf of the plaintiff to Justin requesting him to stay on until he completed its existing projects and stating that there was no objection to allow him to carry out his businesses at the plaintiff's premises during the periods of extension of stay."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-06-03",
+          "Text": "On 3 June 2005, it was reported that Justin had tendered his resignation on 31 March 2005 and his last day would be 30 April 2005. Bob reported he would retain Justin and extend his stay until 30 June 2005 to complete projects. Staff of Justin and Richard would have their services terminated once the projects they worked on were completed."
+        }
+      ],
+      "Issue": "Whether, before the dispute, Bob Lim’s role as director and shareholder, his communications about Justin Foo’s future business, and his later share sale negotiations created a conflict over responsibility for company decisions and entitlements related to the NH Glass project and other business.",
+      "Rule": "Directors involved in management decisions about project allocation, staffing and future business arrangements are generally act in accordance with company decisions and to document any changes in shareholding and responsibilities through formal agreements.",
+      "Application": "Bob Lim was a director and shareholder connected to both Sum Yue Holdings Pte Ltd and Sum Yue Electrical Industries Pte Ltd. He announced Justin Foo’s administrative role, conveyed Lim Men See’s instruction that Justin Foo should stop getting new orders and set up his own company, and later requested that Justin Foo stay on to complete projects, leading to letters about extension of stay and use of premises. He participated in meetings where staff terminations and project completion were discussed and later engaged in share sale negotiations that did not conclude. These pre-dispute events define his involvement in the management context in which the NH Glass project was transferred and the plaintiff’s operations were wound down.",
+      "Judicial_Reasoning_Log": "The court accepted that Bob Lim acted within the management framework established by Lim Men See and Ronald and that he sought to manage the transition of projects and staff, including Justin Foo’s continued involvement to complete projects. The judge found no breach of fiduciary duties by Bob Lim and no participation in any conspiracy to harm the plaintiff. The claims against him were dismissed."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 13 of 2008",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu",
+      "Date": "2010-06-29",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Sam Hui Engineering Works and Service (sole proprietorship of Chow Chee Meng)",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2005-01-04",
+          "Text": "On 2005-01-04, Chow Chee Meng issued purchase order no. 05-0001 for $300,000 to Sum Yue Holdings Pte Ltd for the NH Glass project at Techno Glass Singapore Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-01-10",
+          "Text": "On 2005-01-10, Chow Chee Meng paid $75,000 to Sum Yue Holdings Pte Ltd as a 25% down payment for the NH Glass project."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-03-31",
+          "Text": "On 2005-03-31, Chow Chee Meng wrote to Sum Yue Holdings Pte Ltd cancelling purchase order no. 05-0001 for the NH Glass project, citing unsatisfactory work progress."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-03-11",
+          "Text": "On or about 2005-03-11, the third defendant issued invoice no. 238801/05 for $20,000 to Chow Chee Meng; Chow paid Justin Foo, and the sum was later reimbursed by Sum Yue Holdings Pte Ltd to Justin Foo for payment made to SLS for labour on the SIS project."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-04-02",
+          "Text": "On 2005-03-17, the third defendant issued invoice no. 238802/05 for $90,000 to Chow Chee Meng as a 30% progress payment for the NH Glass project; Chow paid Justin Foo, and the sum was later reflected in invoice no. 238808/05 dated 23 April 2005."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-04-13",
+          "Text": "On 2005-04-13, Justin Foo and Chow Chee Meng attended a meeting with representatives of NH Glass, and Justin signed minutes on behalf of the plaintiff that included an agreement to follow a schedule of works and possible penalty charges for delay."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-10-01",
+          "Text": "By October 2005, the NH Glass project was completed by the third defendant after an extension of one month beyond the original three-month deadline."
+        }
+      ],
+      "Issue": "Whether, before the dispute, Sam Hui Engineering Works and Service’s cancellation of the purchase order with Sum Yue Holdings Pte Ltd and its new agreement with Latrade Automation Pte Ltd created a conflict over which entity it should treat as contractor for the NH Glass project and to whom it should make payments.",
+      "Rule": "A customer that cancels a contract with one contractor and enters into a new contract with another for the same project generally treats the new contractor as responsible for completing the project and directs subsequent payments to that contractor in accordance with the new agreement.",
+      "Application": "Sam Hui Engineering Works and Service first contracted with Sum Yue Holdings Pte Ltd for the NH Glass project and paid a 25% deposit. After delays and communications from Justin Foo, it signed a cancellation letter for the original purchase order and entered into a new agreement with Latrade Automation Pte Ltd for $225,000 with liquidated damages provisions. It then made payments corresponding to Latrade Automation Pte Ltd’s invoices and had the project completed by that company. These pre-dispute events define its role as a customer that shifted its contractual relationship from Sum Yue Holdings Pte Ltd to Latrade Automation Pte Ltd.",
+      "Judicial_Reasoning_Log": "The court found that Chow Chee Meng acted as a customer concerned with timely completion of the NH Glass project and that he relied on Justin Foo’s representations about technical and timing issues. The judge accepted that Chow signed the cancellation letter and contracted with Latrade Automation Pte Ltd to avoid delay penalties, and that he paid all invoices issued by the third defendant. The court held that Chow did not conspire with the other defendants or dishonestly assist in any breach of duty and that he was an innocent party added to the suit. The claims against the seventh defendant were dismissed."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  }
+]

@@ -28,6 +28,7 @@ Your job is to audit one party row against the source judgment text and strictly
 2. THE TEMPORAL WALL
 - Predictive ML models must only use facts that would have been available before the substantive dispute outcome was determined.
 - The Temporal Wall is the earliest point at which the dispute had clearly arisen between the parties, and no later than the commencement of legal proceedings.
+- The "Issue", "Rule", and "Application" fields MUST be completely neutral. You are strictly forbidden from using phrases like "The judge held", "The court found", or "The court concluded" in the Application or Issue fields. Rewrite these statements as neutral, pre-trial facts.
 - If uncertain, treat the following as leakage:
   - litigation filings
   - procedural applications
@@ -39,7 +40,6 @@ Your job is to audit one party row against the source judgment text and strictly
   - judicial findings
   - appeals
   - judgment-stage outcomes
-- If the case is procedural in nature, preserve only neutral background facts needed to understand the row, but remove outcome-revealing and judgment-stage material.
 
 3. OUTCOME LABEL
 - Party_Details.Role is metadata, not the label.
@@ -50,36 +50,36 @@ Your job is to audit one party row against the source judgment text and strictly
 - Do NOT recommend "Defendant", "Plaintiff", or "Third Party" as labels.
 
 Return only valid JSON with this shape:
-{{
+{
   "case_name": string,
   "party": string,
   "status": "CLEAN" | "CHANGES",
-  "label_change": null | {{
+  "label_change": null | {
     "current": string,
     "recommended": string,
     "evidence": string,
     "recommended_change": string
-  }},
+  },
   "fact_changes": [
-    {{
+    {
       "path": string,
       "issue_type": "ACCURACY_ERROR" | "TEMPORAL_WALL_LEAKAGE",
       "current_value": string,
       "recommended_value": string,
       "evidence": string,
       "recommended_change": string
-    }}
+    }
   ],
   "facts_to_remove": [
-    {{
+    {
       "path": string,
       "issue_type": "ACCURACY_ERROR" | "TEMPORAL_WALL_LEAKAGE",
       "current_value": string,
       "evidence": string,
       "recommended_change": string
-    }}
+    }
   ]
-}}
+}
 """.strip()
 
 USER_PROMPT_TEMPLATE = """
@@ -120,25 +120,41 @@ DEFENDANT_LABELS = {"Liable", "Not Liable", "Partially Liable", "Unknown"}
 GENERIC_LABELS = {"Unknown"}
 
 LEAKAGE_PATTERNS = [
-    r"\bthe court held\b",
-    r"\bthe judge found\b",
-    r"\bthe court found\b",
-    r"\bthe court concluded\b",
-    r"\bjudgment was entered\b",
-    r"\bcosts? (?:were )?awarded\b",
-    r"\bthe appeal was allowed\b",
-    r"\bthe appeal was dismissed\b",
-    r"\bthe claim was dismissed\b",
-    r"\bliable for\b",
-    r"\bawarded judgment\b",
+    r"\bthe\s+(?:trial\s+|high\s+|appeals?\s+)?(?:judge|court|tribunal)\s+(?:held|found|concluded|ruled|determined|decided|observed|noted)\b",
+    r"\b(?:judgment|claim|action|suit|appeal)\s+(?:of\s+the\s+.*?)?(?:was|is|were|are)\s+(?:entered|dismissed|allowed|awarded)\b",
+    r"\b(?:succeeded|failed)\s+in\s+(?:its|his|her|their)\s+(?:claim|action|suit|appeal)\b",
+    r"\b(?:found|held\s+(?:to\s+be\s+)?)?liable\b",
+    r"\b(?:costs?|damages?)\s+(?:were|was|are|is)?\s*(?:awarded|ordered|assessed)\b",
+    r"\bletter of demand\b",
+    r"\bdemand from .*? lawyers\b",
+    r"\blawyers for\b",
+    r"\bsolicitors for\b",
+    r"\bwrit of summons\b",
+    r"\bstatutory demand\b",
+    r"\bletter in response to .*? demand\b",
+    r"\blater (?:medical |hospital )?records?\b",
+    r"\baccording to later\b",
+    r"\blater account\b",
+    r"\btestified later\b",
+    r"\bproduced during discovery\b",
+    r"\b(?:later|subsequently)\s+(?:seen|examined|diagnosed)\s+by\b",
+    r"\bpsychiatri(?:c|st)\b",
+    r"\bpolyclinic\b"
 ]
 
 SUCCESS_PATTERNS_PLAINTIFF = [
-    r"\bjudgment was entered in favour of\b",
-    r"\bjudgment against\b",
-    r"\bawarded judgment\b",
-    r"\bclaim succeeded\b",
-    r"\bthe court awarded\b",
+    r"\bjudgment\s+(?:was\s+|is\s+)?(?:entered|given|awarded)\s+in\s+favour\s+of\b",
+    r"\bjudgment\s+against\b",
+    r"\b(?:claim|action|suit)\s+(?:succeeded|succeeds|is\s+allowed|was\s+allowed)\b",
+    r"\bthe\s+(?:court|judge|tribunal)\s+awarded\b",
+    r"\b(?:holds|held|finds|found|concludes|concluded|determines|determined)\s+that\s+(?:the\s+defendant|he|she|it|they)\s+(?:is|was|were)\s+(?:in\s+breach|liable)\b",
+    r"\b(?:liability|breach\s+of\s+(?:contract|fiduciary|duty|obligations?))[^.]*?(?:is|was|has\s+been)\s+(?:established|proven|made\s+out|found)\b"
+]
+
+FAILURE_PATTERNS_PLAINTIFF = [
+    r"\bclaim(?: of the.*?)? (?:is|was) dismissed\b",
+    r"\bclaims? (?:are|were) dismissed\b",
+    r"\baction (?:is|was) dismissed\b"
 ]
 
 SUCCESS_PATTERNS_DEFENDANT = [
@@ -213,6 +229,20 @@ def normalize_result(result: Dict[str, Any], row: Dict[str, Any]) -> Dict[str, A
     result.setdefault("label_change", None)
     result.setdefault("fact_changes", [])
     result.setdefault("facts_to_remove", [])
+
+    # sanitize malformed model output
+    if not isinstance(result["fact_changes"], list):
+        result["fact_changes"] = []
+    else:
+        result["fact_changes"] = [x for x in result["fact_changes"] if isinstance(x, dict)]
+
+    if not isinstance(result["facts_to_remove"], list):
+        result["facts_to_remove"] = []
+    else:
+        result["facts_to_remove"] = [x for x in result["facts_to_remove"] if isinstance(x, dict)]
+
+    if result["label_change"] is not None and not isinstance(result["label_change"], dict):
+        result["label_change"] = None
 
     if result["label_change"] or result["fact_changes"] or result["facts_to_remove"]:
         result["status"] = "CHANGES"
@@ -368,6 +398,10 @@ def apply_audit_and_build_review(input_data: Any, audit_data: List[Dict[str, Any
             row_lookup[party_name] = row
 
     for audit_row in audit_data:
+        if not isinstance(audit_row, dict):
+            print(f"  [WARN] Skipping malformed audit row: {audit_row}")
+            continue
+
         party = audit_row.get("party", "")
         base_review = {
             "case_name": audit_row.get("case_name", ""),
@@ -396,7 +430,7 @@ def apply_audit_and_build_review(input_data: Any, audit_data: List[Dict[str, Any
 
         # 1. Apply GPT label change first
         label_change = audit_row.get("label_change")
-        if label_change and label_change.get("recommended") is not None:
+        if isinstance(label_change, dict) and label_change.get("recommended") is not None:
             old_label = target_row.get("Label")
             new_label = label_change["recommended"]
             if old_label != new_label:
@@ -407,8 +441,16 @@ def apply_audit_and_build_review(input_data: Any, audit_data: List[Dict[str, Any
                     "source": "MODEL",
                 }
 
-        # 2. Apply GPT fact changes
-        for fc in audit_row.get("fact_changes", []):
+        # 2. Apply GPT fact changes safely
+        fact_changes = audit_row.get("fact_changes", [])
+        if not isinstance(fact_changes, list):
+            fact_changes = []
+
+        for fc in fact_changes:
+            if not isinstance(fc, dict):
+                print(f"  [WARN] Skipping malformed fact_change for party '{party}': {fc}")
+                continue
+
             path = fc.get("path")
             new_value = fc.get("recommended_value")
 
@@ -423,8 +465,10 @@ def apply_audit_and_build_review(input_data: Any, audit_data: List[Dict[str, Any
                             "to": new_value,
                             "source": "MODEL",
                         })
-                except Exception:
+                except Exception as e:
+                    print(f"  [WARN] Failed to apply fact_change for party '{party}', path='{path}': {e}")
                     continue
+
             elif path == "Label" and new_value is not None:
                 old_value = target_row.get("Label")
                 if old_value != new_value:
@@ -435,21 +479,35 @@ def apply_audit_and_build_review(input_data: Any, audit_data: List[Dict[str, Any
                         "source": "MODEL",
                     }
 
-        # 3. Apply GPT fact removals
+        # 3. Apply GPT fact removals safely
+        facts_to_remove = audit_row.get("facts_to_remove", [])
+        if not isinstance(facts_to_remove, list):
+            facts_to_remove = []
+
         indices_to_remove = []
-        for fr in audit_row.get("facts_to_remove", []):
+        removal_text_by_index = {}
+        facts = target_row.get("Party_Details", {}).get("Facts", [])
+
+        for fr in facts_to_remove:
+            if not isinstance(fr, dict):
+                print(f"  [WARN] Skipping malformed facts_to_remove for party '{party}': {fr}")
+                continue
+
             idx = parse_fact_index(fr.get("path", ""))
             if idx is not None:
                 indices_to_remove.append(idx)
+                if 0 <= idx < len(facts):
+                    removal_text_by_index[idx] = facts[idx].get("Text")
 
         indices_to_remove = sorted(set(indices_to_remove), reverse=True)
-        facts = target_row.get("Party_Details", {}).get("Facts", [])
 
         for idx in indices_to_remove:
             if 0 <= idx < len(facts):
+                removed_text = facts[idx].get("Text")
                 del facts[idx]
                 applied_changes["facts_removed"].append({
                     "path": f"Party_Details.Facts[{idx}]",
+                    "text_removed": removed_text,
                     "source": "MODEL",
                 })
 
@@ -514,7 +572,6 @@ def enforce_row_level_rules(
             },
         )
 
-        # Rule 1: invalid label by role -> Unknown
         allowed = allowed_labels_for_role(role)
         if label not in allowed:
             old_label = label
@@ -534,12 +591,15 @@ def enforce_row_level_rules(
                 f"Role '{role}' does not permit label '{old_label}'.",
             )
 
-        # Rule 2: remove null / empty facts
         facts = row.get("Party_Details", {}).get("Facts", [])
         to_delete = []
+        hallucinated_deletes = {"remove this fact.", "remove this fact", "delete this fact.", "delete this fact"}
+
         for idx, fact in enumerate(facts):
-            if is_nullish_text(fact.get("Text")):
+            text = fact.get("Text", "")
+            if is_nullish_text(text) or (isinstance(text, str) and text.strip().lower() in hallucinated_deletes):
                 to_delete.append(idx)
+
         for idx in reversed(to_delete):
             del facts[idx]
             review_item["applied_changes"]["facts_removed"].append({
@@ -548,14 +608,13 @@ def enforce_row_level_rules(
             })
             append_rule_change(
                 review_item,
-                "NULL_FACT_TEXT",
+                "NULL_OR_HALLUCINATED_FACT_TEXT",
                 f"Party_Details.Facts[{idx}]",
-                "null/empty",
+                "null/empty/hallucination",
                 "removed",
-                "Removed fact with null or empty Text.",
+                "Removed fact with null text or literal LLM deletion command.",
             )
 
-        # Rule 3: remove obvious leakage from Facts only
         facts = row.get("Party_Details", {}).get("Facts", [])
         leak_delete = []
         for idx, fact in enumerate(facts):
@@ -578,26 +637,44 @@ def enforce_row_level_rules(
                 "Removed fact containing obvious judgment-stage leakage phrase.",
             )
 
-        # Rule 4: blank invalid date -> keep blank; impossible style -> blank
-        for idx, fact in enumerate(row.get("Party_Details", {}).get("Facts", [])):
-            old_date = fact.get("Fact_Date")
+        facts = row.get("Party_Details", {}).get("Facts", [])
+        for idx, fact in enumerate(facts):
+            old_date = fact.get("Fact_Date", "")
             if not is_valid_date_format(old_date):
-                fact["Fact_Date"] = ""
-                review_item["applied_changes"]["fact_changes"].append({
-                    "path": f"Party_Details.Facts[{idx}].Fact_Date",
-                    "from": old_date,
-                    "to": "",
-                    "source": "RULE",
-                })
-                append_rule_change(
-                    review_item,
-                    "INVALID_DATE_FORMAT",
-                    f"Party_Details.Facts[{idx}].Fact_Date",
-                    old_date,
-                    "",
-                    "Normalized unsupported date format to blank.",
-                )
+                if old_date != "":
+                    fact["Fact_Date"] = ""
+                    review_item["applied_changes"]["fact_changes"].append({
+                        "path": f"Party_Details.Facts[{idx}].Fact_Date",
+                        "from": old_date,
+                        "to": "",
+                        "source": "RULE",
+                    })
+                    append_rule_change(
+                        review_item,
+                        "INVALID_DATE_FORMAT",
+                        f"Party_Details.Facts[{idx}].Fact_Date",
+                        old_date,
+                        "",
+                        "Normalized unsupported date format to blank.",
+                    )
 
+        leakage_regex = r"(?i)\b(?:the\s+)?(?:judge|court)\s+(?:held|found|concluded|determined|ruled|observed)(?:\s+that)?\s*"
+        for field in ["Issue", "Rule", "Application"]:
+            raw_text = row.get("Party_Details", {}).get(field, "")
+            if raw_text and isinstance(raw_text, str):
+                cleaned_text = re.sub(leakage_regex, "", raw_text)
+                if cleaned_text and cleaned_text != raw_text:
+                    cleaned_text = cleaned_text[0].upper() + cleaned_text[1:] if len(cleaned_text) > 0 else ""
+                    row["Party_Details"][field] = cleaned_text
+
+                    append_rule_change(
+                        review_item,
+                        "NARRATIVE_SCRUBBER",
+                        f"Party_Details.{field}",
+                        raw_text,
+                        cleaned_text,
+                        f"Scrubbed hindsight judicial language from {field}.",
+                    )
     return corrected_rows, review_log
 
 
@@ -630,19 +707,17 @@ def enforce_case_level_rules(
         plaintiff_labels = {row.get("Label", "Unknown") for row in plaintiffs}
         defendant_labels = {row.get("Label", "Unknown") for row in defendants}
 
-        # Rule 5: unanimous plaintiff dismissal + all defendants liable -> defendants not liable
         if plaintiffs and defendants:
             if plaintiff_labels == {"Claim Dismissed"} and defendant_labels == {"Liable"}:
                 for row in defendants:
-                    # Guard: Check for Counterclaim to prevent false flipping
                     combined_text = " ".join(
                         str(row.get(k, "") or "") for k in ("Issue", "Rule", "Application", "Judicial_Reasoning_Log")
                     ).lower()
-                    
+
                     if "counterclaim" in combined_text:
                         print(f"  [Rule 5 Guard] Skipping '{row.get('Party_Details', {}).get('Name')}' due to potential counterclaim.")
                         continue
-                        
+
                     old_label = row.get("Label")
                     row["Label"] = "Not Liable"
                     review_item = review_lookup[row.get("Party_Details", {}).get("Name", "")]
@@ -660,7 +735,6 @@ def enforce_case_level_rules(
                         "All plaintiffs were Claim Dismissed in this case group.",
                     )
 
-        # Rule 6: row-level strong plaintiff success + unknown plaintiff -> Claim Allowed
         for row in plaintiffs:
             if row.get("Label") == "Unknown":
                 combined_text = " ".join(
@@ -684,7 +758,6 @@ def enforce_case_level_rules(
                         "Plaintiff row contains strong success signal.",
                     )
 
-        # Rule 7: row-level strong defendant success + liable defendant -> Not Liable
         for row in defendants:
             if row.get("Label") == "Liable":
                 combined_text = " ".join(
@@ -708,6 +781,63 @@ def enforce_case_level_rules(
                         "Defendant row contains strong success signal.",
                     )
 
+        for row in plaintiffs:
+            combined_text = " ".join(
+                str(row.get(k, "") or "") for k in ("Issue", "Rule", "Application", "Judicial_Reasoning_Log")
+            ).lower()
+
+            if safe_search_any(FAILURE_PATTERNS_PLAINTIFF, combined_text):
+                old_label = row.get("Label")
+                if old_label in {"Unknown", "Claim Allowed"}:
+                    row["Label"] = "Claim Dismissed"
+                    review_item = review_lookup[row.get("Party_Details", {}).get("Name", "")]
+                    review_item["applied_changes"]["label_change"] = {
+                        "from": old_label,
+                        "to": "Claim Dismissed",
+                        "source": "RULE",
+                    }
+                    append_rule_change(
+                        review_item,
+                        "STRONG_PLAINTIFF_DISMISSAL_SIGNAL",
+                        "Label",
+                        old_label,
+                        "Claim Dismissed",
+                        "Overriding label due to explicit dismissal text in judgment.",
+                    )
+
+        case_leaky_texts = set()
+        for _, row in members:
+            party_name = row.get("Party_Details", {}).get("Name", "")
+            review_item = review_lookup.get(party_name, {})
+            for fr in review_item.get("applied_changes", {}).get("facts_removed", []):
+                if "text_removed" in fr and fr["text_removed"]:
+                    case_leaky_texts.add(fr["text_removed"])
+
+        for _, row in members:
+            party_name = row.get("Party_Details", {}).get("Name", "")
+            review_item = review_lookup.get(party_name, {})
+            facts = row.get("Party_Details", {}).get("Facts", [])
+            to_delete = []
+
+            for idx, fact in enumerate(facts):
+                if fact.get("Text") in case_leaky_texts:
+                    to_delete.append(idx)
+
+            for idx in reversed(to_delete):
+                old_text = facts[idx].get("Text")
+                del facts[idx]
+                review_item["applied_changes"]["facts_removed"].append({
+                    "path": f"Party_Details.Facts[{idx}]",
+                    "source": "RULE",
+                })
+                append_rule_change(
+                    review_item,
+                    "CROSS_PARTY_LEAKAGE_SYNC",
+                    f"Party_Details.Facts[{idx}]",
+                    old_text,
+                    "removed",
+                    "Fact was flagged as leakage in another party's row and purged globally.",
+                )
     return corrected_rows, review_log
 
 
@@ -739,8 +869,14 @@ def process_batch(input_dir: Path, output_dir: Path):
         raise Exception(f"No JSON files found in {input_dir}")
 
     total_tokens = 0
+    output_dir.mkdir(parents=True, exist_ok=True)
 
     for json_path in json_files:
+        corrected_path = output_dir / f"{json_path.stem}.corrected.json"
+        if corrected_path.exists():
+            print(f"Skipping {json_path.name} (already processed)")
+            continue
+
         pdf_path = json_path.with_suffix(".pdf")
         if not pdf_path.exists():
             print(f"Skipping {json_path.name} (no PDF)")
@@ -771,21 +907,11 @@ def process_batch(input_dir: Path, output_dir: Path):
         corrected_data, review_log = apply_audit_and_build_review(raw_data, audit_results)
         corrected_data, review_log = enforce_row_level_rules(corrected_data, review_log)
         corrected_data, review_log = enforce_case_level_rules(corrected_data, review_log)
-        review_log = finalize_review_status(review_log)
-
-        output_dir.mkdir(parents=True, exist_ok=True)
-
-        corrected_path = output_dir / f"{json_path.stem}.corrected.json"
-        review_path = output_dir / f"{json_path.stem}.review.json"
 
         with open(corrected_path, "w", encoding="utf-8") as f:
             json.dump(corrected_data, f, indent=2, ensure_ascii=False)
 
-        with open(review_path, "w", encoding="utf-8") as f:
-            json.dump(review_log, f, indent=2, ensure_ascii=False)
-
         print(f"  Saved: {corrected_path.name}")
-        print(f"  Saved: {review_path.name}")
 
     print("\nDONE")
     print(f"Total tokens used: {total_tokens}")
@@ -795,7 +921,7 @@ def main():
     print(" Running audit + correction mode")
     print(f" Model: {MODEL_NAME}")
 
-    INPUT_FOLDER = Path("Data/Test")
+    INPUT_FOLDER = Path("Data/PDFsandJsonInput")
     OUTPUT_FOLDER = Path("Data/Processed/FinalAudited")
 
     process_batch(INPUT_FOLDER, OUTPUT_FOLDER)

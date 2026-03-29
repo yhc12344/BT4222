@@ -1,0 +1,453 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 975 of 2015",
+      "Coram": "Aedit Abdullah J",
+      "Judge": "Aedit Abdullah",
+      "Date": "2018-01-23",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Traxiar Drilling Partners II Pte Ltd (in liquidation)",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2013-04-12",
+          "Text": "Traxiar Drilling Partners II Pte Ltd was incorporated in Singapore on 2013-04-12 as a special purpose vehicle."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-04-12",
+          "Text": "At incorporation on 2013-04-12, Traxiar Drilling Partners II Pte Ltd had two directors, including Dag Oivind Dvergsten."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-12-20",
+          "Text": "From 2013-12-20 until the company was wound up, Dag Oivind Dvergsten was the sole director of Traxiar Drilling Partners II Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-04-12",
+          "Text": "At incorporation, Traxiar Drilling Partners II Pte Ltd had an issued share capital of $1 comprising a single share held by First Marine Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2013-01-01",
+          "Text": "First Marine Holdings Pte Ltd was wholly owned by Dag Dvergsten Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2013-04-12",
+          "Text": "Dag Dvergsten Pte Ltd was wholly owned by Dag Dvergsten AS, a Norwegian company."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-04-12",
+          "Text": "Dag Oivind Dvergsten was a director and sole shareholder of Dag Dvergsten AS and also a director of Dag Dvergsten Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2013-04-12",
+          "Text": "Dag Dvergsten AS owned 36.5% of the shares in Treatmil Holdings Limited."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2013-04-12",
+          "Text": "Treatmil Holdings Limited was the sole shareholder of Atlantic Marine Services Asia Pacific Limited, which previously owned Atlantic Marine Services Singapore Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-04-12",
+          "Text": "Dag Oivind Dvergsten was a director of Treatmil Holdings Limited."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-12",
+          "Text": "The Plaintiff did not open or operate any bank accounts in its own name from the time of its incorporation. Instead, the Defendant utilised DDPTE’s pre-existing bank account with DBS Bank Pte Ltd to receive funds from third parties and to make payments in connection with the Plaintiff’s affairs."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-09-30",
+          "Text": "On 30 September 2013, a loan for US$3m was obtained from AMS SG, carrying interest at 6% per annum and due to be repaid on 31 December 2016."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-10-17",
+          "Text": "The AMS Loan was disbursed to the Plaintiff over three tranches on 17, 18 and 23 October 2013."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-10-18",
+          "Text": "The AMS Loan was disbursed to the Plaintiff over three tranches on 17, 18 and 23 October 2013."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-10-23",
+          "Text": "The AMS Loan was disbursed to the Plaintiff over three tranches on 17, 18 and 23 October 2013."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-12-11",
+          "Text": "On 11 December 2013, the Plaintiff entered into a Memorandum of Agreement and a Supplemental Agreement with GOL Offshore Fujairah LLC FZE for the proposed purchase of the jack-up drilling rig Somnath for US$215m."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-12-11",
+          "Text": "Under the Somnath purchase agreements, the Plaintiff was to pay a first deposit of US$15m."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-12-23",
+          "Text": "On 23 December 2013, the Plaintiff obtained a bridging loan of US$15m from Symphony Ventures Pte Ltd, due to be repaid in full on 27 December 2014."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-12-23",
+          "Text": "Clause 2.2 of the Symphony Loan agreement expressly stated that the borrower was to apply the loan monies for the purpose of financing the first deposit and for other expenses related to the Somnath and the Second MOA."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-12-24",
+          "Text": "On 24 December 2013, Symphony queried the Defendant about the discrepancy between the named payee and the DBS account details and asked for the details of a bank account held in the Plaintiff's name."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-12-24",
+          "Text": "In an email dated 24 December 2013, the Defendant informed Symphony that DBS bank could not process the new account in time and asked that the monies be sent to DDPTE’s Bank Account, stating that he would appreciate remittance in the morning so that 'we can start processing for rig Already thursday'."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-12-26",
+          "Text": "On 26 December 2013, Symphony transferred US$6m to DDPTE’s Bank Account."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-12-01",
+          "Text": "On 1 December 2013, the Plaintiff entered into an agreement with DDAS for the provision of 'high level business services supporting [the Plaintiff] and in particular related to the acquisitions of rig Somnath and the financing of such assets and support services'."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-12-01",
+          "Text": "In connection with the services allegedly provided by DDAS in 2013, 2014 and 2015, the Plaintiff made payments of US$830,800, US$750,000 and US$300,000 respectively, totaling US$1,880,800."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-12-01",
+          "Text": "There were two documents which allegedly recorded the DDPTE Loan: one stated that the loan agreement was entered into on 1 December 2013, while the other stated that the loan agreement was entered into on 1 November 2014. Both documents stated that the loan carried interest at 4% per annum and was due for repayment only on 31 December 2023."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-11-01",
+          "Text": "There were two documents which allegedly recorded the DDPTE Loan: one stated that the loan agreement was entered into on 1 December 2013, while the other stated that the loan agreement was entered into on 1 November 2014. Both documents stated that the loan carried interest at 4% per annum and was due for repayment only on 31 December 2023."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-11-14",
+          "Text": "On 14 November 2014, a novation agreement was made between DDPTE, the Plaintiff and First Marine, providing for the DDPTE Loan in exchange for the novation of First Marine's rights under an agreement entered into with PT Harmoni Drilling Services to the Plaintiff."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-11-14",
+          "Text": "On 14 November 2014, DDPTE and the Plaintiff entered into a Business Services Agreement under which the Plaintiff was to pay US$50,000 per month to DDPTE as management fees."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-12-15",
+          "Text": "On 15 December 2013, the Defendant instructed Abraham, the owner of TY Global LLC, to send invoices to the Plaintiff's address, and Abraham replied, '[w]hat is the amount of the invoice I should make'."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-12-27",
+          "Text": "On 27 December 2013, the Plaintiff transferred a total of US$3.25m to TY Global based on invoices for 'Upfront brokerage commission payable on Rig Somnath' and 'Advisory and Financial consulting for acquisition of Rig Somnath'."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-12-27",
+          "Text": "On 27 December 2013, the Plaintiff transferred US$1.28m to Treatmil under the Defendant's directions."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2013-12-20",
+          "Text": "The Treatmil Payment was allegedly a partial repayment of the AMS Loan pursuant to a tripartite agreement between AMS SG, Treatmil and the Plaintiff dated 20 December 2013."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-12-20",
+          "Text": "A payment schedule attached to the Tripartite Agreement recorded that the US$3m owed under the AMS Loan had been reduced to US$1.72m; one version was unsigned and the other bore the signature of Alfred Schwegler, the director of AMS SG at the material time, in the bottom right-hand corner."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-12-30",
+          "Text": "On 30 December 2013, TY Global transferred US$2.25m to AT Offshore LLC."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-01-03",
+          "Text": "On 3 January 2014, AT Offshore transferred US$2m to Rocky Point, an entity wholly and ultimately controlled and owned by the Defendant."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-12-31",
+          "Text": "Prior to receiving the inward transfers from TY Global, as at 31 December 2013, Rocky Point's bank account only contained US$1,919.22."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-04-21",
+          "Text": "In April 2014, Symphony chanced upon a news article stating that the Somnath was no longer available for purchase and emailed the Defendant on 21 April 2014 seeking clarification of the article."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-04-21",
+          "Text": "On 21 April 2014, the Defendant insisted that the Plaintiff still had the rights to purchase the Somnath."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-06-04",
+          "Text": "On 4 June 2014, Symphony verbally requested particulars of how the first tranche of US$6m had been utilised, and the Defendant provided a breakdown of items on the same day but no supporting documents."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-06-06",
+          "Text": "On 6 June 2014, Symphony's solicitors requested that the Defendant provide all correspondence between the Plaintiff and GOL Offshore that reflected the present status of the Plaintiff's right to purchase the Somnath."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-04-28",
+          "Text": "In a letter dated 28 April 2014, GOL Offshore amended the quantum of the First Deposit to US$7.5m."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-06-16",
+          "Text": "A letter dated 16 June 2014 from GOL Offshore stated that the Plaintiff had defaulted in making the deposit to GOL Offshore."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-06-17",
+          "Text": "On 17 June 2014, the Defendant sent Symphony an email enclosing the letter from GOL Offshore dated 16 June 2014 stating that the Plaintiff had defaulted in making the deposit."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-06-18",
+          "Text": "On 18 June 2014, Symphony requested all correspondence between the Plaintiff and GOL Offshore relating to the default in making the deposit and the Plaintiff's right to purchase the Somnath."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-06-19",
+          "Text": "On 19 June 2014, the Defendant provided Symphony with various letters exchanged between the Plaintiff and GOL Offshore."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-06-20",
+          "Text": "On 20 June 2014, the Defendant confirmed in a telephone call with Symphony's representative that the Plaintiff had received compensation of US$1.5m from GOL Offshore for the latter having sold the Somnath to a third party."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-06-20",
+          "Text": "In Mr Subramaniam's email to the Defendant on 20 June 2014, he pointed out that a side letter dated 11 December 2013 entered into between the Plaintiff and GOL Offshore had never been produced to Symphony and requested a copy."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-12-11",
+          "Text": "A side letter dated 11 December 2013 between the Plaintiff and GOL Offshore was referred to in correspondence concerning the Somnath transaction."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-12-11",
+          "Text": "Clause 2.4 of the Supplemental Agreement stated that if the transaction could not be completed as per the Second MOA, the Seller would pay the Buyer a commission equivalent to US$1,500,000, payable only upon the sale of the Somnath to a third party."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-07-09",
+          "Text": "AMS SG's proof of debt dated 9 July 2015 stated that the Plaintiff still owed AMS SG the full amount of the AMS Loan plus interest, amounting to US$3,318,575.34."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-07-02",
+          "Text": "On 2 July 2014, Symphony served a Notice of Default and Acceleration on the Plaintiff and Treatmil stating that, inter alia, the non-disclosure of correspondence between the Plaintiff and GOL Offshore constituted an event of default."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-08-01",
+          "Text": "On 1 August 2014, the Plaintiff entered into a settlement agreement with Symphony and Treatmil providing for, inter alia, repayment of the first tranche of the Symphony Loan by 26 December 2014."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "The Plaintiff recorded no revenue for the financial year ending in 2013."
+        }
+      ],
+      "Issue": "Whether the conduct of Traxiar Drilling Partners II Pte Ltd's sole director in directing and authorising payments and loans to related entities and third parties, using funds borrowed for the Somnath rig acquisition, resulted in financial outcomes adverse to the company and its creditors.",
+      "Rule": "Directors are generally manage company assets and borrowed funds in a manner consistent with the company's commercial objectives and to consider the financial position of the company and the interests of creditors when the company has significant liabilities and limited capital.",
+      "Application": "Traxiar Drilling Partners II Pte Ltd was incorporated with minimal paid-up capital and used a bank account of Dag Dvergsten Pte Ltd for its transactions. It entered into agreements to purchase the Somnath rig and obtained loans totaling USD 18,000,000 from Atlantic Marine Services Singapore Pte Ltd and Symphony Ventures Pte Ltd, with the Symphony loan expressly linked to funding the first deposit and related expenses. Within days of receiving the first USD 6,000,000 tranche from Symphony, Traxiar Drilling Partners II Pte Ltd, through the Dag Dvergsten Pte Ltd account, made substantial payments to TY Global LLC and to a Dag Dvergsten AS account for Treatmil Holdings Limited, and entered into or relied on management and service agreements with Dag Dvergsten AS and Dag Dvergsten Pte Ltd that generated significant fee and loan flows to those entities. The company did not operate its own bank account, had no recorded revenue for 2013, and its obligations under the Somnath purchase agreements and loan agreements remained while funds were transferred to related and third-party entities. Correspondence in 2014 shows that Symphony Ventures Pte Ltd sought details of the use of its loan funds and information about the status of the Somnath transaction after learning that the rig had been sold to a third party, and that Traxiar Drilling Partners II Pte Ltd had received USD 1,500,000 from GOL Offshore Fujairah LLC FZE under the Supplemental Agreement.",
+      "Judicial_Reasoning_Log": "The court analysed the director's duties under section 157(1) of the Companies Act and the common law duty to act bona fide in the interests of the company, applying the objective test from Intraco and Ho Kang Peng. It concluded that an honest and intelligent director could not reasonably have regarded the four sets of transactions (payments to Dag Dvergsten AS, the loan and service arrangements with Dag Dvergsten Pte Ltd, the payments to TY Global LLC, and the payment described as to Treatmil Holdings Limited) as being in the interests of Traxiar Drilling Partners II Pte Ltd. The court found that there was no adequate documentary support for the management fees to Dag Dvergsten AS and that the 2013 fee covered work largely related to an earlier memorandum of agreement to which the plaintiff was not a party. It inferred that the 2015 management fee had in fact been paid based on the defendant's own accounting of the USD 10.5 million inflows and outflows. Regarding the Dag Dvergsten Pte Ltd loan and business services agreement, the court held that the novation arrangement conferred disproportionate benefit on Dag Dvergsten Pte Ltd without clear benefit to the plaintiff, and noted the defendant's own admission that the loan terms were not advantageous to the company. The court found that the loan balance had been reduced by set-offs inconsistent with the timing of the plaintiff's winding up, undermining the credibility of the asserted service performance. For the TY Global LLC payments, the court held that the director had departed from industry practice by paying a large brokerage commission and advisory fee upfront from buyer funds when the Somnath purchase was not secured and when the brokers were already engaged by the seller. The court rejected the alleged oral reinvestment arrangement as unsupported by contemporaneous documents and inconsistent with the subsequent flow of USD 2,000,000 to Rocky Point International LLC and its use to pay Rocky Point's outstanding obligations. For the Treatmil payment, the court preferred the evidence of the past and present directors of Atlantic Marine Services Singapore Pte Ltd that they were unaware of the tripartite agreement and payment schedule, and noted that the schedule bore a digital version of Alfred Schwegler's initials without his consent. The court concluded that the plaintiff did not obtain a corresponding reduction of its loan liability to Atlantic Marine Services Singapore Pte Ltd. On the duty to consider creditors' interests, the court held that by 2013-12-27 the company was in a parlous financial position: it had nominal capital, no revenue, and substantial loan liabilities, while significant sums had been transferred out to related and third-party entities. It applied the approach in Progen Engineering, Dynasty, and Parakou Shipping to find that the director was required to take creditors' interests into account and had not done so, particularly in relation to Symphony Ventures Pte Ltd and Atlantic Marine Services Singapore Pte Ltd. On conflicts, the court held that the director had placed himself in positions of conflict and engaged in self-dealing by signing and implementing agreements on behalf of both the plaintiff and related entities (Dag Dvergsten AS, Dag Dvergsten Pte Ltd, Treatmil Holdings Limited) and by directing funds to Rocky Point International LLC. It held that disclosure under section 156 of the Companies Act did not displace the general law no-conflict and self-dealing rules and that there was no effective ratification by fully informed shareholders, as Treatmil Holdings Limited's board minutes predated its acquisition of a majority shareholding and did not reflect full disclosure of the material facts of the four transactions. The court therefore held that the liquidators had established breaches of directors' duties but that the evidential threshold for fraudulent trading under section 340(1) of the Companies Act was not met, and it assessed losses by reference to the amounts transferred under the four impugned transaction categories."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 975 of 2015",
+      "Coram": "Aedit Abdullah J",
+      "Judge": "Aedit Abdullah",
+      "Date": "2018-01-23",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Dag Oivind Dvergsten",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2013-04-12",
+          "Text": "Dag Oivind Dvergsten incorporated Traxiar Drilling Partners II Pte Ltd in Singapore as a special purpose vehicle on 12 April 2013."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-01-01",
+          "Text": "Dag Oivind Dvergsten was a director and sole shareholder of Dag Dvergsten AS, a Norwegian company."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-01-01",
+          "Text": "Dag Oivind Dvergsten was a director of Dag Dvergsten Pte Ltd, a Singapore-incorporated company."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-01-01",
+          "Text": "Dag Oivind Dvergsten was a director of Treatmil Holdings Limited."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2013-01-01",
+          "Text": "Dag Dvergsten AS owned 36.5% of the shares in Treatmil Holdings Limited."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2013-01-01",
+          "Text": "Rocky Point International LLC was wholly and ultimately controlled and owned by Dag Oivind Dvergsten."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-12",
+          "Text": "The plaintiff did not open or operate any bank accounts in its own name from the time of its incorporation, and the defendant utilised DDPTE's pre-existing DBS bank account to receive funds and make payments in connection with the plaintiff's affairs."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-09-30",
+          "Text": "On 30 September 2013, a loan for US$3m was obtained from AMS SG."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-12-11",
+          "Text": "The plaintiff entered into a Memorandum of Agreement and a Supplemental Agreement with GOL Offshore on 11 December 2013 for the purchase of the Somnath."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-12-23",
+          "Text": "On 23 December 2013, the plaintiff obtained a bridging loan of US$15m from Symphony."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-12-24",
+          "Text": "On 24 December 2013, the defendant emailed Symphony stating that DBS bank could not process the new account in time and that the monies should be sent to DDPTE's Bank Account; he also asked that the monies be remitted in the morning so that processing for the rig could begin."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-12-01",
+          "Text": "On 1 December 2013, the plaintiff entered into an agreement with DDAS for the provision of high level business services supporting the plaintiff and in particular related to the acquisitions of rig Somnath and the financing of such assets and support services."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-12-01",
+          "Text": "In connection with the services allegedly provided by DDAS in 2013, 2014 and 2015, the plaintiff made payments to DDAS in the amounts of US$830,800, US$750,000 and US$300,000 respectively, totaling US$1,880,800."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-12-01",
+          "Text": "It appeared that in 2014 and 2015, the plaintiff entered into further similar agreements with DDAS."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-12-01",
+          "Text": "There were two documents which allegedly recorded the DDPTE Loan: one stated that the loan agreement was entered into on 1 December 2013, while the other stated that the loan agreement was entered into on 1 November 2014. Both documents stated that the loan carried an interest rate of 4% per annum and was due for repayment only on 31 December 2023."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-11-14",
+          "Text": "The Novation Agreement dated 14 November 2014 provided for the DDPTE Loan in exchange for the novation of First Marine's rights under an agreement entered into with PT Harmoni to the plaintiff, and stated that work provided by DDPTE and invoiced as management services and outlays would be offset against the loan."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-11-14",
+          "Text": "The Business Services Agreement dated 14 November 2014 provided that the plaintiff was to pay US$50,000 per month to DDPTE as management fees."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-12-15",
+          "Text": "On 15 December 2013, the defendant instructed Abraham Thomas to send invoices to the plaintiff's address, and Abraham replied asking what amount he should invoice."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-12-27",
+          "Text": "On 27 December 2013, the plaintiff transferred a total of US$3.25m to TY Global based on invoices for 'Upfront brokerage commission payable on Rig Somnath' and 'Advisory and Financial consulting for acquisition of Rig Somnath'."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-12-27",
+          "Text": "On 27 December 2013, the plaintiff transferred US$1.28m to Treatmil under the defendant's directions."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-12-20",
+          "Text": "The Tripartite Agreement was dated 20 December 2013 and was said to be a tripartite agreement between AMS SG, Treatmil and the plaintiff; it was not signed by AMS SG."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-04-21",
+          "Text": "On 21 April 2014, Symphony emailed the defendant seeking clarification about a news article stating that the Somnath was no longer available for purchase, and the defendant insisted that the plaintiff still had the rights to purchase the Somnath."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-06-04",
+          "Text": "On 4 June 2014, Symphony verbally requested that the defendant provide particulars as to how the first tranche of US$6m had been utilised, and the defendant provided a breakdown of items on the same day but did not provide supporting documents."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-06-17",
+          "Text": "On 17 June 2014, the defendant emailed Symphony enclosing a letter from GOL Offshore dated 16 June 2014 stating that the plaintiff had defaulted in making the deposit to GOL Offshore."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-06-20",
+          "Text": "On 20 June 2014, the defendant confirmed in a telephone call with Symphony's representative that the plaintiff had received compensation of US$1.5m from GOL Offshore for the latter having sold the Somnath to a third party."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-06-20",
+          "Text": "On 20 June 2014, Symphony's representative emailed the defendant pointing out that a side letter dated 11 December 2013 between the plaintiff and GOL Offshore had never been produced to Symphony and requested a copy; the defendant did not respond."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-04-12",
+          "Text": "The defendant argued that he had on 12 April 2013 disclosed his interests in DDAS, DDPTE, Treatmil and Rocky Point to the plaintiff's board of directors."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-12-03",
+          "Text": "On 3 December 2013, Treatmil's board met to approve Treatmil's subscription to a 51% share in the plaintiff."
+        }
+      ],
+      "Issue": "Whether the pre-dispute conduct of Dag Oivind Dvergsten in structuring and directing the use of Traxiar Drilling Partners II Pte Ltd's borrowed funds, including payments and loans to entities he controlled or was associated with, corresponded with the eventual judicial determination of his responsibility for the financial consequences to the company and its creditors.",
+      "Rule": "A director who controls the financial decisions of a company is generally assessed against standards requiring that company funds, especially borrowed funds, be applied consistently with the stated purposes of the borrowing and with regard to the company's financial position and the interests of creditors when the company has substantial liabilities and limited capital.",
+      "Application": "Dag Oivind Dvergsten incorporated Traxiar Drilling Partners II Pte Ltd as a special purpose vehicle and served as its sole director from 2013-12-20. He also controlled or held key roles in Dag Dvergsten AS, Dag Dvergsten Pte Ltd, Treatmil Holdings Limited, and Rocky Point International LLC. Traxiar Drilling Partners II Pte Ltd obtained a USD 3,000,000 loan from Atlantic Marine Services Singapore Pte Ltd and a USD 15,000,000 bridging loan from Symphony Ventures Pte Ltd, with the Symphony loan expressly linked to funding the first deposit for the Somnath rig and related expenses. Instead of opening a bank account in the company's name, he used a Dag Dvergsten Pte Ltd DBS account for all inflows and outflows. Within days of receiving the first USD 6,000,000 tranche from Symphony, he directed or authorised transfers totaling USD 3,250,000 to TY Global LLC and USD 1,280,000 to a Dag Dvergsten AS account for Treatmil Holdings Limited, and he had already put in place or later documented management and service agreements under which Traxiar Drilling Partners II Pte Ltd paid or was recorded as owing substantial fees to Dag Dvergsten AS and Dag Dvergsten Pte Ltd. Funds sent to TY Global LLC were largely passed through to AT Offshore LLC and then to Rocky Point International LLC, which he owned and controlled, and were used to pay Rocky Point International LLC's outstanding obligations. He also signed a tripartite agreement and payment schedule describing the USD 1,280,000 payment as a partial repayment of the Atlantic Marine Services Singapore Pte Ltd loan, while later correspondence from Atlantic Marine Services Singapore Pte Ltd's directors indicated that they were unaware of this arrangement. In 2014, when Symphony Ventures Pte Ltd learned that the Somnath rig had been sold to a third party, it sought details of the use of its loan funds and the status of the transaction, and Dag Oivind Dvergsten provided a breakdown without supporting documents and confirmed receipt of USD 1,500,000 from GOL Offshore Fujairah LLC FZE. These pre-dispute actions formed the factual basis for the court's later assessment of his responsibility for the company's inability to meet its obligations and for the loss of funds applied to related and third-party entities.",
+      "Judicial_Reasoning_Log": "The court examined Dag Oivind Dvergsten's role as sole director and his control over related entities, and applied the objective standard for directors' duties under section 157(1) of the Companies Act and the common law. It found that he had caused Traxiar Drilling Partners II Pte Ltd to enter into and implement four categories of transactions that were not in the company's interests: management fee payments to Dag Dvergsten AS, the USD 1,700,000 loan and associated business services agreement with Dag Dvergsten Pte Ltd, the USD 3,250,000 payments to TY Global LLC, and the USD 1,280,000 payment described as to Treatmil Holdings Limited. The court held that there was no adequate evidence of services justifying the management fees to Dag Dvergsten AS and that the 2013 fee related largely to work on an earlier memorandum of agreement to which the plaintiff was not a party. It concluded that the 2015 management fee had effectively been paid based on the defendant's own accounting of the USD 10.5 million inflows and outflows. Regarding the Dag Dvergsten Pte Ltd loan and business services agreement, the court held that the novation arrangement conferred disproportionate benefit on Dag Dvergsten Pte Ltd without clear benefit to the plaintiff, and noted the defendant's admission that the loan terms were not advantageous to the company. It found that the loan balance had been reduced by set-offs inconsistent with the timing of the plaintiff's winding up, undermining the credibility of the asserted service performance. For the TY Global LLC payments, the court held that the defendant had departed from industry practice by paying a large brokerage commission and advisory fee upfront from buyer funds when the Somnath purchase was not secured and when the brokers were already engaged by the seller. The court rejected the alleged oral reinvestment arrangement as unsupported by contemporaneous documents and inconsistent with the subsequent flow of USD 2,000,000 to Rocky Point International LLC and its use to pay Rocky Point International LLC's outstanding obligations. For the Treatmil payment, the court preferred the evidence of the past and present directors of Atlantic Marine Services Singapore Pte Ltd that they were unaware of the tripartite agreement and payment schedule, and noted that the schedule bore a digital version of Alfred Schwegler's initials without his consent. The court concluded that the plaintiff did not obtain a corresponding reduction of its loan liability to Atlantic Marine Services Singapore Pte Ltd. On the duty to consider creditors' interests, the court held that by 2013-12-27 the company was in a parlous financial position and that the defendant was required to take creditors' interests into account but instead directed substantial funds to related and third-party entities, including his own companies, rather than applying them to the Somnath acquisition or to repayment of loans. On conflicts, the court held that he had placed himself in positions of conflict and engaged in self-dealing by signing and implementing agreements on behalf of both the plaintiff and related entities and by directing funds to Rocky Point International LLC. It held that disclosure under section 156 of the Companies Act did not displace the general law no-conflict and self-dealing rules and that there was no effective ratification by fully informed shareholders. The court therefore held him liable for breaches of directors' duties and ordered him to account for losses associated with the four categories of transactions, while declining to find that the standard for fraudulent trading under section 340(1) of the Companies Act had been met."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  }
+]

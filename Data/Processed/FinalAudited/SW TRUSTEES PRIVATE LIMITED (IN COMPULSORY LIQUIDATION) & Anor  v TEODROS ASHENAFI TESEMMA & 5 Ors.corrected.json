@@ -1,0 +1,332 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 229 of 2021",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair",
+      "Date": "2024-12-16",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "SW Trustees Pte Ltd",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2003-10-31",
+          "Text": "The Trust Deed dated 31 October 2003 states that a trust known as SWDT was created and that SWT was the trustee of that trust, while Mr Ashenafi appeared to be the principal beneficiary."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2013-12-31",
+          "Text": "From the financial year ended 2013 onwards, SW Trustees Pte Ltd’s audited financial statements recorded that it owned shares in Southwest Energy (BVI) Ltd as an asset of the company."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2010-12-31",
+          "Text": "From the financial year ended 2010 onwards through 2016, SW Trustees Pte Ltd’s audited and unaudited financial statements recorded that it owned shares in Ambo International Holdings Ltd as an asset of the company."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011-12-27",
+          "Text": "On or around 27 December 2011, SWT's board unanimously consented to SWT entering into a facility agreement with a bank for a loan of US$3.8m, pursuant to which SWT would pledge its legal and beneficial interests in its shares of SWE (BVI) as security."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-01-16",
+          "Text": "On or around 16 January 2012, SWT granted an equitable mortgage in favour of a bank over its shares in SWE (BVI), with cl 4.6(a) stating that SWT shall not permit any trust over the mortgaged shares without the bank's written consent."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-06-01",
+          "Text": "Sometime in or around mid-2012, Mr Ashenafi instructed Mr Cheng that the Disposed AIHL Shares should be under SWT, and not under SWDT, and that SWDT was no longer applicable."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-11-07",
+          "Text": "On 7 November 2014, the SGI Creditors and Mr Schulze entered a share purchase agreement with SWT to sell their shareholding in SWE (BVI) for US$3,149,882.28, with payment due on 7 February 2015, although this could be postponed by up to 30 days."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-02-07",
+          "Text": "However, the purchase price remained unpaid."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-05-27",
+          "Text": "On 27 May 2015, PPESA notified SABMiller Group that it wished to sell its 33% stake in Ambo Min for an amount in ETB equivalent to US$19,782,807."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-06-19",
+          "Text": "On 19 June 2015, SABMiller Group, through its subsidiary AIHL, confirmed its interest for AIHL to acquire PPESA's 33% minority stake in Ambo Min at the proposed price."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-07-15",
+          "Text": "According to an investment memorandum dated 15 July 2016 prepared by SABMiller Group, the sale did not take place before the completion of Project Savannah because of a number of factors, including a restructuring of Ethiopian Government ministries which resulted in the transfer of responsibility for the investment in Ambo Min from PPESA to MoPE."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-07-02",
+          "Text": "On 2 July 2016, Project Savannah was completed."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-07-02",
+          "Text": "At and around the closing of Project Savannah, SABMiller Group transferred its 75% shareholding in AIHL to CCBA while GFI and TCCC transferred their shareholdings in CCSEA to CCBA. As part of an internal restructuring, CCBA then transferred its 75% shareholding in AIHL to CCSEA."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-07-02",
+          "Text": "At and around the closing of Project Savannah, TCCC contributed its 20% shareholding in CCSEA and GFI contributed its 80% shareholding in CCSEA to CCBA."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-12-14",
+          "Text": "On or around 14 December 2016, CCSEA injected equity into AIHL in exchange for an allotment of new shares, resulting in SWT's shareholding in AIHL being diluted to 16.75% and CCSEA's shareholding increasing to 83.25%."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-12-15",
+          "Text": "On 15 December 2016, AIHL and MoPE signed a contract of sale for AIHL to purchase MoPE's 33% stake in Ambo Min for US$19,782,807."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-12-20",
+          "Text": "AIHL successfully completed its purchase of MoPE's 33% stake in Ambo Min in or around December 2016 pursuant to a contract of sale dated 15 December 2016 between itself and MoPE."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-12-31",
+          "Text": "At and around 2014, AIHL was a holding company with no operations of its own and its main asset was a 67% shareholding in Ambo Min. By 2017, SWT held a 16.75% minority stake in AIHL."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-03-23",
+          "Text": "On or around 31 March 2017, CCSEA purchased SWT's 16.75% minority stake in AIHL for US$10,796,784 pursuant to a Share Purchase Agreement dated 23 March 2017, as amended by an addendum dated 31 March 2017."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-03-28",
+          "Text": "On 28 March 2017, CCSEA transferred US$4,375,000 to a bank account with SBM in the name of SWT, and on 29 March 2017 SBM confirmed that SWT's indebtedness to it under a term loan facility was fully and finally discharged."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-03-29",
+          "Text": "On 29 March 2017, the SGI Creditors, SWT, Mr Ashenafi and Mr Schulze entered a settlement agreement under which, inter alia, SWT was to pay to the SGI Creditors and Mr Schulze the purchase price for the SWE (BVI) shares as agreed in the share purchase agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-04-01",
+          "Text": "On 1 April 2017, CCSEA transferred US$4,543,759 to a bank account with HSBC in the name of Wealth Direct, US$755,511 to a bank account with HSBC in the name of Long River, and US$43,047 to AIHL to discharge a debt owed by SWT to AIHL. CCSEA also assumed liabilities of US$1,079,467 owed by SWD to Ambo Min."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-04-28",
+          "Text": "On 28 April 2017, SWT transferred 39,957 of its shares in SWE (the Disposed SWE Shares) to Sino Africa by an instrument of transfer signed by Mr Ashenafi, with the transfer instrument bearing Mr Ashenafi's signatures on behalf of both the transferor and transferee and witnessed by Mr Cheng, and stating the transfer to be by SWT on behalf of SWDT."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-04-28",
+          "Text": "SWT received no consideration for this transfer."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-07-21",
+          "Text": "A final award was issued on 21 July 2017, wherein the tribunal ordered SWT to pay the SGI Creditors the agreed sale price of US$3,149,882.28 and interest."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-10-09",
+          "Text": "On 9 October 2017, the SGI Creditors applied for leave to enforce the Final Award against SWT in Singapore vide HC/OS 1137/2017."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2018-02-27",
+          "Text": "On 27 February 2018, Mr Ashenafi transferred his shareholding in SWT to Satomi, a company incorporated in Seychelles, for a consideration of S$1, by way of an instrument of share transfer signed by Mr Ashenafi and Dr Ressos, in his capacity as a director of Satomi."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-02-15",
+          "Text": "On or around 15 February 2018, Mr Ashenafi asked Dr Ressos how assets could be added to a trust after it was formed, to which Dr Ressos explained that this would be by way of letters of addition. Mr Ashenafi then requested and obtained Dr Ressos' advice that assets held on trust by a company would not be available to a liquidator for distribution if the company went into liquidation, and requested a template letter of addition, which Dr Ressos provided to Mr Cheng."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2018-07-03",
+          "Text": "On 3 July 2018, the SGI Creditors applied to wind up SWT vide HC/CWU 137/2018."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-08-13",
+          "Text": "The unaudited financial statements for the financial year ended 2017 were signed off by Dr Ressos on 13 August 2018, after the AIHL Sale was completed and the SWE Share Transfer was performed."
+        }
+      ],
+      "Issue": "Whether the pre-liquidation transfers of SW Trustees Pte Ltd’s shares in Ambo International Holdings Ltd and Southwest Energy (BVI) Ltd, and the directions for payment of the related share sale consideration, resulted in the company receiving consideration significantly less than the value of the assets transferred, thereby reducing the pool of assets available to satisfy creditor claims.",
+      "Rule": "A corporate transaction entered into within the statutory look-back period before winding up is treated as a transaction at an undervalue if the company transfers an asset for no consideration or for consideration whose value in money or money’s worth is significantly less than the value in money or money’s worth of the asset provided by the company, and the company was unable to pay its debts at the time of the transaction or became unable to pay its debts as a result of the transaction.",
+      "Application": "SW Trustees Pte Ltd transferred 39,957 of its 44,111 shares in Southwest Energy (BVI) Ltd to Sino Africa Trading Ltd on 2017-04-28 without receiving monetary consideration, at a time when its financial statements recorded a multi-million US dollar carrying value for its Southwest Energy (BVI) Ltd shareholding and when it faced an unpaid multi-million US dollar liability to the SGI creditors arising from the 2014 share purchase agreement and the 2017 arbitral award. The company also agreed on 2017-03-23 to sell its 16.75% stake in Ambo International Holdings Ltd to Coca-Cola Sabco (East Africa) Ltd for US$10,796,784, with the consideration structured so that part was used to discharge a bank loan of SW Trustees Pte Ltd and part was paid to entities Wealth Direct Ltd and Long River Holdings (HK) Ltd and to Ambo International Holdings Ltd, and a liability of Southwest Development plc to Ambo Mineral Water Share Company was assumed. These events occurred within three years before the winding-up order of 2019-06-21 and during a period when SW Trustees Pte Ltd had not paid the contractual purchase price owed to the SGI creditors and was enforcement steps on the arbitral award debt.",
+      "Judicial_Reasoning_Log": "The court analysed whether the Ambo International Holdings Ltd share sale and the Southwest Energy (BVI) Ltd share transfer were transactions at an undervalue under section 224 of the Insolvency, Restructuring and Dissolution Act 2018. It first rejected the contention by Teodros Ashenafi and Sino Africa Trading Ltd that the disposed Ambo International Holdings Ltd shares and Southwest Energy (BVI) Ltd shares were held on trust for Ashenafi or SW Development Trust. The judge placed weight on SW Trustees Pte Ltd’s audited financial statements from 2010 onwards, which consistently recorded the Ambo International Holdings Ltd and Southwest Energy (BVI) Ltd shares as assets of SW Trustees Pte Ltd, on the 2011 board resolution and 2012 equitable mortgage treating the Southwest Energy (BVI) Ltd shares as beneficially owned by SW Trustees Pte Ltd, and on the warranty in the 2017 Share Purchase Agreement that SW Trustees Pte Ltd was the legal and beneficial owner of the Ambo International Holdings Ltd shares. The court found that the letters of addition relied on to show a trust over the Ambo International Holdings Ltd shares were created using templates only developed years later, surfaced only after enforcement steps on the arbitral award, and were not supported by testimony from their purported author, and therefore were given no weight. The court concluded that by mid-2012 Ashenafi had instructed that the Ambo International Holdings Ltd shares be held under SW Trustees Pte Ltd rather than under the trust, and that both the Ambo International Holdings Ltd and Southwest Energy (BVI) Ltd shares were beneficially owned by SW Trustees Pte Ltd at the time of their disposal.\n\nOn the Southwest Energy (BVI) Ltd transfer, the judge noted that SW Trustees Pte Ltd transferred 39,957 shares to Sino Africa Trading Ltd on 2017-04-28 without receiving consideration, while its 2013 and later financial statements carried the Southwest Energy (BVI) Ltd investment at approximately US$5.58 million, implying a value of about US$5.06 million for the transferred block. Given the absence of consideration and the recorded value, the court held that this was a transaction at an undervalue. Because Ashenafi was a director of SW Trustees Pte Ltd and Sino Africa Trading Ltd was wholly owned or controlled by him, the statutory presumption under section 226(3) IRDA that the company was unable to pay its debts or became unable to pay its debts in consequence of the transaction applied and was not rebutted. Independently, the court found that SW Trustees Pte Ltd was unable to pay its debts at the time, in light of the unpaid US$3.15 million purchase price owed to the SGI creditors, the arbitral award of 2017-07-21, the enforcement order of 2017-10-10, the unsuccessful set-aside application, and the subsequent statutory demand and winding-up application.\n\nOn the Ambo International Holdings Ltd share sale, the court examined the plaintiffs’ pleaded theory that the sale was undervalued because the earlier Ethiopian government sale of a 33% stake in Ambo Mineral Water Share Company was itself at an undervalue due to an alleged adjustment to Ambo International Holdings Ltd’s 2015 accounts. The judge found no evidence that the Ethiopian government price of US$19,782,807 for 33% of Ambo Mineral Water Share Company was based on Ambo International Holdings Ltd’s accounts or that it was below market value. The price had been proposed by the Ethiopian authority and accepted by SABMiller Group, and later reaffirmed after Project Savannah despite a deterioration in Ambo Mineral Water Share Company’s performance. The alleged accounting adjustment in Ambo International Holdings Ltd’s 2015 financial statements was independently audited and not shown to be improper or to have influenced the Ethiopian government price. The court therefore rejected the pleaded linkage between the Ambo Mineral Water Share Company sale and the valuation of the Ambo International Holdings Ltd shares.\n\nThe court then considered expert valuation evidence on the value of the Ambo International Holdings Ltd shares as at 2017-03-23. The plaintiffs’ expert, Ong, used an equitable value basis and a prior transaction method anchored on the Ethiopian government sale, and concluded that the 16.75% stake was worth about US$15.1–16.0 million. The defendant’s expert, Ooi, used a market value basis and an income approach via discounted cash flow, supplemented by a guideline public company method, and concluded that the 16.75% stake was worth about US$1.1–1.9 million. The judge held that the correct basis under section 224(3)(b) IRDA is market value, not equitable value, because the statute requires comparing the value of the consideration received by the company with the value of the asset it provided, from the company’s perspective, and is aimed at protecting the general body of creditors by reference to what the asset could fetch in the market. The court relied on authorities including Rothstar Group Ltd v Leow Quek Shiong, Goode on Principles of Corporate Insolvency Law, and English cases on undervalue transactions, and rejected Ong’s view that the identity of Coca-Cola Sabco (East Africa) Ltd as purchaser justified using equitable value. The judge noted that equitable value would improperly tie the analysis to the purchaser’s special advantages and could lead to inconsistent and uncertain outcomes.\n\nThe court also found that the prior transaction method was not a reliable basis in this case because there was no evidence how the Ethiopian government price for the 33% stake in Ambo Mineral Water Share Company was determined, the transaction involved a sovereign seller in a specific policy and merger context, and it was not shown to be representative of what a willing, unconnected buyer would pay in an arm’s length transaction. The judge concluded that Ong’s valuation, being based on an incorrect basis of value and an unsuitable comparator transaction, could not be accepted. The court preferred Ooi’s use of discounted cash flow and guideline public company data, subject to appropriate discounts for lack of control and marketability, to estimate the market value of Ambo Mineral Water Share Company and, by extension, Ambo International Holdings Ltd and the 16.75% stake. On that analysis, the court held that the US$10,796,784 consideration paid by Coca-Cola Sabco (East Africa) Ltd was not significantly less than the market value of the 16.75% stake, and in fact exceeded Ooi’s valuation range. The court therefore found that the Ambo International Holdings Ltd share sale was not a transaction at an undervalue under section 224 IRDA.\n\nRegarding the structure of the consideration, the court recorded that Coca-Cola Sabco (East Africa) Ltd paid US$4,375,000 to SW Trustees Pte Ltd’s bank account at Standard Bank (Mauritius) Ltd, resulting in discharge of a loan, paid US$43,047 to Ambo International Holdings Ltd to clear a debt owed by SW Trustees Pte Ltd, paid US$4,543,759 to Wealth Direct Ltd and US$755,511 to Long River Holdings (HK) Ltd, and assumed a US$1,079,467 liability of Southwest Development plc to Ambo Mineral Water Share Company. The plaintiffs argued that the payments to Wealth Direct Ltd and Long River Holdings (HK) Ltd were diversions of the share sale consideration, but they did not plead that Coca-Cola Sabco (East Africa) Ltd was responsible for those diversions, and the court accepted that Coca-Cola Sabco (East Africa) Ltd followed payment instructions given through SW Trustees Pte Ltd’s advisers in a manner consistent with usual commercial practice. The court treated the payments and assumption of liability as part of the value provided by Coca-Cola Sabco (East Africa) Ltd for the shares and did not characterise the share sale itself as an undervalue transaction.\n\nOn insolvency, the court considered the timing of the arbitration, the 2017 final award, the enforcement order, the unsuccessful set-aside application, the 2018 statutory demand, and the 2018 winding-up application. It concluded that SW Trustees Pte Ltd was unable to pay its debts within the meaning of section 125(2) IRDA by the time of the Southwest Energy (BVI) Ltd share transfer and that the statutory presumption of insolvency for connected-party transactions applied. The court then addressed remedies under sections 224 and 227 IRDA and considered the appropriate relief to restore the position that would have existed had the Southwest Energy (BVI) Ltd share transfer not occurred, as well as separate claims in conspiracy and for director conduct, which turned on the same factual matrix but involved additional legal analysis beyond the pre-dispute events."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 229 of 2021",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair",
+      "Date": "2024-12-16",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Farooq Ahmad Mann",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2019-06-21",
+          "Text": "On 21 June 2019, Farooq Ahmad Mann was appointed as the liquidator of SW Trustees Pte Ltd upon its winding up."
+        }
+      ],
+      "Issue": "Whether, in his capacity as liquidator of SW Trustees Pte Ltd, he could invoke statutory avoidance provisions to challenge pre-liquidation share transfers and related payment directions as transactions at an undervalue so as to increase recoveries for the company’s creditors.",
+      "Rule": "A liquidator of a wound-up company may apply to set aside or adjust transactions entered into within the statutory look-back period if the company transferred assets for no consideration or for consideration significantly less than the value of the assets, and the company was unable to pay its debts at the time or became unable to pay its debts as a result, with the court empowered to make orders to restore the company’s position for the benefit of creditors.",
+      "Application": "After his appointment on 2019-06-21, Farooq Ahmad Mann reviewed SW Trustees Pte Ltd’s historical financial statements, share registers, banking records and transaction documents, including the 2017 sale of the Ambo International Holdings Ltd shares and the 2017 transfer of Southwest Energy (BVI) Ltd shares to Sino Africa Trading Ltd, and identified that the Southwest Energy (BVI) Ltd transfer occurred without monetary consideration despite a substantial recorded carrying value and during a period when the company had an unpaid multi-million US dollar liability to the SGI creditors, leading him to pursue avoidance relief in this action.",
+      "Judicial_Reasoning_Log": "The court treated Farooq Ahmad Mann as the second plaintiff in his capacity as liquidator of SW Trustees Pte Ltd. It noted that he was appointed by the winding-up order of 21 June 2019 and that his role was to investigate the company’s affairs, identify antecedent transactions capable of challenge under the Insolvency, Restructuring and Dissolution Act 2018, and bring proceedings where appropriate. The judge considered his evidence on the company’s asset position, the historical recording of the Ambo International Holdings Ltd and Southwest Energy (BVI) Ltd shares in the accounts, the structure and flows of the Ambo International Holdings Ltd share sale consideration, and the absence of consideration for the Southwest Energy (BVI) Ltd share transfer. The court accepted his reconstruction of the sequence of events and his identification of the Southwest Energy (BVI) Ltd transfer as a transaction at an undervalue, while subjecting his legal characterisations and valuation assumptions to independent analysis. The judge distinguished between Mann’s factual tracing work, which was largely accepted, and the plaintiffs’ pleaded theory on the Ambo International Holdings Ltd sale, which was rejected in part because it relied on an unproven link between Ambo International Holdings Ltd’s 2015 accounts and the Ethiopian government’s pricing of Ambo Mineral Water Share Company shares. The court ultimately granted relief in respect of the Southwest Energy (BVI) Ltd transfer but not in respect of the Ambo International Holdings Ltd share sale, and considered Mann’s conduct as liquidator separately in an observations section that addressed his use of the avoidance regime and his approach to the litigation."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 229 of 2021",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair",
+      "Date": "2024-12-16",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Teodros Ashenafi Tesemma",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2004-09-01",
+          "Text": "From 1 September 2004, Teodros Ashenafi, an Ethiopian citizen, served as a director of SW Trustees Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-09-01",
+          "Text": "On 1 September 2004, Teodros Ashenafi was appointed as a director of SW Trustees Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2016-05-30",
+          "Text": "From 30 May 2016 to 27 February 2018, Teodros Ashenafi was the sole shareholder of SW Trustees Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2005-01-01",
+          "Text": "From around 2005 to February 2022, Cheng Ka Wai was employed by Teodros Ashenafi in various capacities."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2016-12-14",
+          "Text": "Sino Africa Trading Ltd was a British Virgin Islands company wholly and/or beneficially owned and/or controlled by Teodros Ashenafi."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-02-07",
+          "Text": "On 7 November 2014, SW Trustees Pte Ltd entered into a share purchase agreement with the SGI Creditors and Mr Schulze to acquire their shares in Southwest Energy (BVI) Ltd for US$3,149,882.28."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-03-07",
+          "Text": "By 7 February 2015, the purchase price of US$3,149,882.28 for the SGI Creditors’ shares in Southwest Energy (BVI) Ltd had not been paid by SW Trustees Pte Ltd."
+        }
+      ],
+      "Issue": "Whether Teodros Ashenafi’s management of SW Trustees Pte Ltd’s shareholdings in Ambo International Holdings Ltd and Southwest Energy (BVI) Ltd, and his directions regarding the flow of sale proceeds and intra-group transfers, resulted in the company disposing of assets for no consideration or for consideration significantly below their value during a period when the company faced substantial unpaid obligations to the SGI creditors.",
+      "Rule": "Company officers who control asset disposals before insolvency may have those transactions set aside or adjusted if the company transfers assets for no consideration or for consideration significantly less than the value of the assets, within the statutory look-back period and while the company is unable to pay its debts or becomes unable to pay its debts as a result, particularly where the counterparty is connected to the company and a statutory presumption of insolvency applies.",
+      "Application": "As director and, for a period, sole shareholder of SW Trustees Pte Ltd, Teodros Ashenafi directed the company’s dealings in its Ambo International Holdings Ltd and Southwest Energy (BVI) Ltd shares. He signed the 2017 Share Purchase Agreement selling the 16.75% Ambo International Holdings Ltd stake to Coca-Cola Sabco (East Africa) Ltd and warranted that SW Trustees Pte Ltd was the legal and beneficial owner of those shares, while also arranging for part of the consideration to be paid to entities Wealth Direct Ltd and Long River Holdings (HK) Ltd that he beneficially owned and for a liability of Southwest Development plc, a company he owned, to be assumed. Separately, on 2017-04-28, he signed the instrument transferring 39,957 Southwest Energy (BVI) Ltd shares from SW Trustees Pte Ltd to Sino Africa Trading Ltd, a company he owned or controlled, without monetary consideration, at a time when SW Trustees Pte Ltd’s accounts recorded a substantial carrying value for the Southwest Energy (BVI) Ltd investment and when the company had not paid the US$3.15 million purchase price owed to the SGI creditors and was an arbitral award and enforcement steps. These disposals occurred within three years before the winding-up order and involved a connected counterparty, triggering a statutory presumption that the company was unable to pay its debts or became unable to pay its debts in consequence of the transactions.",
+      "Judicial_Reasoning_Log": "The court considered Teodros Ashenafi’s role as the central decision-maker in SW Trustees Pte Ltd’s affairs during the period leading up to the company’s insolvency. It noted that he was a director from 2004 to 2017 and the sole shareholder from 30 May 2016 to 27 February 2018, and that he controlled Sino Africa Trading Ltd, Wealth Direct Ltd, Long River Holdings (HK) Ltd and Southwest Development plc. The judge found that he managed the acquisition of the SGI creditors’ shares in Southwest Energy (BVI) Ltd in 2014, did not ensure payment of the agreed purchase price by the 2015 due date, and engaged in settlement discussions with the SGI creditors after arbitration commenced in March 2016, culminating in a 29 March 2017 settlement agreement that was not honoured. The court treated these events as background to the company’s financial position and the subsequent asset transfers.\n\nIn relation to the Ambo International Holdings Ltd share sale, the court observed that Ashenafi signed the 23 March 2017 Share Purchase Agreement on behalf of SW Trustees Pte Ltd, warranting that the company was the legal and beneficial owner of the 16.75% stake. The judge accepted that the consideration of US$10,796,784 was structured so that US$4,375,000 was paid to SW Trustees Pte Ltd’s bank account to discharge a loan, US$43,047 was paid to Ambo International Holdings Ltd to clear a debt owed by SW Trustees Pte Ltd, US$4,543,759 and US$755,511 were paid to Wealth Direct Ltd and Long River Holdings (HK) Ltd respectively, and a US$1,079,467 liability of Southwest Development plc to Ambo Mineral Water Share Company was assumed. The court found that Wealth Direct Ltd and Long River Holdings (HK) Ltd were beneficially owned and controlled by Ashenafi and that Southwest Development plc was his company. However, the judge concluded that the share sale itself was not at an undervalue because, on the preferred expert evidence, the market value of the 16.75% stake was not higher than the consideration paid and may have been lower. The court therefore did not treat the Ambo International Holdings Ltd sale as an undervalue transaction under section 224 IRDA, although it recognised that the payment flows benefited entities associated with Ashenafi.\n\nThe court placed particular emphasis on the 28 April 2017 transfer of 39,957 Southwest Energy (BVI) Ltd shares from SW Trustees Pte Ltd to Sino Africa Trading Ltd. It found that Ashenafi signed the transfer instrument on behalf of both transferor and transferee, with Cheng Ka Wai witnessing both signatures, and that the instrument stated that the transfer was by SW Trustees Pte Ltd on behalf of SW Development Trust. The judge accepted that SW Trustees Pte Ltd received no monetary consideration for this transfer, while its financial statements recorded a carrying value of approximately US$5.58 million for its Southwest Energy (BVI) Ltd shareholding, implying a value of about US$5.06 million for the transferred block. The court rejected Ashenafi’s assertion that the shares were held on trust for him or for SW Development Trust, relying on the company’s audited accounts, the 2011 board resolution and 2012 equitable mortgage treating the shares as beneficially owned by SW Trustees Pte Ltd, and the absence of contemporaneous documentation showing a trust over the specific shares transferred. The judge also noted that around mid-2012 Ashenafi had told Cheng that the Ambo International Holdings Ltd shares should be held under SW Trustees Pte Ltd and that the trust structure was no longer applicable, which was inconsistent with his later claim that the shares were trust assets.\n\nThe court considered the letters of addition that Ashenafi later produced, which purported to show that Ambo International Holdings Ltd shares had been added to SW Development Trust between 2008 and 2010. It found that these letters closely resembled templates that director Alexander Ressos only created in 2014 and 2017, that Ashenafi requested a template in February 2018 after enforcement steps on the arbitral award, and that the letters surfaced only after the SGI creditors had obtained an award and begun enforcement. In the absence of testimony from Ashenafi or the settlor and given the timing and form of the documents, the court gave them no weight and concluded that they did not establish a trust over the Ambo International Holdings Ltd or Southwest Energy (BVI) Ltd shares.\n\nApplying section 226(3) IRDA, the judge held that the Southwest Energy (BVI) Ltd transfer was a transaction with a person connected to SW Trustees Pte Ltd, because Sino Africa Trading Ltd was wholly or beneficially owned or controlled by Ashenafi, who was a director of SW Trustees Pte Ltd at the time. The statutory presumption that the company was unable to pay its debts or became unable to pay its debts in consequence of the transaction therefore applied. The court found that the presumption was not rebutted and that, independently, SW Trustees Pte Ltd was unable to pay its debts at the time, given the unpaid US$3.15 million obligation to the SGI creditors, the 2017 arbitral award, the enforcement order, the unsuccessful set-aside application, the 2018 statutory demand, and the subsequent winding-up application. The judge concluded that the Southwest Energy (BVI) Ltd transfer was a transaction at an undervalue and that Ashenafi, as the controlling director and beneficiary of the transferee, was responsible for causing SW Trustees Pte Ltd to enter into that transaction. The court addressed additional claims concerning director conduct and conspiracy, but those involved evaluative findings beyond the pre-dispute factual matrix."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 229 of 2021",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair",
+      "Date": "2024-12-16",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Sino Africa Trading Ltd",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2009-07-01",
+          "Text": "Sino Africa Trading Ltd was a company with its registered address in the British Virgin Islands."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2009-07-01",
+          "Text": "Sino Africa Trading Ltd was wholly and/or beneficially owned and/or controlled by Teodros Ashenafi."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-04-28",
+          "Text": "By an instrument of transfer dated 28 April 2017 signed by Mr Ashenafi, SWT transferred 39,957 of its shares in SWE (the Disposed SWE Shares) to Sino Africa. The transfer instrument bore Mr Ashenafi’s signatures on behalf of both the transferor and transferee, which were both witnessed by Mr Cheng, and stated the transfer to be by SWT on behalf of SW Development Trust."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-04-28",
+          "Text": "SWT received no consideration for this transfer."
+        }
+      ],
+      "Issue": "Whether Sino Africa Trading Ltd’s receipt of 39,957 Southwest Energy (BVI) Ltd shares from SW Trustees Pte Ltd without monetary consideration during the period when SW Trustees Pte Ltd faced an unpaid arbitral award debt to the SGI creditors constituted participation in a transaction at an undervalue affecting the company’s asset pool.",
+      "Rule": "A company that receives assets from an insolvent or soon-to-be insolvent company for no consideration or for consideration significantly less than the value of the assets, within the statutory look-back period and in circumstances where the transferor is unable to pay its debts or becomes unable to pay its debts as a result, may be avoidance orders designed to restore the transferor’s asset position for the benefit of creditors, particularly where the transferee is connected to the transferor’s controller.",
+      "Application": "Sino Africa Trading Ltd, a British Virgin Islands company wholly or beneficially owned and controlled by SW Trustees Pte Ltd’s director and sole shareholder Teodros Ashenafi, was designated as transferee in the 28 April 2017 instrument by which SW Trustees Pte Ltd transferred 39,957 of its 44,111 shares in Southwest Energy (BVI) Ltd. The instrument was signed by Ashenafi on behalf of both transferor and transferee and witnessed by Cheng Ka Wai, and SW Trustees Pte Ltd received no monetary consideration for the transfer, despite its financial statements recording a multi-million US dollar carrying value for its Southwest Energy (BVI) Ltd investment. The transfer occurred within three years before the 21 June 2019 winding-up order and during a period when SW Trustees Pte Ltd had not paid the US$3.15 million purchase price owed to the SGI creditors and was an arbitral award and enforcement steps, and Sino Africa Trading Ltd was connected to the company through Ashenafi’s ownership and control.",
+      "Judicial_Reasoning_Log": "The court examined Sino Africa Trading Ltd’s role as transferee of the Southwest Energy (BVI) Ltd shares. It accepted that Sino Africa Trading Ltd was incorporated in the British Virgin Islands and that it was wholly or beneficially owned and controlled by Teodros Ashenafi. The judge noted that the 28 April 2017 transfer instrument recorded SW Trustees Pte Ltd as transferor and Sino Africa Trading Ltd as transferee of 39,957 Southwest Energy (BVI) Ltd shares, that Ashenafi signed on behalf of both companies, and that Cheng Ka Wai witnessed both signatures. The instrument stated that the transfer was by SW Trustees Pte Ltd on behalf of SW Development Trust, but the court had already found that the shares were beneficially owned by SW Trustees Pte Ltd and not held on trust.\n\nThe court found that SW Trustees Pte Ltd received no monetary consideration from Sino Africa Trading Ltd for the transfer, while its accounts recorded a substantial carrying value for the Southwest Energy (BVI) Ltd investment. The judge held that this satisfied the definition of a transaction at an undervalue under section 224(3)(a) IRDA, as the company entered into a transaction on terms that provided for it to receive no consideration. Because Sino Africa Trading Ltd was connected to SW Trustees Pte Ltd through Ashenafi’s ownership and control, the statutory presumption under section 226(3) IRDA that the company was unable to pay its debts or became unable to pay its debts in consequence of the transaction applied. The court concluded that the presumption was not rebutted and that, in any event, SW Trustees Pte Ltd was unable to pay its debts at the time, given the outstanding obligation to the SGI creditors and the subsequent enforcement and winding-up steps. The judge therefore treated Sino Africa Trading Ltd as the recipient of an undervalue transfer and considered it an appropriate target for relief aimed at restoring SW Trustees Pte Ltd’s asset position, while addressing additional allegations of conspiracy and director conduct separately."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 229 of 2021",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair",
+      "Date": "2024-12-16",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Coca-Cola Sabco (East Africa) Ltd",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "At the material time, Coca-Cola Sabco (East Africa) Ltd held a 75% shareholding in Ambo International Holdings Ltd, while SW Trustees Pte Ltd held the remaining 25%."
+        }
+      ],
+      "Issue": "Whether Coca-Cola Sabco (East Africa) Ltd’s purchase of SW Trustees Pte Ltd’s 16.75% shareholding in Ambo International Holdings Ltd for US$10,796,784, with the consideration structured through payments to SW Trustees Pte Ltd, entities associated with its controller, and assumption of a related-party liability, resulted in SW Trustees Pte Ltd receiving consideration significantly less than the market value of the shares during the statutory look-back period before winding up.",
+      "Rule": "In assessing whether a corporate share sale is a transaction at an undervalue for insolvency avoidance purposes, the court compares the value in money or money’s worth of the consideration received by the company with the market value of the shares it transferred at the transaction date, from the company’s perspective, and determines whether the consideration is significantly less than that value, taking into account all components of the consideration including cash payments, debt discharges and assumed liabilities.",
+      "Application": "Coca-Cola Sabco (East Africa) Ltd, as majority shareholder of Ambo International Holdings Ltd and part of the Coca-Cola Beverages Africa group, agreed on 2017-03-23 to purchase SW Trustees Pte Ltd’s 16.75% stake in Ambo International Holdings Ltd for US$10,796,784. The consideration was discharged by paying US$4,375,000 to SW Trustees Pte Ltd’s bank to clear its loan, paying US$43,047 to Ambo International Holdings Ltd to clear a debt owed by SW Trustees Pte Ltd, paying US$4,543,759 and US$755,511 to Wealth Direct Ltd and Long River Holdings (HK) Ltd respectively, and assuming a US$1,079,467 liability of Southwest Development plc to Ambo Mineral Water Share Company. Expert valuation evidence was led to estimate the market value of the 16.75% stake as at 2017-03-23. The court preferred an income-based discounted cash flow and guideline public company approach that produced a market value range below or comparable to the US$10,796,784 consideration, and rejected a prior-transaction-based equitable value approach that yielded a higher figure. On that basis, the consideration paid by Coca-Cola Sabco (East Africa) Ltd was not significantly less than the market value of the shares and therefore the share sale did not constitute a transaction at an undervalue, even though part of the consideration was directed to entities associated with SW Trustees Pte Ltd’s controller.",
+      "Judicial_Reasoning_Log": "The court analysed Coca-Cola Sabco (East Africa) Ltd’s role solely in relation to the Ambo International Holdings Ltd share sale. It accepted that Coca-Cola Sabco (East Africa) Ltd was a wholly owned subsidiary of Coca-Cola Beverages Africa Proprietary Ltd, itself an indirect subsidiary of The Coca-Cola Company, and that it held a majority stake in Ambo International Holdings Ltd both before and after the transaction. The judge noted that the 23 March 2017 Share Purchase Agreement and 31 March 2017 addendum recorded a total consideration of US$10,796,784 for SW Trustees Pte Ltd’s 16.75% stake and that the consideration was structured through payments to SW Trustees Pte Ltd’s bank, to Ambo International Holdings Ltd, to Wealth Direct Ltd and Long River Holdings (HK) Ltd, and through assumption of a liability of Southwest Development plc to Ambo Mineral Water Share Company. The court accepted evidence from Coca-Cola Sabco (East Africa) Ltd’s representative that no formal valuation of the 16.75% stake was commissioned for the transaction and that the price was derived by applying the implied equity value of Ambo Mineral Water Share Company from the Ethiopian government sale and adding an amount corresponding to unpaid dividends that SW Trustees Pte Ltd wished to capture.\n\nThe plaintiffs argued that the share sale was at an undervalue because the consideration was derived from an allegedly depressed price in the Ethiopian government sale and because the 16.75% stake was worth significantly more than US$10,796,784. The court rejected the contention that the Ethiopian government sale price was depressed, finding no evidence that the price of US$19,782,807 for 33% of Ambo Mineral Water Share Company was based on Ambo International Holdings Ltd’s accounts or that it was below market value. The judge observed that the price had been proposed by the Ethiopian authority, accepted by SABMiller Group, and later reaffirmed after Project Savannah despite a deterioration in Ambo Mineral Water Share Company’s performance, and that there was no valuation of Ambo Mineral Water Share Company specifically for that sale.\n\nOn valuation, the court considered expert evidence from both sides. The plaintiffs’ expert, Ong, used an equitable value basis and a prior transaction method anchored on the Ethiopian government sale, concluding that the 16.75% stake was worth about US$15.1–16.0 million. The defendant’s expert, Ooi, used a market value basis and an income approach via discounted cash flow, supplemented by a guideline public company method, concluding that the 16.75% stake was worth about US$1.1–1.9 million. The judge held that the correct basis under section 224(3)(b) IRDA is market value, not equitable value, because the statute requires comparing the value of the consideration received by the company with the value of the asset it provided, from the company’s perspective, and is aimed at protecting the general body of creditors by reference to what the asset could fetch in the market. The court relied on Rothstar Group Ltd v Leow Quek Shiong, Goode on Principles of Corporate Insolvency Law, and English authorities on undervalue transactions, and rejected Ong’s view that the identity of Coca-Cola Sabco (East Africa) Ltd as purchaser justified using equitable value.\n\nThe court also found that the prior transaction method was not a reliable basis in this case because there was no evidence how the Ethiopian government price for the 33% stake in Ambo Mineral Water Share Company was determined, the transaction involved a sovereign seller in a specific policy and merger context, and it was not shown to be representative of what a willing, unconnected buyer would pay in an arm’s length transaction. The judge concluded that Ong’s valuation, being based on an incorrect basis of value and an unsuitable comparator transaction, could not be accepted. The court preferred Ooi’s use of discounted cash flow and guideline public company data, subject to appropriate discounts for lack of control and marketability, to estimate the market value of Ambo Mineral Water Share Company and, by extension, Ambo International Holdings Ltd and the 16.75% stake. On that analysis, the court held that the US$10,796,784 consideration paid by Coca-Cola Sabco (East Africa) Ltd was not significantly less than the market value of the 16.75% stake and in fact exceeded Ooi’s valuation range.\n\nThe plaintiffs further argued that the structure of the consideration, with payments directed to Wealth Direct Ltd and Long River Holdings (HK) Ltd and assumption of Southwest Development plc’s liability, meant that SW Trustees Pte Ltd did not receive full value. The court noted that the Share Purchase Agreement and addendum expressly provided for the payment flows and that SW Trustees Pte Ltd’s then advisers had proposed or accepted this structure. The judge accepted evidence that, under Mauritian law governing the Share Purchase Agreement and in common commercial practice, a purchaser may pay consideration to third parties nominated by the vendor, and that Coca-Cola Sabco (East Africa) Ltd had no reason to question SW Trustees Pte Ltd’s instructions in the absence of knowledge of fraud or insolvency. The court treated the payments and assumption of liability as part of the value provided by Coca-Cola Sabco (East Africa) Ltd for the shares and did not characterise the share sale itself as an undervalue transaction. It also found no evidence that Coca-Cola Sabco (East Africa) Ltd participated in any plan to dissipate SW Trustees Pte Ltd’s assets or to injure its creditors, and therefore rejected the conspiracy claim against it. The judge concluded that Coca-Cola Sabco (East Africa) Ltd was a bona fide purchaser for value and that no avoidance order should be made against it in respect of the Ambo International Holdings Ltd share sale."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  }
+]

@@ -1,0 +1,567 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 266 of 2011",
+      "Coram": "Tan Lee Meng J",
+      "Judge": "Tan Lee Meng",
+      "Date": "2013-02-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Cleantech Partners Hangzhou Pte Ltd",
+      "Law_Firm": "KhattarWong LLP",
+      "Counsel": [
+        "Chan Kia Pheng",
+        "Harpal Singh",
+        "Tan Wei Ming",
+        "Favian Kang"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2010-04-01",
+          "Text": "Cleantech Partners Hangzhou Pte Ltd (CTPHZ) is a wholly-owned subsidiary of Cleantech Partners Pte Ltd (CTP)."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2010-04-01",
+          "Text": "CTPHZ is a wholly-owned subsidiary of Cleantech Partners Pte Ltd (CTP)."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-05-31",
+          "Text": "On 31 May 2010, Han signed a collaboration agreement with Vanwarm on CTPHZ's behalf. Under the Collaboration Agreement, a joint venture company named Hangzhou Vanwarm Cleantech Co Ltd (HVC) was to be set up and CTPHZ was guaranteed a profit of RMB130 million from the Hangzhou project by Vanwarm. Vanwarm undertook to arrange for Hong Kong Hong Jia Investments Co Ltd to lend CTPHZ USD6 million to pay for CTPHZ's 40% share of HVC's registered capital of USD15 million."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-06-17",
+          "Text": "CTPHZ appointed Han and Robin to HVC's board."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011-01-31",
+          "Text": "On 31 January 2011, HQEDA informed CTP and Vanwarm that HVC's registered capital was not in place by the agreed deadline of 31 December 2010 and that construction work in the Hangzhou project had not started by the end of 2010, and extended the deadlines while warning that the Tripartite Agreement would be terminated if the new deadlines were not met."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011-03-10",
+          "Text": "CTP and CTPHZ failed to inject their share of the requisite registered capital of HVC by the extended deadline of 10 March 2011."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011-03-11",
+          "Text": "On 11 March 2011, HQEDA informed CTP and Vanwarm that the Tripartite Agreement had been terminated."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011-03-31",
+          "Text": "On 31 March 2011, Vanwarm terminated the Collaboration Agreement on a new ground, namely, that there was no basis for the Collaboration Agreement since HQEDA had terminated the Tripartite Agreement."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011-04-03",
+          "Text": "On 3 April 2011, Hong Jia terminated the Loan Agreement."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2011-07-08",
+          "Text": "As at July 2011, CTPHZ was still a 40% shareholder of HVC."
+        }
+      ],
+      "Issue": "Whether the conduct of the defendants in relation to the Hangzhou project, including their roles in HVC, IEC, and dealings with Vanwarm, HQEDA and potential Japanese investors, affected CTPHZ's interest in the Hangzhou project and related agreements.",
+      "Rule": "Directors and persons in positions of control are generally exercise reasonable care, skill and diligence in managing corporate affairs, to avoid misuse of corporate opportunities and confidential information, and to avoid undisclosed conflicts between their personal or competing corporate interests and the interests of the company.",
+      "Application": "CTPHZ's participation in the Hangzhou project was structured through the Tripartite Agreement with HQEDA and Vanwarm and the Collaboration Agreement leading to the incorporation of HVC, in which CTPHZ held a 40% stake. The funding structure depended on a USD6 million loan from Hong Jia to meet CTPHZ's capital contribution. Deadlines for capital injection and commencement of construction were set and later extended by HQEDA. The capital was not injected by the extended deadline, leading to HQEDA's termination of the Tripartite Agreement and subsequent termination notices for the Collaboration Agreement and Loan Agreement. Throughout this period, CTPHZ remained recorded as a 40% shareholder of HVC in Chinese official records.",
+      "Judicial_Reasoning_Log": "The court analysed whether the defendants failed to exercise due care, skill and diligence in meeting HQEDA's deadlines, whether they failed to perform reasonable management tasks, and whether they diverted the Hangzhou project or misused information and opportunities. The judge relied on concessions by Patrick Teo regarding responsibility for meeting deadlines after Han's removal, findings from Suit 908 on Han's entitlement to remain as chairman and director of CTPHZ, and the absence of evidence that the defendants caused HQEDA or Vanwarm to terminate the agreements. The court evaluated allegations of conspiracy, including the institution of Suit 908, attendance at master plan meetings and the ground-breaking ceremony, and alleged involvement of HQEDA and Vanwarm, and found insufficient evidence of a conspiracy. The judge considered the role of offensive emails sent by Michael Heng to Liu Hai in damaging the relationship with Vanwarm. The court also examined whether IEC had taken over the Hangzhou project, noting that CTPHZ remained a 40% shareholder of HVC and that there was no proof that IEC had acquired an interest in the Hangzhou project. Allegations of poaching Japanese investors and non-disclosure of IEC's incorporation were assessed, with the court finding that the plaintiffs had not identified specific poached clients, had misinterpreted certain emails, and had not shown that IEC's activities conflicted with the Hangzhou project. The judge concluded that the plaintiffs had not established breaches of duties or diversion of the project and dismissed the claims with costs."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 266 of 2011",
+      "Coram": "Tan Lee Meng J",
+      "Judge": "Tan Lee Meng",
+      "Date": "2013-02-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Cleantech Partners Pte Ltd",
+      "Law_Firm": "KhattarWong LLP",
+      "Counsel": [
+        "Chan Kia Pheng",
+        "Harpal Singh",
+        "Tan Wei Ming",
+        "Favian Kang"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2009-11-01",
+          "Text": "Cleantech Partners Pte Ltd (CTP), a Singapore company, had founder directors Mr Teo Chong Nghee Patrick, Mr Lim Shih Hsi, Mr Michael Heng Swee Hai and Robin."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-11-01",
+          "Text": "In late 2009, CTP collaborated with Hangzhou Vanwarm Holdings Group Ltd to develop the Hangzhou Singapore Eco-Park development project in Hangzhou, China."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-03-01",
+          "Text": "In early March 2010, CTP's founder directors, Han Cheng Fong, Christine and Cleantech Ventures Asia Pte Ltd signed a document dated 1 March 2010 that recorded arrangements including share allocations, directorships in CTP, Han's role as chairman and director of a new subsidiary to handle the Hangzhou project, and a profit-sharing structure between CTP and the subsidiary."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-03-23",
+          "Text": "On 2010-03-23, CTP entered into a tripartite agreement with Hangzhou Qianjiang Economic Development Area Management Committee and Hangzhou Vanwarm Holdings Group Ltd to collaborate on the preparation of a master plan for, and the development and promotion of, the Hangzhou project."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-03-24",
+          "Text": "On 2010-03-24, the Business Times reported that CTP was exploring potential deals including a coal gasification project in Indonesia, a wind farm project in Vietnam and a solar panel installation business in China."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-04-07",
+          "Text": "On 2010-04-07, Han Cheng Fong informed CTP's directors that he would focus on CTPHZ and not sit on CTP's board so as not to be involved in CTP's fund-raising efforts."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-04-07",
+          "Text": "On 7 April 2010, the directors of CTP accepted Han's stand that he would focus his attention on CTPHZ and not sit on CTP's board."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-05-10",
+          "Text": "On 2010-05-10, Takeshi Fujimoto of the Japan Export Trade Organisation emailed Richard Lim and Patrick Teo stating that the Japanese Ministry of Trade and Industry and some Japanese companies were interested in the Hangzhou project."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-28",
+          "Text": "On 28 July 2010, Robin, who was then a director of CTP and CTPHZ, went to Tokyo for a presentation on the Hangzhou project to METI and potential Japanese investors."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-01",
+          "Text": "Between June and August 2010, emails were exchanged between Patrick, Richard and others which showed that Patrick and Richard were hoping by the sale of their CTP shares to 'get rid of [Han] and [Christine]'."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-08-01",
+          "Text": "By August 2010, Patrick and Richard were trying to sell their CTP shares to a Malaysian company, Bintan Kindenko Corporation Berhad."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-01",
+          "Text": "Between June and August 2010, emails were exchanged between Patrick, Richard and others which showed that Patrick and Richard were hoping by the sale of their CTP shares to 'get rid of [Han] and [Christine]'. It was also made clear in the said emails that '[they were] going to be ruthless' when dealing with Han."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-25",
+          "Text": "On 2010-08-25, Han Cheng Fong instructed CTP's company secretary, Ng Chee Tiong, to ask all CTPHZ directors to disclose their directorships."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-09-05",
+          "Text": "On 2010-09-05, Patrick Teo emailed the other CTPHZ directors stating that he would address issues raised by Han Cheng Fong with the company secretary in a memo to CTP members at a later date."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-09-24",
+          "Text": "On 2010-09-24, Han Cheng Fong arranged for a CTPHZ board meeting to be held on 2010-09-29."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-09-27",
+          "Text": "On 2010-09-27, Patrick Teo emailed Richard Lim and Low Soo Chee asking for their support not to attend the upcoming CTPHZ board meeting and expressing concern that attending board meetings could expose them to mistakes."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-10-01",
+          "Text": "On 2010-10-01, Patrick Teo instructed company secretary Ng Chee Tiong to retain CTPHZ's records until further notice because the majority of CTP's board did not agree to the change of CTPHZ's company secretary."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-10-05",
+          "Text": "On 2010-10-05, Han Cheng Fong emailed Patrick Teo stating that he was committed to seeing the Hangzhou project through with Vanwarm and that he had communicated documentary material about Patrick Teo and Richard Lim's conduct to Liu Hai and Vanwarm."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-10-12",
+          "Text": "On 21 October 2010, Ng emailed to Han the resolutions that dismissed the latter from his positions in CTPHZ."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-12-07",
+          "Text": "On 7 December 2010, Michael sent an email to Liu Hai expressing unhappiness about Liu Hai's visit to Singapore and stating that CTP would terminate its relationship with Vanwarm."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-10-21",
+          "Text": "On 10 December 2010, Michael sent another abrasive email to Liu Hai, part of which criticised Liu Hai's communication through a subordinate and referred to legal action commenced by Han against CTP."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-11-07",
+          "Text": "On 15 December 2010, Michael continued to take a rather aggressive tone in an email to Liu Hai."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-12-10",
+          "Text": "On 2 February 2011, Vanwarm terminated the Collaboration Agreement on the ground of 'internal problems at CTP'."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-05-11",
+          "Text": "On 11 May 2011, CTP's Chinese solicitors informed HQEDA that CTP had decided to delay the injection of funds for the registered capital of HVC and requested a meeting with HQEDA to explain why it had decided to do so."
+        }
+      ],
+      "Issue": "Whether the actions and decisions of the defendants in relation to the Hangzhou project, HVC, IEC, and interactions with Vanwarm, HQEDA and potential Japanese investors affected CTP's contractual and commercial position under the Tripartite Agreement and related arrangements.",
+      "Rule": "Company officers and those influencing corporate affairs are generally manage the company's business with reasonable care, skill and diligence, to avoid undisclosed conflicts of interest, and to refrain from using corporate opportunities and information for competing ventures without proper disclosure and consent.",
+      "Application": "CTP initiated collaboration with Vanwarm and HQEDA through the Tripartite Agreement and later structured the Hangzhou project via CTPHZ and HVC. Internal disagreements among CTP's founder directors led to steps to remove certain individuals from CTPHZ and to consider a sale of CTP shares to a Malaysian company. Communications from CTP representatives to Liu Hai in December 2010 expressed dissatisfaction and raised the possibility of CTP withdrawing from its relationship with Vanwarm. CTP did not inject its share of HVC's registered capital by the extended deadline and, through its Chinese solicitors, informed HQEDA in May 2011 that it had decided to delay the capital injection. These events preceded HQEDA's termination of the Tripartite Agreement and Vanwarm's and Hong Jia's termination notices.",
+      "Judicial_Reasoning_Log": "The court considered CTP's role as a party to the Tripartite Agreement and its control over CTPHZ. It relied on findings from Suit 908 regarding the 1 March 2010 shareholders' agreement and Han's legitimate expectations. The judge evaluated whether the defendants' conduct caused the loss of the Hangzhou project or whether CTP's own decisions, including not meeting capital injection deadlines and sending confrontational emails to Liu Hai, contributed to the breakdown with Vanwarm and HQEDA. The court found that the plaintiffs had not proven that the defendants' actions resulted in the termination of the Tripartite Agreement or diversion of the project, and that allegations of conspiracy and misuse of opportunities were not supported by evidence. The claims were dismissed with costs."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 266 of 2011",
+      "Coram": "Tan Lee Meng J",
+      "Judge": "Tan Lee Meng",
+      "Date": "2013-02-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Han Cheng Fong",
+      "Law_Firm": "Bih Li & Lee",
+      "Counsel": [
+        "Anthony Lee Hwee Khiam",
+        "Pua Lee Siang"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Han Cheng Fong was a former Chief Executive Officer of Fraser & Neave Ltd and a former Deputy Chairman of DBS Land."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "In late 2009, CTP's founder directors invited Han Cheng Fong to participate in the Hangzhou project because of his experience in the property markets in Singapore and China."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-03-01",
+          "Text": "In early March 2010, Han Cheng Fong, CTP's founder directors and Cleantech Ventures Asia Pte Ltd signed the 1 March document, which provided, among other things, that Han would become chairman and a director of a new subsidiary of CTP to be set up to roll out the Hangzhou project."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-03-01",
+          "Text": "Under the 1 March document, Han would become the chairman and a director of a new subsidiary of CTP, subsequently named CTPHZ, which was to be set up to roll out the Hangzhou project."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "Han arranged for Christine, a former real estate sales executive from Frasers Centrepoint Limited, to be involved with the Hangzhou project."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-04-01",
+          "Text": "On 1 April 2010, CTPHZ was incorporated and Han became its chairman. The other directors were Robin, Patrick, Richard and Christine."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-04-07",
+          "Text": "On 7 April 2010, Han informed CTP's directors that he would focus his attention on CTPHZ and not sit on CTP's board so as not to stand in the way of CTP's fund raising efforts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-05-31",
+          "Text": "On 31 May 2010, Han signed a collaboration agreement with Vanwarm on CTPHZ's behalf. Under the Collaboration Agreement, a joint venture company named Hangzhou Vanwarm Cleantech Co Ltd was to be set up and CTPHZ was guaranteed a profit of RMB130 million from the Hangzhou project by Vanwarm. Vanwarm also undertook to arrange for Hong Kong Hong Jia Investments Co Ltd to lend CTPHZ USD6 million."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-06-17",
+          "Text": "On 17 June 2010, HVC was incorporated in China. CTPHZ appointed Han and Robin to HVC's board."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "By August 2010, Han discovered that Patrick and Richard were planning to deprive him and Christine of their rights under the 1 March document and to remove him from his posts in CTPHZ. Emails sent by Patrick and Richard to each other and to Robin about sidelining or getting rid of Han were handed over by Robin to Han and Christine."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "By August 2010, Han discovered that Patrick and Richard were trying to sell their CTP shares to a Malaysian company, Bintan Kindenko Corporation Berhad, contrary to the understanding with HQEDA and Vanwarm that the Hangzhou project was to be a China-Singapore project."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "Han emailed CTP's company secretary, Mr Ng Chee Tiong, to arrange for his appointment as the deputy chairman and a director of CTP."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-08-25",
+          "Text": "On 25 August 2010, Han instructed Ng to ask all CTPHZ directors to disclose their directorships."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-09-24",
+          "Text": "On 24 September 2010, Han arranged for a meeting of CTPHZ's board to be held on 29 September 2010."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-09-29",
+          "Text": "On 29 September 2010, Robin attended CTP's board meeting together with Han and Christine. At this meeting, the board replaced the company secretary, changed the company's registered address and confirmed that CTPHZ had five directors, namely, Patrick, Richard, Han, Robin and Christine, with one seat left vacant."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-10-05",
+          "Text": "On 5 October 2010, Han emailed Patrick stating that he regretted being involved with Patrick and Richard, that he had committed to see the project through with the Chinese partners, and that he had documentary proof of what Patrick and Richard had been up to and had communicated this to Liu Hai and Vanwarm."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-10-12",
+          "Text": "On 12 October 2010, Patrick caused an Extraordinary General Meeting of CTPHZ to be held to remove Han and Christine as directors of CTPHZ with immediate effect. On the same day, Patrick, Richard and Michael caused CTPHZ's board to approve a resolution removing Han as the company's corporate representative on HVC and replacing him with Patrick. No notice was given to Han of these meetings."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-10-21",
+          "Text": "On 21 October 2010, Ng emailed Han the resolutions that dismissed him from his positions in CTPHZ."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-11-18",
+          "Text": "On 18 and 19 November 2010, Han attended meetings on the master plan for the Hangzhou project in Hangzhou with representatives of Vanwarm and an architect to discuss the master plan to be submitted to HQEDA for approval."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-11-23",
+          "Text": "On 23 November 2010, Han and Robin signed an HVC board resolution that authorised the company's representative to bid for land put up for tender."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-12-02",
+          "Text": "On 2 December 2010, Patrick, Richard and Michael claimed that they agreed to reinstate Han and Christine to CTPHZ's board in accordance with the terms of the 1 March document. Han did not trust the trio and wanted them to agree that he would not be dismissed again until after completion of the Hangzhou project. There was no agreement on this new matter."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-02-17",
+          "Text": "On 17 to 19 February 2011, the defendants went to Tokyo with representatives of Vanwarm and HQEDA to meet representatives from JETRO, METI and Japanese companies regarding investment opportunities in the entire Qianjiang Economic Development Area."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-06-28",
+          "Text": "On 28 June 2011, Han attended the ground-breaking ceremony for the Hangzhou project in Hangzhou as an invited guest of Vanwarm."
+        }
+      ],
+      "Issue": "Whether Han Cheng Fong's conduct in relation to CTPHZ, HVC, the Hangzhou project, IEC, and interactions with Vanwarm, HQEDA and potential Japanese investors affected the plaintiffs' interests in the Hangzhou project and related agreements.",
+      "Rule": "Individuals acting as directors or in equivalent positions are generally exercise reasonable care, skill and diligence in managing corporate affairs, to avoid undisclosed conflicts between their personal or competing corporate interests and the company's interests, and to refrain from using corporate opportunities and confidential information for competing ventures without proper disclosure and consent.",
+      "Application": "Han's role in the Hangzhou project was formalised through the 1 March 2010 document and his appointment as chairman and director of CTPHZ and director of HVC. He signed the Collaboration Agreement on behalf of CTPHZ and participated in HVC board decisions, including authorising land bids. After his removal from CTPHZ without prior notice, he remained on HVC's board at the request of Vanwarm and attended master plan meetings and later an investment promotion trip to Tokyo. He also initiated Suit 908 following his removal. These actions occurred against a background of internal disagreements within CTP and CTPHZ, proposed share sales, and communications with Vanwarm and HQEDA about the project and capital injections.",
+      "Judicial_Reasoning_Log": "The court relied on findings from Suit 908 that the 1 March 2010 document was a shareholders' agreement and that Han was entitled to remain as chairman and director of CTPHZ. It held that Han was wrongfully removed and that Patrick and Richard had conspired to remove him. In this suit, the judge examined whether Han failed to exercise due care, skill and diligence, whether he was responsible for missing HQEDA's deadlines, and whether he participated in a conspiracy to divert the Hangzhou project to IEC or to cause termination of the Tripartite and Collaboration Agreements. The court noted that Han had been removed from CTPHZ by 2010-10-12 and could not be responsible for meeting the 2010-12-31 capital injection and construction deadlines. It found no evidence that Han caused HQEDA or Vanwarm to terminate the agreements or that he induced them to do so by filing Suit 908. The judge rejected the plaintiffs' theory of conspiracy as speculative and based on conjecture rather than evidence. The court also found that Han's attendance at master plan meetings and the Tokyo investment trip was consistent with his continuing role as an HVC director and that these activities benefited HVC, in which CTPHZ held a 40% stake. The judge concluded that there was no proof that Han diverted the Hangzhou project to IEC or misused information or opportunities to the plaintiffs' detriment and therefore rejected the claims against him."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 266 of 2011",
+      "Coram": "Tan Lee Meng J",
+      "Judge": "Tan Lee Meng",
+      "Date": "2013-02-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Low Soo Chee",
+      "Law_Firm": "Bih Li & Lee",
+      "Counsel": [
+        "Anthony Lee Hwee Khiam",
+        "Pua Lee Siang"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-11-01",
+          "Text": "Low Soo Chee (Robin) was one of the founder directors of Cleantech Partners Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-06-01",
+          "Text": "Between June and August 2010, emails were exchanged between Patrick, Richard and others which showed that Patrick and Richard were hoping by the sale of their CTP shares to, in their own words, \"get rid of [Han] and [Christine]\"; Robin handed over emails sent by Patrick and Richard to each other and to Robin about sidelining or getting rid of Han to Han and Christine at the material time."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-28",
+          "Text": "On 28 July 2010, Robin, who was then a director of CTP and CTPHZ, went to Tokyo for a presentation on the Hangzhou project to METI and potential Japanese investors."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-09-29",
+          "Text": "On 29 September 2010, Robin attended CTP's board meeting together with Han and Christine. At this meeting, the board replaced the company secretary, Ng, with Ms Sally Phuar and changed the company's registered address to the new company secretary's address. The board also confirmed that CTPHZ had five directors, namely, Patrick, Richard, Han, Robin and Christine, and that one seat on the board was left vacant."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-10-12",
+          "Text": "On 12 October 2010, Patrick caused an Extraordinary General Meeting of CTPHZ to be held to remove Han and Christine as directors of CTPHZ with immediate effect."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-11-11",
+          "Text": "On 11 November 2010, Robin, Christine, Fujimoto and a team of Japanese company representatives visited Hangzhou."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-11-18",
+          "Text": "On 18 and 19 November 2010, Han, Robin, Christine and Vanwarm's representatives had meetings with Architect Bu Zhidong and his assistant to discuss the master plan of the Hangzhou project."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-11-23",
+          "Text": "On 23 November 2010, Han and Robin signed an HVC board resolution that authorised the company's representative to bid for land put up for tender."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-02-17",
+          "Text": "On 17 to 19 February 2011, the defendants went to Tokyo with representatives of Vanwarm and HQEDA to meet representatives from JETRO, METI and Japanese companies regarding investment opportunities in the entire Qianjiang Economic Development Area. Robin made it clear to HQEDA and Vanwarm that the defendants were attending the Tokyo meeting as directors of IEC under Vanwarm's banner."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-06-28",
+          "Text": "On 28 June 2011, Robin attended the ground-breaking ceremony as Vanwarm's guest."
+        }
+      ],
+      "Issue": "Whether Low Soo Chee's conduct in relation to CTPHZ, HVC, IEC, the Hangzhou project and interactions with Vanwarm, HQEDA and potential Japanese investors affected the plaintiffs' interests in the Hangzhou project and related agreements.",
+      "Rule": "Directors are generally exercise reasonable care, skill and diligence in managing the company's affairs, to avoid undisclosed conflicts between their interests and the company's interests, and to refrain from using corporate opportunities and confidential information for competing ventures without proper disclosure and consent.",
+      "Application": "Low Soo Chee was a founder director of CTP and a director of CTPHZ and HVC. He participated in promoting the Hangzhou project to Japanese stakeholders and later co-founded Green Solutions @ ARB Pte Ltd, which became IEC. After his removal from CTPHZ, he remained on HVC's board at Vanwarm's request and attended master plan meetings and the Tokyo investment trip, where he participated under IEC's name while HVC and CTPHZ still had interests in the Hangzhou project. He also attended the ground-breaking ceremony as Vanwarm's guest. These events formed the factual basis for the plaintiffs' concerns about potential competition and use of project-related contacts.",
+      "Judicial_Reasoning_Log": "The court examined whether Low Soo Chee participated in a conspiracy to divert the Hangzhou project to IEC or to cause termination of the Tripartite and Collaboration Agreements, and whether he misused information or opportunities obtained as a director of CTPHZ and HVC. The judge found no evidence that he supported or consented to Han's decision to commence Suit 908, noting that the plaintiffs admitted they had no personal knowledge and relied on inferences. The court accepted Low's and Liew's denials that they supported the suit. It held that Low's attendance at master plan meetings and the Tokyo investment trip was consistent with his continuing role as an HVC director and that these activities benefited HVC and, indirectly, CTPHZ. The judge found no proof that IEC had acquired an interest in the Hangzhou project or that Low had diverted the project or poached specific Japanese clients. Allegations of non-disclosure of IEC's incorporation were considered in light of the absence of evidence that IEC's activities conflicted with the Hangzhou project. The claims against Low were dismissed."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 266 of 2011",
+      "Coram": "Tan Lee Meng J",
+      "Judge": "Tan Lee Meng",
+      "Date": "2013-02-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Liew Sok Kuan",
+      "Law_Firm": "Bih Li & Lee",
+      "Counsel": [
+        "Anthony Lee Hwee Khiam",
+        "Pua Lee Siang"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2010-01-01",
+          "Text": "Before involvement in the Cleantech group, Liew Sok Kuan (also known as Christine) had worked as a real estate sales executive at Frasers Centrepoint Limited."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-03-01",
+          "Text": "In early March 2010, Liew Sok Kuan signed the 1 March 2010 document together with CTP's founder directors, Han Cheng Fong and Cleantech Ventures Asia Pte Ltd, which recorded arrangements for participation in the Hangzhou project."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-03-01",
+          "Text": "Under the 1 March 2010 document, Liew Sok Kuan was designated to receive shares and a directorship in CTP in connection with the Hangzhou project."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-04-01",
+          "Text": "On 2010-04-01, upon incorporation of CTPHZ, Liew Sok Kuan became a director of CTPHZ."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-09-18",
+          "Text": "On 2010-09-18, Liew Sok Kuan and Low Soo Chee incorporated Green Solutions @ ARB Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-01-20",
+          "Text": "On 2011-01-20, Green Solutions @ ARB Pte Ltd changed its name to International Eco-City Pte Ltd (IEC)."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-09-29",
+          "Text": "On 2010-09-29, Liew Sok Kuan attended a CTPHZ board meeting with Han Cheng Fong and Low Soo Chee at which the company secretary and registered address were changed and the board composition was confirmed."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-10-12",
+          "Text": "On 2010-10-12, Liew Sok Kuan was removed from her position as a director of CTPHZ at an Extraordinary General Meeting."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-11-11",
+          "Text": "On 2010-11-11, shortly after her removal from CTPHZ, Liew Sok Kuan visited Hangzhou with Low Soo Chee, Takeshi Fujimoto and a team of Japanese company representatives."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-02-17",
+          "Text": "From 2011-02-17 to 2011-02-19, Liew Sok Kuan travelled to Tokyo with Han Cheng Fong, Low Soo Chee, and representatives of Vanwarm and HQEDA to meet JETRO, METI and Japanese companies regarding investment opportunities in the Qianjiang Economic Development Area."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-06-28",
+          "Text": "On 2011-06-28, Liew Sok Kuan attended the ground-breaking ceremony for the Hangzhou project in Hangzhou as an invited guest of Vanwarm."
+        }
+      ],
+      "Issue": "Whether Liew Sok Kuan's conduct in relation to CTPHZ, IEC, the Hangzhou project and interactions with Vanwarm, HQEDA and potential Japanese investors affected the plaintiffs' interests in the Hangzhou project and related agreements.",
+      "Rule": "Directors are generally exercise reasonable care, skill and diligence in managing the company's affairs, to avoid undisclosed conflicts between their interests and the company's interests, and to refrain from using corporate opportunities and confidential information for competing ventures without proper disclosure and consent.",
+      "Application": "Liew Sok Kuan became a director of CTP and CTPHZ in connection with the Hangzhou project and later co-founded Green Solutions @ ARB Pte Ltd, which became IEC. After her removal from CTPHZ, she participated in a visit to Hangzhou with Japanese representatives and later joined the Tokyo investment trip and the ground-breaking ceremony as a guest of Vanwarm. These activities occurred while CTPHZ and HVC still had interests in the Hangzhou project and formed the factual basis for the plaintiffs' concerns about potential competition and use of project-related contacts.",
+      "Judicial_Reasoning_Log": "The court considered whether Liew Sok Kuan participated in a conspiracy to divert the Hangzhou project to IEC or to cause termination of the Tripartite and Collaboration Agreements, and whether she misused information or opportunities obtained as a director of CTPHZ. The judge noted that the plaintiffs admitted they had no personal knowledge that she supported or consented to Han's decision to commence Suit 908 and relied instead on inferences. Liew denied supporting the suit, and her evidence was not effectively challenged. The court found no evidence that IEC had acquired an interest in the Hangzhou project or that Liew had diverted the project or poached specific Japanese clients. Allegations of non-disclosure of IEC's incorporation were assessed in light of the absence of proof that IEC's activities conflicted with the Hangzhou project. The claims against Liew were dismissed."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 266 of 2011",
+      "Coram": "Tan Lee Meng J",
+      "Judge": "Tan Lee Meng",
+      "Date": "2013-02-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "International Eco-City Pte Ltd",
+      "Law_Firm": "Bih Li & Lee",
+      "Counsel": [
+        "Anthony Lee Hwee Khiam",
+        "Pua Lee Siang"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2010-09-18",
+          "Text": "On 2010-09-18, a company named Green Solutions @ ARB Pte Ltd was incorporated in Singapore by Low Soo Chee and Liew Sok Kuan."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2011-01-20",
+          "Text": "On 2011-01-20, Green Solutions @ ARB Pte Ltd changed its name to International Eco-City Pte Ltd (IEC)."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2011-01-20",
+          "Text": "By early 2011, Han Cheng Fong, Low Soo Chee and Liew Sok Kuan were directors of International Eco-City Pte Ltd."
+        }
+      ],
+      "Issue": "Whether International Eco-City Pte Ltd's activities and relationships, including with Calframe (Singapore) Pte Ltd and Dove Paint (Shanghai) Ltd, and its directors' involvement in the Hangzhou project, affected the plaintiffs' interests in the Hangzhou project and related agreements.",
+      "Rule": "A company that is formed and operated by individuals who also hold or held positions in another company may raise issues of conflict where it engages in overlapping or competing business opportunities, and such situations are generally assessed by reference to duties of those individuals to avoid undisclosed conflicts and misuse of corporate opportunities.",
+      "Application": "IEC was incorporated by former CTPHZ directors and later had all three individual defendants as directors. It engaged in distribution and marketing activities for products such as waterless urinal systems and paints, which were not shown to overlap with the Hangzhou project. The plaintiffs that IEC became a vehicle to take over the Hangzhou project and to attract Japanese investors, but no concrete transaction or contractual link between IEC and the Hangzhou project was identified in the pre-dispute record.",
+      "Judicial_Reasoning_Log": "The court examined whether IEC had acquired any interest in the Hangzhou project or had become Vanwarm's new partner in place of CTPHZ. It noted that official records in China as at July 2011 still showed CTPHZ as a 40% shareholder of HVC and that the plaintiffs had not taken steps in China to assert their shareholder rights. The judge found that the plaintiffs' assertions that IEC had taken over the project were based on speculation and 'commercial creativity' rather than evidence. The court accepted evidence that IEC's known business activities involved products unrelated to the Hangzhou project and that no Japanese company had invested in the Hangzhou project or the Qianjiang Economic Development Area as a result of the Tokyo trip. The allegation that IEC prepared a PowerPoint presentation for the Tokyo meeting was not supported by proof. The court concluded that it was not established that IEC had any interest in or had diverted the Hangzhou project, and dismissed the claims against IEC."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  }
+]

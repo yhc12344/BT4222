@@ -1,0 +1,957 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1210/2001",
+      "Coram": "Tay Yong Kwang J",
+      "Judge": "Tay Yong Kwang",
+      "Date": "2003-11-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "ECRC Land Pte Ltd",
+      "Law_Firm": "Arthur Loke Bernard Rada and Lee",
+      "Counsel": [
+        "Stephen Soh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1994-01-01",
+          "Text": "The plaintiff, ECRC Land Pte Ltd, was incorporated in late 1994 as the vehicle for an intended joint venture to acquire and redevelop the land and East Coast Recreation Centre at 1000 East Coast Parkway into an amusement theme park."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1995-04-01",
+          "Text": "A joint venture agreement relating to the East Coast Recreation Centre at 1000 East Coast Parkway was entered into in April 1995 between George Wuu Khek Chiang, SAFE Enterprises Pte Ltd and Grande Leisure Management Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-06-15",
+          "Text": "A formal joint venture agreement concerning the East Coast Recreation Centre at 1000 East Coast Parkway was signed on 15 June 1995 between George Wuu Khek Chiang, SAFE Enterprises Pte Ltd and Grande Leisure Management Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1995-03-01",
+          "Text": "In March 1995, a sale and purchase agreement was signed between George Wuu Khek Chiang and the fifth defendant for the fifth defendant to hold a 51% stake in the plaintiff on behalf of Grande Leisure Management Pte Ltd and SAFE Enterprises Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-04-01",
+          "Text": "In April 1995, the Land Office disapproved the initial joint venture structure under which the fifth defendant would hold 51% of the plaintiff on behalf of Grande Leisure Management Pte Ltd and SAFE Enterprises Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-06-15",
+          "Text": "On 15 June 1995, two sale and purchase agreements were executed between George Wuu Khek Chiang and Grande Leisure Management Pte Ltd and between George Wuu Khek Chiang and SAFE Enterprises Pte Ltd to effect a shareholding structure in the plaintiff of 25.5% for Grande Leisure Management Pte Ltd, 25.5% for SAFE Enterprises Pte Ltd and 49% for George Wuu."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-06-15",
+          "Text": "By a shareholders' agreement dated 15 June 1995, the joint venture parties agreed that all decisions of the shareholders of the plaintiff would be made by a simple majority in votes."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-06-15",
+          "Text": "Grande Leisure Management Pte Ltd and SAFE Enterprises Pte Ltd paid S$5 million to George Wuu Khek Chiang for a 51% stake in the plaintiff."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-06-15",
+          "Text": "The plaintiff also settled ECRC’s outstanding bank overdraft of about S$3 million with OCBC Bank."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-06-15",
+          "Text": "Under the joint venture arrangements, the plaintiff was to pay East Coast Recreation Centre Pte Ltd an annual consultancy fee of S$500,000 for 15 years regardless of the plaintiff's profitability."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1993-01-01",
+          "Text": "East Coast Recreation Centre Pte Ltd recorded losses of about S$796,000 in 1993."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1994-01-01",
+          "Text": "East Coast Recreation Centre Pte Ltd recorded losses of about S$303,000 in 1994."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "In 1995, a 15-year state lease for the land at 1000 East Coast Parkway was granted, with the rent increased by 5.6 times compared to the previous rent."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-04-01",
+          "Text": "In April 1995, the plaintiff took over the management of the East Coast Recreation Centre at 1000 East Coast Parkway."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-04-01",
+          "Text": "From April 1995 onwards, the plaintiff began implementing plans to redevelop the East Coast Recreation Centre into an amusement theme park with at least two large virtual reality rides, an amusement arcade and various food and beverage outlets, to be financed by OCBC Bank."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "By May 1995, the plaintiff planned to situate the amusement theme park in block C of the East Coast Recreation Centre."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-05-01",
+          "Text": "In May 1995, the existing tenant Regent Bowl extended its lease at the East Coast Recreation Centre and agreed to an automatic incorporation of the 5.6 times increase in rent."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "Up to May or June 1995, the plaintiff's plans were to locate the amusement theme park in block C of the East Coast Recreation Centre."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "After Regent Bowl extended its lease in 1995, the plaintiff made alternative plans to house the amusement theme park in block B, which would involve raising the second storey floor slab and roof to increase the ground floor height."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-07-22",
+          "Text": "On 22 July 1995, the seafood restaurant Jumbo Garden occupying the second storey of block B signed part of an agreement to stay on at the premises at the increased rent."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-01-01",
+          "Text": "From September 1995 onwards, the plaintiff's plans shifted to building a new block D linked to the second storey of block A to house the amusement theme park."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-01-01",
+          "Text": "In April 1996, the authorities disapproved the plaintiff's plans to build a new block D linked to block A."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-01-01",
+          "Text": "After the April 1996 disapproval of block D, the plaintiff lodged an appeal and explored other options for the amusement theme park layout."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-01-01",
+          "Text": "In July 1996, the authorities informed the plaintiff that a 22-metre height clearance for the proposed new block was not approved and that the new block had to be of the same height as the existing buildings."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-01-01",
+          "Text": "Following the July 1996 height restriction, the plaintiff attempted to modify the planned attractions to fit the decreased height but found that the large attractions could not be accommodated."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-01-01",
+          "Text": "The plaintiff considered housing the amusement theme park on the first and second floors of block A, excluding the ground floor portion occupied by McDonald's, and proposed a giant staircase from the ground floor as the main entrance."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1996-01-01",
+          "Text": "McDonald's objected to the proposed giant staircase to block A on the basis that it would affect the frontage of its restaurant."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-01-01",
+          "Text": "The plaintiff then planned to locate a scaled-down amusement theme park with two major rides on the ground floor of block B extending to the squash courts at block C and applied in July 1996 to convert the squash courts to house one of the attractions."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-01-01",
+          "Text": "In October 1996, the authorities did not approve the plaintiff's application to convert the squash courts at block C for use as part of the amusement theme park."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1997-01-01",
+          "Text": "From late 1996 to early 1997, the plaintiff worked with Sega's engineers to try to modify the large attractions so they could be housed on the ground floor of block B, but this plan was later abandoned due to ceiling height constraints."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-08-01",
+          "Text": "After various layout options were exhausted, the plaintiff operated the centre as a family entertainment centre including an amusement arcade and Q-Zar laser games on the ground floor of block B."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-08-01",
+          "Text": "In August 1995, SAFE Enterprises Pte Ltd and the Grande group agreed to appoint a financial controller to take over the finance and accounting functions for the plaintiff."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-08-01",
+          "Text": "From August 1995, Grande and SAFE provided the plaintiff with staffing and financial resources for running the centre and charged those expenses to the plaintiff."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-08-01",
+          "Text": "From August 1995, Grande provided the plaintiff with administrative, legal, corporate secretarial and other infrastructural support and charged those expenses to the plaintiff."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-07-04",
+          "Text": "Under the joint venture arrangements, the fifth defendant was to be a tenant at the centre and operate the amusement theme park."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-10-01",
+          "Text": "On 4 July 1995, the fifth defendant entered into an agreement with Sega Enterprises Ltd of Japan to buy up to four large virtual reality attractions for use in the amusement theme park."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1995-12-01",
+          "Text": "In October 1995, the directors of the plaintiff passed a resolution approving an S$11 million construction loan facility from OCBC Bank for retrofitting existing buildings and constructing a new building at the East Coast Recreation Centre."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-12-01",
+          "Text": "By December 1995, the plaintiff's initial target date for commencement of operations of the amusement theme park had been postponed from December 1995 to October 1996 due to various difficulties."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-12-01",
+          "Text": "In December 1995, the seventh defendant commenced operations of an amusement arcade on the second floor of block A at the plaintiff's request to maintain activity at the centre during major redevelopment and renovation works."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-06-01",
+          "Text": "Around December 1995, the plaintiff contributed about S$1 million towards the seventh defendant's fitting out works for the amusement arcade on the second floor of block A and granted the seventh defendant a preferential rental rate, a three-month fitting out period and a longer rent rebate period."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-07-01",
+          "Text": "By June 1996, the major attractions from Sega had arrived at the centre and were stored on site while the plaintiff's amusement theme park plans were delayed."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-07-01",
+          "Text": "After July 1996, the plaintiff and the seventh defendant agreed that the seventh defendant would shift its operations from the second floor of block A to the ground floor of block B, which was then unoccupied, while the plaintiff explored other options to implement the amusement theme park."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-07-01",
+          "Text": "To support the seventh defendant's move to the ground floor of block B and to improve the premises, the plaintiff undertook upgrading and renovation works for the ground floor of block B, which was in serious need of repair."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-10-01",
+          "Text": "In connection with the seventh defendant's relocation, the plaintiff allowed the seventh defendant to terminate its tenancy agreement for the second floor of block A without penalty."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-12-01",
+          "Text": "The tenancy agreement between the plaintiff and the seventh defendant for the premises it occupied was signed only in October 1996, although the seventh defendant had been occupying the premises since January 1996."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-12-01",
+          "Text": "After Jumbo Garden left the second level of block B due to difficulty meeting the increased rent, the eighth defendant began operating a seafood restaurant on the second level of block B when there were no serious offers for those premises and most of block B was unoccupied."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1997-05-01",
+          "Text": "The eighth defendant was granted a period of rental rebate and was charged rent that was a fraction of the rent payable by Jumbo Garden after the 5.6 times increase, at a level similar to an offer previously made by Palm Beach, an established seafood restaurant operator."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1997-07-01",
+          "Text": "In May 1997, the plaintiff contemplated undertaking S$1 million worth of works to attract Europa Holdings to take up a tenancy in block A, but the authorities did not approve an application for change of use to discotheque, karaoke lounge and wine bar/food shop."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-07-01",
+          "Text": "In the second half of 1997, the plaintiff marketed the centre extensively to improve its financial position and attracted interest from potential tenants."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "In the latter half of 1998, the plaintiff's marketing efforts resulted in securing a better-paying tenant, Four Amigos, for premises previously occupied by the ninth defendant."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-01",
+          "Text": "From early in the joint venture, the plaintiff relied heavily on funds from the joint venture parties, with George Wuu stating from the outset that he would not provide funds for the plaintiff."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-06-01",
+          "Text": "By late 1995, SAFE Enterprises Pte Ltd indicated that it did not wish to fund the plaintiff's operations, leaving the Grande group to provide funds."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "By mid-1998, the plaintiff owed approximately S$4 million to the Grande group as a result of periodic funding contributions."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "Grande normally granted unsecured advances only to its wholly owned subsidiaries but made an exception for the plaintiff due to the importance attached to the amusement theme park project, providing unsecured advances denominated in US dollars."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-03-01",
+          "Text": "Interest charges and foreign exchange gains and losses were recorded on loans and payments made by Grande group entities to the plaintiff, with interest reflecting the group's cost of funds."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-04-01",
+          "Text": "From as early as March 1995, an employee of the sixth defendant was seconded to the plaintiff to provide clerical and secretarial support."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1995-06-01",
+          "Text": "In April 1995, George Wuu signed a letter informing East Coast Recreation Centre Pte Ltd's former company secretary that the sixth defendant would take over all corporate secretarial matters for the plaintiff."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1995-01-01",
+          "Text": "By June 1995, George Wuu was informed that where there were areas of duplication, some staff costs would be apportioned to the plaintiff to minimise costs to both entities."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-09-01",
+          "Text": "Between January and September 1995, the sixth defendant paid the salaries of seconded staff working for the plaintiff and later claimed reimbursement from the plaintiff for that period."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "From September 1995 onwards, the plaintiff paid the salaries of the seconded staff directly."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "For the period January to September 1995, the sixth defendant computed the plaintiff's share of seconded staff salaries by charging 50% of the actual total salaries, although the staff were working practically full time for the plaintiff."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "Between January 1995 and May 1998, 33.33% of the sixth defendant's legal, administrative and corporate secretarial costs were attributed to the plaintiff; between June 1998 and December 1998, 20% was attributed; and for January 1999, 12.5% was attributed, as decided by the first defendant."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-31",
+          "Text": "The plaintiff's share of the sixth defendant's annualised office operating expenses was about 20% for 1995 and about 22.2% for 1996, and from July 1998 the plaintiff's share was S$14,400 per month, reducing to S$9,000 for January 1999, including depreciation of furniture and renovations."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1996-12-31",
+          "Text": "The plaintiff's audited accounts for the financial year ending 31 December 1995 referred to the fifth defendant's consultancy fee as a provision, allocation of office operating expenses and salaries, interest charges on loans from related parties, and that loans from the sixth defendant were unsecured, denominated in US dollars and interest-bearing at US dollar prime rate plus 1%."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1995-12-31",
+          "Text": "The plaintiff's audited accounts for the financial year ending 31 December 1996 similarly referred to the fifth defendant's consultancy fee provision, allocation of office operating expenses and salaries, interest charges on loans from related parties, and the terms of loans from the sixth defendant."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1995-01-01",
+          "Text": "The plaintiff's audited accounts for the financial years ending 31 December 1995 and 31 December 1996 were approved by a majority of the shareholders."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "The sixth defendant provided legal services to the plaintiff including loan documentation, lease documentation, recovery of rent arrears, liaison with authorities, and work for directors' and shareholders' meetings, as well as administrative support for payroll and staff matters."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "Seconded staff working on the redevelopment of the centre and day-to-day matters operated from the sixth defendant's premises and used its facilities for meetings related to the redevelopment."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "The plaintiff agreed that existing staff employed by East Coast Recreation Centre Pte Ltd were not capable of transforming the centre into an amusement theme park and accepted that it should bear charges for services and support provided by Grande and SAFE, the amounts being reasonable."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "The plaintiff undertook infrastructure works at the centre including roofing and ceiling works, provision of adequate electrical supply for attractions, air-conditioning and plumbing, as part of redevelopment and renovation."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1997-01-01",
+          "Text": "By 1995, the centre was about 15 years old and had leaking from corroded roof gutters, uneven floor levels on the second storey of block A due to a former ballet studio, spalling concrete and public toilets requiring upgrading."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1997-01-01",
+          "Text": "The plaintiff undertook marketing efforts and tenancy arrangements with the ninth and tenth defendants, granting rent, rent-free periods and rent rebates to keep the centre active."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-08-01",
+          "Text": "The ninth defendant occupied unwalled premises vacated by a previous tenant that had gone into liquidation, under an understanding that it would vacate if a better-paying tenant was found."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1997-01-01",
+          "Text": "In the latter half of 1998, after a better-paying tenant Four Amigos was found, the ninth defendant vacated the unwalled premises at short notice in accordance with the prior understanding."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1997-01-01",
+          "Text": "The tenth defendant occupied a small take-out counter at the ground level of block B, with an outdoor seating area next to the counter that was used by members of the public and McDonald's customers and was not for the tenth defendant's exclusive use."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-01-01",
+          "Text": "The arrangement with the tenth defendant included an understanding that it would vacate the counter at short notice if an alternative tenant offering higher rent was found."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-01-01",
+          "Text": "When a better-paying tenant was found for the take-out counter, the tenth defendant vacated at short notice and the plaintiff purchased the tenth defendant's inventory without depreciation because the new tenant wanted to use it."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "After the tenth defendant vacated, the plaintiff rented out the furnished take-out counter to a subsequent tenant at an even higher rent."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "Some tenants at the centre were asked to leave because their activities, such as operating a massage parlour, were not aligned with the original intention to have a family-oriented amusement theme park."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1997-03-28",
+          "Text": "Tenants such as Pondok Gurame restaurant and Jumbo Garden left the centre due to arrears in rent or unwillingness to accept the 5.6 times rent increase."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-07-04",
+          "Text": "From 28 March 1997 onwards, the plaintiff made payments to the sixth defendant in respect of administrative, legal and secretarial charges and operating expenses."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-07-04",
+          "Text": "On 4 July 1995, the plaintiff engaged the firm Fleishman-Hillard to arrange a press conference to promote the centre and generate public interest in the planned amusement theme park, resulting in increased enquiries about the centre."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "On 4 July 1995, the plaintiff incurred fees payable to Fleishman-Hillard for organising the press conference."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-01-01",
+          "Text": "The plaintiff engaged Kota Yamaguchi, an employee of Sega experienced in planning and developing amusement theme parks in Japan, to advise on layout planning, technical issues, machine mix and marketing plans, and agreed to bear half of his fees while the Grande group bore the other half."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-02-01",
+          "Text": "By early 1999, the plaintiff was unable to keep up with its payment obligations to OCBC Bank, leading to termination of the banking facilities."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1999-02-01",
+          "Text": "In February 1999, the plaintiff was ordered in separate proceedings to pay more than S$2 million and costs to East Coast Recreation Centre Pte Ltd."
+        }
+      ],
+      "Issue": "Whether payments, tenancy arrangements, renovation contributions, consultancy and service charges, and related-party financial transactions between the plaintiff and the various defendant companies and entities resulted in financial outflows and obligations that should be reversed or adjusted as part of the final outcome of the dispute.",
+      "Rule": "Directors and managers of a company are generally make commercial decisions in good faith for the benefit of the company, and transactions with related parties, including consultancy fees, service charges, loans, interest and tenancy arrangements, are legal standards governing corporate governance, related-party dealings and insolvency avoidance provisions such as unfair preference rules under the Bankruptcy Act and Companies Act.",
+      "Application": "The plaintiff's redevelopment plans, tenancy incentives, infrastructure works, funding arrangements with Grande and SAFE, consultancy and service charges from related entities, and payments made in the years leading up to its liquidation formed the factual basis for assessing whether the impugned transactions with the defendants should be unwound or adjusted under corporate and insolvency law standards.",
+      "Judicial_Reasoning_Log": "The judgment analysed whether the defendants' conduct amounted to fraud, misuse of funds, or other actionable wrongs, and whether payments to related entities constituted unfair preferences under sections 99 and 100 of the Bankruptcy Act as applied by section 329(1) of the Companies Act. The court evaluated the commercial justifications for tenancy incentives, renovation contributions, consultancy fees, service charges, and interest on loans, and considered the plaintiff's solvency and payment practices. It concluded that the transactions had commercial justification, that the sixth defendant was treated like other creditors, and that the plaintiff was not insolvent nor influenced by a desire to prefer the sixth defendant when making the payments. The court referred to authorities such as Re Fairways Magazines Ltd and Re Libra Industries Pte Ltd to support its analysis of unfair preference and emphasised that courts should be slow to interfere with directors' commercial decisions made honestly and reasonably, citing Intraco v Multi-Pak Singapore. The court found no dishonesty, unjust enrichment, conversion or conspiracy on the part of the defendants and dismissed the plaintiff's claims, except that it held the fifth and sixth defendants not entitled to charge the plaintiff for certain pre-April 1995 expenses and ordered repayment of S$182,752.02, which was set off against costs. Overall, the plaintiff's action was dismissed save for the limited recovery against the fifth and sixth defendants, and costs were largely awarded to the defendants."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1210/2001",
+      "Coram": "Tay Yong Kwang J",
+      "Judge": "Tay Yong Kwang",
+      "Date": "2003-11-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Ho Wing On Christopher",
+      "Law_Firm": "Rajah and Tann",
+      "Counsel": [
+        "Francis Xavier",
+        "Lai Yew Fei"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1995-01-01",
+          "Text": "The first defendant, Ho Wing On Christopher, was a director of the plaintiff at material times."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1995-01-01",
+          "Text": "The first defendant was a director of the fifth to tenth defendant companies at material times."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1995-01-01",
+          "Text": "The first defendant represented Grande Leisure Management Pte Ltd as one of its nominated directors on the board of the plaintiff."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "The first defendant was described as the person ultimately in control among the defendants in relation to the joint venture operations at the East Coast Recreation Centre."
+        }
+      ],
+      "Issue": "Whether the first defendant's management decisions and involvement in related-party transactions and tenancy arrangements resulted in financial consequences for the plaintiff that should be reversed or adjusted in the final outcome.",
+      "Rule": "Company directors are generally legal standards governing their conduct in managing company affairs and entering into transactions, including those involving related entities, and such conduct is assessed under corporate and insolvency law frameworks when determining liability and remedies.",
+      "Application": "The first defendant's roles as a director of the plaintiff and related companies, his control over cost allocation decisions, and his efforts to secure tenants and structure tenancy and renovation arrangements formed part of the factual matrix considered in determining the financial responsibility of the defendants to the plaintiff.",
+      "Judicial_Reasoning_Log": "The court examined the first defendant's role as the person effectively in control among the defendants and his involvement in decisions on tenancy incentives, renovation contributions, and cost allocations. It concluded that his actions were commercially motivated and did not amount to dishonest or unreasonable conduct. The court rejected the plaintiff's contention that the first defendant and others had taken deliberate steps to misuse the plaintiff's funds and assets, and found no basis for claims of unjust enrichment, conversion or conspiracy against him. Accordingly, the claims against the first defendant were dismissed."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1210/2001",
+      "Coram": "Tay Yong Kwang J",
+      "Judge": "Tay Yong Kwang",
+      "Date": "2003-11-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Shum Sze Keong",
+      "Law_Firm": "Rajah and Tann",
+      "Counsel": [
+        "Francis Xavier",
+        "Lai Yew Fei"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1995-01-01",
+          "Text": "The second defendant, Shum Sze Keong, was a director of the plaintiff at material times."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1995-01-01",
+          "Text": "The second defendant was a director of the fifth to tenth defendant companies at material times."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1995-01-01",
+          "Text": "The second defendant represented Grande Leisure Management Pte Ltd as one of its nominated directors on the board of the plaintiff."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1995-01-01",
+          "Text": "The second defendant met frequently on site with George Wuu at the East Coast Recreation Centre and updated him on developments at the centre."
+        }
+      ],
+      "Issue": "Whether the second defendant's role as a director and his involvement in the management and reporting of the plaintiff's affairs contributed to transactions that should be reversed or adjusted in the final outcome.",
+      "Rule": "Directors involved in managing a company's operations and reporting to shareholders are assessed under general corporate law standards when determining responsibility for company transactions and financial outcomes.",
+      "Application": "The second defendant's directorships in the plaintiff and related companies and his regular updates to a major shareholder formed part of the factual background considered in assessing whether the impugned transactions warranted relief against him.",
+      "Judicial_Reasoning_Log": "The court considered the second defendant's role in updating George Wuu and participating in management decisions but found no evidence of dishonest or unreasonable conduct. It concluded that the transactions in question had commercial justification and that the second defendant was not responsible for any misuse of the plaintiff's funds or assets. The claims against the second defendant were therefore dismissed."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1210/2001",
+      "Coram": "Tay Yong Kwang J",
+      "Judge": "Tay Yong Kwang",
+      "Date": "2003-11-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lee Yen Kee Ruby",
+      "Law_Firm": "Rajah and Tann",
+      "Counsel": [
+        "Francis Xavier",
+        "Lai Yew Fei"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1995-01-01",
+          "Text": "The third defendant, Lee Yen Kee Ruby, was a director of the fifth to tenth defendant companies at material times."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1995-01-01",
+          "Text": "The third defendant was legally trained and acted as company secretary for the plaintiff and for the fifth to tenth defendant companies."
+        }
+      ],
+      "Issue": "Whether the third defendant's roles as company secretary and director of related companies contributed to transactions and charges affecting the plaintiff that should be reversed or adjusted.",
+      "Rule": "Individuals serving as company secretaries and directors of related entities are corporate law standards when their involvement in documentation and administration is assessed in connection with disputed company transactions.",
+      "Application": "The third defendant's legal training and secretarial roles in the plaintiff and related companies formed part of the context for evaluating the documentation and implementation of the impugned transactions, including tenancy agreements and service charges.",
+      "Judicial_Reasoning_Log": "The court noted the third defendant's roles but, leaving aside the question of de facto or shadow directorship, found no basis to hold her responsible for any misuse of the plaintiff's funds or assets. It concluded that the transactions were commercially justified and that there was no dishonesty or unreasonable conduct on her part. The claims against the third defendant were dismissed."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1210/2001",
+      "Coram": "Tay Yong Kwang J",
+      "Judge": "Tay Yong Kwang",
+      "Date": "2003-11-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Law Kwok Fai Paul",
+      "Law_Firm": "Rajah and Tann",
+      "Counsel": [
+        "Francis Xavier",
+        "Lai Yew Fei"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1995-01-01",
+          "Text": "The fourth defendant, Law Kwok Fai Paul, was alleged to be a director of the plaintiff and the fifth to tenth defendants at the material times."
+        }
+      ],
+      "Issue": "Whether the fourth defendant's directorships in related companies contributed to the disputed transactions and charges affecting the plaintiff in a way that should alter the final outcome.",
+      "Rule": "Directors of related companies involved in transactions with a plaintiff company are assessed under corporate law standards when determining responsibility for those transactions.",
+      "Application": "The fourth defendant's position as a director of related companies was part of the background considered in assessing the commercial nature of the transactions between the plaintiff and those companies.",
+      "Judicial_Reasoning_Log": "The court found no unreasonable or dishonest conduct on the part of the fourth defendant and rejected the plaintiff's contention that he participated in deliberate misuse of the plaintiff's funds and assets. The claims against the fourth defendant were dismissed."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1210/2001",
+      "Coram": "Tay Yong Kwang J",
+      "Judge": "Tay Yong Kwang",
+      "Date": "2003-11-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "E-Zone (Plaza) Pte Ltd",
+      "Law_Firm": "Rajah and Tann",
+      "Counsel": [
+        "Francis Xavier",
+        "Lai Yew Fei"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1995-01-01",
+          "Text": "The fifth defendant, E-Zone (Plaza) Pte Ltd, was part of the Grande group of companies."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1995-01-01",
+          "Text": "The fifth defendant was equally owned by Grande Leisure Management Pte Ltd and SAFE Enterprises Pte Ltd."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1995-01-01",
+          "Text": "Grande Leisure Management Pte Ltd and SAFE Enterprises Pte Ltd initially intended to hold a 51% stake in the plaintiff through the fifth defendant."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-03-01",
+          "Text": "In March 1995, a sale and purchase agreement was signed between George Wuu and the fifth defendant to effect the fifth defendant's holding of a 51% stake in the plaintiff."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-06-15",
+          "Text": "The March 1995 sale and purchase agreement with the fifth defendant was superseded by two sale and purchase agreements dated 15 June 1995 between George Wuu and Grande Leisure Management Pte Ltd and between George Wuu and SAFE Enterprises Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-06-15",
+          "Text": "Under the shareholders' agreement dated 15 June 1995, the fifth defendant was designated to be a tenant at the centre and to operate the amusement theme park."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-06-15",
+          "Text": "The fifth defendant was entitled under the shareholders' agreement to receive a consultancy fee from the plaintiff, similar in concept to the consultancy fee payable to East Coast Recreation Centre Pte Ltd."
+        }
+      ],
+      "Issue": "Whether consultancy fees and other financial arrangements involving the fifth defendant and the plaintiff should be adjusted or repaid as part of the final outcome.",
+      "Rule": "Consultancy fee arrangements and related-party financial transactions are assessed under corporate and insolvency law standards, including reasonableness and avoidance provisions, when determining whether payments should be recovered.",
+      "Application": "The fifth defendant's role as a vehicle for shareholding and as a consultancy recipient, and its designation as a tenant and amusement theme park operator, formed part of the factual basis for assessing whether consultancy fees and related charges from the plaintiff should be recovered.",
+      "Judicial_Reasoning_Log": "The court held that the fifth defendant, along with the sixth defendant, was not entitled to charge the plaintiff for certain items before 1 April 1995. It ordered repayment of operating expenses for the period 1 January 1995 to 31 March 1995, calculated at S$182,752.02, to be set off against costs. Apart from this limited adjustment, the court accepted the commercial basis of the consultancy fee arrangement and dismissed the broader claims against the fifth defendant."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1210/2001",
+      "Coram": "Tay Yong Kwang J",
+      "Judge": "Tay Yong Kwang",
+      "Date": "2003-11-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "The Grande Group Limited",
+      "Law_Firm": "Rajah and Tann",
+      "Counsel": [
+        "Francis Xavier",
+        "Lai Yew Fei"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1995-01-01",
+          "Text": "The sixth defendant, The Grande Group Limited, was part of the Grande group of companies."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "The sixth defendant provided legal, administrative and corporate secretarial support and services to the plaintiff, including loan and lease documentation, recovery of rent arrears, liaison with authorities, and work for directors' and shareholders' meetings."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "The sixth defendant provided administrative support for the plaintiff's payroll and staff matters."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "The sixth defendant seconded staff to the plaintiff from as early as March 1995 and paid their salaries until September 1995, later seeking reimbursement from the plaintiff."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "The sixth defendant allocated a proportion of its legal, administrative and corporate secretarial costs to the plaintiff, using percentages of 33.33% between January 1995 and May 1998, 20% between June 1998 and December 1998, and 12.5% for January 1999."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "The sixth defendant allocated a share of its office operating expenses to the plaintiff, including depreciation of furniture and renovations, with the plaintiff's share being about 20% for 1995, about 22.2% for 1996, S$14,400 per month from July 1998 and S$9,000 for January 1999."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1997-03-28",
+          "Text": "From 28 March 1997 onwards, the plaintiff made payments to the sixth defendant in respect of administrative, legal and secretarial charges and operating expenses."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "Loans from the sixth defendant to the plaintiff were unsecured, denominated in US dollars and interest-bearing at US dollar prime rate plus 1%, as reflected in the plaintiff's audited accounts."
+        }
+      ],
+      "Issue": "Whether the sixth defendant's charges for services, operating expenses and loans, and the timing of payments received from the plaintiff, should be adjusted or recovered as part of the final outcome, including under unfair preference provisions.",
+      "Rule": "Payments to a creditor may be set aside as unfair preferences under sections 99 and 100 of the Bankruptcy Act, as applied by section 329(1) of the Companies Act, if they place the creditor in a better position in insolvency, are influenced by a desire to prefer, and occur when the debtor is insolvent or becomes insolvent as a result.",
+      "Application": "The sixth defendant's provision of services, allocation of costs, and receipt of payments from the plaintiff, including after 28 March 1997, were examined to determine whether they constituted ordinary commercial dealings or unfair preferences requiring recovery.",
+      "Judicial_Reasoning_Log": "The court found that the sixth defendant's charges and payments generally reflected commercial arrangements and that the plaintiff was not insolvent nor influenced by a desire to prefer the sixth defendant when making the payments. It held that the payments did not amount to unfair preferences and rejected the plaintiff's claim under sections 99 and 100 of the Bankruptcy Act. However, the court concluded that the fifth and sixth defendants were not entitled to charge the plaintiff for the period 1 January 1995 to 31 March 1995 and ordered the sixth defendant to repay operating expenses for that period, calculated at S$182,752.02, to be set off against costs. Apart from this limited repayment, the claims against the sixth defendant were dismissed."
+    },
+    "Label": "Partially Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1210/2001",
+      "Coram": "Tay Yong Kwang J",
+      "Judge": "Tay Yong Kwang",
+      "Date": "2003-11-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "East Coast Works Pte Ltd",
+      "Law_Firm": "Rajah and Tann",
+      "Counsel": [
+        "Francis Xavier",
+        "Lai Yew Fei"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1995-01-01",
+          "Text": "The seventh defendant, East Coast Works Pte Ltd, was part of the Grande group of companies."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-12-01",
+          "Text": "In December 1995, the seventh defendant agreed to commence operations of an amusement arcade on the second floor of block A at the East Coast Recreation Centre at the plaintiff's request."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-12-01",
+          "Text": "The seventh defendant began operating an amusement arcade on the second floor of block A in December 1995 when only three main tenants remained at the centre."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-01",
+          "Text": "The plaintiff contributed about S$1 million towards the seventh defendant's fitting out works for the amusement arcade on the second floor of block A and granted preferential rental terms, including a longer fitting out period and rent rebate."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-06-01",
+          "Text": "By June 1996, the seventh defendant was concerned about product obsolescence of the Sega attractions that had arrived and were stored on site."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-07-01",
+          "Text": "After July 1996, the seventh defendant agreed with the plaintiff to shift its operations from the second floor of block A to the ground floor of block B, which was unoccupied, while the plaintiff explored other options for the amusement theme park."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-07-01",
+          "Text": "The plaintiff allowed the seventh defendant to terminate its tenancy agreement for the second floor of block A without penalty in connection with the relocation to block B."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-10-01",
+          "Text": "The tenancy agreement between the plaintiff and the seventh defendant for its premises was signed in October 1996, although the seventh defendant had been occupying the premises since January 1996."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-12-01",
+          "Text": "Some invoices for works on the second floor of block A were addressed to the seventh defendant, and in some instances the seventh defendant made payments for works on behalf of the plaintiff when the plaintiff faced cash flow problems, later being reimbursed when funds became available."
+        }
+      ],
+      "Issue": "Whether the seventh defendant's tenancy arrangements, renovation contributions, and financial dealings with the plaintiff should result in recovery or adjustment of amounts paid by the plaintiff.",
+      "Rule": "Tenancy incentives and related-party renovation and payment arrangements are evaluated under corporate and insolvency law standards to determine whether they are commercially justified or should be unwound.",
+      "Application": "The seventh defendant's role as an early tenant operating an amusement arcade, the plaintiff's contributions to its fitting out works, and the handling of invoices and reimbursements were considered in assessing whether the transactions warranted financial recovery from the seventh defendant.",
+      "Judicial_Reasoning_Log": "The court accepted that the seventh defendant's early operation of an amusement arcade served to keep the centre active during redevelopment and that the plaintiff's contributions to fitting out and preferential rental terms were commercially motivated. It found that invoice addressing issues were due to administrative practices and that payments made by the seventh defendant on the plaintiff's behalf were reimbursed. The court concluded that the transactions with the seventh defendant had valid commercial justification and rejected the plaintiff's claims against it."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1210/2001",
+      "Coram": "Tay Yong Kwang J",
+      "Judge": "Tay Yong Kwang",
+      "Date": "2003-11-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Hong Kong Aberdeen Seafood Restaurant Pte Ltd",
+      "Law_Firm": "Rajah and Tann",
+      "Counsel": [
+        "Francis Xavier",
+        "Lai Yew Fei"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1995-01-01",
+          "Text": "The eighth defendant, Hong Kong Aberdeen Seafood Restaurant Pte Ltd, was part of the Grande group of companies."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-12-01",
+          "Text": "After Jumbo Garden left the second level of block B due to difficulty meeting increased rent, the eighth defendant began operating a seafood restaurant on the second level of block B when there were no serious offers for those premises and most of block B was unoccupied."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-01",
+          "Text": "The eighth defendant was granted a period of rental rebate and charged rent that was a fraction of the rent payable by Jumbo Garden after the 5.6 times increase, at a level similar to an offer previously made by Palm Beach."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-12-01",
+          "Text": "Some works for the premises occupied by the eighth defendant were initially paid for by the eighth defendant when the plaintiff faced cash flow problems, and the plaintiff later reimbursed the eighth defendant when funds became available."
+        }
+      ],
+      "Issue": "Whether the eighth defendant's tenancy terms, rental rebates, and renovation-related payments should be adjusted or recovered as part of the final outcome.",
+      "Rule": "Related-party tenancy arrangements and contributions to renovation costs are assessed for commercial justification and potential recovery under corporate and insolvency law principles.",
+      "Application": "The eighth defendant's operation of a seafood restaurant in largely vacant premises, the rental level and rebates, and the handling of renovation payments were examined to determine whether the plaintiff's financial outlays should be recovered.",
+      "Judicial_Reasoning_Log": "The court found that the eighth defendant's tenancy helped activate otherwise vacant premises and that the rent and rebates were commercially realistic given market interest. It accepted that payments made by the eighth defendant for works were reimbursed by the plaintiff and that the arrangements were not improper. The claims against the eighth defendant were dismissed."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1210/2001",
+      "Coram": "Tay Yong Kwang J",
+      "Judge": "Tay Yong Kwang",
+      "Date": "2003-11-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Nakamichi Pte Ltd",
+      "Law_Firm": "Rajah and Tann",
+      "Counsel": [
+        "Francis Xavier",
+        "Lai Yew Fei"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1998-01-01",
+          "Text": "The ninth defendant, Nakamichi Pte Ltd, operated at the East Coast Recreation Centre under tenancy arrangements with the plaintiff."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-01-01",
+          "Text": "The ninth defendant occupied unwalled premises vacated by a previous tenant that had gone into liquidation after failing to keep up with rent payments."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1998-01-01",
+          "Text": "The understanding between the plaintiff and the ninth defendant was that the ninth defendant would vacate the unwalled premises if a better-paying tenant was found."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1998-07-01",
+          "Text": "In the latter half of 1998, after the plaintiff secured a better-paying tenant, Four Amigos, the ninth defendant vacated the unwalled premises at short notice in accordance with the prior understanding."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-01-01",
+          "Text": "The ninth defendant received rent, rent-free periods and rent rebates from the plaintiff as part of efforts to keep the centre active."
+        }
+      ],
+      "Issue": "Whether the ninth defendant's tenancy incentives and short-notice vacating arrangement should result in any financial recovery or adjustment in the final outcome.",
+      "Rule": "Tenancy incentives and flexible vacating arrangements are evaluated under commercial and insolvency law standards to determine whether they warrant financial recovery.",
+      "Application": "The ninth defendant's occupation of previously vacated premises, the agreed vacating condition, and the rent concessions were considered in assessing whether the plaintiff's financial concessions should be reversed.",
+      "Judicial_Reasoning_Log": "The court accepted that the ninth defendant's tenancy helped keep the centre active and that the understanding to vacate for a better-paying tenant was commercially sensible. It found no basis to recover amounts from the ninth defendant and dismissed the claims against it."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 1210/2001",
+      "Coram": "Tay Yong Kwang J",
+      "Judge": "Tay Yong Kwang",
+      "Date": "2003-11-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Cafe Al Fresco Pte Ltd",
+      "Law_Firm": "Rajah and Tann",
+      "Counsel": [
+        "Francis Xavier",
+        "Lai Yew Fei"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1995-01-01",
+          "Text": "The tenth defendant, Cafe Al Fresco Pte Ltd, operated a small take-out counter at the ground level of block B at the East Coast Recreation Centre."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-01-01",
+          "Text": "An outdoor seating area was constructed next to the tenth defendant's take-out counter, which was used by members of the public and McDonald's customers and was not for the tenth defendant's exclusive use."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "The arrangement between the plaintiff and the tenth defendant included an understanding that the tenth defendant would vacate the take-out counter at short notice if an alternative tenant offering higher rent was found."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1995-01-01",
+          "Text": "The tenth defendant received rent, rent-free periods and rent rebates from the plaintiff as part of efforts to keep the centre active."
+        }
+      ],
+      "Issue": "Whether the tenth defendant's tenancy incentives, inventory purchase arrangement and short-notice vacating should result in any financial recovery or adjustment in the final outcome.",
+      "Rule": "Related-party tenancy incentives and asset purchase arrangements are assessed for commercial justification and potential recovery under corporate and insolvency law principles.",
+      "Application": "The tenth defendant's role in drawing beach-goers, the rent concessions, the understanding to vacate, and the plaintiff's purchase of inventory and subsequent higher rental income were considered in determining whether any financial adjustment was warranted.",
+      "Judicial_Reasoning_Log": "The court found that the tenth defendant's presence supported the amusement arcade and that the rent concessions and vacating arrangement were commercially sensible. It noted that the plaintiff benefited by renting out the furnished counter at a higher rent after purchasing the inventory. The court concluded that there was no basis for recovery against the tenth defendant and dismissed the claims."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  }
+]

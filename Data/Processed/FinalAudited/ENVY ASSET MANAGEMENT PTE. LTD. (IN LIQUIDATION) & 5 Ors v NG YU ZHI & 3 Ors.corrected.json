@@ -1,0 +1,662 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 942 of 2021",
+      "Coram": "Mohamed Faizal JC",
+      "Judge": "Mohamed Faizal",
+      "Date": "2025-07-29",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Envy Asset Management Pte Ltd (in liquidation)",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2015-10-08",
+          "Text": "Envy Asset Management Pte Ltd (EAM) was incorporated in Singapore on 2015-10-08."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-01-01",
+          "Text": "From around 2015 to 2020-04-01, EAM presented itself as engaging in a business of physical nickel trading described as the Purported Nickel Trading."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-02-01",
+          "Text": "From 2016-02-01 onwards, EAM and its staff sent emails and marketing materials to potential and existing investors describing a nickel trading model involving purchase of nickel from Poseidon Nickel Limited and sale to buyers such as China MinMetals Corporation and BNP-related entities."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-01-01",
+          "Text": "From around 2015, investors entered into Letters of Agreement with EAM under which investors provided investment amounts for three-month terms stated to be used solely for investment in LME nickel products, with options to roll over or withdraw at maturity."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-01-01",
+          "Text": "Under the Letters of Agreement, EAM typically stated that investors would receive at least 85% of their invested principal upon maturity of each three-month term."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-02-01",
+          "Text": "From 2016-02-01 to 2021-03-01, EAM issued monthly spreadsheets to investors showing purported profit and loss and returns on their individual investments."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-02-01",
+          "Text": "From 2016-02-01 to 2021-03-01, EAM circulated fact sheets, prospectuses and slide decks describing its nickel trading model and historical returns."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-10-06",
+          "Text": "On 2016-10-06, an email was sent from EAM to an investor describing a nickel deal involving purchase from Poseidon Nickel Limited in 2016-02-01 and delivery to China MinMetals Corporation in 2016-04-01, and an aluminium deal involving Meikles EC and China MinMetals Corporation in mid-2016."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-01-01",
+          "Text": "In 2016, EAM issued a prospectus prepared with input from its management which stated that EAM was licensed by the Monetary Authority of Singapore and categorised as a Registered Fund Management Company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-04-26",
+          "Text": "Between 2018-04-26 and 2021-02-10, funds were transferred from bank accounts of EAM and Envy Global Trading Pte Ltd to bank accounts bearing the names EAM Trading or Envy Asset Management Trading."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-01-01",
+          "Text": "From 2016-01-01 onwards, EAM made payments to investors that exceeded their original investment principal, described to investors as referral fees or profits."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-01-01",
+          "Text": "From 2016-01-01 onwards, EAM made payments to its directors and employees in the form of salaries, allowances, bonuses, commissions, profit sharing, directors' fees and other reimbursements."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-01-01",
+          "Text": "From 2016-01-01 onwards, EAM transferred funds to entities related to the Envy group or to companies owned by Envy entities or Ng Yu Zhi."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-02-01",
+          "Text": "From around 2020-02-01, promotional material circulated by the Envy group described Envysion entities as part of a wider Envy group and stated that Envysion Wealth Management Pte Ltd held a Capital Markets Services Licence from the Monetary Authority of Singapore."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2021-02-01",
+          "Text": "In early 2021, during a webcast with investors, a video of a stock inspection at Steinweg Warehouse in Tuas was shown and described as a stock count of nickel briquettes that investors had invested in during late 2020."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-01-01",
+          "Text": "From 2016-01-01 onwards, EAM operated an investment structure in which new investor funds were used to make payments to earlier investors, to staff, and to related entities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-01-01",
+          "Text": "From 2016-01-01 onwards, EAM did not operate a separate, documented revenue-generating business apart from the investment scheme described to investors."
+        }
+      ],
+      "Issue": "Whether Envy Asset Management Pte Ltd, prior to liquidation, operated an investment scheme that resulted in outstanding net principal amounts owed to investors and whether payments made to various individuals and entities should be recoverable for the benefit of its creditors.",
+      "Rule": "Under Singapore insolvency and company law, where a company is insolvent or later wound up, transactions involving company property, including payments to investors, directors, employees, and related parties, may be avoidance or recovery if they fall within statutory categories such as fraudulent trading, transactions to defraud creditors, transactions at an undervalue, or unfair preferences, and directors may be personally answerable for losses arising from conduct in managing the company.",
+      "Application": "Envy Asset Management Pte Ltd received substantial funds from investors under Letters of Agreement and made various payments to investors, directors, employees, and related entities while not operating a separate documented revenue-generating business. The company presented itself as licensed and as conducting profitable nickel trading, and used new investor funds to meet outgoing payments. These pre-dispute events provide the factual basis for assessing whether the statutory and common law mechanisms for recovery of payments and allocation of responsibility apply once the company entered insolvency and liquidation.",
+      "Judicial_Reasoning_Log": "The judgment characterises the Envy entities as vehicles for a large Ponzi scheme involving non-existent nickel trading, details the methodology for calculating the Minimum Net Principal owed to under-withdrawn investors, and applies statutory provisions on fraudulent trading, transactions to defraud creditors, transactions at an undervalue, unfair preferences, and dividend payment rules, as well as common law doctrines on directors' duties, unjust enrichment, dishonest assistance, knowing receipt, and unlawful means conspiracy. The court evaluates the roles and mental states of the second, third, and fourth defendants, distinguishes between negligence and knowledge of the underlying fraud, and determines which payments are recoverable and on what basis. It also addresses procedural issues regarding affidavits of evidence-in-chief and the treatment of evidence from a witness facing concurrent criminal proceedings, and concludes with findings on joint and several liability and the availability of set-off."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 942 of 2021",
+      "Coram": "Mohamed Faizal JC",
+      "Judge": "Mohamed Faizal",
+      "Date": "2025-07-29",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Envy Management Holdings Pte Ltd (in liquidation)",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2020-06-18",
+          "Text": "Envy Management Holdings Pte Ltd (EMH) was incorporated in Singapore on 2020-06-18."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-06-18",
+          "Text": "From 2020-06-18, Envy Management Holdings Pte Ltd was the sole shareholder of Envy Global Trading Pte Ltd."
+        }
+      ],
+      "Issue": "Whether Envy Management Holdings Pte Ltd, as holding company of Envy Global Trading Pte Ltd, is implicated in pre-liquidation transactions and liabilities arising from the investment scheme operated through its subsidiary.",
+      "Rule": "A holding company that owns a trading subsidiary may be affected by insolvency and avoidance provisions where company property is transferred or liabilities are incurred in the context of an investment scheme, and directors of the holding company may be duties in relation to the management of the group.",
+      "Application": "Envy Management Holdings Pte Ltd held the shares of Envy Global Trading Pte Ltd during the period when the latter received investor funds under Receivables Purchase Agreements and made payments to various parties. This shareholding structure is the tracing of funds and assessment of responsibility for group-level decisions once insolvency and liquidation occurred.",
+      "Judicial_Reasoning_Log": "The judgment treats Envy Management Holdings Pte Ltd as part of the Envy Companies group used in the investment scheme and considers its role primarily through its shareholding in Envy Global Trading Pte Ltd when analysing group insolvency, the Minimum Net Principal, and the scope of relief against individuals involved in managing the group."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 942 of 2021",
+      "Coram": "Mohamed Faizal JC",
+      "Judge": "Mohamed Faizal",
+      "Date": "2025-07-29",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Envy Global Trading Pte Ltd (in liquidation)",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2019-12-10",
+          "Text": "Envy Global Trading Pte Ltd (EGT) was incorporated in Singapore on 2019-12-10."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-01",
+          "Text": "From around 2020-04-01, the business of the Purported Nickel Trading previously conducted by Envy Asset Management Pte Ltd was transferred to and conducted by Envy Global Trading Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2020-04-01",
+          "Text": "From around 2020-04-01 to 2021-03-01, investors entered into Receivables Purchase Agreements with Envy Global Trading Pte Ltd to invest in receivables under Forward Contracts relating to nickel trades."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-01",
+          "Text": "Under the Receivables Purchase Agreements, Envy Global Trading Pte Ltd typically stated that investors would receive at least 85% of their Sale Price or principal at maturity, with options to roll over or withdraw."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-04-01",
+          "Text": "Envy Global Trading Pte Ltd represented to investors that BNP Paribas SA and Raffemet Pte Ltd were Forward Buyers under certain Forward Contracts."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2020-05-01",
+          "Text": "From around 2020-05-01 to 2021-02-01, Envysion Wealth Management Pte Ltd and Envysion Commodity Strategy Fund invested approximately S$56,500,000 and US$15,400,000 into the Purported Nickel Trading via Receivables Purchase Agreements with Envy Global Trading Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2020-08-01",
+          "Text": "In 2020-08-01, Envy Global Trading Pte Ltd purchased approximately 2969.26 metric tonnes of primary nickel briquettes from Raffemet Pte Ltd in a transaction later referred to as the Singapore Nickel Shipment."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2020-09-01",
+          "Text": "Between 2020-08-01 and 2020-09-01, Envy Global Trading Pte Ltd resold the nickel from the Singapore Nickel Shipment back to Raffemet Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-08-24",
+          "Text": "On 2020-08-24, a physical inspection of nickel briquettes at Steinweg Warehouse in Tuas was conducted and recorded on video, and video links to this inspection were circulated to investors of Envy Global Trading Pte Ltd and related entities."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-04-26",
+          "Text": "Between 2018-04-26 and 2021-02-10, Envy Global Trading Pte Ltd and Envy Asset Management Pte Ltd transferred a total of approximately S$416,575,000 and US$17,665,000 from their bank accounts to accounts bearing the names EAM Trading or Envy Asset Management Trading."
+        }
+      ],
+      "Issue": "Whether Envy Global Trading Pte Ltd, as the entity conducting the investment scheme from April 2020, incurred liabilities to investors and made payments that are recovery or reallocation following its insolvency.",
+      "Rule": "Where a trading company receives investor funds under contractual arrangements and later enters insolvency, the law on insolvency, company management, and restitution governs the treatment of investor claims and the recoverability of payments made to investors, staff, and related parties.",
+      "Application": "Envy Global Trading Pte Ltd took over the investment scheme from Envy Asset Management Pte Ltd, entered into Receivables Purchase Agreements with investors, and engaged in a single documented nickel shipment with Raffemet Pte Ltd while continuing to use investor funds for outgoing payments. These pre-dispute events form the factual basis for assessing investor entitlements and the status of payments once the company became insolvent and was placed into liquidation.",
+      "Judicial_Reasoning_Log": "The judgment treats Envy Global Trading Pte Ltd as the main operating entity for the investment scheme from April 2020, analyses the Singapore Nickel Shipment and associated inspection as part of the factual matrix, and uses the flow of funds through this company to compute the Minimum Net Principal and to evaluate statutory and common law claims against individuals involved in its management."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 942 of 2021",
+      "Coram": "Mohamed Faizal JC",
+      "Judge": "Mohamed Faizal",
+      "Date": "2025-07-29",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Bob Yap Cheng Ghee",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2021-08-16",
+          "Text": "On 2021-08-16, Bob Yap Cheng Ghee was appointed as one of the liquidators of Envy Asset Management Pte Ltd, Envy Management Holdings Pte Ltd, and Envy Global Trading Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2021-08-16",
+          "Text": "Bob Yap Cheng Ghee was appointed as one of the liquidators of the Envy Companies on 16 August 2021."
+        }
+      ],
+      "Issue": "Whether, based on the investigations led by liquidator Bob Yap Cheng Ghee, the Envy Companies' pre-liquidation transactions support recovery actions against recipients of company funds.",
+      "Rule": "Liquidators are empowered to investigate company affairs, identify transactions that may be set aside under insolvency and company law, and pursue recovery actions for the benefit of creditors.",
+      "Application": "As liquidator, Bob Yap Cheng Ghee collected and analysed data on investor inflows and outflows, transfers to individuals and related entities, and the absence of genuine trading activity, and used this information to calculate the Minimum Net Principal and to initiate recovery actions against parties who received funds from the Envy Companies.",
+      "Judicial_Reasoning_Log": "The judgment relies extensively on the affidavits and analyses of liquidator Bob Yap Cheng Ghee to describe the structure of the investment scheme, the flow of funds, the absence of genuine trading, and the computation of the Minimum Net Principal, and uses his work as the evidential foundation for the legal findings on liability and recovery."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 942 of 2021",
+      "Coram": "Mohamed Faizal JC",
+      "Judge": "Mohamed Faizal",
+      "Date": "2025-07-29",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Tay Puay Cheng",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2021-08-16",
+          "Text": "On 2021-08-16, Mr Tan Puay Cheng was appointed as one of the liquidators of the Envy Companies."
+        }
+      ],
+      "Issue": "Whether, as a liquidator, Tay Puay Cheng is entitled to pursue recovery of pre-liquidation payments made by the Envy Companies.",
+      "Rule": "Liquidators appointed by the court act collectively to administer the insolvent estate and may bring proceedings to recover company property and challenge antecedent transactions.",
+      "Application": "As part of the liquidator team, Tay Puay Cheng joined in the decisions to investigate the Envy Companies' transactions and to commence proceedings against individuals and entities who received funds from the companies before liquidation.",
+      "Judicial_Reasoning_Log": "The judgment identifies Tay Puay Cheng as one of the joint and several liquidators and treats the liquidators collectively when describing the investigations and recovery actions, without differentiating individual responsibilities among them."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 942 of 2021",
+      "Coram": "Mohamed Faizal JC",
+      "Judge": "Mohamed Faizal",
+      "Date": "2025-07-29",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Toh Ai Ling",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2021-08-16",
+          "Text": "On 16 August 2021, Toh Ai Ling was appointed as one of the liquidators of the Envy Companies."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2021-08-16",
+          "Text": "Toh Ai Ling was appointed as one of the liquidators of the Envy Companies on 16 August 2021."
+        }
+      ],
+      "Issue": "Whether, as a liquidator, Toh Ai Ling is entitled to participate in recovery actions concerning pre-liquidation transactions of the Envy Companies.",
+      "Rule": "Joint and several liquidators share authority to manage the insolvent estate and to bring proceedings to recover assets and challenge transactions entered into before liquidation.",
+      "Application": "As part of the liquidator team, Toh Ai Ling joined in the collective actions to investigate the Envy Companies' financial affairs and to pursue claims against recipients of company funds.",
+      "Judicial_Reasoning_Log": "The judgment lists Toh Ai Ling as one of the joint and several liquidators and treats the liquidators as a group when discussing investigative steps and litigation strategy, without assigning distinct roles to individual liquidators."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 942 of 2021",
+      "Coram": "Mohamed Faizal JC",
+      "Judge": "Mohamed Faizal",
+      "Date": "2025-07-29",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Ng Yu Zhi",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2015-10-08",
+          "Text": "On 2015-10-08, Ng Yu Zhi was appointed as a director of Envy Asset Management Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2019-12-10",
+          "Text": "On 2019-12-10, Ng Yu Zhi was appointed as a director of Envy Global Trading Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2015-01-01",
+          "Text": "From 2015-01-01 onwards, Ng Yu Zhi held at least 80% to 90% of the ordinary shares in the Envy Companies."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-08-29",
+          "Text": "On 2016-08-29, Ng Yu Zhi asked an employee to prepare invoices to China MinMetals Corporation for earlier nickel and aluminium deals that had been agreed verbally, stating that the documents were needed for inclusion in a prospectus."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "In 2017, Ng Yu Zhi told a colleague that he had engaged Grant Thornton to audit Envy Asset Management Pte Ltd and later stated that the audit was delayed due to a restructuring at Grant Thornton."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2019-01-01",
+          "Text": "In 2019, Ng Yu Zhi participated in email discussions with KPMG Services Pte Ltd and a colleague about engaging KPMG Services Pte Ltd to audit Envy Asset Management Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2019-11-01",
+          "Text": "On 2019-11-01, Ng Yu Zhi contacted Poseidon Nickel Limited to inquire about purchasing physical nickel."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-08-01",
+          "Text": "In 2020-08-01, Ng Yu Zhi instructed preparation of Forward Contracts showing Envy Global Trading Pte Ltd selling nickel to Raffemet Pte Ltd and provided details such as tonnage, price, contract date, and expiry date."
+        }
+      ],
+      "Issue": "Whether, based on his pre-dispute conduct and control of the Envy Companies, Ng Yu Zhi's actions created or contributed to the investment scheme and the flow of funds that are the subject of recovery actions.",
+      "Rule": "Company controllers and directors who design and operate investment schemes, direct the use of company funds, and instruct the creation of documents used in investor communications may be personal liability and recovery actions under insolvency, company, and restitutionary principles once the companies become insolvent.",
+      "Application": "Ng Yu Zhi founded and controlled the Envy Companies, directed their investment scheme, instructed the preparation of documents used in investor communications, and arranged large transfers of company funds to accounts he controlled. These pre-dispute actions form the factual basis for assessing his role in the scheme and the treatment of transfers once the companies entered insolvency.",
+      "Judicial_Reasoning_Log": "The judgment describes Ng Yu Zhi as the central figure in the investment scheme, details his control over the Envy Companies and the flow of funds, and notes that a partial summary judgment had previously been obtained against him for large sums transferred from company accounts. However, because he was adjudged bankrupt and not pursued as a defendant in this suit, the court states that its findings are not binding on him for other proceedings."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 942 of 2021",
+      "Coram": "Mohamed Faizal JC",
+      "Judge": "Mohamed Faizal",
+      "Date": "2025-07-29",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lee Si Ye",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2015-01-01",
+          "Text": "Before joining the Envy Companies, Lee Si Ye was trained as an accountant and had previously worked as an auditor."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2015-01-01",
+          "Text": "Around 2015, Lee Si Ye came to know Ng Yu Zhi during her past employment as an auditor."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2015-11-12",
+          "Text": "On 2015-11-12, Lee Si Ye was appointed as a director of Envy Asset Management Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-04-13",
+          "Text": "On 2020-04-13, Lee Si Ye was appointed as a director of Envy Global Trading Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-06-18",
+          "Text": "On 2020-06-18, Lee Si Ye was appointed as a director of Envy Management Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2015-01-01",
+          "Text": "From 2015-01-01 onwards, Lee Si Ye held approximately 10% to 20% of the ordinary shares in the Envy Companies."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-11-12",
+          "Text": "From 2015-11-12 onwards, in her role at the Envy Companies, Lee Si Ye was responsible for back-office functions including preparation of audit schedules, cash flow statements, balance sheets, profit and loss statements, management accounts, and unaudited financial statements based on information provided to her."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-11-12",
+          "Text": "From 2015-11-12 onwards, Lee Si Ye provided template agreements to be used as Letters of Agreement for investors in the investment scheme."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-11-12",
+          "Text": "From 2015-11-12 onwards, Lee Si Ye maintained and oversaw Excel-based investment trackers that recorded inflows and outflows between the Envy Companies and investors, initially populating them herself and later supervising support staff who updated them."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-11-12",
+          "Text": "From 2015-11-12 onwards, Lee Si Ye calculated commissions, salaries, bonuses, and profit-sharing amounts to be paid to employees of the Envy Companies."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-01-01",
+          "Text": "Before 2017-01-01, Lee Si Ye personally sent monthly market outlook updates and investment reports to investors of the Envy Companies."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2017-01-01",
+          "Text": "From 2017-01-01 onwards, when the client management team was short-handed, Lee Si Ye occasionally assisted in sending monthly updates and reports to investors and was copied on such communications."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-01-01",
+          "Text": "From 2016-01-01 onwards, Lee Si Ye was one of two authorised signatories, together with Ng Yu Zhi, for various bank accounts owned by the Envy Companies, with transactions above S$200,000 requiring two signatures."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-09-01",
+          "Text": "In 2016-09-01, Lee Si Ye informed Ng Yu Zhi that the financial records of the Envy Companies were incomplete and that records for multiple periods were missing."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-01-01",
+          "Text": "In 2017, Lee Si Ye asked Ng Yu Zhi about arranging an external audit of Envy Asset Management Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2019-01-01",
+          "Text": "In 2019, Lee Si Ye contacted KPMG Services Pte Ltd to explore engaging them as external auditors for Envy Asset Management Pte Ltd and participated in email discussions with KPMG Services Pte Ltd and Ng Yu Zhi about this engagement."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-01-01",
+          "Text": "In 2016, Lee Si Ye prepared or contributed to the preparation of a prospectus for Envy Asset Management Pte Ltd that stated the company was licensed by the Monetary Authority of Singapore and categorised as a Registered Fund Management Company."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-10-06",
+          "Text": "On 2016-10-06, Lee Si Ye emailed an investor describing nickel and aluminium deals involving Poseidon Nickel Limited, Meikles EC, and China MinMetals Corporation, including purchase and delivery dates."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-08-29",
+          "Text": "On 2016-08-29, after receiving a message from Ng Yu Zhi stating that previous nickel and aluminium deals had been agreed verbally and that documents were needed for a prospectus, Lee Si Ye assisted in preparing invoices addressed to China MinMetals Corporation."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-01-01",
+          "Text": "From 2018-01-01 onwards, Lee Si Ye received emails from staff highlighting discrepancies and inaccuracies in the Envy Companies' financial records."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-01-01",
+          "Text": "From 2018-01-01 onwards, Lee Si Ye was copied on monthly investor statements and market outlook reports sent to investors, which included personalised spreadsheets of each investor's investment performance."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-01-01",
+          "Text": "From 2018-01-01 onwards, Lee Si Ye communicated with Ng Yu Zhi about the state of the Envy Companies' financial records and the need for external audits."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2020-09-16",
+          "Text": "On 2020-09-16, Lee Si Ye emailed an investor stating that BNP was still the end buyer for nickel but that purchases were being made through a broker, Raffemet Pte Ltd, which she described as an established firm with more than 25 years of experience and a market value of about S$1 billion."
+        }
+      ],
+      "Issue": "Whether, based on her pre-dispute conduct and responsibilities, Lee Si Ye's actions as director and back-office manager of the Envy Companies contributed to the operation of the investment scheme and the payments later challenged in insolvency proceedings.",
+      "Rule": "Directors and senior staff responsible for financial records, investor communications, and authorisation of payments are statutory and common law standards governing company management, including potential personal responsibility for losses and recoverable payments when a company becomes insolvent.",
+      "Application": "As a director and back-office manager, Lee Si Ye prepared financial documents, maintained investment trackers, communicated with investors, assisted in preparing invoices and prospectuses, and co-signed bank transactions. These pre-dispute actions are assessing her role in the investment scheme and the extent to which payments authorised or facilitated by her may be recoverable once the Envy Companies entered insolvency.",
+      "Judicial_Reasoning_Log": "The judgment examines in detail whether Lee Si Ye had actual knowledge or was wilfully blind to the non-existence of the nickel trading, distinguishes between her negligence and awareness of specific irregularities, and ultimately determines the extent of her liability under various statutory and common law causes of action, including fraudulent trading, transactions to defraud creditors, transactions at an undervalue, unfair preferences, improper dividend payments, breach of directors' duties, knowing receipt, unjust enrichment, dishonest assistance, and unlawful means conspiracy."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 942 of 2021",
+      "Coram": "Mohamed Faizal JC",
+      "Judge": "Mohamed Faizal",
+      "Date": "2025-07-29",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Ju Xiao",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2019-01-01",
+          "Text": "Before joining the Envy Companies, Ju Xiao worked as a treasury and finance manager and as a trading manager for a company that traded physical metals including copper and nickel."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2019-12-10",
+          "Text": "On 2019-12-10, Ju Xiao was appointed as a director of Envy Global Trading Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2019-12-02",
+          "Text": "On 2019-12-02, Ju Xiao became Head of Trading for the Envy Companies."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2019-12-02",
+          "Text": "From 2019-12-02 onwards, Ju Xiao conducted proprietary trading in financial products such as foreign exchange contracts for differences, options, and fixed-income bonds for Envy Global Trading Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-08-01",
+          "Text": "In 2020-08-01, Ju Xiao arranged the purchase of approximately 2969.26 metric tonnes of primary nickel briquettes from Raffemet Pte Ltd for Envy Global Trading Pte Ltd as part of the Singapore Nickel Shipment."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-08-01",
+          "Text": "In 2020-08-01, following instructions from Ng Yu Zhi, Ju Xiao prepared Forward Contracts showing Envy Global Trading Pte Ltd selling nickel to Raffemet Pte Ltd and included details such as tonnage, sale price, contract date, and expiry date as provided to him."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-08-01",
+          "Text": "In 2020-08-01, Ju Xiao communicated with staff of Envysion entities regarding the provision of shipping documents, payment invoices, and hedging transaction records for 2020 for due diligence purposes."
+        }
+      ],
+      "Issue": "Whether, based on his pre-dispute conduct as director and Head of Trading, Ju Xiao's actions in proprietary trading and in arranging the Singapore Nickel Shipment and related documents contributed to the operation of the investment scheme and the payments later challenged in insolvency proceedings.",
+      "Rule": "Directors and trading heads who execute trades, prepare transaction documents, and interact with related investment entities are legal standards governing their conduct, and may be personally responsible for losses or recoverable payments if their actions are connected to an insolvent company's investment scheme.",
+      "Application": "As director and Head of Trading, Ju Xiao conducted proprietary trading, arranged the Singapore Nickel Shipment, prepared Forward Contracts with Raffemet Pte Ltd, and interacted with Envysion staff regarding documentation. These pre-dispute actions are assessing his role in the investment scheme and the extent to which payments he received or influenced may be recoverable after the Envy Companies became insolvent.",
+      "Judicial_Reasoning_Log": "The judgment analyses whether Ju Xiao's involvement in the Singapore Nickel Shipment and related documentation indicates awareness of irregularities in the investment scheme, and determines his liability under statutory provisions on fraudulent trading, transactions to defraud creditors, transactions at an undervalue, and unfair preferences, as well as common law claims including breach of directors' duties, unjust enrichment, dishonest assistance, knowing receipt, and unlawful means conspiracy."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 942 of 2021",
+      "Coram": "Mohamed Faizal JC",
+      "Judge": "Mohamed Faizal",
+      "Date": "2025-07-29",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Cheong Ming Feng",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2017-05-16",
+          "Text": "On 2017-05-16, Cheong Ming Feng commenced employment with the Envy Companies as a Business Administrative Executive and Client Support Associate."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2017-05-16",
+          "Text": "From 2017-05-16 onwards, in his role at the Envy Companies, Cheong Ming Feng reported to Ng Yu Zhi, Lee Si Ye, and another employee, Shen Xuhuai."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-05-16",
+          "Text": "From 2017-05-16 onwards, Cheong Ming Feng filled in investors' personal details and investment amounts into pre-prepared Letters of Agreement and Receivables Purchase Agreements and sent these documents to investors by email for execution."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-05-16",
+          "Text": "From 2017-05-16 onwards, Cheong Ming Feng sent prospectuses and fact sheets about the Envy Companies to potential and existing investors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-05-16",
+          "Text": "From 2017-05-16 onwards, Cheong Ming Feng prepared monthly statements for investors and responded to investor queries based on figures obtained from the investment trackers."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-05-16",
+          "Text": "From 2017-05-16 onwards, Cheong Ming Feng assisted in arranging the sale of physical nickel when required."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-01-01",
+          "Text": "From 2018-01-01 onwards, on instructions from Ng Yu Zhi, Cheong Ming Feng conveyed instructions to a third party, Heng Yong Hui, to alter or create documents including internet banking screenshots, trading statements, and shipping documents."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-01-01",
+          "Text": "From 2018-01-01 onwards, Cheong Ming Feng forwarded sample letters of credit, marine cargo insurance policies, and bills of lading to Heng Yong Hui and instructed him to edit them according to instructions received from Ng Yu Zhi."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-10-01",
+          "Text": "On 2018-10-01, Cheong Ming Feng sent a United Overseas Bank internet banking screenshot to Heng Yong Hui and instructed him to change the sender name and amount to reflect a large inward remittance from BNP Paribas Commodity Futures Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-01-01",
+          "Text": "From 2018-01-01 onwards, Cheong Ming Feng instructed Heng Yong Hui to alter screenshots of Envy Asset Management Pte Ltd's United Overseas Bank account balances to show higher balances than the actual balances."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-01-01",
+          "Text": "From 2018-01-01 onwards, Cheong Ming Feng instructed Heng Yong Hui to alter sample trading statements in the name of BNP entities to create documents showing nickel trades for Envy Asset Management Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-01-01",
+          "Text": "From 2018-01-01 onwards, Cheong Ming Feng instructed Heng Yong Hui to alter sample shipping documents, including letters of credit and marine cargo insurance policies, to show Envy entities as parties to nickel shipments."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-01-01",
+          "Text": "From 2017-01-01 onwards, Cheong Ming Feng received salary, allowances, bonuses, commissions, profit sharing, and other payments from the Envy Companies for his work."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2017-01-01",
+          "Text": "From 2017-01-01 onwards, Cheong Ming Feng invested approximately S$3,000,000 into the Purported Nickel Trading and, by the time of the dispute, had withdrawn less than his total investment."
+        }
+      ],
+      "Issue": "Whether, based on his pre-dispute conduct as an administrative and client support employee, including conveying instructions to alter documents, Cheong Ming Feng's actions contributed to the operation of the investment scheme and the payments later challenged in insolvency proceedings.",
+      "Rule": "Employees who prepare investor documentation, communicate with investors, and participate in the creation or alteration of documents used in an investment scheme may be recovery actions and personal liability under insolvency and restitutionary principles if their conduct is connected to payments made by an insolvent company.",
+      "Application": "As an administrative and client support employee, Cheong Ming Feng prepared and sent investment documents and statements to investors, and conveyed instructions to alter banking, trading, and shipping documents used in investor communications. These pre-dispute actions are assessing his role in the investment scheme and the extent to which payments he received may be recoverable after the Envy Companies became insolvent.",
+      "Judicial_Reasoning_Log": "The judgment considers Cheong Ming Feng's limited educational background and work history, his role in conveying instructions to a document forger, and his own investments in the scheme when assessing whether he had knowledge of the underlying fraud and determining his liability under statutory and common law causes of action, including transactions to defraud creditors, transactions at an undervalue, unfair preferences, unjust enrichment, dishonest assistance, knowing receipt, and unlawful means conspiracy."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 2
+  }
+]

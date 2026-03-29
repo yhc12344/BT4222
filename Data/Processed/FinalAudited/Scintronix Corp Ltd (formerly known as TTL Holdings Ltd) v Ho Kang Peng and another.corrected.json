@@ -1,0 +1,264 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 207 of 2009",
+      "Coram": "Quentin Loh J",
+      "Judge": "Quentin Loh",
+      "Date": "2013-02-08",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Scintronix Corp Ltd (formerly known as TTL Holdings Ltd)",
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Tony Yeo",
+        "Rozalynne Asmali",
+        "Fong King Man"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2001-01-01",
+          "Text": "TTL Holdings Ltd, later renamed Scintronix Corp Ltd, identified Fu Yu Manufacturing Limited as a competitor in its 2001 listing documents."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2006-01-01",
+          "Text": "TTL Holdings Ltd was a company listed on the mainboard of the Singapore Exchange Securities Trading Limited and was involved in the plastics industry."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2005-11-24",
+          "Text": "TTL entered into employment contracts dated 24 November 2005 with Ng Hock Ching and Chow Weng Fook as Executive Director and Executive Chairman respectively, each providing a basic monthly salary of $15,000, an annual variable bonus of 2% of group net profit before tax, and an option to subscribe for 2,000,000 new ordinary shares under TTL’s Employee Share Option Scheme."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-03-22",
+          "Text": "On 22 March 2005, the Remuneration Committee of TTL, comprising Teo Seng Chee, Lee Mun Hooi and Tan Boon Tiong, passed a resolution authorising payment of a total monthly outstation allowance of RMB 40,000 to three directors of TTL’s Shanghai operations for a period of nine months."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2006-08-01",
+          "Text": "On 1 August 2006, TTL entered into a Consulting Agreement with Bontech Enterprise Co Ltd, signed by Ho Kang Peng on behalf of TTL, providing for Bontech to supply consulting services described in a Schedule A and for TTL to pay Bontech USD 15,500 per month, usually on a quarterly basis, for one year."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-08-04",
+          "Text": "Between 4 August 2006 and 29 February 2008, TTL made eight payments to Bontech Enterprise Co Ltd totalling $169,644.97 under the Consulting Agreement, including three payments after 31 July 2007 and one double payment for the period November 2006 to January 2007."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2007-07-06",
+          "Text": "On 6 July 2007, TTL amended the Terms of Reference of its Remuneration Committee to provide that the committee would review and recommend to the Board a framework of remuneration and determine specific remuneration packages and terms of employment for each executive director and the CEO, including employees related to executive directors and controlling shareholders."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2008-02-05",
+          "Text": "At a TTL Board meeting on 5 February 2008, non-executive director Seow Poh Leok asked about the role and responsibilities of the Advisors and the terms of their employment contracts."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2008-03-18",
+          "Text": "At a TTL Board meeting on 18 March 2008, independent director Paul Lai commented that the employment contracts of Ng Hock Ching and Chow Weng Fook had been done when they were directors of TTL and might not be appropriate in the then current context."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2008-04-14",
+          "Text": "On 14 April 2008, the TTL Board comprising Tan Kee Liang, Paul Lai, Petrus Huang, Teo Seng Chee and Seow Poh Leok resolved that Advisors Ng Hock Ching and Chow Weng Fook would be given the opportunity to resign by the end of 14 April 2008, failing which their services as Advisors would be terminated the following day."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2008-04-15",
+          "Text": "On 15 April 2008, TTL issued letters of termination to Advisors Ng Hock Ching and Chow Weng Fook."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2008-04-14",
+          "Text": "A board paper circulated for a TTL Board meeting on 14 April 2008 recorded that TTL and Watson Plastics had been competing for a deal from Jabil whose end customer was Zebra, and that according to market information Fu Yu was providing quotations directly to Zebra."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct, the company’s losses or remedies should be attributed to the conduct of Ho Kang Peng and/or Chow Weng Fook in relation to advisor appointments, Bontech payments, and staff movements.",
+      "Rule": "Company directors are generally manage corporate affairs, avoid self-interested arrangements without appropriate corporate approval, and ensure that company funds are applied under genuine commercial arrangements. Employees are generally act in their employer’s interests and to comply with contractual restrictions on outside work that interferes with their duties.",
+      "Application": "TTL’s pre-dispute records it entered into a consulting agreement with Bontech with recurring payments, maintained advisor roles for former directors on director-level remuneration, and experienced staff movements to entities within the Fu Yu group while some individuals held overlapping roles. These events form the observable basis for assessing how much of TTL’s financial position and staffing changes are linked to the conduct of its former CEO and advisor.",
+      "Judicial_Reasoning_Log": "The judge held that Ho Kang Peng breached fiduciary duties by failing to obtain Board approval for Ng and Chow’s advisor remuneration packages and by authorising payments to Bontech under a fictitious consulting agreement where no services were rendered, and entered judgment for TTL against Ho with damages to be assessed, while dismissing all claims against Chow Weng Fook, including alleged poaching and conflict-of-interest claims, after analysing competition between TTL and Fu Yu, the scope of Ho’s authority, the Bontech payment structure, staff movements, and the legal distinction between fiduciary duties and duties of fidelity."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 207 of 2009",
+      "Coram": "Quentin Loh J",
+      "Judge": "Quentin Loh",
+      "Date": "2013-02-08",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Ho Kang Peng",
+      "Law_Firm": "Wong Thomas & Leong",
+      "Counsel": [
+        "Alvin Tan Kheng Ann"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2005-11-01",
+          "Text": "On 1 November 2005, Ho Kang Peng was appointed Chief Executive Officer of TTL Holdings Ltd while serving as an Executive Director."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2007-11-23",
+          "Text": "On 23 November 2007, Ho Kang Peng resigned from his position as Executive Chairman of TTL Holdings Ltd and remained Chief Executive Officer until 28 March 2008."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2008-03-28",
+          "Text": "On 28 March 2008, Ho Kang Peng resigned from his positions as Chief Executive Officer and Executive Chairman of TTL, and remained a non-executive director from 29 March 2008 to 23 October 2008."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2008-03-29",
+          "Text": "On 31 March 2008, Ho Kang Peng joined Fu Yu Manufacturing Limited as Chief Executive Officer and an Executive Director."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2008-03-31",
+          "Text": "On 29 March 2008, Ho Kang Peng remained a non-executive director of TTL until 23 October 2008."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2006-08-01",
+          "Text": "On 1 August 2006, TTL entered into a Consulting Agreement with Bontech Enterprise Co Ltd, signed by Ho Kang Peng, under which TTL would pay Bontech USD 15,500 per month, usually on a quarterly basis, for consulting services set out in Schedule A for a one-year term."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-08-04",
+          "Text": "TTL made a total of eight payments to Bontech pursuant to the Bontech Agreement from 4 August 2006 to 29 February 2008, totalling $169,644.97, including three payments after the agreement expired on 31 July 2007 and one double payment for the period of November 2006 to January 2007."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2007-04-25",
+          "Text": "On 25 April 2007, at an informal lunch gathering, Ng's resignation as executive director and proposed appointment as an Advisor to TTL was announced, and Ho said Ng would receive the same package as an Advisor."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-04-27",
+          "Text": "On 27 April 2007, Ng resigned from his position as Executive Director and was employed as Advisor to TTL on the same day."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-11-23",
+          "Text": "On 23 November 2007, Chow resigned from his position as Executive Director and continued in the employment of TTL as an Advisor."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2008-01-01",
+          "Text": "Remove."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2008-02-18",
+          "Text": "Remove."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2008-03-28",
+          "Text": "Remove."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct, the outcome should attribute responsibility to Ho Kang Peng for TTL’s losses or relief in relation to advisor remuneration, the Bontech consulting arrangement and payments, and staff departures to Fu Yu group entities.",
+      "Rule": "Company directors and chief executives are generally use their powers for the company’s purposes, to avoid placing themselves in situations where their personal or management arrangements may conflict with the company’s interests, and to ensure that company funds are committed under genuine commercial arrangements that are properly authorised within the company’s governance framework.",
+      "Application": "Before the dispute, Ho Kang Peng approved and signed advisor employment letters for former directors Ng and Chow on director-level remuneration without formal board resolutions recorded at the time, and he signed and implemented a consulting agreement with Bontech under which TTL made repeated payments, including after the stated term, while the agreement lacked a completed schedule describing the services. He also managed transitions of senior staff such as William Toh and was aware of movements of staff like Yeung to Fu Yu-related entities. These observable actions formed the factual basis on which the court assessed whether his use of corporate powers and authorisation of payments aligned with TTL’s interests and internal approval structures.",
+      "Judicial_Reasoning_Log": "The judge rejected Ho’s contention that the Board had impliedly approved Ng and Chow’s advisor remuneration, found that Ho lacked general or implied authority to grant profit sharing and share options without Remuneration Committee or Board approval, and concluded that Ho placed himself in a position of conflict by effectively being the sole decision-maker on the advisors’ terms as part of a prior arrangement with them. The court further held that the Bontech Consulting Agreement was fictitious as no services were rendered, and that once TTL showed the agreement did not reflect real consulting work, the burden shifted to Ho to justify the payments as being in TTL’s interests, which he failed to do due to gaps in his explanation involving alleged marketing payments via Bontech to a Mr Lee. The court therefore held that Ho breached fiduciary duties to avoid conflicts of interest and to act in TTL’s interests in relation to the advisor remuneration and Bontech payments, but dismissed TTL’s other claims against Ho concerning alleged poaching of employees to Fu Yu, finding insufficient evidence of collusion or improper motive in staff movements such as those of Toh, Yeung, Shanmugam, Ling and Yang."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 207 of 2009",
+      "Coram": "Quentin Loh J",
+      "Judge": "Quentin Loh",
+      "Date": "2013-02-08",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Chow Weng Fook",
+      "Law_Firm": "Wong Thomas & Leong",
+      "Counsel": [
+        "Alvin Tan Kheng Ann"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2005-11-24",
+          "Text": "From 24 November 2005 to 23 November 2007, Chow Weng Fook served as an Executive Director and Executive Chairman of TTL Holdings Ltd under an employment contract providing a basic monthly salary of $15,000, an annual variable bonus of 2% of group net profit before tax, and an option to subscribe for 2,000,000 new ordinary shares under TTL’s Employee Share Option Scheme."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2007-11-23",
+          "Text": "On 23 November 2007, Chow Weng Fook stepped down from his positions as Executive Director and Executive Chairman of TTL and continued in TTL’s employment as an Advisor."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-11-23",
+          "Text": "On 23 November 2007, TTL issued a letter of employment to Chow Weng Fook, signed by Ho Kang Peng, appointing him as Advisor to TTL on the same salary and other terms and conditions as his previous Executive Chairman contract."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2007-12-03",
+          "Text": "On 3 December 2007, according to his own account, Chow Weng Fook became an Advisor to Fu Yu Manufacturing Limited."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2007-12-01",
+          "Text": "Sometime in December 2007, according to his own account, Chow Weng Fook became Acting General Manager of Nano Technology Manufacturing Pte Ltd, a Singapore-based subsidiary of Fu Yu."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2008-03-01",
+          "Text": "Sometime in March 2008, according to his own account, Chow Weng Fook became Acting General Manager (Southern China) of Fu Yu Manufacturing Limited."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2007-12-17",
+          "Text": "On 17 December 2007, General Manager William Toh emailed his curriculum vitae to Chow Weng Fook and stated that, as discussed, Mr Ho’s plan was for a successor to come to Shanghai after Chinese New Year, for Toh to hand over and leave by 1 March, and that he had started handing over day-to-day matters to Andrew Lim."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2007-12-18",
+          "Text": "On 18 December 2007, in an email to William Toh, Chow Weng Fook instructed Toh not to let anybody know that he was joining Nano Technology Manufacturing and suggested that Toh could tell people he was joining other companies such as HP or Singapore Aerospace."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2007-12-27",
+          "Text": "On 27 December 2007, William Toh emailed Chow Weng Fook stating that his tentative schedule was to leave TTL Shanghai on 29 February 2008 unless Ho Kang Peng had other plans."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2007-12-01",
+          "Text": "In late 2007, Business Development Director Yeo See Joo discussed with Chow Weng Fook the possibility of hiring William Toh in a technical role at Nano Technology after Toh had approached Yeo about job opportunities."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2007-12-01",
+          "Text": "In late 2007, according to his own account, Chow Weng Fook told Business Development Director Yeo See Joo that William Toh had been released from his position as General Manager of TTL’s Shanghai operations due to performance concerns before agreeing to consider Toh for a technical role at Nano Technology."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2007-12-01",
+          "Text": "In late 2007, during weekly meetings about TTL’s Dongguan factory, manager Bobby Lee informed Chow Weng Fook about a potential contract from Jabil for barcode readers, and Chow told Bobby Lee to cooperate with Watsons Electroplating in pursuing the opportunity."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct, the outcome should attribute responsibility to Chow Weng Fook for any loss or relief arising from William Toh’s move to Nano Technology and from Chow’s concurrent advisory roles with TTL and Fu Yu-related entities.",
+      "Rule": "Senior employees are generally act in good faith towards their employer, avoid using their position to undermine their employer’s business, and comply with contractual provisions that discourage outside employment which interferes with the efficient performance of their duties.",
+      "Application": "Before the dispute, Chow Weng Fook moved from Executive Chairman to Advisor at TTL on unchanged remuneration, took up advisory and management roles within the Fu Yu group, and engaged in email communications with TTL’s Shanghai General Manager, William Toh, about Toh’s planned departure from TTL and prospective role at Nano Technology, including a request that Toh not disclose his intended move. He also received information from Bobby Lee about the Jabil contract and indicated that TTL should cooperate with Watsons Electroplating. These observable actions formed the factual basis for assessing whether Chow’s concurrent roles and interactions with Toh and TTL’s business opportunities interfered with his performance of his duties to TTL.",
+      "Judicial_Reasoning_Log": "The judge found that although Chow asked Toh not to disclose his move to Nano Technology, TTL had not shown that Chow acted maliciously or against TTL’s interests in offering Toh a technical role after TTL had already decided to replace Toh, and that Nano Technology operated in a different high-technology precision manufacturing segment without evidence of confidential information transfer. The court held that Chow’s duties of fidelity as an employee did not extend to prohibiting him from offering another employee a job in these circumstances and that Toh was contractually entitled to resign. Regarding the Jabil contract, the judge accepted Bobby Lee’s evidence that Chow told him to cooperate with Watsons Electroplating and that TTL’s Dongguan factory was audited by Jabil but did not secure the contract due to non-conformities, with no proof that Fu Yu obtained the contract or that Chow diverted it. The court distinguished between fiduciary duties and duties of fidelity, declined to apply fiduciary-style potential conflict rules to Chow’s employment, and concluded that TTL had not established any actual conflict or preference of Fu Yu’s interests over TTL’s interests by Chow, dismissing all claims against him."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No 935 of 2012",
+      "Coram": "Judith Prakash J",
+      "Judge": "Judith Prakash",
+      "Date": "2013-09-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Chan Tong Fan",
+      "Law_Firm": "Rajah & Tann LLP",
+      "Counsel": [
+        "Gregory Vijayendran",
+        "Rachel Chow",
+        "Benjamin Smith"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1971-01-01",
+          "Text": "Chan Tong Fan is the second child of Mr Chiam Heng Luan and Mdm Lim Wee Leng, who set up Chiam Heng Luan Realty Pte Ltd and Sloane Court Hotel Pte Ltd in 1971."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2007",
+          "Text": "For the financial year 2007, Chan Tong Fan received dividends of $168,000 from Sloane Court Hotel Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2008",
+          "Text": "For the financial year 2008, Chan Tong Fan received dividends of $168,000 from Sloane Court Hotel Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009",
+          "Text": "For the financial year 2009, Chan Tong Fan received dividends of $168,000 from Sloane Court Hotel Pte Ltd."
+        }
+      ],
+      "Issue": "Whether, based on pre-dispute conduct and corporate records, Sloane Court Hotel Pte Ltd should pursue claims through a derivative action concerning director remuneration approvals, use and development of the SCH land, characterisation and documentation of renovation-related expenditures, and management of foreign currency exposures on overseas investments.",
+      "Rule": "Under section 216A of the Companies Act, a complainant seeking leave to commence a statutory derivative action must give prior notice to the directors, there is a reasonable basis for the proposed claims and that pursuing them appears prima facie to be in the interests of the company, and the application is brought in good faith. Company law principles also recognise that shareholders may, by resolution, ratify or release directors from consequences of conduct within their authority, and that commercial decisions on matters such as asset development, remuneration levels, and investment or foreign currency management are generally left to the company’s decision-makers unless they fall outside the range of decisions open to a reasonable board.",
+      "Application": "Chan Tong Fan, as a shareholder and child of the founders of Sloane Court Hotel Pte Ltd, examined historical remuneration figures, property usage, renovation expenditures, and foreign currency translation effects reflected in the company’s accounts and records. He sent written communications in March and June 2011 requesting explanations about the non-development of the SCH land and later filed Originating Summons No 935 of 2012 in October 2012 to seek leave for a derivative action. The company’s records showed long-standing patterns of directors’ appointments, shareholder meetings, approvals of accounts and remuneration, and the existence of overseas bank deposits and related unrealised exchange differences. These pre-dispute events formed the factual basis for assessing whether the proposed derivative claims had an arguable foundation, whether pursuing them would align with the company’s interests in light of shareholder decisions and commercial considerations, and whether the manner and timing of the application reflected the good faith requirement under section 216A.",
+      "Judicial_Reasoning_Log": "The judge considered the statutory requirements under section 216A of the Companies Act and accepted that notice to the directors had been given. The analysis focused on whether there was a reasonable basis for the proposed claims, whether pursuing them would be in the interests of Sloane Court Hotel Pte Ltd, and whether the plaintiff acted in good faith. On the remuneration issue, the judge noted documentary records of numerous annual general meetings over the years, including specific approvals of salaries and bonuses and approvals of accounts containing remuneration figures. The judge accepted the interveners’ explanation that the payments were salaries rather than directors’ fees and that a typographical error in the 2009 accounts had overstated the directors’ remuneration figure by including other employees’ salaries. The judge concluded that, in light of shareholder approvals and the value of the directors’ work, the company had no legitimate cause of action to recover the remuneration and that it would not be in the company’s interests to sue for its return. Regarding the SCH land, the judge acknowledged that the land had remained vacant for many years and that property tax was incurred, but emphasised that decisions on development and timing are commercial matters for directors. The judge took into account the historical context, including the founders’ awareness of the land’s status, the limited period after the father’s death, and the shareholders’ acceptance of the directors’ approach, and found no arguable cause of action up to the filing of the originating summons. On renovation expenses, the judge found the plaintiff’s allegations speculative and accepted the interveners’ explanation that the expenditures over about 12 years on renovation, furniture, fittings, electrical equipment, and air-conditioning for an ageing hotel were reasonable. The judge considered the presence of some supporting documentation and the evidence from individuals who had worked at the hotel, and rejected the contention that the absence of complete invoices indicated improper payments. For the overseas investments and unrealised exchange losses, the judge treated the matter as a commercial judgment about where to hold excess cash and when, if at all, to repatriate funds in light of exchange rate movements. The judge accepted that the losses were unrealised and that the plaintiff’s aggregation of year-to-year fluctuations overstated the position, and held that even a poor judgment call on timing would not by itself amount to a breach of duty. Overall, the judge concluded that Sloane Court Hotel Pte Ltd had no arguable or legitimate claims on the proposed causes of action and that pursuing them would not be in the company’s interests. The judge also found that the plaintiff had not established good faith, noting that his complaints, particularly on renovations and exchange losses, lacked reasonable grounds and appeared to reflect a determination to find fault with the directors, reinforced by the fact that some allegations were abandoned during the proceedings. On this basis, the application for leave to commence a derivative action was dismissed."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No 935 of 2012",
+      "Coram": "Judith Prakash J",
+      "Judge": "Judith Prakash",
+      "Date": "2013-09-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Sloane Court Hotel Pte Ltd",
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Kong Man Er"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1971",
+          "Text": "Sloane Court Hotel Pte Ltd was set up in 1971 by Mr Chiam Heng Luan and Mdm Lim Wee Leng to take over the family business of the Sloane Court Hotel carried on at 17 Balmoral Road."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1971",
+          "Text": "In 1971, when Sloane Court Hotel Pte Ltd and Chiam Heng Luan Realty Pte Ltd were incorporated, ownership of the Balmoral Property at 17 Balmoral Road was transferred to Chiam Heng Luan Realty Pte Ltd, and the hotel business was transferred to Sloane Court Hotel Pte Ltd, which became tenant of the Balmoral Property."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-10",
+          "Text": "As at October 2012, Sloane Court Hotel Pte Ltd had a paid-up capital of $270,002 comprising 270,002 ordinary shares of $1.00 each."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-10",
+          "Text": "In October 2012, the shareholders of Sloane Court Hotel Pte Ltd comprised Chan Tong Fan, all his siblings, and the estates of their parents, with Chan Tong Fan holding 15.56% of the shares."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1971",
+          "Text": "When Sloane Court Hotel Pte Ltd was incorporated in 1971, Mr Chiam Heng Luan and his wife Mdm Lim Wee Leng were the sole directors and shareholders."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1988",
+          "Text": "In 1988, Ms Chiam Ai Thong and Mr Chiam Toon Chew were appointed directors of Sloane Court Hotel Pte Ltd by Mr Chiam Heng Luan."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1989",
+          "Text": "In 1989, Mr Chiam Toon Tau was appointed a director of Sloane Court Hotel Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1990-04",
+          "Text": "At a board meeting of Sloane Court Hotel Pte Ltd in April 1990, Mr Chiam Toon Tau was appointed managing director, Ms Chiam Ai Thong was appointed acting director, and Mr Chiam Toon Chew was appointed working director, and their salaries were approved at that meeting."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-10",
+          "Text": "By October 2012, three of Chan Tong Fan’s siblings were directors of Sloane Court Hotel Pte Ltd and together held 37.42% of its shares."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-10",
+          "Text": "As at the commencement of Originating Summons No 935 of 2012, the main business of Sloane Court Hotel Pte Ltd was operating the Sloane Court Hotel and a restaurant on the Balmoral Property."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1974-01-01",
+          "Text": "Minute sheets and attendance lists show annual general meetings were held in the years 1974 to 1978."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1980-01-01",
+          "Text": "Minute sheets and attendance lists show annual general meetings were held in the years 1980 to 1989."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1991-01-01",
+          "Text": "Minute sheets and attendance lists show annual general meetings were held in the years 1991 to 1998."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-01-01",
+          "Text": "Minute sheets and attendance lists show annual general meetings were held in the years 2000 to 2011."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1992",
+          "Text": "In 1992, Sloane Court Hotel Pte Ltd requested permission to develop the SCH land into service apartments."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1994",
+          "Text": "In 1994, Sloane Court Hotel Pte Ltd had plans to build an addition to the hotel on the SCH land."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "1996-02",
+          "Text": "In February 1996, an extraordinary general meeting was held to discuss the use of the SCH land, but no conclusion on its use was reached."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1992-01-01",
+          "Text": "The SCH land comprised two plots adjacent to the Balmoral Property and was zoned for different uses, commercial and residential, so it could not be amalgamated into one plot for one use."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1993",
+          "Text": "In early 1993, a two-storey block of flats on the SCH land was demolished, and the site was left vacant thereafter."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1993",
+          "Text": "From 1993 onwards, Sloane Court Hotel Pte Ltd incurred annual property tax on the SCH land, which by 2009 amounted to approximately $26,000 per year."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2008",
+          "Text": "For the financial year 2008, Sloane Court Hotel Pte Ltd’s accounts recorded $142,849 as remuneration paid to the directors."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009",
+          "Text": "For the financial year 2009, Sloane Court Hotel Pte Ltd’s accounts initially recorded $221,189 as remuneration for directors, a figure that included salaries of other employees due to a typographical error, while the actual remuneration paid to the directors was stated to be $87,100."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "Between the financial years 1995 and 1996, Sloane Court Hotel Pte Ltd recorded expenditures described as renovation, furniture and fittings, electrical equipment, and air-conditioning in its accounts as part of a total of approximately $804,467.92 spent over specified years."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "Between the financial years 1999 and 2010, Sloane Court Hotel Pte Ltd recorded expenditures described as renovation, furniture and fittings, electrical equipment, and air-conditioning in its accounts, contributing to a total of approximately $804,467.92 over the identified periods."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000",
+          "Text": "For the year 2000, Sloane Court Hotel Pte Ltd’s accounts recorded renovation expenses of $240,177."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "",
+          "Text": "From the financial year ending 31 December 2003 to the financial year ending 31 December 2010, Sloane Court Hotel Pte Ltd’s accounts reflected unrealised foreign exchange differences on overseas investments and deposits, which the plaintiff aggregated as $1,082,445 in unrealised exchange losses."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "During the period from the financial year ending 31 December 2003 to the financial year ending 31 December 2010, Sloane Court Hotel Pte Ltd maintained bank accounts and investments in the United Kingdom, Hong Kong SAR, and Malaysia, resulting in foreign currency translation effects in its financial statements."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2011",
+          "Text": "At the 2011 annual general meeting of Sloane Court Hotel Pte Ltd, the directors explained that the 2009 accounts contained a typographical error in the directors’ remuneration figure and clarified the actual amount paid to the directors."
+        }
+      ],
+      "Issue": "Whether Sloane Court Hotel Pte Ltd, in light of its historical remuneration approvals, property development decisions regarding the SCH land, renovation and capital expenditure records, and management of overseas deposits and related foreign exchange effects, should be the nominal plaintiff in a derivative action against its directors under section 216A of the Companies Act.",
+      "Rule": "A company is ordinarily controlled by its board and shareholders, and decisions on whether to commence litigation are generally made by these organs. Section 216A of the Companies Act permits a complainant to seek leave to bring an action in the name and on behalf of the company if statutory conditions are met, including prior notice, good faith, and a prima facie showing that the proposed action is in the company’s interests and has a reasonable basis. Courts also recognise that shareholders may, by resolution, ratify directors’ conduct or release them from consequences of such conduct, and that commercial judgments on remuneration, asset development, and investment or foreign currency management fall within the range of decisions typically left to directors and shareholders unless they are outside the scope of decisions open to a reasonable board.",
+      "Application": "Sloane Court Hotel Pte Ltd’s corporate records its founders transferred the hotel business and tenancy arrangements to the company in 1971, appointed family members as directors over time, and held annual general meetings across multiple decades at which accounts and remuneration were considered. The SCH land was demolished and left vacant after 1993, with property tax incurred annually, while the board explored development options and encountered zoning constraints. Over the years, the company recorded renovation and related capital expenditures for its ageing hotel building and maintained overseas bank deposits and investments, resulting in unrealised foreign exchange differences in its accounts. In 2011, the directors provided an explanation at an annual general meeting regarding a typographical error in the 2009 remuneration figure. After the plaintiff’s complaints, the company convened an extraordinary general meeting in November 2012 and an annual general meeting in December 2012, at which shareholders considered and passed resolutions addressing whether it was in the company’s interests to pursue actions against the directors and whether to ratify or waive conduct. These pre-dispute and contemporaneous corporate actions and financial records formed the basis for evaluating whether the proposed derivative action aligned with the company’s interests and whether the statutory criteria for allowing such an action in the company’s name were satisfied.",
+      "Judicial_Reasoning_Log": "The judge treated Sloane Court Hotel Pte Ltd as the company on whose behalf the derivative action was proposed and examined whether the statutory conditions for granting leave were met. The court reviewed the company’s long history of shareholder meetings, approvals of accounts and remuneration, and the subsequent extraordinary and annual general meetings in November and December 2012, where shareholders considered and passed resolutions indicating that it was not in the company’s interests to sue the directors and that alleged conduct should be ratified or waived. The judge accepted that the payments to the directors were salaries, that shareholder approvals and the directors’ work supported the remuneration, and that the company therefore lacked a legitimate claim to recover those sums. For the SCH land, the judge regarded the non-development and associated property tax as a matter of commercial judgment, noting the founders’ awareness, the zoning constraints, and the limited period after the father’s death, and concluded that no arguable claim existed for the relevant period. On renovation expenditures, the judge found the total amount over the years reasonable for a hotel of that age and accepted the evidence that renovations had been carried out, rejecting the plaintiff’s documentation-based objections. Regarding overseas investments and unrealised exchange differences, the judge characterised the decisions on holding or repatriating foreign currency deposits as commercial choices within the board’s remit and found no basis for a claim even if the timing of such decisions could be questioned. Taking these matters together, and in light of the shareholder resolutions, the judge held that the proposed derivative action would not be in the interests of Sloane Court Hotel Pte Ltd and that the company had no arguable or legitimate claims on the proposed causes of action. The judge also concluded that the plaintiff had not demonstrated good faith, reinforcing the decision to dismiss the application for leave to sue in the company’s name."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 6
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No 935 of 2012",
+      "Coram": "Judith Prakash J",
+      "Judge": "Judith Prakash",
+      "Date": "2013-09-27",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Chiam Toon Tau and another, non-parties",
+      "Law_Firm": "Cavenagh Law LLP",
+      "Counsel": [
+        "Nish Shetty",
+        "Jared Chen"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1988-01-01",
+          "Text": "In 1988, Ms Chiam Ai Thong and Mr Chiam Toon Chew were appointed directors of Sloane Court Hotel Pte Ltd by Mr Chiam Heng Luan."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1989-01-01",
+          "Text": "In 1989, Mr Chiam Toon Tau was appointed a director of Sloane Court Hotel Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1990-04",
+          "Text": "At a board meeting of Sloane Court Hotel Pte Ltd in April 1990, Mr Chiam Toon Tau was appointed managing director, Ms Chiam Ai Thong was appointed acting director, and Mr Chiam Toon Chew was appointed working director, and their salaries were approved at that meeting."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-10-01",
+          "Text": "As at October 2012, Ms Chiam Ai Thong, Mr Chiam Toon Chew, and Mr Chiam Toon Tau were directors of Sloane Court Hotel Pte Ltd and were identified as the prospective defendants to the action that Chan Tong Fan sought leave to commence."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2007-01-01",
+          "Text": "For the financial years 2007 to 2009, Mr Chiam Toon Tau received dividends of $168,000 per year from Sloane Court Hotel Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2007-01-01",
+          "Text": "For the financial years 2007 to 2009, Ms Chiam Ai Thong received dividends of $56,000 per year from Sloane Court Hotel Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2007-01-01",
+          "Text": "For the financial years 2007 to 2009, Mr Chiam Toon Chew received dividends of $180,000 per year from Sloane Court Hotel Pte Ltd."
+        }
+      ],
+      "Issue": "Whether the directors associated with the non-party interveners, in light of their roles, remuneration, dividends, and historical involvement in Sloane Court Hotel Pte Ltd, should face a derivative action brought in the company’s name concerning remuneration approvals, property usage, renovation expenditures, and management of overseas investments.",
+      "Rule": "In considering whether to permit a derivative action against directors, courts assess whether there is a reasonable basis for claims that directors’ conduct falls outside the range of decisions open to a reasonable board, whether pursuing such claims appears prima facie to be in the company’s interests, and whether the complainant acts in good faith. Shareholder approvals and ratifications, as well as the commercial nature of decisions on remuneration, asset development, and investment management, are whether a derivative claim is appropriate.",
+      "Application": "The non-party interveners, as long-serving directors and shareholders of Sloane Court Hotel Pte Ltd, received salaries approved at a 1990 board meeting and dividends in line with their shareholdings in the years 2007 to 2009. Their roles included managing the hotel business, overseeing property such as the SCH land, and making decisions on renovation expenditures and overseas deposits. When Chan Tong Fan sought leave to commence a derivative action in 2012, the interveners applied to participate in the proceedings to provide affidavits and explanations regarding remuneration figures, the history and zoning constraints of the SCH land, the nature and scale of renovation works, and the rationale for maintaining foreign currency deposits. These pre-dispute roles and financial arrangements, together with subsequent shareholder meetings and resolutions, were used to assess whether there was a sufficient basis to allow a derivative action against them in the company’s name.",
+      "Judicial_Reasoning_Log": "The judge evaluated the proposed claims against the directors associated with the non-party interveners and concluded that the statutory criteria for a derivative action were not met. The court accepted the interveners’ explanations that the payments they received were salaries approved by the board and, in various years, by shareholders through approvals of accounts and specific resolutions, and that a typographical error in the 2009 accounts had overstated the directors’ remuneration figure. The judge found that, given the approvals and the directors’ work for the company, there was no legitimate basis for the company to seek recovery of their remuneration. Regarding the SCH land, the judge viewed the long-standing non-development and associated property tax as a matter of commercial judgment, taking into account the founders’ awareness, zoning issues, and the limited period after the father’s death, and found no arguable claim against the directors for that period. On renovation expenditures, the judge accepted the interveners’ evidence that the sums were spent over many years on necessary works for an ageing hotel and that the total amount was reasonable, rejecting the plaintiff’s focus on missing documentation. For overseas investments and unrealised exchange differences, the judge treated the decisions on holding or repatriating foreign currency deposits as commercial choices within the directors’ remit and found no basis for a claim even if the timing of such decisions could be questioned. The judge also considered the shareholder resolutions passed at the extraordinary general meeting in November 2012 and the annual general meeting in December 2012, which indicated that shareholders did not wish the company to sue the directors and were prepared to ratify or waive alleged conduct. In light of these factors, the judge held that there was no arguable or legitimate claim against the directors, that pursuing the proposed action would not be in the company’s interests, and that the plaintiff had not demonstrated good faith, leading to the dismissal of the application for leave to sue the directors in a derivative action."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  }
+]

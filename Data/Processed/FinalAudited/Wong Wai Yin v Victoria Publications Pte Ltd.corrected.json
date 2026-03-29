@@ -1,0 +1,238 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 726 of 2014",
+      "Coram": "George Wei J",
+      "Judge": "George Wei",
+      "Date": "2015-07-15",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Wong Wai Yin",
+      "Law_Firm": "Sam & Associates",
+      "Counsel": [
+        "Richard Sam Yuin Piew"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1988-01-01",
+          "Text": "From 1988, Wong Wai Yin was married to Tan Cheow Beng."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1988-01-01",
+          "Text": "From 1988 to 2004, Wong Wai Yin worked in Tan Cheow Beng’s sole proprietorship business involved in printing and selling student assessment books."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2004-01-01",
+          "Text": "Victoria Publications Pte Ltd was incorporated in Singapore in 2004 to carry on a business of printing periodicals, books and magazines."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "From the incorporation of Victoria Publications Pte Ltd in 2004 until August 2013, Wong Wai Yin was a director of the company."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "From the incorporation of Victoria Publications Pte Ltd in 2004 until August 2013, Wong Wai Yin was an employee of the company and received salary and director’s fees."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "Since the incorporation of Victoria Publications Pte Ltd in 2004, Tan Cheow Beng has been its managing director."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Between 2008 and 2013, Victoria Publications Pte Ltd recorded that Wong Wai Yin was entitled to salary totalling $115,990 as an employee."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Between 2008 and 2013, Victoria Publications Pte Ltd recorded that Wong Wai Yin was entitled to director’s fees totalling $440,000 according to her own computation based on the company’s financial statements."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Between 2008 and 2013, Victoria Publications Pte Ltd recorded that Wong Wai Yin was entitled to director’s fees totalling $458,000 according to figures in minutes of annual general meetings."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2008-06-30",
+          "Text": "For the financial year ended 30 June 2008, Victoria Publications Pte Ltd recorded director’s fees of $80,000 as payable to Wong Wai Yin in minutes of its annual general meeting."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2009-06-30",
+          "Text": "For the financial year ended 30 June 2009, Victoria Publications Pte Ltd recorded director’s fees of $88,000 as payable to Wong Wai Yin in minutes of its annual general meeting."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-06-30",
+          "Text": "For the financial year ended 30 June 2010, Victoria Publications Pte Ltd recorded director’s fees of $70,000 as payable to Wong Wai Yin in minutes of its annual general meeting."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2011-06-30",
+          "Text": "For the financial year ended 30 June 2011, Victoria Publications Pte Ltd recorded director’s fees of $60,000 as payable to Wong Wai Yin in minutes of its annual general meeting."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-06-30",
+          "Text": "For the financial year ended 30 June 2012, Victoria Publications Pte Ltd recorded director’s fees of $100,000 as payable to Wong Wai Yin in minutes of its annual general meeting."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-06-30",
+          "Text": "For the financial year ended 30 June 2013, Victoria Publications Pte Ltd recorded director’s fees of $60,000 as payable to Wong Wai Yin in minutes of its annual general meeting."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2008-06-30",
+          "Text": "For the financial year ended 30 June 2008, minutes of the annual general meeting of Victoria Publications Pte Ltd recorded director’s fees of $80,000 for Wong Wai Yin and $120,000 for Tan Cheow Beng."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2009-06-30",
+          "Text": "For the financial year ended 30 June 2009, minutes of the annual general meeting of Victoria Publications Pte Ltd recorded director’s fees of $88,000 for Wong Wai Yin and $112,000 for Tan Cheow Beng."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-06-30",
+          "Text": "For the financial year ended 30 June 2010, minutes of the annual general meeting of Victoria Publications Pte Ltd recorded director’s fees of $70,000 for Wong Wai Yin and $40,000 for Tan Cheow Beng."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2011-06-30",
+          "Text": "For the financial year ended 30 June 2011, minutes of the annual general meeting of Victoria Publications Pte Ltd recorded director’s fees of $60,000 for Wong Wai Yin and $30,000 for Tan Cheow Beng."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-06-30",
+          "Text": "For the financial year ended 30 June 2012, minutes of the annual general meeting of Victoria Publications Pte Ltd recorded director’s fees of $100,000 for Wong Wai Yin and $30,000 for Tan Cheow Beng."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-06-30",
+          "Text": "For the financial year ended 30 June 2013, minutes of the annual general meeting of Victoria Publications Pte Ltd recorded director’s fees of $60,000 for Wong Wai Yin and $90,000 for Tan Cheow Beng."
+        }
+      ],
+      "Issue": "Whether, for the period 2008 to 2013, the salary and director’s fees recorded as payable to Wong Wai Yin by Victoria Publications Pte Ltd were in fact paid to her so as to satisfy the company’s payment obligation.",
+      "Rule": "Where an employment or remuneration arrangement does not specify a mode of payment, an obligation to pay monetary remuneration is generally satisfied by payment of the agreed sums in a reasonable manner, which may include payment by cheque or deposit into a bank account associated with the payee.",
+      "Application": "Victoria Publications Pte Ltd recorded specific annual amounts of salary and director’s fees for Wong Wai Yin in minutes of annual general meetings and financial statements signed by her. Over 2008 to 2013, the company issued cheques in her name and its bank statements show withdrawals matching deposits of equivalent amounts into joint bank accounts held by her and Tan Cheow Beng. Payment vouchers and general ledger entries identify \"Wong Wai Yin\" as payee for salary and director’s fees, and the company made corresponding Central Provident Fund contributions. For the same years, income tax forms signed by Wong Wai Yin declared director’s fees and salary in amounts corresponding to those recorded by the company. These contemporaneous records link the remuneration entries in the company’s documents to the bank deposits and tax declarations associated with her.",
+      "Judicial_Reasoning_Log": "The court accepted that the plaintiff was contractually entitled to the sums claimed as salary and director’s fees but held that the defendant company had already discharged its obligations by making payments via cheques deposited into joint accounts with the plaintiff’s then husband. The judge preferred the defendant’s director’s-fee figures derived from AGM minutes over the plaintiff’s halving method based on total fees, noting that the defendant’s figures were better supported and even exceeded the plaintiff’s claim. The court relied on matching cheque withdrawals and deposits, payment vouchers, general ledger entries, CPF contributions, and the plaintiff’s own signed income tax forms, which declared receipt of the same salary and director’s-fee amounts, to conclude that the payments were made to her. The judge rejected the plaintiff’s assertions of ignorance, duress and lack of consent to the payment method, finding them improbable in light of her role in the company, her literacy, her signing of financial statements and AGM minutes, her access to joint accounts and household finances, and the absence of any earlier complaint about non-payment. The court held that, in the absence of an agreed mode of payment, the company’s method of paying into joint accounts was a reasonable way to perform its contractual obligation. On this basis, the claim for unpaid salary and director’s fees was dismissed and costs were awarded to the defendant company."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 726 of 2014",
+      "Coram": "George Wei J",
+      "Judge": "George Wei",
+      "Date": "2015-07-15",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Victoria Publications Pte Ltd",
+      "Law_Firm": "LegalStandard LLP; LawHub LLC",
+      "Counsel": [
+        "Letchamanan Devadason",
+        "Tan Siew Tiong"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2004-01-01",
+          "Text": "Victoria Publications Pte Ltd was incorporated in Singapore in 2004 and carries on the business of printing periodicals, books and magazines."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "Since its incorporation in 2004, Tan Cheow Beng has been the managing director of Victoria Publications Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-01-01",
+          "Text": "From 2004 until August 2013, Wong Wai Yin was a director and employee of Victoria Publications Pte Ltd and received director’s fees and salary."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Between 2008 and 2013, Victoria Publications Pte Ltd treated Wong Wai Yin as entitled to salary totalling $115,990 and director’s fees totalling $458,000 according to its internal records."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2008-06-30",
+          "Text": "For the financial year ended 30 June 2008, minutes of the annual general meeting of Victoria Publications Pte Ltd recorded director’s fees of $80,000 for Wong Wai Yin and $120,000 for Tan Cheow Beng."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2009-06-30",
+          "Text": "For the financial year ended 30 June 2009, minutes of the annual general meeting of Victoria Publications Pte Ltd recorded director’s fees of $88,000 for Wong Wai Yin and $112,000 for Tan Cheow Beng."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-06-30",
+          "Text": "For the financial year ended 30 June 2010, minutes of the annual general meeting of Victoria Publications Pte Ltd recorded director’s fees of $70,000 for Wong Wai Yin and $40,000 for Tan Cheow Beng."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2011-06-30",
+          "Text": "For the financial year ended 30 June 2011, minutes of the annual general meeting of Victoria Publications Pte Ltd recorded director’s fees of $60,000 for Wong Wai Yin and $30,000 for Tan Cheow Beng."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-06-30",
+          "Text": "For the financial year ended 30 June 2012, minutes of the annual general meeting of Victoria Publications Pte Ltd recorded director’s fees of $100,000 for Wong Wai Yin and $30,000 for Tan Cheow Beng."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-06-30",
+          "Text": "For the financial year ended 30 June 2013, minutes of the annual general meeting of Victoria Publications Pte Ltd recorded director’s fees of $60,000 for Wong Wai Yin and $90,000 for Tan Cheow Beng."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Between 2008 and 2013, Victoria Publications Pte Ltd issued cheques from its bank account in the name of Wong Wai Yin in amounts corresponding to her recorded salary and director’s fees."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Between 2008 and 2013, bank statements of Victoria Publications Pte Ltd show cheque withdrawals that match deposits of equivalent sums into joint bank accounts held by Wong Wai Yin and Tan Cheow Beng."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Between 2008 and 2013, payment vouchers prepared by Victoria Publications Pte Ltd recorded payments to \"Wong Wai Yin\" for director’s fees and salary, stating dates, amounts and purposes, and were signed by Tan Cheow Beng."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Between 2008 and 2013, entries in the general ledger of Victoria Publications Pte Ltd recorded payments under headings such as \"Staff Cost – Directors’ salary\" with payee \"Wong Wai Yin\", dates and amounts corresponding to her remuneration."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Between 2008 and 2013, Victoria Publications Pte Ltd made employer Central Provident Fund contributions for Wong Wai Yin in relation to her employment."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "In January 2014, a handwritten note in Chinese was signed that Victoria Publications Pte Ltd later relied on in support of its position regarding payments to Wong Wai Yin."
+        }
+      ],
+      "Issue": "Whether the payments made by Victoria Publications Pte Ltd between 2008 and 2013, via cheques and deposits into joint bank accounts, satisfied its obligation to pay the recorded salary and director’s fees of Wong Wai Yin.",
+      "Rule": "In the absence of an agreed contractual mode of payment, an employer’s obligation to pay monetary remuneration is generally fulfilled by making payment of the agreed sums in a reasonable manner, such as issuing cheques or depositing funds into a bank account associated with the employee.",
+      "Application": "Victoria Publications Pte Ltd recorded specific director’s-fee amounts for each financial year from 2008 to 2013 in AGM minutes and financial statements signed by Wong Wai Yin. Over the same period, the company’s bank statements show cheque withdrawals in matching amounts, and corresponding deposits were made into joint bank accounts held by Wong Wai Yin and Tan Cheow Beng. Payment vouchers and general ledger entries identify these transfers as payments to \"Wong Wai Yin\" for salary and director’s fees, and the company made related Central Provident Fund contributions. Income tax forms signed by Wong Wai Yin for the relevant years declared director’s fees and salary in amounts that align with the company’s records. These contemporaneous documents connect the company’s recorded remuneration obligations to actual payments routed through joint accounts associated with the employee.",
+      "Judicial_Reasoning_Log": "The court held that the defendant company had fully discharged its contractual obligations to pay the plaintiff’s salary and director’s fees. It preferred the company’s director’s-fee figures derived from AGM minutes over the plaintiff’s halving method, noting that the company’s figures were better supported and even exceeded the plaintiff’s claim. The judge found that cheque withdrawals from the company’s account matched deposits into the plaintiff’s joint accounts, and that payment vouchers, general ledger entries, CPF contributions and the plaintiff’s own tax declarations corroborated that the sums were paid as her income. The court rejected the plaintiff’s assertions that she was unaware of the payments or had not authorised the mode of payment, considering her role as director and shareholder, her literacy, her involvement in the company’s operations, her signing of financial statements and AGM minutes, and her access to joint accounts and household finances. The judge concluded that, in the absence of an agreed mode of payment, depositing cheques into joint accounts was a reasonable method of performance. On this basis, the claim against Victoria Publications Pte Ltd was dismissed and costs were awarded in its favour."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  }
+]

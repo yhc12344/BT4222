@@ -29,7 +29,7 @@
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2009-02-09",
-          "Text": "APG was in the business of marketing and selling Australian real estate on behalf of Australian property developers, and its revenue came from commissions paid by property developers while its expenses included rent, staff costs and marketing costs."
+          "Text": "APG earned revenue from commissions paid by Australian property developers and incurred expenses including rent, staff costs and marketing costs."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
@@ -39,17 +39,17 @@
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2009-02-09",
-          "Text": "On incorporation, APG had the following directors and shareholders: Sean Colville Niven (360,000 ordinary shares), Wang Zijian (160,000 ordinary shares), Gan Siong Teck (40,000 ordinary shares), Hou Junyu (200,000 ordinary shares) and Lee Jer Ren (40,000 ordinary shares). The shares were issued as fully paid-up, but in fact had not been paid for."
+          "Text": "On incorporation, APG had the following directors and shareholders: Sean Colville Niven (360,000 ordinary shares), Wang Zijian (160,000 ordinary shares), Gan Siong Teck (40,000 ordinary shares), Hou Junyu (200,000 ordinary shares), and Lee Jer Ren (40,000 ordinary shares). The shares were issued as fully paid-up, but in fact had not been paid for."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2009-02-09",
-          "Text": "On incorporation, APG had the following directors and shareholders: Sean Colville Niven, Wang Zijian, Gan Siong Teck, Hou Junyu and Lee Jer Ren."
+          "Text": "On incorporation, APG appointed Sean Colville Niven, Wang Zijian (James Wang), Gan Siong Teck, Hou Junyu and Lee Jer Ren as directors."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2009-03-11",
-          "Text": "Mr Gan, Mr Hou and Mr Lee acted as non-executive directors of APG to protect Mr Goh's interests while the defendants controlled the day-to-day operations of APG."
+          "Text": "Following the 11 March 2009 loan agreement, APG treated Gan Siong Teck, Hou Junyu and Lee Jer Ren as non-executive directors whose role included protecting the interests of lender Goh Cheng Liang, while Sean Colville Niven and Wang Zijian controlled APG's day-to-day operations."
         },
         {
           "Fact_Type": "RELATIONSHIP",
@@ -59,7 +59,7 @@
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2008-12-01",
-          "Text": "In January 2010, she became a shareholder of the company when she purchased 240,000 shares from Mr Niven for $160,000."
+          "Text": "In December 2008, Sean Colville Niven and Wang Zijian decided to start their own company to sell Australian properties. They resigned from JL Property Group Pte Ltd and approached Goh Cheng Liang for a loan of $900,000."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
@@ -69,12 +69,12 @@
         {
           "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "2009-03-11",
-          "Text": "APG had engaged John Kennedy Stuart, a chartered accountant, to provide tax services and advice to APG's clients."
+          "Text": "Goh Cheng Liang was the godfather of Wang Zijian and provided a loan of $900,000 to APG."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2009-03-11",
-          "Text": "Subsequently, Ms Lim also asked Mr Stuart to investigate and report on APG's financial situation."
+          "Text": "Clause 5 of the 11 March 2009 loan agreement with Goh Cheng Liang stated that until the loan was fully repaid, APG would not make payment of any director's fees, remuneration or benefits to any director, except salaries payable in the ordinary course to the executive directors."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
@@ -84,72 +84,177 @@
         {
           "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "2009-05-15",
-          "Text": "Ms Lim had to put in a cash injection of $25,000 in July 2010 to help the company fund a marketing event."
+          "Text": "Before joining APG, Lim Kay-Lin Kathlene had purchased Australian properties through JL Property Group Pte Ltd and had come to know Sean Colville Niven and Wang Zijian in that context."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-05-15",
+          "Text": "After 15 May 2009, APG assigned roles such that Sean Colville Niven was responsible for securing marketing rights from Australian property developers and managing APG's finances, Wang Zijian was sales manager, and Lim Kay-Lin Kathlene was in charge of overall operations and the sales team."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-11-01",
-          "Text": "On 24 June 2010, APG received a demand from its advertising agency to pay an outstanding amount of $59,502.92 by 4 July 2010. On 16 July 2010, the agency informed APG that if payment was not received by Monday, 19 July 2010, legal action would be taken against it."
+          "Text": "In November 2009, APG borrowed funds from Ubertas Funds Management Pty Ltd, an Australian company, and used those funds to repay the $900,000 loan from Goh Cheng Liang."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2009-11-07",
+          "Text": "On 7 November 2009, non-executive directors Gan Siong Teck, Hou Junyu and Lee Jer Ren resigned from APG and their shares were subsequently transferred to Sean Colville Niven."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2009-12-08",
-          "Text": "Under the September Agreement, Mr Niven acknowledged that he owed the company $300,450.37 and it was agreed that the company would write off 40% of this amount with Mr Niven paying the balance $180,270.22 in two instalments: 50% by 31 December 2011 and the remaining 50% by 31 December 2012."
+          "Text": "On 22 January 2010, Lim Kay-Lin Kathlene purchased 240,000 APG shares from Sean Colville Niven for $160,000."
         },
         {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2010-01-01",
-          "Text": "The October Agreement provided that Mr Niven and Mr Wang would resign as directors that very day and transfer all their shares, except for 10% in Mr Wang's hands, to Ms Lim. Ms Lim agreed to pay Mr Niven's outstanding expenses and commission in instalments."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2010-01-01",
-          "Text": "It was further agreed that Mr Niven and Mr Wang would have no liability to APG 'from a compliance perspective upon settlement' and that they 'will owe nothing to the company upon settlement, excluding any personal tax liabilities'."
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-22",
+          "Text": "In early 2010, APG faced financial difficulties. APG was unable to pay its rent, its advertising agencies or its staff salaries, and its accounts were in a mess."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2010-01-01",
-          "Text": "The defendants appear to be referring to three cheques drawn by Mr Niven, viz, OCBC cheque No 771893 dated 17 November 2009 for the sum of $320,000 to Ms Lim, OCBC cheque No 771397 also dated 17 November 2009 for the sum of $300,000 to APG and OCBC cheque No 771399 dated 1 December 2009 for the sum of $490,000 to APG. There are no cheques dated 17 December 2009."
+          "Text": "APG engaged Firstwaters Consultants Pte Ltd to reconstruct APG's accounts from 2009 and to maintain APG's day-to-day accounting."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "APG had engaged John Kennedy Stuart, a chartered accountant, to provide tax services and advice to APG's clients."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Subsequently, Ms Lim also asked Mr Stuart to investigate and report on APG's financial situation."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "After being engaged for tax services, Lim Kay-Lin Kathlene asked John Kennedy Stuart to investigate and report on APG's financial situation."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2010-07-02",
-          "Text": "At least A$450,000 of the $490,000 cheque was actually the company's own money, being the loan proceeds from the Ubertas loan. Mr Niven agreed that part of the Ubertas loan had been deposited into his own account in Australia and he had then made payment in Singapore dollars to APG."
+          "Text": "On 2 July 2010, John Kennedy Stuart sent an email to APG's directors stating that, based on APG's cash flow difficulties, existing and pending financial commitments and expected receipts, APG was technically insolvent as at that date."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2010-07-02",
-          "Text": "On 22 February 2010, APG raised an invoice to Ubertas 350 William Street Pty Ltd for the sum of A$86,000 to cover the marketing funds for the campaign. Mr Niven signed the invoice and inserted instructions on it for the funds to be paid to his personal bank account in Australia."
+          "Text": "Ms Lim had to put in a cash injection of $25,000 in July 2010 to help the company fund a marketing event."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2010-07-01",
-          "Text": "On 22 February 2010, APG raised an invoice to Ubertas 350 William Street Pty Ltd for A$86,000 and Mr Niven inserted instructions for the funds to be paid to his personal bank account in Australia."
+          "Text": "In an e-mail dated 18 July 2010, Mr Niven placed the blame for APG's difficult cash flow position on its repayment of the loan to Mr Goh and its subsequent commitment to repay A$40,000 to Ubertas every month."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2010-07-18",
-          "Text": "In February 2009, the defendants had set up a joint current account with UOB Bank Ltd, Account No 339xxx, the defendants' joint account."
+          "Text": "On 18 May 2010, APG's landlord alleged that it was more than three months in arrears of rent."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2010-05-18",
-          "Text": "In February 2009, the defendants had set up a joint current account with UOB Bank Ltd, Account No 339xxx."
+          "Text": "Mr Niven subsequently e-mailed the landlord asking for its understanding as 'as with many new businesses we have had some struggles with cash flow!'"
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2010-05-18",
-          "Text": "On 8 December 2009, Ms Lim was appointed as a director of APG."
+          "Text": "On 24 June 2010, APG received a demand from its advertising agency to pay an outstanding amount of $59,502.92 by 4 July 2010. On 16 July 2010, the agency informed APG that if the payment was not received by Monday, 19 July 2010, legal action would be taken against it."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2010-06-24",
-          "Text": "In November 2010, Ms Lim repaid the Ubertas loan and obtained an assignment of the outstanding amount."
+          "Text": "Subsequently, the agency agreed to payment in two instalments – $20,000 by 20 July 2010 and the balance by 30 July 2010."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2010-07-20",
-          "Text": "From May 2010, Mr Wang had been in Malaysia and had no longer been involved in the daily operations or management matters of APG."
+          "Text": "In July 2010, APG's advertising agency agreed to accept payment of the outstanding $59,502.92 in two instalments, with $20,000 due by 20 July 2010 and the balance by 30 July 2010."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-09-06",
+          "Text": "Under the September Agreement, Mr Niven acknowledged that he owed the company $300,450.37 and it was agreed that the company would write off 40% of this amount with Mr Niven paying the balance $180,270.22 in two instalments: 50% by 31 December 2011 and the remaining 50% by 31 December 2012."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-09-06",
+          "Text": "On 6 October 2010, by a written directors' resolution signed by Mr Niven and Ms Lim, the company resolved that the appointment of Ferrier Hodgson Pte Ltd to conduct a review of the company's accounts be approved."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-09-06",
+          "Text": "On 11 October 2010, FH sent the board its draft summary of findings from its preliminary review of its financial books and records. This review indicated that many of the company's payments, including to Mr Niven and Mr Wang, were not supported by vouchers and that APG had paid for the personal expenses of Mr Niven."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-10-06",
+          "Text": "On 13 October 2010, after discussions on parting ways, the three directors signed a handwritten document referred to as the October Agreement."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-10-11",
+          "Text": "The October Agreement provided that Mr Niven and Mr Wang would resign as directors that very day and transfer all their shares, except for 10% in Mr Wang's hands, to Ms Lim. Ms Lim agreed to pay Mr Niven's outstanding expenses and commission in instalments."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-10-13",
+          "Text": "It was further agreed that Mr Niven and Mr Wang would have no liability to APG 'from a compliance perspective upon settlement' and that they 'will owe nothing to the company upon settlement, excluding any personal tax liabilities'."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-10-13",
+          "Text": "The defendants appear to be referring to three cheques drawn by Mr Niven, viz OCBC cheque No 771893 dated 17 November 2009 for the sum of $320,000 to Ms Lim, OCBC cheque No 771397 also dated 17 November 2009 for the sum of $300,000 to APG and OCBC cheque No 771399 dated 1 December 2009 for the sum of $490,000 to APG."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-10-13",
+          "Text": "At least A$450,000 of the $490,000 cheque was actually the company's own money, being the loan proceeds from the Ubertas loan. This was subsequently confirmed by Mr Niven who agreed that part of the Ubertas loan had been deposited into his own account in Australia and he had then made payment in Singapore dollars to APG."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-11-17",
+          "Text": "On 22 February 2010, APG raised an invoice to Ubertas 350 William Street Pty Ltd for the sum of A$86,000 to cover the marketing funds for the campaign. Mr Niven signed the invoice and inserted instructions on it for the funds to be paid to his personal bank account in Australia."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-12-01",
+          "Text": "In due course, Ubertas 350 paid A$86,000 to Mr Niven's account."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-02-22",
+          "Text": "In February 2009, the defendants had set up a joint current account with UOB Bank Ltd, Account No 339xxx."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-02-22",
+          "Text": "Copies of the monthly bank statements for the defendants' joint account for the period from 6 February 2009 to 31 May 2009 were adduced in evidence. These statements revealed that funds were regularly transferred from APG's bank account to the defendants' joint account."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-02-06",
+          "Text": "On 8 December 2009, the new board consisted of the defendants and Ms Lim. On that date, they passed a directors' resolution to allow cheques drawn on APG's bank account to be signed by a single signatory, being either Mr Niven or Ms Lim."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-02-06",
+          "Text": "In November 2010, Ms Lim repaid the Ubertas loan and obtained an assignment of the outstanding amount."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2009-12-08",
+          "Text": "From May 2010 Mr Wang had been in Malaysia and had no longer been involved in the daily operations or management matters of APG."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2011-03-21",
+          "Text": "On 21 March 2011, APG was placed under judicial management and Timothy James Reid of Ferrier Hodgson Pte Ltd was appointed as judicial manager."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-07-01",
+          "Text": "In July 2011, APG, acting through its judicial manager, commenced this action to recover money paid to the defendants."
         }
       ],
       "Issue": "Whether, based on pre-dispute conduct and financial arrangements, payments made from APG's funds to or for the benefit of Sean Colville Niven and Wang Zijian, and the non-payment of share capital for their APG shares, correspond with APG's claims for recovery of those sums and unpaid capital.",
@@ -179,112 +284,112 @@
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "1989-01-01",
-          "Text": "Sean Colville Niven had been involved in the business of marketing and selling Australian properties since 1989 and had experience in dealing with the Australian property market and connections with property developers there."
+          "Text": "By 1989, Sean Colville Niven had begun working in the business of marketing and selling Australian properties and had accumulated experience and connections with Australian property developers."
         },
         {
           "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "2008-12-01",
-          "Text": "Prior to December 2008, Sean Colville Niven and Wang Zijian worked together in JL Property Group Pte Ltd, which was also in the business of selling property in Australia."
+          "Text": "Prior to December 2008, Sean Colville Niven worked with Wang Zijian at JL Property Group Pte Ltd, a company engaged in selling Australian properties."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2008-12-01",
-          "Text": "In December 2008, Sean Colville Niven and Wang Zijian decided to start their own company to sell Australian properties and resigned from JL Property."
+          "Text": "In December 2008, Sean Colville Niven and Wang Zijian decided to start a new company to sell Australian properties and resigned from JL Property Group Pte Ltd."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2009-02-09",
-          "Text": "On incorporation of APG on 9 February 2009, Sean Colville Niven was allotted 360,000 ordinary shares."
+          "Text": "On 9 February 2009, upon incorporation of APG, Sean Colville Niven became a director of APG and was allotted 360,000 ordinary shares."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2009-05-15",
-          "Text": "After Ms Lim joined APG, Sean Colville Niven was responsible for securing the rights to market various properties from Australian property developers as well as managing the finances of APG."
+          "Text": "After 15 May 2009, APG assigned Sean Colville Niven responsibility for securing marketing rights from Australian property developers and managing APG's finances."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-03-11",
-          "Text": "APG received a loan of $900,000 pursuant to a loan agreement dated 11 March 2009 with Goh Cheng Liang."
+          "Text": "On 11 March 2009, as part of APG's funding arrangements, Sean Colville Niven and Wang Zijian approached Goh Cheng Liang for a $900,000 loan to provide start-up capital for APG."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-02-06",
-          "Text": "In February 2009, Sean Colville Niven and Wang Zijian set up a joint current account with UOB Bank Ltd, account No 339xxx."
+          "Text": "On 6 February 2009, Sean Colville Niven and Wang Zijian opened a joint current account with United Overseas Bank Ltd, account number 339xxx."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-02-06",
-          "Text": "Copies of the monthly bank statements for the defendants' joint account for the period from 6 February 2009 to 31 May 2009 showed that funds were regularly transferred from APG's bank account to the defendants' joint account."
+          "Text": "Between 6 February 2009 and 31 May 2009, funds from APG's bank account were regularly transferred into the joint UOB account held by Sean Colville Niven and Wang Zijian."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-11-17",
-          "Text": "The defendants' submissions referred to OCBC cheque No 771893 dated 17 November 2009 for $320,000 to Ms Lim, OCBC cheque No 771397 dated 17 November 2009 for $300,000 to APG, and OCBC cheque No 771399 dated 1 December 2009 for $490,000 to APG."
+          "Text": "On or about 17 November 2009, Sean Colville Niven drew OCBC cheque number 771893 for $320,000 payable to Lim Kay-Lin Kathlene, cheque number 771397 for $300,000 payable to APG, and cheque number 771399 dated 1 December 2009 for $490,000 payable to APG."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-12-01",
-          "Text": "At least A$450,000 of the Ubertas loan was the company's own money and was transmitted to APG through the $490,000 and $300,000 cheques."
+          "Text": "In late 2009, part of an A$450,000 loan from Ubertas Funds Management Pty Ltd was deposited into Sean Colville Niven's personal account in Australia and then transmitted in Singapore dollars to APG through cheques including the $490,000 and $300,000 cheques."
         },
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2009-11-07",
-          "Text": "On 7 November 2009, the non-executive directors resigned and their shares in APG were subsequently transferred to Sean Colville Niven."
+          "Text": "On 7 November 2009, after the resignation of non-executive directors, their APG shares were transferred to Sean Colville Niven, increasing his shareholding to 640,000 shares."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2010-01-22",
-          "Text": "On 22 January 2010, Sean Colville Niven sold and transferred 240,000 shares to Ms Lim in return for payment of $160,000 directly to him, and the transfer form stated that the shares being transferred were 'fully paid up'."
+          "Text": "On 22 January 2010, Sean Colville Niven sold and transferred 240,000 APG shares to Lim Kay-Lin Kathlene for $160,000, and the transfer form described the shares as fully paid up."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2010-02-22",
-          "Text": "On 22 February 2010, APG raised an invoice to Ubertas 350 William Street Pty Ltd for A$86,000 to cover the marketing funds for the campaign, and Mr Niven signed the invoice and inserted instructions for the funds to be paid to his personal bank account in Australia."
+          "Text": "On 22 February 2010, Sean Colville Niven signed an APG invoice to Ubertas 350 William Street Pty Ltd for A$86,000 in marketing funds and inserted instructions for payment to be made to his personal bank account in Australia."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2010-02-22",
-          "Text": "In due course, Ubertas 350 paid A$86,000 to Mr Niven's account."
+          "Text": "Following the 22 February 2010 invoice, Ubertas 350 William Street Pty Ltd paid A$86,000 into Sean Colville Niven's personal bank account in Australia."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-01-01",
-          "Text": "From APG's incorporation, APG made various payments to or on behalf of Sean Colville Niven."
+          "Text": "From APG's incorporation, APG made various payments to or on behalf of Sean Colville Niven, including American Express credit card bills, legal fees in Suit No 170 of 2009, payments without supporting documents, travel expenses for him and his family, payments to third parties on his behalf, and payments of marketing funds into his personal account."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2010-09-06",
-          "Text": "On 6 September 2010, Sean Colville Niven signed the September Agreement with APG, Wang Zijian and Lim Kay-Lin Kathlene."
+          "Text": "On 6 September 2010, Sean Colville Niven signed the September Agreement with APG, Wang Zijian and Lim Kay-Lin Kathlene, acknowledging a debt of $300,450.37 to APG and agreeing to a repayment schedule with a 40% write-off recorded in the document."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2010-09-06",
-          "Text": "The September Agreement addressed unpaid share capital."
+          "Text": "The 6 September 2010 agreement recorded that Sean Colville Niven's unpaid share capital liability was $560,000 and that he would repay 10% of the outstanding capital each year for ten years."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2010-10-13",
-          "Text": "On 13 October 2010, Sean Colville Niven signed the handwritten October Agreement with Wang Zijian and Lim Kay-Lin Kathlene."
+          "Text": "On 13 October 2010, Sean Colville Niven signed the handwritten October Agreement with Wang Zijian and Lim Kay-Lin Kathlene, which recorded his resignation as director that day and the transfer of his APG shares to Lim Kay-Lin Kathlene, except for a portion retained by Wang Zijian."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2010-07-02",
-          "Text": "On 2 July 2010, Sean Colville Niven replied to an email from John Kennedy Stuart about APG's financial situation."
+          "Text": "On 2 July 2010, after receiving an email from John Kennedy Stuart describing APG as technically insolvent, Sean Colville Niven replied that the creditors report and revenue report had been visible for at least six months and that there was nothing new in the summary of APG's cash flow and creditors' position."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2010-07-18",
-          "Text": "On 18 July 2010, Sean Colville Niven sent an email concerning APG's financial pressure."
+          "Text": "On 18 July 2010, Sean Colville Niven emailed that APG had been under financial pressure every month since repaying the loan to Goh Cheng Liang and committing to monthly repayments of A$40,000 to Ubertas."
         },
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2009-12-08",
-          "Text": "On 8 December 2009, APG's board passed a resolution allowing cheques drawn on APG's bank account to be signed by a single signatory, either Mr Niven or Ms Lim."
+          "Text": "On 8 December 2009, as a director, Sean Colville Niven participated in a board resolution allowing APG cheques to be signed by a single signatory, either himself or Lim Kay-Lin Kathlene."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2010-01-01",
-          "Text": "APG paid legal fees in relation to Suit No 170 of 2009, in which Sean Colville Niven and Wang Zijian were defendants."
+          "Text": "During 2010, APG paid legal fees for Suit No 170 of 2009 in which Sean Colville Niven and Wang Zijian were defendants, and any settlement sums received by Sean Colville Niven from that suit were not paid over to APG."
         }
       ],
       "Issue": "Whether, based on pre-dispute conduct and financial arrangements, the payments made from APG's funds to or for the benefit of Sean Colville Niven and the non-payment of share capital for his APG shares correspond with APG's claim that he must repay those sums and unpaid capital.",
@@ -314,7 +419,7 @@
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2009-02-09",
-          "Text": "On 9 February 2009, APG was incorporated and Wang Zijian, also known as James Wang, was allotted 160,000 ordinary shares."
+          "Text": "On incorporation of APG, Wang Zijian, also known as James Wang, was allotted 160,000 ordinary shares."
         },
         {
           "Fact_Type": "RELATIONSHIP",
@@ -322,14 +427,19 @@
           "Text": "Prior to December 2008, Wang Zijian worked with Sean Colville Niven at JL Property Group Pte Ltd, a company engaged in selling Australian properties."
         },
         {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-12-01",
+          "Text": "In December 2008, Wang Zijian and Sean Colville Niven decided to start a new company to sell Australian properties and resigned from JL Property Group Pte Ltd."
+        },
+        {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-03-11",
-          "Text": "APG received a loan of $900,000 pursuant to a loan agreement dated 11 March 2009 with Mr Goh."
+          "Text": "APG received a loan of $900,000 pursuant to a loan agreement dated 11 March 2009 with Goh Cheng Liang."
         },
         {
           "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "2009-03-11",
-          "Text": "Goh Cheng Liang was the godfather of Mr Wang and provided a loan of $900,000 to APG pursuant to a loan agreement dated 11 March 2009."
+          "Text": "Goh Cheng Liang was the godfather of Wang Zijian's co-defendant, Mr Wang, and provided loan funding to APG."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
@@ -339,17 +449,17 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-02-06",
-          "Text": "In February 2009, the defendants set up a joint current account with UOB Bank Ltd, Account No 339xxx."
+          "Text": "In February 2009, the defendants set up a joint current account with UOB Bank Ltd, account number 339xxx."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-02-06",
-          "Text": "Copies of the monthly bank statements for the defendants' joint account for the period from 6 February 2009 to 31 May 2009 were adduced in evidence, and these statements revealed that funds were regularly transferred from APG's bank account to the defendants' joint account."
+          "Text": "Copies of the monthly bank statements for the defendants' joint account for the period from 6 February 2009 to 31 May 2009 showed that funds were regularly transferred from APG's bank account to the defendants' joint account."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2010-10-13",
-          "Text": "On 13 October 2010, Mr Niven, Mr Wang and Ms Lim signed the handwritten October Agreement, which provided that Mr Niven and Mr Wang would resign as directors that day and transfer all their shares, except for 10% in Mr Wang's hands, to Ms Lim."
+          "Text": "On 13 October 2010, Mr Wang, Mr Niven and Ms Lim signed the handwritten October Agreement, which provided that Mr Niven and Mr Wang would resign as directors that day and transfer all their shares, except for 10% in Mr Wang's hands, to Ms Lim."
         },
         {
           "Fact_Type": "CONDUCT",
