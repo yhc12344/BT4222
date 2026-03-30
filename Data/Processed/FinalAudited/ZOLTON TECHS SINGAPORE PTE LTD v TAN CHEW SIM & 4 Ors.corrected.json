@@ -53,16 +53,6 @@
           "Text": "Tan Chew Sim filed for divorce in September 2011."
         },
         {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2013-12-01",
-          "Text": "Interim judgment for divorce between Tan Chew Sim and Chow Hoo Siong was granted in December 2013."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2016-05-01",
-          "Text": "The parties’ appeals relating to ancillary matters were disposed of in May 2016."
-        },
-        {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2008-01-01",
           "Text": "From 2008, Zolton Techs Singapore Pte Ltd provided maintenance services to mashed potato machines used at 7-Eleven outlets, where the machines and powdered ingredients were supplied by Nestlé Singapore."
@@ -289,16 +279,6 @@
           "Text": "In September 2011, Tan Chew Sim initiated divorce proceedings against Chow Hoo Siong."
         },
         {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2013-12-01",
-          "Text": "In December 2013, interim judgment for divorce was granted."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2016-05-01",
-          "Text": "In May 2016, the parties’ appeals relating to ancillary matters were disposed of."
-        },
-        {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2008-01-01",
           "Text": "From 2008, as a director of Zolton Techs Singapore Pte Ltd, Tan Chew Sim was involved in the company’s provision of maintenance services for mashed potato machines at 7-Eleven outlets."
@@ -479,7 +459,7 @@
       "Application": "Before the dispute, Tan Chew Sim, as director, developed the 7-Eleven mashed potato machine opportunity by sourcing suppliers, obtaining quotations, and securing a 100-machine purchase order addressed to Zolton Techs Singapore Pte Ltd. New machines were ultimately supplied via Stellar Corporate Management Pte Ltd, which she controlled, while the machines passed through the plaintiff’s warehouse, were calibrated by its technicians, and generated maintenance revenue for the plaintiff, with a separate payment from Tan for installation work. During her marriage to the majority shareholder, the company funded a car down-payment for her, paid for a car used by him, and bore personal expenses on a corporate credit card, while paying her a relatively low salary and discussing a 5% revenue-based incentive for 2010. These events , prior to the dispute, her operational role, use of company resources, and compensation expectations were shaped by internal arrangements with the controlling shareholder and the company’s established practices.",
       "Judicial_Reasoning_Log": "The court evaluated whether Tan Chew Sim diverted a corporate opportunity without consent, whether she had to repay a car down-payment and credit card expenses, and whether she was entitled to salary in lieu of notice, accrued leave, and a 5% incentive bonus. The judge found that the Mashed Potato Agreement existed between Tan and Chow, the only directors, allowing Tan to fulfil 7-Eleven’s purchase order through another entity while the plaintiff continued to earn from maintenance. This conclusion was based on the open routing and calibration of 130 new machines through the plaintiff’s warehouse over seven months, visible to staff and subject to CCTV, which was inconsistent with secret diversion; email patterns suggesting Chow accessed or could access Tan’s corporate email; corroborative testimony from Stella that Tan explained Chow’s concerns about Chinese suppliers and the arrangement to use Stellar Corporate Management Pte Ltd; and Joyce’s evidence that Tan spoke candidly about using another company to avoid harming Lim’s position at 7-Eleven. The court held that, because both directors agreed, there was no breach of fiduciary duty and no need for shareholder ratification, though Tan had to compensate the plaintiff on a quantum meruit basis for use of its premises and labour for installation. On the $4,399.60 car payment, the court noted the absence of any indication on the payment voucher that it was a loan and the fact that the company also paid for Chow’s personal car, and therefore did not treat it as repayable. Regarding the $12,684.48 credit card expenses, the court accepted that there was a Marriage Agreement under which both spouses used the company as a “cash cow” for personal expenses, and that Chow, as 90% shareholder, could and did effectively consent to or ratify such charges; arguments that the arrangement was a non-binding domestic agreement, lacked consideration, or contravened the Companies Act were rejected because Tan relied on it defensively, not as an enforceable contract. The plaintiff’s second claim was dismissed. For the counterclaim, the court applied common law principles on reasonable notice in the absence of a written employment contract and held that one month’s salary in lieu of notice was reasonable, noting that Tan’s absence from work after the 4 April 2011 altercation was not a wilful refusal to work. On accrued leave, the court found that Tan had taken trips and had not kept proper records, and it did not accept supporting evidence from Amy, so the claim for accrued leave failed. On the 5% incentive, the court found Chow’s evidence inconsistent and accepted that an oral agreement for a performance bonus existed, concluding that 5% of revenue, rather than profit, was the agreed metric because a profit-based bonus would have been too small to incentivise. The court therefore dismissed the plaintiff’s claims against Tan, held that she was not liable for the sums claimed, ordered quantum meruit assessment for installation services, and allowed her counterclaim for one month’s salary in lieu of notice and a 5% bonus on 2010 revenue while rejecting her claim for accrued leave."
     },
-    "Label": "Partially Liable",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   }
 ]

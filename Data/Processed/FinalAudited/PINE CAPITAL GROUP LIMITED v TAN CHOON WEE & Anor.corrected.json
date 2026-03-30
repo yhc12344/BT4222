@@ -19,16 +19,6 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2019-04-08",
-          "Text": "On 2019-04-08, Tan Choon Wee filed Suit No 374 of 2019 in the High Court of Singapore naming Pine Capital Group Limited and others as defendants."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2019-04-08",
-          "Text": "On 2019-04-08, Tan Choon Wee applied by Summons No 1803 of 2019 for interim orders including reinstatement as director of Advance Capital Partners Asset Management Private Limited and restraints on certain individuals from acting as directors of that company."
-        },
-        {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2019-01-01",
           "Text": "In early 2019, Tan Choon Wee was the chief executive officer and a director of Advance Capital Partners Asset Management Private Limited."
@@ -46,7 +36,7 @@
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2019-01-01",
-          "Text": "In 2019, Tan Choon Wee and Lin Kuan Liang Nicholas were directors of Advance Capital Partners Asset Management Private Limited before their removal was later contested."
+          "Text": "In 2019, Tan Choon Wee and Lin Kuan Liang Nicholas were directors of Advance Capital Partners Asset Management Private Limited before their removal was contested."
         },
         {
           "Fact_Type": "CONDUCT",
@@ -71,7 +61,7 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2019-04-05",
-          "Text": "On 2019-04-05, Wang Meng instructed Advance Capital Partners Asset Management Private Limited's compliance officer, Michelle Chee, to lodge forms with the Monetary Authority of Singapore to inform it of changes in the composition of the board of Advance Capital Partners Asset Management Private Limited."
+          "Text": "On 2019-04-05, Wang Meng instructed Advance Capital Partners Asset Management Private Limited's compliance officer, Michelle Chee, to lodge forms with the Monetary Authority of Singapore to inform it of changes in the composition of the board."
         },
         {
           "Fact_Type": "DOCUMENT",
@@ -86,17 +76,17 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2019-04-06",
-          "Text": "On 2019-04-06, the Monetary Authority of Singapore forwarded Wang Meng's email to compliance officer Michelle Chee, copying Tan Choon Wee, and requested confirmation that the removal of Tan Choon Wee and Lin Kuan Liang Nicholas as directors of Advance Capital Partners Asset Management Private Limited complied with the Companies Act."
+          "Text": "On 2019-04-06, the Monetary Authority of Singapore requested confirmation that the removal of Tan Choon Wee and Lin Kuan Liang Nicholas as directors of Advance Capital Partners Asset Management Private Limited complied with the Companies Act."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2019-04-06",
-          "Text": "On 2019-04-06, compliance officer Michelle Chee informed the Monetary Authority of Singapore that Tan Choon Wee and Lin Kuan Liang Nicholas had not been removed as directors of Advance Capital Partners Asset Management Private Limited in accordance with the Companies Act and that information on the proposed new directors had not been provided for background checks."
+          "Text": "On 2019-04-06, compliance officer Michelle Chee informed the Monetary Authority of Singapore that Tan Choon Wee and Lin Kuan Liang Nicholas had not been removed as directors in accordance with the Companies Act and that information on the proposed new directors had not been provided for background checks."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-04-06",
-          "Text": "On 2019-04-06, additional locks were installed on the main door of the office of Advance Capital Partners Asset Management Private Limited, which prevented employees including Tan Choon Wee and Lin Kuan Liang Nicholas from accessing the office."
+          "Text": "On 2019-04-06, additional locks were installed on the main door of the office of Advance Capital Partners Asset Management Private Limited, preventing Tan Choon Wee and Lin Kuan Liang Nicholas from accessing the office."
         },
         {
           "Fact_Type": "CONDUCT",
@@ -105,58 +95,48 @@
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-04-08",
-          "Text": "In the early hours of 2019-04-08, Tan Choon Wee and former director Bernard Ong Kheng Chye attended at the office of Advance Capital Partners Asset Management Private Limited, removed the existing front door lock and replaced it with a new lock."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-04-08",
-          "Text": "On 2019-04-08, Tan Choon Wee filed Summons No 1803 of 2019 seeking orders including reinstatement of himself and Lin Kuan Liang Nicholas as directors of Advance Capital Partners Asset Management Private Limited and restraints on Wang Meng, Pan Ki Ro and Trina Ann Savage from acting as directors."
-        },
-        {
-          "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-04-10",
-          "Text": "On 2019-04-10, Tan Choon Wee visited the main branch of CIMB Bank in Kuala Lumpur and arranged for RM3,000,000 to be withdrawn from a bank account of Advance Opportunities Fund 1 held as a sub-account under an account of Advance Capital Partners Asset Management Private Limited."
+          "Text": "On 2019-04-10, Tan Choon Wee arranged for RM3,000,000 to be withdrawn from a bank account of Advance Opportunities Fund 1 held as a sub-account under an account of Advance Capital Partners Asset Management Private Limited."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2018-05-01",
-          "Text": "In May 2018, Advance Capital Partners Asset Management Private Limited issued a capital call to Pine Capital Group Limited for SGD 100,000 to prevent a shortfall in base capital requirements and to settle expenses, and Pine Capital Group Limited contributed SGD 100,000 and subscribed for 207 additional shares."
+          "Text": "In May 2018, Advance Capital Partners Asset Management Private Limited issued a capital call to Pine Capital Group Limited for SGD 100,000, and Pine Capital Group Limited contributed the sum and subscribed for 207 additional shares."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2018-12-01",
-          "Text": "In December 2018, Advance Capital Partners Asset Management Private Limited sought a further capital top-up from its shareholders amounting to SGD 41,914.54, which was not ultimately required due to incoming revenue."
+          "Text": "In December 2018, Advance Capital Partners Asset Management Private Limited sought a further capital top-up from its shareholders amounting to SGD 41,914.54."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2019-01-24",
-          "Text": "On 2019-01-24, Advance Capital Partners Asset Management Private Limited made a capital call for SGD 102,000 and requested an interest-free shareholder loan of SGD 200,000; Pine Capital Group Limited contributed SGD 189,819 in exchange for 383 shares and declined to provide the loan."
+          "Text": "On 2019-01-24, Advance Capital Partners Asset Management Private Limited made a capital call for SGD 102,000 and requested an interest-free shareholder loan of SGD 200,000; Pine Capital Group Limited contributed SGD 189,819 but declined the loan."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2019-03-29",
-          "Text": "On 2019-03-29, Advance Capital Partners Asset Management Private Limited issued a capital call for SGD 66,654 to be paid by 2019-03-30, stating that if Pine Capital Group Limited did not pay, Tan Choon Wee would be entitled to contribute capital alone and dilute Pine Capital Group Limited's shareholding."
+          "Text": "On 2019-03-29, Advance Capital Partners Asset Management Private Limited issued a capital call for SGD 66,654."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2019-03-30",
-          "Text": "On 2019-03-30, Pine Capital Group Limited sent a cheque for SGD 66,654 to Advance Capital Partners Asset Management Private Limited and requested information and supporting documents on the need for the capital call, stating that the contribution was intended to meet base capital requirements."
+          "Text": "On 2019-03-30, Pine Capital Group Limited sent a cheque for SGD 66,654 and requested supporting documents on the need for the capital call."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2019-01-24",
-          "Text": "For the capital call on 2019-01-24, Tan Choon Wee contributed SGD 74 for 378 shares issued to him and treated the balance of his capital contribution as offset against unpaid and waived salaries and other claims allegedly due to him from Advance Capital Partners Asset Management Private Limited."
+          "Text": "For the capital call on 2019-01-24, Tan Choon Wee contributed SGD 74 for 378 shares issued to him and treated the balance as offset against unpaid salaries and other claims."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2019-03-29",
-          "Text": "For the capital call on 2019-03-29, an employee of Advance Capital Partners Asset Management Private Limited later informed Pine Capital Group Limited that Tan Choon Wee offset his capital contribution against his March 2019 salary and other claims allegedly due to him."
+          "Text": "For the capital call on 2019-03-29, Tan Choon Wee offset his capital contribution against his March 2019 salary and other alleged claims."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2018-05-01",
-          "Text": "In May 2018, Tan Choon Wee proposed that Advance Capital Partners Asset Management Private Limited invest SGD 20,000,000 in Global Invacom Group Limited by way of redeemable convertible notes using funds managed by Advance Capital Partners Asset Management Private Limited, including Advance Opportunities Fund 1 and Advance Credit Fund."
+          "Text": "In May 2018, Tan Choon Wee proposed that Advance Capital Partners Asset Management Private Limited invest SGD 20,000,000 in Global Invacom Group Limited using funds from managed sub-accounts."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
@@ -176,97 +156,57 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2019-02-01",
-          "Text": "In February 2019, after objections from directors of Advance Credit Fund, Tan Choon Wee represented that he would procure Advance Credit Fund's withdrawal from participation in the proposed redeemable convertible notes investment in Global Invacom Group Limited."
+          "Text": "In February 2019, Tan Choon Wee represented that he would procure Advance Credit Fund's withdrawal from the proposed investment in Global Invacom Group Limited."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-03-21",
-          "Text": "On 2019-03-21, Pine Capital Group Limited made a public announcement about complaints it had received concerning the management of Pine Capital Group Limited, Advance Capital Partners Asset Management Private Limited and Advance Opportunities Fund 1."
+          "Text": "On 2019-03-21, Pine Capital Group Limited made a public announcement about complaints regarding the management of the group."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2019-03-21",
-          "Text": "On 2019-03-21, Pine Capital Group Limited announced that on 2019-03-19 it had received a notice of termination of the management agreement between Advance Capital Partners Asset Management Private Limited and Advance Opportunities Fund 1 signed by Tan Choon Wee and Lin Kuan Liang Nicholas."
+          "Text": "On 2019-03-21, Pine Capital Group Limited announced receipt of a notice of termination of the management agreement with Advance Opportunities Fund 1 signed by Tan Choon Wee and Lin Kuan Liang Nicholas."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-03-21",
-          "Text": "On 2019-03-21, Pine Capital Group Limited requested a trading suspension of its shares on the Singapore Exchange due to lack of clarity over the affairs of Advance Capital Partners Asset Management Private Limited."
+          "Text": "On 2019-03-21, Pine Capital Group Limited requested a trading suspension of its shares."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-02-07",
-          "Text": "On 2019-02-07, Pine Capital Group Limited received a notice to convene an extraordinary general meeting on 2019-03-08 to consider removal of directors including Tan Choon Wee, Roy Ling Chung Yee and Chong Chee Hoong."
+          "Text": "On 2019-02-07, Pine Capital Group Limited received a notice to convene an extraordinary general meeting to consider removal of directors including Tan Choon Wee."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2019-03-18",
-          "Text": "On 2019-03-18 and 2019-03-19, Chong Chee Hoong and Roy Ling Chung Yee resigned as directors of Pine Capital Group Limited."
+          "Text": "In March 2019, Roy Ling Chung Yee and Chong Chee Hoong resigned as directors of Pine Capital Group Limited."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2019-03-19",
-          "Text": "By 2019-03-19, the board of Pine Capital Group Limited included Wee Heng Yai Adrian as an independent director, Pan Ki Ro as a non-executive non-independent director, and Tomi-Jae Wanlun Tjio as an independent non-executive chairman."
+          "Text": "By 2019-03-19, the board of Pine Capital Group Limited included Wee Heng Yai Adrian, Pan Ki Ro, and Tomi-Jae Wanlun Tjio."
         },
         {
           "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "2019-01-01",
-          "Text": "In 2019, Advance Capital Partners Asset Management Private Limited was a Registered Fund Management Company regulated by the Monetary Authority of Singapore under the Securities and Futures Act."
+          "Text": "In 2019, Advance Capital Partners Asset Management Private Limited was a Registered Fund Management Company regulated by the Monetary Authority of Singapore."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2018-07-30",
-          "Text": "On 2018-07-30, the Monetary Authority of Singapore issued a reprimand letter to Advance Capital Partners Asset Management Private Limited, marked for the attention of chief executive officer Tan Choon Wee, regarding omissions of information in a capital markets services licence application and failure to lodge a notice of change in particulars within 14 days."
+          "Text": "On 2018-07-30, the Monetary Authority of Singapore issued a reprimand letter to Advance Capital Partners Asset Management Private Limited and Tan Choon Wee regarding omissions of information in a licence application."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2019-02-08",
-          "Text": "On 2019-02-08, the Monetary Authority of Singapore sent a notice of intention to reprimand to Tan Choon Wee in his capacity as director and chief executive officer of Advance Capital Partners Asset Management Private Limited concerning omissions of information in a capital markets services licence application."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2019-02-22",
-          "Text": "On 2019-02-22, Tan Choon Wee sent written representations to the Monetary Authority of Singapore responding to the notice of intention to reprimand."
+          "Text": "On 2019-02-08, the Monetary Authority of Singapore sent a notice of intention to reprimand to Tan Choon Wee concerning omissions in a capital markets services licence application."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2019-04-12",
-          "Text": "On 2019-04-12, the Monetary Authority of Singapore issued a reprimand to Tan Choon Wee for omission of information in an application and for failing to discharge his functions as chief executive officer and director of Advance Capital Partners Asset Management Private Limited."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2017-06-09",
-          "Text": "On 2017-06-09, Advance Capital Partners Asset Management Private Limited applied to the Monetary Authority of Singapore for a capital markets services licence for fund management."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2017-08-08",
-          "Text": "On 2017-08-08, the Monetary Authority of Singapore rejected Advance Capital Partners Asset Management Private Limited's capital markets services licence application because shareholder Sun Wei Yeh did not provide a fit and proper declaration."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2017-09-22",
-          "Text": "On 2017-09-22, Advance Capital Partners Asset Management Private Limited submitted a fresh capital markets services licence application naming Tan Choon Wee as executive director and chief executive officer."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2017-09-28",
-          "Text": "On 2017-09-28, the Monetary Authority of Singapore asked Tan Choon Wee for an assessment of shareholder Sun Wei Yeh and requested fit and proper declarations from all substantial direct and indirect shareholders of Advance Capital Partners Asset Management Private Limited."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-01-15",
-          "Text": "On 2018-01-15, Tan Choon Wee informed the Monetary Authority of Singapore that shareholder Sun Wei Yeh would not provide the requested fit and proper declaration."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-04-09",
-          "Text": "On 2018-04-09, the Monetary Authority of Singapore wrote to Advance Capital Partners Asset Management Private Limited requiring that Sun Wei Yeh not be appointed as a representative or director, not have a direct or indirect role in its affairs, and that its shares not be sold to him."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-05-10",
-          "Text": "On 2018-05-10, Tan Choon Wee emailed the Monetary Authority of Singapore stating that Advance Capital Partners Asset Management Private Limited would comply with the directives given on 2018-04-09 regarding shareholder Sun Wei Yeh."
+          "Text": "On 2019-04-12, the Monetary Authority of Singapore issued a reprimand to Tan Choon Wee for failing to discharge his functions as chief executive officer and director."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
@@ -276,17 +216,7 @@
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2017-03-24",
-          "Text": "On 2017-03-24, Advance Capital Partners Asset Management Private Limited issued a letter of appointment to Tan Choon Wee as chief executive officer, which included a clause allowing either party to terminate the appointment on three months' written notice."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2019-03-19",
-          "Text": "On 2019-03-19, as directors of Advance Opportunities Fund 1, Tan Choon Wee and Lin Kuan Liang Nicholas sent a letter to investors stating that Pine Capital Group Limited had received a requisition to remove Tan Choon Wee as chief executive officer of Advance Capital Partners Asset Management Private Limited and that they had reviewed the risk of his removal and its impact on Advance Opportunities Fund 1."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-02-01",
-          "Text": "From 2018-02-01 to 2020-05-09, Advance Capital Partners Asset Management Private Limited rented a meeting room at its premises to Pine Capital Group Limited, and Pine Capital Group Limited's employees occupied that room."
+          "Text": "On 2017-03-24, Advance Capital Partners Asset Management Private Limited issued a letter of appointment to Tan Choon Wee as chief executive officer, which allowed termination on three months' written notice."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
@@ -296,37 +226,17 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2018-01-01",
-          "Text": "Between 2018 and early 2019, Advance Capital Partners Asset Management Private Limited paid for personal fibre broadband service, Singtel Mio-TV services, Singapore Swimming Club membership expenses, Spotify subscription charges, and six mobile telephone lines used by Tan Choon Wee."
+          "Text": "Between 2018 and early 2019, Advance Capital Partners Asset Management Private Limited paid for personal fibre broadband service, Singtel Mio-TV services, club membership expenses, and Spotify subscription charges used by Tan Choon Wee."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2018-01-01",
-          "Text": "Under clause 10.5 of his employment contract, Tan Choon Wee was entitled to reimbursement of telecommunication expenses incurred in the course of his duties as chief executive officer of Advance Capital Partners Asset Management Private Limited."
+          "Text": "Under his employment contract, Tan Choon Wee was entitled to reimbursement of telecommunication expenses incurred in the course of his duties."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2019-04-12",
-          "Text": "By 2019-04-12, Advance Opportunities Fund 1 had contractual payment obligations to Tanco Holdings Berhad, Eden Inc Berhad and Tiger Synergy Berhad under subscription agreements requiring payment by that date."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-04-06",
-          "Text": "On 2019-04-06, employees of Advance Capital Partners Asset Management Private Limited were instructed to report for work at 14:00 hours instead of 09:00 hours."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-04-12",
-          "Text": "On 2019-04-12, Tan Choon Wee filed Summons No 1946 of 2019 seeking to restrain Wang Meng, Pan Ki Ro and Trina Ann Savage from accessing any computer or laptop belonging to Advance Capital Partners Asset Management Private Limited."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-04-16",
-          "Text": "On 2019-04-16, Tan Choon Wee filed Summons No 1990 of 2019 seeking to restrain the defendants from holding any extraordinary general meeting or other meetings to remove him and Lin Kuan Liang Nicholas as directors of Advance Capital Partners Asset Management Private Limited pending determination of Suit No 374 of 2019."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-04-08",
-          "Text": "On 2019-04-08, Tan Choon Wee stated in his affidavit that he intended to write to the banks of Advance Capital Partners Asset Management Private Limited to inform them of the situation and to request that the status quo be maintained pending the outcome of Suit No 374 of 2019."
+          "Text": "By 2019-04-12, Advance Opportunities Fund 1 had contractual payment obligations to Tanco Holdings Berhad, Eden Inc Berhad and Tiger Synergy Berhad."
         },
         {
           "Fact_Type": "RELATIONSHIP",
@@ -336,21 +246,16 @@
         {
           "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "2019-02-04",
-          "Text": "By around 2019-02-04, Sun Wei Yeh and his associate Jessie Sun, through Prime Partners Pte Ltd, held a majority of the shares in Pine Capital Group Limited."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-04-10",
-          "Text": "On 2019-04-10, directors and investors including Alauddin Ahmed and David Sarkis sent emails to Advance Capital Partners Asset Management Private Limited expressing unhappiness about gating of redemptions from Advance Opportunities Fund 1."
+          "Text": "By around 2019-02-04, Sun Wei Yeh and his associate, through Prime Partners Pte Ltd, held a majority of the shares in Pine Capital Group Limited."
         }
       ],
-      "Issue": "Whether, based on events up to April 2019, the removal of Tan Choon Wee as director and chief executive officer of Advance Capital Partners Asset Management Private Limited and the appointment of new directors, together with control over company assets and banking access, should be maintained or restrained.",
+      "Issue": "Whether the removal of Tan Choon Wee as director and chief executive officer of Advance Capital Partners Asset Management Private Limited and the appointment of new directors, together with control over company assets and banking access, should be sustained in light of governance disputes and management conduct.",
       "Rule": "Interim injunctions are generally granted where there is a serious question to be tried, damages would not be an adequate remedy, and the balance of convenience favors preserving the status quo. Leave to appeal from interlocutory orders is generally granted only where there is a prima facie case of error of law, or a question of general principle or importance warranting consideration by an appellate court.",
-      "Application": "The pre-dispute conduct shows that Tan Choon Wee held a minority shareholding in Advance Capital Partners Asset Management Private Limited, was its chief executive officer and a director, and was involved in capital calls, related-party investment proposals, and termination of a key management agreement. Pine Capital Group Limited, as majority shareholder, convened an extraordinary general meeting on 2019-04-05 at which resolutions were passed to remove him and appoint new directors, and its representatives notified regulators and employees of the changes. Regulatory correspondence from the Monetary Authority of Singapore in 2018 and early 2019 focused on omissions in licence applications and on the role of shareholder Sun Wei Yeh, and resulted in reprimands addressed to Advance Capital Partners Asset Management Private Limited and to Tan Choon Wee. Around the same period, Tan Choon Wee changed office locks, used offsets against salary and claims for capital contributions, and arranged a RM3,000,000 withdrawal from a fund sub-account managed by Advance Capital Partners Asset Management Private Limited to meet fund obligations. These events formed the factual background for his applications to restrain the new board composition and to seek reinstatement, and for Pine Capital Group Limited's application to regularize or reconvene shareholder meetings.",
+      "Application": "Tan Choon Wee held a minority shareholding and was the chief executive officer and a director of Advance Capital Partners Asset Management Private Limited. Pine Capital Group Limited, as majority shareholder, convened an extraordinary general meeting on 2019-04-05 at which resolutions were passed to remove him and appoint new directors. Regulatory correspondence from the Monetary Authority of Singapore resulted in reprimands addressed to the company and to Tan Choon Wee. During this period, Tan Choon Wee used offsets against salary for capital contributions and arranged a RM3,000,000 withdrawal from a fund sub-account to meet fund obligations.",
       "Judicial_Reasoning_Log": "The court treated the injunction application and the originating summons together. It applied the American Cyanamid framework and concluded that the balance of convenience did not favor continuing the interim injunction. The judge considered that Tan Choon Wee had come to court with unclean hands, focusing on his conduct after obtaining the 9 April 2019 interim order, including the RM3,000,000 withdrawal from an Advance Opportunities Fund 1 sub-account under Advance Capital Partners Asset Management Private Limited's CIMB account in Kuala Lumpur without disclosure to the court or to the company, and in the context of a standstill order. The court rejected his explanation that he believed the order did not extend to the fund, noting that he had sought consent from the company's new board to execute the transaction and that he did not inform the court of the impending payment when seeking the injunction. The judge also found material non-disclosure in his failure to mention Monetary Authority of Singapore reprimands addressed to him personally in July 2018 and April 2019, despite his assertion that he and Lin Kuan Liang Nicholas were the only directors cleared and accepted by the regulator as fit and proper. The court examined the MAS correspondence and concluded that the reprimands related to omissions of material information about shareholder Sun Wei Yeh and were directed at the company and at Tan Choon Wee, not at Sun Wei Yeh personally. The judge noted that his alleged understanding with Sun Wei Yeh that he would always remain chief executive officer and director of Advance Capital Partners Asset Management Private Limited was not mentioned in his initial pleadings or first affidavit, surfaced only later in affidavits filed in the originating summons, and was inconsistent with his voluntary resignation as a director of Pine Capital Group Limited on 1 March 2019, with clause 12.1 of his employment letter allowing termination on notice, and with Article 69 of the company's articles permitting removal of directors by ordinary resolution. The court also observed that Sun Wei Yeh was not joined as a party despite being central to the alleged understanding. The judge considered the termination of the management agreement with Advance Opportunities Fund 1, which removed a major revenue source from Advance Capital Partners Asset Management Private Limited, as inconsistent with the professed aim of protecting the company. The court further took into account the pattern of capital calls where Pine Capital Group Limited contributed cash while Tan Choon Wee used offsets against salary and claims, and the use of company funds to pay for personal expenses such as multiple mobile lines, broadband, television services, club membership and music streaming, which the court viewed as an abuse of perquisites notwithstanding the reimbursement clause in his employment contract. On these facts, the court held that he had misused the court's process to secure interim relief while taking steps that undermined the company, and that equitable relief should be refused. Regarding the leave application, the court applied the three-limb test from Lee Kuan Yew v Tang Liang Hong and Abdul Rahman, requiring a prima facie case of error of law, a question of general principle decided for the first time, or a question of importance warranting appellate guidance. It rejected reliance on Essar Steel as an exception for errors of fact, noting that the comment there was obiter and that Singapore law maintains a higher threshold than the English 'realistic prospects of success' test in Smith v Cosworth. The judge found no identified error of law in the exercise of discretion to refuse the injunction, and held that the issues raised about the use of section 182 of the Companies Act to convene a fresh extraordinary general meeting, and about the status of the 5 April 2019 meeting, were already the subject of a separate appeal in the originating summons and did not justify leave in the suit. The court concluded that there was no novel or important question of law and no conflict of authority, and therefore dismissed the application for leave to appeal."
     },
     "Label": "Claim Dismissed",
-    "Leakage_Score": 2
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -378,7 +283,7 @@
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-02-07",
-          "Text": "On 7 February 2019, Pine Capital Group Limited received notice to convene an extraordinary general meeting on 8 March 2019 to inter alia remove Tan Choon Wee, Roy Ling Chung Yee and Chong Chee Hoong as directors of Pine Capital Group Limited."
+          "Text": "On 7 February 2019, Pine Capital Group Limited received notice to convene an extraordinary general meeting to remove Tan Choon Wee, Roy Ling Chung Yee and Chong Chee Hoong as directors."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
@@ -388,7 +293,7 @@
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2019-03-18",
-          "Text": "On 18 March 2019 and 19 March 2019, Chong Chee Hoong and Roy Ling Chung Yee resigned as directors of Pine Capital Group Limited respectively."
+          "Text": "On 18 March 2019 and 19 March 2019, Chong Chee Hoong and Roy Ling Chung Yee resigned as directors of Pine Capital Group Limited."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
@@ -398,67 +303,57 @@
         {
           "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "2019-01-01",
-          "Text": "Pine Capital Group Limited held the remaining 51% of the issued shares in Advance Capital Partners Asset Management Private Limited."
+          "Text": "Pine Capital Group Limited held 51% of the issued shares in Advance Capital Partners Asset Management Private Limited."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-03-21",
-          "Text": "On 21 March 2019, Pine Capital Group Limited made a public announcement concerning complaints received from substantial shareholders in respect of the management of Pine Capital Group Limited, Advance Capital Partners Asset Management Private Limited and Advance Opportunities Fund 1."
+          "Text": "On 21 March 2019, Pine Capital Group Limited made a public announcement concerning management complaints."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-03-21",
-          "Text": "On 21 March 2019, Pine Capital Group Limited announced that on 19 March 2019 it had received a notice of termination signed by Tan Choon Wee and Lin Kuan Liang Nicholas of the management agreement between Advance Capital Partners Asset Management Private Limited and Advance Opportunities Fund 1."
+          "Text": "On 21 March 2019, Pine Capital Group Limited announced receipt of a notice of termination of the management agreement with Advance Opportunities Fund 1."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-03-21",
-          "Text": "On 21 March 2019, Pine Capital Group Limited called for a trading suspension of its shares in consultation with Singapore Exchange Ltd due to lack of clarity as to the state of affairs of Advance Capital Partners Asset Management Private Limited."
+          "Text": "On 21 March 2019, Pine Capital Group Limited requested a trading suspension of its shares."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-04-05",
-          "Text": "On 5 April 2019, Pine Capital Group Limited participated in an extraordinary general meeting of Advance Capital Partners Asset Management Private Limited at which resolutions were purportedly passed to appoint Wang Meng, Pan Ki Ro and Trina Ann Savage as directors and remove Tan Choon Wee and Lin Kuan Liang Nicholas as directors."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-04-10",
-          "Text": "On 10 April 2019, Pine Capital Group Limited filed Originating Summons No 471 of 2019 seeking, among other things, a declaration that the resolutions passed at the Extraordinary General Meeting of Advance Capital Partners Asset Management Private Limited on 5 April 2019 were valid, or alternatively that a separate and further EGM be convened and held forthwith with one member deemed sufficient to constitute a quorum."
+          "Text": "On 5 April 2019, Pine Capital Group Limited participated in an extraordinary general meeting of Advance Capital Partners Asset Management Private Limited to appoint new directors."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2018-05-01",
-          "Text": "In May 2018, Pine Capital Group Limited contributed $100,000 to Advance Capital Partners Asset Management Private Limited pursuant to a capital call and subscribed for a further 207 shares."
+          "Text": "In May 2018, Pine Capital Group Limited contributed $100,000 to Advance Capital Partners Asset Management Private Limited pursuant to a capital call."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2019-01-24",
-          "Text": "On 24 January 2019, Pine Capital Group Limited complied with a capital call contributing $189,819 in exchange for 383 shares but declined to provide an interest-free shareholder's loan of $200,000."
+          "Text": "On 24 January 2019, Pine Capital Group Limited contributed $189,819 in exchange for 383 shares but declined to provide a shareholder loan."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2019-03-29",
-          "Text": "On 29 March 2019, Pine Capital Group Limited received another capital call for $66,654 to be paid by 30 March 2019 failing which TCW would be entitled to full rights to singly contribute capital to ACPAM and dilute PCGL's shareholding in ACPAM; PCGL forwarded a cheque for $66,654 and requested information and supporting documents on ACPAM's need for the further capital call."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-03-29",
-          "Text": "PCGL's letter emphasised that its capital contribution was meant to meet ACPAM's base capital requirements and should not be used for other purposes without PCGL's prior consent."
+          "Text": "On 29 March 2019, Pine Capital Group Limited received a capital call for $66,654 and subsequently forwarded a cheque for that sum."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-03-21",
-          "Text": "On 21 March 2019, Pine Capital Group Limited announced that it later learnt that Advance Opportunities Fund 1 signed an agreement to be managed by another fund manager."
+          "Text": "On 21 March 2019, Pine Capital Group Limited announced that Advance Opportunities Fund 1 signed an agreement to be managed by another fund manager."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-03-21",
-          "Text": "On 21 March 2019, Pine Capital Group Limited stated that it would appoint an independent reviewer to investigate the various allegations received concerning ACPAM."
+          "Text": "On 21 March 2019, Pine Capital Group Limited stated it would appoint an independent reviewer to investigate management allegations."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-02-01",
-          "Text": "In March 2019, Pine Capital Group Limited received numerous complaints from its substantial shareholders Alauddin Ali and Jessie Sun in respect of TCW's conduct and his management of the affairs of PCGL, ACPAM and Advance Opportunities Fund 1."
+          "Text": "In March 2019, Pine Capital Group Limited received numerous complaints from its substantial shareholders regarding management conduct."
         },
         {
           "Fact_Type": "RELATIONSHIP",
@@ -468,20 +363,20 @@
         {
           "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "2019-02-04",
-          "Text": "By around 4 February 2019, Sun Wei Yeh and his associate Jessie Sun through Prime Partners Pte Ltd held a majority of the shares in Pine Capital Group Limited."
+          "Text": "By around 4 February 2019, Sun Wei Yeh and his associate through Prime Partners Pte Ltd held a majority of the shares in Pine Capital Group Limited."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2018-02-01",
-          "Text": "From 1 February 2018 to 9 May 2020, Pine Capital Group Limited rented a meeting room at the premises of ACPAM and its employees occupied the room."
+          "Text": "From 1 February 2018 to 9 May 2020, Pine Capital Group Limited rented a meeting room at the premises of ACPAM."
         }
       ],
-      "Issue": "Whether Pine Capital Group Limited, as majority shareholder of Advance Capital Partners Asset Management Private Limited, could rely on resolutions passed at the 2019-04-05 extraordinary general meeting or obtain court orders to convene a further meeting to regularize board composition and corporate governance in light of disputes with Tan Choon Wee.",
-      "Rule": "Under the Companies Act, shareholders may requisition and hold general meetings and seek court orders under sections 182 and 392 to convene meetings or validate corporate actions where procedural irregularities exist. Interim injunctions affecting corporate governance are assessed by reference to serious issues to be tried, adequacy of damages, and balance of convenience, while leave to appeal from interlocutory decisions is granted only where statutory criteria such as a prima facie error of law or important legal questions are met.",
-      "Application": "Pine Capital Group Limited held a 51% shareholding in Advance Capital Partners Asset Management Private Limited and responded to repeated capital calls, while raising concerns about information gaps and use of funds. After the termination of the management agreement with Advance Opportunities Fund 1 and complaints from substantial shareholders, Pine Capital Group Limited participated in an extraordinary general meeting on 2019-04-05 to change the board of Advance Capital Partners Asset Management Private Limited. It then filed Originating Summons No 471 of 2019 on 2019-04-10 seeking either validation of the resolutions passed at that meeting or, alternatively, a court-ordered further extraordinary general meeting with modified quorum to consider specified resolutions. These steps were taken against a background of regulatory reprimands, disputes over management conduct, and the central role of Advance Capital Partners Asset Management Private Limited as Pine Capital Group Limited's only active operating subsidiary.",
+      "Issue": "Whether Pine Capital Group Limited, as majority shareholder of Advance Capital Partners Asset Management Private Limited, could hold meetings to regularize board composition and corporate governance in light of management disputes.",
+      "Rule": "Under the Companies Act, shareholders may requisition and hold general meetings and seek court orders under sections 182 and 392 to convene meetings or validate corporate actions where procedural irregularities exist.",
+      "Application": "Pine Capital Group Limited held a 51% shareholding in Advance Capital Partners Asset Management Private Limited. After the termination of a key management agreement and complaints from substantial shareholders, Pine Capital Group Limited participated in an extraordinary general meeting on 2019-04-05 to change the board. These steps were taken against a background of regulatory reprimands and disputes over management conduct.",
       "Judicial_Reasoning_Log": "In the originating summons, the court considered Pine Capital Group Limited's application under sections 182 and 392 of the Companies Act. It declined to grant a declaration validating the resolutions passed at the 5 April 2019 extraordinary general meeting of Advance Capital Partners Asset Management Private Limited, but granted the alternative relief by ordering that a further extraordinary general meeting be convened with a modified quorum requirement allowing the presence of one member, in person or by proxy, to constitute a meeting. The judge treated this as a pragmatic solution to ensure that the affairs of Advance Capital Partners Asset Management Private Limited could be regularized in light of the shareholder deadlock and disputes over the validity of the earlier meeting. In addressing the leave application, the court rejected arguments that its use of section 182 to order a new meeting implied a legal conclusion about the validity of the 5 April 2019 meeting that would automatically reinstate Tan Choon Wee and Lin Kuan Liang Nicholas as directors. The judge held that any issues about the earlier meeting's validity and the scope of section 182 would be addressed in the separate appeal already filed by Tan Choon Wee in Civil Appeal No 94 of 2019, and that these did not justify leave to appeal from the interlocutory refusal of an injunction in the suit. The court concluded that Pine Capital Group Limited's application in the originating summons fell within the statutory framework for court-ordered meetings and did not raise novel questions requiring appellate clarification."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
@@ -504,12 +399,12 @@
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2019-01-01",
-          "Text": "Wang Meng was employed by Advance Capital Partners Asset Management Private Limited as Portfolio Manager and Fund Director until he was summarily dismissed on 18 March 2019, and he was on the MAS Register of Representatives."
+          "Text": "Wang Meng was employed by Advance Capital Partners Asset Management Private Limited as Portfolio Manager and Fund Director until 18 March 2019."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-03-18",
-          "Text": "On 2019-03-18, Advance Capital Partners Asset Management Private Limited terminated Wang Meng's employment as portfolio manager."
+          "Text": "On 2019-03-18, Advance Capital Partners Asset Management Private Limited terminated Wang Meng's employment."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
@@ -519,7 +414,7 @@
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-04-05",
-          "Text": "On 5 April 2019, Wang Meng instructed ACPAM's compliance officer Michelle to lodge the relevant forms with MAS to inform it of the change in composition of the board of ACPAM."
+          "Text": "On 5 April 2019, Wang Meng instructed the compliance officer to inform MAS of the change in board composition."
         },
         {
           "Fact_Type": "DOCUMENT",
@@ -529,45 +424,25 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2019-04-06",
-          "Text": "On 6 April 2019, Wang emailed MAS in his capacity as the executive director of ACPAM, stating that TCW and Lin had been removed as directors and were replaced by Wang, Pan and Trina."
+          "Text": "On 6 April 2019, Wang emailed MAS in his capacity as executive director stating that new directors had been appointed."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-04-06",
-          "Text": "On 6 April 2019, ACPAM's solicitors informed employees that TCW and Lin had been removed as directors, the second to fourth defendants had been appointed as directors, employees were not to take further action without Wang's approval, were not to take instructions from TCW or Lin, and were to refer all pending or outstanding matters to Wang."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-04-06",
-          "Text": "On 6 April 2019, TCW and Bernard Ong Kheng Chye attended at ACPAM's office at 1.15am to remove the existing front door lock and replace it with a new lock."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-04-10",
-          "Text": "On 10 April 2019, TCW instructed his solicitors to seek the consent of Wang, Pan and Trina on the morning of 10 April 2019 through the trio's solicitors to use the computers and bank tokens on ACPAM's premises for the limited purpose of carrying out the banking transaction on behalf of AOF1."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-04-10",
-          "Text": "On 10 April 2019, the three defendants' response was to raise various queries and subsequently request that AOF1 undertake to indemnify ACPAM for any losses that ACPAM may incur as a result of consenting to the transaction."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-04-08",
-          "Text": "On 8 April 2019, TCW and Bernard Ong Kheng Chye had attended at ACPAM's office at 1.15am to remove the existing front door lock of ACPAM and replace it with a new lock."
+          "Text": "On 6 April 2019, solicitors informed employees of the new board composition and instructed that actions requires Wang's approval."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2018-02-01",
-          "Text": "ACPAM rented out a meeting room at its premises to PCGL between 1 February 2018 and 9 May 2020, and PCGL's employees occupied the room and the property in the meeting room belonged to PCGL."
+          "Text": "ACPAM rented out a meeting room at its premises to PCGL between 1 February 2018 and 9 May 2020."
         }
       ],
-      "Issue": "Whether Wang Meng's appointment and actions as a director of Advance Capital Partners Asset Management Private Limited following the 2019-04-05 extraordinary general meeting should be restrained or allowed to continue pending resolution of the dispute with Tan Choon Wee.",
+      "Issue": "Whether Wang Meng's appointment and actions as a director of Advance Capital Partners Asset Management Private Limited following the 2019-04-05 extraordinary general meeting should be sustained pending resolution of management disputes.",
       "Rule": "Interim restraints on individuals acting as company directors are assessed by reference to the presence of a serious question to be tried, adequacy of damages, and the balance of convenience, taking into account regulatory requirements and the need for continuity of management.",
-      "Application": "Wang Meng was previously employed as a portfolio manager and was on the Monetary Authority of Singapore Register of Representatives. After his employment was terminated on 2019-03-18, he was appointed as a director at the 2019-04-05 extraordinary general meeting and took steps to notify regulators and employees of the change in board composition. He also participated in decisions about access to the office and systems of Advance Capital Partners Asset Management Private Limited and responded to requests from Tan Choon Wee's lawyers regarding execution of fund payments. These actions formed part of the factual matrix considered when assessing whether to restrain him from acting as a director pending trial.",
+      "Application": "Wang Meng was appointed as a director at the 2019-04-05 extraordinary general meeting and took steps to notify regulators and employees of the change in board composition. He also participated in decisions about access to the office and systems of Advance Capital Partners Asset Management Private Limited. These actions formed part of the factual matrix considered when assessing whether to restrain him from acting as a director.",
       "Judicial_Reasoning_Log": "The court considered Wang Meng's role as one of the new directors appointed at the 5 April 2019 extraordinary general meeting and his subsequent actions in notifying the Monetary Authority of Singapore and the Accounting and Corporate Regulatory Authority, as well as his involvement in communications with staff and in controlling access to the office and systems of Advance Capital Partners Asset Management Private Limited. In refusing the injunction sought by Tan Choon Wee, the judge concluded that the balance of convenience favored allowing the new board, including Wang Meng, to manage the company, particularly given the company's regulatory status and the need to maintain operations. The court noted that regulatory guidelines placed the onus on the company and its shareholders, not the Monetary Authority of Singapore, to assess whether directors were fit and proper, and that there was no evidence that the regulator had taken adverse action in response to Wang Meng's appointment. The judge also took into account that Wang Meng had raised concerns about the use of company funds for personal expenses and about the RM3,000,000 withdrawal from a fund sub-account, and that these matters would be addressed at trial rather than through interim restraints on his directorship."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
@@ -605,15 +480,15 @@
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-04-06",
-          "Text": "On 2019-04-06, Pan Ki Ro participated with other new appointees in steps to secure the office of Advance Capital Partners Asset Management Private Limited, including the installation of additional locks on the main door."
+          "Text": "On 2019-04-06, Pan Ki Ro participated in steps to secure the office of Advance Capital Partners Asset Management Private Limited, including the installation of additional locks on the main door."
         }
       ],
-      "Issue": "Whether Pan Ki Ro's appointment and participation as a director of Advance Capital Partners Asset Management Private Limited following the 2019-04-05 extraordinary general meeting should be restrained or allowed to continue pending resolution of the dispute with Tan Choon Wee.",
+      "Issue": "Whether Pan Ki Ro's appointment and participation as a director of Advance Capital Partners Asset Management Private Limited following the 2019-04-05 extraordinary general meeting should be sustained pending resolution of governance disputes.",
       "Rule": "Interim restraints on newly appointed directors are evaluated by considering the seriousness of issues to be tried, the adequacy of damages, and the balance of convenience, including the directors' experience and the company's need for functioning governance.",
-      "Application": "Pan Ki Ro had prior experience as chief executive officer of an asset management subsidiary of Pine Capital Group Limited and was serving as a non-executive director of Pine Capital Group Limited when he was appointed as a director of Advance Capital Partners Asset Management Private Limited on 2019-04-05. He participated in securing the company's premises after the change in board composition. These facts were part of the context in which the court assessed whether to maintain or restrain his role as director pending trial.",
+      "Application": "Pan Ki Ro had prior experience as chief executive officer of an asset management subsidiary and was serving as a non-executive director of Pine Capital Group Limited when he was appointed as a director of Advance Capital Partners Asset Management Private Limited on 2019-04-05. He participated in securing the company's premises after the change in board composition. These facts were part of the context in which the court assessed whether to maintain his role as director.",
       "Judicial_Reasoning_Log": "The court noted Pan Ki Ro's background in asset and fund management and his prior leadership role in an indirect subsidiary of Pine Capital Group Limited. In weighing the balance of convenience for the injunction application, the judge considered that the presence of experienced directors such as Pan Ki Ro on the board of Advance Capital Partners Asset Management Private Limited supported continuity of operations and regulatory compliance. The court did not find any regulatory objection to his appointment and concluded that interim restraints on his acting as director were not justified, given the broader concerns about the conduct of Tan Choon Wee and the need to stabilize the company's governance."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
@@ -646,15 +521,15 @@
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-04-06",
-          "Text": "On 2019-04-06, Trina Ann Savage participated with other new appointees in steps to secure the office of Advance Capital Partners Asset Management Private Limited, including the installation of additional locks on the main door."
+          "Text": "On 2019-04-06, Trina Ann Savage participated in steps to secure the office of Advance Capital Partners Asset Management Private Limited, including the installation of additional locks on the main door."
         }
       ],
-      "Issue": "Whether Trina Ann Savage's appointment and participation as a director of Advance Capital Partners Asset Management Private Limited following the 2019-04-05 extraordinary general meeting should be restrained or allowed to continue pending resolution of the dispute with Tan Choon Wee.",
+      "Issue": "Whether Trina Ann Savage's appointment and participation as a director of Advance Capital Partners Asset Management Private Limited following the 2019-04-05 extraordinary general meeting should be sustained pending resolution of management disputes.",
       "Rule": "Courts consider the need for effective management and the absence of regulatory objections when deciding whether to restrain newly appointed directors through interim injunctions.",
-      "Application": "Trina Ann Savage brought investor relations and marketing experience from her role at Pine Capital Group Limited and was appointed as a director of Advance Capital Partners Asset Management Private Limited on 2019-04-05. She took part in securing the company's premises after the board changes. These circumstances were weighed against the conduct of the outgoing management when the court decided whether to maintain or restrain her role pending trial.",
+      "Application": "Trina Ann Savage brought investor relations and marketing experience from her role at Pine Capital Group Limited and was appointed as a director of Advance Capital Partners Asset Management Private Limited on 2019-04-05. She took part in securing the company's premises after the board changes. These circumstances were weighed when the court decided whether to maintain her role.",
       "Judicial_Reasoning_Log": "The court recognized that Trina Ann Savage's appointment formed part of Pine Capital Group Limited's effort to reconstitute the board of Advance Capital Partners Asset Management Private Limited with individuals connected to its majority shareholder. The judge did not identify any regulatory impediment to her serving as a director and considered that her role, alongside other new directors, contributed to maintaining the company's operations. In light of the findings about Tan Choon Wee's conduct and the need for stable governance, the court declined to grant interim relief restraining her from acting as a director."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
@@ -677,12 +552,12 @@
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2019-01-01",
-          "Text": "In 2019, Advance Capital Partners Assets Management Private Ltd was a Registered Fund Management Company regulated by the Monetary Authority of Singapore under the Securities and Futures Act."
+          "Text": "In 2019, Advance Capital Partners Assets Management Private Ltd was a Registered Fund Management Company regulated by the Monetary Authority of Singapore."
         },
         {
           "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "2019-01-01",
-          "Text": "In 2019, Pine Capital Group Limited held 51% of the shares in ACPAM and Tan Choon Wee held 49% of the shares in ACPAM."
+          "Text": "In 2019, Pine Capital Group Limited held 51% of the shares in ACPAM and Tan Choon Wee held 49%."
         },
         {
           "Fact_Type": "RELATIONSHIP",
@@ -692,12 +567,12 @@
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2018-05-01",
-          "Text": "In May 2018, ACPAM issued a capital call to PCGL for $100,000 ostensibly to prevent ACPAM from breaching the base capital requirements applicable to ACPAM as well as for the settlement of ACPAM's expenses."
+          "Text": "In May 2018, ACPAM issued a capital call to PCGL for $100,000 to meet base capital requirements and settle expenses."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2018-12-01",
-          "Text": "In December 2018, ACPAM sought a further top-up from its shareholders amounting to $41,914.54 which was avoided at the eleventh hour due to incoming revenue."
+          "Text": "In December 2018, ACPAM sought a further top-up from its shareholders amounting to $41,914.54."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
@@ -707,12 +582,12 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2019-03-29",
-          "Text": "On 29 March 2019, ACPAM issued a capital call for $66,654 to be paid by 30 March 2019 failing which TCW would be entitled to full rights to singly contribute capital to ACPAM and in so doing, dilute PCGL's shareholding in ACPAM."
+          "Text": "On 29 March 2019, ACPAM issued a capital call for $66,654."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2018-05-01",
-          "Text": "In May 2018, ACPAM proposed that ACPAM invest $20m in Global Invacom Group Limited by way of redeemable convertible notes, with the sum to come from funds managed by ACPAM in particular AOF1 and Advance Credit Fund."
+          "Text": "In May 2018, ACPAM proposed to invest $20m in Global Invacom Group Limited using funds from AOF1 and Advance Credit Fund."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
@@ -722,107 +597,92 @@
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2017-06-09",
-          "Text": "On 9 June 2017, ACPAM applied to MAS for a capital markets services licence for fund management."
+          "Text": "On 9 June 2017, ACPAM applied for a capital markets services licence for fund management."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2017-08-08",
-          "Text": "On 8 August 2017, MAS rejected ACPAM's application because SWY did not make a declaration that he was a fit and proper person to be appointed as executive director and CEO of ACPAM."
+          "Text": "On 8 August 2017, MAS rejected the application because a shareholder did not make a fit and proper declaration."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2017-09-22",
-          "Text": "On 22 September 2017, ACPAM made a fresh application for a CMS licence in which it was stated that TCW would be the executive director and CEO of ACPAM."
+          "Text": "On 22 September 2017, ACPAM made a fresh application naming TCW as executive director and CEO."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2017-09-28",
-          "Text": "On 28 September 2017, MAS asked TCW for an assessment of SWY for purposes of the application as well as that all substantial direct and indirect shareholders of ACPAM provide declarations that they were fit and proper persons to participate in a company which operates under a CMS licence."
+          "Text": "On 28 September 2017, MAS requested fit and proper declarations from all substantial shareholders of ACPAM."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2018-04-09",
-          "Text": "On 9 April 2018, MAS wrote to ACPAM requiring the latter to take steps to ensure that SWY would not be appointed as a representative or director of ACPAM and that SWY would not have any direct or indirect role in ACPAM's affairs nor should its shares be sold to SWY."
+          "Text": "On 9 April 2018, MAS requiring that a specific shareholder not be appointed as a representative or director of ACPAM."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2018-07-30",
-          "Text": "On 30 July 2018, MAS issued a reprimand to TCW as the CEO and director of ACPAM for (i) contravening s 92(b) of the SFA in his omission to declare certain information in a CMS licence application and (ii) para 5(71)(a) of the Second Schedule of the SF(LCB)R for failing to lodge a notice of change in particulars within 14 days after the date of change."
+          "Text": "On 30 July 2018, MAS issued a reprimand to TCW regarding omissions in a licence application."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2019-04-12",
-          "Text": "On 12 April 2019, MAS issued a reprimand to TCW as the CEO and director of ACPAM for (i) omitting information in a CMS licence application which omission caused the application to be misleading in a material respect, and/or (ii) failing to discharge his duty and function as CEO and director."
+          "Text": "On 12 April 2019, MAS issued a reprimand to TCW for failing to discharge his duty as CEO and director."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2018-10-17",
-          "Text": "On 17 October 2018, Pine Partners transferred its 9% direct shareholdings in ACPAM to TCW resulting in him holding 49% shares."
+          "Text": "On 17 October 2018, Pine Partners transferred its 9% direct shareholdings in ACPAM to TCW."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2019-03-19",
-          "Text": "On 19 March 2019, PCGL received a public announcement that ACPAM had received a notice of termination signed by TCW and Lin of the management agreement between ACPAM and AOF1."
+          "Text": "On 19 March 2019, ACPAM received a notice of termination of the management agreement between ACPAM and AOF1 signed by TCW and Lin."
         },
         {
           "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "2019-03-19",
-          "Text": "Subsequently, PCGL learnt that AOF1 signed an agreement to be managed by another fund manager."
+          "Text": "Advance Opportunities Fund 1 signed an agreement to be managed by another fund manager."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-04-05",
-          "Text": "On 5 April 2019, an EGM of ACPAM purportedly passed a resolution appointing Wang, Pan and Trina as directors and removing TCW and Lin as directors."
+          "Text": "On 5 April 2019, an EGM of ACPAM passed a resolution appointing new directors and removing TCW and Lin."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2019-04-06",
-          "Text": "On 6 April 2019, Michelle replied to MAS to say that TCW and Lin had not been properly removed in accordance with the Cos Act and that the second to fourth defendants had not provided ACPAM with the necessary documentation to enable proper background checks to ensure their suitability to be directors."
+          "Text": "On 6 April 2019, the compliance officer stated to MAS that existing directors had not been properly removed."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2019-04-06",
-          "Text": "On 6 April 2019, ACPAM's solicitors informed employees that TCW and Lin had been removed as directors, the second to fourth defendants had been appointed as directors, employees were not to take any further action without Wang's approval, were not to take instructions from TCW or Lin, and were to refer all pending or outstanding matters to Wang."
+          "Text": "On 6 April 2019, solicitors informed employees of the new board composition."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-04-06",
-          "Text": "On 6 April 2019, Wang deposed that TCW was suspended from work."
+          "Text": "On 6 April 2019, ACPAM suspended TCW from work."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-04-06",
-          "Text": "On 6 April 2019, the first to fourth defendants added locks to the main door of ACPAM's office to prevent ACPAM's employees, TCW and Lin from gaining access to the office."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-04-08",
-          "Text": "On 8 April 2019, Wang deposed that TCW and Bernard Ong Kheng Chye attended at ACPAM's office at 1.15am to remove the existing front door lock and replace it with a new lock."
+          "Text": "On 6 April 2019, additional locks were installed on the main door of ACPAM's office."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2018-02-01",
-          "Text": "ACPAM rented out to PCGL a meeting room at its premises between 1 February 2018 to 9 May 2020, and PCGL's employees occupied the room."
+          "Text": "ACPAM rented out to PCGL a meeting room at its premises between 1 February 2018 to 9 May 2020."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2018-01-01",
-          "Text": "ACPAM had been paying for TCW's personal fibre broadband service, Singtel Mio-TV services, membership expenses at the Singapore Swimming Club, charges of Spotify, as well as the charges on six mobile telephone lines."
+          "Text": "ACPAM had been paying for TCW's personal broadband, television services, club membership expenses, and Spotify charges."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2019-06-01",
-          "Text": "The bill for June 2019 itself came to $11,785.31."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-04-10",
-          "Text": "On 10 April 2019, TCW instructed his solicitors to seek the consent of Wang, Pan and Trina on the morning of 10 April 2019 through the trio's solicitors and to use the computers and bank tokens on ACPAM's premises for the limited purpose of carrying out the banking transaction on behalf of AOF1."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-04-10",
-          "Text": "The three defendants' response was to raise various spurious queries and subsequently request that AOF1 undertake that it will indemnify ACPAM for any losses that ACPAM may incur as a result of consenting to the transaction."
+          "Text": "The bill for TCW's mobile telephone lines for June 2019 amounted to $11,785.31."
         },
         {
           "Fact_Type": "CONDUCT",
@@ -832,20 +692,20 @@
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-04-06",
-          "Text": "On 6 April 2019, the employees of ACPAM were told to report for work at 2.00pm and not 9.00am."
+          "Text": "On 6 April 2019, the employees of ACPAM were told to report for work at 2.00pm instead of 9.00am."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2019-04-12",
-          "Text": "AOF1 had committed itself to three transactions with Tanco Holdings Berhad, Eden Inc Berhad and Tiger Synergy Berhad for which AOF1 must make payment by 12 April 2019."
+          "Text": "AOF1 had committed itself to three transactions requiring payment by 12 April 2019."
         }
       ],
-      "Issue": "Whether the governance structure and management of Advance Capital Partners Asset Management Private Limited, including its board composition, regulatory status, and control over assets and systems, should be altered or preserved through court orders pending resolution of disputes between its shareholders and directors.",
+      "Issue": "Whether the governance structure and management of Advance Capital Partners Asset Management Private Limited should be sustained through court orders pending resolution of disputes.",
       "Rule": "Courts may grant interim injunctions affecting company management where there is a serious question to be tried and the balance of convenience favors intervention, but will also consider the company's regulatory obligations, the need for continuity of operations, and the availability of statutory mechanisms under the Companies Act to convene or regularize shareholder meetings.",
-      "Application": "Advance Capital Partners Asset Management Private Limited operated as a Registered Fund Management Company managing funds such as Advance Opportunities Fund 1 and Advance Credit Fund, and relied on capital contributions from its shareholders, primarily Pine Capital Group Limited. It was regulatory oversight by the Monetary Authority of Singapore, which issued reprimands in 2018 and 2019 concerning omissions in licence applications and the role of shareholder Sun Wei Yeh. In March 2019, the management agreement with Advance Opportunities Fund 1 was terminated, and the fund moved to another manager, affecting the company's revenue. On 2019-04-05, an extraordinary general meeting changed the board composition by removing existing directors and appointing new ones, and the new board took steps to notify regulators, inform staff, and secure the premises. Disputes arose over access to the office, control of bank tokens and systems, and a RM3,000,000 withdrawal from a fund sub-account under the company's account. These events formed the factual basis for applications seeking to restrain the new board, reinstate former directors, and obtain court-ordered meetings to regularize governance.",
+      "Application": "Advance Capital Partners Asset Management Private Limited operated as a Registered Fund Management Company. It relied on capital contributions from its shareholders and was subject to regulatory oversight. In March 2019, the management agreement with Advance Opportunities Fund 1 was terminated. On 2019-04-05, an extraordinary general meeting removed existing directors and appointed new ones, and the new board took steps to secure the premises. Disputes arose over office access and a RM3,000,000 withdrawal from a fund sub-account.",
       "Judicial_Reasoning_Log": "The court viewed Advance Capital Partners Asset Management Private Limited as central to the interests of Pine Capital Group Limited and its shareholders, given that it was the only active operating subsidiary. In assessing the injunction application, the judge considered the company's regulatory status as a Registered Fund Management Company and the potential impact of instability in its management. The court concluded that maintaining the new board, subject to the outcome of a properly convened extraordinary general meeting ordered in the originating summons, was preferable to reinstating the previous management on an interim basis. The judge emphasized that the Monetary Authority of Singapore's guidelines placed responsibility on the company and its shareholders to ensure that directors were fit and proper, and that there was no evidence of regulatory action to revoke the company's status due to the new appointments. The court also noted that the termination of the management agreement with Advance Opportunities Fund 1 and the RM3,000,000 withdrawal from a fund sub-account under the company's account raised concerns about the prior management's decisions. In the originating summons, the court exercised its powers under sections 182 and 392 of the Companies Act to order a further extraordinary general meeting with a modified quorum to regularize the company's governance, rather than validating the earlier meeting outright. This approach was intended to allow shareholders to resolve board composition issues within the statutory framework while preserving the company's operations and regulatory compliance."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   }
 ]

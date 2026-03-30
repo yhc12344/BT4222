@@ -74,11 +74,6 @@
           "Text": "In or around 2008, Parakou Shipping Pte Ltd arranged a charterparty for the vessel Canton Trader with Galsworthy Limited, intending to sub-charter the vessel to Ocean Glory Shipping Ltd."
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-09-15",
-          "Text": "In or around 2008, Parakou purportedly entered into a charterparty with Galsworthy Limited for a ship named the Canton Trader, which Parakou planned to sub-charter to Ocean Glory Shipping Ltd."
-        },
-        {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2008-10-30",
           "Text": "On 15 September 2008, the collapse of Lehman Brothers triggered a worldwide financial crisis. The freight market plummeted, severely affecting Parakou's Chartering Business."
@@ -86,12 +81,12 @@
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2008-10-31",
-          "Text": "On 30 October 2008, Parakou received an email warning it to 'pay sharp attention to the financial condition' of Ocean Glory, which had re-delivered a vessel that it had chartered from another entity 'earlier than the minimum period with extremely short notice'."
+          "Text": "On 30 October 2008, Parakou received an email warning it to 'pay sharp attention to the financial condition' of Ocean Glory, which had re-delivered a vessel chartered from another entity earlier than agreed with short notice."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2008-11-01",
-          "Text": "On 31 October 2008, Parakou received the original copies of the charterparty for the Canton Trader from Galsworthy. However, Parakou never signed the charterparty."
+          "Text": "On 31 October 2008, Parakou received the original copies of the charterparty for the Canton Trader from Galsworthy, but the charterparty remained unsigned."
         },
         {
           "Fact_Type": "CONDUCT",
@@ -101,16 +96,16 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-01-01",
-          "Text": "Around the same time, Parakou increased the monthly salaries of Liu Por and Yang by S$2,000 each with effect from 1 January 2009."
+          "Text": "Parakou increased the monthly salaries of Liu Por and Yang by S$2,000 each with effect from 1 January 2009."
         }
       ],
-      "Issue": "Whether various transactions and payments undertaken by Parakou Shipping Pte Ltd and its directors in late 2008 and thereafter affected the financial position of Parakou Shipping Pte Ltd and its creditors, including asset transfers, related-party payments, and litigation conduct.",
-      "Rule": "Company directors are generally manage the company in a way that preserves the company’s assets and considers the interests of creditors when the company is in financial difficulty, and transactions for company property or payments to related parties are reflect commercial value and not reduce the pool of assets available to meet creditor claims.",
-      "Application": "Parakou Shipping Pte Ltd engaged in multiple related-party transactions and internal restructurings in late 2008, including sales of vessels, transfers of ship management agreements, repayments and set-offs with related companies, and adjustments to director remuneration, while its chartering business was affected by a sharp downturn in the freight market and it faced a substantial potential claim from Galsworthy Limited. The company also pursued arbitration and foreign court proceedings concerning the Canton Trader charterparty while incurring significant legal costs, and later entered provisional and then creditors' voluntary liquidation.",
+      "Issue": "Whether various transactions and payments undertaken by Parakou Shipping Pte Ltd and its directors in late 2008, including asset transfers and related-party payments, were consistent with the duties of directors in light of the company's financial condition.",
+      "Rule": "Company directors are required to manage the company in a way that preserves assets and considers the interests of creditors when the company is in financial difficulty, and transactions with related parties must reflect commercial value.",
+      "Application": "Parakou Shipping Pte Ltd engaged in multiple related-party transactions in late 2008, including sales of vessels, transfers of ship management agreements, and repayments to related companies, while its chartering business was affected by a sharp downturn in the freight market and it faced a substantial potential claim from Galsworthy Limited.",
       "Judicial_Reasoning_Log": "The court analysed whether there was a genuine restructuring plan, whether Parakou Shipping Pte Ltd was insolvent in November 2008, and whether certain individuals were shadow or de facto directors. It evaluated if the sale of the OPL vessels was at an undervalue, ultimately concluding that the sale price fell within a reasonable valuation range after considering fleet discounts, so it was not a transaction at an undervalue and not a breach of directors' duties on the pleaded basis. The court upheld findings that various payments and transfers, including bonus payments, salary increases, repayments to Parakou Investment Holdings Pte Ltd and Parakou Shipping SA, and salary payments for six employees, were contrary to directors' duties in light of Parakou's financial position and the nature of the recipients. It accepted that the transfer of ship management agreements was a transaction at an undervalue but not a breach of duty because the ship management business was loss-making. The court disagreed with the lower court on the London arbitration and Hong Kong proceedings, finding that the primary purpose of commencing and continuing those proceedings was to avoid the statutory clawback period for antecedent transactions, and that this conduct was not in the interests of creditors. It addressed the availability of statutory set-off for the PIH set-off and held that, given the legitimacy of the underlying debt, the set-off was valid. The court also considered the interaction between statutory avoidance provisions and directors' duties, concluding that claims for breach of duty could proceed even where statutory clawback periods had expired, provided the elements of breach were established. Overall, the appeals were largely dismissed, with limited adjustments in favour of both the liquidator and the defendants on specific issues, and the High Court's costs order was left undisturbed."
     },
     "Label": "Claim Allowed",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -162,13 +157,13 @@
           "Text": "Between January 2009 and December 2010, Parakou paid S$240,000 to PIH in respect of space that PIH had leased from a third party and then sub-tenanted to Parakou."
         }
       ],
-      "Issue": "Whether transactions between Parakou Investment Holdings Pte Ltd and Parakou Shipping Pte Ltd, including the purchase of the OPL vessels, repayment of debts, set-off arrangements, and rental arrangements, reflected commercial value and affected the financial position of Parakou Shipping Pte Ltd and its creditors.",
-      "Rule": "When a company enters into transactions with a related company, including asset sales, debt repayments, and set-offs, the transactions are be conducted on terms that reflect commercial value and not reduce the assets available to meet creditor claims when the company is in financial difficulty.",
-      "Application": "Parakou Investment Holdings Pte Ltd acquired the OPL vessels from Parakou Shipping Pte Ltd in November 2008 for S$9,905,600 while its directors and shareholders overlapped with those of Parakou Shipping Pte Ltd. Shortly thereafter, Parakou Shipping Pte Ltd repaid over S$9.8 million of debts to Parakou Investment Holdings Pte Ltd and set off S$1,732,239 of mutual debts relating to the vessel sale and charter hire. Parakou Shipping Pte Ltd also paid rent to Parakou Investment Holdings Pte Ltd for sub-tenanted office space between 2009 and 2010.",
+      "Issue": "Whether transactions between Parakou Investment Holdings Pte Ltd and Parakou Shipping Pte Ltd, including the purchase of the OPL vessels and repayment of debts, were conducted on proper terms in light of the financial difficulty of the transferor.",
+      "Rule": "When a company enters into transactions with a related company, including asset sales and debt repayments, the transactions must be conducted on terms that do not unfairly reduce assets available to creditors when the company is in financial difficulty.",
+      "Application": "Parakou Investment Holdings Pte Ltd acquired the OPL vessels from Parakou Shipping Pte Ltd in November 2008 for S$9,905,600 while its directors and shareholders overlapped with those of Parakou Shipping Pte Ltd. Shortly thereafter, Parakou Shipping Pte Ltd repaid over S$9.8 million of debts to Parakou Investment Holdings Pte Ltd and set off mutual debts relating to the vessel sale and charter hire.",
       "Judicial_Reasoning_Log": "The court examined whether the sale of the OPL vessels to Parakou Investment Holdings Pte Ltd was at an undervalue and whether related repayments and set-offs constituted improper preferences or breaches of duty. It concluded that, after applying an appropriate fleet discount to the independent valuation range, the sale price fell within a reasonable range and was not significantly less than the value of the vessels, so it was not a transaction at an undervalue on the pleaded basis. The court held that the set-off of mutual debts between Parakou Shipping Pte Ltd and Parakou Investment Holdings Pte Ltd was valid because the underlying debt from the vessel sale arose legitimately and statutory set-off would have been available in a winding up. However, the court upheld findings that repayments made by Parakou Shipping Pte Ltd to Parakou Investment Holdings Pte Ltd in late 2008 were made in circumstances where the company was in a negative equity position and the payments favoured a related entity controlled by the same individuals, contributing to breaches of directors' duties and liability for dishonest assistance or knowing receipt in respect of certain transactions."
     },
-    "Label": "Not Liable",
-    "Leakage_Score": 1
+    "Label": "Liable",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -215,13 +210,13 @@
           "Text": "In January 2009, the 39 employees released by Parakou Shipping Pte Ltd on 23 December 2008 were subsequently hired by Parakou Shipmanagement Pte Ltd."
         }
       ],
-      "Issue": "Whether the transfer of ship management agreements and associated employees from Parakou Shipping Pte Ltd to Parakou Shipmanagement Pte Ltd, without direct consideration to Parakou Shipping Pte Ltd, affected the value of Parakou Shipping Pte Ltd's business and the position of its creditors.",
-      "Rule": "When a company in financial difficulty transfers ongoing business contracts and associated workforce to another company, especially one connected to its controllers, the transfer is reflect commercial value and not remove profitable or valuable business from the reach of the transferring company's creditors.",
-      "Application": "Parakou Shipmanagement Pte Ltd was incorporated shortly before Parakou Shipping Pte Ltd terminated 12 ship management agreements with entities controlled by the same family group. Those entities then entered into substantially similar agreements with Parakou Shipmanagement Pte Ltd, and 39 employees associated with the ship management work moved from Parakou Shipping Pte Ltd to Parakou Shipmanagement Pte Ltd in early 2009. Parakou Shipping Pte Ltd did not receive direct consideration for the transfer of these agreements.",
+      "Issue": "Whether the transfer of ship management agreements and associated employees from Parakou Shipping Pte Ltd to Parakou Shipmanagement Pte Ltd affected the position of creditors.",
+      "Rule": "When a company in financial difficulty transfers ongoing business contracts and associated workforce to another company connected to its controllers, the transfer must be examined to ensure profitable business was not improperly removed from the reach of creditors.",
+      "Application": "Parakou Shipmanagement Pte Ltd was incorporated shortly before Parakou Shipping Pte Ltd terminated 12 ship management agreements with entities controlled by the same family group. Those entities then entered into substantially similar agreements with Parakou Shipmanagement Pte Ltd, and 39 employees moved from Parakou Shipping Pte Ltd to Parakou Shipmanagement Pte Ltd in early 2009.",
       "Judicial_Reasoning_Log": "The court accepted that the transfer of the ship management agreements from Parakou Shipping Pte Ltd to Parakou Shipmanagement Pte Ltd was a transaction at an undervalue because Parakou Shipping Pte Ltd received no consideration. However, it agreed with the lower court that the ship management business was loss-making for Parakou Shipping Pte Ltd at the material time, and that disposing of this business did not constitute a breach of directors' duties to the company or its creditors. The court also upheld findings that Parakou Shipmanagement Pte Ltd benefited from salary payments made by Parakou Shipping Pte Ltd for six employees who were working for or also working for Parakou Shipmanagement Pte Ltd, leading to liability for dishonest assistance and knowing receipt in relation to those salary payments."
     },
-    "Label": "Not Liable",
-    "Leakage_Score": 1
+    "Label": "Liable",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -278,13 +273,13 @@
           "Text": "Between 12 and 24 November 2008, Parakou Shipping Pte Ltd repaid S$9,812,543 of debts owed to Parakou Investment Holdings Pte Ltd, a company in which Liu Cheng Chan was a major shareholder and director."
         }
       ],
-      "Issue": "How the roles and related-party connections of Liu Cheng Chan, including his positions in Parakou Shipping Pte Ltd, Parakou Investment Holdings Pte Ltd, and Parakou Shipping SA, intersected with significant transactions and payments made by Parakou Shipping Pte Ltd in late 2008.",
-      "Rule": "Individuals who control or influence multiple related companies are manage inter-company transactions in a way that does not disadvantage the company in financial difficulty or its creditors, particularly when directing repayments or asset transfers to entities they own or control.",
-      "Application": "As a founding director and shareholder of Parakou Shipping Pte Ltd, and a majority shareholder and director of Parakou Investment Holdings Pte Ltd as well as owner of Parakou Shipping SA, Liu Cheng Chan was connected to entities that received substantial repayments and asset transfers from Parakou Shipping Pte Ltd in November and December 2008, including the sale of the OPL vessels to Parakou Investment Holdings Pte Ltd, repayment of debts to Parakou Investment Holdings Pte Ltd and Parakou Shipping SA, and bonus payments to himself as a director.",
+      "Issue": "How the roles and related-party connections of Liu Cheng Chan intersected with significant transactions and payments made by Parakou Shipping Pte Ltd in late 2008.",
+      "Rule": "Individuals who control related companies are required to manage inter-company transactions in a way that does not disadvantage a company in financial difficulty or its creditors.",
+      "Application": "As a founding director and shareholder of Parakou Shipping Pte Ltd, and a majority shareholder and director of related entities, Liu Cheng Chan was connected to companies that received substantial repayments and asset transfers from Parakou Shipping Pte Ltd in November and December 2008.",
       "Judicial_Reasoning_Log": "The court considered whether, after his formal resignation as a director of Parakou Shipping Pte Ltd, Liu Cheng Chan continued to act as a shadow director by giving directions on company matters that the remaining directors followed. It concluded that there was a discernible pattern of his involvement in decision-making, including instructions on legal representation and business matters, supporting the characterization of him as a shadow director. The court also examined his role as majority owner of Parakou Investment Holdings Pte Ltd and owner of Parakou Shipping SA in relation to repayments and asset transfers from Parakou Shipping Pte Ltd, and upheld findings that these transactions contributed to breaches of directors' duties and to liability for dishonest assistance and knowing receipt on the part of related entities."
     },
     "Label": "Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -326,13 +321,13 @@
           "Text": "On 12 December 2008, Parakou Shipping Pte Ltd paid bonuses totaling S$267,128 to its four directors, including a payment of S$80,000 to Chik Sau Kam."
         }
       ],
-      "Issue": "How the roles and related-party connections of Chik Sau Kam, including her positions in Parakou Shipping Pte Ltd, Parakou Investment Holdings Pte Ltd, and Parakou Shipping SA, related to transactions and payments made by Parakou Shipping Pte Ltd in late 2008.",
-      "Rule": "Directors who are also owners or controllers of related entities are ensure that company transactions with those entities do not disadvantage the company or its creditors, particularly when the company is in financial difficulty and making payments or transfers that benefit those related entities or the directors personally.",
-      "Application": "As a director and shareholder of Parakou Shipping Pte Ltd and Parakou Investment Holdings Pte Ltd, and a controller of Parakou Shipping SA, Chik Sau Kam was connected to entities that received repayments and asset transfers from Parakou Shipping Pte Ltd in November and December 2008, and she also received a director bonus payment on 12 December 2008 shortly before resigning as a director at the end of that month.",
+      "Issue": "How the roles and related-party connections of Chik Sau Kam related to transactions and payments made by Parakou Shipping Pte Ltd in late 2008.",
+      "Rule": "Directors who are also owners of related entities must ensure that company transactions with those entities do not disadvantage the company or its creditors, particularly when the company is in financial difficulty.",
+      "Application": "As a director and shareholder of Parakou Shipping Pte Ltd and related entities, Chik Sau Kam was connected to entities that received repayments and asset transfers from Parakou Shipping Pte Ltd in November and December 2008, and she also received a director bonus payment shortly before her resignation.",
       "Judicial_Reasoning_Log": "The court considered Chik Sau Kam's involvement in decisions leading to repayments to Parakou Investment Holdings Pte Ltd and Parakou Shipping SA, as well as bonus and salary-related payments to directors, in the context of Parakou Shipping Pte Ltd's financial position. It upheld findings that she shared responsibility with other directors for transactions that were inconsistent with the interests of creditors and contributed to liability for breaches of directors' duties and for dishonest assistance or knowing receipt on the part of related entities. The court also addressed her authority to act for the estate of Liu Cheng Chan in the appeals, accepting an undertaking-based arrangement that allowed the appeals to proceed without finally determining the underlying procedural issue."
     },
     "Label": "Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -376,7 +371,7 @@
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2008-11-14",
-          "Text": "On 14 November 2008, the directors of Parakou Shipping Pte Ltd passed a resolution appointing Liu Por and Yang Jianguo as attorneys to act for and on behalf of the company in relation to matters concerning the OPL vessels, with documents they signed deemed as if signed by the company."
+          "Text": "On 14 November 2008, the directors of Parakou Shipping Pte Ltd passed a resolution appointing Liu Por and Yang Jianguo as attorneys to act for the company in relation to the OPL vessels."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
@@ -386,7 +381,7 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2008-12-09",
-          "Text": "On 9 and 15 December 2008, Parakou Shipping Pte Ltd set off a total of S$1,732,239 of debts owed by Parakou Investment Holdings Pte Ltd for the purchase of the OPL vessels against charter hire debts owed by Parakou Shipping Pte Ltd to Parakou Investment Holdings Pte Ltd; this set-off was approved by Liu Por and Yang Jianguo."
+          "Text": "On 9 and 15 December 2008, Parakou Shipping Pte Ltd set off a total of S$1,732,239 of debts owed by Parakou Investment Holdings Pte Ltd for the purchase of the OPL vessels against charter hire debts."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
@@ -396,21 +391,21 @@
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2008-12-23",
-          "Text": "On 23 December 2008, a board resolution of Parakou Shipping Pte Ltd signed by Liu Por and Yang Jianguo recorded the release of 39 employees affected by the termination of ship management agreements with the 12 Pretty Entities."
+          "Text": "On 23 December 2008, a board resolution of Parakou Shipping Pte Ltd signed by Liu Por and Yang Jianguo recorded the release of 39 employees."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-01-01",
-          "Text": "With effect from 1 January 2009, the monthly salary of Liu Por from Parakou Shipping Pte Ltd was increased by S$2,000, and between January 2009 and March 2011 he received part of a total of S$108,000 in increased salary paid to him and Yang Jianguo."
+          "Text": "With effect from 1 January 2009, the monthly salary of Liu Por from Parakou Shipping Pte Ltd was increased by S$2,000."
         }
       ],
-      "Issue": "How the roles and actions of Liu Por as shareholder, officer, and later director of Parakou Shipping Pte Ltd, and as a director and shareholder of Parakou Investment Holdings Pte Ltd, related to key transactions and payments undertaken by Parakou Shipping Pte Ltd in late 2008 and thereafter.",
-      "Rule": "Individuals who hold senior management and board positions in a company, and who also hold positions in related entities, are ensure that decisions on asset sales, repayments, set-offs, remuneration, and staffing are made in a way that preserves the company's assets and considers creditor interests when the company is in financial difficulty.",
-      "Application": "As Vice-President and later director of Parakou Shipping Pte Ltd, and a director and shareholder of Parakou Investment Holdings Pte Ltd, Liu Por approved substantial repayments and set-offs between Parakou Shipping Pte Ltd and Parakou Investment Holdings Pte Ltd in November and December 2008, received a director bonus payment on 12 December 2008, signed a board resolution releasing 39 employees on 23 December 2008, and benefited from a salary increase effective 1 January 2009 while Parakou Shipping Pte Ltd was facing a downturn in its chartering business and a significant potential claim from Galsworthy Limited.",
+      "Issue": "How the roles and actions of Liu Por as officer and later director of Parakou Shipping Pte Ltd related to key transactions and payments undertaken in late 2008.",
+      "Rule": "Individuals holding senior management and board positions must ensure that decisions on asset sales, repayments, and remuneration are made in a way that preserves assets and considers creditor interests when the company is in financial difficulty.",
+      "Application": "As Vice-President and later director of Parakou Shipping Pte Ltd, and a director and shareholder of related entities, Liu Por approved substantial repayments and set-offs between the companies in late 2008, received a bonus payment, and benefited from a salary increase while the company faced a downturn in its chartering business.",
       "Judicial_Reasoning_Log": "The court considered whether, before his formal appointment as a director, Liu Por acted as a de facto director of Parakou Shipping Pte Ltd and concluded that his actions were taken under express board authorisations, so he was not a de facto director before 22 December 2008. It examined his subsequent conduct as a director, including approvals of repayments and set-offs with Parakou Investment Holdings Pte Ltd, participation in bonus and salary decisions, and involvement in the London arbitration and Hong Kong proceedings. The court upheld findings that he shared responsibility for transactions that were inconsistent with the interests of creditors and contributed to breaches of directors' duties, and that his conduct in litigation formed part of a strategy primarily aimed at avoiding the statutory clawback period."
     },
     "Label": "Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -444,7 +439,7 @@
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2008-11-14",
-          "Text": "On 14 November 2008, the directors of Parakou Shipping Pte Ltd passed a resolution appointing Yang Jianguo and Liu Por as attorneys to act for and on behalf of the company in relation to matters concerning the OPL vessels, with documents they signed deemed as if signed by the company."
+          "Text": "On 14 November 2008, the directors of Parakou Shipping Pte Ltd passed a resolution appointing Yang Jianguo and Liu Por as attorneys to act for the company in relation to the OPL vessels."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
@@ -459,7 +454,7 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2008-12-09",
-          "Text": "On 9 and 15 December 2008, Parakou Shipping Pte Ltd set off a total of S$1,732,239 of debts owed by Parakou Investment Holdings Pte Ltd for the purchase of the OPL vessels against charter hire debts owed by Parakou Shipping Pte Ltd to Parakou Investment Holdings Pte Ltd; this set-off was approved by Yang Jianguo and Liu Por."
+          "Text": "On 9 and 15 December 2008, Parakou Shipping Pte Ltd set off a total of S$1,732,239 of debts owed by Parakou Investment Holdings Pte Ltd against charter hire debts; this was approved by Yang Jianguo and Liu Por."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
@@ -469,15 +464,15 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-01-01",
-          "Text": "With effect from 1 January 2009, the monthly salary of Yang Jianguo from Parakou Shipping Pte Ltd was increased by S$2,000, and between January 2009 and March 2011 he received part of a total of S$108,000 in increased salary paid to him and Liu Por."
+          "Text": "With effect from 1 January 2009, the monthly salary of Yang Jianguo from Parakou Shipping Pte Ltd was increased by S$2,000."
         }
       ],
-      "Issue": "How the roles and actions of Yang Jianguo as President and later director of Parakou Shipping Pte Ltd related to key transactions and payments undertaken by Parakou Shipping Pte Ltd in late 2008 and thereafter.",
-      "Rule": "Senior officers and directors of a company are ensure that decisions on repayments, set-offs, remuneration, and staffing are made in a way that preserves the company's assets and considers creditor interests when the company is in financial difficulty, especially where they approve significant payments to related entities or to themselves.",
-      "Application": "As President and later director of Parakou Shipping Pte Ltd, Yang Jianguo approved substantial repayments and set-offs between Parakou Shipping Pte Ltd and Parakou Investment Holdings Pte Ltd and Parakou Shipping SA in November and December 2008, received a director bonus payment on 12 December 2008, signed a board resolution releasing 39 employees on 23 December 2008, and benefited from a salary increase effective 1 January 2009 while Parakou Shipping Pte Ltd was facing a downturn in its chartering business and a significant potential claim from Galsworthy Limited.",
+      "Issue": "How the roles and actions of Yang Jianguo as President and later director related to key transactions and payments undertaken by Parakou Shipping Pte Ltd in late 2008.",
+      "Rule": "Senior officers and directors must ensure that decisions on repayments and remuneration are made to preserve the company's assets and consider creditor interests when the company is in financial difficulty.",
+      "Application": "As President and later director of Parakou Shipping Pte Ltd, Yang Jianguo approved substantial repayments and set-offs with related entities in late 2008, received a bonus payment, and benefited from a salary increase while the company faced a downturn and a significant potential claim.",
       "Judicial_Reasoning_Log": "The court considered whether Yang Jianguo acted as a de facto director before his formal appointment and concluded that his actions were taken under express board authorisations, so he was not a de facto director before 22 December 2008. It examined his subsequent conduct as a director, including approvals of repayments and set-offs with related entities, participation in bonus and salary decisions, and involvement in the London arbitration and Hong Kong proceedings. The court upheld findings that he shared responsibility for transactions that were inconsistent with the interests of creditors and contributed to breaches of directors' duties, and that his conduct in litigation formed part of a strategy primarily aimed at avoiding the statutory clawback period."
     },
     "Label": "Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   }
 ]

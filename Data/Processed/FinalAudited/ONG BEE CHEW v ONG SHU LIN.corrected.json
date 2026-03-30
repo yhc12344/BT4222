@@ -9,138 +9,93 @@
     },
     "Party_Details": {
       "Role": "Plaintiff",
-      "Name": "Hocen International Pte Ltd (In liquidation); later substituted by Ong Bee Chew",
+      "Name": "Hocen International Pte Ltd",
       "Law_Firm": "",
       "Counsel": [],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2005-05-01",
-          "Text": "Hocen International Pte Ltd was incorporated in May 2005 in Singapore and carried on the business of selling and distributing power cables."
+          "Text": "Hocen International Pte Ltd was incorporated in May 2005 in Singapore to sell and distribute power cables."
         },
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2005-05-01",
-          "Text": "From incorporation, Hocen International Pte Ltd had two shareholders and two directors, Ong Bee Chew and Ong Shu Lin, each holding a 50% shareholding."
+          "Text": "From incorporation, Hocen International Pte Ltd had two shareholders and directors, Ong Bee Chew and Ong Shu Lin, each holding a 50% shareholding."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2005-05-01",
-          "Text": "Upon incorporation of Hocen International Pte Ltd, both Ong Bee Chew and Ong Shu Lin were appointed directors, and Ong Shu Lin was appointed managing director."
+          "Text": "Upon incorporation, Ong Shu Lin was appointed managing director."
         },
         {
-          "Fact_Type": "RELATIONSHIP",
+          "Fact_Type": "CONDUCT",
           "Fact_Date": "2004-01-01",
-          "Text": "In 2004, businessman Ong Bee Chew was introduced to Ong Shu Lin through business partner Andy Heng."
+          "Text": "In 2004, Ong Bee Chew and Ong Shu Lin were introduced through business partner Andy Heng to expand a power cable business into the Chinese market."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2004",
-          "Text": "In 2004, before Hocen International Pte Ltd was formed, Ong Bee Chew and Andy Heng were running a company in the business of selling and distributing power cables for use in port cranes, and invited Ong Shu Lin to join that company to expand its business through his business contacts in China."
+          "Fact_Date": "2005-05-01",
+          "Text": "Ong Bee Chew and Ong Shu Lin set up Hocen International Pte Ltd in May 2005 to take over an existing power cable business following a breakdown in relations with a former partner."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2004",
-          "Text": "In 2004, the business relationship between Ong Bee Chew and Andy Heng deteriorated."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2004",
-          "Text": "As a result of the breakdown in relations with Andy Heng, Ong Bee Chew and Ong Shu Lin decided in May 2005 to set up Hocen International Pte Ltd to take over the existing power cable business."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "From August 2005, Hocen International Pte Ltd employed three staff members, administrative manager Davin Chan and sales managers Raymond Goh Lnai Mun and Loh Siew Choong."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "From August 2005 until October 2007, Hocen International Pte Ltd operated with a small team including administrative and sales staff while conducting its cable distribution business."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In its cable business, Hocen International Pte Ltd purchased cables from Australian company Olex Pty Ltd and sold them to Chinese company Shanghai Zhenhua Port Machinery Co Ltd, which manufactured cranes for Chinese container ports."
+          "Fact_Date": "2005-08-01",
+          "Text": "Hocen International Pte Ltd conducted its cable distribution business by purchasing cables from Australia and selling them to Shanghai Zhenhua Port Machinery Co Ltd for use in port cranes."
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "",
-          "Text": "Shanghai Zhenhua Port Machinery Co Ltd supplied cranes to Yantian International Container Terminals, a major customer requiring significant quantities of cables."
+          "Fact_Date": "2005-08-01",
+          "Text": "Shanghai Zhenhua Port Machinery Co Ltd supplied cranes to Yantian International Container Terminals."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "Soon after Hocen International Pte Ltd commenced operations in 2005, it engaged the services of Hong Kong company Crossbridge International Pte Ltd, which had been introduced to Hocen by director Ong Shu Lin."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
-          "Text": "Crossbridge International Pte Ltd was owned by Tsui Wai Mun and Yu Kit Ching, and Yu Kit Ching’s brother-in-law Daniel Cheng was an officer of Crossbridge."
+          "Fact_Date": "2005-06-01",
+          "Text": "Soon after commencing operations, Hocen engaged Hong Kong company Crossbridge International Pte Ltd, introduced by director Ong Shu Lin."
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "",
-          "Text": "At the time Crossbridge International Pte Ltd was engaged by Hocen International Pte Ltd, Daniel Cheng was also an equipment manager with Yantian International Container Terminals."
+          "Fact_Date": "2005-06-01",
+          "Text": "Daniel Cheng, an officer of Crossbridge, was also an equipment manager with Yantian International Container Terminals at the time of the engagement."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
-          "Text": "On or about 23 September 2005, Hocen International Pte Ltd issued a cash cheque drawn on its United Overseas Bank account as part of a payment to Crossbridge International Pte Ltd, and director Ong Shu Lin cashed the cheque over the counter."
+          "Fact_Date": "2005-09-23",
+          "Text": "On 23 September 2005, Hocen issued a cash cheque from its United Overseas Bank account to Crossbridge, which was cashed by director Ong Shu Lin."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
-          "Text": "On or about 30 November 2005, Hocen International Pte Ltd issued a second cash cheque drawn on its United Overseas Bank account as part of a payment to Crossbridge International Pte Ltd, and director Ong Shu Lin cashed the cheque over the counter."
+          "Fact_Date": "2005-11-30",
+          "Text": "On 30 November 2005, Hocen issued a second cash cheque to Crossbridge, also cashed by director Ong Shu Lin."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
-          "Text": "Between September 2005 and October 2006, Hocen International Pte Ltd issued ten cash cheques and made eight bank remittances from its United Overseas Bank account to Crossbridge International Pte Ltd, totalling S$855,225 and US$619,900."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "Between September 2005 and October 2006, Hocen International Pte Ltd issued ten cash cheques and made eight bank remittances from its United Overseas Bank account to Crossbridge International Pte Ltd, totalling S$855,225 and US$567,200."
+          "Fact_Date": "2005-09-01",
+          "Text": "Between September 2005 and October 2006, Hocen issued ten cash cheques and made eight bank remittances to Crossbridge, totalling S$855,225 and US$619,900."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "",
-          "Text": "Between March 2006 and January 2007, Hocen International Pte Ltd entered into four written contracts with Crossbridge International Pte Ltd, under which Crossbridge was described as providing quality assurance and progress monitoring services for cable installation in cranes manufactured by Shanghai Zhenhua Port Machinery Co Ltd."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "",
-          "Text": "Clause 2 of the Crossbridge contracts required Crossbridge International Pte Ltd to nominate a full-time English and Chinese speaking project manager in Shanghai, establish a detailed tests and inspection schedule, obtain relevant drawings, send bi-weekly lists of certificates or test records to Hocen International Pte Ltd, notify Hocen of discrepancies in pass or fail criteria, and hold monthly work progress review meetings with Shanghai Zhenhua Port Machinery Co Ltd."
+          "Fact_Date": "2006-03-01",
+          "Text": "Between March 2006 and January 2007, Hocen entered into four written contracts with Crossbridge for quality assurance and progress monitoring services in Shanghai."
         },
         {
           "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "",
-          "Text": "On 28 July 2006, Hocen International Pte Ltd’s auditor sent a letter addressed to directors Ong Bee Chew and Ong Shu Lin requesting confirmation that amounts paid to Crossbridge International Pte Ltd were for cable installation services."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "",
-          "Text": "On 20 September 2006, Hocen International Pte Ltd sent a written response to its auditor regarding payments to Crossbridge International Pte Ltd, after internal discussion on the wording of the response."
+          "Fact_Date": "2006-07-28",
+          "Text": "On 28 July 2006, the company's auditor requested confirmation that payments to Crossbridge were for cable installation services."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "By mid-2006, the working relationship between directors and equal shareholders Ong Bee Chew and Ong Shu Lin at Hocen International Pte Ltd had begun to deteriorate, leading to operational deadlock in the company’s business."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In August 2007, director and shareholder Ong Shu Lin applied to the court for Hocen International Pte Ltd to be wound up on the just and equitable ground due to deadlock in its operations and business."
+          "Fact_Date": "2007-08-01",
+          "Text": "In August 2007, director Ong Shu Lin applied to the court for the company to be wound up due to operational deadlock."
         }
       ],
-      "Issue": "Whether payments made by Hocen International Pte Ltd to Crossbridge International Pte Ltd between 2005 and 2006, and related arrangements, resulted in responsibility of director Ong Shu Lin to the company and any corresponding responsibility of director and shareholder Ong Bee Chew to contribute to that liability.",
-      "Rule": "Directors of a company are act in what they understand to be the interests of the company and to exercise reasonable care and diligence in decisions involving company funds, including engaging third parties and authorising significant payments.",
-      "Application": "Hocen International Pte Ltd was formed in May 2005 by equal shareholders and directors Ong Bee Chew and Ong Shu Lin to continue a power cable business. Soon after incorporation, Hocen engaged Crossbridge International Pte Ltd, owned by Tsui Wai Mun and Yu Kit Ching, with Daniel Cheng involved and also holding a role at Yantian International Container Terminals. Between September 2005 and October 2006, Hocen issued ten cash cheques and eight bank remittances from its United Overseas Bank account to Crossbridge, totalling S$855,225 and US$619,900, with both directors signing the instruments and with cash being withdrawn and delivered by director Ong Shu Lin. From March 2006 to January 2007, Hocen entered into four written contracts with Crossbridge describing quality assurance and progress monitoring services for cable installation at Shanghai Zhenhua Port Machinery Co Ltd. The company’s auditor queried the nature of these payments in July 2006, and a written response was sent in September 2006. In 2007, relations between the two directors deteriorated, leading to a winding up application and the appointment of liquidators in October 2007. The liquidators reviewed the company’s records, reported to the Commercial Affairs Department in 2009, and later disclosed their findings on Crossbridge-related transactions following a 2011 court order. With funding from shareholder Ong Bee Chew, the liquidators commenced two suits in 2011 and 2012 concerning the cash cheques and bank remittances to Crossbridge, and obtained an order in 2013 requiring director Ong Shu Lin to account for the cash withdrawals. In March 2013, Ong Shu Lin filed an affidavit describing delivery of cash to Crossbridge representatives. In November 2013, Hocen assigned its causes of action against Ong Shu Lin to Ong Bee Chew, who was then substituted as plaintiff in both suits. These events frame the dispute over whether the pre-liquidation payments and contracts with Crossbridge give rise to liability of director Ong Shu Lin to Hocen and whether, based on his involvement and knowledge of the transactions, director and shareholder Ong Bee Chew should contribute to any such liability.",
-      "Judicial_Reasoning_Log": "The court analysed whether Crossbridge International Pte Ltd actually performed the contractual services described in the four written contracts and found that there was no documentary record of the required reports, schedules, or meeting minutes in Hocen International Pte Ltd’s records. The liquidator’s unchallenged evidence indicated an absence of such documentation. The court rejected explanations that the lack of paperwork was due to being shorthanded or to practices in China. The court considered a fax from an individual at Shanghai Zhenhua Port Machinery Co Ltd and a photograph said to show a Crossbridge representative at a site, but treated these as weak or inadmissible evidence and concluded that they did not establish performance of the contractual services. The court also found that the defendant’s oral claim of personally witnessing Crossbridge’s inspection work at the site was a late assertion not supported by earlier statements or documents and gave it little weight. On this basis, the court concluded that Crossbridge did not perform the services described in the contracts and that the payments could not be justified as compensation for those services.\n\nThe court then examined the true purpose of the payments. It accepted that Crossbridge’s role, as described by the defendant in various statements, was to act as an intermediary between Hocen and Shanghai Zhenhua Port Machinery Co Ltd and to help Hocen obtain and maintain business. The court considered the defendant’s own descriptions of Crossbridge’s activities, including entertaining staff of Shanghai Zhenhua Port Machinery Co Ltd and Yantian International Container Terminals and providing gifts such as mobile phones to keep them satisfied and to avoid complaints about cables. The court adopted a working definition of a bribe as a reward, gift, or favour given or promised with a view to influence the actions of a person in a position of trust, and concluded that the described entertainment and gifts fell within this concept because they were directed at influencing decisions made on behalf of those organisations.\n\nThe court further found, based on the defendant’s evidence and surrounding circumstances, that Daniel Cheng, who was both associated with Crossbridge and an equipment manager at Yantian International Container Terminals, was in a position to influence Yantian International Container Terminals’ specifications of cables in crane orders placed with Shanghai Zhenhua Port Machinery Co Ltd. The court noted that Shanghai Zhenhua Port Machinery Co Ltd had indicated that it would only agree to purchase more expensive Olex cables if customers strongly insisted on them, and that the defendant accepted that Crossbridge’s efforts were directed at causing Yantian International Container Terminals to insist on Olex cables. The court inferred that Daniel Cheng used his position and influence within Yantian International Container Terminals, supported by entertainment and gifts funded through the payments, to cause that entity to specify Olex cables, thereby generating business for Hocen. The court also observed that Shanghai Zhenhua Port Machinery Co Ltd and Yantian International Container Terminals behaved in ways favourable to Hocen, such as not pressing certain claims and accepting problematic cables, which the court considered consistent with the existence of such inducements.\n\nThe court concluded that the payments were made pursuant to a scheme to engage and fund Crossbridge to procure business for Hocen from Shanghai Zhenhua Port Machinery Co Ltd by means that included corrupt inducements. It found that the written contracts with Crossbridge were shams, intended as a legal pretext rather than genuine service agreements, and that the defendant structured the arrangement, including the use of cash withdrawals and an intermediary, to create plausible deniability and to distance Hocen and its directors from direct involvement in the inducements.\n\nIn applying the legal framework on directors’ duties, the court referred to section 157(1) of the Companies Act and to authorities including Ho Kang Peng v Scintronix Corp Ltd and Goh Chan Peng v Beyonics Technology Ltd. The court accepted that, subjectively, the defendant intended to benefit Hocen economically and that the payments did in fact lead to substantial revenue and profit for Hocen. However, the court held that, objectively, causing the company to participate in a scheme involving corrupt inducements and sham contracts exposed the company to an unjustified risk of criminal liability and was not in the company’s interests. The court applied the principle that a director cannot justify exposing a company to such risks even if the scheme is profitable, and found that the defendant breached both his duty to act in what the law recognises as the company’s interests and his duty to exercise reasonable care and diligence.\n\nOn the question of the plaintiff’s involvement, the court examined whether Ong Bee Chew knew of and approved the arrangement with Crossbridge. It considered evidence that he was an equal shareholder and director, that he participated in significant business decisions, that he co-signed all cash cheques and remittance instructions for the payments, and that he accompanied the defendant to the bank on at least one occasion when cash was withdrawn against a cheque for Crossbridge. The court reviewed the plaintiff’s explanations about his presence at the bank and his understanding of Crossbridge’s role and found aspects of his account inconsistent with earlier statements given to the liquidators and with pleadings. The court concluded that the plaintiff knew from an early stage that Crossbridge was being used in connection with payments and that he was aware of the nature and purpose of the arrangement, including the use of an intermediary and cash withdrawals. On that basis, the court held that the plaintiff was complicit in the scheme and that he too failed to meet the standards expected of a director.\n\nThe court determined that the defendant was responsible to the company for the payments made under the scheme but that, given the plaintiff’s equal involvement and knowledge, the plaintiff should contribute 50% to the defendant’s liability. The court also considered the terms of the assignment of Hocen’s causes of action to the plaintiff and noted that, after taking into account the contribution order and the financial position of the company, the plaintiff would not be in a better position after judgment than before. The court therefore described the litigation as having produced no net benefit to the plaintiff. In light of the parties’ equal responsibility for the underlying conduct and the overall outcome, the court made no order as to costs. Both parties filed appeals against the decision, and the judgment sets out the detailed reasoning for these conclusions."
+      "Issue": "Whether the payments made and contracts entered into with Crossbridge International Pte Ltd constituted a breach of fiduciary duties by the directors and whether such payments corresponded to genuine services rendered to the company.",
+      "Rule": "Directors of a company must act in what they understand to be the interests of the company and exercise reasonable care and diligence, ensuring that company funds are not used for improper purposes or via sham documentation.",
+      "Application": "Hocen International Pte Ltd was formed by two equal directors to operate a cable business. Shortly after incorporation, the company engaged Crossbridge, an intermediary associated with an employee of a major customer. Between 2005 and 2006, substantial sums were paid to Crossbridge via cash cheques and remittances. While written contracts described quality assurance services, the company's records contained no documentary evidence of reports or schedules required under those contracts. Internal relations between the directors collapsed in 2007, leading to the liquidation of the company and an investigation into the nature of the Crossbridge arrangement.",
+      "Judicial_Reasoning_Log": "The court analysed whether Crossbridge International Pte Ltd actually performed the contractual services described in the four written contracts and found that there was no documentary record of the required reports, schedules, or meeting minutes in Hocen International Pte Ltd’s records. The court concluded that Crossbridge did not perform the services described in the contracts and that the payments could not be justified as compensation for those services. It accepted that Crossbridge’s true role was to act as an intermediary using entertainment and gifts to influence staff at customer organisations. The court inferred that these inducements were used to ensure the company's products were specified in major orders. The court concluded that the payments were made pursuant to a scheme involving corrupt inducements and that the written contracts were shams intended to provide a legal pretext. While the defendant subjectively intended to benefit the company economically, the court held that exposing the company to the risk of criminal liability was objectively not in the company's interests. The court further found that co-director Ong Bee Chew was complicit in the arrangement and failure to meet director standards, and therefore ordered that he contribute 50% to the defendant's liability."
     },
     "Label": "Claim Allowed",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -157,82 +112,47 @@
       "Counsel": [],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2004-01-01",
-          "Text": "In 2004, Ong Shu Lin was introduced to Ong Bee Chew through a business partner named Andy Heng."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2004-01-01",
-          "Text": "In 2004, Ong Shu Lin and Ong Bee Chew were involved in a company that was in the business of selling and distributing power cables for use in port cranes, and Ong Shu Lin was invited to join to expand its business through his business contacts in China."
-        },
-        {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2005-05-01",
-          "Text": "When Hocen International Pte Ltd was incorporated in May 2005, Ong Shu Lin was appointed as a director and as managing director, and he held a 50% shareholding."
+          "Text": "When Hocen International Pte Ltd was incorporated in May 2005, Ong Shu Lin was appointed as a director and managing director."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2005-05-01",
-          "Text": "After incorporation of Hocen International Pte Ltd, Ong Shu Lin was responsible for running the company’s day-to-day operations, while Ong Bee Chew was not involved in daily management."
+          "Text": "Ong Shu Lin was responsible for running the company’s day-to-day operations."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2005-06-01",
-          "Text": "Soon after Hocen commenced operations, Ong Shu Lin introduced Crossbridge International Pte Ltd to Hocen."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2005-09-23",
-          "Text": "On or about 23 September 2005, Ong Shu Lin drew a cash cheque on Hocen’s United Overseas Bank account, cashed it at a branch, and delivered the cash to a representative of Crossbridge International Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2005-11-30",
-          "Text": "On or about 30 November 2005, Ong Shu Lin drew a second cash cheque on Hocen’s United Overseas Bank account, cashed it at a branch, and delivered the cash to a representative of Crossbridge International Pte Ltd."
+          "Text": "Soon after operations began, Ong Shu Lin introduced Crossbridge International Pte Ltd to the company."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2005-09-01",
-          "Text": "Between September 2005 and October 2006, Ong Shu Lin caused Hocen International Pte Ltd to issue ten cash cheques and make eight bank remittances from its United Overseas Bank account to Crossbridge International Pte Ltd, totalling S$855,225, US$52,700 and US$567,200."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2005-09-01",
-          "Text": "For each of the ten cash cheques issued between September 2005 and October 2006, Ong Shu Lin personally cashed the cheque at a United Overseas Bank branch and delivered the cash to a representative of Crossbridge International Pte Ltd, either Daniel Cheng, Tsui Wai Mun or Yu Kit Ching."
+          "Text": "Between September 2005 and October 2006, Ong Shu Lin personally cashed ten cheques and delivered the cash to representatives of Crossbridge."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2006-03-01",
-          "Text": "Between March 2006 and January 2007, Hocen International Pte Ltd entered into four written contracts with Crossbridge International Pte Ltd describing quality assurance and progress monitoring services for cable installation at Shanghai Zhenhua Port Machinery Co Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2006-06-15",
-          "Text": "By the middle of 2006, the working relationship between managing director and shareholder Ong Shu Lin and co-director and shareholder Ong Bee Chew at Hocen International Pte Ltd had deteriorated, contributing to deadlock in the company’s operations."
+          "Text": "Between March 2006 and January 2007, Ong Shu Lin executed four written contracts with Crossbridge for progress monitoring and quality assurance services."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2007-08-01",
-          "Text": "In August 2007, Ong Shu Lin applied for Hocen International Pte Ltd to be wound up by the court on, among others, the just and equitable ground due to deadlock in its operations and business."
+          "Text": "In August 2007, Ong Shu Lin applied for the company to be wound up on the just and equitable ground."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2007-10-01",
-          "Text": "Following the winding up order in October 2007, Ong Shu Lin was interviewed by Hocen’s liquidators regarding the company’s affairs."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2007-09-19",
-          "Text": "On 19 September 2007, a fax was sent by Huang Xing Fei, described as an employee of Shanghai Zhenhua Port Machinery Co Ltd, referring to subcontractors engaged at a site where Hocen International Pte Ltd’s cables were installed."
+          "Text": "Following the winding up, Ong Shu Lin provided explanations regarding the company's engagement with Crossbridge, citing their role in marketing and utilizing industry connections."
         }
       ],
-      "Issue": "Whether, based on his role in initiating and executing payments and contracts with Crossbridge International Pte Ltd and his management of Hocen International Pte Ltd’s operations, director and shareholder Ong Shu Lin is responsible for the financial consequences of those transactions to the company, and whether any contribution from co-director and shareholder Ong Bee Chew is warranted.",
-      "Rule": "A director who manages a company’s operations and authorises significant payments and contracts is ensure that such transactions are properly documented, correspond to actual services or value received, and align with the company’s interests as understood in corporate governance standards.",
-      "Application": "As managing director of Hocen International Pte Ltd, Ong Shu Lin introduced Crossbridge International Pte Ltd to the company shortly after its incorporation and arranged for Hocen to engage Crossbridge. Between September 2005 and October 2006, he caused Hocen to issue ten cash cheques and eight bank remittances to Crossbridge, personally cashing each cheque and delivering the cash to Crossbridge representatives. From March 2006 to January 2007, he entered into four written contracts with Crossbridge describing quality assurance and progress monitoring services for cable installation at Shanghai Zhenhua Port Machinery Co Ltd. The company’s auditor queried the nature of payments to Crossbridge in July 2006, and a response was sent in September 2006. After relations between the two directors deteriorated, Ong Shu Lin applied in August 2007 for Hocen to be wound up, leading to the appointment of liquidators in October 2007. During the liquidators’ review, he explained that Crossbridge’s role included helping to market Hocen’s products and utilising its connections with Shanghai Zhenhua Port Machinery Co Ltd. When the liquidators later sought an order for him to account for cash withdrawals, he opposed the application but subsequently filed an affidavit in March 2013 describing his delivery of cash to Crossbridge representatives. These actions place him at the centre of the company’s engagement with Crossbridge and the associated payments, which are the subject of the company’s claims and his request for contribution from the co-director.",
-      "Judicial_Reasoning_Log": "The court examined the conduct of director and managing director Ong Shu Lin in relation to Hocen International Pte Ltd’s engagement of Crossbridge International Pte Ltd and the associated payments. It found that he was responsible for introducing Crossbridge to the company, for arranging the engagement, and for executing the four written contracts that described quality assurance and progress monitoring services. The court determined that these contracts did not reflect the actual activities carried out and treated them as sham agreements used as a pretext for the flow of funds.\n\nThe court considered that between September 2005 and October 2006, Ong Shu Lin caused Hocen to issue ten cash cheques and eight bank remittances to Crossbridge, personally cashing each cheque and delivering the cash to Crossbridge representatives. It noted that he structured the payments in a way that involved cash withdrawals and an intermediary, which the court viewed as designed to make tracing the funds and their purpose more difficult and to distance the company and its directors from direct involvement in the inducements. The court also took into account his explanations to the liquidators and in affidavits, including his description of Crossbridge’s role in marketing and in dealing with staff of Shanghai Zhenhua Port Machinery Co Ltd and Yantian International Container Terminals.\n\nIn assessing his responsibility, the court applied principles that a director must not expose the company to unjustified risks, including the risk of criminal liability, and must not use sham contracts as a vehicle for payments that do not correspond to genuine services. The court concluded that by initiating and maintaining the arrangement with Crossbridge, by authorising and executing the payments, and by using contracts that did not reflect the true nature of the arrangement, Ong Shu Lin failed to meet the standards expected of a director. The court held that he was responsible to the company for the consequences of the payments and that his conduct fell within the category of behaviour that attracts liability under the applicable legal standards. At the same time, the court found that co-director and shareholder Ong Bee Chew was aware of and participated in the arrangement, and therefore ordered that he contribute 50% to any liability imposed on Ong Shu Lin. The court’s reasoning emphasised the combination of sham documentation, cash-based payment flows, and the use of an intermediary in circumstances that created significant legal and reputational risks for the company."
+      "Issue": "Whether Ong Shu Lin, in his capacity as managing director, breached his duties to the company by executing payments and sham contracts in connection with an intermediary.",
+      "Rule": "A director must ensure that company transactions are properly documented and align with corporate governance standards, and must not expose the company to unjustified legal or reputational risks.",
+      "Application": "Ong Shu Lin introduced Crossbridge to the company and personally handled the cash payments delivered to its representatives. He entered into contracts for services that were not supported by any subsequent documentation or records of performance. He later explained that Crossbridge's role was to help maintain business through industry connections and entertainment of customer staff. These actions established the flow of funds that resulted in the company's financial loss.",
+      "Judicial_Reasoning_Log": "The court found that Ong Shu Lin was responsible for introducing Crossbridge and executing four sham contracts intended as a pretext for the flow of funds. The court noted that he structured payments through cash withdrawals to make tracing more difficult and to distance the company from direct involvement in inducements. In assessing his responsibility, the court held that a director must not use sham contracts for payments that do not correspond to genuine services. The court concluded that by initiating and maintaining this arrangement, Ong Shu Lin failed to meet the standards expected of a director and was responsible for the consequences of the payments. Because the co-director was found to be aware and complicit, the court ordered a 50% contribution toward the final liability."
     },
     "Label": "Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   }
 ]

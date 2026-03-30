@@ -54,13 +54,13 @@
           "Text": "On 2017-08-31, the business collaboration between SRK-related entities and JDM-related entities that had commenced on 2015-04-01 was brought to an end."
         }
       ],
-      "Issue": "Whether amounts invoiced by SRK to JG Jewelry Pte Ltd for diamonds and diamond jewellery supplied before 2017-08-31 are to be treated as payable sale prices or as contributions to a joint business collaboration to be accounted for in a later reconciliation.",
+      "Issue": "Whether amounts invoiced by SRK to JG Jewelry Pte Ltd for diamonds and diamond jewellery supplied are to be treated as payable sale prices or as contributions to a joint business collaboration to be accounted for in a later reconciliation.",
       "Rule": "In commercial collaborations involving supply of goods and shared business operations, liability for invoiced amounts depends on whether the parties formed a binding sale arrangement under which invoices represent prices payable, or a joint venture structure under which goods are treated as capital contributions agreed reconciliation and profit allocation mechanisms.",
       "Application": "SRK issued invoices to JG Jewelry Pte Ltd for diamonds and diamond jewellery while a cross-border collaboration with entities controlled by Michael and David Kriss was operating, and the parties exchanged documents and communications referring to a joint venture structure and capital-related accounting, creating uncertainty whether the invoiced amounts functioned as sale prices or as entries in a joint capital and profit-sharing framework.",
       "Judicial_Reasoning_Log": "The judgment analyses extensive contemporaneous documents and testimony to determine whether the collaboration between SRK-related entities and JDM-related entities was structured as a joint venture or as a series of straightforward sales, including findings on the 13 January 2015 memorandum, subsequent emails referring to a joint venture, the incorporation purpose of JG Jewelry Pte Ltd, the transfer of back-office functions to India, the configuration of bank account signatories, combined insurance policies, engagement of professional firms for joint venture accounting and tax structuring, preparation of balance sheets and capital account computations, and the credibility of witnesses. The court concludes that the collaboration operated on the basis of a joint venture, that the alleged separate business arrangement is not supported by contemporaneous evidence, and then applies contract, restitution, and company law principles to resolve SRK's claim for unpaid invoices and related counterclaims."
     },
     "Label": "Claim Allowed",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -123,32 +123,17 @@
         },
         {
           "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2018-01-22",
-          "Text": "On 2018-01-22, Michael Bernard Kriss and David Miles Kriss signed a directors' resolution of JG Jewelry Pte Ltd authorising them to commence and manage legal proceedings on behalf of the company to recover an amount of USD 3,733,503.43 recorded as owing from TJC Jewelry, Inc."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2018-02-15",
-          "Text": "On 2018-02-15, a directors' resolution of JG Jewelry Pte Ltd was signed by Michael Bernard Kriss, David Miles Kriss, and Ng Chee Wooi Michael authorising the Kriss brothers to commence and manage legal proceedings against SRK-related entities to recover amounts they considered excessive charges."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2018-03-06",
-          "Text": "On 2018-03-06, a directors' resolution of JG Jewelry Pte Ltd was signed by Michael Bernard Kriss, David Miles Kriss, and Ng Chee Wooi Michael approving the audited accounts for the financial year 2016 and resolving to convene the second annual general meeting."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2018-04-19",
           "Text": "On 2018-04-19, an annual general meeting of JG Jewelry Pte Ltd was held at which the financial statements for the financial year 2016 were adopted; director and shareholder Shaileshkumar Manubhai Khunt did not attend in person or by proxy."
         }
       ],
-      "Issue": "Whether JG Jewelry Pte Ltd's pre-2017-08-31 dealings in diamonds and diamond jewellery with SRK-related entities and its internal capital and accounting arrangements formed part of a joint venture structure under which goods and funds were treated as capital contributions reconciliation, or a series of ordinary purchase and sale transactions creating immediate payment obligations on invoices.",
+      "Issue": "Whether JG Jewelry Pte Ltd's dealings in diamonds and diamond jewellery with SRK-related entities and its internal capital and accounting arrangements formed part of a joint venture structure under which goods and funds were treated as capital contributions reconciliation, or a series of ordinary purchase and sale transactions creating immediate payment obligations on invoices.",
       "Rule": "When a company is used as a vehicle in a cross-border commercial collaboration, the legal characterisation of its transactions with counterparties depends on whether the parties agreed to a joint venture framework with capital accounts and profit-sharing, or to standard sale and purchase terms, which is determined by examining incorporation purpose, governance arrangements, banking authority, accounting treatment, and contemporaneous communications.",
       "Application": "JG Jewelry Pte Ltd was incorporated shortly before the start of a collaboration between SRK-related and JDM-related entities, had directors and shareholders from both groups, used a New York bank account with signatories from both sides, relied on back-office functions performed in India by staff employed through The Jewelry Company, and engaged professional firms to design accounting and tax structures that tracked capital balances for SRK and JDM groups, while at the same time receiving and paying invoices for diamonds and diamond jewellery, creating a factual question whether these flows were intended as capital movements within a joint structure or as ordinary trade receivables and payables.",
       "Judicial_Reasoning_Log": "The court evaluates JG Jewelry Pte Ltd's role as the Singapore corporate vehicle in the collaboration, including its shareholding and directorship composition, the Resident Director Indemnity Agreement, the configuration of its Israel Discount Bank New York account, the transfer of back-office functions to India, the preparation of consolidated balance sheets and capital account computations, and the engagement of KPMG and BSR. The judgment reasons that these features are consistent with a joint venture structure rather than a simple buyer-seller relationship, and uses this characterisation to assess JG Jewelry Pte Ltd's liability for unpaid invoices and its standing to advance counterclaims based on the alleged joint venture agreement."
     },
     "Label": "Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -195,13 +180,13 @@
           "Text": "Between 2016-10-08 and 2017-08-01, The Jewelry Company supplied diamond jewellery and associated services under invoices to JG Jewelry Pte Ltd totalling USD 2,211,077.91, which remained unpaid as at 2017-08-31."
         }
       ],
-      "Issue": "Whether diamond jewellery and services supplied by The Jewelry Company to JG Jewelry Pte Ltd before 2017-08-31 were to be treated as ordinary sales requiring payment of invoiced amounts or as contributions within a joint business collaboration later reconciliation.",
+      "Issue": "Whether diamond jewellery and services supplied by The Jewelry Company to JG Jewelry Pte Ltd were to be treated as ordinary sales requiring payment of invoiced amounts or as contributions within a joint business collaboration later reconciliation.",
       "Rule": "In a manufacturing and supply relationship embedded in a broader collaboration, the treatment of invoiced goods and services depends on whether the parties agreed that such supplies would be priced and paid as standard sales or recorded as capital or internal transfers within a joint structure to be settled through agreed accounting mechanisms.",
-      "Application": "The Jewelry Company operated as part of the SRK group, hosted back-office functions for JG Jewelry Pte Ltd and JDM-related entities, and issued invoices for diamond jewellery and services that remained unpaid at the end of the collaboration, raising the question whether these invoices reflected standalone sales or internal flows within a joint arrangement.",
+      "Application": "The Jewelry Company operated as part of the SRK group, hosted back-office functions for JG Jewelry Pte Ltd and JDM-related entities, and issued invoices for diamond jewellery and services that remained unpaid at the end of the collaboration, raising the question whether these invoices reflect standalone sales or internal flows within a joint arrangement.",
       "Judicial_Reasoning_Log": "The judgment considers The Jewelry Company's role as both a manufacturing entity and a provider of back-office services within the collaboration, and examines whether its supplies to JG Jewelry Pte Ltd were intended as capital or internal transfers under a joint venture agreement or as ordinary sales, before determining its entitlement to claim unpaid invoice amounts or restitutionary compensation."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -253,7 +238,7 @@
       "Application": "TJC Jewelry, Inc relocated into the New York office of entities controlled by Michael and David Kriss, communicated to customers about a combined operation with Instock Programs, and entered into consignment agreements facilitated by the JDM finance function, indicating operational integration whose legal significance depends on the overall structure of the collaboration.",
       "Judicial_Reasoning_Log": "The court reviews evidence of TJC Jewelry, Inc's move into the JDM office, its communications to customers, and its consignment agreements to determine whether it was a party to the joint venture alleged by JG Jewelry Pte Ltd or merely an administrative facilitator, and uses this to assess its exposure and relevance to claims and counterclaims."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
@@ -301,12 +286,12 @@
           "Text": "On 2016-05-19, Shaileshkumar Manubhai Khunt received USD 200,000 from S Goldi (Asia) Limited and transferred USD 200,000 to JG Jewelry Pte Ltd described in remittance forms as capital introduction."
         }
       ],
-      "Issue": "Whether, before the commencement of Suit 475 of 2018, Shaileshkumar Manubhai Khunt held his shares and directorship in JG Jewelry Pte Ltd in his own capacity or as a nominee for SRK, and how his funding transfers and board-level objections relate to his standing to pursue minority shareholder remedies.",
+      "Issue": "Whether Shaileshkumar Manubhai Khunt held his shares and directorship in JG Jewelry Pte Ltd in his own capacity or as a nominee for SRK, and how his funding transfers and board-level objections relate to his standing to pursue minority shareholder remedies.",
       "Rule": "In assessing a shareholder-director's standing to seek relief for oppression, courts consider whether the person holds shares beneficially or as a nominee, which is determined by examining funding flows, corporate roles, and contemporaneous communications rather than later characterisations.",
       "Application": "Shaileshkumar Manubhai Khunt held 50 shares and a directorship in JG Jewelry Pte Ltd, received funds from S Goldi (Asia) Limited that he transferred to the company as capital introduction, and instructed solicitors to object to board resolutions that described him as a nominee for SRK and authorised litigation strategies, creating a factual context for evaluating whether he acted as an independent shareholder or as a representative of SRK.",
       "Judicial_Reasoning_Log": "The judgment examines Shaileshkumar Manubhai Khunt's employment history with SRK, his role as director of S Goldi (Asia) Limited, the source and description of funds he introduced into JG Jewelry Pte Ltd, and his objections to board resolutions that labelled him as a nominee, in order to determine whether he is a nominee shareholder and how that status affects his ability to bring an oppression claim under section 216 of the Companies Act."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
   }
 ]

@@ -136,11 +136,6 @@
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2002-03-22",
           "Text": "The winding-up petition for Velstra Pte Ltd was presented on 22 March 2002."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2002-04-12",
-          "Text": "After liquidation commenced, Tan Lee Chin submitted on behalf of Velstra Pte Ltd a list of creditors to the liquidators, which included BVBA Language Development Service."
         }
       ],
       "Issue": "Whether payments obtained by Azero Investments SA from Velstra Pte Ltd's Singapore bank accounts pursuant to garnishee proceedings, following an assignment of debts from BVBA Language Development Service, placed Azero Investments SA in a better position than other creditors of Velstra Pte Ltd in the event of Velstra Pte Ltd's insolvency, within the statutory framework on avoidance of unfair preferences.",
@@ -377,16 +372,6 @@
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2002-01-01",
           "Text": "By early 2002, Azero Investments SA had received a total of approximately US$546,152 from Velstra Pte Ltd's Singapore bank accounts through three garnishee payments."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2002-03-22",
-          "Text": "On 22 March 2002, the winding-up petition for Velstra Pte Ltd was presented, and Azero Investments SA later filed a proof of debt for the balance of its claim with the liquidators."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002-03-22",
-          "Text": "After Velstra Pte Ltd entered liquidation, Azero Investments SA submitted a proof of debt to the liquidators for the remaining amount claimed under the loan and assignment."
         }
       ],
       "Issue": "Whether Azero Investments SA's receipt of funds from Velstra Pte Ltd's Singapore bank accounts pursuant to garnishee proceedings, following an assignment of debts from BVBA Language Development Service, constituted an unfair preference within the statutory look-back period and whether Azero Investments SA is account for any of those sums as constructive trustee.",
@@ -395,6 +380,6 @@
       "Judicial_Reasoning_Log": "The court examined Azero Investments SA's corporate structure, its relationship with Rozea Lux Holding SA, and the roles of the Veltmeijer brothers and their brother-in-law. The judge accepted evidence from director JO Van Crugten that Azero Investments SA's directors took instructions from its shareholders and not from Tony F E Snauwaert, and found that Snauwaert was not a director or shadow director of Azero Investments SA or its director companies. The court rejected the plaintiff's contention that Snauwaert was a 'person connected with' Azero Investments SA or that Azero Investments SA was an 'associate' of Velstra Pte Ltd or Language Development Fund under the Companies Regulations and section 101 of the Bankruptcy Act. The judge held that the extended definition of 'director' in section 4 of the Companies Act did not apply to make Snauwaert a shadow director of Azero Investments SA based solely on his cooperation in the assignment and garnishee process. The court also rejected the argument that Azero Investments SA had control over BVBA Language Development Service or Language Development Fund by virtue of the loan or shareholdings, noting that Mercator & Noordstar NV controlled Language Development Fund. Consequently, the court determined that the relevant time period for unfair preference was six months under section 100(1)(c) of the Bankruptcy Act, not two years under section 100(1)(b). The judge concluded that only the third garnishee payment on 18 December 2001 fell within the six-month period preceding the 22 March 2002 winding-up petition and declined to treat the three garnishee payments as a single transaction. The court accepted that Velstra Pte Ltd was insolvent within the statutory definition, taking into account its contingent liability for the US$36 million loan and its financial statements. The judge found that, without the assignment executed by Snauwaert on behalf of BVBA Language Development Service, Azero Investments SA would have had to pursue BVBA Language Development Service in Belgium and would not have been able to garnish Velstra Pte Ltd's Singapore bank accounts. The court held that the assignment and subsequent garnishee proceedings placed Azero Investments SA in a better position than it would otherwise have been in the event of Velstra Pte Ltd's insolvency and therefore constituted an unfair preference in respect of the third garnishee payment. The judge further found that the funds in Velstra Pte Ltd's KBC and DBS accounts were trust property and that Azero Investments SA, through its lawyers, received the third garnished sum with knowledge of the circumstances, satisfying the elements of a constructive trust. The court ordered Azero Investments SA to account to Velstra Pte Ltd for the third garnished sum of US$250,346.98 as constructive trustee, with interest and costs, while allowing Azero Investments SA to retain the earlier garnished sums obtained outside the relevant six-month period."
     },
     "Label": "Partially Liable",
-    "Leakage_Score": 2
+    "Leakage_Score": 0
   }
 ]

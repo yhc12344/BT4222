@@ -164,11 +164,6 @@
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2004-01-01",
           "Text": "It was not able to retrieve any of its equipment and other belongings from the original Shanghai office."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2005-06-01",
-          "Text": "He was successful in this action and, in June 2005, an order was made for the compulsory purchase of his shares in the plaintiff herein. Subsequently, pursuant to a settlement agreement between the parties, Mr Foo was paid $300,000 for his shares in the plaintiff."
         }
       ],
       "Issue": "Whether business opportunities and physical assets associated with marine heating, ventilation and air-conditioning projects involving PT Pal Indonesia (Persero), PT Dok Dan Perkapalan Surabaya (Persero), and the Shanghai office were diverted from Viking Airtech Pte Ltd to another company before the resignation of its general manager and director.",
@@ -177,7 +172,7 @@
       "Judicial_Reasoning_Log": "The court analysed whether the first defendant, while still a director and general manager of the plaintiff, diverted maturing business opportunities and assets to the second defendant and whether the second defendant was an accessory. It found that the PT Pal and PT Dok contracts were negotiated by the first defendant on behalf of the plaintiff and were maturing business opportunities. The court held that by allocating these contracts to the second defendant without informing or obtaining consent from the other directors, the first defendant acted in breach of his duties. The court rejected the first defendant's justification based on alleged cash flow and staff morale problems, finding that the plaintiff had sufficient financial resources and that any such decision should have been made collectively by the board. The court accepted the plaintiff's submissions that the second defendant was effectively controlled by the first defendant and his wife from inception, noting the timing of incorporation, the shared address with Jin Lian, the use of the name 'Viking HVAC & Automation Pte Ltd', the transfer of shares without consideration despite existing contracts, and the lack of credible explanation for these arrangements. It concluded that the second defendant was at all times the vehicle of the first defendant and his wife and that the second defendant aided and abetted the first defendant's breaches of duty. Regarding the Pelindo II contract, the court found that the letter of credit in favour of the second defendant was issued because the first defendant instructed PT Pal to do so, and that he deliberately diverted the Pelindo II contract to the second defendant instead of ensuring performance by the plaintiff after his resignation. On the Shanghai office, the court found that the first defendant took over the premises and assets on behalf of the second defendant, characterising the conduct as akin to theft, and held both defendants liable for conversion. The court concluded that the first defendant was liable for damages for breach of duty, the second defendant was liable as an accessory, and both defendants were liable for damages for conversion, with damages to be assessed."
     },
     "Label": "Claim Allowed",
-    "Leakage_Score": 2
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -261,11 +256,6 @@
           "Text": "On 23 September 2003, Viking HVAC & Automation Pte Ltd entered into a contract with PT Pal Indonesia (Persero) to sell and deliver an air-conditioning system and related items for an oil tanker being built for Pertamina, with a contract value of US$198,000."
         },
         {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2003-08-19",
-          "Text": "It was not disputed that Foo Teow Keng had been negotiating for the PT Pal and PT Dok contracts on behalf of the plaintiff between April and August 2003."
-        },
-        {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2003-09-15",
           "Text": "Around mid September 2003, while still a director and general manager of Viking Airtech Pte Ltd, Foo Teow Keng passed the PT Pal and PT Dok contracts to the second defendant."
@@ -274,11 +264,6 @@
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2003-11-05",
           "Text": "On the morning of 6 November 2003, following the email from Ong Choo Guan, Foo Teow Keng tendered his resignation and left the plaintiff immediately."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2003-11-06",
-          "Text": "On or about 2 December 2003, Mdm Yang and Mr Foo took over the second defendant from Mr Ho and Mr Ng. They became the sole directors and shareholders of the second defendant."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
@@ -327,21 +312,6 @@
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2004-01-19",
-          "Text": "Mr Foo denied that the assets which the plaintiff had claimed to be in its possession in its Shanghai office had actually existed and said that accordingly, there was no misappropriation of any assets purportedly belonging to the plaintiff save for an old handphone and a laptop computer which the plaintiff had given to Mr Foo for his use and which he intended to return to the plaintiff once it paid him certain salary and expenses."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2004-01-01",
-          "Text": "Mr Foo admitted that despite demands having been made for the return of the items, he had not returned them to the plaintiff."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2004-01-01",
-          "Text": "Mr Foo asserted that he had the prospect of securing about $7m worth of contracts for the plaintiff in the last quarter of 2003."
-        },
-        {
-          "Fact_Type": "CONDUCT",
           "Fact_Date": "2003-09-15",
           "Text": "The second defendant carried on the same business as the plaintiff in competition with the plaintiff."
         },
@@ -349,36 +319,6 @@
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2004-01-01",
           "Text": "The plaintiff's signboard was taken down and the second defendant's signboard was put up and the Shanghai office became, practically overnight, the second defendant's office."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2004-01-01",
-          "Text": "Mr Foo denied that the assets which the plaintiff had claimed to be in its possession in its Shanghai office had actually existed and said that accordingly, there was no misappropriation of any assets purportedly belonging to the plaintiff save for an old handphone and a laptop computer which the plaintiff had given to Mr Foo for his use and which he intended to return to the plaintiff once it paid him certain salary and expenses."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2004-01-01",
-          "Text": "Mr Foo asserted that when he found out later about the letter of credit, he had called the representative of PT Pal and asked that company to change the name of the beneficiary. At that time, December 2003, PT Pal simply wanted Mr Foo to oversee the \"Pelindo II\" contract because it was uncomfortable and had no confidence in the plaintiff to deliver the equipment."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2004-01-01",
-          "Text": "The plaintiff was fully aware of PT Pal's breach of contract in relation to the \"Pelindo II\" contract but chose to place the blame on Mr Foo rather than on the plaintiff's inefficiency in servicing its customers."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2004-01-01",
-          "Text": "Mr Foo denied that the second defendant acted in tandem with him while he was purportedly acting in breach of his fiduciary duties to the plaintiff. He also averred that it was never the nominee acting at the behest of or on behalf of Mr Foo."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2004-01-01",
-          "Text": "Mr Foo started an action in the High Court (Suit 625/2004) against Mr Ong, Mr Johansson and Viking Engineering for relief on grounds of their oppressive conduct against him as a minority shareholder of the plaintiff herein. He was successful in this action and, in June 2005, an order was made for the compulsory purchase of his shares in the plaintiff herein."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2005-06-01",
-          "Text": "Subsequently, pursuant to a settlement agreement between the parties, Mr Foo was paid $300,000 for his shares in the plaintiff."
         }
       ],
       "Issue": "Whether, while still a director and general manager of Viking Airtech Pte Ltd, Foo Teow Keng directed marine heating, ventilation and air-conditioning contracts and physical office assets associated with PT Pal Indonesia (Persero), PT Dok Dan Perkapalan Surabaya (Persero), and the Shanghai office to Viking HVAC & Automation Pte Ltd, a competing company in which he and his spouse later became the sole shareholders and directors.",
@@ -387,7 +327,7 @@
       "Judicial_Reasoning_Log": "The court determined that the first defendant, while still a director and general manager of the plaintiff, diverted maturing business opportunities and assets to the second defendant. It held that he was in breach of his fiduciary and employee duties by unilaterally passing the PT Pal and PT Dok contracts to a competing company without informing or obtaining consent from the other directors. The court rejected his explanation that cash flow and staff morale issues justified his decision, finding that the plaintiff had sufficient financial resources and that any such decision should have been made collectively. The court concluded that the second defendant was effectively controlled by the first defendant and his wife from the outset, based on the timing of incorporation, shared premises with Jin Lian, the use of the 'Viking HVAC' name, the transfer of shares without consideration despite existing contracts, and the lack of credible reasons for these arrangements. It found that the first defendant's main motive was personal profit and that he acted dishonestly. Regarding the Pelindo II contract, the court found that the letter of credit in favour of the second defendant was issued because the first defendant instructed PT Pal to do so, and that he deliberately diverted the Pelindo II contract to the second defendant instead of ensuring that the plaintiff fulfilled it. On the Shanghai office, the court found that the first defendant took over the premises and assets on behalf of the second defendant, characterising the conduct as akin to theft, and held him liable for conversion. The court concluded that the first defendant was liable for damages for breach of duty and for conversion, with damages to be assessed."
     },
     "Label": "Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -491,7 +431,7 @@
       "Application": "JL Marine & Engineering Pte Ltd, under its former name Viking HVAC & Automation Pte Ltd, was incorporated shortly after the termination of the in-house sub-contractor owned by the spouse of Viking Airtech Pte Ltd's general manager, at the same address as that sub-contractor. While the general manager still held his positions at Viking Airtech Pte Ltd, the new company entered into substantial contracts with PT Pal Indonesia (Persero) and PT Dok Dan Perkapalan Surabaya (Persero) for Pertamina tankers, with those contracts signed by him as general manager of the new company. Later, he and his spouse became the sole shareholders and directors of the new company without paying consideration for the shares, and increased its paid-up capital. The Shanghai office previously used by Viking Airtech Pte Ltd, managed by his brother-in-law, began operating as the new company's office, with the signboard changed and existing equipment and fittings used by the new company. A letter of credit for the Pelindo II project was issued in favour of the new company, which delivered the system and received payment. These facts link JL Marine & Engineering Pte Ltd to the contracts and assets that had been associated with Viking Airtech Pte Ltd.",
       "Judicial_Reasoning_Log": "The court concluded that the second defendant was at all material times the vehicle of the first defendant and his wife, even when it appeared to be owned by third parties. It relied on the timing of incorporation shortly after the termination of Jin Lian's sub-contract, the shared address with Jin Lian, the use of the 'Viking HVAC' name, the transfer of all shares to the first defendant and his wife without consideration despite the existence of valuable contracts, and the lack of credible explanations for these arrangements. The court found that the second defendant did not undertake substantial production work on the PT Pal and PT Dok contracts until after the first defendant and his wife took control in December 2003. It held that the second defendant aided and abetted the first defendant's breaches of duty in diverting the PT Pal and PT Dok contracts and the Pelindo II contract, and that it participated in the takeover and continued use of the Shanghai office and its contents. The court therefore held the second defendant liable as an accessory to the first defendant's breaches of duty and jointly liable with him for conversion of the Shanghai office assets, with damages to be assessed."
     },
-    "Label": "Partially Liable",
-    "Leakage_Score": 1
+    "Label": "Liable",
+    "Leakage_Score": 0
   }
 ]

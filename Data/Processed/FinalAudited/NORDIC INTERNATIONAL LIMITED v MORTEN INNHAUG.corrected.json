@@ -30,196 +30,96 @@
         {
           "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "2007-07-04",
-          "Text": "On 2007-07-04, Nordic International Limited became a shareholders' agreement between Sinwa Limited and Morten Innhaug under which each party would own 50 percent of Nordic International Limited's shares."
+          "Text": "On 2007-07-04, Nordic International Limited entered into a shareholders' agreement between Sinwa Limited and Morten Innhaug under which each party would own 50 percent of the company's shares."
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
           "Fact_Date": "2007-08-28",
-          "Text": "Sinwa Limited’s rights were later novated to Sinwa SS (HK) Co Ltd (“Sinwa”), a company incorporated in Hong Kong, by a novation agreement dated 28 August 2007."
+          "Text": "Sinwa Limited’s rights were later novated to Sinwa SS (HK) Co Ltd by a novation agreement dated 28 August 2007."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2007-07-04",
-          "Text": "Following the shareholders' agreement, Sinwa SS (HK) Co Ltd nominated Sim Yong Teng and Tan Lay Ling as directors of Nordic International Limited, and Morten Innhaug nominated himself and Kjell Gaukshiem as directors, resulting in a four-person board."
+          "Text": "Following the shareholders' agreement, the board of Nordic International Limited consisted of two nominees from Sinwa and two nominees from Morten Innhaug, including Morten himself."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2007-01-01",
-          "Text": "Pursuant to the shareholder’s agreement, Sinwa injected US$2m working capital into Nordic International, of which US$25,000 was used to purchase its 50 percent shareholding."
+          "Text": "Pursuant to the shareholder’s agreement, Sinwa injected US$2m working capital into Nordic International."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2007-09-01",
-          "Text": "In September 2007, Sinwa guaranteed a term loan of US$16m that Oversea-Chinese Banking Corporation (“OCBC”) had extended to Nordic International. The loan was used to finance the conversion of the Vessel."
+          "Text": "In September 2007, Sinwa guaranteed a term loan of US$16m extended by OCBC to Nordic International for the conversion of the Vessel."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2007-06-08",
-          "Text": "On 2007-06-08, a time charterparty was entered into under which Nordic International Limited chartered the vessel to BGP Geoexplorer Pte Ltd for a minimum period of three years at a rate of US$37,000 per day, approximately US$1,000,000 per month."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2006-12-01",
-          "Text": "BGP had in turn contracted, in December 2006, to provide seismic survey services to a US company named TGS-NOPEC Geophysical Company SA (“TGS”). BGP intended to use the Vessel to fulfil its obligation in the provision of seismic survey services to TGS under the seismic services agreement."
+          "Text": "On 2007-06-08, a time charterparty was entered into under which Nordic International Limited chartered the vessel to BGP Geoexplorer Pte Ltd for a minimum of three years."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2008-08-01",
-          "Text": "Shortly after the commencement of the Time Charter, due to problems in the operation of the Vessel and a downturn in the market, BGP indicated its wish to Morten, in August 2008, to 'cancel' the Time Charter."
+          "Text": "In August 2008, BGP indicated a wish to Morten Innhaug to cancel the Time Charter due to operational problems and a market downturn."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2008-08-19",
-          "Text": "In an email from Morten to BGP dated 19 August 2008 (copied only to Kjell), Morten noted that BGP had already invested about US$2m to US$2.5m in the project. He continued: 'We think that if we could agree a compensation to BGP in the amount that we have discussed above we could get acceptance from the board of Nordic International Limited (Owners of BGP Atlas) to cancel the TC Contract and that we subsequently transfer the operation of the vessel to Nordic Maritime Pte Ltd. It is also understood that a part of the cancelation agreement will be that: 1) BGP assign the Seismic contract with [TGS] to Nordic …'"
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008-08-20",
-          "Text": "BGP indicated its in-principle agreement to this proposal on 20 August 2008."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008-08-01",
-          "Text": "BGP thereafter negotiated with TGS and obtained its agreement to assign the seismic services agreement either to Nordic Maritime or to a company to be incorporated by Morten."
+          "Text": "Morten Innhaug emailed BGP proposing a compensation structure and suggesting that the operation of the vessel be transferred to Nordic Maritime Pte Ltd."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2008-08-23",
-          "Text": "BGP and TGS then prepared a tripartite Memorandum of Agreement (“MOA”) which was eventually signed on 23 August 2008 by BGP, Nordic Maritime and TGS."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2008-08-23",
-          "Text": "The material terms were as follows: (a) BGP would 'transfer and assign all rights and obligations' under the Time Charter and the seismic services agreement to Nordic Maritime. (b) BGP would be 'relieved and released of the obligations under the Time Charter' and the seismic services agreement. (c) The parties to the seismic services agreement would be Nordic Maritime and TGS. (d) The daily rate payable by TGS to Nordic Maritime for the provision of seismic services would be US$52,500. This was US$5,000 more than the daily rate paid by TGS to BGP, which was US$47,500."
+          "Text": "A tripartite Memorandum of Agreement was signed on 23 August 2008 by BGP, Nordic Maritime and TGS, relieving BGP of its obligations and transferring rights to Nordic Maritime."
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
           "Fact_Date": "2008-09-10",
-          "Text": "Morten had incorporated Nordic Geo-Services Ltd on 10 September 2008 to take over the Time Charter and the seismic services agreement from BGP."
+          "Text": "Morten Innhaug incorporated Nordic Geo-Services Ltd on 10 September 2008 to take over the Time Charter from BGP."
         },
         {
           "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2008-09-09",
-          "Text": "The Sinwa directors first had an inkling of the assignment on 9 September 2008 when Kjell informed them by email that 'Nordic' would be taking over the seismic operation of the Vessel and would be 'dealing direct' with TGS 'for the overall operation of the vessel'. Mike Sim and Lay Ling both sought clarification from him. In reply to Mike Sim’s query on whether 'Nordic' referred to Nordic International or Nordic Maritime, Kjell answered that it was the latter, but assured Mike Sim that there would be 'no financial implications' for Nordic International. Similarly, Kjell told Lay Ling that there would be no changes to the Time Charter."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
           "Fact_Date": "2008-09-22",
-          "Text": "The purported assignment of the Time Charter was made by way of a 'Notice of Assignment of Time Charter Party' dated 22 September 2008 from BGP to Nordic Geo-Services Ltd, a wholly-owned subsidiary of Nordic Maritime, which Morten had incorporated on 10 September 2008 to take over the Time Charter and the seismic services agreement from BGP."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008-09-22",
-          "Text": "NGS acknowledged the assignment by a letter of the same date signed by Morten in his capacity as its CEO."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-09-02",
-          "Text": "On 2 September 2008, Nordic International invoiced NGS for charter hire in the sum of US$1,266,399 for the period 27 August to 30 September 2008."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-10-17",
-          "Text": "On 17 October 2008, NGS paid Nordic International the balance sum of US$736,096.50."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-10-01",
-          "Text": "On 1 October 2008, Nordic International invoiced NGS for charter hire in the sum of US$1,147,000 for the period 1 to 31 October 2008."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-11-12",
-          "Text": "On 12 November 2008, NGS paid Nordic International the balance sum of US$1,103,293.75."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-11-10",
-          "Text": "On 10 November 2008, Nordic International invoiced NGS for charter hire in the sum of US$1,110,000 for the period 1 to 30 November 2008."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-12-19",
-          "Text": "On 19 December 2008, NGS paid Nordic International the balance sum of US$838,460.08."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-12-15",
-          "Text": "On 15 December 2008, Nordic International invoiced NGS for US$1,147,000 for the period 1 to 31 December 2008."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2009-02-03",
-          "Text": "On 3 February 2009, NGS paid Nordic International the balance sum of US$712,256.17."
+          "Text": "A Notice of Assignment dated 22 September 2008 purported to assign the Time Charter from BGP to Nordic Geo-Services Ltd."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2008-10-23",
-          "Text": "By a letter dated 23 October 2008, Sinwa informed Morten that it objected to the purported assignment and alleged that he had breached Clause 8.1 of the shareholder’s agreement, which provided that decisions on all matters other than those relating to the technical operations and management of the Vessel had to be made with the unanimous agreement of both parties."
+          "Text": "By a letter dated 23 October 2008, Sinwa informed Morten that it objected to the assignment and alleged a breach of the requirement for unanimous agreement on non-technical matters."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2008-12-19",
-          "Text": "On 19 December 2008, TGS sent Nordic Maritime a notice of termination of the seismic services agreement. The termination was with effect from 30 December 2008."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008-12-19",
-          "Text": "The Vessel was laid up from 19 December 2008 until sometime in December 2009 when it was employed in some ad hoc projects."
+          "Text": "TGS sent Nordic Maritime a notice of termination of the seismic services agreement in December 2008, and the vessel was subsequently laid up."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2008-12-19",
-          "Text": "Morten testified that Nordic Maritime continued to pay the operating costs of the Vessel even after it was laid up – this amounted to some $50,000 every month."
+          "Text": "Nordic Maritime continued to pay the operating costs of the Vessel even after it was laid up, amounting to approximately $50,000 per month."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2009-02-02",
-          "Text": "By a letter dated 2 February 2009, BGP objected to the purported 'reinstatement' of the Time Charter. It took the view that following the signing of the MOA, it did not have any obligations under the Time Charter or the seismic services agreement."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2009-03-25",
-          "Text": "By two letters dated 25 March 2009 and 7 April 2009, Nordic International informed BGP that it had yet to pay the charter hire for January and February 2009."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2009-04-07",
-          "Text": "By two letters dated 25 March 2009 and 7 April 2009, Nordic International informed BGP that it had yet to pay the charter hire for January and February 2009."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2009-04-22",
-          "Text": "On 22 April 2009, BGP replied through its solicitors that the Time Charter had been novated to Nordic Maritime pursuant to the MOA 'executed by Nordic [Maritime] for and on behalf of itself and [TGS], and [BGP]'. Consequently, BGP no longer owed any obligations under the Time Charter to Nordic International."
+          "Text": "BGP objected to the 'reinstatement' of the Time Charter, taking the view that its obligations had ceased following the signing of the MOA."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2009-06-25",
-          "Text": "But even before Nordic International did so, Morten’s counsel had written to Nordic International’s counsel on 25 June 2009 informing them they had no authority to commence the arbitration against BGP on Nordic International’s behalf without Morten’s consent, since, according to the shareholder’s agreement, the commencement of legal proceedings against BGP was a matter to be decided solely by the directors appointed by Morten."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2009-09-02",
-          "Text": "Nordic International thereafter commenced arbitration against BGP by way of a notice of arbitration dated 2 September 2009, claiming the unpaid charter hire as at 31 August 2009 (which amounted to US$10,098,868.97)."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2010-04-16",
-          "Text": "At the material time, the Vessel was valued at about US$30m, according to a valuation report dated 16 April 2010 which Nordic Maritime commissioned Altech Maritime Consultants Pte Ltd to produce."
+          "Text": "Morten’s counsel informed Nordic International's representatives that they had no authority to commence legal proceedings against BGP without Morten's consent under the shareholders' agreement."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2007-06-08",
-          "Text": "Clause 40 of the Time Charter granted the charterer the option to purchase the Vessel with equipment at US$5m after completion of the three-year charter period."
+          "Text": "Clause 40 of the Time Charter granted the charterer the option to purchase the Vessel with equipment at US$5m after the charter period."
         }
       ],
-      "Issue": "Whether, before the dispute, the structuring and implementation of the transfer of the time charter and seismic services arrangements involving Nordic International Limited's vessel, and the subsequent handling of charter hire payments and enforcement steps, created a conflict between the economic interests of Nordic International Limited and the economic interests of entities controlled by Morten Innhaug, including Nordic Maritime Pte Ltd and Nordic Geo-Services Ltd.",
-      "Rule": "Company directors are generally manage the company's business in the company's interests, avoid situations where their personal or related-entity economic interests may conflict with the company's economic interests, and refrain from using company-related opportunities or contracts for personal or related-entity gain without the company's fully informed approval.",
-      "Application": "Nordic International Limited's only significant asset was the vessel, and its revenue depended on charter hire under the 2007-06-08 time charter with BGP Geoexplorer Pte Ltd. After BGP indicated in 2008-08-01 that it wished to cancel the time charter, Morten Innhaug engaged with BGP and TGS-NOPEC Geophysical Company SA and participated in a 2008-08-23 Memorandum of Agreement under which Nordic Maritime Pte Ltd would receive increased daily payments from TGS-NOPEC Geophysical Company SA. He then arranged for Nordic Geo-Services Ltd, a wholly-owned subsidiary of Nordic Maritime Pte Ltd, to be the assignee under a 2008-09-22 Notice of Assignment of the time charter, with Nordic Geo-Services Ltd using the vessel and paying charter hire to Nordic International Limited. These steps were taken without prior board resolutions of Nordic International Limited and while Sinwa SS (HK) Co Ltd, as 50 percent shareholder and guarantor of Nordic International Limited's bank loan, had an interest in preserving the original charter hire stream. After TGS-NOPEC Geophysical Company SA terminated the seismic services agreement with effect from 2008-12-30, Nordic International Limited stopped receiving charter hire beyond 2008-12-31 and later pursued BGP Geoexplorer Pte Ltd for unpaid charter hire, while BGP Geoexplorer Pte Ltd relied on the Memorandum of Agreement to deny liability. Morten Innhaug's counsel also objected in 2009-06-25 to Nordic International Limited commencing arbitration against BGP Geoexplorer Pte Ltd without his consent. These pre-dispute events the same individual controlled both Nordic International Limited's board representation and the related entities that received the benefit of the revised commercial structure, while Nordic International Limited's expected charter hire stream was interrupted and its enforcement actions were delayed.",
-      "Judicial_Reasoning_Log": "The court analysed the legal nature of the Memorandum of Agreement and the Notice of Assignment, distinguishing between assignment of contractual benefits and transfer of burdens, and concluded that the description of the Notice of Assignment as an assignment of the time charter was a misnomer. It held that only Nordic International Limited could assign the benefit of the time charter and that BGP Geoexplorer Pte Ltd could only assign its use of the vessel under clause 17(a), not the time charter itself. The court treated the two 'assignments'—of the time charter and of the seismic services agreement—as a single transaction and focused on the economic effect: BGP Geoexplorer Pte Ltd was removed from the relationship with TGS-NOPEC Geophysical Company SA while remaining, on paper, liable to Nordic International Limited, and Nordic Geo-Services Ltd, controlled by Morten Innhaug, obtained the increased seismic revenue and the option to purchase the vessel. The court found that Morten Innhaug 'procured' the purported assignment in the sense of bringing it about, regardless of which party initiated discussions, because he negotiated with BGP Geoexplorer Pte Ltd and TGS-NOPEC Geophysical Company SA, signed the Memorandum of Agreement on behalf of Nordic Maritime Pte Ltd, and signed the acknowledgment of the Notice of Assignment on behalf of Nordic Geo-Services Ltd. \n\nApplying fiduciary principles, the court held that Morten Innhaug owed duties to act bona fide in the best interests of Nordic International Limited, to avoid conflicts of interest, not to profit from his position without informed consent, and not to enter into self-dealing transactions. It concluded that he breached these duties by structuring the arrangements so that Nordic Geo-Services Ltd and Nordic Maritime Pte Ltd captured the seismic services revenue and the purchase option while Nordic International Limited's rights under the time charter were exposed to challenge. The court rejected his argument that Nordic International Limited was 'no worse off' because the time charter terms remained unchanged and BGP Geoexplorer Pte Ltd remained liable on paper, pointing to the actual cessation of charter hire from December 2008 and BGP Geoexplorer Pte Ltd's reliance on the Memorandum of Agreement to deny liability. The court emphasised that breach of fiduciary duty is actionable per se and that liability to account for profits does not depend on proof of loss.\n\nOn conflict of interest, the court held that the fact that Nordic International Limited was a ship owner and Nordic Geo-Services Ltd a charterer did not eliminate the possibility of conflict. It relied on authorities such as Premier Waste Management Ltd v Towers and Re Allied Business and Financial Consultants Ltd to state that it is irrelevant that the company could not or would not have taken the opportunity or that the opportunity lay outside the company's usual business. The court found that Morten Innhaug placed himself in a position where his personal and related-entity interests in the seismic services agreement and the purchase option conflicted with Nordic International Limited's interest in enforcing the time charter and preserving its charter hire stream. It also characterised the arrangement as self-dealing because Morten Innhaug effectively substituted Nordic Geo-Services Ltd for BGP Geoexplorer Pte Ltd as charterer, thereby acting on both sides of the transaction.\n\nRegarding the withholding of charter hire, the court found that Morten Innhaug's conduct in initially preventing Nordic International Limited from pursuing arbitration against BGP Geoexplorer Pte Ltd, including his counsel's 2009-06-25 letter and his vote against arbitration at the 2011-10-24 board meeting, was inconsistent with acting in Nordic International Limited's best interests. The court accepted that he was concerned about preserving his relationship with BGP Geoexplorer Pte Ltd and about Nordic Geo-Services Ltd's indemnity exposure under the Notice of Assignment, and that he sought to create a deadlock to trigger the shareholders' agreement deadlock clause so he could buy out Sinwa SS (HK) Co Ltd and then pursue BGP Geoexplorer Pte Ltd himself. These findings supported the conclusion that he caused or contributed to the withholding of charter hire.\n\nOn the option to purchase the vessel, the court noted that the time charter granted the charterer an option to purchase the vessel at US$5,000,000 after three years, that a 2010 valuation placed the vessel at about US$30,000,000, and that the assignment structure would have allowed Nordic Geo-Services Ltd to exercise the option. Although Morten Innhaug ultimately did not exercise the option and later stated he no longer intended to do so, the court held that his acquisition of the right to exercise the option through the assignment constituted an unauthorised profit opportunity and a breach of the no-profit and no-conflict rules.\n\nThe court rejected Morten Innhaug's reliance on section 391 of the Companies Act. It held that the statutory relief requires that the director acted honestly and reasonably and that it is fair to excuse him. The court found that his conduct displayed surreptitiousness, including excluding Sinwa-nominated directors from negotiations and structuring documents to avoid Nordic International Limited being a party, and that he intended to secure benefits for himself and his related entities. It concluded that he did not act honestly or reasonably and that this was not an appropriate case for relief.\n\nOn ratification, the court distinguished between ratification of the transaction and release of the director from liability. It held that any acceptance by Nordic International Limited of charter hire payments from Nordic Geo-Services Ltd or failure to notify OCBC of objections did not amount to informed shareholder consent to release Morten Innhaug from liability. The court relied on correspondence, including Sinwa SS (HK) Co Ltd's 2008-10-23 letter and its subsequent pursuit of a derivative action, to find that Sinwa SS (HK) Co Ltd consistently objected to the conflict and did not ratify the breaches.\n\nFor remedies, the court ordered an account of profits in respect of gains made by Morten Innhaug through the seismic services arrangements, noting evidence that he expected to earn a margin of US$5,000 to US$7,000 per day after costs between August and December 2008. For the loss of charter hire, the court treated the appropriate remedy as equitable compensation and held that the loss depended on the outcome of the pending arbitration between Nordic International Limited and BGP Geoexplorer Pte Ltd, including issues such as lay-up reductions under clause 5(d) of the time charter and netting of expenses. Drawing on authorities concerning contingent losses and third-party claims, the court ordered that the assessment of compensation for loss of charter hire be reserved until after the conclusion of the arbitration, with liberty to apply. It fixed costs of the action in favour of Nordic International Limited and directed that each party bear its own costs for an earlier injunction application."
+      "Issue": "Whether the structuring and implementation of the transfer of time charter arrangements, and the subsequent handling of enforcement steps, created a conflict between the interests of Nordic International Limited and entities controlled by Morten Innhaug.",
+      "Rule": "Company directors are required to manage the company's business in its best interests, avoid conflicts with personal or related-entity interests, and refrain from using company-related opportunities for personal gain without informed approval.",
+      "Application": "Nordic International Limited's revenue depended on its vessel's time charter. After the charterer sought cancellation, Morten Innhaug negotiated a structure where his own entities, Nordic Maritime and Nordic Geo-Services, became the beneficiaries of seismic services revenue and a vessel purchase option. These steps were taken without formal board approval from Nordic International Limited. When the revenue stream ceased, the company was unable to receive further hire payments, while Morten Innhaug used his position to object to enforcement actions against the original charterer.",
+      "Judicial_Reasoning_Log": "The court analysed the legal nature of the Memorandum of Agreement and the Notice of Assignment, distinguishing between assignment of contractual benefits and transfer of burdens, and concluded that the description of the Notice of Assignment as an assignment of the time charter was a misnomer. It held that only Nordic International Limited could assign the benefit of the time charter and that BGP Geoexplorer Pte Ltd could only assign its use of the vessel under clause 17(a), not the time charter itself. The court treated the two 'assignments'—of the time charter and of the seismic services agreement—as a single transaction and focused on the economic effect: BGP Geoexplorer Pte Ltd was removed from the relationship with TGS-NOPEC Geophysical Company SA while remaining, on paper, liable to Nordic International Limited, and Nordic Geo-Services Ltd, controlled by Morten Innhaug, obtained the increased seismic revenue and the option to purchase the vessel. The court found that Morten Innhaug 'procured' the purported assignment in the sense of bringing it about, regardless of which party initiated discussions, because he negotiated with BGP Geoexplorer Pte Ltd and TGS-NOPEC Geophysical Company SA, signed the Memorandum of Agreement on behalf of Nordic Maritime Pte Ltd, and signed the acknowledgment of the Notice of Assignment on behalf of Nordic Geo-Services Ltd. Applying fiduciary principles, the court held that Morten Innhaug owed duties to act bona fide in the best interests of Nordic International Limited, to avoid conflicts of interest, not to profit from his position without informed consent, and not to enter into self-dealing transactions. It concluded that he breached these duties by structuring the arrangements so that Nordic Geo-Services Ltd and Nordic Maritime Pte Ltd captured the seismic services revenue and the purchase option while Nordic International Limited's rights under the time charter were exposed to challenge. The court rejected his argument that Nordic International Limited was 'no worse off' because the time charter terms remained unchanged and BGP Geoexplorer Pte Ltd remained liable on paper, pointing to the actual cessation of charter hire from December 2008 and BGP Geoexplorer Pte Ltd's reliance on the Memorandum of Agreement to deny liability. The court emphasised that breach of fiduciary duty is actionable per se and that liability to account for profits does not depend on proof of loss. On conflict of interest, the court held that the fact that Nordic International Limited was a ship owner and Nordic Geo-Services Ltd a charterer did not eliminate the possibility of conflict. It relied on authorities such as Premier Waste Management Ltd v Towers and Re Allied Business and Financial Consultants Ltd to state that it is irrelevant that the company could not or would not have taken the opportunity or that the opportunity lay outside the company's usual business. The court found that Morten Innhaug placed himself in a position where his personal and related-entity interests in the seismic services agreement and the purchase option conflicted with Nordic International Limited's interest in enforcing the time charter and preserving its charter hire stream. It also characterised the arrangement as self-dealing because Morten Innhaug effectively substituted Nordic Geo-Services Ltd for BGP Geoexplorer Pte Ltd as charterer, thereby acting on both sides of the transaction. Regarding the withholding of charter hire, the court found that Morten Innhaug's conduct in initially preventing Nordic International Limited from pursuing arbitration against BGP Geoexplorer Pte Ltd, including his counsel's 2009-06-25 letter and his vote against arbitration at the 2011-10-24 board meeting, was inconsistent with acting in Nordic International Limited's best interests. The court accepted that he was concerned about preserving his relationship with BGP Geoexplorer Pte Ltd and about Nordic Geo-Services Ltd's indemnity exposure under the Notice of Assignment, and that he sought to create a deadlock to trigger the shareholders' agreement deadlock clause so he could buy out Sinwa SS (HK) Co Ltd and then pursue BGP Geoexplorer Pte Ltd himself. These findings supported the conclusion that he caused or contributed to the withholding of charter hire. On the option to purchase the vessel, the court noted that the time charter granted the charterer an option to purchase the vessel at US$5,000,000 after three years, that a 2010 valuation placed the vessel at about US$30,000,000, and that the assignment structure would have allowed Nordic Geo-Services Ltd to exercise the option. Although Morten Innhaug ultimately did not exercise the option and later stated he no longer intended to do so, the court held that his acquisition of the right to exercise the option through the assignment constituted an unauthorised profit opportunity and a breach of the no-profit and no-conflict rules. The court rejected Morten Innhaug's reliance on section 391 of the Companies Act. It held that the statutory relief requires that the director acted honestly and reasonably and that it is fair to excuse him. The court found that his conduct displayed surreptitiousness, including excluding Sinwa-nominated directors from negotiations and structuring documents to avoid Nordic International Limited being a party, and that he intended to secure benefits for himself and his related entities. It concluded that he did not act honestly or reasonably and that this was not an appropriate case for relief. On ratification, the court distinguished between ratification of the transaction and release of the director from liability. It held that any acceptance by Nordic International Limited of charter hire payments from Nordic Geo-Services Ltd or failure to notify OCBC of objections did not amount to informed shareholder consent to release Morten Innhaug from liability. The court relied on correspondence, including Sinwa SS (HK) Co Ltd's 2008-10-23 letter and its subsequent pursuit of a derivative action, to find that Sinwa SS (HK) Co Ltd consistently objected to the conflict and did not ratify the breaches. For remedies, the court ordered an account of profits in respect of gains made by Morten Innhaug through the seismic services arrangements, noting evidence that he expected to earn a margin of US$5,000 to US$7,000 per day after costs between August and December 2008. For the loss of charter hire, the court treated the appropriate remedy as equitable compensation and held that the loss depended on the outcome of the pending arbitration between Nordic International Limited and BGP Geoexplorer Pte Ltd, including issues such as lay-up reductions under clause 5(d) of the time charter and netting of expenses. Drawing on authorities concerning contingent losses and third-party claims, the court ordered that the assessment of compensation for loss of charter hire be reserved until after the conclusion of the arbitration, with liberty to apply. It fixed costs of the action in favour of Nordic International Limited and directed that each party bear its own costs for an earlier injunction application."
     },
     "Label": "Claim Allowed",
-    "Leakage_Score": 6
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -241,80 +141,55 @@
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2007-01-16",
-          "Text": "On 2007-01-16, Morten Innhaug incorporated Nordic International Limited in the British Virgin Islands to purchase a fishing trawler to be converted into a seismic survey vessel."
+          "Text": "Morten Innhaug incorporated Nordic International Limited in the British Virgin Islands in 2007 to purchase and convert a fishing trawler into a seismic survey vessel."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2007-01-16",
-          "Text": "From 2007-01-16, Morten Innhaug was the sole shareholder and first director of Nordic International Limited until Sinwa Limited invested under the shareholders' agreement."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2007-01-01",
-          "Text": "In 2007-01-01, Morten Innhaug was a director and shareholder of Nordic Maritime Pte Ltd, which was appointed manager of the vessel under a ship management agreement with Nordic International Limited."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2007-07-04",
-          "Text": "On 2007-07-04, under the shareholders' agreement with Sinwa Limited, Morten Innhaug nominated himself and Kjell Gaukshiem as directors of Nordic International Limited."
+          "Text": "Morten Innhaug was a director of Nordic International Limited and also controlled Nordic Maritime Pte Ltd."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2007-06-08",
-          "Text": "By 2007-06-08, Morten Innhaug had secured a time charterparty under which Nordic International Limited chartered the vessel to BGP Geoexplorer Pte Ltd for a minimum period of three years at US$37,000 per day."
+          "Text": "Morten Innhaug secured a time charterparty for the vessel with BGP Geoexplorer Pte Ltd at a rate of US$37,000 per day."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2008-08-01",
-          "Text": "In 2008-08-01, after BGP Geoexplorer Pte Ltd indicated it wished to cancel the time charter, Morten Innhaug entered into discussions with BGP Geoexplorer Pte Ltd and TGS-NOPEC Geophysical Company SA with a view to transferring BGP Geoexplorer Pte Ltd's rights and obligations under the time charter and seismic services agreement to Nordic Maritime Pte Ltd or a related company."
+          "Text": "In August 2008, Morten Innhaug discussed the potential cancellation of the time charter with the charterer and explored transferring rights to his own entities."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2008-08-19",
-          "Text": "On 2008-08-19, Morten Innhaug emailed BGP Geoexplorer Pte Ltd, copying only Kjell Gaukshiem, proposing that compensation to BGP Geoexplorer Pte Ltd could secure acceptance from the board of Nordic International Limited to cancel the time charter and transfer operation of the vessel to Nordic Maritime Pte Ltd, and that BGP Geoexplorer Pte Ltd would assign the seismic contract with TGS-NOPEC Geophysical Company SA."
+          "Text": "On 19 August 2008, Morten Innhaug proposed to the charterer that the operation of the vessel be transferred to Nordic Maritime Pte Ltd."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008-08-01",
-          "Text": "On 2008-08-23, Morten Innhaug signed the tripartite Memorandum of Agreement on behalf of Nordic Maritime Pte Ltd together with BGP Geoexplorer Pte Ltd and TGS-NOPEC Geophysical Company SA, providing for transfer of rights and obligations under the time charter and seismic services agreement to Nordic Maritime Pte Ltd and an increased daily rate from TGS-NOPEC Geophysical Company SA."
+          "Fact_Date": "2008-08-23",
+          "Text": "Morten Innhaug signed a Memorandum of Agreement on behalf of Nordic Maritime Pte Ltd providing for the transfer of rights from the original charterer."
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
           "Fact_Date": "2008-09-10",
-          "Text": "On 2008-08-19, Morten Innhaug emailed BGP Geoexplorer Pte Ltd, copying only Kjell Gaukshiem, stating that if compensation could be agreed to BGP in the amount discussed, acceptance could be obtained from the board of Nordic International Limited to cancel the Time Charter and subsequently transfer operation of the vessel to Nordic Maritime Pte Ltd, and that part of the cancellation agreement would be that BGP assign the seismic contract with TGS-NOPEC Geophysical Company SA."
+          "Text": "Morten Innhaug incorporated Nordic Geo-Services Ltd to take over the charter position from BGP."
         },
         {
-          "Fact_Type": "CONDUCT",
+          "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2008-09-22",
-          "Text": "On 2008-08-23, Morten Innhaug signed the tripartite Memorandum of Agreement on behalf of Nordic Maritime Pte Ltd together with BGP Geoexplorer Pte Ltd and TGS-NOPEC Geophysical Company SA, providing that BGP would transfer and assign all rights and obligations under the Time Charter and the seismic services agreement to Nordic Maritime Pte Ltd, and that the daily rate payable by TGS to Nordic Maritime Pte Ltd would be US$52,500."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2008-09-09",
-          "Text": "On 2008-09-10, Morten Innhaug incorporated Nordic Geo-Services Ltd, a wholly-owned subsidiary of Nordic Maritime Pte Ltd, to take over the Time Charter and the seismic services agreement from BGP Geoexplorer Pte Ltd."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2008-12-31",
-          "Text": "On 2008-09-22, Morten Innhaug, in his capacity as CEO of Nordic Geo-Services Ltd, signed a letter acknowledging the Notice of Assignment of the Time Charter from BGP Geoexplorer Pte Ltd to Nordic Geo-Services Ltd."
+          "Text": "In his capacity as CEO of Nordic Geo-Services Ltd, Morten Innhaug acknowledged the Notice of Assignment of the Time Charter."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2008-12-19",
-          "Text": "On 2008-09-09, Kjell Gaukshiem informed the Sinwa directors by email that 'Nordic' would be taking over the seismic operation of the Vessel and would be 'dealing direct' with TGS-NOPEC Geophysical Company SA 'for the overall operation of the vessel'; in reply to Mike Sim's query, Kjell said that 'Nordic' referred to Nordic Maritime Pte Ltd and assured him that there would be 'no financial implications' for Nordic International Limited, and similarly told Lay Ling that there would be no changes to the Time Charter."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2010-01-07",
-          "Text": "Morten testified that Nordic Maritime continued to pay the operating costs of the Vessel even after it was laid up, amounting to some $50,000 every month."
+          "Text": "Nordic Maritime continued to pay approximately $50,000 per month for the vessel's operating costs even after it was laid up."
         }
       ],
-      "Issue": "Whether, based on pre-dispute conduct, Morten Innhaug's actions in arranging for related entities to take over commercial positions connected to Nordic International Limited's vessel, and in influencing decisions on enforcement of charter hire claims, aligned with or diverged from the economic interests of Nordic International Limited.",
-      "Rule": "Individuals who control both a company and related entities are generally structure transactions and decision-making so that the company's economic interests are not subordinated to the interests of those related entities, and to ensure that material changes to key revenue-generating contracts and enforcement decisions are taken with proper corporate approval and transparent disclosure to all board members and shareholders.",
-      "Application": "Morten Innhaug incorporated Nordic International Limited and initially held all its shares and directorships, later sharing ownership and board control with Sinwa SS (HK) Co Ltd under a shareholders' agreement that required unanimous decisions on non-technical matters. He also controlled Nordic Maritime Pte Ltd and later Nordic Geo-Services Ltd. After BGP Geoexplorer Pte Ltd expressed a wish to cancel the time charter in 2008-08-01, he negotiated with BGP Geoexplorer Pte Ltd and TGS-NOPEC Geophysical Company SA and signed a 2008-08-23 Memorandum of Agreement under which Nordic Maritime Pte Ltd would receive increased daily payments from TGS-NOPEC Geophysical Company SA. He then arranged for Nordic Geo-Services Ltd to be the assignee under a 2008-09-22 Notice of Assignment of the time charter, with Nordic Geo-Services Ltd using the vessel and paying charter hire to Nordic International Limited. These steps were taken without prior unanimous board resolutions of Nordic International Limited and without Nordic International Limited being a party to the Memorandum of Agreement or the Notice of Assignment. When TGS-NOPEC Geophysical Company SA terminated the seismic services agreement with effect from 2008-12-30, Nordic International Limited's charter hire stream ceased after 2008-12-31, and BGP Geoexplorer Pte Ltd later relied on the Memorandum of Agreement to deny liability for further charter hire. In 2009-06-25, counsel for Morten Innhaug objected to Nordic International Limited commencing arbitration against BGP Geoexplorer Pte Ltd without his consent, and in the 2011-10-24 board meeting he and his nominee director voted against arbitration, creating a deadlock that he then used to initiate SIAC arbitration to buy out Sinwa SS (HK) Co Ltd's shares. These events he used his positions in Nordic International Limited and related entities to implement a structure that shifted commercial benefits to entities he controlled and influenced the timing and manner of Nordic International Limited's enforcement actions regarding unpaid charter hire.",
-      "Judicial_Reasoning_Log": "The court examined Morten Innhaug's roles in Nordic International Limited, Nordic Maritime Pte Ltd, and Nordic Geo-Services Ltd, and his control over the structuring of the time charter and seismic services arrangements. It found that he was the 'controlling mind' of the related entities and that he orchestrated the Memorandum of Agreement and the Notice of Assignment to substitute Nordic Geo-Services Ltd for BGP Geoexplorer Pte Ltd as the effective charterer while capturing the increased seismic services revenue and the vessel purchase option. The court held that this amounted to self-dealing and placed him in a position of conflict between his personal and related-entity interests and the interests of Nordic International Limited.\n\nThe court rejected his contention that he merely responded to BGP Geoexplorer Pte Ltd's initiative, holding that he 'procured' the arrangements by negotiating terms, signing the Memorandum of Agreement, and signing the acknowledgment of the Notice of Assignment. It emphasised that he did not involve Sinwa-nominated directors in the negotiations and that Nordic International Limited was not made a party to the key documents, despite being the owner and time charter counterparty. The court inferred that this structure was chosen to avoid potential objections from Sinwa SS (HK) Co Ltd and to secure benefits for Nordic Maritime Pte Ltd and Nordic Geo-Services Ltd.\n\nIn assessing whether he acted in the best interests of Nordic International Limited, the court noted that the time charter provided a secure three-year revenue stream that underpinned Sinwa SS (HK) Co Ltd's decision to invest and guarantee the bank loan. It found that Morten Innhaug did not negotiate compensation from BGP Geoexplorer Pte Ltd for early termination, despite the time charter's provisions, and instead focused on preserving his relationship with BGP Geoexplorer Pte Ltd and obtaining the seismic services agreement and purchase option for his related entities. The court concluded that this approach exposed Nordic International Limited's rights under the time charter to challenge and led to the cessation of charter hire from December 2008.\n\nRegarding the withholding of charter hire, the court found that Morten Innhaug's actions in instructing his counsel to challenge the authority to commence arbitration against BGP Geoexplorer Pte Ltd and in voting against arbitration at the 2011-10-24 board meeting were motivated by concerns about his ongoing relationship with BGP Geoexplorer Pte Ltd, Nordic Geo-Services Ltd's indemnity obligations under the Notice of Assignment, and his plan to trigger the deadlock clause to buy out Sinwa SS (HK) Co Ltd. The court held that these motivations showed that he prioritised his own and his related entities' interests over Nordic International Limited's interest in promptly enforcing its charter hire claim.\n\nOn the purchase option, the court observed that the assignment structure would have allowed Nordic Geo-Services Ltd to exercise the option to buy the vessel at US$5,000,000, significantly below the 2010 valuation of about US$30,000,000. It considered his later indication of intention to exercise the option and concluded that acquiring control over this option through the assignment was a significant personal benefit obtained without Nordic International Limited's informed consent.\n\nThe court applied section 391 of the Companies Act and concluded that Morten Innhaug did not satisfy the requirements for relief. It found that his conduct involved deliberate exclusion of co-directors, complex structuring to avoid Nordic International Limited's direct involvement, and pursuit of personal advantages, which did not meet the standard of acting 'honestly and reasonably'. The court also held that there was no effective ratification or release by Nordic International Limited, as Sinwa SS (HK) Co Ltd consistently objected to the arrangements and pursued a derivative action.\n\nUltimately, the court held Morten Innhaug liable for breaches of his fiduciary duties in procuring the purported assignment, causing the withholding of charter hire, and obtaining the benefit of the purchase option. It ordered an account of profits in respect of gains from the seismic services arrangements and reserved the assessment of equitable compensation for loss of charter hire until after the conclusion of the arbitration between Nordic International Limited and BGP Geoexplorer Pte Ltd, with liberty to apply."
+      "Issue": "Whether Morten Innhaug's conduct in facilitating the transfer of commercial benefits to his own entities and his influence over the company's legal enforcement decisions constituted a breach of his fiduciary duties.",
+      "Rule": "Individuals who control multiple related entities must ensure that the economic interests of a company are not subordinated to those related entities, and that material changes to revenue-generating contracts are approved with full disclosure.",
+      "Application": "Morten Innhaug held board control in both the vessel-owning company and the entities that received assigned charter benefits. Following the charterer's request to cancel, he implemented a structure that redirected seismic revenue and a purchase option to his personal companies. He subsequently opposed the company's attempts to commence arbitration to recover unpaid hire from the original charterer.",
+      "Judicial_Reasoning_Log": "The court examined Morten Innhaug's roles in Nordic International Limited, Nordic Maritime Pte Ltd, and Nordic Geo-Services Ltd, and his control over the structuring of the time charter and seismic services arrangements. It found that he was the 'controlling mind' of the related entities and that he orchestrated the Memorandum of Agreement and the Notice of Assignment to substitute Nordic Geo-Services Ltd for BGP Geoexplorer Pte Ltd as the effective charterer while capturing the increased seismic services revenue and the vessel purchase option. The court held that this amounted to self-dealing and placed him in a position of conflict between his personal and related-entity interests and the interests of Nordic International Limited. The court rejected his contention that he merely responded to BGP Geoexplorer Pte Ltd's initiative, holding that he 'procured' the arrangements by negotiating terms, signing the Memorandum of Agreement, and signing the acknowledgment of the Notice of Assignment. It emphasised that he did not involve Sinwa-nominated directors in the negotiations and that Nordic International Limited was not made a party to the key documents, despite being the owner and time charter counterparty. The court inferred that this structure was chosen to avoid potential objections from Sinwa SS (HK) Co Ltd and to secure benefits for Nordic Maritime Pte Ltd and Nordic Geo-Services Ltd. In assessing whether he acted in the best interests of Nordic International Limited, the court noted that the time charter provided a secure three-year revenue stream that underpinned Sinwa SS (HK) Co Ltd's decision to invest and guarantee the bank loan. It found that Morten Innhaug did not negotiate compensation from BGP Geoexplorer Pte Ltd for early termination, despite the time charter's provisions, and instead focused on preserving his relationship with BGP Geoexplorer Pte Ltd and obtaining the seismic services agreement and purchase option for his related entities. The court concluded that this approach exposed Nordic International Limited's rights under the time charter to challenge and led to the cessation of charter hire from December 2008. Regarding the withholding of charter hire, the court found that Morten Innhaug's actions in instructing his counsel to challenge the authority to commence arbitration against BGP Geoexplorer Pte Ltd and in voting against arbitration at the 2011-10-24 board meeting were motivated by concerns about his ongoing relationship with BGP Geoexplorer Pte Ltd, Nordic Geo-Services Ltd's indemnity obligations under the Notice of Assignment, and his plan to trigger the deadlock clause to buy out Sinwa SS (HK) Co Ltd. The court held that these motivations showed that he prioritised his own and his related entities' interests over Nordic International Limited's interest in promptly enforcing its charter hire claim. On the purchase option, the court observed that the assignment structure would have allowed Nordic Geo-Services Ltd to exercise the option to buy the vessel at US$5,000,000, significantly below the 2010 valuation of about US$30,000,000. It considered his later indication of intention to exercise the option and concluded that acquiring control over this option through the assignment was a significant personal benefit obtained without Nordic International Limited's informed consent. The court applied section 391 of the Companies Act and concluded that Morten Innhaug did not satisfy the requirements for relief. It found that his conduct involved deliberate exclusion of co-directors, complex structuring to avoid Nordic International Limited's direct involvement, and pursuit of personal advantages, which did not meet the standard of acting 'honestly and reasonably'. The court also held that there was no effective ratification or release by Nordic International Limited, as Sinwa SS (HK) Co Ltd consistently objected to the arrangements and pursued a derivative action. Ultimately, the court held Morten Innhaug liable for breaches of his fiduciary duties in procuring the purported assignment, causing the withholding of charter hire, and obtaining the benefit of the purchase option. It ordered an account of profits in respect of gains from the seismic services arrangements and reserved the assessment of equitable compensation for loss of charter hire until after the conclusion of the arbitration between Nordic International Limited and BGP Geoexplorer Pte Ltd, with liberty to apply."
     },
     "Label": "Liable",
-    "Leakage_Score": 3
+    "Leakage_Score": 0
   }
 ]

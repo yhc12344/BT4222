@@ -11,83 +11,46 @@
       "Role": "Plaintiff",
       "Name": "Ng Heng Liat",
       "Law_Firm": "Engelin Teh Practice LLC",
-      "Counsel": [
-        "Harish Kumar"
-      ],
+      "Counsel": ["Harish Kumar"],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2002",
-          "Text": "Ng Heng Liat was a director of Aquagen International Pte Ltd (AIPL) in 2002."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2002",
-          "Text": "As a director of Aquagen International Pte Ltd, Ng Heng Liat was part of the board of directors responsible for decisions on the company's participation in a desalination plant project."
+          "Text": "Ng Heng Liat was a director of Aquagen International Pte Ltd (AIPL) during a period of project development."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2002",
-          "Text": "In 2002, differences arose between the directors of Aquagen International Pte Ltd, including Ng Heng Liat, and other parties involved in a desalination plant project over whether to continue with the project."
+          "Text": "Disagreements arose between the board of directors and other project participants regarding whether to continue a desalination plant project using a concrete or steel evaporator."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2002",
-          "Text": "In 2002, a proposal to change the desalination plant project from a concrete evaporator to a steel evaporator was made and was not accepted by the decision-makers in the project, including the board of Aquagen International Pte Ltd."
+          "Text": "Independent legal advice recommended that the company participate in arbitration proceedings relating to the project disputes."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2002",
-          "Text": "An issue arose in 2002 whether Aquagen International Pte Ltd should take part in the arbitration proceedings relating to the desalination plant project."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2002",
-          "Text": "In 2002, legal advice was sought on whether Aquagen International Pte Ltd should participate in the arbitration proceedings, and a recommendation was made that the company participate."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002",
-          "Text": "The directors of Aquagen International Pte Ltd, including Ng Heng Liat, received a recommendation in 2002 that the company participate in the arbitration proceedings."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002",
-          "Text": "In 2002, the plaintiffs, including director Ng Heng Liat, objected to Aquagen International Pte Ltd participating in the arbitration proceedings."
+          "Text": "Ng Heng Liat and other directors objected to the company's participation in the arbitration."
         },
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2002",
-          "Text": "Efforts were made in 2002 to have the Aquagen International Pte Ltd board of directors resolve whether the company should participate in the arbitration proceedings."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002",
-          "Text": "In 2002, when attempts were made to convene a board meeting of Aquagen International Pte Ltd to discuss participation in the arbitration proceedings, the plaintiffs, including Ng Heng Liat, repeatedly did not confirm whether they would attend the board meeting."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2002",
-          "Text": "Because the plaintiffs, including Ng Heng Liat, did not confirm attendance, no quorate board meeting of Aquagen International Pte Ltd could be convened in 2002 to discuss participation in the arbitration proceedings."
+          "Text": "Repeated attempts to convene a quorate board meeting to resolve the arbitration issue failed as the directors, including Ng Heng Liat, did not confirm their attendance."
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
           "Fact_Date": "2002-07-29",
-          "Text": "On 29 July 2002, Kiyue issued a notice under s 216A of the Companies Act to the directors of AIPL requesting it to commence action against the plaintiffs for breaches of their fiduciary duties as directors to AIPL."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2002-07-29",
-          "Text": "On 29 July 2002, Kiyue gave notice that if the directors did not comply with the request, it intended to apply to court under s 216A for leave to bring the action in the name and on behalf of the company."
+          "Text": "A minority shareholder issued a statutory notice under section 216A of the Companies Act, demanding the company sue the directors for alleged breaches of fiduciary duty."
         }
       ],
-      "Issue": "Whether the conduct of the plaintiffs, as directors of Aquagen International Pte Ltd, in objecting to Aquagen International Pte Ltd's participation in arbitration proceedings and in not facilitating a quorate board meeting to decide on that participation, exposes them to a declaration regarding their responsibilities to the company.",
-      "Rule": "Under company law, when a wrong is said to affect a company, the company is generally the entity that may seek relief, statutory mechanisms that may allow certain persons, such as shareholders, to apply for permission to act in the company's name in specified circumstances.",
-      "Application": "The plaintiffs' conduct as directors of Aquagen International Pte Ltd, including their objections to the company's participation in arbitration and their non-confirmation of attendance at board meetings, is being evaluated against the framework that determines who may seek declarations or other relief in relation to actions said to affect the company.",
-      "Judicial_Reasoning_Log": "The judge considered whether Kiyue Company Ltd, as a minority shareholder, had locus standi under the rule in Foss v Harbottle to maintain a counterclaim seeking declarations about the plaintiffs' fiduciary duties as directors of Aquagen International Pte Ltd. The court analysed the proper plaintiff rule, noting that when an obligation is owed to a company, the company is the entity entitled to redress, and that this principle applies equally to counterclaims. The judgment examined statutory inroads in sections 216 and 216A of the Companies Act and concluded that these provisions relax but do not abrogate the proper plaintiff rule. The court rejected the argument that the plaintiffs had waived the rule by suing Kiyue, holding that waiver by the parties could not replace the requirement of leave under section 216A. The judge found that Aquagen International Pte Ltd was prima facie the proper party to seek declarations about the directors' duties and that Kiyue had itself recognised this by issuing a section 216A notice and indicating an intention to seek leave to act in the company's name. The court held that Order 28 rule 7(1) of the Rules of Court did not confer standing on Kiyue where it otherwise lacked the right to bring a separate action. The judgment emphasised that section 216A requires the court to be satisfied that the complainant is acting in good faith and that the proposed action is in the interests of the company, and that allowing the counterclaim to proceed in Kiyue's own name would bypass these statutory safeguards. Concluding that Kiyue could not seek the counter-declaration without obtaining leave under section 216A, the court allowed the plaintiffs' appeal and struck out the counterclaim."
+      "Issue": "Whether the conduct of a director in blocking board-level decisions regarding arbitration exposes them to a direct claim by a minority shareholder, rather than a claim brought by the company itself.",
+      "Rule": "Under the proper plaintiff rule, a wrong done to a company must be redressed by the company itself. Shareholders wishing to sue on the company's behalf must first obtain court leave under statutory mechanisms such as section 216A.",
+      "Application": "The directors blocked the company's participation in arbitration and prevented a quorate board meeting from taking place. A minority shareholder attempted to challenge this conduct by seeking a legal declaration in its own name. The validity of this challenge depends on whether the shareholder bypassed the mandatory statutory requirements for a derivative action.",
+      "Judicial_Reasoning_Log": "The judge held that the proper plaintiff in respect of a wrong done to a company is the company itself. The court found that statutory provisions in sections 216 and 216A do not abrogate the proper plaintiff rule but provide a specific path for shareholders that requires court leave. Because the minority shareholder had already recognized this by issuing a section 216A notice, it could not then attempt to seek the same relief through a direct counterclaim in its own name without obtaining the required leave. Allowing such a claim would bypass statutory safeguards requiring proof of good faith and the company's best interests."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -101,73 +64,31 @@
       "Role": "Plaintiff",
       "Name": "Hey Bong koi",
       "Law_Firm": "Engelin Teh Practice LLC",
-      "Counsel": [
-        "Harish Kumar"
-      ],
+      "Counsel": ["Harish Kumar"],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
-          "Text": "Hey Bong koi was a director of Aquagen International Pte Ltd (AIPL) in 2002."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
-          "Text": "As a director of Aquagen International Pte Ltd, Hey Bong koi was part of the board of directors responsible for decisions on the company's participation in a desalination plant project."
+          "Fact_Date": "2002",
+          "Text": "Hey Bong koi was a director of Aquagen International Pte Ltd (AIPL)."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In 2002, differences arose between the directors of Aquagen International Pte Ltd, including Hey Bong koi, and other parties involved in a desalination plant project over whether to continue with the project."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In 2002, a proposal to change the desalination plant project from a concrete evaporator to a steel evaporator was made and was not accepted by the decision-makers in the project, including the board of Aquagen International Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "An issue arose in 2002 whether Aquagen International Pte Ltd should take part in the arbitration proceedings relating to the desalination plant project."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "",
-          "Text": "In 2002, legal advice was sought on whether Aquagen International Pte Ltd should participate in the arbitration proceedings, and a recommendation was made that the company participate."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "The directors of Aquagen International Pte Ltd, including Hey Bong koi, received a recommendation in 2002 that the company participate in the arbitration proceedings."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In 2002, the plaintiffs, including director Hey Bong koi, objected to Aquagen International Pte Ltd participating in the arbitration proceedings."
+          "Fact_Date": "2002",
+          "Text": "Following a dispute over technical changes to a desalination project, Hey Bong koi opposed the company's entry into arbitration."
         },
         {
           "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "",
-          "Text": "Efforts were made in 2002 to have the Aquagen International Pte Ltd board of directors resolve whether the company should participate in the arbitration proceedings."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In 2002, when attempts were made to convene a board meeting of Aquagen International Pte Ltd to discuss participation in the arbitration proceedings, the plaintiffs, including Hey Bong koi, repeatedly did not confirm whether they would attend the board meeting."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "",
-          "Text": "Because the plaintiffs, including Hey Bong koi, did not confirm attendance, no quorate board meeting of Aquagen International Pte Ltd could be convened in 2002 to discuss participation in the arbitration proceedings."
+          "Fact_Date": "2002",
+          "Text": "Hey Bong koi did not confirm attendance at board meetings intended to resolve the arbitration strategy, leading to a lack of quorum."
         }
       ],
-      "Issue": "Whether the conduct of the plaintiffs, as directors of Aquagen International Pte Ltd, in objecting to Aquagen International Pte Ltd's participation in arbitration proceedings and in not facilitating a quorate board meeting to decide on that participation, exposes them to a declaration regarding their responsibilities to the company.",
-      "Rule": "Under company law, when a wrong is said to affect a company, the company is generally the entity that may seek relief, statutory mechanisms that may allow certain persons, such as shareholders, to apply for permission to act in the company's name in specified circumstances.",
-      "Application": "The plaintiffs' conduct as directors of Aquagen International Pte Ltd, including their objections to the company's participation in arbitration and their non-confirmation of attendance at board meetings, is being evaluated against the framework that determines who may seek declarations or other relief in relation to actions said to affect the company.",
-      "Judicial_Reasoning_Log": "The judge considered whether Kiyue Company Ltd, as a minority shareholder, had locus standi under the rule in Foss v Harbottle to maintain a counterclaim seeking declarations about the plaintiffs' fiduciary duties as directors of Aquagen International Pte Ltd. The court analysed the proper plaintiff rule, noting that when an obligation is owed to a company, the company is the entity entitled to redress, and that this principle applies equally to counterclaims. The judgment examined statutory inroads in sections 216 and 216A of the Companies Act and concluded that these provisions relax but do not abrogate the proper plaintiff rule. The court rejected the argument that the plaintiffs had waived the rule by suing Kiyue, holding that waiver by the parties could not replace the requirement of leave under section 216A. The judge found that Aquagen International Pte Ltd was prima facie the proper party to seek declarations about the directors' duties and that Kiyue had itself recognised this by issuing a section 216A notice and indicating an intention to seek leave to act in the company's name. The court held that Order 28 rule 7(1) of the Rules of Court did not confer standing on Kiyue where it otherwise lacked the right to bring a separate action. The judgment emphasised that section 216A requires the court to be satisfied that the complainant is acting in good faith and that the proposed action is in the interests of the company, and that allowing the counterclaim to proceed in Kiyue's own name would bypass these statutory safeguards. Concluding that Kiyue could not seek the counter-declaration without obtaining leave under section 216A, the court allowed the plaintiffs' appeal and struck out the counterclaim."
+      "Issue": "Whether a director's decision to withhold attendance from board meetings constitutes a corporate wrong that a shareholder can sue for directly.",
+      "Rule": "Company law requires that actions for wrongs done to a company be brought by the company unless a shareholder satisfies the conditions for a derivative action under section 216A.",
+      "Application": "A director participated in a deadlock that prevented the company from following legal advice to arbitrate a project dispute. A shareholder sought to hold the director liable for this inaction without following the statutory procedure for representing the company's interests.",
+      "Judicial_Reasoning_Log": "The court applied the rule in Foss v Harbottle, maintaining that the company is the correct entity to seek redress for breaches of directorial duty. It ruled that procedural rules for counterclaims do not grant standing to a shareholder where they otherwise lack the right to sue. As the shareholder had not obtained leave to act for the company, the claim against the director could not proceed."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -181,73 +102,26 @@
       "Role": "Plaintiff",
       "Name": "Lau Kim Yang",
       "Law_Firm": "Engelin Teh Practice LLC",
-      "Counsel": [
-        "Harish Kumar"
-      ],
+      "Counsel": ["Harish Kumar"],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
-          "Text": "Lau Kim Yang was a director of Aquagen International Pte Ltd (AIPL) in 2002."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
-          "Text": "As a director of Aquagen International Pte Ltd, Lau Kim Yang was part of the board of directors responsible for decisions on the company's participation in a desalination plant project."
+          "Fact_Date": "2002",
+          "Text": "Lau Kim Yang served as a director of Aquagen International Pte Ltd during a period of project-related conflict."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In 2002, differences arose between the directors of Aquagen International Pte Ltd, including Lau Kim Yang, and other parties involved in a desalination plant project over whether to continue with the project."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In 2002, a proposal to change the desalination plant project from a concrete evaporator to a steel evaporator was made and was not accepted by the decision-makers in the project, including the board of Aquagen International Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "An issue arose in 2002 whether Aquagen International Pte Ltd should take part in the arbitration proceedings relating to the desalination plant project."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "",
-          "Text": "In 2002, legal advice was sought on whether Aquagen International Pte Ltd should participate in the arbitration proceedings, and a recommendation was made that the company participate."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "The directors of Aquagen International Pte Ltd, including Lau Kim Yang, received a recommendation in 2002 that the company participate in the arbitration proceedings."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In 2002, the plaintiffs, including director Lau Kim Yang, objected to Aquagen International Pte Ltd participating in the arbitration proceedings."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "",
-          "Text": "Efforts were made in 2002 to have the Aquagen International Pte Ltd board of directors resolve whether the company should participate in the arbitration proceedings."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In 2002, when attempts were made to convene a board meeting of Aquagen International Pte Ltd to discuss participation in the arbitration proceedings, the plaintiffs, including Lau Kim Yang, repeatedly did not confirm whether they would attend the board meeting."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "",
-          "Text": "Because the plaintiffs, including Lau Kim Yang, did not confirm attendance, no quorate board meeting of Aquagen International Pte Ltd could be convened in 2002 to discuss participation in the arbitration proceedings."
+          "Fact_Date": "2002",
+          "Text": "Lau Kim Yang was among the directors who did not facilitate a board resolution regarding the company's participation in desalination-related arbitration."
         }
       ],
-      "Issue": "Whether the conduct of the plaintiffs, as directors of Aquagen International Pte Ltd, in objecting to Aquagen International Pte Ltd's participation in arbitration proceedings and in not facilitating a quorate board meeting to decide on that participation, exposes them to a declaration regarding their responsibilities to the company.",
-      "Rule": "Under company law, when a wrong is said to affect a company, the company is generally the entity that may seek relief, statutory mechanisms that may allow certain persons, such as shareholders, to apply for permission to act in the company's name in specified circumstances.",
-      "Application": "The plaintiffs' conduct as directors of Aquagen International Pte Ltd, including their objections to the company's participation in arbitration and their non-confirmation of attendance at board meetings, is being evaluated against the framework that determines who may seek declarations or other relief in relation to actions said to affect the company.",
-      "Judicial_Reasoning_Log": "The judge considered whether Kiyue Company Ltd, as a minority shareholder, had locus standi under the rule in Foss v Harbottle to maintain a counterclaim seeking declarations about the plaintiffs' fiduciary duties as directors of Aquagen International Pte Ltd. The court analysed the proper plaintiff rule, noting that when an obligation is owed to a company, the company is the entity entitled to redress, and that this principle applies equally to counterclaims. The judgment examined statutory inroads in sections 216 and 216A of the Companies Act and concluded that these provisions relax but do not abrogate the proper plaintiff rule. The court rejected the argument that the plaintiffs had waived the rule by suing Kiyue, holding that waiver by the parties could not replace the requirement of leave under section 216A. The judge found that Aquagen International Pte Ltd was prima facie the proper party to seek declarations about the directors' duties and that Kiyue had itself recognised this by issuing a section 216A notice and indicating an intention to seek leave to act in the company's name. The court held that Order 28 rule 7(1) of the Rules of Court did not confer standing on Kiyue where it otherwise lacked the right to bring a separate action. The judgment emphasised that section 216A requires the court to be satisfied that the complainant is acting in good faith and that the proposed action is in the interests of the company, and that allowing the counterclaim to proceed in Kiyue's own name would bypass these statutory safeguards. Concluding that Kiyue could not seek the counter-declaration without obtaining leave under section 216A, the court allowed the plaintiffs' appeal and struck out the counterclaim."
+      "Issue": "Whether a minority shareholder has standing to seek a declaration of breach of duty against a director who contributes to a board deadlock.",
+      "Rule": "A shareholder may only pursue a claim belonging to the company if they obtain the court's permission under the statutory derivative action framework.",
+      "Application": "The director's refusal to attend board meetings caused an operational deadlock. A shareholder attempted to use this deadlock as a basis for a lawsuit in their own name, bypassing the gatekeeping function of section 216A of the Companies Act.",
+      "Judicial_Reasoning_Log": "The court struck out the claim against the director because the shareholder had not secured court leave. The judge emphasized that statutory derivative actions exist precisely to ensure that such suits are brought in good faith and in the company's interests, and cannot be circumvented by individual shareholder actions."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -261,77 +135,30 @@
       "Role": "Defendant",
       "Name": "Kiyue Co Ltd",
       "Law_Firm": "Kenneth Tan Partnership",
-      "Counsel": [
-        "Wang Wei Chi"
-      ],
+      "Counsel": ["Wang Wei Chi"],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2002-01-01",
-          "Text": "Kiyue Co Ltd was a minority shareholder of Aquagen International Pte Ltd (AIPL) in 2002."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2002-01-01",
-          "Text": "Aquagen International Pte Ltd was involved in a project to develop a desalination plant with a special concrete evaporator in 2002, in which Kiyue Co Ltd had an interest as a minority shareholder."
+          "Fact_Date": "2002",
+          "Text": "Kiyue Co Ltd was a minority shareholder of Aquagen International Pte Ltd (AIPL)."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002-01-01",
-          "Text": "In 2002, differences arose between parties involved in the desalination plant project, including Aquagen International Pte Ltd and Kiyue Co Ltd, over whether to continue with the project."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002-01-01",
-          "Text": "In 2002, a proposal was made to change the desalination plant project from a concrete evaporator to a steel evaporator, and this proposal was not accepted."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2002-01-01",
-          "Text": "Arbitration proceedings were commenced in 2002 concerning the obligations of the parties, including Aquagen International Pte Ltd, in connection with the desalination plant project."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002-01-01",
-          "Text": "An issue arose in 2002 whether Aquagen International Pte Ltd should take part in the arbitration proceedings relating to the desalination plant project."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2002-01-01",
-          "Text": "In 2002, legal advice was obtained on whether Aquagen International Pte Ltd should participate in the arbitration proceedings, and a recommendation was made that the company participate."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002-01-01",
-          "Text": "In 2002, Kiyue Co Ltd supported Aquagen International Pte Ltd participating in the arbitration proceedings."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002-01-01",
-          "Text": "In 2002, the plaintiffs, who were directors of Aquagen International Pte Ltd, objected to the company participating in the arbitration proceedings, and no quorate board meeting was convened to decide on participation."
+          "Fact_Date": "2002",
+          "Text": "Kiyue supported the company’s participation in arbitration to resolve project difficulties, but was blocked by the company's directors."
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
           "Fact_Date": "2002-07-29",
-          "Text": "On 2002-07-29, Kiyue Co Ltd issued a notice under section 216A of the Companies Act to the directors of Aquagen International Pte Ltd requesting that the company commence action against the plaintiffs in relation to their conduct as directors."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2002-07-29",
-          "Text": "On 2002-07-29, Kiyue Co Ltd informed the directors of Aquagen International Pte Ltd that if they did not comply with its request to commence action against the plaintiffs, Kiyue Co Ltd intended to apply to court under section 216A of the Companies Act for leave to bring an action in the name and on behalf of the company."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2002-07-29",
-          "Text": "After the notice dated 2002-07-29 from Kiyue Co Ltd, the board of Aquagen International Pte Ltd did not send a reply to Kiyue Co Ltd."
+          "Text": "Kiyue issued a formal notice to the company's directors under section 216A, indicating its intent to seek court leave to sue the directors on behalf of the company."
         }
       ],
-      "Issue": "Whether Kiyue Co Ltd, as a minority shareholder of Aquagen International Pte Ltd, can seek a declaration in its own name regarding the conduct of the directors of Aquagen International Pte Ltd in relation to the company's participation in arbitration proceedings and related project decisions.",
-      "Rule": "Under the proper plaintiff principle in company law, a claim in respect of a wrong said to affect a company is generally to be brought by the company itself, with statutory provisions such as section 216A of the Companies Act allowing a shareholder, in defined circumstances and with the court's leave, to bring or intervene in proceedings in the name and on behalf of the company.",
-      "Application": "Kiyue Co Ltd, as a minority shareholder, issued a notice under section 216A of the Companies Act indicating an intention to seek leave to bring proceedings in the name of Aquagen International Pte Ltd concerning the conduct of the directors. The question is whether, despite this framework, Kiyue Co Ltd may pursue a counterclaim in its own name for declarations about that conduct, or whether it must instead obtain leave to proceed in the company's name under the statutory mechanism.",
-      "Judicial_Reasoning_Log": "The court examined whether Kiyue Co Ltd, a minority shareholder of Aquagen International Pte Ltd, had standing to maintain a counterclaim seeking declarations that the plaintiffs, as directors, had breached fiduciary duties and had not acted in the best interests of the company. Applying the rule in Foss v Harbottle, the judge held that the proper plaintiff in respect of a wrong done to a company is prima facie the company itself, and that this principle applies equally to counterclaims. The court considered arguments that there was no clear authority extending the rule to counterclaims, that statutory provisions in sections 216 and 216A of the Companies Act had largely abrogated the rule, that the plaintiffs had waived the rule by suing Kiyue, that procedural rules on counterclaims and convenience justified allowing the counterclaim, and that justice required it. The judge rejected these arguments, finding that sections 216 and 216A constitute limited statutory inroads rather than an abrogation of the proper plaintiff rule, and that leave under section 216A cannot be waived by the parties. The court noted that Kiyue itself had recognised that Aquagen International Pte Ltd was the proper party by issuing a section 216A notice and stating its intention to seek leave to act in the company's name. Order 28 rule 7(1) of the Rules of Court was interpreted as permitting a defendant to bring a counterclaim only where it could have brought a separate action, and not as conferring standing where none otherwise existed. The judge emphasised that section 216A requires the court to be satisfied that the complainant is acting in good faith and that the proposed action is prima facie in the interests of the company, and that allowing Kiyue to proceed with the counterclaim in its own name would bypass these statutory safeguards and the distinct issues to be considered in a section 216A application. Concluding that Kiyue lacked locus standi to seek the counter-declaration without obtaining leave to proceed in the company's name, the court allowed the plaintiffs' appeal and struck out Kiyue's counterclaim."
+      "Issue": "Whether a minority shareholder can pursue a legal remedy for a wrong done to the company by bringing a claim in its own name.",
+      "Rule": "The proper plaintiff rule prevents individual shareholders from suing for wrongs to the company unless they are granted leave to bring a statutory derivative action.",
+      "Application": "Kiyue was a minority shareholder concerned about board deadlock. Despite issuing a statutory notice of its intent to sue on the company's behalf, it attempted to seek a judicial declaration against the directors in its own capacity as a shareholder.",
+      "Judicial_Reasoning_Log": "The court ruled that Kiyue lacked the standing (locus standi) to bring the claim. Because the alleged wrong—blocking the company's arbitration—was a wrong to the company itself, Kiyue was required to obtain the court's permission under section 216A. The court found that Kiyue's attempt to sue in its own name was an attempt to bypass the legal requirement to prove that such an action was in the best interests of the company."
     },
-    "Label": "Unknown",
+    "Label": "Claim Dismissed",
     "Leakage_Score": 0
   },
   {
@@ -350,81 +177,16 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
-          "Text": "Aquagen International Pte Ltd (AIPL) was a company involved in a project to develop a desalination plant with a special concrete evaporator in 2002."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
-          "Text": "In 2002, the plaintiffs, namely Ng Heng Liat, Hey Bong koi, and Lau Kim Yang, were directors of Aquagen International Pte Ltd."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "",
-          "Text": "In 2002, Kiyue Co Ltd was a minority shareholder of Aquagen International Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "Aquagen International Pte Ltd participated in a project to develop a desalination plant using a special concrete evaporator, and the development of the concrete evaporator encountered difficulties in 2002."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In 2002, a proposal was made to change the desalination plant project from a concrete evaporator to a steel evaporator, and this proposal was not accepted."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In 2002, differences arose between the parties involved in the desalination plant project, including Aquagen International Pte Ltd and its shareholder Kiyue Co Ltd, over whether to continue with the project."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "",
-          "Text": "Arbitration proceedings were commenced in 2002 concerning the obligations of the parties in connection with the desalination plant project involving Aquagen International Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In 2002, an issue arose whether Aquagen International Pte Ltd should take part in the arbitration proceedings relating to the desalination plant project."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "",
-          "Text": "In 2002, legal advice was sought on whether Aquagen International Pte Ltd should participate in the arbitration proceedings, and a recommendation was made that the company participate."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "",
-          "Text": "In 2002, efforts were made to have the board of directors of Aquagen International Pte Ltd resolve whether the company should participate in the arbitration proceedings."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "",
-          "Text": "In 2002, no quorate board meeting of Aquagen International Pte Ltd could be convened to discuss participation in the arbitration proceedings because the plaintiffs did not confirm their attendance."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2002-07-29",
-          "Text": "Kiyue Co Ltd issued a notice under section 216A of the Companies Act to the directors of Aquagen International Pte Ltd requesting that the company commence action against the plaintiffs in relation to their conduct as directors."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2002-07-29",
-          "Text": "Kiyue Co Ltd informed the directors of Aquagen International Pte Ltd that if they did not comply with its request to commence action against the plaintiffs, it intended to apply to court under section 216A of the Companies Act for leave to bring an action in the name and on behalf of the company."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2002-07-29",
-          "Text": "The board of Aquagen International Pte Ltd did not send a reply to Kiyue Co Ltd."
+          "Fact_Date": "2002",
+          "Text": "Aquagen International Pte Ltd was a company involved in a desalination project that became stalled due to technical and board-level disputes."
         }
       ],
-      "Issue": "Whether decisions and conduct relating to Aquagen International Pte Ltd's participation in arbitration proceedings and the desalination plant project can be the subject of declarations sought by a shareholder in its own name, or must be pursued through mechanisms that involve the company as the formal claimant.",
-      "Rule": "In company law, where a matter concerns an wrong to the company, the company is generally the entity that may seek relief, with statutory provisions such as section 216A of the Companies Act enabling certain persons, including shareholders, to apply for leave to bring or intervene in proceedings in the name and on behalf of the company, conditions such as good faith and the apparent interests of the company.",
-      "Application": "Aquagen International Pte Ltd was the company at the centre of the desalination plant project and the related arbitration proceedings. Its directors and a minority shareholder, Kiyue Co Ltd, took differing positions on whether the company should participate in the arbitration and on how to respond to the section 216A notice. These circumstances are assessed within the framework that distinguishes between claims that must be brought in the company's name and those that a shareholder may pursue only with the court's leave under section 216A.",
-      "Judicial_Reasoning_Log": "The judgment treated Aquagen International Pte Ltd as the entity to which the directors' duties were owed and as the proper plaintiff under the rule in Foss v Harbottle in respect of any alleged wrong arising from the directors' conduct. The court noted that Kiyue Co Ltd, as a minority shareholder, had issued a section 216A notice acknowledging that Aquagen International Pte Ltd was the proper party and that leave of court was required to proceed in the company's name. The judge held that the statutory derivative action mechanism in section 216A, which requires notice to the directors, good faith, and a prima facie showing that the action is in the company's interests, could not be circumvented by allowing Kiyue Co Ltd to pursue a counterclaim in its own name. The court concluded that Aquagen International Pte Ltd's role and interests had to be addressed through the statutory framework, and that the counterclaim brought without leave was not maintainable, leading to the striking out of the counterclaim."
+      "Issue": "Whether the company is the only party entitled to seek relief for wrongs committed by its directors.",
+      "Rule": "The company is the proper plaintiff for actions involving breaches of directorial duties.",
+      "Application": "The company faced internal deadlock regarding its legal strategy in a desalination project. A shareholder and the directors disputed whether the company should be the formal claimant in subsequent legal actions.",
+      "Judicial_Reasoning_Log": "The court affirmed that the company is the entity to which directors owe their duties. Consequently, any claim regarding those duties must be managed through the company or via a court-authorized derivative action. The court struck out attempts by a shareholder to bypass this structure."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   }
 ]

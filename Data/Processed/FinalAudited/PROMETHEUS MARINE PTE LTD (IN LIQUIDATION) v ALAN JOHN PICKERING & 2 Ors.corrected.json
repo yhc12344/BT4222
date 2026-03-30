@@ -94,7 +94,7 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2012",
-          "Text": "Prometheus Marine Pte Ltd's average annual revenue was about $4.68 million in 2012, decreasing to about $48,302 in 2016 according to the liquidators' analysis of its financial position."
+          "Text": "Prometheus Marine Pte Ltd's average annual revenue was about $4.68 million in 2012, decreasing to about $48,302 in 2016."
         },
         {
           "Fact_Type": "DOCUMENT",
@@ -102,13 +102,13 @@
           "Text": "In a letter dated 13 October 2017 to the liquidators, Alan John Pickering stated that the arbitration involving Prometheus Marine Pte Ltd was drawn out and expensive and that legal costs and falling sales affected the company's financial viability, leading to staff being released from 2013 and operations continuing with a skeleton staff."
         }
       ],
-      "Issue": "Whether, before the commencement of this suit, the conduct of Prometheus Marine Pte Ltd's directors and related parties in relation to salaries, personal expenses, shareholder loan repayments, rental expenses, and commission arrangements with Promarine Yacht Sales Pte Ltd resulted in financial outflows and diverted revenues that form the basis of the plaintiff's claims.",
+      "Issue": "Whether, before the commencement of this suit, the conduct of Prometheus Marine Pte Ltd's directors and related parties in relation to salaries, personal expenses, shareholder loan repayments, rental expenses, and commission arrangements with Promarine Yacht Sales Pte Ltd resulted in financial outflows and diverted revenues.",
       "Rule": "Company directors and persons effectively directing a company's affairs are generally manage company property and financial transactions in accordance with the company's interests and applicable company and insolvency law, including observing statutory limitation periods for civil claims.",
-      "Application": "The pre-dispute records of Prometheus Marine Pte Ltd show payments of salary to Alan John Pickering under an employment contract, expense items for meals, entertainment, motor vehicles, telephone and travel, repayments of shareholder loans to Alan John Pickering and Lynette Anne Pickering, rental payments for premises at Raffles Marina, and commission and name-use arrangements with Promarine Yacht Sales Pte Ltd, all occurring in the years leading up to the winding-up proceedings and the commencement of this suit.",
+      "Application": "The pre-dispute records of Prometheus Marine Pte Ltd show payments of salary to Alan John Pickering under an employment contract, expense items for meals, entertainment, motor vehicles, telephone and travel, repayments of shareholder loans to Alan John Pickering and Lynette Anne Pickering, rental payments for premises at Raffles Marina, and commission and name-use arrangements with Promarine Yacht Sales Pte Ltd, all occurring in the years leading up to the winding-up proceedings.",
       "Judicial_Reasoning_Log": "The court analysed the liquidators' evidence, including company records, examination transcripts, and correspondence, to determine that the plaintiff had established its claims on a balance of probabilities. The judge applied the principles from Ma Hongjin and other authorities on evidential burden where defendants call no evidence, and on directors' duties, constructive trusteeship, and limitation under section 22 of the Limitation Act. The court concluded that Alan John Pickering was a de facto director during the relevant period, that Prometheus Marine Pte Ltd had ceased trading and was of doubtful solvency from around 2013, and that various payments and arrangements constituted breaches of directors' duties and a conspiracy in relation to the commission agreement. The judge held that section 22(1)(a) of the Limitation Act applied due to fraudulent breaches of trust, disapplying the usual limitation period for the directors' duties claims, and that the conspiracy claim relating to the commission agreement was within time. The court rejected conspiracy claims relating to the name use agreement, the oral commission agreement, and general diversion of corporate opportunities due to lack of evidential support, and also rejected the defendants' set-off defence for failure to prove the debt and mutuality. The court awarded the plaintiff specific sums for the unjustified salaries claim (excluding one unsupported payment), personal expenses claim, preferential repayment claim, rental expenses claim, and the conspiracy claim pertaining to the commission agreement, and indicated that it would hear parties on costs."
     },
     "Label": "Claim Allowed",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -210,33 +210,18 @@
           "Text": "On 21 January 2015, Prometheus Marine Pte Ltd's general ledger recorded a commission tranche relating to the 'Majesty 105' sale, with an amount of $59,262.63 reflected as credited to Promarine Yacht Sales Pte Ltd and remaining as a receivable from that company in Prometheus Marine Pte Ltd's internal records."
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2013-11-01",
-          "Text": "During the period from late 2013 to 2017, Alan John Pickering stated that Promarine Yacht Sales Pte Ltd had no employees and that he was responsible for its business activities, apart from the later involvement of director Simon Trevor Wood from October 2016."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2013-11-01",
-          "Text": "Alan John Pickering stated that Prometheus Marine Pte Ltd had ceased trading in November 2013 and that the company was kept active to fund legal defence using revenue from the commission arrangements."
-        },
-        {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2017-10-13",
           "Text": "In a letter dated 13 October 2017, Alan John Pickering wrote that the arbitration involving Prometheus Marine Pte Ltd ruined the company's financial viability, that rising legal costs and falling sales made it not viable to continue running the company, and that Promarine Yacht Sales Pte Ltd was incorporated to act as the marketing and sales arm and agent of Prometheus Marine Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2013-01-01",
-          "Text": "From October 2017, the liquidators of Prometheus Marine Pte Ltd corresponded with Alan John Pickering requesting information and documents belonging to the company and conducted site visits to its office."
         }
       ],
-      "Issue": "Whether, before the commencement of this suit, the financial transactions and contractual arrangements involving Alan John Pickering and Prometheus Marine Pte Ltd, including salary payments, shareholder loan repayments, commission arrangements, and use of company premises and trade names, resulted in payments and revenue allocations that are now challenged by the plaintiff.",
+      "Issue": "Whether, before the commencement of this suit, the financial transactions and contractual arrangements involving Alan John Pickering and Prometheus Marine Pte Ltd, including salary payments, shareholder loan repayments, commission arrangements, and use of company premises and trade names, resulted in payments and revenue allocations that affected the company's asset pool.",
       "Rule": "Individuals who are directors, de facto directors, or controlling shareholders of a company are generally legal standards governing their management of company assets, related-party transactions, and dealings with company creditors, and disputes over such conduct may be statutory limitation periods and rules on constructive trusteeship.",
-      "Application": "The pre-dispute record shows that Alan John Pickering held the majority of shares in Prometheus Marine Pte Ltd, served as its managing director for many years, entered into an employment contract as sales manager in November 2013 with a salary of $8,000 per month, and was a director and majority shareholder of Promarine Yacht Sales Pte Ltd. He signed the Name Use Agreement, Commission Agreement, Addendum, and Termination Agreement on behalf of Promarine Yacht Sales Pte Ltd or Prometheus Marine Pte Ltd, and company records show salary payments, shareholder loan repayments, commission flows, and rental and expense items associated with him and related entities in the years leading up to the winding-up and this suit.",
+      "Application": "The pre-dispute record shows that Alan John Pickering held the majority of shares in Prometheus Marine Pte Ltd, served as its managing director for many years, entered into an employment contract as sales manager in November 2013 with a salary of $8,000 per month, and was a director and majority shareholder of Promarine Yacht Sales Pte Ltd. He signed the Name Use Agreement, Commission Agreement, Addendum, and Termination Agreement on behalf of Promarine Yacht Sales Pte Ltd or Prometheus Marine Pte Ltd, and company records show salary payments, shareholder loan repayments, commission flows, and rental and expense items associated with him and related entities in the years leading up to the winding-up.",
       "Judicial_Reasoning_Log": "The judge determined that Alan John Pickering functioned as a de facto director of Prometheus Marine Pte Ltd between 2 November 2013 and 1 November 2016, based on his own statements that his wife, though a director on record, did not make executive decisions and that he directed the company's affairs, including negotiating and entering into the Name Use Agreement and Commission Agreement on behalf of both companies. The court held that de facto and de jure directors owe the same duties. The court found that Prometheus Marine Pte Ltd had effectively ceased trading around November 2013 and was of doubtful solvency, relying on the wording of the Commission Agreement, the Name Use Agreement, the 13 October 2017 letter, and examination transcripts. The judge concluded that salary payments to Alan John Pickering after cessation of trading, personal expenses charged to the company, preferential repayments of shareholder loans, and rental expenses for premises used rent-free by Promarine Yacht Sales Pte Ltd were not justified by any commercial benefit to Prometheus Marine Pte Ltd and were made when the company was in financial difficulty. These acts were characterised as breaches of directors' duties and fraudulent breaches of trust for the purposes of section 22(1)(a) of the Limitation Act, disapplying the limitation period. For the conspiracy claim relating to the Commission Agreement, the court found that the Termination Agreement, signed by Alan John Pickering for Prometheus Marine Pte Ltd, extinguished the company's entitlement to an unpaid commission tranche of $59,262.63, and that this was part of a combination with the other defendants to divert revenue to Promarine Yacht Sales Pte Ltd. The court rejected conspiracy claims tied to the Name Use Agreement, the oral commission agreement, and general diversion of corporate opportunities due to insufficient evidence. The judge also rejected the set-off defence because the alleged shareholder loans were not adequately proved as debts provable in liquidation and mutuality was not established. The court held Alan John Pickering jointly and severally liable with Lynette Anne Pickering for the quantified sums on the unjustified salaries, personal expenses, preferential repayments, rental expenses, and the conspiracy relating to the Commission Agreement."
     },
     "Label": "Liable",
-    "Leakage_Score": 2
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -323,13 +308,13 @@
           "Text": "By the end of 2013, PMPL had repaid $454,874.97 to D1 and/or D2 in respect of shareholders' loans, with further loans and repayments resulting in an outstanding balance of $688,617.46 recorded as owed to them in 2017."
         }
       ],
-      "Issue": "Whether, before the commencement of this suit, the actions of Lynette Anne Pickering as a director and shareholder of Prometheus Marine Pte Ltd, including signing resolutions and agreements and participating in shareholder loan transactions, contributed to the financial flows and arrangements that are the subject of the plaintiff's claims.",
+      "Issue": "Whether, before the commencement of this suit, the actions of Lynette Anne Pickering as a director and shareholder of Prometheus Marine Pte Ltd, including signing resolutions and agreements and participating in shareholder loan transactions, contributed to the company's financial flows and arrangements.",
       "Rule": "Directors who sign company resolutions and contracts and participate in shareholder financing are generally legal standards governing their involvement in company transactions, including standards applicable to related-party dealings and management of company assets.",
-      "Application": "The pre-dispute record shows that Lynette Anne Pickering was a long-serving director and shareholder of Prometheus Marine Pte Ltd, co-signed the resolution to form Promarine Yacht Sales Pte Ltd, signed the Name Use Agreement, Commission Agreement, Addendum, and an employment contract for Alan John Pickering, and was a participant in shareholder loan balances and repayments recorded in the company's accounts, while describing her role as non-executive and reliant on her husband's decisions.",
+      "Application": "The pre-dispute record shows that Lynette Anne Pickering was a long-serving director and shareholder of Prometheus Marine Pte Ltd, co-signed the resolution to form Promarine Yacht Sales Pte Ltd, signed the Name Use Agreement, Commission Agreement, Addendum, and an employment contract for Alan John Pickering, and was a participant in shareholder loan balances and repayments recorded in the company's accounts.",
       "Judicial_Reasoning_Log": "The court treated Lynette Anne Pickering as a de jure director of Prometheus Marine Pte Ltd throughout the relevant period and considered her jointly responsible with Alan John Pickering for decisions that led to the impugned transactions. The judge noted that she signed the key agreements and the employment contract and that examination transcripts indicated she did not exercise independent judgment but followed her husband's directions. The court held that, as a director, she owed duties equivalent to those of Alan John Pickering and that her participation in approving salary payments, personal expenses, shareholder loan repayments, and rental arrangements, as well as her involvement in the commission and name use structures, contributed to the breaches of duty and the conspiracy relating to the Commission Agreement. The judge concluded that her conduct fell within the fraudulent breach of trust exception in section 22(1)(a) of the Limitation Act and that she was jointly and severally liable with Alan John Pickering for the quantified sums awarded to the plaintiff."
     },
     "Label": "Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -409,19 +394,14 @@
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2013-11-01",
           "Text": "From around November 2013 until the termination of the lease in 2016, Promarine Yacht Sales Pte Ltd occupied premises at Raffles Marina that were leased by Prometheus Marine Pte Ltd, and no rental contribution from Promarine Yacht Sales Pte Ltd to Prometheus Marine Pte Ltd was recorded."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2013-11-01",
-          "Text": "During examinations conducted by the liquidators in February 2020, it was recorded that Promarine Yacht Sales Pte Ltd continued to use the name 'Promarine' to sell vessels and that, after the execution of the Termination Agreement, it did not pay any portion of commission or revenue from such sales to Prometheus Marine Pte Ltd."
         }
       ],
-      "Issue": "Whether, before the commencement of this suit, the incorporation, shareholding structure, and contractual and financial dealings of Promarine Yacht Sales Pte Ltd with Prometheus Marine Pte Ltd, including name use, commission sharing, and occupation of premises, formed part of the transactions now in dispute.",
+      "Issue": "Whether, before the commencement of this suit, the incorporation, shareholding structure, and contractual and financial dealings of Promarine Yacht Sales Pte Ltd with Prometheus Marine Pte Ltd, including name use, commission sharing, and occupation of premises, affected the allocation of revenue and expenses between the entities.",
       "Rule": "A company that enters into related-party agreements for use of trade names, commission sharing, and shared premises is generally legal standards governing such arrangements, including the allocation of revenue and expenses and the effect of termination agreements on outstanding entitlements.",
       "Application": "The pre-dispute record shows that Promarine Yacht Sales Pte Ltd was incorporated in August 2013 with shareholdings and directorships overlapping with Prometheus Marine Pte Ltd, entered into a Name Use Agreement and Commission Agreement with Prometheus Marine Pte Ltd, made certain payments under the Name Use Agreement, received commission tranches including an amount recorded as a receivable by Prometheus Marine Pte Ltd, entered into a Termination Agreement in March 2016, and occupied premises leased by Prometheus Marine Pte Ltd without recorded rental contributions.",
       "Judicial_Reasoning_Log": "The plaintiff initially brought claims against Promarine Yacht Sales Pte Ltd, including a claim for unjust enrichment relating to its use of premises and claims in conspiracy. However, the plaintiff discontinued the suit against Promarine Yacht Sales Pte Ltd before trial. The court therefore did not make findings of liability against this company and focused its analysis on the remaining defendants, Alan John Pickering and Lynette Anne Pickering. The factual background concerning Promarine Yacht Sales Pte Ltd was considered insofar as it related to the conduct and liability of the individual defendants, particularly in relation to the commission arrangements and use of premises, but no final judgment was entered against Promarine Yacht Sales Pte Ltd."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   }
 ]

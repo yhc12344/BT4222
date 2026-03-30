@@ -255,11 +255,7 @@
           "Fact_Date": "2003-06-01",
           "Text": "For Y/E 2000, the Notice of Assessment stated the Plaintiff’s income to be $234,000. For Y/E 2001, there were dividends of $150,287 and income from employment was $84,000."
         },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2003-01-01",
-          "Text": "The oral evidence of Mr Sim and his working papers suggested that, at times, Mr Sim would liaise with the First Defendant on the accounts but never with the Plaintiff."
-        },
+
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "1990-11-10",
@@ -294,16 +290,6 @@
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1995-01-01",
           "Text": "As at 1995, Yeo Brothers Launch Services Pte Ltd operated 14 launches that could carry more than 12 passengers each and 20 launches that carried fewer than 12 passengers each, and employed 42 workers and more than ten subcontractor boatmen under the operational management of Yeoh Peng Lim."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2003-01-01",
-          "Text": "In 2003, Yeoh Peng Lim filed Originating Summons No 1489 of 2003 seeking inspection of the company’s accounting records with a public accountant."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2004-11-18",
-          "Text": "On 18 November 2004, Yeoh Peng Lim filed Summons in Chambers No 6387 of 2004 seeking an order that the auditors of Yeo Brothers Launch Services Pte Ltd make discovery of documents, including inspection of their audit files."
         }
       ],
       "Issue": "Whether the debit and credit entries and adjustments recorded in the accounts of Yeo Brothers Launch Services Pte Ltd between 1995 and 2001, including entries to the account of Yeoh Peng Lim and related accounts, accurately reflected the underlying cash withdrawals, cash usage, and inter-company balances, and whether those entries should be reversed or reallocated among the directors’ and related parties’ accounts.",
@@ -443,11 +429,6 @@
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "1993-01-01",
-          "Text": "The oral evidence of Mr Sim and his working papers suggested that, at times, Mr Sim would liaise with the First Defendant on the accounts but never with the Plaintiff."
-        },
-        {
-          "Fact_Type": "CONDUCT",
           "Fact_Date": "1998-01-01",
           "Text": "The administrative staff doing work like issuing cheques and invoices were relocated from the Company's office to the First Defendant's office at Tras Street in 1998. The First Defendant's wife, Tan Bee Lan, was one of the staff doing such work."
         },
@@ -507,8 +488,8 @@
       "Application": "The records from the 1980s onwards, Yeo Peng Hay was the person withdrawing cash from the firm’s and later the company’s bank account and handing cash to his brother, while also being involved in other businesses and entertainment of customers. Significant accounting entries were made to his account, including the initial $300,000 debit in November 1995 and the transfer of the Sing-Batam debtor balance of $1,132,785.80 to his account, as well as later credits such as $257,540.28 in 1996 and shared debits of $3,515.03 and $112,198.10 in 1998. These adjustments were recorded in the context of directions from their father and the auditor’s working notes about evening out balances between the brothers. Over the years, both directors signed audited accounts and audit confirmations, and the company’s accounts reflected the evolving balances in their respective loan accounts. When the plaintiff later challenged the entries, the existing documentation and the history of cash withdrawals, entertainment expenses, and inter-company adjustments formed the factual basis for assessing whether the amounts debited to each director’s account, including those affecting Yeo Peng Hay, should be left as recorded or reallocated.",
       "Judicial_Reasoning_Log": "The judge accepted that the first defendant, Yeo Peng Hay, was more familiar with the company’s accounts and that he withdrew cash and used some of it, including for entertainment and other purposes, but concluded that this did not automatically justify reallocating all disputed debits to his account. The judge found that the father controlled the firm and the company while alive and that many of the adjustments, including the transfer of the Sing-Batam debtor balance and the evening out of the brothers’ accounts, were made on the father’s instructions and implemented by the auditor and bookkeeper. The judge determined that the plaintiff had accepted the state of the accounts up to 1999 by signing the audited accounts and audit confirmations, and that the plaintiff’s later challenge did not displace the recorded balances. Although the judge was critical of the auditor and noted that the first defendant likely knew how the shortfalls were used and had taken some of the cash, he was not prepared to conclude that the first defendant had taken all of the shortfall or that the disputed entries should be reversed and debited to the first defendant’s account. Accordingly, the judge dismissed the plaintiff’s claims for reversal of the entries and adjustments and did not impose liability on the first defendant for the amounts in dispute, while leaving open potential challenges by the father’s estate, Sea-Dragon, or the liquidator regarding debits to their accounts."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -656,11 +637,6 @@
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "1993-01-01",
-          "Text": "Mr Sim’s oral evidence and working papers suggested that, at times, he would liaise with the First Defendant on the accounts but never with the Plaintiff."
-        },
-        {
-          "Fact_Type": "CONDUCT",
           "Fact_Date": "1995-01-01",
           "Text": "As at 1995, the Company was operating 14 launches that could carry more than 12 passengers each and 20 launches that carried less than 12 passengers each. The Company employed 42 workers and engaged more than ten subcontractors as boatmen."
         }
@@ -670,7 +646,7 @@
       "Application": "Yeo Brothers Launch Services Pte Ltd recorded recurring cash withdrawals and petty cash shortfalls over several years, which were addressed through journal entries and audit adjustments affecting directors’ and related parties’ accounts, including large debits and credits between the accounts of its two directors and the transfer of a substantial debtor balance from Sing-Batam Ferries Pte Ltd. The company’s audited accounts were signed annually by both directors, and audit confirmations were issued and, in some years, signed. When one director later challenged the entries and sought reversal and reallocation, the company became involved in court proceedings for inspection of records and discovery from its auditors. Ultimately, the parties consented to a winding-up order, and the court considered that any further challenges to debits in the accounts of the father and Sea-Dragon Marine Services Pte Ltd could be pursued by the estate, Sea-Dragon, or the liquidator in the course of the company’s liquidation, rather than through the specific reliefs sought in this action.",
       "Judicial_Reasoning_Log": "After reviewing the background of the company, its ownership by the two brothers, and the pattern of cash withdrawals and accounting adjustments, the judge noted that many of the disputed entries arose from directions given by the father and were implemented by the auditor and bookkeeper to address cash shortfalls and equalise directors’ balances. The judge found that the plaintiff had not established a basis to reverse the entries in his own account up to 1999, given his signatures on audited accounts and audit confirmations, and that he was not the proper party to challenge entries debited to the accounts of the father and Sea-Dragon Marine Services Pte Ltd. However, in light of the parties’ consent and the breakdown in relations, the judge ordered that Yeo Brothers Launch Services Pte Ltd be wound up and appointed the plaintiff’s nominee, Mr Lau Chin Huat, as liquidator. The judge expressly stated that his order would not preclude the estate of the father, Sea-Dragon, or the liquidator from challenging the amounts debited to their respective accounts or taking steps in respect of those accounts during the liquidation. Thus, while the company’s winding up was allowed by consent, the specific claims for reversal of entries and adjustments were dismissed, leaving further account-related issues to be addressed in the liquidation process."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   }
 ]

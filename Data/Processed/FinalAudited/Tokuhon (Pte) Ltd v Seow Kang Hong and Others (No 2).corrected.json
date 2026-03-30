@@ -207,7 +207,7 @@
       "Judicial_Reasoning_Log": "The court reviewed extensive factual findings from the trial, including the history of Tokuhon (Pte) Ltd, the conduct of the three shareholder groups, and the communications between the directors and Tokuhon Corporation or China Merchants. The trial judge had found that the Seows were the beneficial owners of Gamma 2000 (S) Pte Ltd and that the letters sent by Mrs Seow in March and April 2000 did not cause Tokuhon (Pte) Ltd to lose its distributorship. The judge concluded that the real cause of termination was the long-standing inability of the three partners to work together and that sending the letters did not constitute a breach of fiduciary duty in the particular circumstances, given the established practice of all partners sharing internal information with Michael Chien. On appeal, the Court of Appeal accepted the trial judge's assessment of witness credibility, including that of Michael Chien, and agreed that the termination of the distributorship was inevitable due to the breakdown in cooperation among the partners. The court also considered authorities on post-resignation duties of directors and concluded that the factual situation did not involve usurpation of a maturing business opportunity in the sense described in those cases. The court held that, after termination of the distributorship, each partner was effectively competing on an equal footing for appointment as new distributor and that Mrs Seow did not obtain an unfair advantage over the other partners. The court further indicated that, even if a technical breach of duty had been established and causation proven, relief under section 391(1) of the Companies Act would have been appropriate in light of the circumstances. The appeal by Tokuhon (Pte) Ltd was therefore dismissed, and costs orders were made, including that the respondents were entitled to 80% of the costs of the appeal and that submissions would be invited on whether Dr Chang and Ng should personally bear those costs."
     },
     "Label": "Claim Dismissed",
-    "Leakage_Score": 2
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -382,7 +382,7 @@
       "Application": "Gamma 2000 (S) Pte Ltd was incorporated by the Seow family for unrelated product lines and later had its shares transferred to relatives and associates without consideration shortly before it was used as the vehicle for the new Tokuhon distributorship. The distributorship was offered after Tokuhon (Pte) Ltd's distributorship had been terminated and after all three partner groups had approached Tokuhon Corporation seeking appointment.",
       "Judicial_Reasoning_Log": "Tokuhon (Pte) Ltd sought an account of profits from Gamma 2000 (S) Pte Ltd based on the distributorship it obtained, but this claim was abandoned on appeal. The trial judge found that Gamma was effectively controlled for the benefit of the Seows but concluded that the distributorship was not obtained through conduct that caused Tokuhon (Pte) Ltd to lose its distributorship or diverted a maturing business opportunity in the sense described in authorities such as Canadian Aero Services v O'Malley. The Court of Appeal agreed that the termination of Tokuhon (Pte) Ltd's distributorship resulted from long-standing internal conflicts and that, after termination, the competition for the new distributorship was open among the three partner groups. In these circumstances, the court did not impose liability on Gamma 2000 (S) Pte Ltd and upheld the dismissal of claims against it."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   }
 ]

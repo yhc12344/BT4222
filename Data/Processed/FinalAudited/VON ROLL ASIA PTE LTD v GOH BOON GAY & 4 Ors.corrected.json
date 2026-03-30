@@ -128,7 +128,7 @@
       "Judicial_Reasoning_Log": "The court characterised the defendants as conspirators and analysed the elements of unlawful means conspiracy, including combination, intention to injure, unlawfulness of acts, acts in furtherance, and resulting loss. It rejected the defendants' arguments on a higher standard of proof, the need for a predominant purpose to injure in unlawful means conspiracy, and the contention that the tort was outmoded. The judge inferred a conspiracy agreement from undue preferential treatment of the SSI group and the close financial relationship among the conspirators. The judgment treated the termination of Faxolif, appointment of Wecorp and the SSI group, diversion of customers, preferential pricing and credit terms, payment of 4 percent management fees, sale of imitation goods, and rental of excessive warehouse space as unlawful acts in furtherance of the conspiracy. The court found that these acts breached statutory duties under sections 157(1) and 157(2) of the Companies Act and could amount to criminal breach of trust and breach of confidence. It held that the plaintiff suffered loss from diverted customers, unnecessary commissions, excessive warehouse rental, and lost profits from imitation goods, and allowed these heads of loss with quantum to be assessed. On directors' duties, the court applied an objective test of honesty and reasonable diligence, concluded that the first defendant acted dishonestly and made improper use of his position, and held him liable under section 157(3)(a) for profits and damage. The court found a breach of the no-profit rule in relation to the Bombardier commission kickback and ordered an account of profits for that sum. For dishonest assistance, the court held that the third defendant, controlled by the fifth defendant, assisted the first defendant's breaches dishonestly and was liable for losses and, in the alternative, for an account of profits. Relying on English authority such as Novoship, the court accepted that a dishonest assistant can be ordered to account for profits even where loss is not coextensive with gain, subject to a causal link and judicial discretion. The court concluded that the conspiracy claim succeeded, that the first defendant was in breach of fiduciary duties, and that the third defendant was liable for dishonest assistance, and ordered damages and/or an account of profits to be assessed, with the plaintiff to elect between remedies."
     },
     "Label": "Claim Allowed",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -219,11 +219,6 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2009-06",
-          "Text": "Huang Wei stated that Jason Lim Keng Huat told him to refer to Anson Goh Boon Gay as 'Henry' in internal Semi-Solution emails and in some communications involving Von Roll Asia Pte Ltd, and that 'Henry' would appear in Semi-Solution internal emails."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2009-06",
           "Text": "An email from Jason Lim Keng Huat within the Semi-Solution group referred to payments that were due to 'Henry' for contributions to the Semi-Solution business."
         },
         {
@@ -245,11 +240,6 @@
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2010",
           "Text": "Under the arrangement for Bombardier ChangZhou Power, Von Roll Asia Pte Ltd paid an 8 percent commission on sales, of which 5 percent was treated as the agent's commission and 3 percent was treated as an additional commission component."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2010",
-          "Text": "Huang Wei testified that he passed an unsealed envelope containing about RMB50,000 to the 1st Defendant after Chinese New Year, representing part of the commission from the Bombardier matter."
         }
       ],
       "Issue": "Whether Anson Goh Boon Gay, as director and Regional Head of Sales for Asia of Von Roll Asia Pte Ltd, engaged in coordinated conduct with entities in the Semi-Solution group and others that resulted in diversion of business, payment structures, and other arrangements affecting Von Roll Asia Pte Ltd's revenues and costs, and whether he is responsible for resulting financial consequences.",
@@ -258,7 +248,7 @@
       "Judicial_Reasoning_Log": "The court held that Anson Goh Boon Gay was a central participant in an unlawful means conspiracy with the other defendants to injure Von Roll Asia Pte Ltd. It inferred a conspiracy agreement from his preferential treatment of the SSI group, including diversion of customers, extended credit terms, and lower prices, and from the close financial relationship evidenced by the 'Henry' alias and internal SSI emails. The judge rejected the defendants' explanations for terminating Faxolif, appointing Wecorp and the SSI group, and paying 4 percent management fees, finding them commercially irrational and unsupported by evidence. The court concluded that the preparatory steps, diversions, commissions, sale of imitation goods, and excessive warehouse rental were unlawful acts in furtherance of the conspiracy and that they breached section 157(1) and section 157(2) of the Companies Act. It considered that the warehouse arrangement could amount to criminal breach of trust and that the use of confidential technical information for imitation goods could amount to breach of confidence. On directors' duties, the court applied an objective test of honesty and reasonable diligence and found that no honest and intelligent director could reasonably regard the impugned transactions as in the company's interests. It held that his participation in the conspiracy meant he did not act honestly and that he made improper use of his position to benefit himself and others and to cause detriment to the company, thereby incurring liability under section 157(3)(a). Regarding the Bombardier commission, the court accepted Huang Wei's unchallenged evidence that RMB50,000 in cash was passed to Anson Goh Boon Gay as a kickback from the 8 percent commission, and treated this as a secret profit in breach of the no-profit rule. The court ordered him to account for profits from his breaches, including the kickback, and held him liable for damages suffered by the plaintiff as a result of his conduct."
     },
     "Label": "Liable",
-    "Leakage_Score": 2
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -328,6 +318,6 @@
       "Judicial_Reasoning_Log": "The court treated Semi-Solution Inc (Singapore) Pte Ltd as one of the corporate vehicles through which the conspiracy was implemented. It found that the company, under the control of Jason Lim Keng Huat, received 4 percent management fees and warehouse rental payments that did not correspond to Von Roll Asia Pte Ltd's actual needs. The judge inferred that the excessive warehouse rental was arranged so that spare space could be used by the Semi-Solution group at the plaintiff's expense. The court held that the Semi-Solution group benefited from diverted customers and preferential terms and that these benefits were the product of unlawful means conspiracy and breaches of directors' duties by Anson Goh Boon Gay. For dishonest assistance, the court imputed Jason Lim Keng Huat's knowledge to the Semi-Solution companies and concluded that their assistance in the diversion of customers, commission structures, warehouse arrangements, and product mixing was dishonest. It held that the third defendant was liable for losses arising from its dishonest assistance and, in the alternative, for an account of profits, applying principles that allow a dishonest assistant to be ordered to disgorge profits causally linked to the assistance. The court left quantum and the plaintiff's election between damages and account of profits to be determined at a later assessment."
     },
     "Label": "Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   }
 ]

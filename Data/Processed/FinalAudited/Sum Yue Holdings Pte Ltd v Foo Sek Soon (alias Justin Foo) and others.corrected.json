@@ -189,11 +189,6 @@
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2006-10-03",
           "Text": "On 2006-10-03, Lim's solicitors wrote to Bob's solicitors enclosing a draft sale and purchase agreement for the sale of Bob's shares in SYEI, which contained a clause that upon completion Bob would have no claims against Lim and/or SYEI and/or the plaintiff."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008-01-07",
-          "Text": "The plaintiff commenced this suit on 2008-01-07."
         }
       ],
       "Issue": "Whether, before the dispute, the transfer of the NH Glass project and related payments and use of premises and resources created a conflict between Sum Yue Holdings Pte Ltd and the defendants regarding responsibility for project work and entitlement to project revenues and materials.",
@@ -202,7 +197,7 @@
       "Judicial_Reasoning_Log": "The court reviewed extensive evidence including witness testimony, minutes of meetings, correspondence, financial records and expert reports. The judge found Lim Men See to be an unreliable and untruthful witness and rejected his account, while accepting the evidence of the defendants and of Chow Chee Meng as credible. The court accepted that Lim and Ronald intended to close down the plaintiff’s operations, that they indicated Justin and Peter could start their own company and rent space at the plaintiff’s premises, and that the third defendant conducted its business openly from those premises with the plaintiff’s knowledge. The judge concluded that Justin and Bob did not breach fiduciary duties as directors and that Theresa, Richard and Peter did not breach duties as employees. The court found no conspiracy between the defendants and no dishonest assistance by the third or seventh defendants. The claims for $20,000 and $90,000 were found to relate to loans from Chow used to pay subcontractors, and the claim for $124,564.83 in materials was not substantiated as the materials were partly used for another project. The court held that allowing the plaintiff to recover the remaining 75% of the NH Glass project value would unjustly enrich the plaintiff because the plaintiff did not perform that work and the third defendant assumed the obligations and completed the project. The allegation that defendants removed hard disks was rejected. The action was found to be unmeritorious and brought in bad faith, and the plaintiff’s claims against all seven defendants were dismissed with costs."
     },
     "Label": "Claim Dismissed",
-    "Leakage_Score": 2
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -303,11 +298,6 @@
           "Text": "On 2005-02-23, Latrade Automation Pte Ltd was incorporated with Justin Foo and Theresa Ang as its shareholders and directors while both were still working for Sum Yue Holdings Pte Ltd."
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2005-03-11",
-          "Text": "On 2005-03-11, Latrade Automation Pte Ltd issued invoice no. 238801/05 for $20,000 to Sam Hui Engineering Works and Service at Chow Chee Meng’s request, and the invoice date was later described as backdated."
-        },
-        {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2005-03-09",
           "Text": "On 2005-03-09, Sum Yue Holdings Pte Ltd issued a note to SLS, a subcontractor, recording payment of $20,000 for labour, with a project reference initially marked as NH Glass and corrected to SIS, and job number 10481 for the SIS project."
@@ -346,11 +336,6 @@
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2005-04-13",
           "Text": "On 2005-04-13, Justin Foo attended a meeting with representatives of NH Glass and Chow Chee Meng and signed minutes on behalf of Sum Yue Holdings Pte Ltd agreeing to a schedule of works and potential penalty charges for delay."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2005-04-23",
-          "Text": "On 2005-04-23, Latrade Automation Pte Ltd issued invoice no. 238808/05 to Sam Hui Engineering Works and Service for $225,000 for the NH Glass project, recording deductions of $20,000 and $90,000 as first and second progressive payments and a balance of $115,000 plus GST."
         },
         {
           "Fact_Type": "BOARD_ACTION",
@@ -404,7 +389,7 @@
       "Judicial_Reasoning_Log": "The court accepted that Justin Foo was credible and that his account of events, including the incorporation and operation of Latrade Automation Pte Ltd and the transfer of the NH Glass project, was corroborated by other defendants and by Chow Chee Meng. The judge found that Lim Men See and Ronald intended to close down the plaintiff’s operations, that they encouraged Justin and Peter to set up their own company and allowed them to rent space at the plaintiff’s premises, and that the third defendant’s activities at the premises were conducted openly with the plaintiff’s knowledge. The court held that Justin Foo did not breach fiduciary duties as a director in arranging for the third defendant to take over the NH Glass project because the plaintiff was not in a position to complete the project and the transfer was effectively authorised or acquiesced in by Lim. The court rejected the plaintiff’s claims that Justin Foo wrongfully received $20,000 and $90,000, accepting instead that these sums were loans from Chow used to pay subcontractors and were reimbursed or accounted for. The judge concluded that Justin Foo was not liable for conspiracy, misdirection of business or misuse of company resources and dismissed the claims against him."
     },
     "Label": "Not Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -446,23 +431,8 @@
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2005-03-11",
-          "Text": "On 2005-03-11, Latrade Automation Pte Ltd issued invoice no. 238801/05 for $20,000 to Sam Hui Engineering Works and Service. The invoice was later described as backdated."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2005-03-17",
-          "Text": "On 2005-03-17, Latrade Automation Pte Ltd issued invoice no. 238802/05 to Sam Hui Engineering Works and Service for $90,000 as a 30% progress payment for the NH Glass project. The invoice was later described as backdated."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2005-03-31",
           "Text": "On 2005-03-31, Justin Foo wrote to Chow to confirm that the third defendant would take over the NH Glass project for $225,000."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2005-04-02",
-          "Text": "On 2005-04-02, Chow's evidence was that the third defendant took over the NH Glass project under an agreement dated 2 April 2005 and assumed an obligation to pay liquidated damages for delay at 10% per diem of the contract price."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
@@ -528,7 +498,7 @@
       "Judicial_Reasoning_Log": "The court accepted Theresa Ang’s evidence that she accurately recorded minutes of meetings and that those minutes reflected the participation of Lim Men See and Ronald in decisions to cease operations, sell the premises and allow new companies to operate from the plaintiff’s premises. The judge found no basis to conclude that Theresa Ang breached any duties as an employee or that she participated in a conspiracy to divert business. The claims against her were dismissed."
     },
     "Label": "Not Liable",
-    "Leakage_Score": 2
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -585,7 +555,7 @@
       "Judicial_Reasoning_Log": "The court accepted Richard Lim’s evidence that some materials ordered by the plaintiff were used for the SIS project and that he had handed over all project documents to the plaintiff, which then did not produce them to substantiate its claim that all materials were used for the NH Glass project. The judge found no basis to hold Richard Lim liable for any alleged misallocation of materials or participation in conspiracy, and dismissed the claims against him."
     },
     "Label": "Not Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -656,8 +626,8 @@
       "Application": "Peter Lim joined the plaintiff in November 2004 and later became involved in arrangements where the plaintiff considered ceasing operations and selling its premises. Meeting minutes and correspondence he was allowed to continue similar business through a new company, rent the plaintiff’s premises, purchase a company lorry, and receive transfers of two projects. He also advanced funds to pay employee salaries when the plaintiff did not pay them. These pre-dispute events define how business activities and certain assets were shifted from the plaintiff to Peter Lim’s operations.",
       "Judicial_Reasoning_Log": "The court found that Peter Lim acted within the framework of decisions made by Lim Men See and Ronald to cease the plaintiff’s operations, sell its premises and allow new companies to rent space and take over projects and assets. The judge held that Peter Lim did not owe fiduciary duties as a director and that his conduct in renting premises, acquiring a lorry and taking over projects was consistent with management’s decisions. The claims against Peter Lim were dismissed."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -714,7 +684,7 @@
       "Judicial_Reasoning_Log": "The court accepted that Bob Lim acted within the management framework established by Lim Men See and Ronald and that he sought to manage the transition of projects and staff, including Justin Foo’s continued involvement to complete projects. The judge found no breach of fiduciary duties by Bob Lim and no participation in any conspiracy to harm the plaintiff. The claims against him were dismissed."
     },
     "Label": "Not Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -747,11 +717,6 @@
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2005-03-11",
-          "Text": "On or about 2005-03-11, the third defendant issued invoice no. 238801/05 for $20,000 to Chow Chee Meng; Chow paid Justin Foo, and the sum was later reimbursed by Sum Yue Holdings Pte Ltd to Justin Foo for payment made to SLS for labour on the SIS project."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2005-04-02",
           "Text": "On 2005-03-17, the third defendant issued invoice no. 238802/05 for $90,000 to Chow Chee Meng as a 30% progress payment for the NH Glass project; Chow paid Justin Foo, and the sum was later reflected in invoice no. 238808/05 dated 23 April 2005."
         },
@@ -771,7 +736,7 @@
       "Application": "Sam Hui Engineering Works and Service first contracted with Sum Yue Holdings Pte Ltd for the NH Glass project and paid a 25% deposit. After delays and communications from Justin Foo, it signed a cancellation letter for the original purchase order and entered into a new agreement with Latrade Automation Pte Ltd for $225,000 with liquidated damages provisions. It then made payments corresponding to Latrade Automation Pte Ltd’s invoices and had the project completed by that company. These pre-dispute events define its role as a customer that shifted its contractual relationship from Sum Yue Holdings Pte Ltd to Latrade Automation Pte Ltd.",
       "Judicial_Reasoning_Log": "The court found that Chow Chee Meng acted as a customer concerned with timely completion of the NH Glass project and that he relied on Justin Foo’s representations about technical and timing issues. The judge accepted that Chow signed the cancellation letter and contracted with Latrade Automation Pte Ltd to avoid delay penalties, and that he paid all invoices issued by the third defendant. The court held that Chow did not conspire with the other defendants or dishonestly assist in any breach of duty and that he was an innocent party added to the suit. The claims against the seventh defendant were dismissed."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   }
 ]

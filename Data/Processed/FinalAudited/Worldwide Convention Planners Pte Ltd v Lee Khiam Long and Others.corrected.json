@@ -63,7 +63,7 @@
       "Judicial_Reasoning_Log": "The judge assessed the plaintiff's claims of breaches of fiduciary duties and found them unmeritorious and lacking in proof. The court considered that Air Sino Euro Associates Travel Pte Ltd, through its owner Mr See, was effectively the real plaintiff and that the plaintiff relied heavily on the evidence of Mr Gilbert Goh, whose evidence the judge found unreliable. The judge noted that any representations to Mr See about the plaintiff would have been made by Mr Gilbert Goh and that clause 2 of the 8 September 2006 share sale agreement showed that the property had been sold and that the sale was ratified by all three shareholders, including Mr Goh. The judge concluded that ASA bought and paid for the shares without the property and rejected Mr See's allegation that he was misled by the company's accounting records, finding no expert accounting evidence to show that the accounts were improperly kept or that the payment of $510,000 as dividends was wrongful. The judge accepted the evidence of the company secretary, Miss Neo, and held that the basic claims that the accounts were falsely recorded or that the property was sold to the disadvantage of the plaintiff were not proved. The judge therefore dismissed the plaintiff's claim. The judge also accepted the first defendant's evidence on his counterclaim for $111,122.25 and granted judgment on that counterclaim, noting that no officer from the plaintiff challenged his evidence and that his documentary support was not challenged. As to the fourth defendant, the judge found that failure to execute the tenancy agreement alone was insufficient to prove trespass and dismissed the trespass counterclaim, but allowed the fourth defendant's claim in respect of the wrongful caveat lodged on 26 September 2006 and ordered damages, if any, to be assessed."
     },
     "Label": "Claim Dismissed",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -148,7 +148,7 @@
       "Application": "The second defendant held 180,000 shares in the plaintiff company through the first defendant and later decided to give up these shares, indicating to shareholder Gilbert Goh that he would sell them and allow Goh to keep the proceeds. The property at Neil Road, owned by the plaintiff, was sold on 27 July 2006 to the second defendant and his son through the fourth defendant for $2,050,000, with completion on 29 January 2007. On 8 September 2006, an agreement was entered into for the sale of 234,000 shares, including the second defendant's beneficial shares, to Air Sino Euro Associates Travel Pte Ltd, with the agreement expressly recording that the property had already been sold and that the sale was ratified by all three shareholders. These events formed the basis for later challenges to the second defendant's conduct in relation to the company's financial position.",
       "Judicial_Reasoning_Log": "The judge considered the plaintiff's allegations that the second defendant was involved in conduct that disadvantaged the company through the sale of the property and related financial transactions. The court accepted the submission of counsel for the second, third, and fourth defendants that even if the payment of $510,000 as dividends were wrongful, the second defendant's exposure would be limited and would require amendments to the pleadings, which were not made. The judge found that there was no expert accounting evidence to show that the accounts were falsely recorded or that the property was sold to the disadvantage of the plaintiff. The judge concluded that the basic claims against the second defendant were not proved and therefore did not impose liability on him."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
@@ -189,7 +189,7 @@
       "Application": "The third defendant, as the son of the second defendant, jointly purchased the plaintiff's property at Neil Road through the fourth defendant for $2,050,000, with completion on 29 January 2007. This acquisition formed part of the transactional background to the plaintiff's later challenge to the sale of the property and related financial outcomes.",
       "Judicial_Reasoning_Log": "The judge considered the role of the third defendant as a purchaser of the property together with the second defendant through the fourth defendant. The court found that the transaction for the sale and purchase of the property was validly and properly completed, based on the evidence of the solicitor, Mr Justine Wee, and that there was no basis to attribute bad faith to the parties merely because the vendor and purchaser agreed to a longer time to complete. The judge concluded that the plaintiff had not proved that the sale of the property was to the disadvantage or prejudice of the plaintiff and did not impose liability on the third defendant."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
@@ -235,7 +235,7 @@
       "Application": "Chris Lyn Investment Pte Ltd acted as the purchasing entity for the property at Neil Road on behalf of the second and third defendants, with completion on 29 January 2007. After acquisition, it treated Worldwide Convention Planners Pte Ltd as an occupier and offered a tenancy agreement that was not executed. A caveat was lodged on 26 September 2006 in relation to the property. These events formed the basis for later disputes about occupation, trespass, and the propriety of the caveat.",
       "Judicial_Reasoning_Log": "The judge considered the fourth defendant's counterclaims relating to alleged trespass by the plaintiff and a wrongful caveat. The court found that the failure by the plaintiff to execute the tenancy agreement offered by the fourth defendant was not sufficient evidence of trespass and dismissed the trespass counterclaim. However, the judge accepted that the fourth defendant had a valid claim in respect of a wrongful caveat lodged on 26 September 2006 and ordered that damages, if any, be assessed. Thus, the fourth defendant's claim regarding the wrongful caveat was allowed, while its trespass claim was dismissed."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   }
 ]

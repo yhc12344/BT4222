@@ -19,307 +19,46 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1986-01-01",
-          "Text": "Ng Tang Hock is a successful self-made businessman. His first wife passed away in 1989, leaving behind two children, Ng Jin Xiang Kevin, born in 1986, and Ng Pei Xia Jeanette, born in 1988."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1988-01-01",
-          "Text": "Ng Tang Hock's first wife passed away in 1989, leaving behind their two children Kevin and Jeanette; Jeanette was born in 1988."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1989-01-01",
-          "Text": "Ng Tang Hock's first wife passed away in 1989, leaving behind two children, Ng Jin Xiang Kevin and Ng Pei Xia Jeanette."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1989-01-01",
-          "Text": "Ng Tang Hock came to know Wendy in 1989."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1990-01-01",
-          "Text": "In 1990, Wendy was employed as an accounts assistant in Ti-Lek Trading and Ti-Lek Petroleum Pte Ltd, which were owned by Ng Tang Hock."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1990-01-01",
-          "Text": "Ng Tang Hock and Wendy started a relationship in 1990."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1993-01-01",
-          "Text": "Shirlyn was born in 1993."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1995-01-01",
-          "Text": "Eugene was born in 1995."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "1995-06-21",
-          "Text": "Ng Tang Hock and Wendy were married on 21 June 1995."
+          "Text": "Ng Tang Hock married Chew Kar Lay Wendy on 21 June 1995."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1996-05-22",
-          "Text": "Teelek Realty was incorporated in Singapore on 22 May 1996 as an investment holding company. It holds commercial and residential properties. At inception, the plaintiff and Wendy each held 50% of the shares in the company and both were also directors of the company."
+          "Text": "Ng Tang Hock co-founded Teelek Realty Pte Ltd in 1996 with Wendy. At inception, they each held 50% of the shares and were both directors."
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2006-03-01",
-          "Text": "Sometime in March 2006, the plaintiff discovered that Wendy had a relationship with another man, Eric, and a woman, Carol."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-01-01",
-          "Text": "Sometime in 2011, the plaintiff and Wendy started to talk about divorce and the division of matrimonial assets."
-        },
-        {
-          "Fact_Type": "CONDUCT",
+          "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2011-08-15",
-          "Text": "As of 15 August 2011, the total amount of the loans from the plaintiff to Teelek Realty stood at $12,564,000."
+          "Text": "By August 2011, Ng Tang Hock had advanced interest-free unsecured loans totaling $12,564,000 to Teelek Realty."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2011-09-11",
-          "Text": "On 11 September 2011, Wendy left the matrimonial home with Shirlyn and Eugene."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2011-09-13",
-          "Text": "On 13 September 2011, the plaintiff transferred his shares in Mingsen to Wendy and ceased to be a director of Mingsen."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2011-09-13",
-          "Text": "On 13 September 2011, Mingsen held fixed deposits of US$22,580,000 and RMB44,815,716.26 with Standard Chartered Bank in Hong Kong, both maturing on 17 November 2011, and US$13,505,608.73 with HSBC Private Bank Hong Kong."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2011-09-13",
-          "Text": "The plaintiff also gave Wendy sole control of an account with Citibank, N.A. London Branch, which held more than £1.3m."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-09-13",
-          "Text": "The plaintiff retained ownership of the Panama Companies and the Teelek Companies."
+          "Text": "In September 2011, the marital relationship between Ng Tang Hock and Wendy broke down, leading to their separation."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2011-10-01",
-          "Text": "On 1 October 2011, Wendy caused the Loans to be reclassified in Teelek Realty's general ledger as loans owing by Teelek Realty to her instead of to the plaintiff."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-11-09",
-          "Text": "On or about 10 November 2011, the plaintiff discovered that Wendy had been having an affair with Jason Chai Eng Yeow."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2011-11-12",
-          "Text": "On 12 November 2011, the plaintiff met with Shirlyn and Eugene at West Coast Plaza because Shirlyn and Eugene were asking for their maintenance, and he wrote a note stating that he still owed them $8,000."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2011-11-14",
-          "Text": "On 14 November 2011, Wendy filed for divorce."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2011-11-09",
-          "Text": "On 9 November 2011, the plaintiff incorporated Goodtree Investment Pte Ltd. The plaintiff held 40% of the shares in Goodtree while Kevin and Jeanette each held 30%. All three of them were appointed as directors of Goodtree."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2011-11-25",
-          "Text": "On 25 November 2011, Goodtree entered into a sale and purchase agreement to buy two units at 192 Pandan Loop, Pantech Business Hub, Singapore from Teelek Realty for $2.8m."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-01-01",
-          "Text": "The sale was completed in January 2012."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-01-03",
-          "Text": "On 3 January 2012, an interim judgment dissolving the marriage was granted in the divorce proceedings."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-01-27",
-          "Text": "Titles to the Pantech Properties were transferred to Goodtree on 27 January 2012."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-05-29",
-          "Text": "On 29 May 2012, Goodtree entered into a sale and purchase agreement to buy one unit at 11 Collyer Quay, The Arcade, Singapore from Teelek Realty for $15m."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-07-24",
-          "Text": "The sale was completed on 24 July 2012."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-08-02",
-          "Text": "Title to the Arcade Property was transferred to Goodtree on 2 August 2012."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-08-01",
-          "Text": "On 1 August 2012, a consent ancillaries order was made in the divorce proceedings. In summary, it provided for joint custody of Shirlyn and Eugene with Wendy having care and control, monthly maintenance of $2,500 for each child, division of specified jointly owned properties, a transfer of $1,688,050 from the plaintiff's CPF account to Wendy, Wendy's retention of a joint Standard Chartered Bank account, and that Wendy and the plaintiff would henceforth retain all other assets in their names."
+          "Text": "On 1 October 2011, the $12,564,000 loans previously recorded as owing to Ng Tang Hock were reclassified in the company ledger as loans owing to Wendy."
         },
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2012-08-07",
-          "Text": "On 7 August 2012, the plaintiff resigned as a director of Teelek Realty and Shirlyn was appointed as a director in his place."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-08-21",
-          "Text": "On 21 August 2012, the dissolution of the plaintiff's marriage to Wendy was made final."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2014-09-01",
-          "Text": "On 1 September 2014, Eugene was appointed as a director of Teelek Realty."
+          "Text": "On 7 August 2012, Ng Tang Hock resigned as a director of Teelek Realty, and his daughter Shirlyn was appointed to the board in his place."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2015-07-01",
-          "Text": "In July 2015, Wendy transferred one share in Teelek Realty to each of Shirlyn and Eugene."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2015-07-28",
-          "Text": "The Board of Directors of Teelek Realty, comprising Wendy, Shirlyn and Eugene, approved the transfers on 28 July 2015."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2017-05-26",
-          "Text": "A notice of Teelek Realty's 20th Annual General Meeting was issued on 26 May 2017."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2017-08-03",
-          "Text": "A subsequent notice dated 3 August 2017 was issued for the adjourned meeting to be held on 22 August 2017. This notice included a new proposed resolution to authorise Teelek Realty's directors to allot and issue shares (Resolution 6)."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2017-08-17",
-          "Text": "On 17 August 2017, the plaintiff commenced the present action."
+          "Text": "In July 2015, Wendy transferred one share in Teelek Realty to each of her children, Shirlyn and Eugene, without issuing a transfer notice to Ng Tang Hock."
         }
       ],
-      "Issue": "Whether, based only on pre-dispute events, the conduct of Teelek Realty Pte Ltd's affairs and specific corporate and financial actions affecting shareholding, loans, and meetings created a conflict between Ng Tang Hock and the defendants regarding repayment of director loans, share transfers, directorships, and management of the company.",
-      "Rule": "In company and commercial disputes, outcomes often depend on whether corporate records, contracts, and board or shareholder actions taken before the dispute comply with statutory requirements, company constitutions, and agreed arrangements, and whether those actions alter shareholdings, control, or financial positions in a way that affects a party's economic and governance interests.",
-      "Application": "The pre-dispute facts Ng Tang Hock and Chew Kar Lay Wendy each initially held 50% of Teelek Realty Pte Ltd and were both directors, that Ng Tang Hock advanced substantial interest-free unsecured sums to the company recorded as director loans, and that on 2011-10-01 the internal ledger entries were changed so that these loans were recorded as owing to Wendy instead of to him. After the couple separated and divorce proceedings began, Teelek Realty sold significant properties to Goodtree Investment Pte Ltd, a company controlled by Ng Tang Hock and his children from his first marriage, while Teelek Realty remained jointly owned by Ng Tang Hock and Wendy. Following the 2012 consent ancillaries order, Ng Tang Hock resigned as director and their children Shirlyn and Eugene later became directors, and in 2015 Wendy executed and procured board approval of share transfers of one share each to Shirlyn and Eugene without involving Ng Tang Hock in the board process. In 2017, the company convened and adjourned its 20th AGM, later issuing a notice for an adjourned meeting that included a proposed general share issuance authority, and Ng Tang Hock responded by commencing proceedings and seeking injunctive relief. These events collectively altered the recording of loans, the composition of the board, the distribution of shares, and the handling of meetings in ways that affected Ng Tang Hock's recorded creditor position and his position as a 50% shareholder, setting up the later dispute over loans, share transfers, directorships, and management.",
-      "Judicial_Reasoning_Log": "The court dismissed the plaintiff's direct claim for repayment of the loans on limitation grounds, holding that the loans were time-barred under section 6(1) of the Limitation Act and that later references in ledgers and affidavits did not amount to valid acknowledgments under sections 26 and 27. The court rejected the plaintiff's attempt to recover SGD 12,564,000 from Wendy via a common law derivative action because the pleadings did not properly disclose a derivative claim. On the loans, the judge found that Wendy had wrongfully reclassified the loans from the plaintiff as loans from herself without contemporaneous documentation, that her explanations were inconsistent and lacked credibility, and that the alleged agreement by the plaintiff to waive the loans in her favour was a fabrication. The court held that the audit confirmation signed by the plaintiff in July 2012 evidenced a waiver of the loans as between him and the company but did not prove any waiver in favour of Wendy, and it rejected Wendy's account that the plaintiff knew of and agreed to her corresponding audit confirmation. On the share transfers, the court held that Wendy's 2015 transfers of one share each to Shirlyn and Eugene were in clear contravention of Teelek Realty's Articles of Association because no transfer notice was given and the plaintiff's right of first refusal was bypassed; the transfers were declared invalid and ordered cancelled. The court declined to strike off Wendy, Shirlyn, and Eugene as directors, finding no legal basis for such an order and noting that the issue was moot in light of the winding-up order. On the oppression claim under section 216 of the Companies Act, the court found that Wendy had wrongfully reclassified the loans and withdrawn SGD 12,564,000, had caused share transfers in breach of the Articles, had dispensed with physical AGMs without the plaintiff's agreement for certain years, had failed to provide audited accounts for FY2016 within a reasonable time before the 20th AGM, had attempted to proceed with Resolution 6 for a general share issuance authority in disregard of article 60, and had treated Teelek Realty's bank accounts as conduits for her own and related entities' funds, with some minor losses to the company and an overdrawn loan account. The judge held that these acts constituted breaches of directors' duties by Wendy and that Shirlyn and Eugene, though passive, had also breached their duties by leaving management entirely to Wendy and disregarding the plaintiff's interests. Applying the framework in Ho Yew Kong, the court concluded that the plaintiff's section 216 claim was not an abuse of process despite overlapping corporate wrongs, because the real injury was to his interests as a shareholder and the essential remedy sought was an exit remedy available only under section 216. The court found that the conduct amounted to a visible departure from standards of fair dealing and commercial unfairness, and therefore allowed the oppression claim. Instead of ordering a buyout, the court ordered that Teelek Realty be wound up, reasoning that a winding-up would allow liquidators to investigate the accounts and that Teelek Realty was an investment holding company without operating business. The court also exercised its remedial discretion under section 216 to order Wendy to return SGD 12,564,000 to Teelek Realty and to rectify the accounts accordingly. The plaintiff's conspiracy claim was dismissed because no agreement among Wendy, Shirlyn, and Eugene to injure the plaintiff or the company was properly pleaded or proved. On the counterclaims, the court rejected the alleged Trust Agreement under which the plaintiff was said to hold his shares on trust for Shirlyn and Eugene and to have agreed to transfer them at a later age and to waive loans in favour of Wendy. The judge found Wendy's evidence on the timing and terms of the alleged trust to be inconsistent and evolving, and held that contemporaneous emails and draft trust documents from 2013 and 2014 showed that no such binding trust had been agreed by 2011 or 2012. The court also noted that the Ancillaries Order and related divorce correspondence made no mention of any trust over the plaintiff's shares. The judge found Wendy to be an unreliable witness, citing her explanations about the meaning of 'JCWC' and the timing of her relationship with Jason Chai as further credibility issues. The alternative estoppel claim by Shirlyn and Eugene was also rejected because the alleged representation at the West Coast Plaza meeting was too vague to amount to a promise to transfer shares, their accounts of the statement were inconsistent, the plaintiff continued to pay maintenance after the meeting, and they had not acted to their detriment in reliance on the alleged representation. In conclusion, the court dismissed the plaintiff's loan repayment claim, his derivative claim for SGD 12,564,000, his request to strike off directors, and all counterclaims, but granted relief under section 216 by ordering the winding up of Teelek Realty and restitution by Wendy of SGD 12,564,000 to the company, and awarded the plaintiff costs of the action (excluding the loan repayment claim) against Wendy, Shirlyn, and Eugene."
+      "Issue": "Whether the internal reclassification of director loans and the transfer of shares to family members, conducted without the participation or consent of a 50% shareholder, constitute a departure from fair dealing.",
+      "Rule": "Under Section 216 of the Companies Act, a shareholder may seek relief where the affairs of the company are being conducted in a manner oppressive to a member or in disregard of their interests.",
+      "Application": "A co-founder provided the entirety of the start-up capital for an investment company. Following a domestic breakdown, the other director reclassified his substantial loans to her own credit and diluted his voting power by transferring shares in breach of the company's Articles of Association. The company also stopped holding formal meetings or providing audited accounts, altering the governance and economic balance of the entity.",
+      "Judicial_Reasoning_Log": "The court found that Wendy had wrongfully reclassified the plaintiff's loans as loans from herself without any genuine agreement or proper accounting entries. The judge held that her subsequent withdrawal of SGD 12,564,000 from the company on the basis of that reclassification was a misappropriation of company funds. Regarding the share transfers, the court concluded that Teelek Realty's Articles required a transfer notice and a right of first refusal for the other shareholder, and that the 2015 transfers were in clear breach of these Articles. In assessing the oppression claim, the court held that Teelek Realty's affairs had been conducted in a manner that disregarded the plaintiff's interests, including the loan reclassification, the invalid share transfers, and the failure to hold physical AGMs. The judge held that these acts constituted breaches of directors' duties. Instead of ordering a buyout, the court ordered that Teelek Realty be wound up to allow independent liquidators to investigate the accounts and affairs, and ordered Wendy to return SGD 12,564,000 to the company."
     },
     "Label": "Claim Allowed",
-    "Leakage_Score": 1
-  },
-  {
-    "Metadata": {
-      "Case_Number": "Suit No 758 of 2017",
-      "Coram": "High Court — Suit No 758 of 2017",
-      "Judge": "Chua Lee Ming J",
-      "Date": "2020-10-08",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
-    },
-    "Party_Details": {
-      "Role": "Defendant",
-      "Name": "Teelek Realty Pte Ltd",
-      "Law_Firm": "OTP Law Corporation",
-      "Counsel": [
-        "Lim Seng Siew",
-        "Isabel Chew-Lau"
-      ],
-      "Facts": [
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1996-05-22",
-          "Text": "Teelek Realty was incorporated in Singapore on 22 May 1996 as an investment holding company. It holds commercial and residential properties."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1996-05-22",
-          "Text": "At inception, the plaintiff and Wendy each held 50% of the shares in the company and both were also directors of the company."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-08-15",
-          "Text": "As of 15 August 2011, the total amount of the loans from the plaintiff to Teelek Realty stood at $12,564,000."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2011-10-01",
-          "Text": "On 1 October 2011, Wendy caused the Loans to be reclassified in Teelek Realty’s general ledger as loans owing by Teelek Realty to her instead of to the plaintiff."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2011-11-25",
-          "Text": "On 25 November 2011, Goodtree entered into a sale and purchase agreement to buy two units at 192 Pandan Loop, Pantech Business Hub, Singapore from Teelek Realty for $2.8m."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-01-01",
-          "Text": "The sale was completed in January 2012."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-01-27",
-          "Text": "Titles to the Pantech Properties were transferred to Goodtree on 27 January 2012."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-05-29",
-          "Text": "On 29 May 2012, Goodtree entered into a sale and purchase agreement to buy one unit at 11 Collyer Quay, The Arcade, Singapore from Teelek Realty for $15m."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-07-24",
-          "Text": "The sale was completed on 24 July 2012."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-08-02",
-          "Text": "Title to the Arcade Property was transferred to Goodtree on 2 August 2012."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2012-08-07",
-          "Text": "On 7 August 2012, the plaintiff resigned as a director of Teelek Realty and Shirlyn was appointed as a director in his place."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2014-09-01",
-          "Text": "On 1 September 2014, Eugene was appointed as a director of Teelek Realty."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-07-01",
-          "Text": "In July 2015, Wendy transferred one share in Teelek Realty to each of Shirlyn and Eugene."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2015-07-28",
-          "Text": "The Board of Directors of Teelek Realty (comprising Wendy, Shirlyn and Eugene) approved the transfers on 28 July 2015."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-12-31",
-          "Text": "Teelek Realty’s accounts for FY2012 and FY2013 showed amounts owing to 'a director'."
-        }
-      ],
-      "Issue": "Whether, based on pre-dispute corporate and financial events, Teelek Realty Pte Ltd's internal recording of director loans, property sales to a related company, share transfers, director appointments, and AGM procedures created a conflict over loan obligations, share ownership, and governance between the company and its shareholder Ng Tang Hock.",
-      "Rule": "Company outcomes in disputes over loans, shareholding, and governance typically turn on whether the company has maintained accurate records of director and shareholder transactions, complied with its Articles of Association and statutory requirements for share transfers, director appointments, and meetings, and treated related-party transactions and internal reclassifications in a manner consistent with agreed rights and corporate law standards.",
-      "Application": "The pre-dispute record shows that Teelek Realty Pte Ltd was jointly owned and managed by Ng Tang Hock and Chew Kar Lay Wendy, that it received substantial interest-free unsecured advances from Ng recorded as director loans, and that on 2011-10-01 its ledger entries were changed so that these loans were recorded as loans from Wendy. The company sold significant properties at market value to Goodtree Investment Pte Ltd, a company controlled by Ng and his children from his first marriage, thereby converting property assets into cash while altering the asset base. After Ng resigned as director in 2012, the board composition shifted to Wendy and later their children, and in 2015 the company processed and approved share transfers from Wendy to Shirlyn and Eugene without using the transfer notice mechanism that would have involved Ng under the Articles. In 2017, the company convened and adjourned its 20th AGM, later issuing a notice for an adjourned meeting that added a general share issuance authority resolution, which prompted Ng to seek court intervention. These steps affected how the company recorded its liabilities to directors, who held its shares, and how its meetings were conducted, setting up a conflict between Teelek Realty Pte Ltd and Ng over whether the company owed him the recorded loans, whether the share transfers were effective, and how its governance should proceed.",
-      "Judicial_Reasoning_Log": "The court held that Teelek Realty Pte Ltd was not required to repay the loans to the plaintiff because the claim was time-barred under the Limitation Act and no valid acknowledgment restarted the limitation period. However, the court found that the internal reclassification of the loans from the plaintiff to Wendy on 2011-10-01 was wrongful and unsupported by any genuine agreement, and that Wendy's subsequent withdrawal of SGD 12,564,000 from the company on the basis of that reclassification was a misappropriation of company funds. The court determined that Teelek Realty's disclosure of its general ledger in discovery and the references to 'Loan Fm Director – Mr Ng' did not constitute voluntary acknowledgments of debt under sections 26 and 27 of the Limitation Act, particularly in light of the company's denial of liability. The court also found that the company's audited accounts and audit confirmations reflected a waiver of the loans as between the plaintiff and the company as of 31 December 2011, but did not support Wendy's claim that the loans had been validly transferred to her. On the share transfers, the court concluded that Teelek Realty's Articles required a transfer notice and a right of first refusal for the other shareholder, and that the 2015 transfers of one share each from Wendy to Shirlyn and Eugene were in clear breach of the Articles; the transfers were declared invalid and ordered cancelled. In assessing the oppression claim, the court held that Teelek Realty's affairs had been conducted in a manner that disregarded the plaintiff's interests as a shareholder, including the wrongful loan reclassification and repayment, the invalid share transfers, the failure to hold physical AGMs for certain years without the plaintiff's agreement, the late provision of audited accounts for FY2016, and the attempt to proceed with a general share issuance resolution at an adjourned AGM contrary to the Articles. The court also found that Teelek Realty's bank accounts had been used as conduits for funds of Wendy and related entities, with some unrecorded deposits and withdrawals and minor losses, and that the company's accounts were not reliably maintained. Applying the oppression framework, the court concluded that these actions amounted to commercial unfairness and a visible departure from standards of fair dealing toward the plaintiff as a shareholder. As a remedy under section 216 of the Companies Act, the court ordered that Teelek Realty Pte Ltd be wound up so that independent liquidators could investigate its accounts and affairs, and ordered that Wendy return SGD 12,564,000 to the company with rectification of its accounts. The court dismissed the plaintiff's direct loan repayment claim against the company on limitation grounds and rejected the conspiracy claim for lack of a proven agreement among the individual defendants, but treated the company's conduct, through its directors, as part of the oppressive management justifying winding up."
-    },
-    "Label": "Unknown",
     "Leakage_Score": 0
   },
   {
@@ -341,169 +80,34 @@
       "Facts": [
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1990",
-          "Text": "In 1990, Chew Kar Lay Wendy worked as an accounts assistant in Ti-Lek Trading and Ti-Lek Petroleum Pte Ltd, companies owned by Ng Tang Hock."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1990",
-          "Text": "In 1990, Chew Kar Lay Wendy and Ng Tang Hock began a personal relationship."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1993",
-          "Text": "In 1993, Chew Kar Lay Wendy gave birth to Ng Pei Ling Shirlyn, her child with Ng Tang Hock."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1995",
-          "Text": "In 1995, Chew Kar Lay Wendy gave birth to Ng Jin Ping Eugene, her child with Ng Tang Hock."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1995-06-21",
-          "Text": "On 1995-06-21, Chew Kar Lay Wendy married Ng Tang Hock."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1996-05-22",
-          "Text": "On 1996-05-22, Teelek Realty Pte Ltd was incorporated in Singapore as an investment holding company; at inception, the plaintiff and Wendy each held 50% of the shares and both were directors."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2006-03-01",
-          "Text": "Around March 2006, the plaintiff alleged that he discovered Wendy had a relationship with Eric and Carol."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-01-01",
-          "Text": "Sometime in 2011, the plaintiff and Wendy started to talk about divorce and the division of matrimonial assets."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-09-11",
-          "Text": "On 11 September 2011, Wendy left the matrimonial home with Shirlyn and Eugene."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2011-09-13",
-          "Text": "On 13 September 2011, the plaintiff transferred his shares in Mingsen Link Limited to Wendy and ceased to be a director of Mingsen."
+          "Text": "Chew Kar Lay Wendy was a co-founder, 50% shareholder, and director of Teelek Realty Pte Ltd."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2011-09-13",
-          "Text": "On 13 September 2011, Mingsen held fixed deposits of US$22,580,000 and RMB44,815,716.26 with Standard Chartered Bank in Hong Kong, both maturing on 17 November 2011, and US$13,505,608.73 with HSBC Private Bank Hong Kong."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2011-09-13",
-          "Text": "The plaintiff gave Wendy sole control of an account with Citibank, N.A. London Branch, which held more than £1.3m."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
           "Fact_Date": "2011-10-01",
-          "Text": "On 1 October 2011, Wendy caused the Loans to be reclassified in Teelek Realty's general ledger as loans owing by Teelek Realty to her instead of to the plaintiff."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2011-11-14",
-          "Text": "On 14 November 2011, Wendy filed for divorce."
+          "Text": "Wendy directed the reclassification of $12,564,000 in the company's general ledger, moving the debt from Ng Tang Hock's name to her own."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-11-10",
-          "Text": "On or about 10 November 2011, the plaintiff discovered that Wendy had been having an affair with Jason Chai Eng Yeow."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2011-11-12",
-          "Text": "On 12 November 2011, the plaintiff met with Shirlyn and Eugene at West Coast Plaza because Shirlyn and Eugene were asking for their maintenance."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-01-03",
-          "Text": "On 3 January 2012, an interim judgment dissolving the marriage was granted in the divorce proceedings."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-08-01",
-          "Text": "On 1 August 2012, a consent ancillaries order was made in the divorce proceedings, providing for joint custody of Shirlyn and Eugene, care and control to Wendy, monthly maintenance for the children, division of specified properties, a CPF transfer from the plaintiff to Wendy, Wendy's retention of a joint Standard Chartered Bank account, and that Wendy and the plaintiff would henceforth retain all other assets in their names."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2012-08-07",
-          "Text": "On 7 August 2012, the plaintiff resigned as a director of Teelek Realty and Shirlyn was appointed as a director in his place."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-08-21",
-          "Text": "On 21 August 2012, the dissolution of the plaintiff's marriage to Wendy was made final."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2012-04-03",
-          "Text": "On 3 April 2012, JCWC Investment (S) Pte Ltd was incorporated. Wendy, Shirlyn and Eugene were its directors."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2012-09-10",
-          "Text": "On 10 September 2012, JCWC Automobile Pte Ltd was incorporated. Wendy and Jason Chai were its directors."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2012-10-01",
-          "Text": "On 1 October 2012, JCWC Credit (S) Pte Ltd, formerly known as JCWC Food (S) Pte Ltd, was incorporated. Wendy and Jason Chai were its directors."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2014-09-01",
-          "Text": "On 1 September 2014, Eugene was appointed as a director of Teelek Realty."
+          "Fact_Date": "2012-01-01",
+          "Text": "Between 2012 and 2018, Wendy withdrew $62,381,129.46 from the company's account, with $12,564,000 of that sum recorded as repayment of the reclassified loans."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2015-07-01",
-          "Text": "In July 2015, Wendy transferred one share in Teelek Realty to each of Shirlyn and Eugene. The share transfer forms were undated; the Board of Directors approved the transfers on 28 July 2015."
+          "Text": "Wendy executed share transfers of one share each to her children, Shirlyn and Eugene, in July 2015."
         },
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2015-07-28",
-          "Text": "On 28 July 2015, the Board of Directors of Teelek Realty, comprising Wendy, Shirlyn and Eugene, approved the transfers."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2012-01-01",
-          "Text": "Between 2012 and 2018, Teelek Realty received a total amount of $49,878,044.87 comprising $200,000 from Wendy, $35,961,817.65 from Mingsen, $11,252,971.94 from JCWC Automobile, and $2,463,255.28 from JCWC Credit. These receipts were recorded in Teelek Realty's books as loans from Wendy."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2012-01-01",
-          "Text": "Between 2012 and 2018, Wendy withdrew a total of $62,381,129.46 from Teelek Realty's account. These withdrawals were recorded as repayments of Wendy's loans and the moneys were used to pay various entities including JCWC Automobile, JCWC Credit and JCWC Investment."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2015-09-09",
-          "Text": "Between 9 September 2015 and 13 July 2017, there were nine deposits into and ten withdrawals from Teelek Realty's account that were not recorded in the general ledger. A total amount of $1.4m was deposited and a matching total amount was withdrawn."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2017-05-26",
-          "Text": "On 26 May 2017, a notice of Teelek Realty's 20th AGM was issued."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2017-06-12",
-          "Text": "On 12 June 2017, Teelek Realty's 20th AGM was held and was adjourned without any resolution being voted on."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2017-08-03",
-          "Text": "On 3 August 2017, a subsequent notice was issued for the adjourned meeting to be held on 22 August 2017, and it included a new proposed Resolution 6 to authorise Teelek Realty's directors to allot and issue shares."
+          "Text": "As director, Wendy approved the share transfers to her children without the knowledge of the other 50% shareholder."
         }
       ],
-      "Issue": "Whether, based solely on pre-dispute conduct and corporate actions, Chew Kar Lay Wendy's handling of Teelek Realty Pte Ltd's director loans, use of company accounts, share transfers to her children, and management of meetings and related entities created a conflict with Ng Tang Hock over loan ownership, shareholding, and control of the company.",
-      "Rule": "In disputes involving company insiders, outcomes often depend on whether a director-shareholder's pre-dispute actions in recording loans, moving funds through company accounts, transferring shares, and controlling meetings align with company constitutions, statutory requirements, and the other shareholder's recorded rights, and whether those actions shift economic benefits or control in a way that later becomes contested.",
-      "Application": "The pre-dispute record shows that Chew Kar Lay Wendy was both a 50% shareholder and director of Teelek Realty Pte Ltd, that by 2011-08-15 the company owed SGD 12,564,000 in interest-free unsecured advances recorded as loans from director Mr Ng, and that on 2011-10-01 she caused the ledger to record these loans as loans from herself. After separation and during and after the divorce, she received control of significant assets including Mingsen Link Limited and a large foreign bank account, and she incorporated and controlled JCWC Investment (S) Pte Ltd, JCWC Automobile Pte Ltd, and JCWC Credit (S) Pte Ltd. Between 2012 and 2018, large sums from Mingsen and the JCWC entities were paid into Teelek Realty's accounts and recorded as loans from her, and she withdrew more than SGD 62 million from Teelek Realty's account as repayments to herself and related entities, while some deposits and withdrawals were not recorded in the ledger. In 2015, she executed and, as a director, approved share transfers of one share each in Teelek Realty to her children without using the transfer notice mechanism that would have involved the other shareholder. As a director, she also controlled the timing and content of AGM notices, including the 2017 notice for the adjourned 20th AGM that added a general share issuance authority resolution. These actions altered the recorded creditor position from Ng to herself, channelled funds between Teelek Realty and entities she owned, changed the share distribution to include her children, and shaped meeting agendas, thereby creating a pre-dispute pattern of conduct that later formed the basis of the conflict with Ng over who owned the loans, how company funds were used, and how shareholding and control should be structured.",
-      "Judicial_Reasoning_Log": "The court found that Wendy's evidence on key issues was inconsistent and not credible, and concluded that she had wrongfully caused the reclassification of the plaintiff's loans to Teelek Realty as loans from herself without any genuine agreement or proper accounting entries. The judge held that her explanation that the reclassification was linked to a change in accounting software was weak, and that her shifting account of when the plaintiff allegedly agreed to waive the loans in her favour—from April 2012 to a period between September 2011 and April 2012, and finally to September 2011—demonstrated that the alleged agreement was a fabrication. The court determined that the audit confirmation signed by the plaintiff in July 2012 showed only that, as between the plaintiff and the company, no amount was then due, and rejected Wendy's claim that the plaintiff knew of and agreed to her corresponding audit confirmation showing the loans as due to her. The court held that Wendy's subsequent withdrawal of SGD 12,564,000 from Teelek Realty as repayment of the reclassified loans was a misappropriation of company funds and a breach of her duties as a director. The court also held that Wendy's 2015 transfers of one share each to Shirlyn and Eugene were in clear breach of Teelek Realty's Articles because no transfer notice was given and the plaintiff's right of first refusal was bypassed; the transfers were declared invalid and ordered cancelled. In relation to AGMs and accounts, the court found that Wendy had dispensed with physical AGMs for certain years without the plaintiff's agreement, failed to provide the plaintiff with audited accounts for FY2016 within a reasonable time before the 20th AGM, and attempted to proceed with Resolution 6 at an adjourned AGM in contravention of article 60, only withdrawing it after being restrained by court order. The court rejected Wendy's explanation that the corporate secretarial firm had added Resolution 6 without her knowledge, noting that her account was implausible and unsupported by evidence. On the use of Teelek Realty's bank accounts, the court found that Wendy had treated the company's accounts as conduits for funds from Mingsen and the JCWC entities and for payments to those entities, and that she had co-mingled her funds with the company's funds, causing some minor losses and an overdrawn loan account at one point. The judge concluded that Wendy had breached her duties as a director by wrongfully reclassifying the loans, causing the misappropriation of SGD 12,564,000, effecting share transfers in breach of the Articles, failing to hold proper AGMs and provide timely accounts, and using the company's accounts for purposes unrelated to its business. In assessing the oppression claim, the court held that Wendy's conduct, together with the passive conduct of Shirlyn and Eugene, amounted to a visible departure from standards of fair dealing and commercial unfairness toward the plaintiff as a shareholder, and granted relief under section 216 of the Companies Act. As part of that relief, the court ordered that Teelek Realty be wound up and that Wendy return SGD 12,564,000 to the company with rectification of its accounts. The court also rejected Wendy's and her children's counterclaims based on an alleged Trust Agreement, finding that Wendy's evidence on the existence, timing, and terms of the alleged trust was internally inconsistent and contradicted by contemporaneous emails and draft trust documents, and that no such binding trust or estoppel had been established."
+      "Issue": "Whether a director breaches fiduciary duties by reclassifying a co-shareholder's loans to her own benefit and bypassing constitutional requirements for share transfers.",
+      "Rule": "A director must act in good faith in the best interests of the company. Acts that favor one shareholder at the expense of another in a manner that departs from fair dealing may constitute oppression.",
+      "Application": "A director and equal shareholder utilized her control over the company's ledgers to take credit for loans she did not provide and then used that credit to withdraw millions of dollars. She further consolidated board control by appointing her children and giving them shares in violation of the pre-emption rights held by the co-founder.",
+      "Judicial_Reasoning_Log": "The court found that Wendy's evidence was inconsistent and that the reclassification of the loans was a fabrication unsupported by any genuine agreement. The judge determined that her withdrawal of SGD 12,564,000 based on this reclassification was a misappropriation of company funds. The court also held that her 2015 share transfers were in breach of the company's Articles because no transfer notice was provided. The judge concluded that Wendy had breached her duties as a director by failing to hold proper AGMs and by using the company's accounts as conduits for her own funds. These actions justified relief under the oppression framework."
     },
     "Label": "Liable",
     "Leakage_Score": 0
@@ -526,48 +130,23 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1993-01-01",
-          "Text": "Ng Pei Ling Shirlyn was born in 1993."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1995-06-21",
-          "Text": "Ng Tang Hock and Wendy were married on 21 June 1995."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-09-11",
-          "Text": "On 11 September 2011, Wendy left the matrimonial home with Shirlyn and Eugene."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2011-11-12",
-          "Text": "On 12 November 2011, the plaintiff met with Shirlyn and Eugene at West Coast Plaza because Shirlyn and Eugene were asking for their maintenance, and the plaintiff wrote a note stating that he still owed Shirlyn and Eugene $8,000."
-        },
-        {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2012-04-03",
-          "Text": "JCWC Investment (S) Pte Ltd was incorporated on 3 April 2012; Wendy, Shirlyn and Eugene were its directors."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2012-08-07",
-          "Text": "On 7 August 2012, the plaintiff resigned as a director of Teelek Realty and Shirlyn was appointed as a director in his place."
+          "Text": "Ng Pei Ling Shirlyn was appointed as a director of Teelek Realty in August 2012."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-07-01",
-          "Text": "In July 2015, Wendy transferred one share in Teelek Realty to Shirlyn and one share to Eugene. The share transfer forms were undated; the Board of Directors approved the transfers on 28 July 2015."
+          "Fact_Date": "2015-07-28",
+          "Text": "Shirlyn received one share in the company from her mother and participated in a board decision to approve that transfer."
         }
       ],
-      "Issue": "Whether, based on pre-dispute events, Ng Pei Ling Shirlyn’s appointment as director and receipt of a share in Teelek Realty Pte Ltd, and her role on the board, contributed to the conflict over shareholding and management between her father Ng Tang Hock and the other defendants.",
-      "Rule": "In shareholder-director disputes, the impact of a family member's appointment as director and receipt of shares is assessed by examining whether those steps complied with the company’s Articles and whether they altered voting power or control in a way that later became contested by another shareholder.",
-      "Application": "The pre-dispute facts Ng Pei Ling Shirlyn became a director of Teelek Realty Pte Ltd in August 2012 after her father resigned, and that in July 2015 she received one share from her mother and participated in a board decision approving that transfer and a similar transfer to her brother. These steps increased the number of shareholders aligned with her mother and changed the board composition from including her father to consisting of her mother and the two children. The share transfer process did not involve a transfer notice to her father under the Articles, and her later role as a director was largely guided by her mother. This configuration of shareholding and board membership contributed to the later conflict over whether the share transfers were valid and whether the management of Teelek Realty Pte Ltd respected her father's position as a 50% shareholder.",
-      "Judicial_Reasoning_Log": "The court found that the 2015 transfer of one share in Teelek Realty Pte Ltd from Wendy to Shirlyn was invalid because it was carried out in breach of the company's Articles, which required a transfer notice and a right of first refusal for the other shareholder, the plaintiff. The judge held that Wendy, as a director, had failed to ensure compliance with the Articles and that the board, including Shirlyn, approved the transfers despite this non-compliance. In assessing the oppression claim, the court noted that Shirlyn, although a director, was largely passive and left management decisions to Wendy, but concluded that by doing so she had breached her duties as a director to act in the company's interests and with due care and diligence, and had disregarded the plaintiff's interests as a shareholder. The court treated the invalid share transfers and the way the board functioned as part of the oppressive conduct toward the plaintiff under section 216 of the Companies Act. The court rejected Shirlyn's counterclaim that the plaintiff held his shares on trust for her and her brother, finding that the alleged Trust Agreement was not proved and that contemporaneous emails and draft trust documents contradicted the pleaded case. The court also dismissed her alternative estoppel claim, holding that the alleged representation at the West Coast Plaza meeting was too vague, that her and Eugene's accounts of it were inconsistent, that the plaintiff continued to pay maintenance, and that they had not acted to their detriment in reliance on the alleged promise. As a result, Shirlyn did not obtain any beneficial interest in the plaintiff's shares through trust or estoppel, and the court ordered that the share transfer to her be cancelled while also holding her, together with Wendy and Eugene, responsible for oppressive conduct and liable for costs."
+      "Issue": "Whether a director who permits the company to be managed in a way that disregards the rights of a major shareholder is liable for oppressive conduct.",
+      "Rule": "Directors have a duty to exercise due care and diligence. A director who permits the company's affairs to be conducted in an oppressive manner may be found to have participated in the oppression.",
+      "Application": "A daughter was appointed to the board following her father's resignation. She signed board resolutions that approved share transfers conducted in breach of the company's constitution, which excluded her father from his right of first refusal.",
+      "Judicial_Reasoning_Log": "The court found that the 2015 share transfer to Shirlyn was invalid as it breached the company's Articles. Although Shirlyn was largely passive and left decisions to her mother, the court concluded that she had breached her duties as a director to act with due care and diligence. By failing to ensure compliance with the Articles and disregarding the plaintiff's interests as a shareholder, her conduct formed part of the broader oppressive environment that justified a winding-up order."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Liable",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -587,47 +166,22 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1995",
-          "Text": "Ng Jin Ping Eugene was born in 1995 to Ng Tang Hock and Chew Kar Lay Wendy."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1995-06-21",
-          "Text": "On 21 June 1995, Ng Tang Hock and Chew Kar Lay were married."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-09-11",
-          "Text": "On 11 September 2011, Wendy left the matrimonial home with Shirlyn and Eugene."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2011-11-12",
-          "Text": "On 12 November 2011, the plaintiff met with Shirlyn and Eugene at West Coast Plaza because Shirlyn and Eugene were asking for their maintenance, and Eugene threw a chair to the right of the plaintiff."
-        },
-        {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2012-04-03",
-          "Text": "JCWC Investment (S) Pte Ltd was incorporated on 3 April 2012, and Wendy, Shirlyn and Eugene were its directors."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2014-09-01",
-          "Text": "On 1 September 2014, Eugene was appointed as a director of Teelek Realty Pte Ltd."
+          "Text": "Ng Jin Ping Eugene was appointed as a director of Teelek Realty in September 2014."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-07-01",
-          "Text": "In July 2015, Wendy transferred one share in Teelek Realty to Eugene."
+          "Fact_Date": "2015-07-28",
+          "Text": "Eugene received one share in the company from his mother and joined the board decision that approved the transfer."
         }
       ],
-      "Issue": "Whether, based on pre-dispute events, Ng Jin Ping Eugene’s appointment as director and receipt of a share in Teelek Realty Pte Ltd, and his participation on the board, contributed to the conflict over shareholding and management between his father Ng Tang Hock and the other defendants.",
-      "Rule": "In intra-family company disputes, the effect of appointing a child as director and transferring shares to that child is evaluated by considering whether those steps complied with the company’s Articles and whether they shifted voting power or control in a way that later became contested by another shareholder.",
-      "Application": "The pre-dispute facts Ng Jin Ping Eugene became a director of Teelek Realty Pte Ltd in September 2014 after reaching adulthood, and that in July 2015 he received one share from his mother and joined the board decision approving that transfer and a similar transfer to his sister. These steps added him as both a director and shareholder aligned with his mother, changing the board composition and share distribution from a structure that had included his father to one controlled by his mother and the two children. The share transfer process did not involve the transfer notice mechanism under the Articles that would have given his father a right of first refusal, and his role as a director was largely to follow his mother's instructions. This configuration contributed to the later conflict over the validity of the share transfers and the way Teelek Realty Pte Ltd was managed in relation to his father's 50% shareholding.",
-      "Judicial_Reasoning_Log": "The court held that the 2015 transfer of one share in Teelek Realty Pte Ltd from Wendy to Eugene was invalid because it was carried out in breach of the company's Articles, which required a transfer notice and a right of first refusal for the other shareholder, the plaintiff. The judge found that the board, including Eugene, approved the transfers despite this non-compliance. In the oppression analysis, the court observed that Eugene, like his sister, was a largely passive director who left management decisions to Wendy, but concluded that by doing so he had breached his duties as a director to act in the company's interests and with due care and diligence, and had disregarded the plaintiff's interests as a shareholder. The court treated the invalid share transfers and the functioning of the board as part of the oppressive conduct toward the plaintiff under section 216 of the Companies Act. The court rejected Eugene's counterclaim that the plaintiff held his shares on trust for him and his sister, finding that the alleged Trust Agreement was not proved and that contemporaneous emails and draft trust documents contradicted the pleaded case. The court also dismissed his alternative estoppel claim, holding that the alleged representation at the West Coast Plaza meeting was too vague, that his and Shirlyn's accounts of it were inconsistent, that the plaintiff continued to pay maintenance, and that they had not acted to their detriment in reliance on the alleged promise. Consequently, Eugene did not obtain any beneficial interest in the plaintiff's shares through trust or estoppel, and the court ordered that the share transfer to him be cancelled while also holding him, together with Wendy and Shirlyn, responsible for oppressive conduct and liable for costs."
+      "Issue": "Whether a director's failure to oversee board decisions involving share transfers contributes to a finding of oppression.",
+      "Rule": "Directors must ensure that corporate actions, such as share transfers, are carried out in accordance with the company's constitution.",
+      "Application": "A son joined the board in 2014 and participated in board approvals for share transfers to himself and his sister that bypassed the pre-emption rights of the co-founder. This occurred while substantial company funds were being reclassified for the benefit of his mother.",
+      "Judicial_Reasoning_Log": "The court held that the transfer of one share to Eugene was invalid for non-compliance with the Articles of Association. Similar to his sister, Eugene was found to be a largely passive director. However, the court concluded that this passivity constituted a breach of his duty to act in the company's interests and with due care. The court treated the invalid transfers and his failure to protect the plaintiff's shareholder interests as part of the oppressive conduct under section 216."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Liable",
+    "Leakage_Score": 0
   }
 ]

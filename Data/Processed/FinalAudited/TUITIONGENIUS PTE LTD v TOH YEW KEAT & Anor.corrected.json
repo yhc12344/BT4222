@@ -64,11 +64,6 @@
           "Text": "TGPL was incorporated in April 2009 by Eugene and Keng, who were the only two directors of the company with each of them holding half its shares."
         },
         {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2015-10-01",
-          "Text": "At the commencement of the suit, the sole director and shareholder of TGPL was Jun Hao."
-        },
-        {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2012-09-01",
           "Text": "TGPL’s tuition business was conducted by Eugene, along with various full-time staff and temporary staff, including Lim Gim Siong, Eugene Koh Joon Shih, Teoh Shin Fung, Ang Lee Theng and Wong Jing Yong."
@@ -294,11 +289,6 @@
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2015-10-01",
           "Text": "On 1 October 2015, Toh Yew Keat resigned as a director of Tuitiongenius Pte Ltd and signed documents transferring his shares in the company to Keng Yew Huat."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2016-12-14",
-          "Text": "On 14 December 2016, Toh Yew Keat recorded another phone conversation with Keng Yew Huat concerning the ongoing dispute and the conduct of the litigation."
         }
       ],
       "Issue": "Whether, given the pre-dispute history of Toh Yew Keat’s independent economics tuition business under the \"TuitionGenius\" and \"Economics at Tuitiongenius\" names, his simultaneous roles in Tuitiongenius Pte Ltd, Economics at Tuitiongenius entities, and Thinktank, and the parties’ informal arrangements, his conduct fell within or outside the scope of the Employment Agreement and company expectations, and whether his use of the \"TuitionGenius\" branding and related materials conflicted with any rights claimed by Tuitiongenius Pte Ltd.",
@@ -306,7 +296,7 @@
       "Application": "Before Tuitiongenius Pte Ltd was formed, Toh Yew Keat had already developed an economics tuition business under the \"TuitionGenius\" name, supported by a dedicated domain, email, and branded notes. After incorporation, he became a co-owner and managing director of Tuitiongenius Pte Ltd while continuing to operate economics classes through a sole proprietorship and later Economics at Tuitiongenius Pte Ltd, and also through Thinktank Learning Centre Pte Ltd. The Employment Agreement contained exclusivity and non-solicitation clauses, but the parties’ subsequent conduct, including separate bank accounts, internal guides distinguishing partners for different entities, and joint marketing materials, indicated that his economics business was treated as distinct from the company’s broader tuition operations. The other controller, Keng Yew Huat, signed off on payments and administrative arrangements that reflected this separation. These pre-dispute facts framed the later arguments about whether his external activities and branding were contractually permitted, informally authorised, or in conflict with the company’s claimed rights in the \"TuitionGenius\" name and in the course materials he produced.",
       "Judicial_Reasoning_Log": "The court accepted that Toh Yew Keat had established and used the \"TuitionGenius\" branding for his economics tuition business before Tuitiongenius Pte Ltd was incorporated and that, after incorporation, he continued that business through a sole proprietorship and later a company, Economics at Tuitiongenius Pte Ltd. It found that oral agreements between him and the other controller, Keng Yew Huat, allowed him to continue his separate economics business, retain its revenues, and engage in joint marketing with Tuitiongenius Pte Ltd. Applying principles similar to the Duomatic rule and waiver by election, the court held that Tuitiongenius Pte Ltd could not rely on the Employment Agreement’s exclusivity provisions to challenge those aspects of his conduct. The court did find a breach of the non-solicitation clause in relation to the hiring of one tutor while he was still employed, but otherwise rejected the company’s contractual claims. On fiduciary duties, the court distinguished between conduct covered by the agreed arrangements and conduct that was not, holding that certain acts, such as the way the Bedok Centre premises and student base were used and the direction to staff to prioritise his classes, amounted to breaches of fiduciary duties, but then considered whether those breaches were effectively authorised or waived. On the passing off claim brought by the company, the court concluded that the company had not established goodwill in the \"TuitionGenius\" mark as its own badge of origin, noting that its public branding was under \"REAL Education\" and that the mark had been used by Toh Yew Keat for his own business before the company existed. The company’s passing off claim therefore failed. On the counterclaims, the court held that the defendants had not proved goodwill for their own passing off claim, that the course materials were created in the course of employment and that the company owned the copyright, and that the elements of lawful means conspiracy were not satisfied because there was insufficient evidence of a predominant intention to injure or of a combination between two or more persons to that end. Overall, the court dismissed the bulk of the claims against Toh Yew Keat, save for a limited breach of the non-solicitation clause, and dismissed his counterclaims."
     },
-    "Label": "Partially Liable",
+    "Label": "Liable",
     "Leakage_Score": 0
   },
   {
@@ -353,7 +343,7 @@
       "Application": "Economics at Tuitiongenius Pte Ltd was incorporated in April 2014 as a continuation of an earlier sole proprietorship that had been using the \"Economics at TuitionGenius\" name since 2010. Its sole director and shareholder, Toh Yew Keat, had been operating an economics tuition business under the \"TuitionGenius\" branding before Tuitiongenius Pte Ltd was formed. After incorporation, the new company used its own bank account, appeared on internal administrative lists as a separate entity, and had registration forms directing payments to it. At the same time, it shared premises and marketing channels with Tuitiongenius Pte Ltd and Thinktank Learning Centre Pte Ltd. These arrangements were implemented openly within the group’s operations and were reflected in internal documentation, indicating that the controllers treated Economics at Tuitiongenius Pte Ltd as a distinct but coordinated vehicle for economics tuition within a broader network of tuition entities.",
       "Judicial_Reasoning_Log": "The court treated Economics at Tuitiongenius Pte Ltd as the corporate continuation of a pre-existing economics tuition business that had been operated by Toh Yew Keat under the \"TuitionGenius\" branding before Tuitiongenius Pte Ltd existed. It found that the incorporation of Economics at Tuitiongenius Pte Ltd and its use of separate bank accounts and registration forms were known within the group and that the other controller, Keng Yew Huat, acquiesced in these arrangements. In evaluating the plaintiff’s contractual and fiduciary duty claims, the court focused primarily on the conduct of Toh Yew Keat rather than on separate wrongdoing by Economics at Tuitiongenius Pte Ltd. On the passing off claim, the court concluded that Tuitiongenius Pte Ltd had not established goodwill in the \"TuitionGenius\" mark as its own, and therefore the use of the \"Economics at TuitionGenius\" name by this defendant did not amount to passing off against the plaintiff. The court also rejected the defendants’ counterclaims, including passing off and conspiracy, for lack of proof of the necessary elements. As a result, Economics at Tuitiongenius Pte Ltd was not held liable on the plaintiff’s claims and did not succeed on its counterclaims."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   }
 ]

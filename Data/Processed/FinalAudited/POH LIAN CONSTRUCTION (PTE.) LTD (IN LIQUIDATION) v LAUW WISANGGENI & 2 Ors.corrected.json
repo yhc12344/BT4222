@@ -84,13 +84,13 @@
           "Text": "With approval from senior management of Poh Lian Construction (Pte.) Ltd, the Goodwood Residences project manager engaged reinforced concrete subcontractors to supply casual labourers and supervisors at hourly rates of S$12 per labourer and S$15 per supervisor."
         }
       ],
-      "Issue": "Whether, based on pre-dispute conduct and project management decisions, the company incurred project and financial outcomes that later formed the basis of claims against former directors and senior managers.",
-      "Rule": "Company directors and senior managers are generally manage tenders, subcontracting, project staffing, and financial reporting with reasonable care and in accordance with contractual and corporate authorisations, so that the company’s projects and finances are not adversely affected by their decisions.",
-      "Application": "Poh Lian Construction (Pte.) Ltd submitted tenders for three major projects at specific prices and contract periods, entered into a substantial subcontract for the Bishopsgate Residences project, engaged hourly paid labour at the Goodwood Residences project under time pressure and labour constraints, and experienced significant delays and cost overruns that preceded judicial management and liquidation. These pre-dispute events formed the factual basis for later disputes about whether the company’s leadership complied with expected standards in tendering, subcontracting, labour engagement, and financial communication.",
+      "Issue": "Whether the company incurred project and financial outcomes resulting from the conduct and project management decisions of its directors and senior managers.",
+      "Rule": "Company directors and senior managers are generally to manage tenders, subcontracting, project staffing, and financial reporting with reasonable care and in accordance with contractual and corporate authorisations, so that the company’s projects and finances are not adversely affected by their decisions.",
+      "Application": "Poh Lian Construction (Pte.) Ltd submitted tenders for three major projects at specific prices and contract periods, entered into a substantial subcontract for the Bishopsgate Residences project, engaged hourly paid labour at the Goodwood Residences project under time pressure and labour constraints, and experienced significant delays and cost overruns that preceded judicial management and liquidation. These events formed the factual basis for evaluating whether the company’s leadership complied with expected standards in tendering, subcontracting, labour engagement, and financial communication.",
       "Judicial_Reasoning_Log": "The judgment analyses whether former directors and senior managers of the plaintiff breached duties in relation to the Sophia Residence, Bishopsgate Residences, and Goodwood Residences projects, including issues of underpricing, total subcontracting contrary to contract terms, labour cost and supervision, back charges, extension-of-time claims, and alleged concealment of financial information from boards. It evaluates expert evidence on construction costs and labour rates, interprets contractual clauses such as clause 2.3.1 of the Bishopsgate contract, and considers causation and loss, including liquidated damages and project losses. The court distinguishes between pleaded and unpleaded allegations, assesses credibility of witnesses, and determines which individuals are responsible for specific contractual and management decisions. It also addresses a third-party contribution claim against former founders and investor representatives, and ultimately reaches findings on liability, causation, quantum, and contribution that are not to be used as pre-dispute facts."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -148,12 +148,12 @@
         }
       ],
       "Issue": "Whether the executive chairman’s decisions and approvals in relation to tender pricing, subcontracting arrangements, labour engagement approvals, and acquisition of a unit in a client’s development were consistent with expected standards for senior management of a construction company.",
-      "Rule": "Senior executives of a company are generally ensure that tenders and subcontracting arrangements are authorised, that project decisions are made with reasonable care in light of available cost information and contractual terms, and that personal transactions connected to company projects are handled transparently to avoid conflicts with corporate governance expectations.",
-      "Application": "Lauw Wisanggeni approved and signed tenders for the Sophia Residence and Goodwood Residences projects at specified prices, sought and obtained board-level approval for a Sophia Residence tender price, approved a settlement with a major subcontractor on the Bishopsgate Residences project after a back-to-back subcontracting arrangement, and personally purchased and later sold a unit in the Goodwood Residences development. These actions occurred while he held the roles of executive chairman and executive director and interacted with both the company’s and the parent company’s boards, forming the factual basis for later evaluation of his adherence to expected executive standards.",
+      "Rule": "Senior executives of a company are generally to ensure that tenders and subcontracting arrangements are authorised, that project decisions are made with reasonable care in light of available cost information and contractual terms, and that personal transactions connected to company projects are handled transparently to avoid conflicts with corporate governance expectations.",
+      "Application": "Lauw Wisanggeni approved and signed tenders for the Sophia Residence and Goodwood Residences projects at specified prices, sought and obtained board-level approval for a Sophia Residence tender price, approved a settlement with a major subcontractor on the Bishopsgate Residences project after a back-to-back subcontracting arrangement, and personally purchased and later sold a unit in the Goodwood Residences development. These actions occurred while he held the roles of executive chairman and executive director and interacted with both the company’s and the parent company’s boards, forming the factual basis for evaluating his adherence to expected executive standards.",
       "Judicial_Reasoning_Log": "The court evaluates whether Lauw Wisanggeni breached director duties in relation to the Sophia Residence tender pricing, the Bishopsgate Residences subcontract to CCM Industrial Pte Ltd, the Goodwood Residences labour and cost issues, alleged concealment of project losses and cash flow information from boards, and the acquisition and sale of a Goodwood Residences unit. It considers his claimed role as a rain-maker without construction expertise, his reliance on other managers, and whether he authorised or knew of a total subcontract in breach of contract. The judgment also addresses whether his personal property transaction created a conflict or undisclosed profit and whether any such findings result in liability."
     },
     "Label": "Not Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -226,12 +226,12 @@
         }
       ],
       "Issue": "Whether the chief operating officer’s involvement in tender submissions, subcontract awards, communications with the developer, and settlement arrangements for the Bishopsgate Residences and other projects aligned with expected standards for operational management in a construction company.",
-      "Rule": "Operational directors are generally ensure that project tenders and subcontracting comply with main contract terms, that communications with developers address concerns about subcontracting arrangements, and that settlements with subcontractors are made with reasonable regard to project obligations and company interests.",
+      "Rule": "Operational directors are generally to ensure that project tenders and subcontracting comply with main contract terms, that communications with developers address concerns about subcontracting arrangements, and that settlements with subcontractors are made with reasonable regard to project obligations and company interests.",
       "Application": "Leong Chee Keng signed tenders for the Sophia Residence and Goodwood Residences projects, participated in awarding a substantial subcontract to CCM Industrial Pte Ltd for the Bishopsgate Residences project, received a letter from the developer’s representative reiterating a prohibition on subcontracting the whole of the works, and later proposed and obtained approval for a S$2 million settlement with CCM. These pre-dispute actions form the factual basis for assessing whether his operational decisions were consistent with expected standards under the project contracts and corporate governance.",
       "Judicial_Reasoning_Log": "The judgment considers whether Leong Chee Keng was responsible for causing a total subcontract of the Bishopsgate Residences project to CCM Industrial Pte Ltd in breach of a contractual prohibition, and whether his subsequent handling of the developer’s objections and the settlement with CCM met his duties. It also examines his role in the Sophia Residence and Goodwood Residences projects, including labour and cost issues, and whether any findings of breach lead to liability and loss. The court’s conclusions on these matters are not to be treated as pre-dispute facts."
     },
     "Label": "Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -269,12 +269,12 @@
         }
       ],
       "Issue": "Whether the senior project manager’s handling of subcontractor tenders and labour engagement on major projects was consistent with expected project management standards in the construction industry.",
-      "Rule": "Project managers are generally manage subcontractor inputs and site labour in a manner consistent with project requirements, cost considerations, and instructions from senior management, while implementing reasonable site-level controls and deployment practices.",
-      "Application": "Ng Giok Beng received CCM Industrial Pte Ltd’s tender for the Bishopsgate Residences project and later, as project manager for the Goodwood Residences project, arranged for hourly paid labour and supervisors under senior management approval. These pre-dispute actions form the factual basis for later assessment of whether his project management conduct aligned with expected standards for cost and site control.",
+      "Rule": "Project managers are generally to manage subcontractor inputs and site labour in a manner consistent with project requirements, cost considerations, and instructions from senior management, while implementing reasonable site-level controls and deployment practices.",
+      "Application": "Ng Giok Beng received CCM Industrial Pte Ltd’s tender for the Bishopsgate Residences project and later, as project manager for the Goodwood Residences project, arranged for hourly paid labour and supervisors under senior management approval. These pre-dispute actions form the factual basis for assessing whether his project management conduct aligned with expected standards for cost and site control.",
       "Judicial_Reasoning_Log": "The judgment examines whether Ng Giok Beng was implicated in any total subcontracting arrangement for the Bishopsgate Residences project and whether his management of hourly paid labour at the Goodwood Residences project met required standards. It notes that certain claims against him were not pursued to conclusion and assesses his role primarily in the context of site operations rather than strategic decisions."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -322,12 +322,12 @@
         }
       ],
       "Issue": "Whether the founder and former managing director’s later roles in the group and involvement in contract execution for the Sophia Residence project had any bearing on responsibility for project and financial outcomes.",
-      "Rule": "Non-executive and group-level directors who sign project contracts are generally understand or obtain explanations of key commercial terms and to rely on management for operational execution, within the framework of corporate governance.",
-      "Application": "Chia Quee Hock founded the company, later held senior roles in the parent company, and signed the Conditions of Contract for the Sophia Residence project while not being fluent in English. These pre-dispute facts were later considered in assessing the extent to which he shared responsibility for project decisions primarily driven by executive management.",
+      "Rule": "Non-executive and group-level directors who sign project contracts are generally to understand or obtain explanations of key commercial terms and to rely on management for operational execution, within the framework of corporate governance.",
+      "Application": "Chia Quee Hock founded the company, later held senior roles in the parent company, and signed the Conditions of Contract for the Sophia Residence project while not being fluent in English. These facts contextualize the extent to which he shared responsibility for project decisions primarily driven by executive management.",
       "Judicial_Reasoning_Log": "The judgment considers whether Chia Quee Hock, as founder and signatory to certain contracts, should contribute to any liability arising from project underpricing or subcontracting decisions. It evaluates his knowledge of tender prices and subcontracting arrangements and whether his non-executive and language-limited role mitigated responsibility."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -355,12 +355,12 @@
         }
       ],
       "Issue": "Whether the non-executive director’s actions in relation to board participation and initiating judicial management proceedings affected the company’s eventual financial outcome.",
-      "Rule": "Non-executive directors involved in restructuring decisions are generally act on available financial information and to consider options such as judicial management in light of the company’s solvency and creditor interests.",
-      "Application": "After joining the boards of United Fiber System Limited and Poh Lian Construction (Pte.) Ltd, Peh Pit Tat later initiated judicial management proceedings for Poh Lian Construction (Pte.) Ltd based on concerns about cash flow and debt repayment. These pre-dispute and pre-liquidation actions formed part of the factual background for later assessment of the impact of restructuring decisions on the company’s outcome.",
+      "Rule": "Non-executive directors involved in restructuring decisions are generally to act on available financial information and to consider options such as judicial management in light of the company’s solvency and creditor interests.",
+      "Application": "After joining the boards of United Fiber System Limited and Poh Lian Construction (Pte.) Ltd, Peh Pit Tat later initiated judicial management proceedings for Poh Lian Construction (Pte.) Ltd based on concerns about cash flow and debt repayment. These pre-dispute and pre-liquidation actions formed part of the factual background for assessing the impact of restructuring decisions on the company’s outcome.",
       "Judicial_Reasoning_Log": "The judgment addresses whether Peh Pit Tat should contribute to any liability on the basis that he did not secure repayment of intercompany loans, participated in project-related decisions, or applied for judicial management in a way that allegedly undermined the company’s prospects. It considers the legal effect of the judicial management order and whether criticisms of the restructuring process are barred or unfounded."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -388,11 +388,11 @@
         }
       ],
       "Issue": "Whether the non-executive director’s board roles in the parent and subsidiary companies had any bearing on responsibility for project and financial decisions that preceded the company’s insolvency.",
-      "Rule": "Non-executive directors are generally oversee management and participate in key decisions but are not typically involved in day-to-day project operations, with their responsibility assessed in light of their oversight role and information provided by management.",
-      "Application": "After joining the boards of United Fiber System Limited and Poh Lian Construction (Pte.) Ltd, Chan Kin participated in board-level oversight while executive management handled tenders, subcontracting, and project operations. These pre-dispute facts were later considered in evaluating whether he shared responsibility for outcomes primarily driven by operational decisions.",
+      "Rule": "Non-executive directors are generally to oversee management and participate in key decisions but are not typically involved in day-to-day project operations, with their responsibility assessed in light of their oversight role and information provided by management.",
+      "Application": "After joining the boards of United Fiber System Limited and Poh Lian Construction (Pte.) Ltd, Chan Kin participated in board-level oversight while executive management handled tenders, subcontracting, and project operations. These facts established his level of involvement in evaluating whether he shared responsibility for outcomes primarily driven by operational decisions.",
       "Judicial_Reasoning_Log": "The judgment considers whether Chan Kin, as a non-executive director associated with an investor, should contribute to any liability arising from project and financial management, including decisions about labour arrangements and restructuring. It evaluates the extent of his involvement in operational matters and whether his oversight role gave rise to any legal responsibility for the losses claimed."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   }
 ]
