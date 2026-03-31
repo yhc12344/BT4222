@@ -91,9 +91,9 @@
           "Text": "Ong Chow Hong attended a golf event organised by the Aljunied Town Council, in which he, as Chairman of its Audit Committee, had a prominent role."
         }
       ],
-      "Issue": "Whether the response of Ong Chow Hong to information regarding the corruption investigation and to the request for a market announcement demonstrated a failure to use reasonable diligence in the discharge of his duties as a director of a listed company.",
+      "Issue": "Whether a director's delegation of the approval of a market announcement during an active corruption probe constitutes a failure to exercise reasonable diligence.",
       "Rule": "Under section 157(1) of the Companies Act, a director is required at all times to act honestly and to use reasonable diligence in the discharge of the duties of his office, with statutory provisions for disqualification where a director fails to uphold the integrity of corporate governance.",
-      "Application": "Ong Chow Hong was the non-executive Chairman of a listed company when the CEO became the subject of a corruption probe. He was informed of the email seizure, the impounding of the CEO's passport, and the potential for criminal charges during a board meeting in September 2005. When the matter became public in November 2005 and the exchange requested a clarification, he delegated the approval of the market announcement to another director without reviewing it himself, in order to attend a pre-planned social and town council event.",
+      "Application": "The non-executive chairman of a listed company was informed that the CEO was under a corruption investigation. When the stock exchange requested a public clarification, the chairman delegated the approval of the announcement to another director to attend a pre-planned event. The legal conflict assesses whether this conduct breached the statutory duty of diligence.",
       "Judicial_Reasoning_Log": "The High Court concluded that Singapore's disqualification regime is predominantly protective rather than punitive, aiming to keep unsuitable individuals from management roles and uphold market confidence. The court reasoned that the information disclosed at the board meeting about the CPIB investigation should have placed the appellant on heightened vigilance. The judge found that his conduct on 25 November 2005, specifically his failure to review or approve the market announcement and his delegation of that responsibility to attend a golf event, amounted to an abdication of his corporate responsibilities. The court held that directors of listed companies have a non-delegable duty to ensure accurate market disclosures. Finding the original one-year disqualification manifestly inadequate for such a serious lapse, the court enhanced the period to 24 months to protect the public and reinforce corporate governance standards."
     },
     "Label": "Claim Dismissed",
@@ -118,10 +118,86 @@
         "Ong Luan Tze",
         "Sarah Lam"
       ],
-      "Facts": [],
-      "Issue": "Whether the pre-dispute conduct of a director of a listed company warranted a protective response under the statutory disqualification regime to safeguard the investing public.",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2005-01-01",
+          "Text": "By 2005, Ong Chow Hong (alias Ong Chaw Ping) held the position of non-executive Chairman and independent director of Airocean Group Limited, a company listed on the Mainboard of the Singapore Exchange Securities Trading Limited."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2005-09-06",
+          "Text": "On 2005-09-06 at about 07:00, officers from the Corrupt Practices Investigation Bureau went to the home of Airocean Group Limited's Chief Executive Officer, Thomas Tay Nguen Cheong, for questioning on allegations of corruption involving Airocean."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-09-06",
+          "Text": "On 2005-09-06, during the CPIB investigation, Thomas Tay directed his staff at Airocean's premises to compile all his e-mails and business proposals connected to the corruption allegations."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-09-07",
+          "Text": "On 2005-09-07, after being questioned, Thomas Tay was released on bail and his passport was impounded by the Bureau."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-09-08",
+          "Text": "On 2005-09-08, the directors of Airocean Group Limited convened an urgent board meeting to discuss the company's response to the investigation involving CEO Thomas Tay."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-09-08",
+          "Text": "During the board meeting, the board was informed of the seizure of Thomas Tay's emails, the impounding of his passport, and that he had been questioned for approximately 36 hours regarding offering gratification to staff in the airline industry."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-09-08",
+          "Text": "The board was informed that Thomas Tay's legal counsel believed the worst-case scenario was that he might face criminal charges."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2005-09-08",
+          "Text": "At the conclusion of the meeting, the board resolved that no further action would be taken by the company at that time."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2005-11-25",
+          "Text": "On the morning of 2005-11-25, The Straits Times published an article titled 'Airocean’s chief executive Thomas Tay under CPIB probe'."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-11-25",
+          "Text": "In the article, the CEO was quoted stating that the interview concerned an investigation over other people in the industry and had nothing to do with him."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-11-25",
+          "Text": "Singapore Exchange Limited contacted Airocean requesting an explanation as to why the probe had not been disclosed and seeking confirmation of the CEO's status."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-11-25",
+          "Text": "Airocean requested a suspension of trading of its shares pending a clarificatory announcement."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-11-25",
+          "Text": "The company secretary sent an e-mail to all directors informing them of the trading halt and the request for a statement, and subsequently telephoned Ong Chow Hong to update him."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2005-11-25",
+          "Text": "During the telephone call, Ong Chow Hong stated that he would agree to any announcement issued by the company if another director approved it, explaining that he was going to play golf that day."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2005-11-25",
+          "Text": "Ong Chow Hong attended a golf event organised by the Aljunied Town Council, in which he, as Chairman of its Audit Committee, had a prominent role."
+        }
+      ],
+      "Issue": "Whether the statutory disqualification period for a director who failed to exercise reasonable diligence should be enhanced to serve protective public policy goals.",
       "Rule": "Section 154(2)(b) of the Companies Act permits the court to make a disqualification order where a person is convicted of an offence under section 157, to be applied with a view to protecting the public and maintaining the integrity of corporate governance.",
-      "Application": "The sequence of events involving the corruption investigation, the specific details provided to the board on 2005-09-08, and the director's subsequent response to regulatory queries on 2005-11-25 establish the factual matrix for evaluating the adequacy of the protective measures required to reinforce expected standards of diligence and responsiveness.",
+      "Application": "Following a director's conviction for failing to personally review a critical market announcement regarding a CEO's corruption probe, the State appealed the initial disqualification sentence. The dispute concerns the appropriate length of disqualification required to safeguard the investing public and uphold corporate governance standards.",
       "Judicial_Reasoning_Log": "The High Court accepted the Public Prosecutor's position that the original 12-month disqualification order did not sufficiently address the protective aims of the Companies Act in the circumstances of this case. After clarifying that the disqualification regime is predominantly protective, the court considered the seriousness of the appellant's lapse, the context of a listed company operating in a disclosure-based regulatory environment, and the need to deter similar conduct by other directors. The court concluded that a longer disqualification period was necessary to protect the public and uphold corporate governance standards, and therefore allowed the Public Prosecutor's appeal by enhancing the disqualification period to 24 months."
     },
     "Label": "Claim Allowed",

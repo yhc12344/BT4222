@@ -1,192 +1,187 @@
 [
   {
     "Metadata": {
-      "Case_Number": "OS 1115/2002, RA 267/2002",
-      "Coram": "Kan Ting Chiu J",
-      "Judge": "Kan Ting Chiu",
-      "Date": "2003-03-22",
-      "Tribunal_Court": "High Court"
+      "Case_Number": "Suit No 758 of 2017",
+      "Coram": "High Court — Suit No 758 of 2017",
+      "Judge": "Chua Lee Ming J",
+      "Date": "2020-10-08",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
     },
     "Party_Details": {
       "Role": "Plaintiff",
-      "Name": "Ng Heng Liat",
-      "Law_Firm": "Engelin Teh Practice LLC",
-      "Counsel": ["Harish Kumar"],
+      "Name": "Ng Tang Hock",
+      "Law_Firm": "Damodara Ong LLC",
+      "Counsel": [
+        "Suresh s/o Damodara",
+        "Ong Ziying Clement",
+        "Khoo Shufen Joni"
+      ],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2002",
-          "Text": "Ng Heng Liat was a director of Aquagen International Pte Ltd (AIPL) during a period of project development."
+          "Fact_Date": "1995-06-21",
+          "Text": "Ng Tang Hock married Chew Kar Lay Wendy on 21 June 1995."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-05-22",
+          "Text": "Ng Tang Hock co-founded Teelek Realty Pte Ltd in 1996 with Wendy. At inception, they each held 50% of the shares and were both directors."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2011-08-15",
+          "Text": "By August 2011, Ng Tang Hock had advanced interest-free unsecured loans totaling $12,564,000 to Teelek Realty."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002",
-          "Text": "Disagreements arose between the board of directors and other project participants regarding whether to continue a desalination plant project using a concrete or steel evaporator."
+          "Fact_Date": "2011-09-11",
+          "Text": "In September 2011, the marital relationship between Ng Tang Hock and Wendy broke down, leading to their separation."
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002",
-          "Text": "Independent legal advice recommended that the company participate in arbitration proceedings relating to the project disputes."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002",
-          "Text": "Ng Heng Liat and other directors objected to the company's participation in the arbitration."
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2011-10-01",
+          "Text": "On 1 October 2011, the $12,564,000 loans previously recorded as owing to Ng Tang Hock were reclassified in the company ledger as loans owing to Wendy."
         },
         {
           "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2002",
-          "Text": "Repeated attempts to convene a quorate board meeting to resolve the arbitration issue failed as the directors, including Ng Heng Liat, did not confirm their attendance."
+          "Fact_Date": "2012-08-07",
+          "Text": "On 7 August 2012, Ng Tang Hock resigned as a director of Teelek Realty, and his daughter Shirlyn was appointed to the board in his place."
         },
         {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2002-07-29",
-          "Text": "A minority shareholder issued a statutory notice under section 216A of the Companies Act, demanding the company sue the directors for alleged breaches of fiduciary duty."
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-07-01",
+          "Text": "In July 2015, Wendy transferred one share in Teelek Realty to each of her children, Shirlyn and Eugene, without issuing a transfer notice to Ng Tang Hock."
         }
       ],
-      "Issue": "Whether the conduct of a director in blocking board-level decisions regarding arbitration exposes them to a direct claim by a minority shareholder, rather than a claim brought by the company itself.",
-      "Rule": "Under the proper plaintiff rule, a wrong done to a company must be redressed by the company itself. Shareholders wishing to sue on the company's behalf must first obtain court leave under statutory mechanisms such as section 216A.",
-      "Application": "The directors blocked the company's participation in arbitration and prevented a quorate board meeting from taking place. A minority shareholder attempted to challenge this conduct by seeking a legal declaration in its own name. The validity of this challenge depends on whether the shareholder bypassed the mandatory statutory requirements for a derivative action.",
-      "Judicial_Reasoning_Log": "The judge held that the proper plaintiff in respect of a wrong done to a company is the company itself. The court found that statutory provisions in sections 216 and 216A do not abrogate the proper plaintiff rule but provide a specific path for shareholders that requires court leave. Because the minority shareholder had already recognized this by issuing a section 216A notice, it could not then attempt to seek the same relief through a direct counterclaim in its own name without obtaining the required leave. Allowing such a claim would bypass statutory safeguards requiring proof of good faith and the company's best interests."
+      "Issue": "Whether the disputed reclassification of director loans and the execution of share transfers to family members align with fiduciary duties and constitutional pre-emption rights.",
+      "Rule": "Under Section 216 of the Companies Act, a shareholder may seek relief where the affairs of the company are being conducted in a manner oppressive to a member or in disregard of their interests.",
+      "Application": "A co-founder provided substantial start-up capital for an investment company as loans. Following a domestic breakdown, the other director reclassified those loans to her own credit and transferred shares to their children. The legal conflict assesses whether these maneuvers were legitimate corporate actions or a strategy that contravened the co-founder's rights under the Articles of Association.",
+      "Judicial_Reasoning_Log": "The court found that Wendy had wrongfully reclassified the plaintiff's loans as loans from herself without any genuine agreement or proper accounting entries. The judge held that her subsequent withdrawal of SGD 12,564,000 from the company on the basis of that reclassification was a misappropriation of company funds. Regarding the share transfers, the court concluded that Teelek Realty's Articles required a transfer notice and a right of first refusal for the other shareholder, and that the 2015 transfers were in clear breach of these Articles. In assessing the oppression claim, the court held that Teelek Realty's affairs had been conducted in a manner that disregarded the plaintiff's interests, including the loan reclassification, the invalid share transfers, and the failure to hold physical AGMs. The judge held that these acts constituted breaches of directors' duties. Instead of ordering a buyout, the court ordered that Teelek Realty be wound up to allow independent liquidators to investigate the accounts and affairs, and ordered Wendy to return SGD 12,564,000 to the company."
     },
     "Label": "Claim Allowed",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "OS 1115/2002, RA 267/2002",
-      "Coram": "Kan Ting Chiu J",
-      "Judge": "Kan Ting Chiu",
-      "Date": "2003-03-22",
-      "Tribunal_Court": "High Court"
+      "Case_Number": "Suit No 758 of 2017",
+      "Coram": "High Court — Suit No 758 of 2017",
+      "Judge": "Chua Lee Ming J",
+      "Date": "2020-10-08",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
     },
     "Party_Details": {
-      "Role": "Plaintiff",
-      "Name": "Hey Bong koi",
-      "Law_Firm": "Engelin Teh Practice LLC",
-      "Counsel": ["Harish Kumar"],
+      "Role": "Defendant",
+      "Name": "Chew Kar Lay (Wendy)",
+      "Law_Firm": "OTP Law Corporation",
+      "Counsel": [
+        "Lim Seng Siew",
+        "Isabel Chew-Lau"
+      ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2002",
-          "Text": "Hey Bong koi was a director of Aquagen International Pte Ltd (AIPL)."
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-05-22",
+          "Text": "Chew Kar Lay Wendy was a co-founder, 50% shareholder, and director of Teelek Realty Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2011-10-01",
+          "Text": "Wendy directed the reclassification of $12,564,000 in the company's general ledger, moving the debt from Ng Tang Hock's name to her own."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002",
-          "Text": "Following a dispute over technical changes to a desalination project, Hey Bong koi opposed the company's entry into arbitration."
+          "Fact_Date": "2012-01-01",
+          "Text": "Between 2012 and 2018, Wendy withdrew $62,381,129.46 from the company's account, with $12,564,000 of that sum recorded as repayment of the reclassified loans."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-07-01",
+          "Text": "Wendy executed share transfers of one share each to her children, Shirlyn and Eugene, in July 2015."
         },
         {
           "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2002",
-          "Text": "Hey Bong koi did not confirm attendance at board meetings intended to resolve the arbitration strategy, leading to a lack of quorum."
+          "Fact_Date": "2015-07-28",
+          "Text": "As director, Wendy approved the share transfers to her children without the knowledge of the other 50% shareholder."
         }
       ],
-      "Issue": "Whether a director's decision to withhold attendance from board meetings constitutes a corporate wrong that a shareholder can sue for directly.",
-      "Rule": "Company law requires that actions for wrongs done to a company be brought by the company unless a shareholder satisfies the conditions for a derivative action under section 216A.",
-      "Application": "A director participated in a deadlock that prevented the company from following legal advice to arbitrate a project dispute. A shareholder sought to hold the director liable for this inaction without following the statutory procedure for representing the company's interests.",
-      "Judicial_Reasoning_Log": "The court applied the rule in Foss v Harbottle, maintaining that the company is the correct entity to seek redress for breaches of directorial duty. It ruled that procedural rules for counterclaims do not grant standing to a shareholder where they otherwise lack the right to sue. As the shareholder had not obtained leave to act for the company, the claim against the director could not proceed."
+      "Issue": "Whether the disputed reclassification of director loans and the execution of share transfers to family members align with fiduciary duties and constitutional pre-emption rights.",
+      "Rule": "A director must act in good faith in the best interests of the company. Acts that favor one shareholder at the expense of another in a manner that departs from fair dealing may constitute oppression.",
+      "Application": "A co-founder provided substantial start-up capital for an investment company as loans. Following a domestic breakdown, the other director reclassified those loans to her own credit and transferred shares to their children. The legal conflict assesses whether these maneuvers were legitimate corporate actions or a strategy that contravened the co-founder's rights under the Articles of Association.",
+      "Judicial_Reasoning_Log": "The court found that Wendy's evidence was inconsistent and that the reclassification of the loans was a fabrication unsupported by any genuine agreement. The judge determined that her withdrawal of SGD 12,564,000 based on this reclassification was a misappropriation of company funds. The court also held that her 2015 share transfers were in breach of the company's Articles because no transfer notice was provided. The judge concluded that Wendy had breached her duties as a director by failing to hold proper AGMs and by using the company's accounts as conduits for her own funds. These actions justified relief under the oppression framework."
     },
-    "Label": "Claim Allowed",
+    "Label": "Liable",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "OS 1115/2002, RA 267/2002",
-      "Coram": "Kan Ting Chiu J",
-      "Judge": "Kan Ting Chiu",
-      "Date": "2003-03-22",
-      "Tribunal_Court": "High Court"
-    },
-    "Party_Details": {
-      "Role": "Plaintiff",
-      "Name": "Lau Kim Yang",
-      "Law_Firm": "Engelin Teh Practice LLC",
-      "Counsel": ["Harish Kumar"],
-      "Facts": [
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2002",
-          "Text": "Lau Kim Yang served as a director of Aquagen International Pte Ltd during a period of project-related conflict."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002",
-          "Text": "Lau Kim Yang was among the directors who did not facilitate a board resolution regarding the company's participation in desalination-related arbitration."
-        }
-      ],
-      "Issue": "Whether a minority shareholder has standing to seek a declaration of breach of duty against a director who contributes to a board deadlock.",
-      "Rule": "A shareholder may only pursue a claim belonging to the company if they obtain the court's permission under the statutory derivative action framework.",
-      "Application": "The director's refusal to attend board meetings caused an operational deadlock. A shareholder attempted to use this deadlock as a basis for a lawsuit in their own name, bypassing the gatekeeping function of section 216A of the Companies Act.",
-      "Judicial_Reasoning_Log": "The court struck out the claim against the director because the shareholder had not secured court leave. The judge emphasized that statutory derivative actions exist precisely to ensure that such suits are brought in good faith and in the company's interests, and cannot be circumvented by individual shareholder actions."
-    },
-    "Label": "Claim Allowed",
-    "Leakage_Score": 0
-  },
-  {
-    "Metadata": {
-      "Case_Number": "OS 1115/2002, RA 267/2002",
-      "Coram": "Kan Ting Chiu J",
-      "Judge": "Kan Ting Chiu",
-      "Date": "2003-03-22",
-      "Tribunal_Court": "High Court"
+      "Case_Number": "Suit No 758 of 2017",
+      "Coram": "High Court — Suit No 758 of 2017",
+      "Judge": "Chua Lee Ming J",
+      "Date": "2020-10-08",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
-      "Name": "Kiyue Co Ltd",
-      "Law_Firm": "Kenneth Tan Partnership",
-      "Counsel": ["Wang Wei Chi"],
+      "Name": "Ng Pei Ling Shirlyn",
+      "Law_Firm": "Ong Ying Ping Esq",
+      "Counsel": [
+        "Ong Ying Ping",
+        "Chua Kok Siong Kenneth"
+      ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2002",
-          "Text": "Kiyue Co Ltd was a minority shareholder of Aquagen International Pte Ltd (AIPL)."
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-08-07",
+          "Text": "Ng Pei Ling Shirlyn was appointed as a director of Teelek Realty in August 2012."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002",
-          "Text": "Kiyue supported the company’s participation in arbitration to resolve project difficulties, but was blocked by the company's directors."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2002-07-29",
-          "Text": "Kiyue issued a formal notice to the company's directors under section 216A, indicating its intent to seek court leave to sue the directors on behalf of the company."
+          "Fact_Date": "2015-07-28",
+          "Text": "Shirlyn received one share in the company from her mother and participated in a board decision to approve that transfer."
         }
       ],
-      "Issue": "Whether a minority shareholder can pursue a legal remedy for a wrong done to the company by bringing a claim in its own name.",
-      "Rule": "The proper plaintiff rule prevents individual shareholders from suing for wrongs to the company unless they are granted leave to bring a statutory derivative action.",
-      "Application": "Kiyue was a minority shareholder concerned about board deadlock. Despite issuing a statutory notice of its intent to sue on the company's behalf, it attempted to seek a judicial declaration against the directors in its own capacity as a shareholder.",
-      "Judicial_Reasoning_Log": "The court ruled that Kiyue lacked the standing (locus standi) to bring the claim. Because the alleged wrong—blocking the company's arbitration—was a wrong to the company itself, Kiyue was required to obtain the court's permission under section 216A. The court found that Kiyue's attempt to sue in its own name was an attempt to bypass the legal requirement to prove that such an action was in the best interests of the company."
+      "Issue": "Whether a director's participation in board decisions involving disputed share transfers and financial reclassifications aligns with fiduciary duties and the company's constitution.",
+      "Rule": "Directors have a duty to exercise due care and diligence. A director who permits the company's affairs to be conducted in an oppressive manner may be found to have participated in the oppression.",
+      "Application": "A daughter and son joined the company's board and participated in approving share transfers from their mother to themselves. These transfers were challenged by the co-founder (their father) as an improper bypass of his pre-emption rights. The legal tension involves whether the children, as directors, failed in their oversight duties by permitting these transfers and the concurrent reclassification of company funds.",
+      "Judicial_Reasoning_Log": "The court found that the 2015 share transfer to Shirlyn was invalid as it breached the company's Articles. Although Shirlyn was largely passive and left decisions to her mother, the court concluded that she had breached her duties as a director to act with due care and diligence. By failing to ensure compliance with the Articles and disregarding the plaintiff's interests as a shareholder, her conduct formed part of the broader oppressive environment that justified a winding-up order."
     },
-    "Label": "Claim Dismissed",
+    "Label": "Liable",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "OS 1115/2002, RA 267/2002",
-      "Coram": "Kan Ting Chiu J",
-      "Judge": "Kan Ting Chiu",
-      "Date": "2003-03-22",
-      "Tribunal_Court": "High Court"
+      "Case_Number": "Suit No 758 of 2017",
+      "Coram": "High Court — Suit No 758 of 2017",
+      "Judge": "Chua Lee Ming J",
+      "Date": "2020-10-08",
+      "Tribunal_Court": "High Court of the Republic of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
-      "Name": "Aquagen International Pte Ltd",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Name": "Ng Jin Ping Eugene",
+      "Law_Firm": "Ong Ying Ping Esq",
+      "Counsel": [
+        "Ong Ying Ping",
+        "Chua Kok Siong Kenneth"
+      ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2002",
-          "Text": "Aquagen International Pte Ltd was a company involved in a desalination project that became stalled due to technical and board-level disputes."
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2014-09-01",
+          "Text": "Ng Jin Ping Eugene was appointed as a director of Teelek Realty in September 2014."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-07-28",
+          "Text": "Eugene received one share in the company from his mother and joined the board decision that approved the transfer."
         }
       ],
-      "Issue": "Whether the company is the only party entitled to seek relief for wrongs committed by its directors.",
-      "Rule": "The company is the proper plaintiff for actions involving breaches of directorial duties.",
-      "Application": "The company faced internal deadlock regarding its legal strategy in a desalination project. A shareholder and the directors disputed whether the company should be the formal claimant in subsequent legal actions.",
-      "Judicial_Reasoning_Log": "The court affirmed that the company is the entity to which directors owe their duties. Consequently, any claim regarding those duties must be managed through the company or via a court-authorized derivative action. The court struck out attempts by a shareholder to bypass this structure."
+      "Issue": "Whether a director's participation in board decisions involving disputed share transfers and financial reclassifications aligns with fiduciary duties and the company's constitution.",
+      "Rule": "Directors must ensure that corporate actions, such as share transfers, are carried out in accordance with the company's constitution.",
+      "Application": "A daughter and son joined the company's board and participated in approving share transfers from their mother to themselves. These transfers were challenged by the co-founder (their father) as an improper bypass of his pre-emption rights. The legal tension involves whether the children, as directors, failed in their oversight duties by permitting these transfers and the concurrent reclassification of company funds.",
+      "Judicial_Reasoning_Log": "The court held that the transfer of one share to Eugene was invalid for non-compliance with the Articles of Association. Similar to his sister, Eugene was found to be a largely passive director. However, the court concluded that this passivity constituted a breach of his duty to act in the company's interests and with due care. The court treated the invalid transfers and his failure to protect the plaintiff's shareholder interests as part of the oppressive conduct under section 216."
     },
-    "Label": "Not Liable",
+    "Label": "Liable",
     "Leakage_Score": 0
   }
 ]

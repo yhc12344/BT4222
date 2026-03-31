@@ -115,7 +115,18 @@
         "Doreen Chia",
         "Khelvin Xu"
       ],
-      "Facts": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2010-01-01",
+          "Text": "Gryphon Real Estate Investment Corporation Pte Ltd was a shareholder of Griffin Real Estate Investment Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-01-01",
+          "Text": "Gryphon Real Estate Investment Corporation Pte Ltd held the majority shareholding in Griffin Real Estate Investment Holdings Pte Ltd relative to Sakae Holdings Ltd."
+        }
+      ],
       "Issue": "Whether ERC Holdings Pte Ltd's exercise of the ERC Option and participation in related share issuances altered the agreed shareholding balance and financial contributions under the joint venture with Sakae Holdings Ltd.",
       "Rule": "In a joint venture governed by a contractual agreement, the exercise of share options and issuance of new shares are generally comply with the agreed terms and to preserve or adjust shareholding proportions in accordance with the contractual framework.",
       "Application": "ERC Holdings Pte Ltd, controlled by Ong Siew Kwee, exercised the ERC Option to subscribe for additional shares in Griffin Real Estate Investment Holdings Pte Ltd, leading to a corresponding subscription by Sakae Holdings Ltd to maintain its percentage shareholding and increasing both parties' capital contributions to the joint venture company.",
@@ -182,7 +193,23 @@
         "Charmaine Chan-Richard",
         "Cara Soo Min"
       ],
-      "Facts": [],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-01-01",
+          "Text": "Ho Yew Kong served as a director of Griffin Real Estate Investment Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-01-01",
+          "Text": "As a director, Ho Yew Kong participated in board approvals and signed documents relating to transactions involving Griffin Real Estate Investment Holdings Pte Ltd, including the Lease Agreement, the Consultancy Agreement, and the May PMA."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-01",
+          "Text": "Ho Yew Kong filed a third-party claim seeking statutory contribution from Douglas Foo Peow Yong in relation to liabilities arising from the management of Griffin Real Estate Investment Holdings Pte Ltd."
+        }
+      ],
       "Issue": "Whether the pre-dispute conduct of Ho Yew Kong as a director of Griffin Real Estate Investment Holdings Pte Ltd, in the context of the joint venture between Sakae Holdings Ltd and ERC Holdings Pte Ltd, contributed to disputes over transactions and management of the joint venture company.",
       "Rule": "Directors of a joint venture company are generally act with reasonable diligence and to consider the interests of the company as a whole when participating in transactions and approving documentation.",
       "Application": "As a director of Griffin Real Estate Investment Holdings Pte Ltd, Ho Yew Kong participated in the management of the joint venture company alongside other directors associated with Sakae Holdings Ltd and ERC Holdings Pte Ltd, in a context where multiple related-party transactions and agreements were executed.",

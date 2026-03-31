@@ -180,7 +180,28 @@
       "Name": "Yit Chee Wah",
       "Law_Firm": "",
       "Counsel": [],
-      "Facts": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2017-06-12",
+          "Text": "An application for a judicial management order in respect of Tendcare Medical Group Holdings Pte Ltd was filed on 12 June 2017 by OCA, a creditor."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2017-07-28",
+          "Text": "On 28 July 2017, the court allowed the application for the appointment of Mr Yit Chee Wah as the interim judicial manager of Tendcare."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2017-09-11",
+          "Text": "On 11 September 2017, the court placed Tendcare under judicial management and appointed Mr Yit Chee Wah as its judicial manager."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-09-11",
+          "Text": "In his capacity as judicial manager, Mr Yit investigated Tendcare's affairs, focusing on substantial funds received from equity investors and lenders between 2014 and 2015 that were subsequently transferred to external entities."
+        }
+      ],
       "Issue": "Whether the judicial manager of Tendcare Medical Group Holdings Pte Ltd can obtain a declaration that specific individuals and entities are personally responsible for Tendcare’s debts on the basis that its business was carried on with intent to defraud creditors or for a fraudulent purpose.",
       "Rule": "In judicial management, the court may apply the fraudulent trading provision so that, if it appears that any business of the company has been carried on with intent to defraud creditors or for any fraudulent purpose, any person who was knowingly a party to the carrying on of the business in that manner can be declared personally responsible, without limitation, for all or any of the company’s debts or liabilities.",
       "Application": "Acting as judicial manager, Yit Chee Wah sought relief under the fraudulent trading provision by pointing to the sequence of fund-raising transactions and subsequent transfers from Tendcare Medical Group Holdings Pte Ltd to external entities. These flows, the absence of credible evidence that the funds were used for the stated corporate purposes, and the roles of the individuals controlling the relevant companies form the basis for determining which parties were knowingly involved in the manner in which Tendcare’s business was carried on and identifying the debts for which they should bear personal responsibility.",

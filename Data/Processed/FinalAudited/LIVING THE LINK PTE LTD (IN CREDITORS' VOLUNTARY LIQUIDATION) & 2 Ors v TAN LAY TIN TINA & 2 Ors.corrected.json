@@ -150,7 +150,23 @@
       "Name": "Chia Soo Hien",
       "Law_Firm": "",
       "Counsel": [],
-      "Facts": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2009-08-01",
+          "Text": "Following the termination of its lease at One Nassim on 31 July 2009, Living the Link Pte Ltd entered creditors’ voluntary liquidation."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-08-01",
+          "Text": "Chia Soo Hien was appointed as one of the joint and several liquidators of Living the Link Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-01-01",
+          "Text": "In his capacity as liquidator, Chia Soo Hien initiated Suit No 544 of 2012 to challenge various pre-liquidation asset and cash transfers executed between Living the Link Pte Ltd and its related entities."
+        }
+      ],
       "Issue": "Whether the pre-liquidation transfers of assets and payments by Living the Link Pte Ltd to related companies affected the recovery prospects of unsecured creditors represented by the liquidators.",
       "Rule": "In insolvency, transactions that place certain creditors in a better position than others within a defined look-back period may be adjusted so that unsecured creditors share available assets according to the statutory priority scheme.",
       "Application": "As a plaintiff acting through the liquidators of Living the Link Pte Ltd, Chia Soo Hien’s position depended on whether the transfers of inventory, shares, and cash to related companies constituted avoidable preferences that deprived the general pool of unsecured creditors.",
@@ -172,7 +188,23 @@
       "Name": "Leow Quek Shiong",
       "Law_Firm": "",
       "Counsel": [],
-      "Facts": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2009-08-01",
+          "Text": "Following the cessation of its retail business, Living the Link Pte Ltd was placed into creditors’ voluntary liquidation."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-08-01",
+          "Text": "Leow Quek Shiong was appointed as a joint and several liquidator of Living the Link Pte Ltd alongside Chia Soo Hien."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-01-01",
+          "Text": "Acting as liquidator, Leow Quek Shiong commenced legal action to examine and potentially reverse specific transactions made by the company's sole director in the period leading up to liquidation."
+        }
+      ],
       "Issue": "Whether the impugned transactions reduced the assets available to Living the Link Pte Ltd’s unsecured creditors and should be reversed for the benefit of the liquidation estate.",
       "Rule": "Liquidators may seek to set aside transactions that meet statutory criteria for avoidance so that the company’s estate is restored for collective distribution among unsecured creditors.",
       "Application": "As a co-liquidator of Living the Link Pte Ltd, Leow Quek Shiong challenged transfers to related companies that occurred when the company was in financial difficulty, aiming to recover those assets for the creditor pool.",

@@ -14,7 +14,28 @@
       "Counsel": [
         "Abigail Ang"
       ],
-      "Facts": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2001-01-27",
+          "Text": "Polybuilding (S) Pte Ltd held an extraordinary general meeting on 27 January 2001."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2001-01-27",
+          "Text": "At the extraordinary general meeting on 27 January 2001, an ordinary resolution was passed to remove Koh Guan Poh as a director of Polybuilding (S) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-01-27",
+          "Text": "During the extraordinary general meeting on 27 January 2001, Polymotor Pte Ltd cast a vote through a representative, Loh Song Huat."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-05-16",
+          "Text": "Polybuilding (S) Pte Ltd filed an application seeking a court declaration that Koh Guan Poh ceased to be a director as of 27 January 2001."
+        }
+      ],
       "Issue": "Whether the ordinary resolution passed at the extraordinary general meeting of Polybuilding (S) Pte Ltd on 2001-01-27 validly removed Koh Guan Poh from his position as director, having regard to the manner in which Polymotor Pte Ltd was represented at that meeting and the use of a written resolution under Article 92.",
       "Rule": "A company may remove a director by an ordinary resolution passed at a properly convened general meeting, and where the company’s articles allow resolutions in writing signed by a majority of directors to be valid as if passed at a duly called board meeting, such written resolutions must comply with the requirements of company law and the articles, including proper participation procedures for directors.",
       "Application": "Polybuilding (S) Pte Ltd relied on an ordinary resolution passed at its extraordinary general meeting on 2001-01-27 to treat Koh Guan Poh as removed from his position as director. Representation of the shareholder Polymotor Pte Ltd at that meeting depended on a written resolution signed by a majority of Polymotor’s directors under an article in similar terms to Article 92, and the effectiveness of that written resolution affected whether the shareholder representation and resulting vote at the extraordinary general meeting aligned with the company’s constitutional and procedural framework.",
@@ -38,7 +59,18 @@
       "Counsel": [
         "Anna Oei"
       ],
-      "Facts": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2001-01-27",
+          "Text": "Lim Heng Lee was a shareholder associated with the extraordinary general meeting of Polybuilding (S) Pte Ltd held on 27 January 2001."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-05-16",
+          "Text": "Polybuilding (S) Pte Ltd initiated an Originating Summons naming Lim Heng Lee as the first defendant, but did not seek any substantive remedy against him."
+        }
+      ],
       "Issue": "Whether any relief should be granted against Lim Heng Lee in relation to the resolution passed at the extraordinary general meeting of Polybuilding (S) Pte Ltd on 2001-01-27.",
       "Rule": "Relief in company law proceedings is granted only where the claimant establishes a basis for orders against the particular party in respect of the impugned corporate acts.",
       "Application": "Lim Heng Lee was a party associated with the extraordinary general meeting of Polybuilding (S) Pte Ltd on 2001-01-27, although the corporate actions in question primarily concerned the status of another director and representation by Polymotor Pte Ltd.",
@@ -127,7 +159,28 @@
       "Counsel": [
         "Goh Phai Cheng SC"
       ],
-      "Facts": [],
+      "Facts": [
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-12-13",
+          "Text": "At the material time, Loh Song Huat was a shareholder of Polymotor Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2000-12-13",
+          "Text": "At the material time, Loh Song Huat was a director of Polymotor Pte Ltd."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-12-13",
+          "Text": "Loh Song Huat was one of the three directors who signed a written resolution appointing himself as the corporate representative of Polymotor Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2001-01-27",
+          "Text": "Loh Song Huat attended the extraordinary general meeting of Polybuilding (S) Pte Ltd as the purported representative of Polymotor Pte Ltd and participated in the vote."
+        }
+      ],
       "Issue": "Whether the participation of Lim Soo Chong in signing the 2000-12-13 written resolution of Polymotor Pte Ltd had any effect on the validity of Polymotor Pte Ltd’s representation at the extraordinary general meeting of Polybuilding (S) Pte Ltd on 2001-01-27.",
       "Rule": "Directors who participate in a written resolution must do so in a manner consistent with company law principles governing collective decision-making, including the requirement that other directors entitled to participate are not improperly excluded from notice of the resolution.",
       "Application": "Lim Soo Chong’s signature on the 2000-12-13 written resolution formed part of the majority used to appoint a representative for Polymotor Pte Ltd, and the validity of that appointment depended on whether the process respected the participation rights of all directors, including those not involved in signing.",

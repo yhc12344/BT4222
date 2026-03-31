@@ -173,11 +173,6 @@
           "Text": "On 28 October 2009, the Accounting and Corporate Regulatory Authority informed Chiam Heng Luan Realty Private Limited that it had not complied with the Companies Act by failing to send out the requisite notice of annual general meeting 14 days before the meeting and advised the company to comply with the relevant provisions in future."
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-07-16",
-          "Text": "On 16 July 2009, the first plaintiff sent an email to his siblings asking them to buy his shares."
-        },
-        {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2010-06-07",
           "Text": "At the 2010 annual general meeting, the first plaintiff raised a concern that the annual rental payable by Sloane Court Hotel Pte Ltd for the Balmoral Property was $15,912."
@@ -318,44 +313,14 @@
           "Text": "The first plaintiff was involved in the hotel renovations in 1977 and 1981 as a representative of Chiam Heng Luan Realty Private Limited and Sloane Court Hotel Pte Ltd."
         },
         {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2012-11-07",
-          "Text": "On 7 November 2012, a notice of extraordinary general meeting of Chiam Heng Luan Realty Private Limited was sent to all shareholders to consider resolutions relating to actions of the directors and potential claims."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2012-11-22",
-          "Text": "On 22 November 2012, an extraordinary general meeting of Chiam Heng Luan Realty Private Limited was held, attended by all living shareholders including the plaintiffs, at which resolutions concerning potential actions against the directors were debated and put to vote."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2012-12-12",
-          "Text": "On 12 December 2012, the 2012 annual general meeting of Chiam Heng Luan Realty Private Limited was held, at which a resolution was tabled for shareholders to waive or ratify breaches of directors’ duties and release the directors from liability arising from those breaches."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-10-15",
-          "Text": "In October 2012, directors Ms Chiam Ai Thong and Mr Chiam Toon Tau formally requested to present their perspective on the company's matters in the ongoing dispute."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2012-11-20",
-          "Text": "In November 2012, Ms Chiam Ai Thong and Mr Chiam Toon Tau were permitted to formally present their views on the dispute."
-        },
-        {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2012-11-14",
           "Text": "In November 2012, Ms Chiam Ai Thong and Mr Chiam Toon Tau documented their perspective on the company's historical decisions."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-01-01",
-          "Text": "Four other shareholders, Ms Chiam Mui Eng, Ms Chiam Ai Peng, Ms Chiam Ai Cheng and Mr Chiam Toon Hai, formally expressed that they believed there was no basis for legal action and that it would not be in the interests of Chiam Heng Luan Realty Private Limited to bring legal proceedings against its directors."
         }
       ],
-      "Issue": "Whether, based on pre-dispute conduct and financial arrangements within a closely held family company, the plaintiffs could obtain leave to cause the company to pursue claims against its directors concerning rental terms, handling of company funds, and property-related transactions.",
+      "Issue": "Whether minority shareholders should be granted statutory leave to commence a derivative action against directors for alleged breaches of duty regarding property management and fund handling.",
       "Rule": "Under section 216A of the Companies Act, a complainant seeking leave to commence a derivative action in the name and on behalf of a company must give prior notice to the directors, act in good faith, and there is a reasonable basis for the proposed claims and that it appears prima facie to be in the interests of the company for the action to be brought.",
-      "Application": "The plaintiffs relied on historical rental levels, internal accounting entries, and patterns of information flow within the family-run company to argue that certain transactions and arrangements warranted company claims against the directors, while the directors and other shareholders pointed to the long-standing family business structure, funding history, and shareholder voting outcomes to support continuation of existing practices and internal handling of funds.",
+      "Application": "Minority shareholders in a family-owned real estate company sought to sue the directors on the company's behalf over historical rental rates, renovation expenses, and the commingling of overseas rental income in a director's personal account. The legal tension involves whether these proposed claims present a legitimate case in the company's interests, particularly given prior shareholder ratification of the directors' actions.",
       "Judicial_Reasoning_Log": "The judge considered the plaintiffs' application under section 216A of the Companies Act and evaluated each proposed head of claim. For the Balmoral Property, the judge accepted that the rental arrangement pegged to property tax had been set by the founders and that Chiam Heng Luan Realty Private Limited and Sloane Court Hotel Pte Ltd had been treated as a single family enterprise. The court noted that management decisions on rental levels are commercial matters and that the long-standing practice, supported by the majority of shareholders at the extraordinary general meeting, did not provide a legitimate and arguable basis for a derivative claim. For the alleged loans of $222,731, the judge accepted the explanation that the sum represented rental income from the Shanghai Properties held by director Ai Huem for the company, and that there was no realistic basis for a claim absent a refusal to remit the funds. Regarding the Shanghai Properties, the court rejected claims based on alleged vacancy and suboptimal rents as speculative, but found an arguable case that Ai Huem had not properly accounted for rental income and expenses and had mixed company funds with her personal accounts, including transfers to personal fixed deposits. On that limited basis, the judge granted leave for a derivative action seeking an account of rental moneys from the Shanghai Properties for a defined period. Claims concerning the Malaysian Properties, the Serangoon Gardens Property, and renovation expenses were rejected as lacking evidential foundation or being directed at decisions made before the current directors took office or too remote in time. In assessing whether the proposed actions were in the interests of the company, the judge concluded that only the accounting for Shanghai rental funds met the threshold. On good faith, the court found that the plaintiffs were genuinely aggrieved but had allowed personal disputes to colour their assessment, leading to overbroad and speculative complaints; nonetheless, the limited Shanghai accounting claim was permitted. Overall, leave was allowed only in respect of the claim for an account of rental moneys from the Shanghai Properties and dismissed for the other proposed causes of action."
     },
     "Label": "Claim Allowed",
@@ -453,16 +418,6 @@
           "Text": "HL Chiam died in 2008 at the age of 94."
         },
         {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "1977-01-01",
-          "Text": "CHLR had consistently held AGMs since 1977 and notices for these meetings were given on an informal basis by telephone calls or emails."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "1974-01-01",
-          "Text": "The first plaintiff had attended CHLR’s AGMs in 1974, 1975, 1977, 1981, 1987, 1991, 1996, 2010 and 2011."
-        },
-        {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2009-01-01",
           "Text": "After the first plaintiff complained to ACRA about the company’s failure to give proper notice, various shareholders explained to ACRA that CHLR had been run informally and that the meetings had also been informal."
@@ -480,22 +435,7 @@
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2010-06-07",
-          "Text": "The rental was pegged at a rate that would cover the annual property tax payable by CHLR in respect of the Balmoral Property."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-06-07",
           "Text": "HL Chiam and Mdm Lim had previously decided that SCH should not pay more than the property tax as rental because any excess would be taxed by IRAS as income in the hands of CHLR, and that income tax was then fixed at a flat 40% of chargeable income."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-06-07",
-          "Text": "Ai Huem was appointed to administer the Shanghai Properties and banked the rental payments into her own personal bank account in Shanghai because CHLR could not open an account there."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2010-01-01",
-          "Text": "The sum of $222,731 recorded as a 'loan' was rental received from the Shanghai Properties, which Ai Huem held for CHLR and would remit upon request."
         },
         {
           "Fact_Type": "CONDUCT",
@@ -550,7 +490,7 @@
       ],
       "Issue": "Whether the internal decisions and practices of a family-owned property holding company, including rental arrangements, handling of overseas rental income, and historical renovation expenditures, should give rise to court-authorised derivative proceedings against its directors in the company’s name.",
       "Rule": "When shareholders seek leave under section 216A of the Companies Act to commence a derivative action in the name of a company, the court assesses whether the statutory notice requirement is met, whether the applicant is acting in good faith, and whether there is a reasonable basis for the proposed claims such that it appears prima facie to be in the interests of the company to pursue them, taking into account the company’s own decisions and shareholder resolutions.",
-      "Application": "The company’s long-standing family-run structure, the founders’ original rental and funding arrangements, the directors’ continuation of those practices, and the subsequent shareholder resolutions at the extraordinary and annual general meetings were weighed against the plaintiffs’ concerns about rental levels, accounting entries, and the handling of Shanghai and Malaysian rental income to determine which, if any, matters warranted court-authorised proceedings in the company’s name.",
+      "Application": "Chiam Heng Luan Realty Private Limited was the company in whose name the plaintiffs sought leave to commence derivative proceedings under section 216A against the directors. The proposed claims related to long-standing family business arrangements, including the rental charged for the Balmoral Property, the treatment of amounts recorded as owing by directors, the receipt and handling of rental income from overseas properties, and historical property expenditures. The dispute therefore concerned whether those matters provided a sufficient basis for court-authorised proceedings on behalf of the company.",
       "Judicial_Reasoning_Log": "The court examined the internal affairs of Chiam Heng Luan Realty Private Limited in the context of a section 216A application. It recognised that the company and Sloane Court Hotel Pte Ltd had been operated as a family enterprise under the founders, with rental for the Balmoral Property pegged to property tax and practices carried forward by the second-generation directors. The judge emphasised that courts are slow to interfere with bona fide commercial decisions of directors, particularly in family-owned companies where corporate formalities may be relaxed. The majority shareholder support at the extraordinary general meeting and the ratification resolution at the 2012 annual general meeting were treated as significant indicators that the company, through its shareholders, did not wish to pursue most of the proposed claims. The judge found that alleged under-renting of the Balmoral Property, Malaysian Properties, and the Serangoon Gardens Property, as well as historical renovation expenditures, did not amount to legitimate and arguable causes of action for the company, given the evidence and the time periods involved. However, the handling of rental income from the Shanghai Properties by director Ai Huem, including the use of her personal bank accounts and transfers to personal fixed deposits, raised sufficient concern about proper accounting and segregation of company funds to justify a limited derivative claim for an account of rental moneys. The court concluded that only this narrow claim appeared prima facie to be in the company’s interests and granted leave accordingly, while dismissing the remainder of the plaintiffs’ proposed causes of action."
     },
     "Label": "Partially Liable",

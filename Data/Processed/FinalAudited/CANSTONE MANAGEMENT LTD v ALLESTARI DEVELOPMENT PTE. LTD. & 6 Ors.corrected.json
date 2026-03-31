@@ -22,16 +22,6 @@
           "Text": "Canstone Management Limited is a shareholder of Allestari Development Pte Ltd and holds 1.7% of the shares in Allestari according to the company register."
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2024-01-01",
-          "Text": "Canstone Management Limited was not a party to HC/OC 798/2023 concerning the relative shareholdings of Clarity China Partners LP and N Century Holding Company Limited."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2024-01-01",
-          "Text": "Before commencing Originating Application No 1153 of 2024, Canstone Management Limited was aware of an interim injunction granted on 2022-11-25 in HC/OC 798/2023 that restrained changes to the composition of the board of Allestari Development Pte Ltd."
-        },
-        {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2008-07-01",
           "Text": "Li Yi was appointed as a director of Allestari Development Pte Ltd in 2008 and is described as the president and ultimate beneficial owner of Canstone Management Limited."
@@ -72,11 +62,6 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2011-01-01",
-          "Text": "The 4th to 6th defendants each hold less than 10% of the shares in Allestari Development Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2011-01-01",
           "Text": "Allway Minerals and Science Technology Co., Ltd was the majority shareholder of Allestari Development Pte Ltd until 2011."
         },
         {
@@ -98,16 +83,6 @@
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2006-12-11",
           "Text": "Allestari Development Pte Ltd has a memorandum and articles of association dated 2006-12-11, referred to as its Constitution, which includes provisions on nomination, appointment and removal of directors such as Articles 76A and 86 to 88."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2011-01-01",
-          "Text": "Articles 86 to 88 of Allestari Development Pte Ltd's Constitution provide that, except with respect to the Investor Director, the company may by ordinary resolution remove any director and appoint another person, and may appoint new directors by ordinary resolution or by decision of the existing directors, Article 76A."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2011-01-01",
-          "Text": "The Companies Act 1967 (2020 Rev Ed) provides default rules applicable to Allestari Development Pte Ltd, including section 149B on appointment of directors by ordinary resolution where the constitution does not otherwise provide, and section 152(9) on removal of directors of a private company by ordinary resolution the constitution."
         }
       ],
       "Issue": "Whether the court should imply terms into a company's constitution to reallocate specific director appointment rights to current majority shareholders when the original appointing shareholder has exited, or whether existing statutory and constitutional mechanisms for director removal are sufficient.",
@@ -160,7 +135,7 @@
       ],
       "Issue": "Whether an originating application seeking to mandate changes to a company's board composition should be struck out as an abuse of process when it constitutes a collateral attack on a pre-existing interim injunction obtained by a substantial shareholder.",
       "Rule": "Under Order 9 Rule 16(1) of the Rules of Court 2021, the court may strike out a pleading that is legally or factually unsustainable or constitutes an abuse of process. Initiating parallel proceedings to achieve an outcome (such as altering a board of directors) that is explicitly prohibited by an active interim injunction in another suit is an impermissible collateral attack and a clear abuse of process.",
-      "Application": "N Century Holding Company Limited, holding a 20.28% stake in Allestari Development Pte Ltd, was engaged in a major dispute (HC/OC 798/2023) regarding relative shareholdings. In that suit, N Century successfully obtained a strict interim injunction prohibiting any changes to Allestari's board composition, specifically to prevent the removal of three incumbent directors. Subsequently, a 1.7% minority shareholder (Canstone) filed a new originating application explicitly seeking court orders to rewrite the constitution and compel the removal of those exact same three directors. N Century intervened, applying to strike out Canstone's application on the grounds that it was a legally unsustainable attempt to rewrite the constitution and an abusive collateral attack designed to bypass the protective injunction N Century had already secured.",
+      "Application": "The legal conflict concerns the procedural validity of a shareholder seeking to imply terms into the company’s constitution while a separate injunction in a related suit governs the board's composition.",
       "Judicial_Reasoning_Log": "The court agreed completely with N Century's arguments and struck out the originating application. The judge ruled that Canstone's application was a blatant abuse of process because it operated as a direct collateral attack on the interim injunction protecting the board's composition in HC/OC 798/2023. If Canstone wished to alter the board, the legally correct procedure was to seek leave to intervene in the suit where the injunction was granted, rather than filing a separate, conflicting action. Furthermore, the court adopted N Century's argument that Canstone's request to imply terms into the constitution was factually and legally unsustainable; there was no necessary gap in the constitution, as existing statutory and constitutional rules allowed for director removal via ordinary resolution. Because the claims were abusive and legally defective, the court struck out the action in its entirety against all defendants to prevent the risk of inconsistent judgments or adverse effects on N Century's protected position, awarding costs in N Century's favor."
     },
     "Label": "Not Liable",
