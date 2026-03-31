@@ -10,8 +10,12 @@
     "Party_Details": {
       "Role": "Plaintiff",
       "Name": "Innovative Corporation Pte Ltd",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Wee Swee Teow LLP",
+      "Counsel": [
+        "Lee Soo Chye",
+        "Wong Ee Der Julian",
+        "Ooi Oon Tat"
+      ],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
@@ -21,106 +25,56 @@
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2004-08-16",
-          "Text": "From its incorporation, Ms Annie Chen Liping was a director and major shareholder of Innovative Corporation Pte Ltd and acted as its main decision-maker."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2004-08-16",
-          "Text": "At inception, Innovative Corporation Pte Ltd conducted business organising events to introduce investors from China to potential business opportunities and investments in Singapore."
+          "Text": "Ms Annie Chen Liping was a director and major shareholder and acted as the main decision-maker for the company."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2009-01-01",
-          "Text": "The business focus of Innovative Corporation Pte Ltd later shifted to property development and building construction, similar to the business of China Heping Construction (Far East) Pte Ltd."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2001-06-13",
-          "Text": "China Heping Construction (Far East) Pte Ltd was incorporated in Singapore on 13 June 2001 as a subsidiary of Tianjin Heping Construction Group Co Ltd, and Ms Annie Chen Liping was its managing director."
+          "Text": "The company's business focus shifted to property development and building construction."
         },
         {
           "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "2009-07-09",
-          "Text": "Tianjin Heping Construction Group Co Ltd and Fong Yun Thai Association signed a Cooperation Agreement on 9 July 2009 to jointly develop a residential housing project at 33 Holland Link, with construction work to be carried out by China Heping Construction (Far East) Pte Ltd."
+          "Text": "Tianjin Heping Construction Group Co Ltd and Fong Yun Thai Association signed a Cooperation Agreement for a residential project at 33 Holland Link."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2009-07-09",
-          "Text": "Under the 9 July 2009 Cooperation Agreement, the project cost was stated as S$115 million, the expected completion period was two and a half years, and 27 of 82 semi-detached units were to be allocated to Fong Yun Thai Association and 55 units to Tianjin Heping Construction Group Co Ltd."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2009-07-09",
-          "Text": "The Cooperation Agreement dated 9 July 2009 between Fong Yun Thai Association and Tianjin Heping Construction Group Co Ltd stated that matters not discussed would be negotiated separately and that the agreement would become effective on the date of signing."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2009-07-16",
-          "Text": "On 16 July 2009, ATI Architects issued a letter of award engaging China Heping Construction (Far East) Pte Ltd to undertake excavation works at 33 Holland Link for the project."
+          "Text": "Under the Cooperation Agreement, the project involved building 82 semi-detached units with an estimated construction cost of S$115 million."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2009-08-17",
-          "Text": "Excavation works at the 33 Holland Link site commenced on or around 17 August 2009, carried out by China Heping Construction (Far East) Pte Ltd."
+          "Text": "Excavation works at the 33 Holland Link site commenced, carried out by a related construction entity."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2009-09-23",
-          "Text": "A document titled Joint Venture Agreement dated 23 September 2009 was prepared in English identifying Innovative Corporation Pte Ltd as the developer appointed by Tianjin Heping Construction Group Co Ltd and naming three of the four land trustees as counterparties."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2009-09-23",
-          "Text": "The 23 September 2009 Joint Venture Agreement recorded the parties' intention to enter into a joint venture for the 33 Holland Link project, including scope, completion period and project management details, but it was not executed by all named parties."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2009-11-01",
-          "Text": "Between November 2009 and January 2010, several further drafts of a more detailed Joint Venture Agreement between Fong Yun Thai Association and Innovative Corporation Pte Ltd were prepared and exchanged but not executed."
+          "Text": "A draft Joint Venture Agreement identified Innovative Corporation Pte Ltd as the developer appointed for the project."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2009-12-04",
-          "Text": "On 4 December 2009, Mr Ow Chun Ming emailed Ms Annie Chen Liping proposing to become a 50% shareholder in Innovative Corporation Pte Ltd, with Clydesbuilt Group and Tianjin Heping Construction Group Co Ltd jointly undertaking construction, supervision, financing, regulatory compliance and marketing for the 33 Holland Link project."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-01-11",
-          "Text": "On 11 January 2010, the issued share capital of Innovative Corporation Pte Ltd was increased to S$1 million through cash injections from Ms Annie Chen Liping and Mr Wayne Yang."
+          "Text": "Mr Ow Chun Ming proposed to become a 50% shareholder in Innovative Corporation Pte Ltd to jointly undertake the 33 Holland Link project."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2010-02-18",
-          "Text": "On 18 February 2010, Mr Ow Chun Ming was recorded in the Accounting and Corporate Regulatory Authority records as a director of Innovative Corporation Pte Ltd."
+          "Text": "Mr Ow Chun Ming was recorded in regulatory records as a director of Innovative Corporation Pte Ltd."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2010-02-24",
-          "Text": "On 24 February 2010, 500,000 shares, representing 50% of the issued share capital of Innovative Corporation Pte Ltd, were transferred to Mr Ow Chun Ming."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2010-02-24",
-          "Text": "After the 24 February 2010 share transfer, the shareholders of Innovative Corporation Pte Ltd were Ms Annie Chen Liping with 40%, Mr Ow Chun Ming with 50%, and Mr Wayne Yang with 10%."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2010-01-10",
-          "Text": "In January 2010 email correspondence, Ms Annie Chen Liping expressed concern to Mr Ow Chun Ming that Fong Yun Thai Association might not proceed with Innovative Corporation Pte Ltd for the 33 Holland Link project, and he responded that they were close to an agreement and that he was seeking a bankable joint venture agreement."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2010-03-27",
-          "Text": "On 27 March 2010, Mr Leow Soon Guan emailed Ms Annie Chen Liping attaching a draft termination agreement intended to be executed by Tianjin Heping Construction Group Co Ltd and Innovative Corporation Pte Ltd regarding the 33 Holland Link project."
+          "Text": "500,000 shares, representing 50% of the issued share capital, were transferred to Mr Ow Chun Ming."
         }
       ],
-      "Issue": "Whether, before any dispute arose, Innovative Corporation Pte Ltd had a concrete and ongoing business opportunity to act as developer for the 33 Holland Link project and how the involvement of its director-shareholder, Mr Ow Chun Ming, affected that opportunity.",
-      "Rule": "Directors of a company are generally act in the interests of the company, avoid situations where their personal interests conflict with the company’s interests, and not appropriate for themselves business opportunities that the company is actively pursuing.",
-      "Application": "Innovative Corporation Pte Ltd, controlled in decision-making by Ms Annie Chen Liping, moved from event organisation into property development and became involved in the 33 Holland Link project through the Cooperation Agreement between Tianjin Heping Construction Group Co Ltd and Fong Yun Thai Association and the subsequent draft Joint Venture Agreement naming Innovative Corporation Pte Ltd as developer. Excavation works were commenced by China Heping Construction (Far East) Pte Ltd, and further joint venture drafts were exchanged. In late 2009, Ms Chen engaged with Mr Ow Chun Ming, an experienced developer, who proposed by email on 4 December 2009 to become a 50% shareholder in Innovative Corporation Pte Ltd and to have his group jointly undertake the project with Tianjin Heping Construction Group Co Ltd. Following this, the company’s capital was increased to S$1 million, and Mr Ow became both a director and 50% shareholder in February 2010. During this period, Ms Chen relied on Mr Ow’s industry experience and contacts in relation to the project, while Fong Yun Thai Association’s internal committees and lawyers continued to work on documentation and project arrangements with the plaintiff and related entities.",
-      "Judicial_Reasoning_Log": "The court analysed whether the 33 Holland Link project was a maturing corporate opportunity of the plaintiff, whether the plaintiff was actively pursuing it, and whether Mr Ow’s resignation and subsequent tender for the project constituted a breach of fiduciary duties. It considered Canadian Aero Service Ltd v O’Malley and related authorities on corporate opportunities, emphasising that a director may be accountable even after resignation if he resigns to appropriate a maturing opportunity the company is pursuing. The judge rejected the defendants’ argument that Mr Ow’s fiduciary duties were narrowly confined to a future joint venture and found that he owed the usual fiduciary duties of a director. The court found that the project was a concretised opportunity, not merely speculative, and that the plaintiff had invested resources and was still pursuing it through negotiations and draft agreements. The judge held that the likelihood of the plaintiff ultimately securing the project was irrelevant to liability, following Industrial Development Consultants Ltd v Cooley and Regal (Hastings) Ltd v Gulliver. The court concluded that Mr Ow’s resignation was prompted by his wish to acquire the project for himself, noting his rapid engagement with Fong Yun Thai Association, his participation in the URA meeting as the proposed new developer, and his tender for the project while still a director. The judge did not accept that Ms Chen had consented to or ratified any breach, and further held that any ratification would have required shareholder approval, including consideration of the position of minority shareholder Mr Wayne Yang. On the inducement of breach of contract claim, the court found that there was no binding contract between the plaintiff and Fong Yun Thai Association based on the Cooperation Agreement and the unexecuted Joint Venture Agreement, and that the first defendant did not procure a breach. The alleged profit-sharing agreement of 25 July 2010 was rejected on the evidence. For knowing receipt, the court considered whether a diverted corporate opportunity could constitute trust property and examined authorities such as CMS Dolphin Ltd v Simonet, Swiss Butchery Pte Ltd v Huber Ernst, and Ultraframe (UK) Ltd v Fielding, before determining the second defendant’s accessory liability and appropriate remedies."
+      "Issue": "Whether Innovative Corporation Pte Ltd had a maturing business opportunity to act as the developer for the 33 Holland Link project, and whether the actions of its director-shareholder constituted a diversion of that opportunity.",
+      "Rule": "Directors owe a fiduciary duty to act in the best interests of the company. This includes a strict prohibition against exploiting or diverting maturing corporate opportunities that the company is actively pursuing, regardless of whether the company could ultimately secure the opportunity.",
+      "Application": "Innovative Corporation Pte Ltd invested resources into the 33 Holland Link project, including participating in site excavation and negotiating a draft Joint Venture Agreement naming it as the developer. Ow Chun Ming joined the company as a director and 50% shareholder to assist with the project. During his tenure, he participated in regulatory meetings where he was presented as the replacement developer and subsequently submitted a personal tender for the project through a separate vehicle without the company's informed consent.",
+      "Judicial_Reasoning_Log": "The 33 Holland Link project represents a maturing corporate opportunity because the company had advanced beyond speculation into physical site work and detailed negotiations. A director's fiduciary duties prohibit the appropriation of such an opportunity. The rapid engagement with the project partner, participation in regulatory meetings as the new developer, and submission of a personal tender while still holding office constitute a clear breach of the duty of loyalty. Liability for the diversion is established independent of the company's ultimate capacity to complete the project."
     },
     "Label": "Claim Allowed",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -133,177 +87,51 @@
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Ow Chun Ming",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Lee & Lee",
+      "Counsel": [
+        "Quek Mong Hua",
+        "Teo Jin Seng",
+        "Tan Yeow Hiang"
+      ],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2010-01-01",
-          "Text": "Mr Ow Chun Ming, also known as Mr Victor Ow, is a real estate developer with 30 years of experience in the industry and is the Chairman and CEO of the Clydesbuilt Group of companies."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2010-05-17",
-          "Text": "The second defendant was incorporated on 17 May 2010 for the purpose of developing the project which is the subject matter of this action."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2006-01-01",
-          "Text": "Around 2006, Ms Annie Chen Liping met Mr Ow Chun Ming through a mutual friend when she expressed interest in being a subcontractor for one of his construction projects."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2007-01-01",
-          "Text": "In or around 2007, Mr Ow Chun Ming sought Ms Chen's help for a contact in Tianjin, China, because he was encountering some difficulties in one of his projects there."
+          "Text": "Ow Chun Ming is a real estate developer with 30 years of experience and Chairman of the Clydesbuilt Group."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2009-09-01",
-          "Text": "Sometime in September 2009, the first defendant drove by the site of the Project on his way home, saw Ms Chen there supervising the land excavation works, and stopped to speak to her briefly about the Project."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-09-01",
-          "Text": "It is not disputed that the pair subsequently met at his home to talk about the Project in more detail."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2009-09-01",
-          "Text": "Ms Chen showed him the Joint Venture Agreement, but not the Cooperation Agreement because it was in Chinese and the first defendant could not read Chinese."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-12-01",
-          "Text": "In December 2009, the first defendant executed his consent to act as a director for the plaintiff and also the share transfer as transferee of half of the issued capital of the plaintiff."
+          "Text": "Ow Chun Ming observed excavation works at the project site and engaged with the plaintiff company regarding the Joint Venture Agreement."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2010-02-18",
-          "Text": "The first defendant was actually reflected as a director of the plaintiff in the records only on 18 February 2010 when the relevant forms were lodged with ACRA."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2010-02-24",
-          "Text": "On 24 February 2010, he was transferred 500,000 shares in the plaintiff, which was 50% of the company's issued share capital."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-01-01",
-          "Text": "On 1 January 2010, the first defendant left Singapore for a five-week holiday to Paris."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2010-01-10",
-          "Text": "Emails between Ms Chen and the first defendant showed that she was increasingly disheartened by the change in attitude by FYTA, and the first defendant encouraged her in his emails."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-02-24",
-          "Text": "Ms Chen introduced the first defendant at a lunch with FYTA's representatives on 24 February 2010 as one of her friends who was a developer."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-02-24",
-          "Text": "After lunch, the first defendant showed FYTA's representatives around a project he had recently completed at 18 Lornie Road ('Lornie 18')."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-02-26",
-          "Text": "Two to three days after the lunch, some FYTA representatives, including Mr Leow, also visited the first defendant at his newly renovated bungalow, which was just a stone's throw away from the Project site."
+          "Text": "Ow Chun Ming was formally registered as a director and 50% shareholder of Innovative Corporation Pte Ltd."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2010-03-02",
-          "Text": "On 2 March 2010, Mr Leow and the first defendant attended a meeting with the URA to seek an extension of the PP by another six months."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-03-02",
-          "Text": "According to Mr Ho's evidence, Mr Leow did most of the talking at the meeting and was trying to convince the URA that the work at the Project site, which had stalled, would be proceeding again soon. The suggestion was that the first defendant would be on board as the new developer and Mr Ho the new architect."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-03-02",
-          "Text": "Ultimately, the URA agreed to extend the PP by another six months."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2010-03-18",
-          "Text": "Between 18 March 2010 and 24 August 2010, on his instructions, Ms Ng conducted multiple ACRA searches to ascertain whether his resignation as a director had been effected."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2010-04-01",
-          "Text": "According to Mr Leow's evidence, it was in the first half of April 2010 when he first found out from an ACRA search on the plaintiff that the first defendant was one of the plaintiff's directors and shareholders."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2010-04-07",
-          "Text": "On or around 7 April 2010, the first defendant received an official invitation to tender for the Project."
+          "Text": "Ow Chun Ming attended a meeting with the Urban Redevelopment Authority seeking an extension for the project, where he was suggested as the new developer."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2010-04-19",
-          "Text": "The first defendant submitted his bid on 19 April 2010."
+          "Text": "Ow Chun Ming submitted a personal bid for the project while still listed as a director of the plaintiff company."
         },
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2010-05-04",
-          "Text": "On 4 May 2010, the board of FYTA accepted his proposal."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2010-05-17",
-          "Text": "The second defendant was incorporated on 17 May 2010 as the vehicle to carry out the Project."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2010-10-20",
-          "Text": "At the time of its incorporation, the first defendant and his brother were appointed to the board of directors of the second defendant. On 20 October 2010, four more directors were appointed – the first defendant's sister, and three representatives from FYTA, including Mr Chan and Mr Leow."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2010-10-20",
-          "Text": "On 20 October 2010, pursuant to a sale and purchase agreement, the second defendant acquired from the trustees of FYTA the land on which the residential units would be built. The purchase price was S$70 million, and it would be paid by setting off against FYTA's share of the development costs for the Project."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2010-10-07",
-          "Text": "On 7 October 2010, the defendants, Clydesbuilt Investment Pte Ltd and FYTA entered into a joint venture agreement. The second defendant had a paid-up share capital of S$1 million, which was provided by its sole shareholder, Clydesbuilt Investment Pte Ltd. Representatives of FYTA were issued 1,000,000 preference shares at a par value of S$0.01 each, totalling S$10,000."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2010-10-07",
-          "Text": "FYTA was entitled to 25 of the 82 residential units that would be built, while Clydesbuilt Investment Pte Ltd was entitled to 57 units."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2014-01-01",
-          "Text": "The Project was completed sometime in 2014."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2018-02-26",
-          "Text": "On 26 February 2018, the second defendant and FYTA entered into a sale and purchase agreement."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2018-07-31",
-          "Text": "On 31 July 2018, 21 of the 25 units earmarked for FYTA were transferred to them, as four had been sold earlier on."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2018-07-31",
-          "Text": "Thereafter, the 1,000,000 preference shares held by FYTA were cancelled, and FYTA's representatives resigned as directors from the second defendant's board."
+          "Text": "The board of the land-owning association accepted Ow Chun Ming's personal proposal for the project."
         }
       ],
-      "Issue": "Whether, before any dispute arose, Mr Ow Chun Ming’s role as an experienced developer, director and 50% shareholder of Innovative Corporation Pte Ltd, and his subsequent establishment and use of Clydesbuilt (Holland Link) Pte Ltd for the 33 Holland Link project, created a conflict between his personal project participation and the company’s existing project opportunity.",
-      "Rule": "Individuals who become directors and significant shareholders of a company are generally use project information and counterpart relationships obtained in that capacity for the company’s benefit, and to avoid situations where they personally pursue the same defined project opportunity through separate vehicles while still holding office in the company.",
-      "Application": "By late 2009, Mr Ow Chun Ming had detailed knowledge of the 33 Holland Link project through discussions with Ms Annie Chen Liping and review of the Joint Venture Agreement. He proposed to become a 50% shareholder in Innovative Corporation Pte Ltd and to have his group jointly undertake the project with Tianjin Heping Construction Group Co Ltd. In December 2009 he signed documents to become a director and transferee of half the company’s shares, and by February 2010 he was recorded as a director and 50% shareholder. Ms Chen introduced him to Fong Yun Thai Association’s leadership on 24 February 2010 in the context of the plaintiff’s existing project arrangements, and he then accompanied them to view his completed development and hosted them at his nearby home. On 2 March 2010 he attended the Urban Redevelopment Authority meeting with Fong Yun Thai Association’s new project chairman and his own architect, where they presented a new development team and obtained an extension of Provisional Permission. Within weeks, he received a formal invitation to tender, submitted his own bid on 19 April 2010, and had his proposal accepted on 4 May 2010. He then incorporated Clydesbuilt (Holland Link) Pte Ltd on 17 May 2010 as the project vehicle, entered into a joint venture and land acquisition structure with Fong Yun Thai Association in October 2010, and oversaw completion and unit allocation under that structure.",
-      "Judicial_Reasoning_Log": "The court examined whether Mr Ow’s conduct amounted to a diversion of a maturing corporate opportunity belonging to Innovative Corporation Pte Ltd. It held that he owed full fiduciary duties as a director, rejecting the argument that his duties were limited to a future joint venture. Applying Canadian Aero Service Ltd v O’Malley, the judge found that the 33 Holland Link project was a maturing business opportunity that the plaintiff was actively pursuing through the Cooperation Agreement, excavation works, and ongoing joint venture negotiations. The court concluded that Mr Ow’s resignation was prompted by his wish to acquire the project personally, noting his rapid engagement with Fong Yun Thai Association, his role at the URA meeting as the proposed new developer, and his tender submission while still a director. The judge rejected his account of an early undated resignation and found that his formal resignation occurred only in August 2010, after his tender had been accepted. The court did not accept that Ms Chen had consented to his independent pursuit of the project or that any shareholder ratification had occurred, particularly in light of minority shareholder Mr Wayne Yang’s position. On the inducement of breach of contract claim, the court held that there was no binding contract between the plaintiff and Fong Yun Thai Association based on the Cooperation Agreement and unexecuted Joint Venture Agreement, and that Mr Ow did not procure a breach. The alleged 25 July 2010 profit-sharing agreement was rejected due to evidential weaknesses. In assessing accessory liability of Clydesbuilt (Holland Link) Pte Ltd, the court considered whether the diverted corporate opportunity and resulting contractual rights constituted trust property and applied authorities such as CMS Dolphin Ltd v Simonet, Swiss Butchery Pte Ltd v Huber Ernst, and Ultraframe (UK) Ltd v Fielding to determine whether knowing receipt or dishonest assistance was established."
+      "Issue": "Whether Ow Chun Ming’s role as a director and 50% shareholder of Innovative Corporation Pte Ltd created a fiduciary conflict when he personally pursued the 33 Holland Link project.",
+      "Rule": "A director must utilize project information and counterpart relationships obtained in their corporate capacity solely for the company’s benefit. A director cannot compete with the company by pursuing the same defined opportunity through separate vehicles while holding office.",
+      "Application": "Ow Chun Ming acquired detailed knowledge of the 33 Holland Link project through the plaintiff company and became a director and 50% shareholder to help realize the development. However, he attended regulatory meetings with the project partner where he was introduced as a replacement developer. He received a formal invitation to tender and submitted a personal bid before his formal resignation as a director was recorded, subsequently incorporating a new vehicle to carry out the development.",
+      "Judicial_Reasoning_Log": "The submission of a personal bid for a project that the company is actively pursuing presents a direct conflict of interest. Fiduciary duties apply strictly to existing, maturing opportunities. The director's presentation of a new development team to regulators and his tender submission while holding office represent the unauthorized appropriation of a corporate opportunity. The absence of informed consent or shareholder ratification confirms the breach of fiduciary duty."
     },
     "Label": "Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -316,51 +144,40 @@
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Clydesbuilt (Holland Link) Pte. Ltd.",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Lee & Lee",
+      "Counsel": [
+        "Quek Mong Hua",
+        "Teo Jin Seng",
+        "Tan Yeow Hiang"
+      ],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2010-05-17",
-          "Text": "Clydesbuilt (Holland Link) Pte Ltd was incorporated on 17 May 2010 for the purpose of developing the project which was the subject matter of the action."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2010-10-07",
-          "Text": "On 7 October 2010, Clydesbuilt Investment Pte Ltd and FYTA entered into a joint venture agreement. The second defendant had a paid-up share capital of S$1 million, which was provided by its sole shareholder, Clydesbuilt Investment Pte Ltd, and representatives of FYTA were issued 1,000,000 preference shares at a par value of S$0.01 each, totalling S$10,000."
+          "Text": "Clydesbuilt (Holland Link) Pte. Ltd. was incorporated as a special-purpose vehicle for the purpose of carrying out the 33 Holland Link residential project."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2010-05-17",
-          "Text": "At the time of its incorporation, the first defendant and his brother were appointed to the board of directors of the second defendant."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2010-10-20",
-          "Text": "On 20 October 2010, four more directors were appointed to the board of the second defendant – the first defendant’s sister, and three representatives from FYTA, including Mr Chan and Mr Leow."
+          "Text": "Ow Chun Ming served as the controlling director and mind of the company upon its incorporation."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2010-10-07",
-          "Text": "On 7 October 2010, Clydesbuilt Investment Pte Ltd and FYTA entered into a joint venture agreement. The second defendant was incorporated on 17 May 2010 for the purpose of developing the project which was the subject matter of the action."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2010-10-07",
-          "Text": "Under the 7 October 2010 joint venture arrangement, FYTA was entitled to 25 of the 82 residential units and Clydesbuilt Investment Pte Ltd was entitled to 57 units."
+          "Text": "The company entered into a joint venture agreement with the land-owning association to build the residential units."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2010-10-20",
-          "Text": "On 20 October 2010, pursuant to a sale and purchase agreement, the second defendant acquired from the trustees of FYTA the land on which the residential units would be built. The purchase price was S$70 million, and it would be paid by setting off against FYTA’s share of the development costs for the Project."
+          "Text": "The company acquired the project land for S$70 million via a set-off arrangement against development costs."
         }
       ],
-      "Issue": "Whether, before any dispute arose, Clydesbuilt (Holland Link) Pte Ltd’s role as the special-purpose vehicle for the 33 Holland Link project, funded and controlled through the Clydesbuilt Group and joint venture with Fong Yun Thai Association, intersected with a pre-existing project opportunity associated with Innovative Corporation Pte Ltd.",
-      "Rule": "A company that is established as a project vehicle and receives project rights and assets through joint venture and land acquisition arrangements may be examined for whether those rights and assets are connected to opportunities or information previously associated with another company through that company’s directors.",
-      "Application": "Clydesbuilt (Holland Link) Pte Ltd was incorporated on 17 May 2010 shortly after Fong Yun Thai Association’s board accepted a tender proposal submitted by Mr Ow Chun Ming for the 33 Holland Link project. The company was capitalised with S$1 million from Clydesbuilt Investment Pte Ltd and structured under an October 2010 joint venture in which Fong Yun Thai Association received preference shares and an entitlement to 25 residential units, while Clydesbuilt Investment Pte Ltd was allocated 57 units. On 20 October 2010, Clydesbuilt (Holland Link) Pte Ltd acquired the project land for S$70 million via a sale and purchase agreement with Fong Yun Thai Association’s trustees, with payment to be set off against development cost allocations. The board composition included Mr Ow and his relatives alongside Fong Yun Thai Association representatives until 2018, when the association’s preference shares were cancelled and its directors resigned following transfer of 21 units. These arrangements positioned Clydesbuilt (Holland Link) Pte Ltd as the holder of the project land and the majority of units for the 33 Holland Link development that had earlier been the subject of negotiations involving Innovative Corporation Pte Ltd and related entities.",
-      "Judicial_Reasoning_Log": "The court considered whether Clydesbuilt (Holland Link) Pte Ltd was liable on the bases of knowing receipt and dishonest assistance in relation to a diverted corporate opportunity. It analysed whether the 33 Holland Link project opportunity and resulting contractual rights and land interests could be treated as trust property of Innovative Corporation Pte Ltd, referring to CMS Dolphin Ltd v Simonet, Swiss Butchery Pte Ltd v Huber Ernst, and Ultraframe (UK) Ltd v Fielding. The judge applied the three-part test for knowing receipt from George Raymond Zage III v Ho Chi Kwong, examining whether there had been a disposal of the plaintiff’s assets in breach of fiduciary duty, whether Clydesbuilt (Holland Link) Pte Ltd had beneficially received assets traceable to that breach, and whether it had the requisite knowledge making retention unconscionable. The court also addressed the dishonest assistance claim, focusing on whether Clydesbuilt (Holland Link) Pte Ltd, through the knowledge and actions of its controlling individuals, participated in Mr Ow’s breach of fiduciary duties. It evaluated the timing of the company’s incorporation, the joint venture and land acquisition structure, and the involvement of Fong Yun Thai Association’s representatives on the board in determining the extent of any accessory liability and the appropriate remedial response."
+      "Issue": "Whether Clydesbuilt (Holland Link) Pte. Ltd. is liable for knowing receipt and dishonest assistance upon receiving the 33 Holland Link project diverted by its controlling director.",
+      "Rule": "A corporate entity is liable for knowing receipt if it receives a business opportunity resulting from a breach of fiduciary duty with knowledge of that breach. It is liable for dishonest assistance if it participates in the breach with a level of knowledge making its participation unconscionable. The knowledge of the controlling mind is imputed to the entity.",
+      "Application": "Clydesbuilt (Holland Link) Pte. Ltd. was incorporated specifically to execute the 33 Holland Link development project, an opportunity diverted from a competing firm. Ow Chun Ming, acting as the company's controlling mind, had full knowledge that the opportunity was obtained through his own conflict of interest while serving as a director of the competing firm. The company received the benefit of the land acquisition and the development profits traceable to this conduct.",
+      "Judicial_Reasoning_Log": "The entity's knowledge is identical to that of its controlling director. Since the director knew the acquisition of the project stemmed from a breach of his fiduciary duties to a former company, that knowledge is imputed directly to the vehicle. The receipt of the project opportunity and subsequent profits constitutes knowing receipt of assets traceable to a breach of trust. Furthermore, active participation in the joint venture to realize the opportunity constitutes dishonest assistance."
     },
-    "Label": "Unknown",
+    "Label": "Liable",
     "Leakage_Score": 0
   }
 ]

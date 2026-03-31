@@ -83,12 +83,12 @@
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "",
+          "Fact_Date": "1997-12-23",
           "Text": "On 1997-12-23, HHR Properties Sdn Bhd and HHR Trading Sdn Bhd were incorporated with their shares held on trust for HHR, with trust documents executed to record that the shares were held for HHR."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "",
+          "Fact_Date": "1998-03-07",
           "Text": "On 1998-03-07, HHR Construction and Supply Sdn Bhd was incorporated with its shares held on trust for HHR, with trust documents executed to record that the shares were held for HHR."
         },
         {
@@ -98,12 +98,12 @@
         }
       ],
       "Issue": "Whether the conduct of the defendants in relation to the incorporation and operation of the subsidiary companies, the sale of HHR's Johore land, and the payments and remuneration made resulted in financial outcomes adverse to the plaintiffs.",
-      "Rule": "Company directors and persons effectively directing company affairs are generally manage company assets and transactions in a manner consistent with the company's interests and applicable corporate governance requirements, including proper authorisation of major transactions and remuneration.",
+      "Rule": "Company directors and persons effectively directing company affairs must manage company assets and transactions in a manner consistent with the company's interests and applicable corporate governance requirements, including proper authorisation of major transactions and remuneration.",
       "Application": "The plaintiffs' pre-dispute records show land sale agreements with Panfield Sdn Bhd and Timepac Industries Sdn Bhd, supplementary payment arrangements including reimbursements and broker fees, incorporation of three wholly-owned subsidiaries funded with RM12,000,000 of paid-up capital, subsequent investments in properties, stock trading and a quarry company, and remuneration payments to individuals associated with the companies that exceeded the plaintiffs' recorded income for 1998-2000 according to the plaintiffs' own computations.",
-      "Judicial_Reasoning_Log": "The judgment records that the plaintiffs' claims were based on allegations that certain defendants were de facto or shadow directors and that they diverted assets, sold land at an undervalue, made improper payments, and received excessive remuneration. The judge analysed the legal concepts of de facto and shadow directors with reference to the Malaysian Companies Act, Re Hydrodam (Corby) Ltd and Secretary of State for Trade & Industry v Deverell, and concluded that only the first defendant met the criteria of a shadow director, while the plaintiffs did not discharge the onus of proving that the second, third and eighth defendants were de facto or shadow directors. On the Johore land sales, the court noted that the plaintiffs' valuations were on an unencumbered basis and did not account for the United Overseas Bank caveats or the amount required to remove the encumbrances at the time of sale. Without evidence of the bank's interest or the sum required to lift the caveats on 1995-12-28, the court held that the plaintiffs had not proved that the land was sold at an undervalue. Regarding the supplementary agreement payments to Panfield and broker R Sinniah, the court accepted that services were rendered and monies expended on behalf of HHR and that there was an oral agreement to pay the broker, and therefore rejected the contention that the agreements lacked consideration or involved only past consideration. On the formation and use of the three subsidiaries, the court found that all shares were held on trust for HHR, that the subsidiaries were not dummy companies, and that they engaged in genuine business activities and investments. The court rejected the plaintiffs' assertion that the subsidiaries were merely vehicles to divert funds to the defendants. On the allegation of excessive remuneration, the court observed that the plaintiffs' computations were flawed, required repeated corrections, and that the plaintiffs relied on rate of return as a measure of excess without explaining or justifying this as a proper basis. The court noted that the plaintiffs did not specify what level of remuneration would have been reasonable, and held that this omission undermined the complaint. On HHR's payments of salary and fees, the court held that the plaintiffs' submission that directors were not entitled to remuneration without board resolutions was misconceived in light of article 73 of HHR's articles, which provided that directors' remuneration was to be determined by the company in general meeting, not by board resolution. For the subsidiary companies, the court noted that the plaintiffs alleged that directors' remuneration lacked approval in general meeting but led no evidence to support this, and reiterated that allegations in pleadings and submissions without evidential support are insufficient. On the alternative claim that the third and eighth defendants dishonestly assisted in misapplication of funds, the court applied the elements from Caltong (Australia) Pty Ltd v Tong Tien See Construction Pte Ltd, and found that the plaintiffs had not proved any underlying disposal of assets in breach of fiduciary duties, had not shown dishonesty on the part of the third or eighth defendants, and had not shown that any disposal of assets resulted in loss. Overall, the court concluded that the plaintiffs had not proved any of their claims against the defendants and dismissed the action with costs to the defendants except the sixth and seventh defendants."
+      "Judicial_Reasoning_Log": "The claims depend on establishing that specific defendants were de facto or shadow directors who diverted assets, sold land at an undervalue, made improper payments, or received excessive remuneration. Liability as a shadow director requires proving the defendant directed the board and the board was accustomed to acting on those instructions. Regarding land sales, valuation on an unencumbered basis is insufficient to prove undervalue if it fails to account for existing bank caveats or the cost of removing encumbrances. Supplementary payments for services rendered or oral agreements are supported by consideration and do not constitute misapplication of funds. The formation of subsidiaries is legitimate where shares are held on trust for the parent company and the entities engage in genuine business activities. Claims of excessive remuneration must be based on the work and services rendered rather than just rates of return, and must specify what a reasonable amount would have been. Under corporate articles providing that remuneration is determined in general meeting, board resolutions are not a prerequisite for valid payments. Accessory liability for dishonest assistance requires proving an underlying disposal of assets in breach of fiduciary duties and a dishonest state of mind on the part of the assistant."
     },
     "Label": "Claim Dismissed",
-    "Leakage_Score": 3
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -126,12 +126,12 @@
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
+          "Fact_Date": "1987",
           "Text": "In 1987, the first defendant was a director of HHR."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
+          "Fact_Date": "1988",
           "Text": "In 1988, the first defendant resigned from his position as a director of HHR after he was adjudicated a bankrupt."
         },
         {
@@ -148,9 +148,9 @@
       "Issue": "Whether the first defendant's involvement in HHR and its subsidiaries, including his role in decision-making and post-resignation activities, resulted in transactions and payments that adversely affected the companies' financial position.",
       "Rule": "Individuals who effectively direct company affairs may be treated similarly to formally appointed directors for purposes of responsibility over company transactions and use of company funds.",
       "Application": "The first defendant was a former director of HHR who later served as a senior administration officer and consultant and remained involved in company affairs, while HHR and its subsidiaries undertook land sales, formed subsidiaries funded with RM12,000,000, and made various payments and remuneration that the plaintiffs later challenged.",
-      "Judicial_Reasoning_Log": "The court accepted evidence that the first defendant was the key decision maker and concluded that he was a shadow director of the plaintiff companies. However, after examining each head of claim, including alleged sale of land at an undervalue, alleged improper payments to Panfield and broker Sinniah, alleged excessive remuneration, and alleged misuse of the subsidiary structure, the court found that the plaintiffs had not proved that any of these transactions constituted actionable misconduct or caused loss. As a result, despite characterising the first defendant as a shadow director, the court held that the plaintiffs had not established any liability against him and dismissed the claims."
+      "Judicial_Reasoning_Log": "An individual who acts as the key decision maker and directs formally appointed directors may be characterized as a shadow director. However, establishing such a status does not lead to liability unless specific transactions—such as land sales, supplementary payments, or remuneration—are proven to constitute actionable misconduct or cause loss. In the absence of evidence showing land was sold at an undervalue relative to its encumbered state, or that remuneration was commercially indefensible given the services rendered, no liability arises from the exercise of corporate control."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
@@ -166,13 +166,29 @@
       "Name": "Ng Phuay Tiong David",
       "Law_Firm": "",
       "Counsel": [],
-      "Facts": [],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "",
+          "Text": "The second defendant is a nephew of Ng Quee Lam."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "The second defendant is an undischarged bankrupt."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "The second defendant was an employee of the first, third and fourth plaintiffs as an administration officer and assistant manager."
+        }
+      ],
       "Issue": "Whether the second defendant's employment roles and involvement in the plaintiffs' companies contributed to transactions and payments later challenged by the plaintiffs.",
       "Rule": "Employees who participate in company management may be examined for their role in company transactions and use of company funds, particularly where they have significant influence over operations.",
       "Application": "The second defendant, as an administration officer and assistant manager in HHR and two subsidiaries, worked within the companies during the period when the land sales, subsidiary formations, and remuneration payments occurred, and his conduct was later scrutinised by the new directors.",
-      "Judicial_Reasoning_Log": "The plaintiffs alleged that the second defendant functioned as a de facto or shadow director, but the court found that the plaintiffs did not identify specific director-level functions he undertook and that other evidence did not support the allegation. Without proof that he occupied a director-like position or that he participated in any wrongful disposal of assets, the court rejected the claims against him and dismissed the action as against the second defendant."
+      "Judicial_Reasoning_Log": "A claim that an employee functioned as a de facto or shadow director requires identifying specific director-level functions they undertook. Without evidence that an individual occupied a director-like position or participated in a wrongful disposal of assets, their role as an administrative officer does not give rise to fiduciary liability for corporate transactions."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
@@ -201,16 +217,16 @@
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "1998-04-17",
           "Text": "On 1998-04-17, the third defendant attended an extraordinary general meeting of HHR as a proxy for a shareholder and voted in support of a resolution retrospectively approving and ratifying the incorporation of the three subsidiary companies."
         }
       ],
       "Issue": "Whether the third defendant's role as general manager of the subsidiaries and his proxy vote in favour of ratifying their incorporation contributed to the financial outcomes and transactions later challenged by the plaintiffs.",
       "Rule": "Individuals who manage subsidiary companies and participate in shareholder decisions may be examined for their involvement in company structures and transactions that affect the parent company's assets.",
       "Application": "The third defendant managed the three subsidiaries and, acting as a proxy at the 1998 extraordinary general meeting, supported the resolution ratifying their incorporation, during a period when the subsidiaries were funded with RM12,000,000 and engaged in investments and payments that were later questioned by the new directors.",
-      "Judicial_Reasoning_Log": "The plaintiffs alleged that the third defendant was a de facto or shadow director and that he dishonestly assisted in a scheme to use the subsidiaries to shield surplus funds. The court held that the plaintiffs did not prove that he undertook director-only functions or that he directed the board, and that his attendance and vote as a proxy at the extraordinary general meeting did not, without more, establish dishonest assistance. The court found no evidence that he participated in any misapplication of assets or that the use of the subsidiaries caused loss, and therefore dismissed the claims against him."
+      "Judicial_Reasoning_Log": "Allegations of being a de facto director or providing dishonest assistance require proof that the individual undertook functions reserved for directors or acted with a dishonest state of mind to misapply assets. Attendance and voting as a proxy at a shareholder meeting do not, without more, establish dishonest assistance. Furthermore, if the use of subsidiaries for genuine business activities results in no proven loss, there is no basis for liability."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
@@ -244,12 +260,12 @@
         }
       ],
       "Issue": "Whether the fourth defendant's actions as an executive director, including signing documents and participating in company decisions, contributed to the transactions and payments later challenged by the plaintiffs.",
-      "Rule": "Executive directors are generally responsible for decisions and approvals they participate in, including transactions and remuneration, the company's constitutional requirements.",
+      "Rule": "Executive directors are generally responsible for decisions and approvals they participate in, including transactions and remuneration, subject to the company's constitutional requirements.",
       "Application": "The fourth defendant, as an executive director with limited formal education, signed documents when requested and served on the boards of HHR and its subsidiaries during the period when land sales, subsidiary formations, and remuneration payments occurred, which were later reviewed by the new directors.",
-      "Judicial_Reasoning_Log": "The court considered the role of the fourth defendant as an executive director but found that the plaintiffs had not established that any specific decisions or payments he participated in were wrongful or caused loss. The court also noted that the first defendant was the main decision maker and that the plaintiffs failed to prove their substantive complaints about undervalue sales, improper payments, and excessive remuneration. Consequently, the claims against the fourth defendant were dismissed."
+      "Judicial_Reasoning_Log": "Responsibility for decisions as an executive director requires proof that the actions taken or payments approved were wrongful or caused corporate loss. If the primary decision-making was centered on another party and the substantive complaints regarding land sales at an undervalue or improper payments are not proven, an executive director who signed documents as requested lacks a established basis for liability."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -297,12 +313,12 @@
         }
       ],
       "Issue": "Whether the fifth defendant's actions as an executive director, including participation in the land sale arrangements, the decision to incorporate subsidiaries, and acceptance of instructions from the first defendant, contributed to the transactions and payments later challenged by the plaintiffs.",
-      "Rule": "Executive directors involved in major transactions and corporate structuring decisions may be accountable for the financial consequences of those decisions, proof of improper conduct or non-compliance with corporate requirements.",
+      "Rule": "Executive directors involved in major transactions and corporate structuring decisions may be accountable for the financial consequences of those decisions, subject to proof of improper conduct or non-compliance with corporate requirements.",
       "Application": "The fifth defendant participated in decisions regarding the Johore land sale, acknowledged an oral agreement to pay a broker, and took part in the decision to use RM12,000,000 from the land sale proceeds to capitalise three subsidiaries, which later engaged in investments and remuneration payments that the new directors questioned.",
-      "Judicial_Reasoning_Log": "The court accepted the fifth defendant's explanation that the subsidiaries were formed to diversify and expand HHR's activities and that there was an oral agreement to pay the broker. The court found that the plaintiffs did not prove that the land was sold at an undervalue, that the payments to Panfield and the broker lacked consideration, or that the formation and operation of the subsidiaries were improper. The court also noted that the plaintiffs failed to substantiate their claims of excessive remuneration. Accordingly, the court dismissed the claims against the fifth defendant."
+      "Judicial_Reasoning_Log": "Corporate diversification through the formation of subsidiaries is a legitimate managerial decision, and payments to brokers supported by oral agreements do not lack consideration. Where land sales are conducted under existing encumbrances, such as bank caveats, the failure to prove the specific sum required to lift those encumbrances at the time of sale defeats a claim for undervalue. In the absence of proof of improper formation or excessive remuneration relative to the work rendered, an executive director acting on professional advice is not liable."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -337,9 +353,9 @@
       "Issue": "Whether the sixth defendant's status as a director, despite limited involvement in management, had any bearing on the transactions and payments later challenged by the plaintiffs.",
       "Rule": "Nominal or passive directors may still hold formal responsibility, but their liability for specific transactions depends on proof of their involvement or approval of the conduct in question.",
       "Application": "The sixth defendant held directorships in the plaintiff companies but did not actively manage them and viewed the first defendant as the decision maker, while the challenged transactions and payments were carried out under the existing management structure.",
-      "Judicial_Reasoning_Log": "The sixth defendant became a witness for the plaintiffs at trial, and the claims against him were withdrawn. The court therefore did not need to determine liability against him and ordered that he should not bear costs, reflecting that no adverse finding was made against him."
+      "Judicial_Reasoning_Log": "The involvement of a director who takes no active part in management and acknowledges another as the primary decision-maker is limited. Where claims against such a party are withdrawn during the proceedings, and no findings of liability or evidence of participation in the challenged transactions are established, no adverse legal conclusion is reached regarding their conduct."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
@@ -375,9 +391,9 @@
       "Issue": "Whether the seventh defendant's status as a director, despite limited involvement in management, had any bearing on the transactions and payments later challenged by the plaintiffs.",
       "Rule": "Directors who do not actively participate in management may still be examined for their role in approving or allowing company transactions, but liability depends on evidence of their involvement.",
       "Application": "The seventh defendant held directorships in the plaintiff companies but did not actively manage them and viewed the first defendant as the decision maker, while the challenged transactions and payments were carried out under the existing management structure.",
-      "Judicial_Reasoning_Log": "The seventh defendant, like the sixth defendant, gave evidence for the plaintiffs and the claims against him were withdrawn. The court did not make findings of liability against him and ordered that he should not bear costs, indicating that no adverse conclusion was reached regarding his conduct."
+      "Judicial_Reasoning_Log": "Passive directorship, where the individual defers to another as the primary decision-maker, does not automatically result in liability for corporate transactions. If claims are withdrawn against the director and there is no established proof of their involvement in wrongful conduct or that such conduct caused loss to the company, no findings of liability are made."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
@@ -413,10 +429,10 @@
       "Issue": "Whether the eighth defendant's roles as company secretary, legal adviser and consultant, and the payments made to her associated entities, contributed to any improper use of the subsidiaries or company funds.",
       "Rule": "Professional advisers and company secretaries may be examined for their involvement in company structures and transactions, particularly where they are to have assisted in arrangements affecting creditors or shareholders.",
       "Application": "The eighth defendant provided legal and secretarial services to the three subsidiaries and received payments through her firm and secretariat company during the period when the subsidiaries were formed, capitalised with RM12,000,000, and used for investments and remuneration payments that the new directors later questioned.",
-      "Judicial_Reasoning_Log": "The plaintiffs alleged that the eighth defendant was a de facto director and that she dishonestly assisted in using the subsidiaries to shield funds. The court found that the plaintiffs did not provide sufficient evidence to show that she undertook director-only functions or that she directed the board, and that the payments to her firm and secretariat company had been mischaracterised in the plaintiffs' remuneration computations. The court held that there was no proof of dishonest assistance or loss arising from her involvement and dismissed the claims against her."
+      "Judicial_Reasoning_Log": "To be classified as a de facto director, a professional advisor must undertake functions that could properly be discharged only by a director rather than tasks typical for a manager or advisor. Payments to a legal firm for services rendered do not constitute excessive remuneration or a diversion of funds if the services are genuine. In the absence of evidence showing director-only functions or participation in a misapplication of assets causing loss, no basis for fiduciary liability or dishonest assistance is established."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -446,9 +462,9 @@
       "Issue": "Whether the ninth defendant's employment with HHR Properties Sdn Bhd had any connection to the transactions and payments later challenged by the plaintiffs.",
       "Rule": "Employees may be examined for their role in company transactions where there is evidence of involvement in the handling or direction of company funds.",
       "Application": "The ninth defendant worked for HHR Properties Sdn Bhd while the company engaged in property investments and other activities funded by capital from HHR, but the judgment does not describe her as participating in decision-making regarding the challenged transactions.",
-      "Judicial_Reasoning_Log": "The plaintiffs did not advance specific evidence of misconduct by the ninth defendant. The court's overall conclusion that none of the plaintiffs' claims were proved encompassed the ninth defendant, and no separate basis for liability was established against her. The action was therefore dismissed as against the ninth defendant along with the other defendants (except that claims against the sixth and seventh defendants had already been withdrawn)."
+      "Judicial_Reasoning_Log": "Liability for corporate wrongs cannot be established against an employee in the absence of specific evidence showing misconduct or involvement in the wrongful handling of company funds. If the overall claims against the primary decision-makers are not proved and no separate basis for liability is advanced against the employee, the action must be dismissed."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   }
 ]

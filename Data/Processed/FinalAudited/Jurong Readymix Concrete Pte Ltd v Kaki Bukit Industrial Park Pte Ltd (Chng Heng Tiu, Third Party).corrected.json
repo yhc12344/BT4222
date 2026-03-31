@@ -44,7 +44,7 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "1996-04-01",
-          "Text": "In or about April 1996, Leow Kim San told Yeo Siew Hong and Yeo Siew Hang that if they wanted the credit limit to be extended to $1m, the plaintiffs required a guarantee as security."
+          "Text": "In or about April 1996, management informed the contractors that if they wanted the credit limit to be extended to $1m, a guarantee was required as security."
         },
         {
           "Fact_Type": "DOCUMENT",
@@ -59,7 +59,7 @@
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "1996-04-08",
-          "Text": "The 8 April 1996 letter of guarantee addressed to Jurong Readymix Concrete Pte Ltd was prepared by Yeo Siew Hong."
+          "Text": "The 8 April 1996 letter of guarantee addressed to Jurong Readymix Concrete Pte Ltd was prepared by a representative of the project."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
@@ -77,13 +77,13 @@
           "Text": "The printed terms of the 6 February 1996 supply letter from Jurong Readymix Concrete Pte Ltd to Boonann Construction Pte Ltd included clause 17 reserving to Jurong Readymix Concrete Pte Ltd the right to stop supplies without notice."
         }
       ],
-      "Issue": "Whether Kaki Bukit Industrial Park Pte Ltd is responsible under the 8 April 1996 guarantee for unpaid amounts arising from Jurong Readymix Concrete Pte Ltd's supply of concrete to Boonann Construction Pte Ltd, in light of the extension of Boonann's credit limit and continued supplies beyond 45 days.",
-      "Rule": "A contractual guarantee may be enforceable where consideration moves from the creditor, and a guarantor may be discharged if the underlying principal contract is varied without the guarantor's knowledge or consent in a way that is legally the guarantee.",
-      "Application": "Jurong Readymix Concrete Pte Ltd extended Boonann Construction Pte Ltd's credit limit from $60,000 to $1,000,000 in connection with the 8 April 1996 guarantee and continued supplying concrete under the existing supply terms, while Kaki Bukit Industrial Park Pte Ltd issued the guarantee referencing Boonann Construction Pte Ltd's payment obligations for the Kaki Bukit Industrial Park project.",
-      "Judicial_Reasoning_Log": "The court analysed whether consideration supported the guarantee, relying on evidence of discussions about increasing Boonann's credit limit to $1,000,000 and the authorised price letter. It rejected the defence that there was no consideration and found that the guarantee was furnished to secure the increased credit limit. The court considered whether the extension of the credit limit and continued supply beyond 45 days constituted variations of the supply contract that could discharge the guarantor, concluding that these did not amount to contractual variations affecting the guarantee. Judgment was entered in favour of Jurong Readymix Concrete Pte Ltd against Kaki Bukit Industrial Park Pte Ltd for $610,270.91 plus post-judgment interest and costs."
+      "Issue": "Whether a corporate guarantor is liable for unpaid supplies under a written guarantee provided in exchange for an increased credit limit, and whether continued supplies to the principal debtor constitute a variation that discharges the guarantee.",
+      "Rule": "A guarantee is enforceable if supported by valid consideration, such as the extension of credit to a third party. A guarantor is only discharged from liability if the underlying contract is materially varied without their consent in a manner that prejudices the guarantor's position.",
+      "Application": "A concrete supplier increased a contractor's credit limit from $60,000 to $1,000,000 upon receiving a written guarantee from the project developer. The developer subsequently argued that the guarantee was not supported by consideration and that the supplier's decision to continue providing concrete despite payment delays constituted a variation of the original agreement that should release the guarantor from its obligations.",
+      "Judicial_Reasoning_Log": "It was determined that the extension of the credit limit to $1,000,000 constituted valid consideration for the guarantee. The supplier's continued fulfillment of orders and the decision not to immediately stop supplies were within the terms of the original supply arrangement and did not amount to a material contractual variation. Consequently, the guarantee remained valid and enforceable, and the developer was held liable for the outstanding balance of $610,270.91."
     },
     "Label": "Claim Allowed",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -116,12 +116,12 @@
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "1994",
-          "Text": "Ho Kok Cheong had long-standing involvement in the construction industry but his personal involvement in construction companies was restricted because he was an undischarged bankrupt."
+          "Text": "Ho Kok Cheong had long-standing involvement in the construction industry but his personal involvement in construction companies was restricted due to being an undischarged bankrupt."
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
           "Fact_Date": "1994",
-          "Text": "Ho Kok Cheong stated that his sons, Ho Mun Sang and Ho Mun Fei, decided to take on the Kaki Bukit Industrial Park project and invited Chng Heng Tiu to participate due to insufficient funds for the whole project."
+          "Text": "The project was initiated by family members who invited Chng Heng Tiu to participate as an investor and director to provide necessary funding."
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
@@ -131,12 +131,12 @@
         {
           "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "1994",
-          "Text": "Within Kaki Bukit Industrial Park Pte Ltd, one group consisted of Chng Heng Tiu, Chwee Meng Chong, Yeo Siew Hang and Hsiung Ko Ying, and another group consisted of Ho Mun Sang, Ho Mun Fei and their corporate vehicles Straits International Resources Pte Ltd and Tenby Investments Pte Ltd."
+          "Text": "The company’s board was split between two primary groups: the Chng-Chwee group and the Ho family group."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "1994",
-          "Text": "Chng Heng Tiu held the majority of shares in Kaki Bukit Industrial Park Pte Ltd through his company, Chng Heng Tiu Pte Ltd."
+          "Text": "Chng Heng Tiu held the majority of shares in Kaki Bukit Industrial Park Pte Ltd through his personal holding company."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
@@ -146,68 +146,68 @@
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "",
-          "Text": "On 8 April 1996, Kaki Bukit Industrial Park Pte Ltd issued a letter on its letterhead to Jurong Readymix Concrete Pte Ltd stating that if Boonann Construction Pte Ltd failed to honour payment for the supply of readymixed concrete to the Kaki Bukit Industrial Park project, Kaki Bukit Industrial Park Pte Ltd would make direct payment."
+          "Text": "On 8 April 1996, Kaki Bukit Industrial Park Pte Ltd issued a letter on its letterhead to Jurong Readymix Concrete Pte Ltd stating that if Boonann Construction Pte Ltd failed to honour payment for the supply of readymixed concrete, the company would make direct payment."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "",
-          "Text": "The 8 April 1996 letter of guarantee from Kaki Bukit Industrial Park Pte Ltd to Jurong Readymix Concrete Pte Ltd was signed by director Chng Heng Tiu."
+          "Text": "The 8 April 1996 letter of guarantee was signed by director Chng Heng Tiu."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "",
-          "Text": "The 8 April 1996 guarantee letter issued by Kaki Bukit Industrial Park Pte Ltd was prepared by Yeo Siew Hong."
+          "Text": "The 8 April 1996 guarantee letter was prepared by a representative of the contractor."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "",
-          "Text": "Before signing the 8 April 1996 guarantee, director Chng Heng Tiu discussed the guarantee only with fellow director Chwee Meng Chong, who handled the day-to-day running of Kaki Bukit Industrial Park Pte Ltd, and did not notify or consult directors Ho Mun Fei or Ho Mun Sang."
+          "Text": "Before signing the 8 April 1996 guarantee, director Chng Heng Tiu consulted only one other director and did not notify the Ho family directors."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "",
-          "Text": "Director Chng Heng Tiu considered the guarantee to be a matter pertaining to the day-to-day running of the construction aspects of the development and within his and director Chwee Meng Chong's authority to decide without consulting the Ho brothers."
+          "Text": "The guarantee was treated by the signing director as a matter of day-to-day construction operations within his authority."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "",
-          "Text": "Director Chng Heng Tiu was aware that the guarantee exposed Kaki Bukit Industrial Park Pte Ltd to potential liability of up to $1,000,000."
+          "Text": "The guarantee exposed the company to a potential liability of up to $1,000,000."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "",
-          "Text": "Director Chng Heng Tiu stated that even if the matter of the guarantee had been brought to the board and the Ho brothers disagreed, he believed he could exercise his casting vote together with director Chwee Meng Chong's support."
+          "Text": "The signing director relied on his majority shareholding and casting vote as justification for proceeding without full board consensus."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "",
-          "Text": "Before signing the guarantee, director Chng Heng Tiu did not obtain or review the supply contract between Jurong Readymix Concrete Pte Ltd and Boonann Construction Pte Ltd and therefore did not note that the supply contract provided for erection of a batching plant on site without requiring a guarantee."
+          "Text": "The signing director did not obtain or review the underlying supply contract between the concrete supplier and the contractor before executing the guarantee."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "",
-          "Text": "Before signing the 8 April 1996 guarantee, director Chng Heng Tiu did not obtain legal advice on the guarantee."
+          "Text": "The company did not obtain legal advice on the terms or implications of the guarantee before it was signed."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1994",
-          "Text": "Director Chng Heng Tiu assumed that if Boonann Construction Pte Ltd did not pay Jurong Readymix Concrete Pte Ltd, Kaki Bukit Industrial Park Pte Ltd could deduct amounts from progress payments due to Boonann Construction Pte Ltd and pay them to Jurong Readymix Concrete Pte Ltd, without confirming this arrangement with Boonann Construction Pte Ltd."
+          "Text": "The signing director proceeded on the assumption that if the contractor defaulted, the company could offset the payments against progress amounts due to the contractor."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1996-04-08",
-          "Text": "Director Chng Heng Tiu regarded matters relating to the guarantee, including the potential use of progress payments to Boonann Construction Pte Ltd, as minor details because he and director Chwee Meng Chong held the majority of shares in Kaki Bukit Industrial Park Pte Ltd."
+          "Text": "Administrative details of the guarantee were treated as minor matters by the majority shareholders."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "1994-01-01",
-          "Text": "The memorandum of association of Kaki Bukit Industrial Park Pte Ltd set out the powers and objects of the company and did not expressly exclude or modify the statutory power to give guarantees under section 23(1)(c) of the Companies Act and clause 12 of the Third Schedule."
+          "Text": "The company's memorandum of association did not expressly exclude or modify the statutory power to provide corporate guarantees."
         }
       ],
-      "Issue": "Whether Kaki Bukit Industrial Park Pte Ltd is bound by and responsible under the 8 April 1996 guarantee issued in favour of Jurong Readymix Concrete Pte Ltd for Boonann Construction Pte Ltd's purchases, and whether any increase in Boonann's credit limit or continued supplies affected Kaki Bukit Industrial Park Pte Ltd's responsibility.",
-      "Rule": "A company may have statutory power to issue guarantees unless its constitutional documents expressly exclude or modify that power, and a guarantor may be released if the underlying contract is materially varied without its knowledge or consent in a way that affects the guarantee.",
-      "Application": "Kaki Bukit Industrial Park Pte Ltd, through director Chng Heng Tiu, issued a written guarantee on 8 April 1996 on its letterhead in favour of Jurong Readymix Concrete Pte Ltd, while its memorandum of association did not expressly exclude statutory powers to give guarantees, and Jurong Readymix Concrete Pte Ltd extended Boonann Construction Pte Ltd's credit limit and continued supplies under the existing supply terms.",
-      "Judicial_Reasoning_Log": "The court considered whether Kaki Bukit Industrial Park Pte Ltd lacked power to issue the guarantee by examining its memorandum of association and the Companies Act, concluding that the statutory power to give guarantees was not excluded. It evaluated defences based on lack of consideration and alleged discharge by variation of the principal contract, finding that consideration existed through the increased credit limit and that the extension of credit and continued supplies did not constitute variations discharging the guarantee. The court entered judgment against Kaki Bukit Industrial Park Pte Ltd for $610,270.91 plus post-judgment interest and costs."
+      "Issue": "Whether a company is bound by a guarantee executed by its majority-shareholder director without a formal board resolution, and whether the company is entitled to be indemnified by that director for the resulting loss.",
+      "Rule": "A company possesses the statutory power to issue guarantees unless explicitly restricted by its constitution. Under company law, directors must exercise reasonable diligence in managing company affairs. If a director's failure to consult the board or review material contracts leads to corporate loss, the company may be entitled to recover those losses from the director personally.",
+      "Application": "The company's majority-shareholder director signed a $1,000,000 guarantee to a supplier without seeking a board resolution or reviewing the underlying supply terms. The company's constitution did not bar such guarantees. When the contractor defaulted, the supplier enforced the guarantee against the company. The company then sought to hold the director personally responsible for the liability, arguing that his unilateral and poorly researched decision was a breach of his duty of diligence.",
+      "Judicial_Reasoning_Log": "The company was found to have the legal capacity to issue the guarantee, as its memorandum of association did not exclude statutory powers. However, the signing director was found to have failed to exercise reasonable diligence by failing to consult the full board, failing to seek legal advice, and failing to review the underlying supply contract which may have offered alternative protections. While the company was liable to the supplier under the guarantee, it was entitled to be indemnified by the director for the principal amount because the loss was a direct result of his negligent decision-making process."
     },
     "Label": "Liable",
     "Leakage_Score": 0
@@ -238,75 +238,75 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "1994-01-01",
-          "Text": "Chng Heng Tiu held the majority of the shares in the defendants through his company Chng Heng Tiu Pte Ltd."
+          "Text": "Chng Heng Tiu held the majority of the shares in the company through his personal holding company."
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
           "Fact_Date": "1994-01-01",
-          "Text": "Chng Heng Tiu in turn brought Chwee Meng Chong into the venture."
+          "Text": "Chng Heng Tiu brought Chwee Meng Chong into the venture."
         },
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "1997-12-01",
-          "Text": "On 1 December 1997, Chng Heng Tiu, together with Chwee Meng Chong and Yeo Siew Hong, contracted to sell their shares to Straits International Resources Pte Ltd."
+          "Text": "On 1 December 1997, Chng Heng Tiu and associated partners contracted to sell their shares to another corporate entity."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1996-04-08",
-          "Text": "On 8 April 1996, Chng Heng Tiu signed a letter on the defendants' letterhead addressed to Jurong Readymix Concrete Pte Ltd stating that if Boonann Construction Pte Ltd failed to honour payment for the supply of readymixed concrete to the proposed Kaki Bukit Industrial Park project, the defendants would make direct payment."
+          "Text": "On 8 April 1996, Chng Heng Tiu signed a guarantee on the company's letterhead ensuring direct payment to a concrete supplier if the contractor defaulted."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1996-04-08",
-          "Text": "Chng Heng Tiu accepted that the directors had not agreed to issue the guarantee, and he had only talked with Chwee Meng Chong about it without notifying or consulting Ho Mun Sang or Ho Mun Fei."
+          "Text": "The guarantee was signed without a formal board meeting and without the knowledge of the minority directors."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1996-04-08",
-          "Text": "Chng Heng Tiu said he and Chwee regarded the guarantee as 'a small matter pertaining to the day-to-day running of the construction aspects of the development' which they thought was within their authority and ability to decide without consulting the Ho brothers."
+          "Text": "The director categorized the guarantee as a routine operational matter within his authority to decide independently."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1996-04-08",
-          "Text": "At the time of signing the guarantee, Chng Heng Tiu knew it exposed the defendants to liability of up to $1m."
+          "Text": "At the time of execution, the director was aware the guarantee reached a value of $1m."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1996-04-08",
-          "Text": "Chng Heng Tiu said that even if the matter were brought to the board, if he and Mr Chwee agreed and the Hos disagreed, he could exercise his casting vote."
+          "Text": "The director intended to use his casting vote to override any board opposition had the matter been raised formally."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1996-04-08",
-          "Text": "Before signing the guarantee, Chng Heng Tiu had not seen or asked for the supply contract and thus did not realise that a guarantee was not required for the erection of the batching plant on site."
+          "Text": "The director did not request or read the specific supply contract he was guaranteeing."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1996-04-08",
-          "Text": "Before signing the guarantee, Chng Heng Tiu had not obtained legal advice on the guarantee."
+          "Text": "The director did not seek professional legal counsel regarding the risks of the guarantee."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1996-04-08",
-          "Text": "At the time of signing the guarantee, Chng Heng Tiu assumed that if Boonann did not pay the plaintiffs, the defendants could deduct from progress payments due to Boonann and pay them to the plaintiffs without confirming that with Boonann."
+          "Text": "The director acted on the unconfirmed assumption that the company could recover any guarantee payouts by deducting them from the contractor's future earnings."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1996-04-08",
-          "Text": "Chng Heng Tiu regarded these matters as 'minor details' because he and Chwee Meng Chong held the majority of the shares in the defendants."
+          "Text": "Procedural compliance was viewed as a minor detail due to the director's majority control of the company."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "1996-01-01",
-          "Text": "According to Chng Heng Tiu, Yeo Siew Hong of Boonann suggested that if the guarantee was issued the plaintiffs would erect a concrete batching plant at the site, which would ensure a steady supply of concrete and enable the defendants' project to be completed on time."
+          "Text": "A representative of the contractor suggested that the issuance of the guarantee would lead to the installation of an on-site batching plant, aiding project completion."
         }
       ],
-      "Issue": "Whether, in connection with the 8 April 1996 guarantee issued by Kaki Bukit Industrial Park Pte Ltd, the conduct of director Chng Heng Tiu in signing the guarantee and his decision-making process require him to indemnify Kaki Bukit Industrial Park Pte Ltd for its resulting financial exposure.",
-      "Rule": "Company directors are generally act honestly and with reasonable diligence in managing company affairs, and may be compensate the company for losses resulting from conduct that does not meet these standards.",
-      "Application": "As a director and majority shareholder of Kaki Bukit Industrial Park Pte Ltd, Chng Heng Tiu signed a guarantee on 8 April 1996 exposing the company to up to $1,000,000 without consulting all fellow directors, without reviewing the underlying supply contract, without obtaining legal advice, and while assuming that any non-payment by Boonann Construction Pte Ltd could be addressed through deductions from progress payments.",
-      "Judicial_Reasoning_Log": "The court examined whether Chng Heng Tiu's actions in signing the guarantee complied with statutory director duties under section 157 of the Companies Act. It noted that he did not consult all directors, did not review the supply contract, did not obtain legal advice, and relied on his majority shareholding and casting vote. The court concluded that he had not used reasonable diligence and that Kaki Bukit Industrial Park Pte Ltd was entitled to an indemnity from him for losses reasonably incurred under the guarantee, including the judgment sum of $610,270.91 but excluding interest, and for certain costs of the third-party proceedings, while disallowing indemnity for costs of defending the main claim as the defence was not reasonably conducted."
+      "Issue": "Whether a director breaches his statutory duty to act with reasonable diligence by unilaterally signing a substantial corporate guarantee without board consultation, contract review, or legal advice.",
+      "Rule": "Under section 157 of the Companies Act, directors are required to act honestly and use reasonable diligence in the discharge of their duties. A director who exposes a company to significant financial risk through a lack of proper inquiry or procedural oversight may be held personally liable to indemnify the company for its losses.",
+      "Application": "A majority-shareholder director executed a $1,000,000 corporate guarantee to a supplier. He did not notify the full board, did not read the terms of the primary supply agreement, and did not seek legal advice on the company's exposure. He relied solely on his controlling position and unverified assumptions about the company's ability to offset the debt. When the contractor defaulted and the company was forced to pay the supplier, the director's diligence was questioned.",
+      "Judicial_Reasoning_Log": "It was held that the director failed to exercise the reasonable diligence required by law. His failure to consult his co-directors, his lack of inquiry into the supply contract, and the absence of legal review constituted a breach of his statutory duties. Because these failures directly resulted in the company's financial exposure to the supplier, the director was ordered to personally indemnify the company for the principal sum of the loss. His reliance on his majority voting power did not excuse him from the fundamental duty to act with care and diligence."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Liable",
+    "Leakage_Score": 0
   }
 ]

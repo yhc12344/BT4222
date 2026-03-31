@@ -19,36 +19,31 @@
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "",
-          "Text": "Heap Huat Rubber Company Sdn Bhd, HHR Properties Sdn Bhd, HHR Trading Sdn Bhd and HHR Construction and Supply Sdn Bhd were parties to a dispute with Kong Choot Sian, Kong Siew Seng and Ng Phuay Khoon concerning directors' remuneration and whether such remuneration was authorised by the companies' articles of association."
+          "Text": "Heap Huat Rubber Company Sdn Bhd, HHR Properties Sdn Bhd, HHR Trading Sdn Bhd and HHR Construction and Supply Sdn Bhd were involved in a dispute concerning directors' remuneration and bonuses paid to Kong Choot Sian, Kong Siew Seng and Ng Phuay Khoon."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1998-01-01",
-          "Text": "On or after 1 January 1998, the second respondent, Kong Siew Seng, received payments from Heap Huat Rubber Company Sdn Bhd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1998-01-01",
-          "Text": "On or after 1 January 1998, the total payments received by Kong Siew Seng from Heap Huat Rubber Company Sdn Bhd amounted to S$86,000 and RM28,650."
+          "Text": "On or after 1 January 1998, Kong Siew Seng received payments from Heap Huat Rubber Company Sdn Bhd totaling S$86,000 and RM28,650."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1998-01-01",
-          "Text": "On or after 1 January 1998, the third respondent, Ng Phuay Khoon, received payments from Heap Huat Rubber Company Sdn Bhd."
+          "Text": "On or after 1 January 1998, Ng Phuay Khoon received payments from Heap Huat Rubber Company Sdn Bhd totaling S$168,710 and RM55,275."
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Type": "CONDUCT",
           "Fact_Date": "1998-01-01",
-          "Text": "On or after 1 January 1998, the total payments received by Ng Phuay Khoon from Heap Huat Rubber Company Sdn Bhd amounted to S$168,710 and RM55,275."
+          "Text": "Kong Choot Sian received bonuses and other moneys from HHR Properties Sdn Bhd, HHR Trading Sdn Bhd and HHR Construction and Supply Sdn Bhd totaling RM308,400 which were not provided for in his contracts for services."
         }
       ],
-      "Issue": "Whether the remuneration and payments received by the directors from the companies, including bonuses and other moneys, were authorised by the companies' articles of association and the directors' contracts for services.",
-      "Rule": "Directors' entitlement to remuneration and related payments is determined by the provisions of the company's articles of association and any applicable contracts for services, and payments outside such authorisation may be repayment.",
-      "Application": "The companies made payments and bonuses to the individual directors, and the amounts and sources of these payments can be compared against the terms of the companies' articles of association and the directors' contracts for services to determine whether the payments were within the authorised framework.",
-      "Judicial_Reasoning_Log": "The court referred to its earlier judgment dated 30 March 2004 in which it allowed the appellants' appeal in part and ordered that payments received by the second and third respondents from the first appellant on or after 1 January 1998 be refunded, and that bonuses or other moneys received by the first respondent from the second to fourth appellants which were not provided for in his contracts for services be refunded. In the present judgment, the court clarified the specific total amounts in Singapore dollars and Malaysian ringgit to be refunded by each respondent. The court also noted that the respondents admitted during cross-examination to having received these payments, and used this as part of its reasoning in quantifying the sums to be repaid."
+      "Issue": "Whether directors' remuneration, bonuses, and other payments made to Kong Choot Sian, Kong Siew Seng, and Ng Phuay Khoon were validly authorized under the companies' articles of association and specific contracts for services.",
+      "Rule": "Fiduciary duties require that any remuneration paid to company directors be explicitly authorized by the articles of association or valid service contracts. Payments made without such authorization are unauthorized and subject to recovery by the company.",
+      "Application": "The companies disbursed substantial sums in Singapore dollars and Malaysian ringgit to three individuals in their capacities as directors or consultants starting in January 1998. These payments included bonuses and other monetary benefits. The validity of these disbursements depends on their alignment with Article 73 or other relevant provisions of the corporate constitution and the terms of any underlying service agreements.",
+      "Judicial_Reasoning_Log": "Under corporate law principles, the entitlement to remuneration is not inherent but must be grounded in the company's governing documents. In cases where the articles of association mandate specific approval processes for bonuses and fees, the absence of such authorization renders the payments a misapplication of corporate funds. If individuals admit to receiving funds that were not provided for in their service contracts or authorized by general meetings as required by the articles, the appropriate legal response is an order for restitution to restore the company's financial position."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -65,14 +60,25 @@
       "Counsel": [
         "In person"
       ],
-      "Facts": [],
-      "Issue": "Whether the bonuses and other moneys received by Kong Choot Sian from the companies were within the scope of authorisation given by the companies' articles of association and his contracts for services.",
-      "Rule": "A director's entitlement to bonuses and other remuneration is governed by the company's articles of association and the director's contracts for services, and payments outside such authorisation may be repayment.",
-      "Application": "The bonuses and other moneys received by Kong Choot Sian from the companies, and the fact that these were not provided for in his contracts for services, are compared with the governing documents to determine whether the payments fell within authorised remuneration.",
-      "Judicial_Reasoning_Log": "The court, referring to its earlier judgment, determined that the bonuses and other moneys received by Kong Choot Sian from the second to fourth appellant companies, which were not provided for in his contracts for services, had to be refunded. In this judgment, the court clarified that the total amount to be refunded by him was RM308,400. The court relied on the respondents' admissions during cross-examination regarding receipt of these payments and treated these admissions as part of the evidential basis for ordering repayment."
+      "Facts": [
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-01-01",
+          "Text": "Kong Choot Sian received bonuses and other moneys from HHR Properties Sdn Bhd, HHR Trading Sdn Bhd and HHR Construction and Supply Sdn Bhd totaling RM308,400."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1998-01-01",
+          "Text": "The bonuses and moneys received by Kong Choot Sian were not provided for in his written contracts for services with the three subsidiary companies."
+        }
+      ],
+      "Issue": "Whether bonuses and additional payments totaling RM308,400 received from HHR Properties, HHR Trading, and HHR Construction were authorized by his contracts for services or the companies' articles.",
+      "Rule": "Payments received by a director or consultant that fall outside the scope of their written service contracts or the company’s articles of association are unauthorized and must be returned to the company.",
+      "Application": "Kong Choot Sian received RM308,400 in bonuses and other payments from three subsidiary companies. These specific amounts were not documented in his contracts for services. The assessment of whether he is entitled to retain these funds rests on whether the subsidiary companies' governing frameworks provided an alternative basis for these specific payments.",
+      "Judicial_Reasoning_Log": "Where a director receives corporate funds that are not explicitly provided for in a valid contract for services, those payments constitute a breach of the authorization framework. The lack of contractual provision for bonuses means that such funds were improperly disbursed. Consequently, the individual is under a legal obligation to refund the unauthorized amounts to the respective corporate entities to rectify the unauthorized depletion of assets."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Liable",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -91,28 +97,18 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
-          "Text": "Kong Siew Seng was the second respondent in proceedings concerning directors' remuneration and whether such remuneration was authorised by the company's articles of association."
-        },
-        {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1998-01-01",
-          "Text": "On or after 1 January 1998, Kong Siew Seng received payments from HHR."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1998-01-01",
-          "Text": "On or after 1 January 1998, the total payments received by Kong Siew Seng from HHR amounted to S$86,000 and RM28,650."
+          "Text": "On or after 1 January 1998, Kong Siew Seng received payments from Heap Huat Rubber Company Sdn Bhd totaling S$86,000 and RM28,650."
         }
       ],
-      "Issue": "Whether the payments received by Kong Siew Seng from Huap Huat Rubber Company Sdn Bhd on or after 1 January 1998 were within the scope of authorisation given by the company's articles of association and any applicable contracts for services.",
-      "Rule": "Directors' entitlement to remuneration and related payments is governed by the company's articles of association and any applicable contracts for services, and payments outside such authorisation may be repayment.",
-      "Application": "The payments received by Kong Siew Seng from the company, and their total amounts in Singapore dollars and Malaysian ringgit, are assessed against the company's articles of association and any contracts for services to determine whether they were authorised remuneration.",
-      "Judicial_Reasoning_Log": "The court, in its earlier judgment, ordered that payments received by Kong Siew Seng from the first appellant on or after 1 January 1998 be refunded. In this judgment, the court clarified that the total amount to be refunded by him was S$86,000 and RM28,650. The court noted that he admitted during cross-examination to having received these payments and used this admission as part of the evidential basis for quantifying the sums to be repaid."
+      "Issue": "Whether payments totaling S$86,000 and RM28,650 received from Heap Huat Rubber Company Sdn Bhd were validly authorized as remuneration.",
+      "Rule": "Any remuneration paid to a director must be authorized in accordance with the company's articles of association.",
+      "Application": "Kong Siew Seng received S$86,000 and RM28,650 from the company starting in January 1998. The authorization for these payments is scrutinized against the company's articles to determine if they constitute valid remuneration or unauthorized disbursements.",
+      "Judicial_Reasoning_Log": "The authority for a director to receive remuneration is strictly defined by the corporate constitution. If payments are made that do not comply with the procedural and substantive requirements of the articles, the recipient is liable to return the funds. In the absence of proof of authorization for specific Singapore dollar and Malaysian ringgit sums, the director remains accountable for the unauthorized receipt of those corporate funds."
     },
     "Label": "Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -131,27 +127,17 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2004-01-01",
-          "Text": "Ng Phuay Khoon was a respondent in proceedings involving Heap Huat Rubber Company Sdn Bhd concerning directors' remuneration and whether such remuneration was authorised by the company's articles of association."
-        },
-        {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1998-01-01",
-          "Text": "On or after 1 January 1998, Ng Phuay Khoon received payments from Huap Huat Rubber Company Sdn Bhd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1998-01-01",
-          "Text": "On or after 1 January 1998, the total payments received by Ng Phuay Khoon from Huap Huat Rubber Company Sdn Bhd amounted to S$168,710 and RM55,275."
+          "Text": "On or after 1 January 1998, Ng Phuay Khoon received payments from Heap Huat Rubber Company Sdn Bhd totaling S$168,710 and RM55,275."
         }
       ],
-      "Issue": "Whether the payments received by Ng Phuay Khoon from Huap Huat Rubber Company Sdn Bhd on or after 1 January 1998 were within the scope of authorisation given by the company's articles of association and any applicable contracts for services.",
-      "Rule": "Directors' entitlement to remuneration and related payments is governed by the company's articles of association and any applicable contracts for services, and payments outside such authorisation may be repayment.",
-      "Application": "The payments received by Ng Phuay Khoon from the company, and their total amounts in Singapore dollars and Malaysian ringgit, are assessed against the company's articles of association and any contracts for services to determine whether they were authorised remuneration.",
-      "Judicial_Reasoning_Log": "The court, in its earlier judgment, ordered that payments received by Ng Phuay Khoon from the first appellant on or after 1 January 1998 be refunded. In this judgment, the court clarified that the total amount to be refunded by him was S$168,710 and RM55,275. The court noted that he admitted during cross-examination to having received these payments and used this admission as part of the evidential basis for quantifying the sums to be repaid."
+      "Issue": "Whether payments totaling S$168,710 and RM55,275 received from Heap Huat Rubber Company Sdn Bhd were authorized under the corporate framework.",
+      "Rule": "Directors must ensure that any payments received from the company are strictly authorized by the articles of association or applicable service contracts.",
+      "Application": "Ng Phuay Khoon received S$168,710 and RM55,275 from the company beginning in 1998. The legal status of these funds depends on whether they were approved according to the standards set in the company’s articles of association.",
+      "Judicial_Reasoning_Log": "Unauthorized payments to directors violate the principle that corporate assets must only be deployed according to approved governance structures. When a director receives substantial sums that lack the necessary constitutional approval, the director is liable for the return of those funds. This accountability ensures that corporate governance standards regarding the disposal of company funds are maintained."
     },
     "Label": "Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   }
 ]

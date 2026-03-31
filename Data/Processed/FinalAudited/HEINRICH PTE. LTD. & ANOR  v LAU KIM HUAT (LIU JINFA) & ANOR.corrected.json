@@ -5,7 +5,7 @@
       "Coram": "Aedit Abdullah JC",
       "Judge": "Aedit Abdullah",
       "Date": "2016-06-21",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Plaintiff",
@@ -141,13 +141,13 @@
           "Text": "In 2013, Lau left Heinrich and set up a new company with Li."
         }
       ],
-      "Issue": "Whether, based on pre-dispute conduct and financial arrangements, the defendants' use of Heinrich Pte Ltd's funds, facilities, staff time and transactional structures resulted in uncompensated use of Heinrich's resources or financial shortfall under the 2006 joint venture loan and Macmacor acquisition.",
-      "Rule": "Directors and related parties are generally manage company funds and resources in accordance with agreed financing terms, to document and account for transactions involving company assets, and to ensure that third parties who use company facilities or staff time provide appropriate value or reimbursement.",
-      "Application": "The 2006 joint venture agreement fixed an interest-free loan framework of S$300,000 with a three-year reference period and specified percentage responsibilities for named individuals if the loan remained outstanding. Heinrich's ledgers recorded more than S$300,000 in payments credited to or for the account of Lau Kim Huat within that three-year window, and a directors' resolution in April 2009 capitalised loan amounts into share capital, issuing 29,999 shares to Lau and bringing his stake to 10%. In parallel, Heinrich's warehouse, forklifts, employees and freight forwarder were used over several years to handle ropes and other goods connected with JHY Marine and Offshore Equipment Pte Ltd and Li Cunkou, and Heinrich funds were used for courier and transhipment activities. Some of these activities generated identifiable profits for Heinrich, such as profits on rope sales to Transvictory Marine and Offshore Pte Ltd and PT Bumi Aranda, and resale profits by Impa Marine Pte Ltd, while other activities primarily consumed staff time and facilities without clear direct revenue attribution. These patterns frame the quantitative relationship between the loan flows, share capitalisation, and the extent of uncompensated or indirectly compensated use of Heinrich's operational resources by counterparties linked to the defendants.",
-      "Judicial_Reasoning_Log": "The judge concluded that the JV Agreement covered only the initial S$300,000 loan, that this amount had been repaid within the three-year period as evidenced by ledger entries and the subsequent share capitalisation, and that Lau's liability under the JV Agreement, even if engaged, would be limited to 10% of that S$300,000. The court held that the plaintiffs did not prove actionable misrepresentation in relation to the Macmacor acquisition because the key statements were either true, non-factual opinions, not shown to have been made, or not shown to have been relied upon by Kor, and the Misrepresentation Act did not apply as there was no contract between Kor and Lau. On the directors' duties claims, the court applied the Intraco and Ho Kang Peng standards and found that Lau's activities, including rope transactions, transhipments, courier arrangements and other assistance to Li, were commercially explicable as efforts to cultivate a supplier and did not amount to acting otherwise than bona fide in Heinrich's interests, nor did they demonstrate conflicts of interest, improper purposes, or misuse of position or information under s 157 of the Companies Act. The court found no loss to Heinrich from the rope transactions, accepted that Heinrich made profits on onward sales, and rejected the suggestion of secret profits or sham payments, accepting evidence that 'Ah Siong' referred to an actual employee and that the description 'scrap supplier' on vouchers did not indicate wrongdoing. The cumulative scale of Lau's activities for Li was held insufficient to infer disloyalty or a shift of allegiance, and the later formation of a business with Li in 2012–2013 was not treated as evidence that earlier conduct was disloyal. Because no breach of fiduciary or statutory duty by Lau was established, the knowing assistance claims against Li and JHY failed at the threshold; in any event, the court held that the plaintiffs had not shown the dishonest state of mind required for knowing assistance, as there was no evidence that Li or JHY knew of any breach or acted contrary to ordinary standards of honesty. The court further held that the 'user principle' is a measure of damages contingent on an underlying wrong involving use of property and does not create a free-standing cause of action; since no primary wrong was established and the claims concerned use of services and facilities rather than wrongful use of property in the relevant sense, the user-based restitutionary claim could not succeed. Overall, the court characterised the plaintiffs' approach as a wide-ranging, ex post attempt to recast many years of minor and low-value transactions as misconduct following Lau's departure, and determined that suspicion and disappointment did not translate into legal liability. All claims were dismissed and costs of S$100,000 plus reasonable disbursements were awarded to the defendants."
+      "Issue": "Whether the utilization of corporate funds, warehouse facilities, and staff time for transhipments and transactions involving related third parties resulted in uncompensated use of corporate resources or a breach of fiduciary duties.",
+      "Rule": "Directors must act bona fide in the company's best interests and must not misuse corporate assets or staff for personal or third-party benefit. Corporate financing arrangements and capitalization of loans must strictly adhere to the terms of the governing joint venture agreement. Accessory liability for third parties arises only upon establishing an underlying breach of duty and a dishonest state of mind.",
+      "Application": "Heinrich Pte Ltd provided logistical and operational support for goods purchased by JHY Marine and Offshore Equipment Pte Ltd and exported to Li Cunkou's company. This included the use of warehouse space, forklifts, and employees. In parallel, a S$300,000 shareholders' loan framework from 2006 involved specific repayment and capitalization terms for Lau Kim Huat. Ledger entries recorded substantial payments credited to the director, and loan amounts were subsequently capitalized into share capital. While some activities, such as rope sales, generated identifiable profits for the company, others consumed staff time without direct revenue attribution.",
+      "Judicial_Reasoning_Log": "The Joint Venture Agreement applies exclusively to the initial S$300,000 loan. General ledgers and the 2009 capitalization indicate that this specific debt was satisfied within the stipulated three-year window. Liability for loan shortfalls cannot be retrospectively extended to later advances. Business activities involving transhipments, rope transactions, and courier arrangements are commercially explicable as efforts to cultivate business relationships and do not demonstrate a shift in allegiance or disloyalty. The company earned identifiable profits from these onward sales, negating claims of financial loss. Furthermore, the use of internal descriptions like 'scrap supplier' or the names of employees on payment vouchers is consistent with documented corporate procedures rather than secret profiteering. Accessory claims fail in the absence of an underlying primary breach. Restitution based on the 'user principle' is inapplicable where the use of services does not involve the wrongful use of property in a way that establishes an independent cause of action."
     },
     "Label": "Claim Dismissed",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -155,15 +155,11 @@
       "Coram": "Aedit Abdullah JC",
       "Judge": "Aedit Abdullah",
       "Date": "2016-06-21",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Plaintiff",
       "Name": "Kor Yong Koo",
-      "Law_Firm": "Shenton Law Practice LLP",
-      "Counsel": [
-        "Decruz Martin Francis"
-      ],
       "Facts": [
         {
           "Fact_Type": "RELATIONSHIP",
@@ -231,10 +227,10 @@
           "Text": "After Lau Kim Huat left Heinrich in 2013 to start a new company with Li Cunkou, Kor Yong Koo became aware of past transactions and activities involving Lau, Li and JHY Marine and Offshore Equipment Pte Ltd."
         }
       ],
-      "Issue": "Whether, based on the pre-dispute financial flows and information available to him, Kor Yong Koo experienced uncompensated loan exposure and adverse economic effects from the Macmacor acquisition and from Heinrich's dealings with entities connected to the defendants.",
-      "Rule": "An investor or shareholder who advances funds and acquires businesses typically evaluates repayment patterns, capitalisation decisions, and business performance data to determine whether counterparties have met agreed financial responsibilities and whether acquisitions and related-party dealings have produced the expected economic benefits.",
-      "Application": "Kor advanced S$300,000 under the 2006 joint venture loan framework and later increased his total loans to Heinrich to about S$1.3 million, while also waiving a condition that loans be repaid before share allotment, enabling a 10% share issue to Lau funded by S$29,999 of Kor's loan. Ledger entries showed substantial repayments credited to Lau, and a directors' resolution in April 2009 capitalised loan amounts into share capital. In parallel, Kor acquired the Macmacor Engineering business in 2006 after discussions with Lau about profitability, sales near S$1 million, and complementarity with Heinrich, and later observed that Macmacor was profitable in its first year but short of funds to expand. Over the following years, Heinrich's facilities and staff were used in transactions involving JHY Marine and Offshore Equipment Pte Ltd and Li Cunkou, some of which generated profits for Heinrich and some of which primarily consumed resources. These pre-dispute data points define Kor's exposure: the scale of his loans relative to recorded repayments and capitalisation, the actual performance of Macmacor compared with the described prospects, and the net economic effect on Heinrich of the resource-intensive dealings with entities linked to the defendants.",
-      "Judicial_Reasoning_Log": "The court treated Kor's claims as co-extensive with Heinrich's and analysed his position as lender, shareholder and acquirer of Macmacor. It held that the JV Agreement did not extend beyond the initial S$300,000 loan and that this loan had been repaid, undermining Kor's contention that Lau remained responsible for a larger outstanding amount or for 30% of a broader loan pool. On the Macmacor acquisition, the judge found that Kor did not prove that he relied on Lau's statements in the legally relevant sense, noting that Kor was an experienced businessman who could and did consult others, and that the alleged misrepresentations were either true, non-actionable opinions, or not shown to have been made or relied upon. The court emphasised the long delay between the 2006 acquisition and the 2013 complaint, and the absence of contemporaneous protest, as factors weakening Kor's narrative. Regarding the extensive list of alleged breaches of duty and misuses of Heinrich's resources, the judge concluded that Kor's post-2013 review of historical transactions reflected disappointment and a sense of betrayal after Lau left to join Li, but that this retrospective dissatisfaction did not establish legal wrongs. The court described Kor's approach as a 'scatter-shot' or 'kitchen-sink' strategy that obscured the truly material issues, and ultimately held that none of the pleaded causes of action were made out on the evidence, resulting in dismissal of Kor's personal and derivative claims."
+      "Issue": "Whether business acquisition decisions and shareholder loan converts resulted in economic loss attributable to misrepresentation or a breach of fiduciary duties by corporate partners.",
+      "Rule": "An experienced businessman who enters into an acquisition must demonstrate reliance on statements that are factual rather than merely opinions to establish actionable misrepresentation. Fiduciary responsibilities regarding loan repayments are defined by the specific terms of the written agreement and the contemporaneous documentation of repayments and waivers.",
+      "Application": "Kor Yong Koo advanced S$300,000 under a 2006 joint venture agreement and eventually increased his total loans to Heinrich to S$1.3 million. He waived the condition requiring full loan repayment prior to share allotment, allowing a 10% share issue to Lau Kim Huat funded by loan conversion. Kor also acquired the Macmacor Engineering business after discussions with Lau regarding its profitability and growth prospects. Macmacor was profitable in its initial year but faced liquidity constraints. Years later, Kor identified resource-intensive transactions between Heinrich and third parties that occurred during the joint venture period.",
+      "Judicial_Reasoning_Log": "The Joint Venture Agreement does not extend beyond the initial S$300,000 loan, and internal records verify that this amount was repaid through ledger credits and the 2009 share capitalization. The director is not responsible for a larger pool of subsequent advances. Regarding the Macmacor acquisition, statements describing the firm as a 'good business' or predicting sales growth are non-actionable opinions rather than factual misrepresentations. There is no evidence of legally relevant reliance, particularly given the businessman's experience and ability to consult external advisors. The multi-year delay between the 2006 acquisition and the 2013 complaint undermines the claim of betrayal. Retrospective dissatisfaction with historical transactions following a partner's departure does not establish legal misconduct where the transactions were commercially explicable and provided value to the company."
     },
     "Label": "Claim Dismissed",
     "Leakage_Score": 0
@@ -245,16 +241,11 @@
       "Coram": "Aedit Abdullah JC",
       "Judge": "Aedit Abdullah",
       "Date": "2016-06-21",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Lau Kim Huat",
-      "Law_Firm": "Robin Law Corporation",
-      "Counsel": [
-        "Lai Swee Fung",
-        "Lim Boon Cheng Robin"
-      ],
       "Facts": [
         {
           "Fact_Type": "RELATIONSHIP",
@@ -387,13 +378,13 @@
           "Text": "Before leaving Heinrich in 2013, Lau Kim Huat deleted emails relating to transactions with Li Cunkou and JHY Marine and Offshore Equipment Pte Ltd from his office computer."
         }
       ],
-      "Issue": "Whether, based on his pre-dispute conduct and financial dealings, Lau Kim Huat's management of loan repayments, share capitalisation, Macmacor-related information, and Heinrich's resources in transactions involving Li Cunkou and JHY Marine and Offshore Equipment Pte Ltd resulted in uncompensated use of Heinrich's assets or shortfall under agreed financial arrangements.",
-      "Rule": "A director who participates in shareholder loan arrangements, facilitates acquisitions, and controls the use of company facilities and funds is generally ensure that loan obligations are satisfied in accordance with written terms, that share issuances reflect actual capital contributions, and that third-party use of company resources is structured so that the company either earns a profit or receives appropriate value for the resources deployed.",
-      "Application": "Under the 2006 joint venture agreement, Lau accepted a defined 10% responsibility for any outstanding portion of the S$300,000 loan if it remained unpaid after three years. Heinrich's ledgers recorded more than S$300,000 in amounts credited to or for Lau between 2006-10-18 and 2009-10-18, and a directors' resolution in April 2009 capitalised loan amounts into share capital, issuing 29,999 shares to Lau funded by S$29,999 of Kor's loan. In parallel, Lau introduced the Macmacor Engineering opportunity to Kor and conveyed information about its profitability, sales level and fit with Heinrich, after which Kor acquired the business and Macmacor recorded a profit in its first year while being short of funds to expand. Over several years, Lau arranged for Heinrich's warehouse, forklifts, employees and freight forwarder to handle goods purchased by JHY from overseas suppliers and exported to a company in China associated with Li, and used Heinrich's funds and courier accounts for shipments and sourcing activities requested by Li. Some of these activities generated identifiable profits for Heinrich, such as profits on rope sales to Transvictory and PT Bumi Aranda and sales to Impa, while others primarily consumed staff time and facilities. These pre-dispute patterns define the quantitative and operational context for assessing whether Lau's management of repayments, capitalisation and resource deployment left Heinrich without appropriate compensation or exposed Kor's loan position beyond what the written JV terms contemplated.",
-      "Judicial_Reasoning_Log": "The court held that the JV Agreement imposed on Lau only a 10% exposure to the defined S$300,000 'Loan' and rejected the plaintiffs' attempt to extend his responsibility to later advances totalling S$1.3 million. By construing the contract's wording and examining the ledgers and the April 2009 capitalisation, the judge concluded that the S$300,000 had in fact been repaid within the three-year period and that the share issue to Lau was consistent with completion of the bargain. On the Macmacor acquisition, the judge found that the plaintiffs did not prove that Lau made fraudulent or negligent misstatements or that Kor relied on them; the court emphasised that Macmacor was actually profitable in its first year, that statements about complementarity and future growth were opinions, and that the Misrepresentation Act did not apply because Lau was not a party to the acquisition contract. Regarding directors' duties, the court applied the Intraco and Ho Kang Peng framework and determined that Lau's actions in arranging rope transactions, transhipments, courier shipments and other assistance to Li were commercially explicable as efforts to cultivate a supplier and did not cross the threshold into disloyalty, conflict of interest, improper purpose or lack of honesty under s 157 of the Companies Act. The judge noted that Heinrich was not shown to have suffered loss on the rope transactions, that it in fact made profits on onward sales, and that there was no evidence of secret profits. The court accepted explanations for the use of 'Ah Siong' on vouchers and the 'scrap supplier' description, and found that the cumulative scale of Lau's activities for Li was insufficient to infer a shift of allegiance away from Heinrich. The later decision to form a new company with Li in 2012–2013 was not treated as evidence that earlier conduct was disloyal. The court also rejected the plaintiffs' reliance on the deletion of emails as a basis for adverse inferences. Overall, the judge concluded that Lau's conduct did not amount to breach of fiduciary, statutory or common law duties and that the claims against him failed."
+      "Issue": "Whether a director's actions in arranging logistical support for third parties and his involvement in capitalization decisions under a joint venture agreement constitute a breach of statutory and fiduciary duties.",
+      "Rule": "A director’s duties under section 157 of the Companies Act require acting bona fide in the company's interest and avoiding conflicts. Liability for misrepresentation requires proof of a fraudulent or negligent statement of fact rather than opinion. Contractual liability under a joint venture loan framework is limited to the defined terms and reference periods specified in the agreement.",
+      "Application": "Lau Kim Huat accepted a 10% exposure to a S$300,000 shareholders' loan under a 2006 joint venture agreement if the loan remained unpaid after three years. Heinrich's ledgers recorded credits exceeding S$300,000 within that window, followed by a 2009 capitalization resolution. Lau also introduced an acquisition opportunity and shared information regarding its profitability. During the joint venture, he facilitated the use of Heinrich's warehouse and freight services for JHY Marine and Offshore Equipment Pte Ltd, a supplier, and coordinated various transhipments. Some rope sales resulted in profits for Heinrich, while vouchers identified an employee ('Ah Siong') as the recipient of certain payments.",
+      "Judicial_Reasoning_Log": "The Joint Venture Agreement creates a defined liability for only the initial S$300,000 loan, which was satisfied according to internal ledgers and the 2009 share allotment. Responsibility cannot be extended to later advances totaling S$1.3 million. Statements regarding the Macmacor acquisition were non-actionable opinions or factually true, and the Misrepresentation Act is inapplicable to a non-party to the acquisition contract. Logistical assistance to a supplier through transhipments and courier arrangements is a commercially explicable effort to cultivate business relationships and does not constitute disloyalty. The company earned onward profits from these transactions, indicating no corporate loss. The use of specific vouchers and names was consistent with accounting procedures, and forming a competing firm years later does not retroactively establish a breach of duty. The deletion of office emails does not justify an adverse inference where no underlying wrong is established."
     },
     "Label": "Not Liable",
-    "Leakage_Score": 1
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -401,16 +392,11 @@
       "Coram": "Aedit Abdullah JC",
       "Judge": "Aedit Abdullah",
       "Date": "2016-06-21",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Li Cunkou",
-      "Law_Firm": "Robin Law Corporation",
-      "Counsel": [
-        "Lai Swee Fung",
-        "Lim Boon Cheng Robin"
-      ],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
@@ -478,13 +464,13 @@
           "Text": "Li Cunkou and Lau later set up a new company together."
         }
       ],
-      "Issue": "Whether, based on pre-dispute transactions and interactions, Li Cunkou's use of Heinrich Pte Ltd's warehouse, staff, freight services and courier facilities through JHY Marine and Offshore Equipment Pte Ltd and personal requests resulted in uncompensated or under-compensated use of Heinrich's resources.",
-      "Rule": "A business counterparty who routes goods and personal or business shipments through another company's facilities and staff is generally ensure that the host company is appropriately compensated through pricing, commissions or other consideration for storage, handling, sourcing and administrative services.",
-      "Application": "From 2006 onwards, Li used Heinrich's warehouse, forklifts, employees and freight forwarder to handle goods purchased by JHY from overseas suppliers and exported to a company in China associated with him, and he requested that nine coils of rope be stored at Heinrich and sold on consignment after the Gaylin transaction did not proceed. These ropes were later sold to Transvictory, PT Bumi Aranda and Impa, generating profits for both Heinrich and JHY or Li. In addition, Li requested product sourcing, sample shipments and courier arrangements using Heinrich's accounts for both business and personal matters, consuming staff time and incurring courier charges. The record shows that some of these activities produced identifiable profits or potential supply relationships for Heinrich, while others primarily involved service provision without clearly documented direct charges. These pre-dispute patterns define the extent to which Li's business and personal dealings leveraged Heinrich's infrastructure and whether the economic return to Heinrich matched the level of resources deployed.",
-      "Judicial_Reasoning_Log": "The court held that the knowing assistance claim against Li required proof of an underlying breach of fiduciary duty by Lau and a dishonest state of mind on Li's part. Having found no breach by Lau, the court concluded that the claim against Li failed at the outset. In the alternative, the judge examined Li's conduct and found no evidence that Li knew or ought to have known that Lau was acting in breach of duty; the fact that Li requested transhipments, storage, sourcing and courier services through Heinrich did not, in the court's view, show that Li appreciated any irregularity or conflict. The judge emphasised that the plaintiffs had not demonstrated the level of knowledge or dishonesty required under the Royal Brunei and George Raymond Zage line of authorities, and that nothing in Li's conduct, including the later decision to form a new company with Lau, met the standard of acting contrary to ordinary standards of honest behaviour. The court also rejected the plaintiffs' attempt to invoke the user principle against Li, holding that it is a measure of damages contingent on an established wrong involving use of property and that no such underlying wrong was proven. Accordingly, all claims against Li were dismissed."
+      "Issue": "Whether a third-party associate is liable for knowing assistance in an alleged breach of fiduciary duty by a company director or for restitution under the user principle.",
+      "Rule": "Accessory liability for knowing assistance requires establishes a primary breach of fiduciary duty and a dishonest state of mind on the part of the assistant. The 'user principle' is a measure of damages for an established underlying wrong and does not constitute an independent cause of action for the use of corporate services.",
+      "Application": "Li Cunkou utilized the warehouse facilities, freight accounts, and staff of a business partner's company to handle transhipments of marine equipment and personal effects. These requests were made to a director of the partner company who facilitated the storage and onward export of goods. Li later formed a new company with that director after his departure. The partner company alleged that these historical services were obtained through a breach of fiduciary duty and sought restitution for the value of the resources used.",
+      "Judicial_Reasoning_Log": "Knowing assistance claims require proof of an underlying breach of duty. Requests for transhipments, storage, and courier services through a commercial associate do not establish an appreciation of irregularity or conflict. The individual's conduct does not meet the standard of acting contrary to ordinary standards of honest behavior. Furthermore, forming a new venture with a former associate years after the transactions is not evidence of prior dishonesty. Restitution based on the 'user principle' is unavailable where no primary wrong involving the use of property is proven. Consequently, accessory liability is not established."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -492,16 +478,11 @@
       "Coram": "Aedit Abdullah JC",
       "Judge": "Aedit Abdullah",
       "Date": "2016-06-21",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
       "Name": "JHY Marine and Offshore Equipment Pte Ltd",
-      "Law_Firm": "Robin Law Corporation",
-      "Counsel": [
-        "Lai Swee Fung",
-        "Lim Boon Cheng Robin"
-      ],
       "Facts": [
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
@@ -544,12 +525,12 @@
           "Text": "From about 2006 onwards, JHY Marine and Offshore Equipment Pte Ltd was involved in multiple transhipment and sourcing transactions in which Heinrich's facilities and staff time were used."
         }
       ],
-      "Issue": "Whether, based on pre-dispute dealings, JHY Marine and Offshore Equipment Pte Ltd's use of Heinrich Pte Ltd's warehouse, staff, freight services and payment flows in rope and other goods transactions resulted in uncompensated or under-compensated use of Heinrich's resources.",
-      "Rule": "A supplier that stores goods at another company's premises, uses its staff and logistics infrastructure, and receives payments through that company is generally ensure that the host company is compensated through commissions, margins or other agreed terms for storage, handling and transactional support.",
-      "Application": "From 2006 onwards, JHY used Heinrich's warehouse, forklifts, employees and freight forwarder to handle goods purchased from overseas suppliers and exported to a company in China associated with its owner, and it stored nine coils of rope at Heinrich for consignment sale after the Gaylin transaction did not proceed. These ropes were later sold to Transvictory, PT Bumi Aranda and Impa, with Heinrich earning profits on some sales and JHY or its owner receiving sale proceeds via payments from Heinrich. Heinrich's payment timing to JHY on rope transactions was relatively prompt compared with some other suppliers, and JHY's use of Heinrich's facilities and staff time extended over multiple transactions. These pre-dispute patterns define the extent to which JHY's business leveraged Heinrich's infrastructure and whether the economic return to Heinrich, via margins or commissions, matched the level of resources deployed.",
-      "Judicial_Reasoning_Log": "The court held that the knowing assistance claim against JHY depended on establishing a breach of fiduciary duty by Lau and attributing to JHY a dishonest state of mind through its directing mind, Li. Having found no breach by Lau and no dishonesty on Li's part, the court concluded that the claim against JHY could not succeed. The judge accepted that JHY's goods were stored and handled at Heinrich's premises and that rope transactions involved prompt payments to JHY, but found that Heinrich was not shown to have suffered loss on these transactions and in fact made profits on onward sales. The court rejected the suggestion that JHY's use of Heinrich's facilities and payment flows, without more, demonstrated participation in any breach of duty or dishonest assistance. The attempt to recover from JHY on a 'user principle' basis was also rejected on the ground that the user principle is a measure of damages contingent on an established wrong involving use of property, and no such underlying wrong was proven. Accordingly, all claims against JHY Marine and Offshore Equipment Pte Ltd were dismissed."
+      "Issue": "Whether a corporate supplier is liable for knowing assistance or restitution for using a commercial partner's infrastructure and logistical staff.",
+      "Rule": "Accessory liability is contingent on establishes a primary breach of fiduciary duty by a corporate director and a dishonest state of mind by the directing mind of the assistant entity. Restitution for the use of facilities and payment flows requires proof of an underlying civil wrong.",
+      "Application": "JHY Marine and Offshore Equipment Pte Ltd utilized a partner company's warehouse, logistical staff, and freight services to handle marine equipment purchased from international suppliers for export. The supplier also stored nine coils of rope at the partner's premises for consignment sale. While JHY received prompt payments for these sales, the partner company earned profits on the onward transactions. The partner company subsequently sought recovery for the value of the infrastructure leveraged by JHY.",
+      "Judicial_Reasoning_Log": "Knowing assistance claims fail when no underlying breach of fiduciary duty by the primary director is established. The storage and handling of goods at a partner's premises, combined with prompt payment cycles, do not establish participation in a breach of duty or dishonesty where the host company earned profits and suffered no loss. Use of infrastructure and facilities in a commercial collaboration is consistent with ordinary business dealings rather than a civil wrong. Restitution under the user principle is inapplicable as no primary wrong involving property use is proven. Liability for the use of services in this context is not established."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   }
 ]

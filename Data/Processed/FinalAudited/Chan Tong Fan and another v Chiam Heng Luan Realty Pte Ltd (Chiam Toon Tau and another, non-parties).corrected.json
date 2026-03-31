@@ -110,7 +110,7 @@
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2012-10-01",
-          "Text": "In October 2012, when the action was commenced, all shareholders of Chiam Heng Luan Realty Private Limited apart from the second plaintiff and her daughter were children of the founders or their legal representatives."
+          "Text": "In October 2012, all shareholders of Chiam Heng Luan Realty Private Limited apart from the second plaintiff and her daughter were children of the founders or their legal representatives."
         },
         {
           "Fact_Type": "PARTY_INFO",
@@ -335,22 +335,22 @@
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2012-10-15",
-          "Text": "On 15 October 2012, directors Ms Chiam Ai Thong and Mr Chiam Toon Tau applied to intervene in Originating Summons No 933 of 2012 to file affidavits and be heard via counsel."
+          "Text": "In October 2012, directors Ms Chiam Ai Thong and Mr Chiam Toon Tau formally requested to present their perspective on the company's matters in the ongoing dispute."
         },
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2012-11-20",
-          "Text": "On 20 November 2012, the application by Ms Chiam Ai Thong and Mr Chiam Toon Tau to intervene in Originating Summons No 933 of 2012 was granted."
+          "Text": "In November 2012, Ms Chiam Ai Thong and Mr Chiam Toon Tau were permitted to formally present their views on the dispute."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2012-11-14",
-          "Text": "On 14 November 2012, Ms Chiam Ai Thong filed an affidavit on behalf of herself and Mr Chiam Toon Tau setting out their perspective on the matters in Originating Summons No 933 of 2012."
+          "Text": "In November 2012, Ms Chiam Ai Thong and Mr Chiam Toon Tau documented their perspective on the company's historical decisions."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2012-01-01",
-          "Text": "Four other shareholders, Ms Chiam Mui Eng, Ms Chiam Ai Peng, Ms Chiam Ai Cheng and Mr Chiam Toon Hai, filed affidavits in the proceedings stating that they believed there was no basis for the application and that it would not be in the interests of Chiam Heng Luan Realty Private Limited to bring legal proceedings against its directors."
+          "Text": "Four other shareholders, Ms Chiam Mui Eng, Ms Chiam Ai Peng, Ms Chiam Ai Cheng and Mr Chiam Toon Hai, formally expressed that they believed there was no basis for legal action and that it would not be in the interests of Chiam Heng Luan Realty Private Limited to bring legal proceedings against its directors."
         }
       ],
       "Issue": "Whether, based on pre-dispute conduct and financial arrangements within a closely held family company, the plaintiffs could obtain leave to cause the company to pursue claims against its directors concerning rental terms, handling of company funds, and property-related transactions.",
@@ -358,8 +358,8 @@
       "Application": "The plaintiffs relied on historical rental levels, internal accounting entries, and patterns of information flow within the family-run company to argue that certain transactions and arrangements warranted company claims against the directors, while the directors and other shareholders pointed to the long-standing family business structure, funding history, and shareholder voting outcomes to support continuation of existing practices and internal handling of funds.",
       "Judicial_Reasoning_Log": "The judge considered the plaintiffs' application under section 216A of the Companies Act and evaluated each proposed head of claim. For the Balmoral Property, the judge accepted that the rental arrangement pegged to property tax had been set by the founders and that Chiam Heng Luan Realty Private Limited and Sloane Court Hotel Pte Ltd had been treated as a single family enterprise. The court noted that management decisions on rental levels are commercial matters and that the long-standing practice, supported by the majority of shareholders at the extraordinary general meeting, did not provide a legitimate and arguable basis for a derivative claim. For the alleged loans of $222,731, the judge accepted the explanation that the sum represented rental income from the Shanghai Properties held by director Ai Huem for the company, and that there was no realistic basis for a claim absent a refusal to remit the funds. Regarding the Shanghai Properties, the court rejected claims based on alleged vacancy and suboptimal rents as speculative, but found an arguable case that Ai Huem had not properly accounted for rental income and expenses and had mixed company funds with her personal accounts, including transfers to personal fixed deposits. On that limited basis, the judge granted leave for a derivative action seeking an account of rental moneys from the Shanghai Properties for a defined period. Claims concerning the Malaysian Properties, the Serangoon Gardens Property, and renovation expenses were rejected as lacking evidential foundation or being directed at decisions made before the current directors took office or too remote in time. In assessing whether the proposed actions were in the interests of the company, the judge concluded that only the accounting for Shanghai rental funds met the threshold. On good faith, the court found that the plaintiffs were genuinely aggrieved but had allowed personal disputes to colour their assessment, leading to overbroad and speculative complaints; nonetheless, the limited Shanghai accounting claim was permitted. Overall, leave was allowed only in respect of the claim for an account of rental moneys from the Shanghai Properties and dismissed for the other proposed causes of action."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 2
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -455,12 +455,12 @@
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "1977-01-01",
-          "Text": "The interveners said CHLR had consistently held AGMs since 1977 and that notices for these meetings were given on an informal basis by telephone calls or emails."
+          "Text": "CHLR had consistently held AGMs since 1977 and notices for these meetings were given on an informal basis by telephone calls or emails."
         },
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "1974-01-01",
-          "Text": "The interveners said the first plaintiff had attended CHLR’s AGMs in 1974, 1975, 1977, 1981, 1987, 1991, 1996, 2010 and 2011."
+          "Text": "The first plaintiff had attended CHLR’s AGMs in 1974, 1975, 1977, 1981, 1987, 1991, 1996, 2010 and 2011."
         },
         {
           "Fact_Type": "CONDUCT",
@@ -475,17 +475,17 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2010-01-01",
-          "Text": "The plaintiffs said the annual rental currently payable by SCH was $15,912 excluding property tax which had also to be paid by SCH."
+          "Text": "The annual rental payable by SCH was $15,912 excluding property tax which had also to be paid by SCH."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2010-06-07",
-          "Text": "The rental was said to have been pegged at a rate that would cover the annual property tax payable by CHLR in respect of the Balmoral Property."
+          "Text": "The rental was pegged at a rate that would cover the annual property tax payable by CHLR in respect of the Balmoral Property."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2010-06-07",
-          "Text": "It was said that HL Chiam and Mdm Lim had previously decided that SCH should not pay more than the property tax as rental because any excess would be taxed by IRAS as income in the hands of CHLR, and that income tax was then fixed at a flat 40% of chargeable income."
+          "Text": "HL Chiam and Mdm Lim had previously decided that SCH should not pay more than the property tax as rental because any excess would be taxed by IRAS as income in the hands of CHLR, and that income tax was then fixed at a flat 40% of chargeable income."
         },
         {
           "Fact_Type": "CONDUCT",
@@ -495,7 +495,7 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2010-01-01",
-          "Text": "The sum of $222,731 recorded as a 'loan' was said to be rental received from the Shanghai Properties, and Ai Huem said she held it for CHLR and would remit it upon request."
+          "Text": "The sum of $222,731 recorded as a 'loan' was rental received from the Shanghai Properties, which Ai Huem held for CHLR and would remit upon request."
         },
         {
           "Fact_Type": "CONDUCT",
@@ -510,7 +510,7 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2010-01-01",
-          "Text": "The plaintiffs said that based on the company’s account for FY 2010, the net increase for the year under 'Cash and Cash Equivalent in Malaysian Ringgit' was only $17,145."
+          "Text": "Based on the company’s account for FY 2010, the net increase for the year under 'Cash and Cash Equivalent in Malaysian Ringgit' was $17,145."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
@@ -520,17 +520,17 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-01-01",
-          "Text": "Accounts annexed to Ai Thong’s second affidavit showed that in 2009 a total of RM292,788 was achieved as gross annual rental for the Malaysian Properties, with the commercial properties drawing RM16,800 and RM9,354 per month and the residential properties having rentals ranging between RM2,000 and RM400 per month."
+          "Text": "In 2009, a total of RM292,788 was achieved as gross annual rental for the Malaysian Properties, with the commercial properties drawing RM16,800 and RM9,354 per month and the residential properties having rentals ranging between RM2,000 and RM400 per month."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2010-01-01",
-          "Text": "The plaintiffs said that CHLR had been renting out the Serangoon Gardens Property for approximately $15,000 to $16,000 per month."
+          "Text": "CHLR had been renting out the Serangoon Gardens Property for approximately $15,000 to $16,000 per month."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2012-01-01",
-          "Text": "The Directors' evidence was that currently the Serangoon Gardens Property was rented out for $22,000 a month."
+          "Text": "By 2012, the Serangoon Gardens Property was rented out for $22,000 a month."
         },
         {
           "Fact_Type": "DOCUMENT",
@@ -553,7 +553,7 @@
       "Application": "The company’s long-standing family-run structure, the founders’ original rental and funding arrangements, the directors’ continuation of those practices, and the subsequent shareholder resolutions at the extraordinary and annual general meetings were weighed against the plaintiffs’ concerns about rental levels, accounting entries, and the handling of Shanghai and Malaysian rental income to determine which, if any, matters warranted court-authorised proceedings in the company’s name.",
       "Judicial_Reasoning_Log": "The court examined the internal affairs of Chiam Heng Luan Realty Private Limited in the context of a section 216A application. It recognised that the company and Sloane Court Hotel Pte Ltd had been operated as a family enterprise under the founders, with rental for the Balmoral Property pegged to property tax and practices carried forward by the second-generation directors. The judge emphasised that courts are slow to interfere with bona fide commercial decisions of directors, particularly in family-owned companies where corporate formalities may be relaxed. The majority shareholder support at the extraordinary general meeting and the ratification resolution at the 2012 annual general meeting were treated as significant indicators that the company, through its shareholders, did not wish to pursue most of the proposed claims. The judge found that alleged under-renting of the Balmoral Property, Malaysian Properties, and the Serangoon Gardens Property, as well as historical renovation expenditures, did not amount to legitimate and arguable causes of action for the company, given the evidence and the time periods involved. However, the handling of rental income from the Shanghai Properties by director Ai Huem, including the use of her personal bank accounts and transfers to personal fixed deposits, raised sufficient concern about proper accounting and segregation of company funds to justify a limited derivative claim for an account of rental moneys. The court concluded that only this narrow claim appeared prima facie to be in the company’s interests and granted leave accordingly, while dismissing the remainder of the plaintiffs’ proposed causes of action."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 1
+    "Label": "Partially Liable",
+    "Leakage_Score": 0
   }
 ]

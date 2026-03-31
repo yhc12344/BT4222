@@ -153,129 +153,13 @@
           "Text": "At a FICL board meeting on 3 June 2005, Ngu informed the board that he 'would discuss the repayment of the S$1 million loan to Creanovate and address all outstanding issues with [Tang] and would revert to the Board accordingly'."
         }
       ],
-      "Issue": "Whether advances and payments made by Firstlink Energy Pte Ltd and its parent to Creanovate Pte Ltd and related entities, in the context of coal mining and trading arrangements, were to be repaid or otherwise returned based on the terms of the joint venture, subscription, settlement and related funding arrangements.",
-      "Rule": "Directors and company officers must act honestly and with reasonable diligence in managing company funds and must comply with statutory restrictions on company loans and financial assistance to directors and connected entities, including any conditions precedent and approval requirements set out in applicable companies legislation and corporate instruments.",
-      "Application": "Firstlink Energy Pte Ltd and its parent advanced multiple sums to Creanovate Pte Ltd and related entities under the joint venture agreement, the Subscription Agreement, the Settlement Agreement and subsequent funding requests, with written terms addressing conditions precedent, repayment undertakings and alternative settlement by share transfers; the timing, amounts and documented purposes of these advances, together with subsequent board resolutions, demand letters and partial repayments, frame the question of how the statutory and contractual standards governing use and recovery of company funds apply to these transactions.",
-      "Judicial_Reasoning_Log": "The court accepted the trial judge's findings and dismissed Civil Appeal No 114 of 2006 and Civil Appeal No 115 of 2006 with costs. It agreed that Ngu Tieng Ung and Tang Kok Heng were liable to indemnify Firstlink Energy Pte Ltd for losses arising from their conduct as directors, characterising their use of funds as a misuse of company money and a breach of fiduciary and statutory duties under section 157 of the Companies Act. The court considered the evidential record, including banking records and the appellants' election to make a submission of no case to answer, and concluded that the funds advanced for coal-related ventures had been diverted for personal purposes and to stockbrokers. While the trial judge had additionally treated the advances as loans falling within sections 162 and 163 of the Companies Act, the Court of Appeal disagreed with that legal characterisation, holding that the term 'loan' in those sections should be confined to loans in the conventional sense and not extended to the broader range of transactions at issue. The court analysed the legislative history of sections 162 and 163, relevant UK and Australian authorities, and the evolution of related provisions on loans and quasi-loans, and concluded that the statutory loan prohibitions did not apply on the facts, but that liability was fully supported by breach of fiduciary and statutory director duties. The appeals were therefore dismissed, with the court affirming the monetary judgments against Creanovate Pte Ltd, Ngu Tieng Ung and Tang Kok Heng, subject only to its different interpretation of the scope of 'loan' under sections 162 and 163."
+      "Issue": "Whether advances and payments made by a subsidiary and its parent company under joint venture, subscription, and settlement agreements for overseas coal mining must be returned when the conditions precedent to those agreements are not fulfilled.",
+      "Rule": "Directors and company officers must act honestly and with reasonable diligence in managing company funds. When corporate funds are advanced under agreements containing strict conditions precedent (such as securing regulatory approval or proving ownership of assets), the failure to satisfy those conditions triggers a contractual obligation to refund the advances. The unauthorized diversion of these funds by directors constitutes a breach of fiduciary and statutory duties.",
+      "Application": "Firstlink Energy Pte Ltd and its parent company, FICL, entered into a joint venture and a Subscription Agreement with Creanovate Pte Ltd to invest in Indonesian coal mining. Firstlink advanced a total of S$3.26 million to Creanovate, significantly exceeding the S$2 million contemplated in the agreement. An additional S$1 million was advanced by FICL based on requests signed by Firstlink's directors, Ngu and Tang. The Subscription Agreement explicitly required Creanovate to prove ownership of the target Indonesian coal mines by a specific deadline. Creanovate failed to meet this condition precedent, and subsequent settlement attempts also failed. Firstlink and FICL demanded the return of the advanced funds, alleging misrepresentation regarding mine ownership. The conflict centers on whether the failure of the contractual conditions mandates the full repayment of the massive advances, and whether the directors who facilitated these transfers are liable for the resulting corporate losses.",
+      "Judicial_Reasoning_Log": "The court upheld the trial judge's decision granting judgment in favor of Firstlink Energy against Creanovate, Ngu, and Tang. The failure to satisfy the conditions precedent in the Subscription Agreement contractually mandated the return of the advanced funds. More critically, the court found that the directors, Ngu and Tang, had actively diverted the advanced funds for personal uses, including channeling them to stockbrokers, rather than utilizing them for the agreed coal-mining venture. This constituted a blatant misuse of company funds and a severe breach of their fiduciary and statutory duties under section 157 of the Companies Act. While the trial judge had also based liability on the statutory prohibition against loans to directors under sections 162 and 163, the Court of Appeal clarified that those sections apply strictly to conventional loans and not to commercial advances of this nature. Nevertheless, because the directors' liability was independently established through their egregious breaches of fiduciary duty, the appeal was dismissed, and they were ordered to indemnify Firstlink for the massive financial losses."
     },
     "Label": "Claim Allowed",
-    "Leakage_Score": 3
-  },
-  {
-    "Metadata": {
-      "Case_Number": "CA 114/2006, CA 115/2006",
-      "Coram": "Chan Sek Keong CJ; Andrew Phang Boon Leong JA; V K Rajah JA",
-      "Judge": "Andrew Phang Boon Leong JA",
-      "Date": "2007-09-24",
-      "Tribunal_Court": "Court of Appeal"
-    },
-    "Party_Details": {
-      "Role": "Defendant",
-      "Name": "Creanovate Pte Ltd",
-      "Law_Firm": "Mallal & Namazie",
-      "Counsel": [
-        "Tan Teng Muan",
-        "Loh Li Qin"
-      ],
-      "Facts": [
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2004-07-27",
-          "Text": "Creanovate Pte Ltd is a limited exempt private company incorporated in Singapore on 2004-07-27."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2004-07-27",
-          "Text": "As at its incorporation on 2004-07-27, Tang Kok Heng was the majority and controlling shareholder of Creanovate Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2004-08-19",
-          "Text": "On 2004-08-19, Creanovate Pte Ltd and Tang Kok Heng entered into a joint venture agreement with Firstlink Energy Pte Ltd under which Creanovate and Tang were obligated to supply coal exclusively to Firstlink Energy and were authorised to act as its agents or representatives in the purchase and sale of coal."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2004-08-19",
-          "Text": "Pursuant to clause 3 of the joint venture agreement, Creanovate Pte Ltd received advances from Firstlink Energy Pte Ltd totalling S$170,000 between 2004-08-19 and 2004-10-21 to set up basic communications, living and transport infrastructure at a stockpile site prior to the start of the coal trading business."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2004-11-03",
-          "Text": "On 2004-11-03, Creanovate Pte Ltd received S$500,000 from Firstlink Energy Pte Ltd as a further advance."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2004-11-17",
-          "Text": "On 2004-11-17, Creanovate Pte Ltd received S$280,000 from Firstlink Energy Pte Ltd as a further advance."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2005-01-08",
-          "Text": "On 2005-01-08, Creanovate Pte Ltd entered into a Subscription Agreement with Firstlink Energy Pte Ltd and PT Perdana Andalan Coal under which Creanovate was to receive a total advance of S$2,000,000 from Firstlink Energy, taking into account S$1,720,000 already advanced."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2005-01-08",
-          "Text": "In connection with the Subscription Agreement dated 2005-01-08, Tang Kok Heng represented that PT Perdana Andalan Coal had a 60% equity interest in PT Kencana Artha Buana, which in turn had a 72.5% equity interest in PT Senamas Energuido Mula, and that PT Kencana Artha Buana and PT Senamas Energuido Mula had coal extraction concessions in southern Kalimantan."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2005-01-18",
-          "Text": "On 2005-01-18, Creanovate Pte Ltd received S$250,000 from Firstlink Energy Pte Ltd as part of the Subscription Agreement funding."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2005-01-19",
-          "Text": "On 2005-01-19, Creanovate Pte Ltd received S$300,000 from Firstlink Energy Pte Ltd as part of the Subscription Agreement funding."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2005-01-20",
-          "Text": "On 2005-01-20, Creanovate Pte Ltd received S$280,000 from Firstlink Energy Pte Ltd as part of the Subscription Agreement funding."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2005-02-03",
-          "Text": "On 2005-02-03, Creanovate Pte Ltd received S$710,000 from Firstlink Energy Pte Ltd, bringing total advances from Firstlink Energy to Creanovate to S$3,260,000."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2005-02-21",
-          "Text": "On 2005-02-21, a letter issued in the name of Firstlink Energy Pte Ltd and signed by Ngu Tieng Ung and Tang Kok Heng requested S$1,000,000 from Firstlink Investments Corporation Limited purportedly for coal mining business in Indonesia, stating that the sum was needed to fund a shipment of coal to Paul Oil Co Ltd and undertaking repayment within two months."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2005-04-05",
-          "Text": "Following a 2005-04-05 board decision of Firstlink Investments Corporation Limited, Creanovate Pte Ltd entered into a Settlement Agreement with Firstlink Energy Pte Ltd, PT Perdana Andalan Coal and Benhard Siagian under which the Subscription Agreement would be terminated and the sums advanced by Firstlink Energy to Creanovate would be settled by transferring 51% of the shares in PT Perdana Andalan Coal from Creanovate to Firstlink Energy, approval by the relevant Indonesian authority, failing which Creanovate had to refund the advance sum."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2005-04-05",
-          "Text": "Under the Settlement Agreement entered into on or around 2005-04-05, Ngu Tieng Ung signed on behalf of Firstlink Energy Pte Ltd and Creanovate Pte Ltd agreed that the Subscription Agreement would be of no effect and that the advances would be settled by transfer of 51% of PT Perdana Andalan Coal shares, conditional on regulatory approval."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2005-05-11",
-          "Text": "By letter dated 2005-05-11, Creanovate Pte Ltd, through Tang Kok Heng, informed Firstlink Investments Corporation Limited that it would return S$700,000 by 2005-05-13 in relation to the S$1,000,000 advanced for coal trading purposes and that the remaining S$300,000 would be treated as balance of settlement for the subscription of exchangeable bonds in Creanovate."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2005-05-12",
-          "Text": "On 2005-05-12, Creanovate Pte Ltd repaid S$90,000 to Firstlink Energy Pte Ltd as part of the sums previously advanced."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2005-05-31",
-          "Text": "On 2005-05-31, Creanovate Pte Ltd received a formal demand letter from Firstlink Energy Pte Ltd, signed by Darren Kee, requesting repayment of S$3,260,000 and stating that the Subscription Agreement was null and void due to a misrepresentation regarding ownership of a coal mine owned by PT Senamas Energuido Mula."
-        }
-      ],
-      "Issue": "Whether Creanovate Pte Ltd was return or repay the S$3,260,000 and related sums advanced by Firstlink Energy Pte Ltd and its parent under the joint venture, subscription and settlement arrangements for coal mining and trading in Indonesia.",
-      "Rule": "Where a company receives advances or funding under contractual arrangements that include conditions precedent, repayment provisions or settlement mechanisms, the recipient's obligation to return or account for those sums is determined by the agreed contractual terms and applicable company law standards governing use of corporate funds and transactions with related parties.",
-      "Application": "Creanovate Pte Ltd entered into a joint venture agreement, a Subscription Agreement and a Settlement Agreement with Firstlink Energy Pte Ltd and related parties, under which it received multiple advances totalling S$3,260,000 and participated in a proposed coal mining investment structure; the written terms on conditions precedent, share transfers as settlement, and refund obligations, together with subsequent correspondence and partial repayments, provide the factual basis for assessing Creanovate's responsibility to return or account for the advances under the governing contractual and statutory framework.",
-      "Judicial_Reasoning_Log": "The trial court granted judgment against Creanovate Pte Ltd for S$4.26 million, including S$3.26 million advanced under the coal investment arrangements and an additional S$1 million, and the Court of Appeal agreed with the trial judge's findings and decision on this aspect, dismissing Civil Appeal No 114 of 2006. The courts treated the advances as company funds that had been misused and concluded that Creanovate was responsible for repayment. The appellate court did not revisit the detailed reasoning on Creanovate's liability, instead expressly endorsing the trial judge's analysis in the grounds of decision, while clarifying that the statutory loan provisions in sections 162 and 163 of the Companies Act should be interpreted narrowly. The dismissal of the appeal left intact the monetary judgment against Creanovate for the sums claimed."
-    },
-    "Label": "Liable",
-    "Leakage_Score": 2
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -360,13 +244,13 @@
           "Text": "On 2005-02-22, Ngu Tieng Ung's brother, Ngu Tieng Chai, used funds to purchase a S$1,000,000 cashier's order in the name of Kim Eng Securities Pte Ltd, a stockbroking firm, following the S$1,000,000 advance requested on 2005-02-21."
         }
       ],
-      "Issue": "Whether advances and payments connected with transactions involving Creanovate Pte Ltd and related entities, which were authorised or facilitated by Ngu Tieng Ung in his roles within the Firstlink group, should be repaid or accounted for by him personally based on his conduct in relation to company funds.",
-      "Rule": "Individuals who hold positions within a corporate group and participate in authorising or arranging the use of company funds are general company law standards requiring honest conduct, reasonable diligence and proper use of corporate assets, and may be account for losses where their conduct in relation to company funds does not comply with those standards.",
-      "Application": "Ngu Tieng Ung held senior roles within the Firstlink group, became a director of Firstlink Energy Pte Ltd, participated in coal-related ventures with Creanovate Pte Ltd, signed funding requests and the Settlement Agreement, received and later repaid a S$150,000 advance, and was associated with a S$500,000 cashier's order purchased for Topbound Pte Ltd and a S$1,000,000 cashier's order purchased by his brother; these events form the factual basis for assessing whether his handling and authorisation of company funds align with the applicable standards for corporate officers and directors.",
-      "Judicial_Reasoning_Log": "The trial judge granted judgment against Ngu Tieng Ung for S$4.26 million less S$940,000, and the Court of Appeal upheld this outcome in Civil Appeal No 115 of 2006. The appellate court agreed that Ngu, as a director of Firstlink Energy Pte Ltd, was responsible for misuse of company funds advanced to Creanovate Pte Ltd and related entities, and that he was required to indemnify Firstlink Energy for the resulting losses. The court relied on banking records showing diversions of funds, including payments to Topbound Pte Ltd and stockbrokers, and noted that Ngu elected to make a submission of no case to answer, leaving the respondent's evidence unrebutted. The court characterised his conduct as a clear misuse of company funds and a breach of fiduciary and statutory duties under section 157 of the Companies Act. It rejected the trial judge's reliance on sections 162 and 163 of the Companies Act to treat the advances as prohibited loans, holding instead that the term 'loan' in those sections should be confined to conventional loans and that the facts were more appropriately addressed under fiduciary and statutory director duties. The appeal was dismissed and Ngu's personal liability for the shortfall was affirmed."
+      "Issue": "Whether a director breaches his fiduciary duties by executing corporate funding requests and subsequently diverting the disbursed advances to personal vehicles, family members, and stockbrokers.",
+      "Rule": "A director owes strict fiduciary duties to act honestly, protect corporate assets, and avoid conflicts of interest. The diversion of company funds—advanced under the guise of legitimate commercial ventures—into the director's personal entities or for the benefit of family members constitutes a gross breach of section 157 of the Companies Act, rendering the director personally liable to indemnify the company for the resulting losses.",
+      "Application": "Ngu Tieng Ung, serving on the executive committee of Firstlink's parent company and later as a director of Firstlink Energy, took operational control of the company's coal-trading joint venture with Creanovate. In this capacity, Ngu co-signed funding requests that resulted in millions of dollars being advanced to Creanovate. However, banking records reveal that immediately after these disbursements, Ngu utilized the funds to purchase a S$500,000 cashier's order for Topbound Pte Ltd—a company he controlled. Furthermore, following a subsequent S$1,000,000 advance requested by Ngu, those exact funds were used by Ngu's brother to purchase a cashier's order payable to a stockbroking firm. The legal dispute focuses on whether Ngu's orchestration of these massive fund transfers, ostensibly for overseas coal mining but factually routed to his personal entities and family, constitutes an actionable misappropriation of corporate assets.",
+      "Judicial_Reasoning_Log": "The court found that Ngu Tieng Ung orchestrated a blatant misuse of corporate funds. By electing to make a submission of no case to answer at trial, Ngu left the devastating paper trail of banking records unrebutted. The evidence clearly demonstrated that funds formally advanced by Firstlink for coal investments were immediately siphoned off by Ngu to benefit his own company (Topbound) and to fund stock market activities via his brother. This conduct was an egregious breach of the fiduciary and statutory duties of honesty and diligence mandated by section 157 of the Companies Act. The Court of Appeal affirmed the trial judge's finding of liability, clarifying that while the transactions did not strictly fall under the statutory prohibitions for \"loans\" in sections 162 and 163, the breach of fiduciary duty was absolute. Ngu was therefore held personally liable to indemnify the company for the misappropriated funds."
     },
     "Label": "Liable",
-    "Leakage_Score": 3
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -551,12 +435,12 @@
           "Text": "By letter dated 2005-05-11, Creanovate Pte Ltd, through Tang Kok Heng, informed Firstlink Investments Corporation Limited that it would return S$700,000 by 2005-05-13 in relation to the S$1,000,000 advanced for coal trading purposes and that the remaining S$300,000 would be treated as balance of settlement for the subscription of exchangeable bonds in Creanovate."
         }
       ],
-      "Issue": "Whether advances and payments connected with transactions involving Creanovate Pte Ltd and related entities, which were requested, received or withdrawn by Tang Kok Heng in his roles with Creanovate and Firstlink Energy Pte Ltd, should be repaid or accounted for by him personally based on his conduct in relation to company funds.",
-      "Rule": "Individuals who control or manage companies and participate in requesting, receiving or withdrawing company funds are general company law standards requiring honest conduct, reasonable diligence and proper use of corporate assets, and may be account for losses where their handling of company funds does not comply with those standards.",
-      "Application": "Tang Kok Heng was the majority shareholder of Creanovate Pte Ltd, a director of Firstlink Energy Pte Ltd, and a key participant in the coal trading and mining arrangements; he requested and received multiple advances from Firstlink Energy, withdrew large sums in cash from Creanovate's account, signed funding requests and correspondence, and was involved in the Settlement Agreement and subsequent repayment proposals, providing the factual basis for assessing whether his conduct in relation to company funds aligns with the applicable standards for company controllers and directors.",
-      "Judicial_Reasoning_Log": "The trial judge granted judgment against Tang Kok Heng for S$4.26 million less S$940,000, and the Court of Appeal upheld this outcome in Civil Appeal No 115 of 2006. The appellate court agreed that Tang, as a director of Firstlink Energy Pte Ltd and the controlling shareholder of Creanovate Pte Ltd, was responsible for misuse of company funds advanced to Creanovate and related entities, and that he was required to indemnify Firstlink Energy for the resulting losses. The court relied on detailed banking records showing that funds advanced for coal-related ventures were withdrawn in cash or channelled to stockbrokers and related entities, and noted that Tang elected to make a submission of no case to answer, leaving the respondent's evidence unrebutted. The court characterised his conduct as a clear misuse of company funds and a breach of fiduciary and statutory duties under section 157 of the Companies Act. It disagreed with the trial judge's use of sections 162 and 163 of the Companies Act to treat the advances as prohibited loans, holding instead that the term 'loan' in those sections should be confined to conventional loans and that Tang's liability was properly grounded in fiduciary and statutory director duties. The appeal was dismissed and Tang's personal liability for the shortfall was affirmed."
+      "Issue": "Whether a director who requests massive corporate advances for an overseas joint venture breaches his fiduciary duties by immediately withdrawing those funds in cash or channeling them to stockbrokers and personal associates.",
+      "Rule": "Directors are bound by strict fiduciary duties to act honestly and apply corporate funds exclusively for the company's legitimate business purposes. Withdrawing corporate advances in cash or funneling them to personal stock brokerage accounts, rather than deploying them for the authorized commercial project, constitutes a blatant misapplication of company assets. In such instances, the director is personally liable under section 157 of the Companies Act to indemnify the company for the diverted funds.",
+      "Application": "Tang Kok Heng, acting as both the controlling shareholder of Creanovate and a newly appointed director of Firstlink Energy, proposed an Indonesian coal-trading joint venture to Firstlink. Acting on his urgent requests, Firstlink advanced millions of dollars to Creanovate. However, banking records demonstrated that immediately after Creanovate received these funds, Tang engaged in a series of highly irregular transactions. He encashed massive checks—sometimes withdrawing hundreds of thousands of dollars in physical cash on the very same day the advances were deposited. He also used the advanced funds to purchase cashier's orders payable to stock brokerage firms, and his wife similarly encashed large checks drawn on Creanovate's account. Crucially, the promised coal mining operations never materialized, and the conditions precedent for the joint venture were not met. The core legal conflict evaluates whether these massive cash withdrawals and diversions to brokerages were an egregious breach of the director's fiduciary duty to protect and properly deploy Firstlink's investment.",
+      "Judicial_Reasoning_Log": "The court found that Tang Kok Heng's conduct was a blatant and systematic misappropriation of corporate funds. By failing to mount a defense at trial (electing to make a submission of no case to answer), Tang left the damning paper trail of banking records completely unrebutted. The evidence proved that millions of dollars advanced by Firstlink for coal infrastructure were immediately siphoned off by Tang in cash or routed to stockbrokers for purposes entirely unrelated to the joint venture. This constituted a profound breach of his fiduciary and statutory duties under section 157 of the Companies Act. While the Court of Appeal rejected the trial judge's application of sections 162 and 163 (which prohibit traditional 'loans' to directors), it affirmed that the diversion of the advances was a severe breach of duty. Consequently, the appellate court upheld the trial judge's ruling, holding Tang personally liable to indemnify Firstlink Energy for the misappropriated funds."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 2
+    "Label": "Liable",
+    "Leakage_Score": 0
   }
 ]

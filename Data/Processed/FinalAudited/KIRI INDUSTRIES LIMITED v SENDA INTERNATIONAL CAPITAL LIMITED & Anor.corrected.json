@@ -31,12 +31,12 @@
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2010-01-04",
-          "Text": "Under the 2009-12-04 asset purchase agreement, DyStar Global Holdings (Singapore) Pte Ltd was provide bank guarantees for the EUR 40,000,002 purchase price by 2010-01-04, failing which DyStar GmbH and DyStar KG could withdraw from the agreement with repayment of a transfer share to DyStar Global Holdings (Singapore) Pte Ltd."
+          "Text": "Under the 2009-12-04 asset purchase agreement, DyStar Global Holdings (Singapore) Pte Ltd was to provide bank guarantees for the EUR 40,000,002 purchase price by 2010-01-04, failing which DyStar GmbH and DyStar KG could withdraw from the agreement with repayment of a transfer share."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-01-01",
-          "Text": "Around 2009, DyStar Global Holdings (Singapore) Pte Ltd paid approximately EUR 9,000,000, described as a transfer share, to DyStar Textilfarben GmbH & Co Deutschland KG for the purpose of establishing companies in Germany to take over employment of DyStar KG employees as required under the asset purchase agreement."
+          "Text": "Around 2009, DyStar Global Holdings (Singapore) Pte Ltd paid approximately EUR 9,000,000, described as a transfer share, to DyStar Textilfarben GmbH & Co Deutschland KG for the purpose of establishing companies in Germany to take over employment of DyStar KG employees."
         },
         {
           "Fact_Type": "BOARD_ACTION",
@@ -66,7 +66,7 @@
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2010-07-28",
-          "Text": "At a DyStar board meeting held over 2010-07-28 and 2010-07-29, the board resolved to set up a Remuneration Committee and an Audit Committee, with the Remuneration Committee comprising Chang Sheng, Mukherjee Amitava, Xu Yalin, Steve Barron and Petra Gerweek, and the Audit Committee comprising Chang Sheng, Mukherjee Amitava, Xu Yalin, Steve Barron, Viktor Leendertz and the head of internal auditors."
+          "Text": "At a DyStar board meeting held over 2010-07-28 and 2010-07-29, the board resolved to set up a Remuneration Committee and an Audit Committee."
         },
         {
           "Fact_Type": "BOARD_ACTION",
@@ -91,22 +91,22 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2014-04-22",
-          "Text": "By the DyStar board meeting on 2014-04-22 and 2014-04-23, DyStar Global Holdings (Singapore) Pte Ltd and its subsidiary DyStar Singapore Pte Ltd had extended loans totaling USD 33,500,000 to Longsheng-related entities between 2014-01-13 and 2014-03-26, with DyStar lending USD 5,000,000 and DyStar Singapore Pte Ltd lending USD 28,500,000."
+          "Text": "By the DyStar board meeting on 2014-04-22 and 2014-04-23, DyStar Global Holdings (Singapore) Pte Ltd and its subsidiary DyStar Singapore Pte Ltd had extended loans totaling USD 33,500,000 to Longsheng-related entities between 2014-01-13 and 2014-03-26."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2014-01-13",
-          "Text": "On 2014-01-13, DyStar Global Holdings (Singapore) Pte Ltd entered into a loan arrangement with Amino-Chem (HK) Co., Limited under which DyStar provided a revolving credit facility up to USD 20,000,000, later documented as the Amino-Chem Loan Agreement."
+          "Text": "On 2014-01-13, DyStar Global Holdings (Singapore) Pte Ltd entered into a loan arrangement with Amino-Chem (HK) Co., Limited under which DyStar provided a revolving credit facility up to USD 20,000,000."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2014-03-18",
-          "Text": "On 2014-03-18, DyStar Singapore Pte Ltd entered into a loan arrangement with Well Prospering Limited under which DyStar Singapore Pte Ltd provided a revolving credit facility up to USD 80,000,000, later documented as the WPL Loan Agreement."
+          "Text": "On 2014-03-18, DyStar Singapore Pte Ltd entered into a loan arrangement with Well Prospering Limited under which DyStar Singapore Pte Ltd provided a revolving credit facility up to USD 80,000,000."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2014-03-31",
-          "Text": "A debit note dated 2014-03-31 from DyStar to Amino-Chem (HK) Co., Limited charged interest on the Amino-Chem loan from 2014-01-13, indicating that DyStar had disbursed USD 2,000,000 under the Amino-Chem Loan Agreement before the agreement was fully documented."
+          "Text": "A debit note dated 2014-03-31 from DyStar to Amino-Chem (HK) Co., Limited charged interest on the Amino-Chem loan from 2014-01-13, indicating that DyStar had disbursed USD 2,000,000 before the agreement was fully documented."
         },
         {
           "Fact_Type": "COMMUNICATION",
@@ -121,7 +121,7 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2014-07-24",
-          "Text": "On 2014-07-24, Xu Shan emailed a draft DyStar board resolution to ratify and approve the related party loans to Amino-Chem (HK) Co., Limited and Well Prospering Limited, describing them as revolving credit facilities up to USD 20,000,000 and USD 80,000,000 respectively."
+          "Text": "On 2014-07-24, Xu Shan emailed a draft DyStar board resolution to ratify and approve the related party loans to Amino-Chem (HK) Co., Limited and Well Prospering Limited."
         },
         {
           "Fact_Type": "COMMUNICATION",
@@ -136,7 +136,7 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2014-10-12",
-          "Text": "On 2014-10-12, Mukherjee Amitava emailed Xu Shan, copied to Manishkumar Pravinchandra Kiri and Xu Yalin, requesting that the minutes of the July 2014 shareholders' meeting correctly reflect that the borrowing limit for related party loans was based on cash margins posted by Longsheng."
+          "Text": "On 2014-10-12, Mukherjee Amitava emailed Xu Shan requesting that the minutes of the July 2014 shareholders' meeting correctly reflect that the borrowing limit for related party loans was based on cash margins posted by Longsheng."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
@@ -151,7 +151,7 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2015-02-14",
-          "Text": "On 2015-02-14, Mukherjee Amitava emailed Xu Yalin requesting information on cash margins provided by Zhejiang Longsheng Group Co., Ltd for the period October to December 2014 in relation to guarantees for DyStar-related borrowings."
+          "Text": "On 2015-02-14, Mukherjee Amitava emailed Xu Yalin requesting information on cash margins provided by Zhejiang Longsheng Group Co., Ltd for the period October to December 2014."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
@@ -166,12 +166,12 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2015-03-30",
-          "Text": "On 2015-03-30, Xu Shan emailed Mukherjee Amitava stating that Zhejiang Longsheng Group Co., Ltd had provided cash margins of approximately USD 40,000,000 for bank guarantees related to DyStar and attached copies of the WPL Loan Agreement and the Amino-Chem Loan Agreement."
+          "Text": "On 2015-03-30, Xu Shan emailed Mukherjee Amitava stating that Zhejiang Longsheng Group Co., Ltd had provided cash margins of approximately USD 40,000,000 for bank guarantees related to DyStar."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2015-04-02",
-          "Text": "On 2015-04-02, Mukherjee Amitava emailed Xu Shan, copied to Xu Yalin, Viktor Leendertz and Manishkumar Pravinchandra Kiri, stating that the outstanding related party loans in October 2014 and January 2015 exceeded the approximately USD 40,000,000 cash margins disclosed."
+          "Text": "On 2015-04-02, Mukherjee Amitava emailed Xu Shan stating that the outstanding related party loans in October 2014 and January 2015 exceeded the approximately USD 40,000,000 cash margins disclosed."
         },
         {
           "Fact_Type": "COMMUNICATION",
@@ -191,7 +191,7 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2015-10-21",
-          "Text": "On 2015-10-21, Mukherjee Amitava emailed Viktor Leendertz, copied to Eric Hopmann and Xu Yalin, requesting a copy of the cash-pooling agreement and related information."
+          "Text": "On 2015-10-21, Mukherjee Amitava emailed Viktor Leendertz requesting a copy of the cash-pooling agreement and related information."
         },
         {
           "Fact_Type": "COMMUNICATION",
@@ -231,7 +231,7 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2014-10-21",
-          "Text": "On 2014-10-21, a document titled Special Incentive Plan was prepared and signed by Ruan Weixiang, setting out potential incentive amounts for him based on DyStar group earnings after tax for 2014, with a scale from USD 60,000,000 to USD 100,000,000 and a USD 2,000,000 incentive at USD 90,000,000 earnings."
+          "Text": "On 2014-10-21, a document titled Special Incentive Plan was prepared and signed by Ruan Weixiang, setting out potential incentive amounts for him based on DyStar group earnings after tax for 2014."
         },
         {
           "Fact_Type": "COMMUNICATION",
@@ -246,12 +246,12 @@
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2010-08-31",
-          "Text": "On 2010-08-31, DyStar Colours Deutschland GmbH and Zhejiang Longsheng Group Co., Ltd signed a patent assignment agreement under which DyStar Colours Deutschland GmbH assigned a patent relating to Orange 288 dye mixtures and processes to Zhejiang Longsheng Group Co., Ltd on a temporary basis for the purpose of defending invalidation proceedings in China."
+          "Text": "On 2010-08-31, DyStar Colours Deutschland GmbH and Zhejiang Longsheng Group Co., Ltd signed a patent assignment agreement under which DyStar Colours Deutschland GmbH assigned a patent relating to Orange 288 dye mixtures and processes to Zhejiang Longsheng Group Co., Ltd on a temporary basis."
         },
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2010-08-31",
-          "Text": "At the 56th meeting of the DyStar Patent Committee around 2010-08-31, the committee decided that a patent covering Orange 288 dye mixtures would be temporarily assigned to Zhejiang Longsheng Group Co., Ltd to improve DyStar's chances in Chinese invalidation proceedings brought by Zhejiang Runtu Group."
+          "Text": "At the 56th meeting of the DyStar Patent Committee around 2010-08-31, the committee decided that a patent covering Orange 288 dye mixtures would be temporarily assigned to Zhejiang Longsheng Group Co., Ltd."
         },
         {
           "Fact_Type": "BOARD_ACTION",
@@ -296,7 +296,7 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2016-01-04",
-          "Text": "On 2016-01-04, after Kiri Industries Limited submitted a price offer for Turquoise Blue, Dr Monika Singh emailed DyStar's head of global procurement, Vera Huang, stating that Kiri was ready to match a low price without margin and asking for guidance, and noted that she understood from Luo that purchase orders were not allowed to be placed on Kiri."
+          "Text": "On 2016-01-04, after Kiri Industries Limited submitted a price offer for Turquoise Blue, Dr Monika Singh emailed DyStar's head of global procurement, Vera Huang, stating that Kiri was ready to match a low price without margin and asking for guidance, noting she understood purchase orders were not allowed to be placed on Kiri."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
@@ -306,7 +306,7 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2015-01-26",
-          "Text": "On 2015-01-26, Luo, translating for Yao Jianfang, emailed Kiri Industries Limited stating that DyStar's total loans as at 2014-12-31 were approximately USD 349,885,842.68, of which USD 326,783,419.47 were guaranteed by Zhejiang Longsheng Group Co., Ltd, and that DyStar required about USD 300,000,000 in working capital and had high expenses, and that no guarantee fees had been charged by Longsheng."
+          "Text": "On 2015-01-26, Luo emailed Kiri Industries Limited stating that DyStar's total loans as at 2014-12-31 were approximately USD 349,885,842.68, of which USD 326,783,419.47 were guaranteed by Zhejiang Longsheng Group Co., Ltd, and that DyStar required about USD 300,000,000 in working capital and had high expenses."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
@@ -329,13 +329,13 @@
           "Text": "On 2013-11-14, Kiri Industries Limited and the State General Reserve Fund of Oman executed a non-binding letter of intent to negotiate the purchase of Kiri's DyStar shares by the fund for USD 165,000,000, minority protection clauses being added to the DyStar shareholders' agreement."
         }
       ],
-      "Issue": "Whether the conduct of DyStar's majority-associated entities and board in relation to related party financing, cash pooling, intra-group loans, management and guarantee fees, patent assignment, procurement choices, and non-distribution of profits affected the value and enjoyment of DyStar Global Holdings (Singapore) Pte Ltd as a corporate vehicle and its relationships with its shareholders.",
-      "Rule": "In corporate joint ventures, board decisions and shareholder-related transactions are generally evaluated against standards requiring that directors act in good faith in the interests of the company as a whole, that related party transactions be on terms comparable to arm's length dealings, that material financing and asset transactions be appropriate board oversight, and that controlling shareholders avoid using their position to extract non-pro rata financial or structural advantages at the expense of other shareholders.",
-      "Application": "The pre-dispute events DyStar's capital structure and governance were shaped by a shareholders' agreement and a convertible bond that enabled a Longsheng-associated entity to become majority shareholder, while Kiri retained two entrenched board seats. After the acquisition of DyStar's business, DyStar and its subsidiaries entered into multiple financing arrangements with Longsheng-related entities, including loans from DyStar to those entities, a cash-pooling agreement, and a large loan from Well Prospering Limited to DyStar Singapore Pte Ltd. These arrangements involved interest rate differentials and guarantee structures that affected DyStar's cost of funds and liquidity. Board and shareholder meetings recorded that Kiri-nominated directors requested information and conditions regarding the size of related party loans relative to cash margins and the pricing of such loans, and that documentation and detailed data were provided with delays. DyStar also recorded and later paid substantial management and guarantee fees to Zhejiang Longsheng Group Co., Ltd for 2015, and booked provisions for similar fees for 2016, based on transfer pricing analyses and proposals initiated by management and Longsheng representatives. In parallel, a key patent originally acquired by DyStar was assigned to Zhejiang Longsheng Group Co., Ltd under an agreement describing the transfer as temporary for the purpose of defending invalidation proceedings, with committee minutes later noting an expectation of re-transfer. DyStar's procurement data show a decline in purchases from Kiri and internal emails some DyStar staff understood there to be constraints on placing purchase orders with Kiri, while Kiri continued to offer products and participate in testing. Financial records DyStar generated significant profits from 2013 onwards without declaring dividends, and correspondence from Longsheng representatives linked this to DyStar's working capital needs and Longsheng's guarantee support. These factual patterns describe how financing flows, fee arrangements, intellectual property allocation, procurement decisions, and profit retention operated within the joint venture structure before the dispute was filed.",
-      "Judicial_Reasoning_Log": "The court analysed whether the described conduct amounted to minority oppression under section 216 of the Companies Act, considering legitimate expectations arising from the shareholders' agreement and general company law, and evaluated if there was a visible departure from standards of fair dealing. It examined the structure of the convertible bond and its effect on control, the manner in which related party loans were initiated and approved, the absence or delay of board approval and information flows, and the interest rate differentials that favoured Longsheng-related entities. The judges considered the cash-pooling arrangement and the Longsheng Financing Concept as potential mechanisms to channel DyStar funds or financing benefits to Longsheng, and assessed whether these were commercially justifiable and in DyStar's interests. They scrutinised the Special Incentive Payment to Ruan, including the timing and self-referential nature of the Special Incentive Plan, and whether approval processes complied with governance norms. Regarding the patent assignment, the court focused on the temporary language of the Patent Assignment Agreement, the Patent Committee's understanding that the patent would be re-transferred, and Longsheng's subsequent exploitation of the patent without re-assignment or accounting, to determine if DyStar's opportunities were diverted. The court also evaluated the Longsheng Fees for 2015 and provisions for 2016, weighing Ernst & Young's transfer pricing reports against the timing of the fees, the initial higher fee proposal, and the absence of prior budgeting or clear board approval before accruals. It considered the decline in DyStar's purchases from Kiri despite a preferred supplier clause, including internal emails suggesting restrictions on placing orders with Kiri, and assessed whether procurement decisions were driven by quality and price or by shareholder alignment. The judges reviewed DyStar's sustained profitability, the absence of dividends, and Longsheng's explanations based on working capital and guarantees, in the context of Kiri's inability to realise value through a proposed sale to the State General Reserve Fund and Senda's lower counter-offer. Overall, the court applied the compendious unfairness test under section 216, determined the extent to which Senda's and Longsheng's conduct, through the DyStar board and corporate mechanisms, was commercially unfair to Kiri as a minority shareholder, and decided on appropriate relief, including a buy-out mechanism and valuation adjustments such as adding back certain fees or reversing the economic effect of specific transactions."
+      "Issue": "Whether the conduct of the majority shareholder and its board representatives regarding related party financing, intellectual property transfers, procurement practices, and non-distribution of profits constituted minority oppression within the corporate joint venture.",
+      "Rule": "In corporate joint ventures, board decisions and related-party transactions must be executed in good faith and in the interests of the company as a whole. Controlling shareholders are prohibited from using their influence to extract non-pro rata financial benefits, bypass independent board oversight, or unfairly prejudice a minority shareholder's economic participation and value realization.",
+      "Application": "Following the acquisition of DyStar's business, the corporate joint venture was capitalized and operated under a shareholders' agreement providing entrenched minority board representation. After converting debt to equity, a Longsheng-associated entity gained majority control. Subsequently, the company entered into massive related-party financing arrangements, cash-pooling agreements, and incurred excessive management and guarantee fees benefiting the majority shareholder's affiliates, often with delayed or inadequate disclosure to the minority directors. Additionally, a valuable company patent was temporarily assigned to a majority-related entity without being returned, and internal procurement instructions halted purchases from the minority shareholder despite a preferred supplier clause. Finally, despite generating approximately USD 380,530,000 in profits, the majority shareholder directed the retention of all earnings, withholding dividends while simultaneously resisting the minority shareholder's attempt to sell its stake to a third-party fund. These factual patterns frame the assessment of whether the majority effectively diverted corporate value and systematically marginalized the minority shareholder.",
+      "Judicial_Reasoning_Log": "The corporate joint venture's capital structure and governance were subverted when related party loans, cash-pooling agreements, and substantial management fees were executed without proper independent board oversight or transparent disclosure. The interest rate differentials favoring related entities, combined with the assignment of a key patent to the majority shareholder's parent company without re-assignment, effectively diverted corporate value. Retaining substantial profits without declaring dividends, while concurrently authorizing unilateral financial benefits for the majority, constituted a departure from standards of fair dealing. These actions collectively resulted in commercial unfairness and minority oppression. A mandatory buy-out of the minority stake by the majority shareholder was ordered, with specific valuation adjustments required to restore the value diverted by the oppressive transactions."
     },
-    "Label": "Claim Allowed",
-    "Leakage_Score": 7
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -507,13 +507,13 @@
           "Text": "On 26 January 2015, Luo, translating for Yao, declined Kiri's request for a dividend and said DyStar needed huge working capital and that Longsheng had provided guarantees for most DyStar loans without charging fees."
         }
       ],
-      "Issue": "Whether the pre-dispute conduct of Senda International Capital Limited, Well Prospering Limited, Zhejiang Longsheng Group Co., Ltd, and their nominated directors in relation to DyStar's financing, related party transactions, fee arrangements, patent ownership, procurement decisions, and profit retention affected Kiri Industries Limited's position and economic participation as a minority shareholder in DyStar.",
-      "Rule": "In joint venture companies, minority shareholders commonly rely on agreed governance structures and general company law principles that directors act in good faith in the interests of the company, that material related party transactions are transparent board processes and arm's length terms, that controlling shareholders do not use their influence to divert company value or opportunities to themselves, and that information flows enable board representatives to participate meaningfully in decisions affecting the company and the economic value of their shareholding.",
-      "Application": "The factual record shows that Kiri Industries Limited moved from being the majority funder of the DyStar acquisition to a minority shareholder after a convertible bond held by a Longsheng-associated entity was converted into equity. Kiri retained the right to appoint two directors to the DyStar board and participate in management through those representatives. After conversion, DyStar and its subsidiaries entered into several financing arrangements with Longsheng-related entities, including loans from DyStar to those entities, a cash-pooling agreement, and a large loan from Well Prospering Limited to DyStar Singapore Pte Ltd. Kiri's directors learned of some of these transactions from board materials shortly before meetings and requested information on cash margins, loan amounts, and interest rates to assess the impact on DyStar. The information was provided in stages, with some agreements and data only disclosed months after execution, while outstanding loan balances at certain dates exceeded the disclosed cash margins. DyStar also recorded and later paid significant management and guarantee fees to Zhejiang Longsheng Group Co., Ltd for 2015 and booked provisions for similar fees for 2016, based on transfer pricing reports commissioned after the period in question and proposals initiated by DyStar management and Longsheng representatives. Kiri objected to the timing and quantum of these fees and sought to delay payment pending resolution of its minority oppression suit. Separately, a key patent originally acquired by DyStar was assigned to Zhejiang Longsheng Group Co., Ltd under an agreement describing the transfer as temporary for invalidation proceedings, and DyStar's patent committee later noted that patents transferred to Longsheng still had to be re-transferred, while no re-assignment occurred before the dispute. Kiri's sales to DyStar declined sharply over several years despite a contractual preferred supplier clause, and internal DyStar emails referenced an understanding that purchase orders were not to be placed on Kiri, even as Kiri continued to offer products and participate in testing. During a period of strong profitability at DyStar, Kiri requested dividends and explored a sale of its DyStar stake to the State General Reserve Fund of Oman at a price of USD 165,000,000, which required amendments to the shareholders' agreement that Senda did not accept, and DyStar did not declare dividends. These events describe how control, financing flows, fee allocations, intellectual property location, procurement patterns, and profit retention operated in ways that influenced Kiri's ability to obtain information, participate in decisions, and realise value from its DyStar shareholding before the dispute was filed.",
-      "Judicial_Reasoning_Log": "The court treated Kiri Industries Limited as the oppressed minority claimant and examined whether Senda and Longsheng, acting through their shareholdings and nominated directors, conducted DyStar's affairs in a manner that was commercially unfair to Kiri. It identified Kiri's legitimate expectations from the shareholders' agreement, including a board-managed structure with entrenched Kiri representation, and from general company law, such as directors' duties to act in DyStar's interests and to manage conflicts in related party transactions. The judges rejected Kiri's argument that there was a separate quasi-partnership understanding beyond the written agreements, finding that the parties were sophisticated listed companies that had comprehensively documented their relationship. The court then assessed specific categories of conduct: related party loans from DyStar to Longsheng-related entities, the cash-pooling arrangement, and the Longsheng Financing Concept; remuneration decisions including the 2014 bonus matrix and the USD 2,000,000 special incentive to Ruan; the patent assignment to Longsheng and subsequent exploitation; the Longsheng management and guarantee fees for 2015 and provisions for 2016; DyStar's declining purchases from Kiri despite a preferred supplier clause; the absence of dividends despite substantial profits; and Senda's stance on Kiri's proposed sale of its DyStar stake to the State General Reserve Fund. For each category, the court considered whether Kiri's board representatives were informed in a timely and complete manner, whether board or committee approvals were obtained before implementation, whether pricing and terms were consistent with DyStar's commercial interests, and whether the economic effect was to transfer value or opportunities from DyStar to Longsheng or to constrain Kiri's ability to benefit from its investment. The court applied the compendious unfairness test under section 216, concluded that certain patterns of conduct cumulatively amounted to oppression of Kiri as a minority shareholder, and ordered a buy-out of Kiri's shares in DyStar by Senda, with directions on valuation including adjustments for specific transactions such as related party loans, Longsheng fees, and the patent assignment."
+      "Issue": "Whether a minority shareholder in a joint venture company was subject to commercial unfairness and oppression resulting from the majority shareholder's conduct regarding related-party financing, fee arrangements, patent transfers, and profit retention.",
+      "Rule": "In joint venture companies, majority shareholders and their nominated directors must act in good faith and avoid using their influence to divert company value or opportunities to themselves. Oppression occurs when the majority's actions depart visibly from standards of fair dealing and unfairly prejudice a minority shareholder's economic participation and legitimate expectations.",
+      "Application": "Kiri Industries Limited, initially a co-founder and funder of the acquisition, transitioned into a minority shareholder while retaining entrenched board representation rights. Subsequently, Kiri's board representatives were systematically sidelined as the majority shareholder caused the company to execute massive related-party loans, cash-pooling agreements, and excessive management fee arrangements without timely disclosure or proper independent approval. Furthermore, the company ceased procuring products from Kiri despite a preferred supplier clause, assigned valuable patents to the majority shareholder's parent company without recompense, and continually retained hundreds of millions in profits without declaring dividends, effectively locking Kiri out of any economic benefit from its investment.",
+      "Judicial_Reasoning_Log": "The minority shareholder possessed legitimate expectations derived from the shareholders' agreement and general company law regarding board-managed structures, entrenched representation, and transparent related-party transactions. The execution of related-party loans, cash-pooling arrangements, and special incentive payments without timely board approval or arm's length pricing breached these expectations. Furthermore, the transfer of intellectual property, the decline in procurement from the minority shareholder despite preferred supplier clauses, and the sustained non-distribution of profits demonstrated a concerted effort to constrain the minority shareholder's economic participation. This pattern of conduct satisfied the threshold for commercial unfairness and minority oppression. The appropriate remedy was a buy-out of the minority shares by the majority, incorporating valuation adjustments to neutralize the economic impact of the oppressive transactions."
     },
     "Label": "Claim Allowed",
-    "Leakage_Score": 3
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -635,12 +635,12 @@
           "Text": "In November 2013, Senda International Capital Limited did not agree to proposed amendments to the DyStar shareholders' agreement requested by the State General Reserve Fund of Oman as a condition for purchasing Kiri's DyStar shares, and instead indicated conditions including non-interference with operational management and evidence of value-add from the fund."
         }
       ],
-      "Issue": "Whether Senda International Capital Limited, as majority shareholder associated with Zhejiang Longsheng Group Co., Ltd, used its control and related party structures in a way that affected DyStar's financing, fee flows, and profit distribution, and thereby influenced the economic position of other shareholders.",
-      "Rule": "Majority shareholders in a joint venture company are generally exercise their control through the board and shareholder rights in a manner consistent with the company's interests, to ensure that related party transactions are on terms comparable to arm's length dealings, and to avoid extracting non-proportional financial benefits or constraining other shareholders' ability to realise value from their investment.",
-      "Application": "Senda International Capital Limited became DyStar's majority shareholder after converting a EUR 22,000,000 convertible bond into equity, while its affiliate Well Prospering Limited and other Longsheng-related entities engaged in multiple financing transactions with DyStar and its subsidiaries. These included loans from DyStar to Longsheng-related entities, a cash-pooling arrangement that channelled surplus funds to a Longsheng-related borrower, and a USD 150,000,000 loan from Well Prospering Limited to DyStar Singapore Pte Ltd. The interest rates and guarantee structures in these transactions affected DyStar's cost of funds and liquidity. Senda-associated directors on the DyStar board participated in approving or implementing these arrangements, and Kiri's representatives sought information and conditions regarding loan sizes and pricing. DyStar later recorded and paid substantial management and guarantee fees to Zhejiang Longsheng Group Co., Ltd for 2015 and booked provisions for similar fees for 2016, based on transfer pricing reports and proposals coordinated with Longsheng. During a period of strong profitability, DyStar did not declare dividends, and correspondence from Longsheng representatives linked this to DyStar's working capital needs and Longsheng's guarantee support. Senda did not agree to contractual changes requested by a potential third-party investor in connection with a proposed purchase of Kiri's DyStar stake, and DyStar remained privately held. These pre-dispute events describe how Senda, through its shareholding and associated entities, influenced DyStar's financial flows and capital structure in ways that shaped the distribution of economic benefits among shareholders.",
-      "Judicial_Reasoning_Log": "The court considered Senda International Capital Limited as the majority shareholder respondent in the minority oppression claim and examined whether Senda, acting together with Well Prospering Limited and Zhejiang Longsheng Group Co., Ltd, conducted DyStar's affairs in a manner that was commercially unfair to Kiri Industries Limited. It analysed the structure and timing of the convertible bond conversion that gave Senda majority control, the subsequent pattern of related party loans from DyStar to Longsheng-related entities, the cash-pooling arrangement, and the USD 150,000,000 loan from Well Prospering Limited to DyStar Singapore Pte Ltd. The judges evaluated whether these transactions were properly brought to the DyStar board for approval, whether Kiri's directors received adequate information, and whether the interest rates and guarantee arrangements were consistent with DyStar's interests or favoured Longsheng-related entities. The court scrutinised the management and guarantee fees paid and provisioned for Longsheng, including the reliance on Ernst & Young transfer pricing reports, the initial higher fee proposal, and the absence of prior budgeting or clear board approval before accruals. It also considered Senda's and Longsheng's stance on dividends and on Kiri's proposed sale of its DyStar stake to the State General Reserve Fund, assessing whether these positions effectively prevented Kiri from realising value from its investment while Senda retained control and access to DyStar's cash flows. Applying the compendious unfairness test under section 216, the court concluded that certain aspects of Senda's and Longsheng's conduct, through the DyStar board and related party structures, contributed to oppressive treatment of Kiri as a minority shareholder and ordered a buy-out of Kiri's shares by Senda with valuation adjustments to neutralise the economic impact of specific transactions."
+      "Issue": "Whether a majority shareholder misused its control and related-party structures to siphon corporate value through unbalanced financing and fee arrangements, thereby oppressing the minority shareholder.",
+      "Rule": "Majority shareholders must ensure that related-party transactions are conducted transparently, on arm's length terms, and with proper board oversight. Utilizing corporate control to extract non-proportional financial benefits or to trap a minority shareholder's investment constitutes minority oppression.",
+      "Application": "After acquiring majority control of DyStar, Senda International Capital Limited and its parent-affiliated entities engaged in extensive related-party transactions with the company. These included routing surplus corporate funds to related entities through a cash-pooling agreement and extracting substantial management and guarantee fees based on retroactive transfer pricing reports, often bypassing independent board approval. Despite DyStar generating immense profits, Senda directed the retention of all earnings, refusing to declare dividends while simultaneously obstructing the minority shareholder's attempt to sell its stake to a third-party investor.",
+      "Judicial_Reasoning_Log": "The majority shareholder utilized its control over the board and corporate mechanisms to extract non-proportional financial benefits through related-party loans, cash-pooling agreements, and unjustified management and guarantee fees. Implementing these transactions without proper prior budgeting, clear board approval, or arm's length pricing unfairly prejudiced the minority shareholder. Additionally, withholding dividends during periods of high profitability while blocking the minority shareholder's attempt to sell its stake to a third party effectively locked the minority into an oppressive structure. This conduct constituted minority oppression under company law, rendering the majority shareholder liable to purchase the minority's shares at a valuation adjusted to reverse the economic detriment caused by the self-interested transactions."
     },
     "Label": "Liable",
-    "Leakage_Score": 2
+    "Leakage_Score": 0
   }
 ]

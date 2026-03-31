@@ -21,116 +21,81 @@
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2010-01-01",
-          "Text": "Jason Aleksander Kardachi is a restructuring and insolvency professional based in Singapore."
+          "Text": "Jason Aleksander Kardachi is a restructuring and insolvency professional based in Singapore who is frequently appointed as a director of distressed or insolvent companies."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2010-09-06",
-          "Text": "On 6 September 2010, Jason Aleksander Kardachi was appointed as the Managing Director of Borrelli Walsh Pte Ltd, an international consulting company specialising in restructuring, insolvency and forensic accounting, based in Singapore."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-01-01",
-          "Text": "In the course of his work as a restructuring and insolvency professional, Jason Aleksander Kardachi would be appointed as a director of distressed or insolvent companies."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-01-01",
-          "Text": "In 2010, Jason Aleksander Kardachi undertook the task of restructuring an international group of companies known as the Global Brands Group."
+          "Text": "On 6 September 2010, Jason Aleksander Kardachi was appointed as the Managing Director of Borrelli Walsh Pte Ltd."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2010-11-08",
-          "Text": "On 8 November 2010, Jason Aleksander Kardachi was appointed as a director of Global Brands F&B Pte Ltd."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2010-11-08",
-          "Text": "On 8 November 2010, Jason Aleksander Kardachi was appointed as a director of Consolidated Brands (Asia) Pte Ltd."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2010-11-08",
-          "Text": "On 8 November 2010, Jason Aleksander Kardachi was appointed as a director of Global Brands Retail Pte Ltd."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2010-11-08",
-          "Text": "On 8 November 2010, Jason Aleksander Kardachi was appointed as a director of Global Brands Holdings Pte Ltd."
+          "Text": "On 8 November 2010, Jason Aleksander Kardachi was appointed as a director of four companies in the Global Brands Group: Global Brands F&B Pte Ltd, Consolidated Brands (Asia) Pte Ltd, Global Brands Retail Pte Ltd, and Global Brands Holdings Pte Ltd."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2010-11-08",
-          "Text": "On 8 November 2010, Jason Aleksander Kardachi was appointed as a director of various companies in the Global Brands Group."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-01-01",
-          "Text": "The four Global Brands companies were insolvent and had ceased business prior to the appellant’s appointment as a director."
+          "Text": "The four Global Brands companies were insolvent and had ceased business operations prior to the appointment of Jason Aleksander Kardachi as a director."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2016-01-03",
-          "Text": "On 3 January 2016, section 155A of the Companies Act (Cap 50, 2006 Rev Ed), concerning disqualification of directors in relation to struck-off companies, came into force."
+          "Text": "Section 155A of the Companies Act, concerning the disqualification of directors in relation to multiple struck-off companies, came into effect."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-04-18",
+          "Text": "On 18 April 2016, Jason Aleksander Kardachi initiated internal instructions to strike off Consolidated Brands (Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-06-27",
+          "Text": "On 27 June 2016, Jason Aleksander Kardachi requested a third-party creditor to release securities over the assets of Global Brands Retail Pte Ltd and Global Brands Holdings Pte Ltd to facilitate their strike-off applications."
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2016-07-29",
-          "Text": "On 29 July 2016, the Accounting and Corporate Regulatory Authority sent a letter to Jason Aleksander Kardachi giving notice of the Registrar’s intention to strike Global Brands F&B Pte Ltd off the register under section 344(1) of the Companies Act and stating that if he did not wish to carry on business and had no objection to the striking off, no action was needed."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-06-27",
-          "Text": "On 27 June 2016, Jason Aleksander Kardachi sent an email to a third-party creditor requesting authorisation to release securities over the assets of Global Brands Retail Pte Ltd and Global Brands Holdings Pte Ltd so that he could apply to strike off those companies within about one month, and he stated that as director he was obligated to hold annual general meetings and submit annual returns to the Accounting and Corporate Regulatory Authority."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2016-06-27",
-          "Text": "On 18 April 2016, Jason Aleksander Kardachi instructed his team at Borrelli Walsh to strike off Consolidated Brands (Asia) Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-04-18",
-          "Text": "On 7 November 2016, the Registrar of Companies struck Global Brands F&B Pte Ltd off the register under section 344 of the Companies Act."
+          "Text": "On 29 July 2016, the regulatory authority issued a notice regarding the intention to strike off Global Brands F&B Pte Ltd, stating no action was needed if there was no objection."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2016-11-07",
-          "Text": "On 27 September 2017, the Accounting and Corporate Regulatory Authority sent a section 344(1) letter regarding Consolidated Brands (Asia) Pte Ltd to Jason Aleksander Kardachi."
+          "Text": "On 7 November 2016, Global Brands F&B Pte Ltd was struck off the register."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2017-09-27",
-          "Text": "On 1 November 2017, the Accounting and Corporate Regulatory Authority sent a notice under section 344(2) of the Companies Act to Jason Aleksander Kardachi regarding Consolidated Brands (Asia) Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017-11-01",
-          "Text": "On 8 January 2018, the Registrar of Companies struck Consolidated Brands (Asia) Pte Ltd off the register under section 344 of the Companies Act."
+          "Text": "On 27 September 2017, the regulatory authority issued a statutory notice regarding the impending strike-off of Consolidated Brands (Asia) Pte Ltd."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2018-01-08",
-          "Text": "On 8 January 2018, the Registrar of Companies struck Global Brands Retail Pte Ltd off the register under section 344 of the Companies Act."
+          "Text": "On 8 January 2018, both Consolidated Brands (Asia) Pte Ltd and Global Brands Retail Pte Ltd were struck off the register."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2018-01-08",
-          "Text": "On 6 August 2018, the Registrar of Companies struck Global Brands Holdings Pte Ltd off the register under section 344 of the Companies Act."
+          "Fact_Date": "2018-08-06",
+          "Text": "On 6 August 2018, Global Brands Holdings Pte Ltd was struck off the register."
         },
         {
-          "Fact_Type": "CONDUCT",
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2018-08-31",
+          "Text": "On 31 August 2018, the regulatory authority issued a letter stating that Jason Aleksander Kardachi was disqualified from acting as a director for five years, effective from 8 January 2018."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2018-10-18",
-          "Text": "By 18 October 2018, Jason Aleksander Kardachi had been appointed as a director of at least 123 Singapore-incorporated companies, as listed in Annex A to Originating Summons No 1282 of 2018."
+          "Text": "By October 2018, Jason Aleksander Kardachi held directorships in at least 123 Singapore-incorporated companies."
         }
       ],
-      "Issue": "Whether Jason Aleksander Kardachi’s status as a director of multiple companies that were struck off the register under section 344 of the Companies Act within specified time periods resulted in a statutory disqualification period under section 155A(1), and whether he should obtain leave under section 155A(3) to act as a director or participate in management during that period.",
-      "Rule": "Section 155A(1) of the Companies Act (Cap 50, 2006 Rev Ed) provides that, subsection (5), a person who was a director of a company at the time its name was struck off the register under section 344, and who within a period of five years immediately before that striking-off date had been a director of not less than two other companies whose names were struck off the register under section 344 while he was a director of those companies, must not act as a director of, or in any way take part in or be concerned in the management of, any company or relevant foreign company for a period of five years commencing after the date on which the last company’s name was struck off. Section 155A(3) allows a person such a disqualification to apply to the Court, after giving the Minister at least 14 days’ notice, for leave to act as a director of, or to take part in or be concerned in the management of, a company or relevant foreign company during the disqualification period.",
-      "Application": "Global Brands F&B Pte Ltd was struck off on 2016-11-07 while Jason Aleksander Kardachi was a director. Consolidated Brands (Asia) Pte Ltd and Global Brands Retail Pte Ltd were struck off on 2018-01-08 while he was a director. Global Brands Holdings Pte Ltd was struck off on 2018-08-06 while he was a director. These four striking-off events occurred within a span of less than five years. The statutory language of section 155A(1) requires assessing, for each striking-off date, whether within the preceding five-year period there were at least two other companies struck off while the same person was a director. The timing of the four striking-off dates and his continuous directorships across those companies form the basis for determining whether the statutory disqualification period was triggered and, if so, from which date it commenced. Under section 155A(3), any leave to act as a director or to participate in management during the disqualification period would require a court order following notice to the Minister, and the scope of any leave would depend on the specific companies and circumstances presented.",
-      "Judicial_Reasoning_Log": "The Court of Appeal analysed section 155A(1) of the Companies Act and held that its ordinary meaning was clear and not manifestly absurd or unreasonable. The court rejected the High Court’s rectifying construction that would have replaced the words “immediately before the date” with “ending on the date”. It found no drafting error when comparing section 155A(1) with section 155(3), and held that the heading of section 155A and Annex C of the consultation paper did not justify reading in different words. Applying the ordinary meaning, the court concluded that section 155A(1) was not triggered on 2018-01-08 because, immediately before that date, Jason Aleksander Kardachi had been a director of only one other company that had been struck off by the Registrar (Global Brands F&B Pte Ltd). The court then considered the striking off of Global Brands Holdings Pte Ltd on 2018-08-06 and held that, on that date, the statutory conditions in section 155A(1) were satisfied, so the disqualification period commenced on 2018-08-07.\n\nOn the doctrine of substantive legitimate expectations, the court noted that its status in Singapore law remains unresolved but held that, even if it were applicable, it would not assist the appellant. The 31 August 2018 letter from ACRA, which referred only to three companies and a disqualification from 8 January 2018, could not alter the legal effect of section 155A(1). The court emphasised that the question whether section 155A(1) was triggered is a matter of statutory interpretation for the court, not a matter of administrative discretion for ACRA. The court also found that the appellant could not show detrimental reliance on the 31 August 2018 letter because he disputed its legal basis and continued to act as a director after the date he claimed to have ceased.\n\nIn setting out the framework for section 155A(3) leave applications, the court endorsed a holistic approach, considering: (a) the applicant’s capacity for future compliance with filing and winding-up or striking-off obligations; (b) whether there were exculpatory reasons for the failures that led to the Registrar’s striking off of the companies; and (c) the need, in general, for applicants to identify specific companies for which leave is sought and to explain why directorship is necessary in each case. The court expressed a provisional view that blanket leave applications, seeking leave to act as a director of any company, should generally not be granted because section 155A(3) contemplates leave in respect of “a company or a foreign company” and does not authorise a reduction of the statutory five-year disqualification period.\n\nApplying this framework, the court examined the four Global Brands companies. For Global Brands F&B Pte Ltd, the court accepted that ACRA’s 29 July 2016 letter stating that “no action is needed” if there was no objection to striking off could be misleading, but held that directors, particularly professional directors like the appellant, are responsible for keeping abreast of legislative changes such as the introduction of section 155A. The court found no prejudice because the later section 344(1) letters for the other three companies expressly referred to section 155A. For Consolidated Brands (Asia) Pte Ltd, the court found that, even if ACRA did not notify the appellant of the rejection of his strike-off application, the subsequent section 344(1) and section 344(2) notices in 2017 should have alerted him that the company had not been struck off and that further steps were required. For Global Brands Retail Pte Ltd and Global Brands Holdings Pte Ltd, the court accepted that the existence of securities and guarantees delayed strike-off applications but held that the appellant remained responsible for ensuring that these companies complied with filing requirements and for informing the Registrar of ongoing efforts to strike them off. The court concluded that there were no exculpatory circumstances justifying his failure to prevent the Registrar’s striking off of the four companies.\n\nOn the appellant’s capacity for compliance, the court acknowledged that he had regularised filings for most of the 26 companies that had outstanding annual returns by the time of the hearings, but characterised this as a basic expectation rather than a positive factor warranting leave. Regarding his status as a restructuring and insolvency professional, the court declined to treat him more leniently than other directors. It held that such professionals remain fully responsible for compliance and cannot rely on their role to justify a blanket leave application. The court also noted that the appellant did not identify specific companies for which leave was necessary or explain why his directorship was required to protect the interests of creditors, employees or shareholders.\n\nThe court rejected the appellant’s argument that he had effectively served a substantial portion of the disqualification period by ceasing to act as a director from January 2018. After admitting further evidence, the court found that he had continued to file or verify annual returns for multiple companies between August 2018 and February 2019, undermining his claim that he had stopped acting as a director upon purported disqualification. Consequently, the court gave no weight to this contention.\n\nAt the hearing, counsel invited the court, if it declined the blanket leave application, to grant leave limited to Borrelli Walsh Pte Ltd. The court declined to entertain this new, narrower request on appeal because the statutory requirement in section 155A(3) to give the Minister at least 14 days’ notice of the specific leave sought had not been satisfied, and because the necessary factual basis for such a targeted application had not been laid in affidavits. The court indicated that any such application should be brought separately in compliance with the statutory procedure.\n\nThe Court of Appeal therefore dismissed the appeal, affirming the refusal of leave under section 155A(3) but differing from the High Court on the date on which section 155A(1) was triggered. It held that the disqualification period commenced on 7 August 2018, following the striking off of Global Brands Holdings Pte Ltd on 6 August 2018, and ordered the appellant to pay the respondent costs fixed at $20,000 inclusive of disbursements."
+      "Issue": "Whether a director’s disqualification is triggered immediately upon the striking off of a third company under the five-year statutory period, and whether a professional director can obtain a blanket exemption to continue managing other corporate entities despite the disqualification.",
+      "Rule": "Under Section 155A(1) of the Companies Act, a person who was a director of a company at the time it was struck off, and who was also a director of at least two other companies struck off within the preceding five years, is disqualified for five years from the date the last company was struck off. Section 155A(3) allows the court to grant leave for a person to act as a director during this period if there are sufficient exculpatory reasons or circumstances justifying the exception.",
+      "Application":  "Jason Aleksander Kardachi served as a director for four interrelated companies that were all struck off within a two-year period. He asserted that the statutory disqualification was either not triggered or should be mitigated because he was a professional insolvency practitioner tasked with winding down these specific entities. He argued that the delays in striking off were due to complex security releases and misleading regulatory correspondence. He sought a blanket order allowing him to maintain his 120+ other directorships to prevent professional hardship.",
+      "Judicial_Reasoning_Log": "The court determined that the ordinary meaning of the statute requires three companies to be struck off within a five-year period *before* the date of the final striking-off event. Consequently, the disqualification was not triggered by the second and third events in January 2018, but rather by the fourth event in August 2018. However, on the merits of the leave application, the court found no exculpatory reasons for the repeated failure to comply with statutory filing obligations. The director's professional status as an insolvency practitioner did not entitle him to more lenient treatment; rather, such professionals are expected to maintain strict compliance with corporate regulations. The request for a blanket exemption was denied because the statute requires leave to be sought for specific companies, and allowing a professional director to ignore a disqualification order would undermine the protective purpose of the legislation."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 2
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -154,20 +119,25 @@
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2018-01-01",
-          "Text": "The Attorney-General, through the Attorney-General’s Chambers, represented the Minister for Finance in the proceedings."
+          "Text": "The Attorney-General represents the Minister for Finance and the regulatory interests of the Accounting and Corporate Regulatory Authority."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-01-01",
-          "Text": "The Attorney-General, acting for the Minister for Finance, opposed OS 1282."
+          "Fact_Date": "2018-08-31",
+          "Text": "The regulatory authority issued a formal notification of disqualification to a director who had been associated with four companies struck off the register within a five-year span."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-10-01",
+          "Text": "The Attorney-General opposed the application for a blanket exemption from the disqualification order, asserting that the director failed to provide exculpatory evidence for the persistent filing defaults."
         }
       ],
-      "Issue": "Whether the statutory conditions in section 155A(1) of the Companies Act were met on the relevant striking-off dates for companies where Jason Aleksander Kardachi was a director, and whether any leave should be granted under section 155A(3) for him to act as a director or participate in management during the disqualification period.",
-      "Rule": "Under section 155A(1) of the Companies Act (Cap 50, 2006 Rev Ed), a person who was a director of a company at the time its name was struck off the register under section 344, and who within the five years immediately before that date had been a director of at least two other companies that were also struck off under section 344 while he was a director, is prohibited for five years from acting as a director of, or taking part in or being concerned in the management of, any company or relevant foreign company. Section 155A(3) permits such a person to apply to the Court, after giving the Minister at least 14 days’ notice, for leave to act as a director of, or to take part in or be concerned in the management of, a specified company or relevant foreign company during the disqualification period.",
-      "Application": "The Attorney-General, on behalf of the Minister for Finance, relied on the sequence of striking-off events for Global Brands F&B Pte Ltd, Consolidated Brands (Asia) Pte Ltd, Global Brands Retail Pte Ltd and Global Brands Holdings Pte Ltd, all of which occurred while Jason Aleksander Kardachi was a director, to support the position that section 155A(1) applied. The Attorney-General advanced the view that the five-year period in section 155A(1) should be read as ending on the date of the third striking off, and that the heading of section 155A and the consultation materials supported this construction. In relation to section 155A(3), the Attorney-General opposed the grant of leave on the basis that the application sought a blanket authorisation to act as a director of any company, which would effectively negate the statutory five-year disqualification, and that the circumstances leading to the Registrar’s striking off of the four companies did not show exculpatory reasons or a basis to narrow the statutory consequences.",
-      "Judicial_Reasoning_Log": "The Court of Appeal considered and ultimately rejected the Attorney-General’s argument for a rectifying construction of section 155A(1) that would replace the phrase “within a period of 5 years immediately before the date” with “within a period of 5 years ending on the date”. The court held that the statutory text was clear, that the differences between section 155A(1) and section 155(3) were deliberate, and that the heading of section 155A and the consultation paper summary did not justify altering the operative wording. The court concluded that the Attorney-General’s proposed construction was not necessary to avoid absurdity and that the ordinary meaning of section 155A(1) should be applied.\n\nOn the timing of the disqualification, the Attorney-General’s position that section 155A(1) was triggered on 2018-01-08 was not accepted. Instead, the court held that the statutory conditions were only satisfied on 2018-08-06, when Global Brands Holdings Pte Ltd was struck off, and that the disqualification period therefore commenced on 2018-08-07. However, the court agreed with the Attorney-General that the doctrine of substantive legitimate expectations did not prevent reliance on the striking off of Global Brands Holdings Pte Ltd, and that ACRA’s 31 August 2018 letter could not alter the legal effect of section 155A(1).\n\nRegarding the leave application under section 155A(3), the court accepted the Attorney-General’s submissions that the circumstances leading to the Registrar’s striking off of the four companies did not demonstrate exculpatory reasons and that the appellant’s subsequent efforts to regularise filings were a basic expectation rather than a positive factor. The court also agreed that a blanket leave application, seeking authorisation to act as a director of any company, would effectively undermine the statutory five-year disqualification and was not supported by the wording of section 155A(3). The court therefore upheld the Attorney-General’s opposition to the grant of leave, while adjusting the start date of the disqualification period based on its own interpretation of section 155A(1)."
+      "Issue": "Whether the state's interest in maintaining corporate regulatory standards precludes granting a broad exemption from director disqualification to a professional insolvency practitioner.",
+      "Rule": "The statutory disqualification regime is intended to protect the public and the corporate environment from directors who demonstrate a consistent failure to manage companies according to the law. Leave to bypass a disqualification must be narrow in scope and supported by evidence that the underlying defaults were unavoidable or that the director's continued service is essential for specific entities.",
+      "Application": "The Attorney-General maintained that the director’s history of directorships in multiple companies that were struck off due to filing defaults triggered a mandatory five-year disqualification. The state argued that allowing a professional director to obtain a general waiver would negate the deterrent effect of the statute and that the director’s excuse—that he was busy restructuring the entities—did not relieve him of the obligation to ensure basic statutory compliance.",
+      "Judicial_Reasoning_Log": "The state's position regarding the necessity of the disqualification was largely upheld. The court agreed that a professional director remains fully responsible for compliance and that the administrative burden of restructuring does not excuse a total failure to file annual returns. While the court adjusted the commencement date of the disqualification based on a technical reading of the timeline, it affirmed that a blanket leave application seeking to act for any company is legally unsupported. The opposition to the leave application was successful because the director failed to demonstrate any exceptional circumstances or exculpatory reasons for the repeated striking-off events."
     },
-    "Label": "Unknown",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   }
 ]

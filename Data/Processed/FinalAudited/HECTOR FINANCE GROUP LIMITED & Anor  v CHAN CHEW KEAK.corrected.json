@@ -10,8 +10,14 @@
     "Party_Details": {
       "Role": "Plaintiff",
       "Name": "Hector Finance Group Limited",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Cavinder Bull SC",
+        "Daniel Cai",
+        "Lea Woon Yee",
+        "Chua Xyn Yee",
+        "Nicholas Chng"
+      ],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
@@ -94,154 +100,14 @@
           "Text": "From 2005 until 2019, Hector Finance Group Limited’s board-level decisions on group expansion and plant investments were typically implemented through its wholly owned Hong Kong subsidiary AMB Interpac Containers Guangdong Ltd and its downstream subsidiaries."
         },
         {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-07-01",
-          "Text": "From 2005 until 2019, Hector Finance Group Limited’s directors and senior managers, including Siong Beng Seng and Edward Ching Hui Huat, reported operationally to Chan Chew Keak on strategic matters."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-07-01",
-          "Text": "From 2005 until 2019, Hector Finance Group Limited’s internal management communications reflected that Chan Chew Keak issued instructions and directions on group strategy to senior managers including Siong Beng Seng and Edward Ching Hui Huat."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-07-01",
-          "Text": "From 2005 until 2019, Hector Finance Group Limited’s internal practice was that directors and senior managers, including Siong Beng Seng and Edward Ching Hui Huat, generally followed strategic directions given by Chan Chew Keak on group investments."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-07-01",
-          "Text": "From 2005 until 2019, Hector Finance Group Limited’s major shareholders, including Chan Chew Keak and Keith Tay Ah Kee, participated in high-level discussions on group growth and potential public listing."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-07-01",
-          "Text": "From 2005 until 2019, Hector Finance Group Limited’s internal decision-making on new plant investments involved meetings among key individuals including Chan Chew Keak, Siong Beng Seng, and Edward Ching Hui Huat."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-07-01",
-          "Text": "From 2005 until 2019, Hector Finance Group Limited’s internal communications Chan Chew Keak sometimes warned that he could seek changes to board composition if his strategic directions were not followed."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-07-01",
-          "Text": "From 2005 until 2019, Hector Finance Group Limited’s internal practice was that directors including Siong Beng Seng and Edward Ching Hui Huat did not typically record formal objections to strategic steps initiated by Chan Chew Keak."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-07-01",
-          "Text": "From 2005 until 2019, Hector Finance Group Limited’s internal management structure placed operational responsibility on Siong Beng Seng and Edward Ching Hui Huat, with strategic oversight by the main shareholders including Chan Chew Keak and Keith Tay Ah Kee."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-07-01",
-          "Text": "From 2005 until 2019, Hector Finance Group Limited’s internal communications strategic proposals by Chan Chew Keak, such as new plant investments, were circulated to and acknowledged by other key individuals including Keith Tay Ah Kee."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-07-01",
-          "Text": "From 2005 until 2019, Hector Finance Group Limited’s internal practice was that major investment proposals were discussed in meetings and followed by email circulation of minutes or summaries."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-07-01",
-          "Text": "From 2005 until 2019, Hector Finance Group Limited’s internal practice was that directors and senior managers, including Siong Beng Seng and Edward Ching Hui Huat, generally did not send written objections to circulated minutes of strategic meetings."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-07-01",
-          "Text": "From 2005 until 2019, Hector Finance Group Limited’s internal practice was that strategic initiatives, once discussed and not objected to, proceeded through implementation steps at subsidiary level."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-07-01",
-          "Text": "From 2005 until 2019, Hector Finance Group Limited’s internal practice was that capital expenditure for new plants was implemented through its subsidiaries, including AMB Interpac Containers (Guangdong) Ltd and its downstream entities."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-07-01",
-          "Text": "From 2005 until 2019, Hector Finance Group Limited’s internal practice was that group-level strategic decisions could be implemented before a final formal board resolution on specific capital amounts, with later formalisation."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-07-01",
-          "Text": "In 2018, Hector Finance Group Limited appointed additional directors including Chan Chew Keak and Keith Tay Ah Kee to its board."
-        },
-        {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2018-02-01",
-          "Text": "The defendant was a director of the first plaintiff from 2018 until he was removed from that position in 2020, and Mr Tay has been a director since 2018."
+          "Text": "The defendant was a director of the first plaintiff from 2018 until he was removed from that position in 2020."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2018-02-01",
-          "Text": "In February 2018, the defendant, Mr Siong and Mr Ching met in Dongguan and the defendant proposed setting up a sheet board plant."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-02-01",
-          "Text": "Following the February 2018 meeting, minutes were circulated recording the defendant's proposal for a sheet board plant, including an estimated funding requirement of around RMB 200m including working capital and that capital expenditure and disposal of monies must be approved by the first plaintiff's directors."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2018-04-01",
-          "Text": "After the February 2018 minutes were circulated, recipients including Mr Tay acknowledged receipt, and Mr Tay commented that the plan was well written and clear enough for execution."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2017-12-05",
-          "Text": "In April 2018, a meeting in Singapore was held among the defendant, Mr Siong, Mr Ching, Mr Tay and Mr Kenneth Chan, where the defendant presented a strategic plan and the first plaintiff's directors approved a sheet board plant."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2017-12-27",
-          "Text": "On 2017-12-05, the defendant told Mr Siong, Mr Ching and Mr Tay that the Group should invest in a new sheet board plant in the PRC."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2017-12-01",
-          "Text": "On 2017-12-27, the defendant emailed Mr Siong saying that he honestly felt the Group should start a sheet plant to improve corrugator efficiency and that running a sheet plant was the most efficient way of producing sheet board."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-02-01",
-          "Text": "Between December 2017 and May 2018, Mr Siong sought quotations for a new corrugator from BHS, a Japanese vendor and a US vendor."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-02-01",
-          "Text": "In February 2018, Mr Siong emailed the Group's finance executives stating that the Group was going to make big investments in China on new plants to position the Group for an initial public offering and instructed them to explore bank financing with four or five banks."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2018-09-01",
-          "Text": "In the first half of 2018, Mr Siong explored bank financing for a new sheet board plant in the PRC."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2018-09-18",
-          "Text": "In September 2018, AMBDG entered into a contract with BHS Corrugated Machinery (Shanghai) Co. Ltd to purchase a corrugator for RMB 31m."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-09-18",
-          "Text": "On 2019-01-10, Chan Chew Keak emailed Siong Beng Seng and Edward Ching Hui Huat stating that he had more or less identified land in Huizhou for a sheet board plant and requested that AMB Interpac Containers (Guangdong) Ltd transfer RMB 30 million to Huizhou Xinsheng Paper Industry Co. Limited for specified purposes related to the proposed plant."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2019-01-01",
-          "Text": "On 2019-01-10, the defendant emailed Mr Siong and Mr Ching stating that he had more or less identified land in Huizhou for a sheet board plant and asked that AMBDG transfer RMB 30m to the second plaintiff for four specified purposes."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-01-01",
-          "Text": "In January 2019, AMBDG transferred RMB 30m to the second plaintiff following the defendant's email request."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2019-07-01",
-          "Text": "In January 2019, AMBDG transferred RMB 30m to the second plaintiff for purposes connected with a proposed sheet board plant in Huizhou."
+          "Text": "Following a February 2018 meeting, minutes were circulated recording a proposal for a sheet board plant, including an estimated funding requirement of around RMB 200m."
         },
         {
           "Fact_Type": "CONDUCT",
@@ -249,13 +115,13 @@
           "Text": "In July 2019, the first plaintiff's directors resolved that the Group should not proceed with any investment in a sheet board plant."
         }
       ],
-      "Issue": "Whether, before the dispute, the management decisions and internal approvals within Hector Finance Group Limited regarding the proposed sheet board plant and related funding created a situation where group funds were deployed through subsidiaries into loans to a third party, and whether those pre-dispute deployment patterns are associated with the eventual non-recovery of the RMB 14 million advanced by Huizhou Xinsheng Paper Industry Co. Limited.",
-      "Rule": "Under company law principles applicable to holding companies and their directors, directors and controlling shareholders are generally ensure that significant capital expenditures and fund transfers by group entities follow established internal approval processes, are properly documented, and are aligned with the company’s stated business purposes and group investment strategy.",
-      "Application": "Hector Finance Group Limited functioned as the ultimate holding company of a packaging group, with over 70% of its shares concentrated in four individuals who were also involved in management and strategic decisions. From 2005 to 2019, internal practice required that significant capital expenditure and major disposals of funds by group companies be approved at the holding company level, and strategic initiatives were discussed in meetings and followed by circulated minutes. In late 2017 and early 2018, a new sheet board plant in the People’s Republic of China was proposed and discussed at meetings in December 2017, February 2018, and April 2018, with minutes and emails indicating that the proposal was acknowledged and that financing for new plants in China was being explored. In September 2018, a subsidiary entered into a RMB 31 million corrugator purchase contract and paid a RMB 9.3 million deposit, and in January 2019, RMB 30 million was transferred from AMB Interpac Containers (Guangdong) Ltd to Huizhou Xinsheng Paper Industry Co. Limited following an email from Chan Chew Keak describing intended uses related to the proposed sheet board plant. These steps , before the dispute, Hector Finance Group Limited’s internal approval practices and concentrated control allowed substantial funds to be committed and transferred through subsidiaries in connection with the sheet board plant proposal, which later formed the funding base from which RMB 14 million was advanced by Huizhou Xinsheng Paper Industry Co. Limited to a third party.",
-      "Judicial_Reasoning_Log": "The court analysed Hector Finance Group Limited’s claim for breach of duty and held that loss is an essential element of a non-custodial breach of fiduciary duty and of a duty of diligence. The court found that the first plaintiff did not plead or prove any loss it suffered as a result of the defendant’s conduct, noting that the RMB 14 million was advanced by the second plaintiff, not the first plaintiff, and that any diminution in share value would be reflective loss. The court therefore dismissed the first plaintiff’s claims for breach of fiduciary duty and duty of diligence. The court also considered the reflective loss principle and held that losses at subsidiary level could not be transformed into losses of the holding company merely because of group structure or consolidated accounts."
+      "Issue": "Whether a holding company can establish a claim for breach of fiduciary duty or duty of diligence regarding funds advanced by a subsidiary to a third party when the holding company itself has not suffered a distinct financial loss.",
+      "Rule": "A claim for breach of fiduciary duty or diligence requires establishing a specific loss suffered by the claimant. Under the reflective loss principle, a shareholder or holding company generally cannot recover for a loss that is merely a reflection of a loss suffered by its subsidiary, particularly where the funds in question were advanced by the subsidiary rather than the holding company.",
+      "Application": "Hector Finance Group Limited, as the ultimate holding company, maintained that its director breached duties regarding the deployment of RMB 14 million. However, the funds were advanced to the third party by its subsidiary, Huizhou Xinsheng Paper Industry Co. Limited, not by the holding company itself. While the holding company oversaw strategic group investments and internal approval processes, it did not demonstrate any loss to its own assets separate from the potential diminution in value of its shareholding in the subsidiary structure.",
+      "Judicial_Reasoning_Log": "A non-custodial breach of fiduciary duty and the duty of diligence are only actionable upon proof of loss to the specific claimant. Losses incurred at the subsidiary level cannot be transformed into losses of the holding company merely because of the group structure or the use of consolidated accounts. Because the intra-group transfers and the subsequent third-party loans involved the subsidiary's resources, any potential damage to the holding company is entirely reflective. In the absence of a distinct and pleaded loss to the holding company's own assets, the claims for breach of duty must be dismissed."
     },
     "Label": "Claim Dismissed",
-    "Leakage_Score": 4
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -268,18 +134,19 @@
     "Party_Details": {
       "Role": "Plaintiff",
       "Name": "Huizhou Xinsheng Paper Industry Co. Limited",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Cavinder Bull SC",
+        "Daniel Cai",
+        "Lea Woon Yee",
+        "Chua Xyn Yee",
+        "Nicholas Chng"
+      ],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2018-08-01",
           "Text": "Huizhou Xinsheng Paper Industry Co. Limited was incorporated in the People’s Republic of China in August 2018 as a wholly owned subsidiary of AMB Interpac Containers (Guangdong) Ltd."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2018-08-01",
-          "Text": "Huizhou Xinsheng Paper Industry Co. Limited was part of the Hector Finance Group Limited group structure, being wholly owned by AMB Interpac Containers (Guangdong) Ltd, which in turn was wholly owned by AMB Interpac Containers Guangdong Ltd in Hong Kong, a wholly owned subsidiary of Hector Finance Group Limited."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
@@ -294,106 +161,41 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2019-01-01",
-          "Text": "In January 2019, Huizhou Xinsheng Paper Industry Co. Limited received RMB 30 million from AMB Interpac Containers (Guangdong) Ltd following an internal email from Chan Chew Keak describing intended uses related to a proposed sheet board plant in Huizhou."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-01-10",
-          "Text": "On 2019-01-10, Chan Chew Keak emailed senior managers stating that he had more or less identified land in Huizhou for a sheet board plant and requested that AMB Interpac Containers (Guangdong) Ltd transfer RMB 30 million to Huizhou Xinsheng Paper Industry Co. Limited for specified purposes including repayment of a corrugator deposit, a deposit for automation equipment, a land deposit, and minor expenses."
+          "Text": "In January 2019, Huizhou Xinsheng Paper Industry Co. Limited received RMB 30 million from AMB Interpac Containers (Guangdong) Ltd."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2019-01-01",
-          "Text": "In January 2019, Huizhou Xinsheng Paper Industry Co. Limited entered into a written loan agreement with a third party, Li Yuanchang, under which it agreed to lend RMB 10 million for a stated purpose of land purchase at an industrial park, with a two-year term from January 2019 to January 2021 and interest at 3% per annum."
+          "Text": "In January 2019, the company entered into a written loan agreement with a third party, Li Yuanchang, for RMB 10 million with a two-year term and 3% interest."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2019-01-01",
-          "Text": "On the same day as the first loan agreement in January 2019, Huizhou Xinsheng Paper Industry Co. Limited transferred RMB 10 million to Li Yuanchang."
+          "Text": "Huizhou Xinsheng Paper Industry Co. Limited transferred RMB 10 million to Li Yuanchang in January 2019."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2019-03-01",
-          "Text": "In March 2019, Huizhou Xinsheng Paper Industry Co. Limited entered into a second written loan agreement with Li Yuanchang under which it agreed to lend RMB 4 million for a stated purpose of land purchase at an industrial park, with a two-year term from March 2019 to March 2021 and interest at 3% per annum."
+          "Text": "In March 2019, the company entered into a second written loan agreement with Li Yuanchang for RMB 4 million."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2019-03-01",
-          "Text": "On the same day as the second loan agreement in March 2019, Huizhou Xinsheng Paper Industry Co. Limited transferred RMB 4 million to Li Yuanchang."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-06-01",
-          "Text": "In June 2018, a legal opinion on land acquisition in the People’s Republic of China issued to AMB Interpac Containers (Guangdong) Ltd by Guangdong Songfang Law Firm recorded that a person described as land consultant, named similarly to Li Yuanchang, was accompanying company representatives in relation to land matters."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-09-01",
-          "Text": "In September 2018, Huizhou Xinsheng Paper Industry Co. Limited’s general manager, together with Chan Chew Keak, met with Li Yuanchang in Dongguan, where Li Yuanchang was described as assisting the group in identifying and acquiring land in the People’s Republic of China."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-10-01",
-          "Text": "In October 2018, Huizhou Xinsheng Paper Industry Co. Limited’s general manager and Chan Chew Keak met Li Yuanchang at a potential land site in the People’s Republic of China in connection with the proposed sheet board plant."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-10-01",
-          "Text": "In October 2018, internal messages among group personnel referred to an adviser with a name similar to Li Yuanchang as a person who could assist in arranging meetings with local town officials regarding land matters."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-11-01",
-          "Text": "In November 2018, internal messages recorded that Edward Ching Hui Huat met a person named similarly to Li Yuanchang at AMB Interpac Containers (Guangdong) Ltd’s factory together with local government officials responsible for land allocation, and that tax materials and photocopied certificates were provided to him."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-11-01",
-          "Text": "In November 2018, internal messages recorded that Edward Ching Hui Huat suggested checking with the adviser named similarly to Li Yuanchang about other land options to consider for the group’s planned plant."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-08-01",
-          "Text": "In August and September 2018, WeChat messages between a person named similarly to Li Yuanchang and Luo Shanmei discussed legal and tax aspects of purchasing land in Lilin Town for Huizhou Xinsheng Paper Industry Co. Limited."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2018-08-01",
-          "Text": "Around the time of its incorporation, Huizhou Xinsheng Paper Industry Co. Limited appointed Luo Shanmei as its supervisor."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2019-10-01",
-          "Text": "In October 2019, Li Yuanchang made two payments totalling RMB 150,000 to Huizhou Xinsheng Paper Industry Co. Limited as partial interest under the two loan agreements."
+          "Text": "The company transferred RMB 4 million to Li Yuanchang on the same day as the second loan agreement."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-07-01",
-          "Text": "After the July 2019 decision by Hector Finance Group Limited’s directors not to proceed with any sheet board plant, Chan Chew Keak asked Li Yuanchang to repay the loans made by Huizhou Xinsheng Paper Industry Co. Limited."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-07-01",
-          "Text": "By mid-2019, Huizhou Xinsheng Paper Industry Co. Limited and group personnel were unable to establish contact with Li Yuanchang despite attempts to reach him."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2019-01-01",
-          "Text": "By the time of the dispute, Huizhou Xinsheng Paper Industry Co. Limited had advanced a total of RMB 14 million to Li Yuanchang under the two loan agreements, funded from the RMB 30 million transferred from AMB Interpac Containers (Guangdong) Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-01-01",
-          "Text": "From early 2019, Huizhou Xinsheng Paper Industry Co. Limited’s internal understanding, based on communications and documents, was that the loans to Li Yuanchang were connected to efforts to identify and secure land for a proposed sheet board plant."
+          "Text": "By mid-2019, Huizhou Xinsheng Paper Industry Co. Limited and group personnel were unable to establish contact with Li Yuanchang."
         }
       ],
-      "Issue": "Whether, before the dispute, Huizhou Xinsheng Paper Industry Co. Limited’s pre-dispute conduct in receiving RMB 30 million from its parent, entering into two loan agreements totalling RMB 14 million with a third party for land-related purposes, and relying on a land consultant structure is associated with the later non-repayment of those loans and the financial impact on the company.",
-      "Rule": "Under general company law and corporate governance standards, a company’s directors and senior management are ensure that significant loans to third parties are documented, connected to the company’s business purposes, and appropriate internal approvals and risk controls, particularly where the loans are funded from substantial intra-group transfers intended for capital projects.",
-      "Application": "Huizhou Xinsheng Paper Industry Co. Limited was incorporated in August 2018 as a wholly owned subsidiary within the Hector Finance Group Limited structure and was designated as the operating company for a proposed sheet board plant in the People’s Republic of China. In January 2019, it received RMB 30 million from AMB Interpac Containers (Guangdong) Ltd following an email from its sole director and legal representative, Chan Chew Keak, describing intended uses related to the proposed plant. Shortly thereafter, Huizhou Xinsheng Paper Industry Co. Limited entered into two written loan agreements with a third party, Li Yuanchang, for RMB 10 million in January 2019 and RMB 4 million in March 2019, each with a stated purpose of land purchase at an industrial park, a two-year term, and 3% annual interest, and transferred the corresponding sums on the same days. Pre-dispute communications and legal opinions Li Yuanchang was treated as a land consultant assisting with identifying and acquiring land, and that internal messages referred to him as an adviser who could facilitate meetings with local officials and land options. The company’s supervisor, Luo Shanmei, exchanged messages with Li Yuanchang about legal and tax aspects of land purchases for the company. After Hector Finance Group Limited’s July 2019 decision not to proceed with any sheet board plant, Chan Chew Keak requested repayment of the loans, and by October 2019 only RMB 150,000 in interest payments had been received, with subsequent difficulty in contacting Li Yuanchang. These pre-dispute facts Huizhou Xinsheng Paper Industry Co. Limited’s funds, sourced from intra-group transfers intended for a capital project, were deployed into third-party loans under a consultant-based structure, and that the company’s later financial position depended on the recovery of those loans.",
-      "Judicial_Reasoning_Log": "The court examined Huizhou Xinsheng Paper Industry Co. Limited’s claims under the People’s Republic of China Company Law, focusing on Article 147 and Article 148. For Article 148(a), the court considered expert evidence from Mr Liu and Dr Zhang on the meaning of misappropriation and the role of interested parties. The court accepted that the loans to Li Yuanchang were entered into for the company’s benefit in connection with land acquisition for a proposed sheet board plant and found insufficient evidence that the funds were applied for the personal interests of the defendant or an interested party. The court therefore held that Article 148(a) was not engaged. For Article 148(c), the court interpreted the provision, preferring Dr Zhang’s view that where the articles are silent, shareholder or board consent is required for loans to third parties, and considered the group’s standard operating procedure requiring approval for significant capital expenditure and disposals of monies. The court analysed whether the internal discussions and knowledge of the other key individuals amounted to consent for the loans and whether the defendant’s conduct complied with the procedural and substantive requirements of PRC law. The court also considered Article 148(h) and the duty of diligence under PRC law, assessing whether a reasonably competent administrator would have caused the company to enter into the loans on the terms agreed. Ultimately, the court concluded that the defendant breached the duty of diligence owed to Huizhou Xinsheng Paper Industry Co. Limited by causing it to enter into the loan agreements, and awarded relief including damages for the unrecovered principal and certain interest, while rejecting some other heads of claim and the conspiracy claims."
+      "Issue": "Whether a director breaches the duty of diligence under PRC Law by causing a company to advance substantial unsecured loans to a third-party consultant without proper board authorization or adequate contractual safeguards.",
+      "Rule": "Under Articles 147 and 148 of the PRC Company Law, a director owes duties of fidelity and diligence to the company. The duty of diligence requires a director to act with the care that a reasonably competent administrator would exercise. In the absence of specific constitutional provisions, significant loans to third parties funded from corporate resources intended for capital projects require formal board or shareholder consent.",
+      "Application": "Huizhou Xinsheng Paper Industry Co. Limited advanced a total of RMB 14 million to an individual designated as a land consultant. The loans were funded from intra-group transfers specifically meant for a plant development project. The director, acting as the company's sole legal representative, executed these loan agreements without seeking the formal consent of the holding company's board, despite internal practices requiring such approval for significant disposals of money. The loans were structured with minimal contractual protections and a low interest rate, and the individual subsequently became uncontactable, leading to the non-recovery of the principal sums.",
+      "Judicial_Reasoning_Log": "A director who causes a company to enter into substantial loan agreements must meet the objective standard of a reasonably competent administrator. While the objective of securing land for a plant is a legitimate business goal, the implementation through unsecured loans to a consultant without robust risk controls or formal board approval fails to meet the standard of diligence. The lack of documented internal consent for such significant capital deployment constitutes a breach of statutory duties. Consequently, the director is liable to compensate the company for the unrecovered principal and interest resulting from this lack of diligence."
     },
-    "Label": "Unknown",
-    "Leakage_Score": 3
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -406,186 +208,51 @@
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Chan Chew Keak",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Jaikanth Shankar",
+      "Counsel": [
+        "Jaikanth Shankar",
+        "John Lo",
+        "Tan Ruo Yu",
+        "Stella Ng"
+      ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
-          "Text": "Chan Chew Keak is a Singapore citizen and resident with an engineering background and a master’s degree in business administration, and has decades of experience in the packaging industry."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
-          "Text": "Through his shareholding in Caldicott Worldwide Ltd, Chan Chew Keak held an interest in at least 20% of the shares in Hector Finance Group Limited, and possibly up to 40% if he owned all the shares in Caldicott Worldwide Ltd."
-        },
-        {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
-          "Text": "From 2005 until 2019, Chan Chew Keak acted as the de facto strategic leader of Hector Finance Group Limited and its group, issuing directions on overall business strategy and investments."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
-          "Text": "From 2005 until 2019, internal communications within Hector Finance Group Limited senior managers, including Siong Beng Seng and Edward Ching Hui Huat, reported to and took strategic instructions from Chan Chew Keak."
+          "Fact_Date": "2005-01-01",
+          "Text": "Chan Chew Keak acted as the de facto strategic leader of the Hector group, issuing directions on overall business strategy and investments."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2018-06-01",
-          "Text": "From 2018 until his removal in 2020, Chan Chew Keak was a director of Hector Finance Group Limited."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
-          "Text": "From August 2018 until his removal in 2019, Chan Chew Keak was the sole legal representative and director of Huizhou Xinsheng Paper Industry Co. Limited."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
-          "Text": "In 2018, Chan Chew Keak was a director of AMB Interpac Containers (Guangdong) Ltd and was involved in decisions regarding new plant investments in the People’s Republic of China."
+          "Text": "Chan Chew Keak was a director of Hector Finance Group Limited and the sole director of Huizhou Xinsheng Paper Industry Co. Limited."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2017-12-05",
-          "Text": "On 2017-12-05, Chan Chew Keak proposed to senior managers that the group invest in a new sheet board plant in the People’s Republic of China to address concerns about business stagnation and to improve corrugator efficiency."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "On 2017-12-13, at a meeting with senior managers, Chan Chew Keak presented a preliminary analysis comparing returns from a sheet board plant with those from a box plant and discussed the potential advantages of a sheet board plant."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "",
-          "Text": "On 2017-12-27, Chan Chew Keak emailed Siong Beng Seng stating that he felt the group should start a sheet plant to improve corrugator efficiency and that running a sheet plant was, in his view, the most efficient way of producing sheet board."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In December 2017, Chan Chew Keak instructed senior manager Siong Beng Seng to obtain quotations from vendors, including BHS Corrugated Machinery (Shanghai) Co. Ltd, a Japanese vendor, and a US vendor, for a new corrugator to be installed in the group’s operations in China."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "",
-          "Text": "In February 2018, at a meeting in Dongguan with Siong Beng Seng and Edward Ching Hui Huat, Chan Chew Keak proposed setting up a sheet board plant under AMB Interpac Containers (Guangdong) Ltd, with an estimated funding requirement of around RMB 200 million including working capital."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "",
-          "Text": "Following the February 2018 meeting, Chan Chew Keak circulated minutes recording his proposal for a sheet board plant, the estimated funding requirement, and the need for directors of Hector Finance Group Limited to approve capital expenditure and disposals of monies."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In early 2018, Chan Chew Keak instructed that financing options, including bank loans, be explored to fund planned new plants in China, and senior managers initiated discussions with banks accordingly."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "",
-          "Text": "In April 2018, at a meeting in Singapore attended by key individuals including Chan Chew Keak, group strategy and the plan to set up sheet board plants in China were discussed, with Chan Chew Keak presenting materials on the proposed investments."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In August 2018, acting in his capacity within the group, Chan Chew Keak arranged for AMB Interpac Containers (Guangdong) Ltd to incorporate Huizhou Xinsheng Paper Industry Co. Limited and Huizhou Shengjia Industry Co. Ltd as wholly owned subsidiaries in the People’s Republic of China."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In September 2018, Chan Chew Keak caused AMB Interpac Containers (Guangdong) Ltd to enter into a contract with BHS Corrugated Machinery (Shanghai) Co. Ltd to purchase a corrugator for RMB 31 million for use in a planned sheet board plant."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2018-09-18",
-          "Text": "On 2018-09-18, under the corrugator purchase contract arranged by Chan Chew Keak, AMB Interpac Containers (Guangdong) Ltd paid RMB 9.3 million to BHS Corrugated Machinery (Shanghai) Co. Ltd as a deposit."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In June 2018, Chan Chew Keak participated in obtaining a legal opinion from Guangdong Songfang Law Firm for AMB Interpac Containers (Guangdong) Ltd on land acquisition in the People’s Republic of China, which recorded that a land consultant named similarly to Li Yuanchang was involved in the process."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In September 2018, Chan Chew Keak met with Li Yuanchang and Huizhou Shengjia Industry Co. Ltd’s general manager in Dongguan, where he described Li Yuanchang as assisting the group in identifying and acquiring land in the People’s Republic of China."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "In October 2018, Chan Chew Keak and Huizhou Shengjia Industry Co. Ltd’s general manager met Li Yuanchang at a potential land site in the People’s Republic of China in connection with the proposed sheet board plant."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "",
-          "Text": "In early 2018, Chan Chew Keak provided the full name of Li Yuanchang to Edward Ching Hui Huat before a meeting at AMB Interpac Containers (Guangdong) Ltd’s factory with local government officials responsible for land allocation."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "",
-          "Text": "In October 2018, internal messages from Edward Ching Hui Huat to Chan Chew Keak referred to an adviser named similarly to Li Yuanchang as someone who could arrange a meeting with a town committee secretary regarding land matters."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "",
-          "Text": "In November 2018, internal messages from Edward Ching Hui Huat to Chan Chew Keak recorded that he met a person named similarly to Li Yuanchang at AMB Interpac Containers (Guangdong) Ltd’s factory and suggested checking with him about other land options."
+          "Text": "The individual proposed that the group invest in a new sheet board plant in the People’s Republic of China."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2019-01-10",
-          "Text": "On 2019-01-10, Chan Chew Keak emailed senior managers stating that he had more or less identified land in Huizhou for a sheet board plant and requested that AMB Interpac Containers (Guangdong) Ltd transfer RMB 30 million to Huizhou Xinsheng Paper Industry Co. Limited for specified purposes including repayment of a corrugator deposit, a deposit for automation equipment, a land deposit, and minor expenses."
+          "Text": "The individual emailed senior managers requesting that AMB Interpac Containers (Guangdong) Ltd transfer RMB 30 million to Huizhou Xinsheng Paper Industry Co. Limited for specified plant-related purposes."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
-          "Text": "In January 2019, following the email from Chan Chew Keak, AMB Interpac Containers (Guangdong) Ltd transferred RMB 30 million to Huizhou Xinsheng Paper Industry Co. Limited."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "",
-          "Text": "In January 2019, as sole director and legal representative of Huizhou Xinsheng Paper Industry Co. Limited, Chan Chew Keak caused the company to enter into a written loan agreement with Li Yuanchang for RMB 10 million, with a two-year term and 3% annual interest, for a stated purpose of land purchase at an industrial park."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
-          "Text": "On the same day as the first loan agreement in January 2019, under the direction of Chan Chew Keak, Huizhou Xinsheng Paper Industry Co. Limited transferred RMB 10 million to Li Yuanchang."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "",
-          "Text": "In March 2019, as sole director and legal representative of Huizhou Xinsheng Paper Industry Co. Limited, Chan Chew Keak caused the company to enter into a second written loan agreement with Li Yuanchang for RMB 4 million, with a two-year term and 3% annual interest, for a stated purpose of land purchase at an industrial park."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
-          "Text": "On the same day as the second loan agreement in March 2019, under the direction of Chan Chew Keak, Huizhou Xinsheng Paper Industry Co. Limited transferred RMB 4 million to Li Yuanchang."
+          "Fact_Date": "2019-01-01",
+          "Text": "As sole director, the individual caused Huizhou Xinsheng Paper Industry Co. Limited to transfer RMB 14 million to Li Yuanchang under two written loan agreements."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "From early 2019, Chan Chew Keak’s understanding, based on his own evidence, was that the loans to Li Yuanchang were intended to enable quick payment of deposits and related costs for land to be used for a sheet board plant, with the loans providing documentary evidence and a contractual repayment obligation."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "After the July 2019 decision by Hector Finance Group Limited’s directors not to proceed with any sheet board plant, Chan Chew Keak asked Li Yuanchang to repay the RMB 14 million loans made by Huizhou Xinsheng Paper Industry Co. Limited."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
-          "Text": "By mid-2019, attempts by Chan Chew Keak and group personnel to contact Li Yuanchang were unsuccessful, and Li Yuanchang was described as uncontactable."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
-          "Text": "In October 2019, under the loan arrangements initiated by Chan Chew Keak, Li Yuanchang made two payments totalling RMB 150,000 to Huizhou Xinsheng Paper Industry Co. Limited as partial interest."
+          "Fact_Date": "2019-07-01",
+          "Text": "After the group decided not to proceed with the plant, the individual requested repayment of the loans, but the recipient was uncontactable."
         }
       ],
-      "Issue": "Whether, before the dispute, the pattern of conduct by Chan Chew Keak in proposing a sheet board plant, directing intra-group fund transfers, and causing Huizhou Xinsheng Paper Industry Co. Limited to enter into two RMB loans to a third party for land-related purposes is associated with the eventual non-repayment of those loans and the financial consequences for the company.",
-      "Rule": "Under general principles governing directors and senior managers, individuals who control or direct a company’s operations are ensure that significant loans to third parties funded from company or group resources are aligned with the company’s business objectives, are appropriate internal approvals, and are structured with reasonable safeguards for repayment and risk management.",
-      "Application": "As a major shareholder and de facto strategic leader of the Hector group, and later as a director of Hector Finance Group Limited and sole director and legal representative of Huizhou Xinsheng Paper Industry Co. Limited, Chan Chew Keak proposed a new sheet board plant in the People’s Republic of China and directed steps to implement it, including obtaining corrugator quotations, entering into a RMB 31 million corrugator contract, and arranging a RMB 9.3 million deposit payment. In January 2019, he requested that AMB Interpac Containers (Guangdong) Ltd transfer RMB 30 million to Huizhou Xinsheng Paper Industry Co. Limited for purposes connected with the proposed plant. Acting as sole director of Huizhou Xinsheng Paper Industry Co. Limited, he then caused the company to enter into two written loan agreements with a third party, Li Yuanchang, for RMB 10 million in January 2019 and RMB 4 million in March 2019, each with a stated purpose of land purchase at an industrial park, and arranged for the corresponding transfers on the same days. Pre-dispute communications and legal opinions Li Yuanchang was treated as a land consultant assisting with land identification and acquisition, and that internal messages referred to him as an adviser who could facilitate meetings with local officials and land options. After Hector Finance Group Limited’s July 2019 decision not to proceed with any sheet board plant, Chan Chew Keak requested repayment of the loans, but by October 2019 only RMB 150,000 in interest had been received and subsequent attempts to contact Li Yuanchang were unsuccessful. These pre-dispute facts Chan Chew Keak’s decisions and directions led to substantial funds from intra-group transfers being deployed into third-party loans under a consultant-based structure, and that the company’s later financial position depended on the recovery of those loans.",
-      "Judicial_Reasoning_Log": "The court considered multiple heads of claim against Chan Chew Keak, including alleged breaches of fiduciary duty and duty of diligence to both plaintiffs under British Virgin Islands and People’s Republic of China law, and conspiracy claims. For the first plaintiff, the court held that its claims for breach of fiduciary duty and duty of diligence failed because it did not plead or prove any loss it suffered, and any diminution in share value would be reflective loss. For the second plaintiff, the court analysed the duty of fidelity under Article 148 of the PRC Company Law. On Article 148(a), the court accepted expert evidence that misappropriation requires use of company funds for personal or interested party benefit or not for the company’s benefit, and found that the loans to Li Yuanchang were entered into for the company’s benefit in connection with land acquisition for a proposed sheet board plant, with insufficient evidence that the funds were applied for the personal interests of the defendant or an interested party. The court therefore held that Article 148(a) was not breached. On Article 148(c), the court interpreted the provision, preferring Dr Zhang’s view that where the articles are silent, shareholder or board consent is required for loans to third parties, and examined the group’s standard operating procedure requiring approval for significant capital expenditure and disposals of monies. The court analysed whether the internal discussions, knowledge, and silence of other key individuals amounted to consent for the loans and whether the defendant’s conduct complied with the procedural requirements. On Article 148(h) and the duty of diligence under PRC law, the court assessed whether a reasonably competent administrator would have caused the second plaintiff to enter into the loans on the terms agreed, taking into account the unusual structure of advancing RMB 14 million under loan agreements to a consultant, the limited contractual protections, and the interest rate. The court concluded that while the loans were connected to the company’s business objective of securing land for a sheet board plant, the manner in which they were structured and implemented did not meet the standard of diligence required, and that Chan Chew Keak breached the duty of diligence owed to Huizhou Xinsheng Paper Industry Co. Limited. The court rejected the plaintiffs’ unlawful and lawful means conspiracy claims, finding insufficient evidence of a combination with Li Yuanchang to injure the plaintiffs and no predominant purpose to cause injury. Relief was granted to the second plaintiff for the unrecovered principal and certain interest, while other claimed heads such as investigation expenses and some aspects of account of profits were addressed separately."
+      "Issue": "Whether a director's unilateral decision to deploy company funds into third-party loans for a project, without formal board approval or adequate safeguards, constitutes a breach of the duty of diligence.",
+      "Rule": "Directors are subject to an objective standard of care and must exercise the diligence of a reasonably competent administrator. This includes ensuring that substantial disposals of corporate funds are authorized by the appropriate governing bodies and are structured to protect the company's financial interests.",
+      "Application": "Chan Chew Keak directed the transfer of RMB 30 million to a subsidiary and subsequently authorized RMB 14 million in loans to an individual acting as a land consultant. He relied on informal strategic discussions but did not obtain the formal board resolutions required for such significant capital expenditure. The loans lacked typical commercial protections, and he proceeded with the transfers despite the company's parlous financial exposure to the project. When the borrower defaulted and vanished, the funds remained unrecovered.",
+      "Judicial_Reasoning_Log": "An individual in a position of strategic leadership and statutory directorship must comply with internal standard operating procedures regarding the disposal of monies. Initiating substantial unsecured loans to a third party without formal board consent or rigorous risk management falls below the standard of diligence required by law. While the loans were intended to facilitate a business project, the manner of their execution was unreasonable for a competent administrator. The director's failure to adhere to procedural requirements and protect corporate assets from foreseeable risk establishes liability for the resulting loss. However, claims of a conspiracy to intentionally injure the company are not sustained where the primary motive was the pursuit of a business opportunity rather than malice."
     },
     "Label": "Liable",
-    "Leakage_Score": 3
+    "Leakage_Score": 0
   }
 ]
