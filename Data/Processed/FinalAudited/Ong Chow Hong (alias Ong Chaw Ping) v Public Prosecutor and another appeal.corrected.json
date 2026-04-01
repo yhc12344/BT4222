@@ -96,7 +96,7 @@
       "Application": "The non-executive chairman of a listed company was informed that the CEO was under a corruption investigation. When the stock exchange requested a public clarification, the chairman delegated the approval of the announcement to another director to attend a pre-planned event. The legal conflict assesses whether this conduct breached the statutory duty of diligence.",
       "Judicial_Reasoning_Log": "The High Court concluded that Singapore's disqualification regime is predominantly protective rather than punitive, aiming to keep unsuitable individuals from management roles and uphold market confidence. The court reasoned that the information disclosed at the board meeting about the CPIB investigation should have placed the appellant on heightened vigilance. The judge found that his conduct on 25 November 2005, specifically his failure to review or approve the market announcement and his delegation of that responsibility to attend a golf event, amounted to an abdication of his corporate responsibilities. The court held that directors of listed companies have a non-delegable duty to ensure accurate market disclosures. Finding the original one-year disqualification manifestly inadequate for such a serious lapse, the court enhanced the period to 24 months to protect the public and reinforce corporate governance standards."
     },
-    "Label": "Claim Dismissed",
+    "Label": "Claim Allowed",
     "Leakage_Score": 0
   },
   {
@@ -200,7 +200,7 @@
       "Application": "Following a director's conviction for failing to personally review a critical market announcement regarding a CEO's corruption probe, the State appealed the initial disqualification sentence. The dispute concerns the appropriate length of disqualification required to safeguard the investing public and uphold corporate governance standards.",
       "Judicial_Reasoning_Log": "The High Court accepted the Public Prosecutor's position that the original 12-month disqualification order did not sufficiently address the protective aims of the Companies Act in the circumstances of this case. After clarifying that the disqualification regime is predominantly protective, the court considered the seriousness of the appellant's lapse, the context of a listed company operating in a disclosure-based regulatory environment, and the need to deter similar conduct by other directors. The court concluded that a longer disqualification period was necessary to protect the public and uphold corporate governance standards, and therefore allowed the Public Prosecutor's appeal by enhancing the disqualification period to 24 months."
     },
-    "Label": "Claim Allowed",
+    "Label": "Liable",
     "Leakage_Score": 0
   }
 ]

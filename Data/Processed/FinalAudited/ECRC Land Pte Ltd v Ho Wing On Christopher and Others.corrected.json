@@ -671,7 +671,7 @@
       "Application": "E-Zone (Plaza) Pte Ltd, owned by the Grande group and SAFE, was designated under the shareholders' agreement to operate the amusement theme park and receive consultancy fees from the plaintiff. However, the plaintiff was charged and paid consultancy fees and operating expenses to E-Zone for the period between January and March 1995. The plaintiff did not officially take over the management of the recreation centre until April 1995. The core tension is whether E-Zone can retain funds charged for a period before the operational baseline of the joint venture was established.",
       "Judicial_Reasoning_Log": "The court determined that the fifth and sixth defendants were not legally entitled to charge the plaintiff for consultancy fees or operating expenses before 1 April 1995, as the plaintiff had not yet taken over the management of the recreation centre. Charging for services prior to operational control lacks commercial justification. Consequently, the court ordered the repayment of the operating expenses for the period from 1 January 1995 to 31 March 1995, calculating the recoverable amount at S$182,752.02. Aside from this specific temporal adjustment, the court accepted the commercial basis of the ongoing consultancy fee arrangements, dismissing the remaining claims."
     },
-    "Label": "Partially Liable",
+    "Label": "Liable",
     "Leakage_Score": 0
   },
   {
@@ -737,7 +737,7 @@
       "Application": "The Grande Group Limited provided legal, administrative, and secretarial support to the plaintiff, seconding staff and allocating portions of its overhead and operating expenses (ranging from 12.5% to 33.33%) to the plaintiff. It also extended unsecured, interest-bearing US dollar loans to the plaintiff. The plaintiff made continuous payments to Grande for these services and loans. Crucially, some of these charges covered the period from January to March 1995, prior to the plaintiff officially taking over the management of the recreation centre. The conflict centers on whether these payments were commercially justified or represented an unlawful extraction of assets during the plaintiff's decline.",
       "Judicial_Reasoning_Log": "The court found that the sixth defendant's charges for administrative support, seconded staff, and loan interest generally reflected valid commercial arrangements necessary for the redevelopment project. Because the plaintiff was not insolvent at the time the majority of these payments were made, and there was no evidence of a specific desire to prefer the sixth defendant over other creditors, the unfair preference claims failed. However, the court identified a distinct temporal flaw: the sixth defendant was not legally entitled to charge the plaintiff for operating expenses between 1 January 1995 and 31 March 1995, as the plaintiff had not yet taken over the centre's management. Consequently, the court ordered the sixth defendant to repay S$182,752.02 for that specific pre-operational period, setting it off against costs. All other claims against the sixth defendant were dismissed."
     },
-    "Label": "Partially Liable",
+    "Label": "Liable",
     "Leakage_Score": 0
   },
   {
