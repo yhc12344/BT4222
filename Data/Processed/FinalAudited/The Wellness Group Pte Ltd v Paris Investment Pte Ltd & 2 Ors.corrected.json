@@ -148,12 +148,12 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2010",
+          "Fact_Date": "2010-01-01",
           "Text": "In 2010, Paris Investment Pte Ltd acquired 15.8% of the shares in TWG Tea Company Pte Ltd, with The Wellness Group Pte Ltd holding the remaining 84.2% at that time."
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2010",
+          "Fact_Date": "2010-01-01",
           "Text": "Paris Investment Pte Ltd was, by 2010, a shareholder of TWG Tea Company Pte Ltd and was wholly owned by OSIM International Pte Ltd."
         },
         {
@@ -173,17 +173,17 @@
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
+          "Fact_Date": "2013-01-01",
           "Text": "After a rights issue conducted between 2013 and 2014, Paris Investment Pte Ltd’s shareholding in TWG Tea Company Pte Ltd became 11.3%."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
+          "Fact_Date": "2013-01-01",
           "Text": "Following the 2013–2014 rights issue, Paris Investment Pte Ltd and The Wellness Group Pte Ltd together held 41.4% of the shares in TWG Tea Company Pte Ltd, while OSIM International Pte Ltd held 58.6%."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
+          "Fact_Date": "2013-01-01",
           "Text": "Despite OSIM International Pte Ltd becoming the majority shareholder after the 2013–2014 rights issue, the Board structure under clause 5 of the Shareholders' Agreement continued to allocate two Board seats to Paris Investment Pte Ltd and The Wellness Group Pte Ltd collectively and one Board seat to OSIM International Pte Ltd."
         },
         {
@@ -274,12 +274,12 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2007-10",
+          "Fact_Date": "2007-10-01",
           "Text": "TWG Tea Company Pte Ltd was incorporated in or around October 2007 as a wholly-owned subsidiary of The Wellness Group Pte Ltd."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2010",
+          "Fact_Date": "2010-01-01",
           "Text": "By 2010, the shares in TWG Tea Company Pte Ltd were held 84.2% by The Wellness Group Pte Ltd and 15.8% by Paris Investment Pte Ltd."
         },
         {

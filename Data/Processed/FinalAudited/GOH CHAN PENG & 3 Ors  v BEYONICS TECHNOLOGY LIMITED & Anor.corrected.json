@@ -146,7 +146,7 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1987",
+          "Fact_Date": "1987-01-01",
           "Text": "From 1987, the precision engineering division of the Beyonics Group, which included Beyonics Technology Ltd and its subsidiaries, supplied baseplates for hard disk drives to Seagate Technology International."
         },
         {
@@ -161,7 +161,7 @@
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
+          "Fact_Date": "2012-01-01",
           "Text": "From 2012 onwards, the volume of the Beyonics Group's sales of baseplates to Seagate declined steadily."
         }
       ],

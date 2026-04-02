@@ -18,17 +18,17 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1995",
+          "Fact_Date": "1995-01-01",
           "Text": "Worldwide Convention Planners Pte Ltd was incorporated in 1995 with 300,000 shares to carry on the business of organising conventions and events."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2000-12",
+          "Fact_Date": "2000-12-01",
           "Text": "In December 2000, Worldwide Convention Planners Pte Ltd purchased the property known as 51A/B Neil Road for $2,400,000."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2000-12",
+          "Fact_Date": "2000-12-01",
           "Text": "From December 2000, Worldwide Convention Planners Pte Ltd carried on its business from the third floor of the property at 51A/B Neil Road."
         },
         {
@@ -83,17 +83,17 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1995",
+          "Fact_Date": "1995-01-01",
           "Text": "At the time of incorporation of Worldwide Convention Planners Pte Ltd in 1995, the first defendant, Lee Khiam Long, held 246,000 shares in the company, of which 180,000 were held in trust for the second defendant."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1995",
+          "Fact_Date": "1995-01-01",
           "Text": "From the time of incorporation of Worldwide Convention Planners Pte Ltd in 1995, the first defendant, Lee Khiam Long, was the managing director of the company."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1995",
+          "Fact_Date": "1995-01-01",
           "Text": "Within the 246,000 shares registered in the name of the first defendant in Worldwide Convention Planners Pte Ltd, 66,000 shares were beneficially his and 180,000 shares were held for the second defendant."
         }
       ],

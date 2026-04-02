@@ -20,7 +20,7 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1994",
+          "Fact_Date": "1994-01-01",
           "Text": "Dynasty Line Limited was incorporated under the laws of the British Virgin Islands in 1994."
         },
         {
@@ -35,7 +35,7 @@
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "1994",
+          "Fact_Date": "1994-01-01",
           "Text": "Dynasty Line Limited functioned as a corporate vehicle for investments by Sia Sukamto and did not have independent business operations or trading activities."
         },
         {
@@ -55,12 +55,12 @@
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1997-11",
+          "Fact_Date": "1997-11-01",
           "Text": "Sia made payments totalling HK$64,348,525.81 to Low between 2 February 1996 and 11 November 1997."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "1996-03-01",
           "Text": "Between March 1996 and May 1996, the vendors transferred all 29,537,367 China Development Corporation Limited shares to Dynasty Line Limited before the intended completion date of 2 May 1996."
         },
         {
@@ -157,17 +157,17 @@
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1996-02-02",
+          "Fact_Date": "1996-02-05",
           "Text": "Those shares were acquired from Low and the following parties under seven sale and purchase agreements dated 5 February 1996: Johnny Tsao Yue Hwa, Yap Han Hoe, Swanny Sri Sujanty Setyono, Lau Kang Thow, Evelyn Ong Suat Tay, and Low Cheng Lum."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1996-04-23",
+          "Fact_Date": "1996-02-02",
           "Text": "Sia made payments totalling HK$64,348,525.81 to Low between 2 February 1996 and 11 November 1997."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1996-11-06",
+          "Fact_Date": "1996-04-23",
           "Text": "On 23 April 1996, Dynasty charged 60,161,510 CDC shares to Commerzbank (South East Asia) Limited as security for facilities granted to Sia."
         },
         {
@@ -182,22 +182,22 @@
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1997-08-29",
+          "Fact_Date": "1997-11-03",
           "Text": "On 3 November 1997, Dynasty charged 10,702,625 CDC shares to Creditanstalt Bankverein as security for facilities granted to Sia."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "1997-11-30",
+          "Fact_Date": "1997-08-29",
           "Text": "On 29 August 1997, Dynasty charged 48,822,700 CDC shares to KG Investments Asia Limited as security for facilities granted to Franklin Syah."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1998-06-17",
+          "Fact_Date": "1996-04-01",
           "Text": "Between April 1996 and November 1997, Sia, on behalf of Dynasty, entered into transactions with various financial institutions pursuant to which the Sale Shares owned by Dynasty were pledged as security for loan facilities granted to Sia and other third parties."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "1998-11-05",
+          "Fact_Date": "1998-06-17",
           "Text": "On 17 June 1998, Low filed Suit 960 of 1998 against Sia seeking payment of HK$71,836,580.31, being the alleged unpaid balance of the Purchase Price of the Sale Shares due to him under the S&P Agreements."
         },
         {
@@ -207,32 +207,32 @@
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "1998-12-22",
+          "Fact_Date": "1998-11-05",
           "Text": "A letter dated 5 November 1998 from Lee & Lee to Khattar Wong & Partners recorded that Suit 960 of 1998 would be discontinued, that a notice of discontinuance would be filed by 9 November 1998, that Sia would not claim costs on the condition that Low did not commence or continue other proceedings connected with the facts or subject matters of Suit 960, and that if such proceedings were commenced, Sia could seek taxation and recovery of his costs."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "1999-05-26",
+          "Fact_Date": "1998-12-22",
           "Text": "On 22 December 1998, five of the Remaining Vendors sued Sia in Suit 2333 of 1998 for the alleged unpaid balance of the Purchase Price of the Sale Shares owed to them under their respective S&P Agreements."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "1998-06-19",
+          "Fact_Date": "1999-05-26",
           "Text": "Suit 2333 was discontinued on 26 May 1999."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "1998-12-16",
+          "Fact_Date": "1998-06-19",
           "Text": "On 19 June 1998, Sia, through Dynasty, brought an action in HCA 10075 of 1998 against Low and the Remaining Vendors for misrepresentation in relation to the Sale Shares."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2007-09-27",
+          "Fact_Date": "1998-12-16",
           "Text": "This action was struck out on 16 December 1998 as Dynasty lacked the funds to continue the proceedings."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008-01-01",
+          "Fact_Date": "2007-09-27",
           "Text": "On 27 September 2007, the Provisional Liquidators commenced proceedings on Dynasty’s behalf against Sia and Lee in HCA 2057 of 2007 for, inter alia, alleged breaches of fiduciary duties in relation to the Sale Shares."
         },
         {
@@ -290,7 +290,7 @@
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "1997-11-30",
+          "Fact_Date": "1996-04-01",
           "Text": "Between April 1996 and November 1997, Sia, on behalf of Dynasty, entered into transactions with various financial institutions pursuant to which the Sale Shares owned by Dynasty were pledged as security for loan facilities granted to Sia and other third parties."
         }
       ],

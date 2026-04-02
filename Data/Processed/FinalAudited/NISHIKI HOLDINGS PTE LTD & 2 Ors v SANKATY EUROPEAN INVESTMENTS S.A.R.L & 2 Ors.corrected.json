@@ -15,17 +15,17 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
+          "Fact_Date": "2016-01-01",
           "Text": "Nishiki Holdings Pte Ltd (NH) is a company incorporated in Singapore and functions as a holding company."
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "",
+          "Fact_Date": "2016-06-01",
           "Text": "At the time of the Sale Leaseback Transaction in 2016, NH was owned 50% by Dr Masami Yabumoto and 50% by a Medical Charitable Trust."
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "",
+          "Fact_Date": "2018-01-01",
           "Text": "After the Sale Leaseback Transaction, the shareholding of NH changed so that Dr Masami Yabumoto and Ms Zhang Ran were equal shareholders."
         },
         {
@@ -35,7 +35,7 @@
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "",
+          "Fact_Date": "2016-01-01",
           "Text": "Nishiki Holdings Pte Ltd is the ordinary shareholder of Nishiki Real Estate Pte Ltd and the sole shareholder of Nishiki International Investments Pte Ltd."
         },
         {
@@ -65,7 +65,7 @@
         },
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
+          "Fact_Date": "2016-01-01",
           "Text": "Nishiki Tokutei Mokuteki Kaisha is a Japanese special purpose company wholly owned by Nishiki Real Estate Pte Ltd and holds nine medical properties in Osaka."
         },
         {
@@ -118,7 +118,7 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
+          "Fact_Date": "2016-01-01",
           "Text": "Sankaty European Investments S.A.R.L is a private limited company incorporated in Luxembourg and forms part of the debt division of Bain Capital."
         },
         {

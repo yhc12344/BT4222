@@ -226,7 +226,7 @@
       "Facts": [
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2012",
+          "Fact_Date": "2012-01-01",
           "Text": "In 2012, JASC Pte Ltd obtained a loan from SME Care Pte Ltd; Jannie Chan Siew Lee was the sole director and shareholder of JASC Pte Ltd."
         },
         {
@@ -241,7 +241,7 @@
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2005",
+          "Fact_Date": "2005-02-16",
           "Text": "Jannie Chan Siew Lee was a 70% shareholder of Timor Global (TL) Pte Ltd, a company registered in Timor Leste."
         },
         {
@@ -251,12 +251,12 @@
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012",
+          "Fact_Date": "2012-01-01",
           "Text": "In 2012, JASC Pte Ltd obtained a loan from SME Care Pte Ltd, secured by mortgages and a personal guarantee by Jannie Chan Siew Lee."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2014",
+          "Fact_Date": "2014-09-05",
           "Text": "In 2014, JASC Pte Ltd had not fully repaid the loan principal, late interest, late payment processing fees and extension fees owed to SME Care Pte Ltd."
         },
         {
@@ -276,7 +276,7 @@
         },
         {
           "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2013",
+          "Fact_Date": "2013-01-01",
           "Text": "In 2013, during the EJD Proceedings, Jannie Chan Siew Lee stated that Timor Global Pte Ltd had lent Timor Global (TL) Pte Ltd various monies over the years and that the total amount owing from TL was S$15,343,006.93; she also described the loans as cash loans, secured by a director, interest free and repayable on demand."
         }
       ],

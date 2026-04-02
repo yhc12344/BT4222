@@ -18,32 +18,32 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1960",
+          "Fact_Date": "1960-01-01",
           "Text": "Heap Huat Rubber Co Sdn Bhd (HHR) was incorporated in Malaysia in 1960 by the late Ng Quee Lam, his brothers and their families."
         },
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1960",
+          "Fact_Date": "1960-01-01",
           "Text": "The second, third and fourth plaintiffs, HHR Properties Sdn Bhd, HHR Trading Sdn Bhd and HHR Construction and Supply Sdn Bhd, are wholly-owned subsidiaries of HHR incorporated in Malaysia."
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "",
+          "Fact_Date": "1980-01-01",
           "Text": "In the 1980s, companies controlled by the family of Ng Quee Lam, including HHR-related entities, encountered financial difficulties and some of those companies were wound up, with Ng Quee Lam and others declared bankrupt."
         },
         {
           "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "1999",
+          "Fact_Date": "1999-01-01",
           "Text": "In 1999, the Official Receiver and Official Assignee of the estates of some shareholders obtained majority control of HHR."
         },
         {
           "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2001",
+          "Fact_Date": "2001-01-01",
           "Text": "In 2001, new directors were appointed for HHR and its subsidiaries."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2001",
+          "Fact_Date": "2001-01-01",
           "Text": "The present action was initiated by the new directors of HHR and its subsidiaries after they gained control of the companies."
         },
         {
@@ -78,7 +78,7 @@
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
+          "Fact_Date": "1998-01-01",
           "Text": "After the sale of the Johore land, RM12,800,000 was released to HHR."
         },
         {
@@ -93,7 +93,7 @@
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
+          "Fact_Date": "1998-03-07",
           "Text": "The three subsidiary companies, HHR Properties Sdn Bhd, HHR Trading Sdn Bhd and HHR Construction and Supply Sdn Bhd, were incorporated with a total paid-up capital of RM12,000,000."
         }
       ],
@@ -121,27 +121,27 @@
       "Facts": [
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "",
+          "Fact_Date": "1987-01-01",
           "Text": "The first defendant, Kong Choot Sian, is the son-in-law of the late Ng Quee Lam."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1987",
+          "Fact_Date": "1987-01-01",
           "Text": "In 1987, the first defendant was a director of HHR."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1988",
+          "Fact_Date": "1988-01-01",
           "Text": "In 1988, the first defendant resigned from his position as a director of HHR after he was adjudicated a bankrupt."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
+          "Fact_Date": "1988-01-01",
           "Text": "After resigning as a director, the first defendant was engaged as a senior administration officer of HHR and as a consultant to the subsidiary companies."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "1998-01-01",
           "Text": "The first defendant continued to be involved with HHR and its subsidiaries after his resignation as director, including giving instructions to other individuals associated with the companies."
         }
       ],
@@ -169,17 +169,17 @@
       "Facts": [
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "",
+          "Fact_Date": "1980-01-01",
           "Text": "The second defendant is a nephew of Ng Quee Lam."
         },
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
+          "Fact_Date": "1980-01-01",
           "Text": "The second defendant is an undischarged bankrupt."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
+          "Fact_Date": "1980-01-01",
           "Text": "The second defendant was an employee of the first, third and fourth plaintiffs as an administration officer and assistant manager."
         }
       ],
@@ -207,12 +207,12 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
+          "Fact_Date": "1997-12-23",
           "Text": "The third defendant, Tan Chong Puat, is not related to the Ng family and is a friend of the first defendant from their undergraduate days at Nanyang University."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
+          "Fact_Date": "1997-12-23",
           "Text": "The third defendant became the general manager of HHR Properties Sdn Bhd, HHR Trading Sdn Bhd and HHR Construction and Supply Sdn Bhd on the recommendation of the first defendant."
         },
         {
@@ -374,17 +374,17 @@
       "Facts": [
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
+          "Fact_Date": "1990-01-01",
           "Text": "The seventh defendant, Low Toh Pwee, was a director of all the plaintiff companies."
         },
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
+          "Fact_Date": "1990-01-01",
           "Text": "Before becoming a director, the seventh defendant sold durians."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "1990-01-01",
           "Text": "The seventh defendant took no active part in the management of the plaintiff companies and regarded the first defendant as the main decision maker."
         }
       ],
@@ -412,17 +412,17 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
+          "Fact_Date": "1997-12-23",
           "Text": "The eighth defendant, Chan Kim Hong Agnes, is a practising lawyer in Malaysia."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
+          "Fact_Date": "1997-12-23",
           "Text": "The eighth defendant served as the company secretary, legal adviser and consultant of HHR Properties Sdn Bhd, HHR Trading Sdn Bhd and HHR Construction and Supply Sdn Bhd."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
+          "Fact_Date": "1997-12-23",
           "Text": "Payments were made by the subsidiary companies to the eighth defendant's legal firm and secretariat company for services rendered."
         }
       ],
@@ -450,12 +450,12 @@
       "Facts": [
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "",
+          "Fact_Date": "1990-01-01",
           "Text": "The ninth defendant, Ng Keng Eng, is the wife of the second defendant."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
+          "Fact_Date": "1990-01-01",
           "Text": "The ninth defendant was an employee of the second plaintiff."
         }
       ],

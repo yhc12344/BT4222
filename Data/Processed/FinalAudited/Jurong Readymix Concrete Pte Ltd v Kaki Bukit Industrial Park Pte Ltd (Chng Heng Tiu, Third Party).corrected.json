@@ -105,92 +105,92 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1994",
+          "Fact_Date": "1994-01-01",
           "Text": "Kaki Bukit Industrial Park Pte Ltd was incorporated in 1994 with its main object being the development of the Kaki Bukit Industrial Park."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1994",
+          "Fact_Date": "1994-01-01",
           "Text": "Ho Kok Cheong acted as project manager of Kaki Bukit Industrial Park Pte Ltd for the Kaki Bukit Industrial Park development."
         },
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1994",
+          "Fact_Date": "1994-01-01",
           "Text": "Ho Kok Cheong had long-standing involvement in the construction industry but his personal involvement in construction companies was restricted due to being an undischarged bankrupt."
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "1994",
+          "Fact_Date": "1994-01-01",
           "Text": "The project was initiated by family members who invited Chng Heng Tiu to participate as an investor and director to provide necessary funding."
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "1994",
+          "Fact_Date": "1994-01-01",
           "Text": "Chng Heng Tiu brought in Chwee Meng Chong to participate in the Kaki Bukit Industrial Park project."
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1994",
+          "Fact_Date": "1994-01-01",
           "Text": "The company’s board was split between two primary groups: the Chng-Chwee group and the Ho family group."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1994",
+          "Fact_Date": "1994-01-01",
           "Text": "Chng Heng Tiu held the majority of shares in Kaki Bukit Industrial Park Pte Ltd through his personal holding company."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1994",
+          "Fact_Date": "1994-01-01",
           "Text": "The directors of Kaki Bukit Industrial Park Pte Ltd were Chng Heng Tiu, Chwee Meng Chong, Ho Mun Sang and Ho Mun Fei."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "",
+          "Fact_Date": "1996-04-08",
           "Text": "On 8 April 1996, Kaki Bukit Industrial Park Pte Ltd issued a letter on its letterhead to Jurong Readymix Concrete Pte Ltd stating that if Boonann Construction Pte Ltd failed to honour payment for the supply of readymixed concrete, the company would make direct payment."
         },
         {
           "Fact_Type": "DOCUMENT",
-          "Fact_Date": "",
+          "Fact_Date": "1996-04-08",
           "Text": "The 8 April 1996 letter of guarantee was signed by director Chng Heng Tiu."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "1996-04-08",
           "Text": "The 8 April 1996 guarantee letter was prepared by a representative of the contractor."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "1996-04-08",
           "Text": "Before signing the 8 April 1996 guarantee, director Chng Heng Tiu consulted only one other director and did not notify the Ho family directors."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "1996-04-08",
           "Text": "The guarantee was treated by the signing director as a matter of day-to-day construction operations within his authority."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "1996-04-08",
           "Text": "The guarantee exposed the company to a potential liability of up to $1,000,000."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "1996-04-08",
           "Text": "The signing director relied on his majority shareholding and casting vote as justification for proceeding without full board consensus."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "1996-04-08",
           "Text": "The signing director did not obtain or review the underlying supply contract between the concrete supplier and the contractor before executing the guarantee."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "1996-04-08",
           "Text": "The company did not obtain legal advice on the terms or implications of the guarantee before it was signed."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "1994",
+          "Fact_Date": "1996-04-08",
           "Text": "The signing director proceeded on the assumption that if the contractor defaulted, the company could offset the payments against progress amounts due to the contractor."
         },
         {
@@ -297,7 +297,7 @@
         },
         {
           "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "1996-01-01",
+          "Fact_Date": "1996-04-01",
           "Text": "A representative of the contractor suggested that the issuance of the guarantee would lead to the installation of an on-site batching plant, aiding project completion."
         }
       ],

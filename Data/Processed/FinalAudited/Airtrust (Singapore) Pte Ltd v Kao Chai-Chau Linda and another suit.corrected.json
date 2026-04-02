@@ -85,7 +85,7 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
+          "Fact_Date": "2012-01-01",
           "Text": "Suit No 1015 of 2012 is an action brought in the name of Airtrust (Singapore) Pte Ltd by its Receivers and Managers against Linda Kao Chai-Chau and 15 other individuals, including corporate entities."
         }
       ],
@@ -196,17 +196,17 @@
       "Facts": [
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1996",
+          "Fact_Date": "1996-01-01",
           "Text": "In 1996, Peter Fong was the majority shareholder and Chairman of Airtrust (Singapore) Pte Ltd when Linda Kao Chai-Chau was appointed as managing director."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2006",
+          "Fact_Date": "2006-01-01",
           "Text": "Around 2006, Peter Fong transferred the majority of his shares in Airtrust (Singapore) Pte Ltd to the Fong Foundation charitable trust, after which he held about 3.6% of the shares and the Fong Foundation held about 51%."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "",
+          "Fact_Date": "2008-04-25",
           "Text": "On 2008-04-25, Peter Fong, then Chairman of Airtrust (Singapore) Pte Ltd, passed away."
         }
       ],

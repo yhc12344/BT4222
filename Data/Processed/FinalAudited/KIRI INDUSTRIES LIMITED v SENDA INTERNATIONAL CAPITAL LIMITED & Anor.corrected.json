@@ -353,37 +353,37 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1998",
+          "Fact_Date": "1998-01-01",
           "Text": "Kiri Industries Limited is an Indian incorporated company listed on the National Stock Exchange and the Bombay Stock Exchange and is in the business of manufacturing and selling reactive dyes, dye intermediates, and basic chemicals."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1998",
+          "Fact_Date": "1998-01-01",
           "Text": "Pravinchandra Amrutlal Kiri's son, Manishkumar Pravinchandra Kiri, has served as Managing Director of Kiri Industries Limited."
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "",
+          "Fact_Date": "1990-12-01",
           "Text": "From the late 1990s, Kiri regularly supplied dyes to Pre-Acquisition DyStar, which was based in Germany."
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2007",
+          "Fact_Date": "2007-01-01",
           "Text": "In 2007, Zhejiang Longsheng Group Co., Ltd was looking for potential investment opportunities in India, and its employee Xiang Zhifeng became acquainted with Manishkumar Pravinchandra Kiri, leading to negotiations between Kiri Industries Limited and Longsheng."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2008",
+          "Fact_Date": "2008-01-01",
           "Text": "In 2008, Kiri Industries Limited and Well Prospering Limited entered into a joint venture agreement to establish Lonsen Kiri Chemical Industries Limited in India, with Kiri holding 40% of the shares and Well Prospering Limited holding 60%."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008",
+          "Fact_Date": "2008-01-01",
           "Text": "Under the 2008 joint venture, Lonsen Kiri Chemical Industries Limited was intended to manufacture reactive dyes in India using technical know-how exchanged between Kiri Industries Limited and Zhejiang Longsheng Group Co., Ltd, with Longsheng identifying customers through its network."
         },
         {
           "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2009",
+          "Fact_Date": "2009-01-01",
           "Text": "In 2009, Manishkumar Pravinchandra Kiri learned that Platinum Equity was seeking to sell the pre-acquisition DyStar group and introduced Ruan Weixiang and Xiang Zhifeng of Zhejiang Longsheng Group Co., Ltd to Platinum Equity to explore a joint acquisition with Kiri Industries Limited."
         },
         {
@@ -479,7 +479,7 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2015-10-21",
-          "Text": "On 21 October 2015, Amit emailed Viktor, copied to Eric and Xu, requesting, interয়া copy of the Cash-pooling Agreement."
+          "Text": "On 21 October 2015, Amit emailed Viktor, copied to Eric and Xu, requesting, inter alia copy of the Cash-pooling Agreement."
         },
         {
           "Fact_Type": "COMMUNICATION",

@@ -108,37 +108,37 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1996",
+          "Fact_Date": "1996-01-01",
           "Text": "Seen Joo Company Pte Ltd was incorporated in 1996 as a company engaged in general wholesale business, including trading in electronic components, electrical cables, network cables, and accessories."
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1996",
+          "Fact_Date": "1996-01-01",
           "Text": "Seen Joo Company Pte Ltd operated as a family-run business."
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1996",
+          "Fact_Date": "1996-01-01",
           "Text": "Before the incorporation of Seen Joo Company Pte Ltd in 1996, the business operated as a partnership founded by the fourth defendant and the third defendant, who are husband and wife."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "1996-01-01",
           "Text": "During the partnership period before 1996, the fourth defendant led and managed the partnership business that later became Seen Joo Company Pte Ltd."
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "1993",
+          "Fact_Date": "1993-01-01",
           "Text": "HLC Enterprises Pte Ltd was incorporated in 1993, and the second, third, and fifth defendants were shareholders of HLC Enterprises Pte Ltd."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1993",
+          "Fact_Date": "1993-01-01",
           "Text": "Around 1993, the second, third, and fifth defendants, as shareholders of HLC Enterprises Pte Ltd, were involved in appointing Lim Kok Leong as managing director of HLC Enterprises Pte Ltd."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "2014-07-01",
           "Text": "On 1 July 2014, Seen Joo Company Pte Ltd and its active directors did not grant Lim Kok Leong’s request to inspect the accounting and other records of the company for the last five years."
         }
       ],

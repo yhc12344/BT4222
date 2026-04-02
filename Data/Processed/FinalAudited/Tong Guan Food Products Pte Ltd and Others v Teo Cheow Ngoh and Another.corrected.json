@@ -57,12 +57,12 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1984",
+          "Fact_Date": "1984-01-01",
           "Text": "Tong Garden Holdings Sdn Bhd, referred to as TG Holdings (M), was the second plaintiff and a subsidiary of Tong Guan Food Products Pte Ltd."
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1984",
+          "Fact_Date": "1984-01-01",
           "Text": "TG Holdings (M) was part of the Tong Garden group of companies involved in manufacturing and selling snack food under the trade names \"Tong Garden\" and \"NOI\"."
         }
       ],
@@ -147,7 +147,7 @@
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "",
+          "Fact_Date": "1984-01-01",
           "Text": "TG Snack Food (M) was part of the Tong Garden group of companies engaged in manufacturing and selling snack food under the trade names \"Tong Garden\" and \"NOI\"."
         },
         {

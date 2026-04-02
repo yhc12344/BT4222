@@ -189,37 +189,37 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1991-05",
+          "Fact_Date": "1991-05-01",
           "Text": "Scotts Investments (Singapore) Pte Ltd was incorporated in May 1991 to hold the Jumabhoy family’s stake in a public listed company."
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1991-05",
+          "Fact_Date": "1991-05-01",
           "Text": "Scotts Investments (Singapore) Pte Ltd held the Jumabhoy family’s stake in Scotts Holding Ltd."
         },
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1991-05",
+          "Fact_Date": "1991-05-01",
           "Text": "Lion City Holdings Pte Ltd was a main subsidiary of the company."
         },
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1991-05",
+          "Fact_Date": "1991-05-01",
           "Text": "Lion City Holdings Pte Ltd was a subsidiary of Scotts Investments (Singapore) Pte Ltd."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
+          "Fact_Date": "1995-01-01",
           "Text": "By the mid-1990s, the company experienced a financial crisis that threatened its solvency."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
+          "Fact_Date": "1995-01-01",
           "Text": "Bank lenders became alarmed about the company’s financial position and credit facilities during the crisis."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "1995-01-01",
           "Text": "The company's owners and directors were concerned about imminent bank enforcement actions."
         },
         {
@@ -249,12 +249,12 @@
         },
         {
           "Fact_Type": "DOCUMENT",
-          "Fact_Date": "",
+          "Fact_Date": "1991-01-01",
           "Text": "The company's Articles of Association required any director remuneration to be determined by a general meeting."
         },
         {
           "Fact_Type": "DOCUMENT",
-          "Fact_Date": "",
+          "Fact_Date": "1991-01-01",
           "Text": "Article 80 of the company's constitution mandated that any payment for extra services be a fixed sum determined by the directors."
         },
         {

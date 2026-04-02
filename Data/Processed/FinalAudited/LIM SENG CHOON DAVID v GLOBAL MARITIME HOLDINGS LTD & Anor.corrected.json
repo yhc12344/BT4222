@@ -18,7 +18,7 @@
       "Facts": [
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "",
+          "Fact_Date": "2014-01-01",
           "Text": "Lim Seng Choon David was an employee of Global Maritime Holdings Ltd and a director of Global Maritime Consultancy Pte Ltd."
         },
         {
@@ -84,7 +84,7 @@
       ],
       "Issue": "Whether an executive's early retirement discussions resulted in a binding oral agreement, and whether his prior conduct regarding company expenses and related-party leases constituted a breach of director's duties.",
       "Rule": "An oral contract is formed only when parties manifest mutual assent to sufficiently certain terms with an intention to create legal relations. Directors of companies must ensure that company resources are used for proper corporate purposes, that related-party transactions are properly disclosed, and that expense claims align with the company’s commercial interests and internal authorization processes.",
-      "Application": "The dispute concerns the enforceability of an unwritten retirement package and the validity of a director's self-approval of travel expenses and property leases involving his spouse. The legal tension focuses on whether these actions constituted authorized benefits or a breach of directorial duty.",
+      "Application": "The dispute concerns an unwritten retirement package and the validity of a director's self-approval of travel expenses and property leases involving his spouse. The legal tension focuses on whether these actions constituted authorized benefits or a breach of directorial duty.",
       "Judicial_Reasoning_Log": "The court found that no binding oral agreement was formed during the retirement discussions, as the parties were merely negotiating and material terms remained unsettled. Regarding the executive's conduct, the court determined he breached his fiduciary duties to act honestly and avoid conflicts of interest. The overseas trips, personal expense claims, custom gold items, and related-party leases were found to be unauthorized, self-serving, and contrary to the company's interests. The executive's claims for the retirement package were dismissed, and he was held liable to reimburse the company for the wrongfully claimed expenses and associated losses."
     },
     "Label": "Claim Dismissed",
@@ -246,7 +246,7 @@
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2014-01-01",
-          "Text": "In 2014, Global Maritime Consultancy Pte Ltd recorded eight trips by the director to Hong Kong and China as business travel expenses charged to the company."
+          "Text": "In 2014, Global Maritime Consultancy Pte Ltd recorded eight trips by the director to Hong Kong and China as business travel expenses."
         },
         {
           "Fact_Type": "COMMUNICATION",
@@ -315,7 +315,7 @@
         }
       ],
       "Issue": "Whether a subsidiary company is bound by an alleged oral retirement agreement, and whether its director breached fiduciary duties by approving his own personal expenses, related-party leases, and unauthorized benefits.",
-      "Rule": "A company is bound by an oral agreement only if its authorized representatives manifest assent to clear and definite terms. Company directors have a strict fiduciary duty to ensure company funds are applied for corporate purposes, to properly disclose related-party transactions, and to avoid self-dealing in expense approvals and contractual arrangements.",
+      "Rule": "A company is bound by an oral agreement only if its authorized representatives manifest assent to clear and definite terms. Company directors have a strict fiduciary duty to ensure that company funds are applied for corporate purposes, to properly disclose related-party transactions, and to avoid self-dealing in expense approvals and contractual arrangements.",
       "Application": "The company engaged in negotiations for an executive's retirement package that were never formalized into a signed contract. During his tenure, the director authorized numerous company payments for personal and family benefit, including luxury items, family vacations, and daily personal living expenses. Furthermore, he terminated a company property lease to his wife only to immediately re-sign a new lease for the same property at an increased rental rate, all without independent corporate approval or full disclosure.",
       "Judicial_Reasoning_Log": "The court found that no binding oral agreement existed regarding the retirement package, thereby dismissing the claims for the severance terms. On the issue of the director's conduct, the court held that the director breached his fiduciary duties to act honestly and avoid conflicts of interest. The approval of his own travel, personal expenses, custom gold products, and related-party leases constituted clear breaches of trust. The court ordered the director to reimburse the company for the wrongfully claimed expenses, real estate commissions, and any damages arising from the self-interested related-party transactions."
     },

@@ -15,7 +15,7 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
+          "Fact_Date": "2013-01-01",
           "Text": "Sakae Holdings Ltd is a listed company in Singapore and was the plaintiff in Suits No 1098 of 2013 and No 122 of 2013."
         },
         {
@@ -135,7 +135,7 @@
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-05-24",
+          "Fact_Date": "2012-05-07",
           "Text": "On 2012-05-07, at an extraordinary general meeting of Griffin Real Estate Investment Holdings Pte Ltd, the shareholders passed a resolution approving a Second Loan Agreement under which the company extended a further $10,000,000 loan to ERC Unicampus Pte Ltd; the Second Loan Agreement was dated 2012-05-07 and signed by Ho Yew Kong for Griffin Real Estate Investment Holdings Pte Ltd and by Andy Ong for ERC Unicampus Pte Ltd."
         },
         {
@@ -145,7 +145,7 @@
         },
         {
           "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-05-31",
+          "Fact_Date": "2012-06-06",
           "Text": "On 2012-06-06, Andy Ong informed Douglas Foo Peow Yong that ERC Holdings Pte Ltd intended to exercise an option to subscribe for shares in Griffin Real Estate Investment Holdings Pte Ltd."
         },
         {
@@ -228,7 +228,7 @@
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2010-01-01",
+          "Fact_Date": "2013-07-12",
           "Text": "Until 2013-07-12, Ho Yew Kong was the sole director of ERC Unicampus Pte Ltd, after which he was replaced by Ong Han Boon."
         }
       ],
@@ -424,7 +424,7 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
+          "Fact_Date": "2013-01-01",
           "Text": "Douglas Foo Peow Yong was the third party in Suit No 1098 of 2013 and Suit No 122 of 2013 and the respondent in Civil Appeals Nos 103 and 104 of 2017."
         },
         {

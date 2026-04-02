@@ -17,12 +17,12 @@
       "Facts": [
         {
           "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2005",
+          "Fact_Date": "2005-01-01",
           "Text": "Tan Eck Hong and Maxz Universal Development Group Pte Ltd were shareholders of Treasure Resort Pte Ltd before the dispute."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "2005-03-01",
           "Text": "Around March 2005, discussions took place between Seeto Keong and Lim Chong Poon about incorporating Treasure Resort Pte Ltd with Maxz Universal Development Group Pte Ltd as majority shareholder to take over a Sentosa lease and hotel from Sijori Resort (Sentosa) Pte Ltd."
         },
         {
@@ -73,17 +73,17 @@
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2005-12-07",
-          "Text": "In early December 2005, MDG was so short of funds that Seeto asked TEH to lend $160,000 to MDG for just three weeks; the loan was to be repaid by 24 December 2005."
+          "Text": "In early December 2005, MDG was so short of funds that Seeto had to ask TEH to lend 160,000 to MDG for just three weeks. TEH said that Seeto offered him 2% of TR’s shares in return for the said loan, which was to be repaid by 24 December 2005. Seeto handed over to TEH a handwritten note dated 7 December 2005 (“the Letter Agreement”), which stated as follows:"
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2005-12-07",
-          "Text": "On 7 December 2005, a handwritten note acknowledged receipt of SGD160,000 from Mr EH Tan on a loan basis to be returned by 24 Dec 2005 and stated that, as a gesture of goodwill, MDG would provide an additional 2% to his existing 8% shareholding in TR."
+          "Text": "We hereby acknowledge the receipt of SGD160,000 from Mr EH Tan on a loan basis which is to be returned by 24 Dec 2005.\nAs a gesture of goodwill, MDG will provide an additional 2 per cent (2%) to his existing shareholding of 8 per cent (8%) in Treasure Resort Pte Ltd. The share transfer shall be exercised after ... 7 December 2005."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2005-12-07",
-          "Text": "The Letter Agreement stated that the share transfer shall be exercised after 7 December 2005."
+          "Text": "The Letter Agreement stated that the share transfer shall be exercised after ... 7 December 2005."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
@@ -93,7 +93,7 @@
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2006-08-08",
-          "Text": "On 8 August 2006, Seeto, TEH and Chiang entered into the First Shareholders’ Agreement."
+          "Text": "On 8 August 2006, Seeto, TEH and Chiang entered into a shareholders’ agreement (“the First Shareholders’ Agreement”)."
         },
         {
           "Fact_Type": "DOCUMENT",
@@ -103,7 +103,7 @@
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2006-08-08",
-          "Text": "Clause 5.3 of the First Shareholders’ Agreement provided that unanimous consent of all shareholders was required for, among other things, an amendment to the Memorandum or Articles of Association, any change in the shareholders of the Company or the appointment or removal of directors."
+          "Text": "Clause 5.3 of the First Shareholders’ Agreement provided that the unanimous consent of all the shareholders was required for, among other things, an amendment to the Memorandum of Association or the Articles of Association, any change in the shareholders of the Company or the appointment or removal of directors and on any matter referred by the directors to be approved by the shareholders."
         },
         {
           "Fact_Type": "BOARD_ACTION",
@@ -128,7 +128,7 @@
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2006-12-05",
-          "Text": "On 5 December 2006, Seeto, Chiang and TEH entered into a Supplemental Agreement to the First Shareholders’ Agreement."
+          "Text": "On 5 December 2006, Seeto, Chiang and TEH entered into a Supplemental Agreement to the First Shareholders’ Agreement (“the Supplemental Agreement”)."
         },
         {
           "Fact_Type": "DOCUMENT",
@@ -193,7 +193,7 @@
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2007-05-11",
-          "Text": "The deed of termination and release in relation to the MOU signed by TEH provided in its recital that MDG, the majority shareholder of TR, 'has agreed to transfer 626,000 of its shares in TR to TEH'."
+          "Text": "The deed of termination and release in relation to the MOU signed by TEH provided in its recital that MDG, the majority shareholder of TR, “has agreed to transfer 626,000 of its shares in TR to TEH”."
         },
         {
           "Fact_Type": "DOCUMENT",
@@ -233,7 +233,7 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2007-09-12",
-          "Text": "On 12 September 2007, Rodney's reply to TEH's claim for 13% of TR's shares consisted of the words 'As discussed'."
+          "Text": "On 12 September 2007, Rodney's reply to TEH's claim for 13% of TR's shares consisted of the words \"As discussed\"."
         },
         {
           "Fact_Type": "COMMUNICATION",

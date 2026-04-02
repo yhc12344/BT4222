@@ -30,47 +30,47 @@
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017",
+          "Fact_Date": "2017-01-01",
           "Text": "PCL obtained loan facilities from Maybank Banking Berhad and DBS Bank Ltd to fund the purchase of cars that were leased to Supreme Leasing & Limousine Pte Ltd and other customers."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2017",
+          "Fact_Date": "2017-01-01",
           "Text": "PCL entered into leasing arrangements under which Supreme Leasing & Limousine Pte Ltd took possession of cars owned by PCL while ownership of the cars remained with PCL."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017",
+          "Fact_Date": "2017-01-01",
           "Text": "Under a back-to-back arrangement, payments that Supreme Leasing & Limousine Pte Ltd received from its hirers were paid to PCL, and PCL in turn paid Maybank Banking Berhad and DBS Bank Ltd for the mortgage on the cars and other operating expenses such as road tax and insurance premiums."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2017",
+          "Fact_Date": "2017-01-01",
           "Text": "PCL leased 23 cars to Supreme Leasing & Limousine Pte Ltd at rates that were cheaper than market rates."
         },
         {
           "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2018-05",
+          "Fact_Date": "2018-05-01",
           "Text": "By May 2018, PCL had a fleet of 64 cars, of which 23 cars were leased to Supreme Leasing & Limousine Pte Ltd."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2018-06",
+          "Fact_Date": "2018-06-01",
           "Text": "From May 2018, Supreme Leasing & Limousine Pte Ltd stopped paying PCL the monthly rentals for the 23 cars it had leased from PCL, with total monthly rentals of about $60,000."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
+          "Fact_Date": "2018-06-01",
           "Text": "Following the cessation of monthly rental payments by Supreme Leasing & Limousine Pte Ltd, PCL was unable to pay instalments due under its loan facilities with Maybank Banking Berhad and DBS Bank Ltd and other expenses such as insurance premiums for the 23 cars."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "2018-07-01",
           "Text": "Between July 2018 and October 2018, PCL sold 18 cars, including 14 cars to Zenith Automobile Pte Ltd and four cars to SKL Automobile Pte Ltd and Fu Ee Cars Pte Ltd."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2018-08-23",
+          "Fact_Date": "2018-07-26",
           "Text": "Between 2018-07-26 and 2018-08-23, PCL sold 14 cars to Zenith Automobile Pte Ltd for a total price of $1,085,000."
         },
         {
@@ -82,7 +82,7 @@
       "Issue": "Whether the sale of 14 cars owned by PCL to Zenith Automobile Pte Ltd and the transfer of $289,700.47 of balance sale proceeds to the personal bank account of Lim Siew Ling, in the context of PCL's financing arrangements and leasing structure, resulted in a shortfall to PCL compared to the amounts that would have been available to PCL if the cars had been sold and proceeds retained in PCL's accounts.",
       "Rule": "A company director must manage company assets and transactions so that they are commercially justifiable from the company's perspective, taking into account the company's financial position, existing financing arrangements, and the nature of counterparties, and to ensure that company funds and sale proceeds of company assets are applied for company purposes rather than diverted to personal accounts, unless there is a documented basis for reimbursement or remuneration.",
       "Application": "PCL operated a leasing business funded by loan facilities from Maybank Banking Berhad and DBS Bank Ltd, with a back-to-back flow of rental payments from Supreme Leasing & Limousine Pte Ltd to PCL and then to the banks. In mid-2018, Supreme Leasing & Limousine Pte Ltd stopped paying approximately $60,000 per month in rentals for 23 cars, while PCL remained responsible for loan instalments and operating expenses. Between July and August 2018, PCL sold 14 cars to Zenith Automobile Pte Ltd for $1,085,000, used part of the proceeds to discharge bank loans, and arranged for $1,672.75 of the balance to be paid to PCL and $289,700.47 to be paid to the personal bank account of Lim Siew Ling. These transfers occurred while PCL's bank accounts showed low balances or overdrafts and while PCL still had obligations on remaining cars. The structure of these transactions created a situation where a substantial portion of net sale proceeds from PCL-owned assets was held outside PCL's bank accounts.",
-      "Judicial_Reasoning_Log": "The court analysed whether Lim Siew Ling, as sole director of PCL at the material time, acted honestly and with reasonable diligence in causing PCL to sell 14 cars to Zenith Automobile Pte Ltd and in arranging for $289,700.47 of balance sale proceeds to be transferred to her personal bank account. It held that under s 157A of the Companies Act and PCL's governance structure, management powers rested with the board, and Lim, as sole director, had authority to sell the cars without needing consent from the Neo sisters as shareholders. The court rejected the plaintiff's contention that Lim lacked authority because she was only a de facto 40% shareholder, noting that share regularisation occurred after the sales and that shareholders cannot ratify or negate statutory director duties where criminal sanctions may apply.\n\nOn pricing, the court compared Zenith's total purchase price of $1,085,000 with figures advanced by Heng Hong Hing for hypothetical direct sales and accepted evidence from both Heng and Zenith's director, Tan Teck Ann, that dealer prices are typically 5–10% below open market prices. It found that the prices paid by Zenith were consistent with dealer market prices, that Lim had obtained comparative quotes from other dealers, and that some cars were in fact sold to SKL Automobile Pte Ltd and Fu Ee Cars Pte Ltd, which undermined any suggestion of a special arrangement with Zenith. The court concluded that the 14 cars were not sold at undervalue and that the transactions were conducted at arm's length.\n\nRegarding the transfer of the 13 cars' balance sale proceeds to Lim's personal account, the court examined PCL's financial position in mid-2018. Bank statements showed minimal balances or overdrafts in PCL's DBS and Maybank accounts, while loan instalments under the Maybank and DBS facilities remained due and Supreme Leasing & Limousine Pte Ltd had stopped paying rentals on 23 cars. The court accepted that if the net sale proceeds had been paid into PCL's accounts, the banks could have set off the funds against overdue loan instalments, leaving PCL without liquidity to pay operating expenses such as insurance, road tax, repairs and other obligations. Lim was also a guarantor under the loan facilities. The court found that Lim reasonably anticipated ongoing obligations for 10 unrepossessed cars and other expenses and that transferring a substantial buffer to her personal account was a commercially justifiable way to preserve liquidity for PCL's operations.\n\nThe court then scrutinised Lim's use of the funds. It found that she paid $47,213.64 towards PCL's loan facilities, road tax and miscellaneous expenses, $32,130.13 for insurance premiums, $6,660 for towing charges, and refunded $51,060 in security deposits to lessees, less $6,042 already reimbursed, totalling $131,021.77. The court accepted documentary support for these payments. It considered whether Lim should have forfeited three security deposits totalling $45,500 and claimed additional lease payments upon early termination. Lim's explanation that the lessees were long-term repeat customers who generated ongoing business and referrals for the Prime Cars Group was accepted as commercially sensible. The court held that a director may take a broader view of the company's interests and that returning deposits and not pursuing further sums in these circumstances was commercially justifiable and consistent with PCL's long-term interests.\n\nThe court noted that Lim also claimed that the remaining balance of the $289,700.47 represented unpaid salary and transport allowance from PCL, forming part of her counterclaim. It treated this as a separate remuneration issue and not as evidence of misappropriation. The court rejected the plaintiff's reliance on two transfers from PCL's DBS account to Lim's personal account ($5,516 and $4,000) as indicative of dishonesty, given the broader pattern of Lim funding PCL's expenses from her own resources during the liquidity crisis.\n\nThe court was critical of the conduct of the Neo sisters and Heng Hong Hing, finding that they instructed Supreme Leasing & Limousine Pte Ltd to stop paying rentals to PCL and concealed 10 cars, fully aware that PCL depended on those rentals to service its bank loans. It characterised their actions as the cause of PCL's liquidity crisis and noted that they later used the resulting financial distress as the basis for claims against Lim. Nonetheless, the court confined its legal analysis to whether Lim's conduct met the statutory and fiduciary standards and concluded that she acted honestly and with reasonable diligence in managing PCL's affairs during the crisis.\n\nOn the dishonest assistance claim against Zenith, the court applied the elements from George Raymond Zage III v Ho Chi Kwong, requiring a breach of fiduciary duty, assistance, and dishonesty. Having found no breach by Lim, the claim failed at the threshold. In any event, the court held that Zenith's director, Tan, did not know Lim before the transactions, negotiated at market dealer prices, and only agreed to pay the balance proceeds to Lim personally after conducting an ACRA search confirming that she was PCL's sole director and shareholder and that there were no charges on PCL. The court found no evidence of assistance in any breach or of dishonesty.\n\nOn knowing receipt, the court applied the elements from Ho Chi Kwong, including disposal of assets in breach of fiduciary duty and knowledge that the assets derived from such a breach. It held that because the cars were sold at market value and there was no breach by Lim, there was no improper disposal of assets and no basis to conclude that Zenith received any benefit traceable to a breach. The claim for knowing receipt was therefore dismissed.\n\nOn conspiracy by unlawful means, the court referred to EFT Holdings and subsequent authorities, requiring a combination, intention to injure, unlawful acts, acts in furtherance, and resulting loss. It found no evidence of any agreement, express or implied, between Lim and Tan to injure PCL, and reiterated that there was no underlying unlawful act because Lim had not breached her duties. The conspiracy claim was dismissed as baseless.\n\nThe court therefore dismissed PCL's claims in their entirety and, as a consequence, did not need to determine the merits of Lim's third party claims against Supreme Leasing & Limousine Pte Ltd, Heng Hong Hing and the Neo sisters. It proceeded to consider Lim's counterclaim for reimbursement of expenses and remuneration, finding that she was entitled to reimbursement of undisputed expenses and addressing separately the disputed components relating to security deposits and director's salary and transport allowance."
+      "Judicial_Reasoning_Log": "The court analysed whether Lim Siew Ling, as sole director of PCL at the material time, acted honestly and with reasonable diligence in causing PCL to sell 14 cars to Zenith Automobile Pte Ltd and in arranging for $289,700.47 of balance sale proceeds to be transferred to her personal bank account. It held that under s 157A of the Companies Act and PCL's governance structure, management powers rested with the board, and Lim, as sole director, had authority to sell the cars without needing consent from the Neo sisters as shareholders. The court rejected the plaintiff's contention that Lim lacked authority because she was only a de facto 40% shareholder, noting that share regularisation occurred after the sales and that shareholders cannot ratify or negate statutory director duties where criminal sanctions may apply.\n\nOn pricing, the court compared Zenith's total purchase price of $1,085,000 with figures advanced by Heng Hong Hing for hypothetical direct sales and accepted evidence from both Heng and Zenith's director, Tan Teck Ann, that dealer prices are typically 5–10% below open market retail prices. It found that the prices paid by Zenith were consistent with dealer market prices, that Lim had obtained comparative quotes from other dealers, and that some cars were in fact sold to SKL Automobile Pte Ltd and Fu Ee Cars Pte Ltd, which undermined any suggestion of a special arrangement with Zenith. The court concluded that the 14 cars were not sold at undervalue and that the transactions were conducted at arm's length.\n\nRegarding the transfer of the 13 cars' balance sale proceeds to Lim's personal account, the court examined PCL's financial position in mid-2018. Bank statements showed minimal balances or overdrafts in PCL's DBS and Maybank accounts, while loan instalments under the Maybank and DBS facilities remained due and Supreme Leasing & Limousine Pte Ltd had stopped paying rentals on 23 cars. The court accepted that if the net sale proceeds had been paid into PCL's accounts, the banks could have set off the funds against overdue loan instalments, leaving PCL without liquidity to pay operating expenses such as insurance, road tax, repairs and other obligations. Lim was also a guarantor under the loan facilities. The court found that Lim reasonably anticipated ongoing obligations for 10 unrepossessed cars and other expenses and that transferring a substantial buffer to her personal account was a commercially justifiable way to preserve liquidity for PCL's operations.\n\nThe court then scrutinised Lim's use of the funds. It found that she paid $47,213.64 towards PCL's loan facilities, road tax and miscellaneous expenses, $32,130.13 for insurance premiums, $6,660 for towing charges, and refunded $51,060 in security deposits to lessees, less $6,042 already reimbursed, totalling $131,021.77. The court accepted documentary support for these payments. It considered whether Lim should have forfeited three security deposits totalling $45,500 and claimed additional lease payments upon early termination. Lim's explanation that the lessees were long-term repeat customers who generated ongoing business and referrals for the Prime Cars Group was accepted as commercially sensible. The court held that a director may take a broader view of the company's interests and that returning deposits and not pursuing further sums in these circumstances was commercially justifiable and consistent with PCL's long-term interests.\n\nThe court noted that Lim also claimed that the remaining balance of the $289,700.47 represented unpaid salary and transport allowance from PCL, forming part of her counterclaim. It treated this as a separate remuneration issue and not as evidence of misappropriation. The court rejected the plaintiff's reliance on two transfers from PCL's DBS account to Lim's personal account ($5,516 and $4,000) as indicative of dishonesty, given the broader pattern of Lim funding PCL's expenses from her own resources during the liquidity crisis.\n\nThe court was critical of the conduct of the Neo sisters and Heng Hong Hing, finding that they instructed Supreme Leasing & Limousine Pte Ltd to stop paying rentals to PCL and concealed 10 cars, fully aware that PCL depended on those rentals to service its bank loans. It characterised their actions as the cause of PCL's liquidity crisis and noted that they later used the resulting financial distress as the basis for claims against Lim. Nonetheless, the court confined its legal analysis to whether Lim's conduct met the statutory and fiduciary standards and concluded that she acted honestly and with reasonable diligence in managing PCL's affairs during the crisis.\n\nOn the dishonest assistance claim against Zenith, the court applied the elements from George Raymond Zage III v Ho Chi Kwong, requiring a breach of fiduciary duty, assistance, and dishonesty. Having found no breach by Lim, the claim failed at the threshold. In any event, the court held that Zenith's director, Tan, did not know Lim before the transactions, negotiated at market dealer prices, and only agreed to pay the balance proceeds to Lim personally after conducting an ACRA search confirming that she was PCL's sole director and shareholder and that there were no charges on PCL. The court found no evidence of assistance in any breach or of dishonesty.\n\nOn knowing receipt, the court applied the elements from Ho Chi Kwong, including disposal of assets in breach of fiduciary duty and knowledge that the assets derived from such a breach. It held that because the cars were sold at market value and there was no breach by Lim, there was no improper disposal of assets and no basis to conclude that Zenith received any benefit traceable to a breach. The claim for knowing receipt was therefore dismissed.\n\nOn conspiracy by unlawful means, the court referred to EFT Holdings and subsequent authorities, requiring a combination, intention to injure, unlawful acts, acts in furtherance, and resulting loss. It found no evidence of any agreement, express or implied, between Lim and Tan to injure PCL, and reiterated that there was no underlying unlawful act because Lim had not breached her duties. The conspiracy claim was dismissed as baseless.\n\nThe court therefore dismissed PCL's claims in their entirety and, as a consequence, did not need to determine the merits of Lim's third party claims against Supreme Leasing & Limousine Pte Ltd, Heng Hong Hing and the Neo sisters. It proceeded to consider Lim's counterclaim for reimbursement of expenses and remuneration, finding that she was entitled to reimbursement of undisputed expenses and addressing separately the disputed components relating to security deposits and director's salary and transport allowance."
     },
     "Label": "Claim Dismissed",
     "Leakage_Score": 0
@@ -103,7 +103,7 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "",
+          "Fact_Date": "2017-01-01",
           "Text": "Zenith Automobile Pte Ltd is a Singapore-incorporated company in the business of buying and selling used cars."
         },
         {
@@ -171,17 +171,17 @@
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2013-10",
+          "Fact_Date": "2013-10-01",
           "Text": "After the death of Neo Nam Kah in October 2013, Lim Siew Ling inherited his shares in Prime Cars Credit Pte Ltd."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2013-10",
+          "Fact_Date": "2013-10-01",
           "Text": "Following the death of Neo Nam Kah, Lim Siew Ling was appointed as a director of Prime Cars Credit Pte Ltd alongside Neo Choon Sian and Neo Yan."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2013-10",
+          "Fact_Date": "2015-03-27",
           "Text": "On the incorporation of Prime Cars Leasing Pte Ltd on 2015-03-27, Lim Siew Ling became its sole director and sole registered shareholder of 1,000 shares."
         },
         {
@@ -191,57 +191,57 @@
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2015",
+          "Fact_Date": "2015-01-01",
           "Text": "By 2017, Lim Siew Ling was the sole director of Prime Cars Leasing Pte Ltd and a director of Prime Cars Credit Pte Ltd."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017",
+          "Fact_Date": "2017-01-01",
           "Text": "From early 2017 to mid-2017, Lim Siew Ling drew a monthly salary of $8,000 from Prime Cars Credit Pte Ltd, which was later increased to $10,000 per month."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017",
+          "Fact_Date": "2018-05-01",
           "Text": "In May 2018, the monthly salary of $10,000 that Lim Siew Ling had been receiving from Prime Cars Credit Pte Ltd was stopped."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-05",
+          "Fact_Date": "2018-05-01",
           "Text": "In May 2018, Supreme Leasing & Limousine Pte Ltd, whose director was Heng Hong Hing, stopped paying monthly rentals to Prime Cars Leasing Pte Ltd for 23 cars, following instructions from Neo Choon Sian and Neo Yan, without informing Lim Siew Ling."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-05",
+          "Fact_Date": "2018-07-01",
           "Text": "By July 2018, Lim Siew Ling, as director of Prime Cars Leasing Pte Ltd, was dealing with a situation where Prime Cars Leasing Pte Ltd had low or overdrawn balances in its bank accounts with DBS Bank Ltd and Maybank Banking Berhad while loan instalments and operating expenses remained payable."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-07",
+          "Fact_Date": "2018-07-26",
           "Text": "Between 2018-07-26 and 2018-08-23, acting as director of Prime Cars Leasing Pte Ltd, Lim Siew Ling arranged the sale of 14 cars owned by Prime Cars Leasing Pte Ltd to Zenith Automobile Pte Ltd for $1,085,000."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "",
+          "Fact_Date": "2018-08-01",
           "Text": "In August 2018, Lim Siew Ling directed the repossession of 13 of the 23 cars that Prime Cars Leasing Pte Ltd had leased to Supreme Leasing & Limousine Pte Ltd."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2018-08",
+          "Fact_Date": "2018-08-01",
           "Text": "After payment of outstanding loans to Maybank Banking Berhad and DBS Bank Ltd from the sale proceeds of the 14 cars, Lim Siew Ling instructed Zenith Automobile Pte Ltd to transfer $1,672.75 of the remaining balance to Prime Cars Leasing Pte Ltd and $289,700.47, being the balance sale proceeds for 13 cars, to her personal bank account."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "",
+          "Fact_Date": "2018-08-01",
           "Text": "By August 2018, the use of a company car, a Toyota Alphard, previously available to Lim Siew Ling through Prime Cars Credit Pte Ltd, had been withdrawn and the vehicle was removed from her possession."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-08",
+          "Fact_Date": "2018-10-12",
           "Text": "On 2018-10-12, Lim Siew Ling transferred her registered shares in Prime Cars Leasing Pte Ltd and Prime Cars Credit Pte Ltd to the Neo sisters so that the shareholding in Prime Cars Leasing Pte Ltd reflected a 40:35:25 split among Lim Siew Ling, Neo Choon Sian, and Neo Yan."
         },
         {
           "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2018-10-12",
+          "Fact_Date": "2019-01-16",
           "Text": "On 2019-01-16, Lim Siew Ling ceased to be a director of Prime Cars Leasing Pte Ltd when she was removed from that position."
         }
       ],
