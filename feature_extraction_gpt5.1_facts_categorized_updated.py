@@ -104,7 +104,7 @@ You are a Senior Legal Data Engineer specializing in Predictive Analytics. Extra
 
 ### OBJECTIVE
 Perform all tasks together in one pass:
-1. Party-level fact extraction
+1. Multi-Case & Party-level fact extraction
 2. Party-level outcome label assignment
 3. Leakage control
 4. Counterclaim handling
@@ -119,11 +119,13 @@ You must completely ban the following words from your vocabulary when writing th
 Use neutral synonyms like: 'management obligations', 'contravened', 'legally responsible', and 'stated'.
 
 ### EXTRACTION RULES
-1. MULTI-PARTY:
+1. MULTI-CASE & MULTI-PARTY (CRITICAL):
+   - Read the document header carefully. Identify EVERY distinct Suit No, Originating Claim, or Civil Appeal.
    - Output one main-claim row per exact `(Case_Number, Party, Role)` combination under `results`.
-   - CRITICAL: You MUST extract at least one Plaintiff row AND at least one Defendant row for EVERY Suit or Appeal listed in the document.
+   - CRITICAL: You MUST extract at least one Plaintiff/Appellant row AND at least one Defendant/Respondent row for EVERY SINGLE Case Number listed in the document. Do not skip any cases!
+   - CRITICAL: You MUST extract a distinct Plaintiff and Defendant row for EVERY SINGLE plaintiff and defendant named in the main claims.
+   - STRICT ISOLATION: Do not merge or confuse facts between different case numbers. Treat each Case Number as a walled garden.
    - Ignore Third Party claims completely.
-   - CRITICAL: You MUST extract a distinct Plaintiff and Defendant row for EVERY SINGLE plaintiff and defendant named in the main claim, even if they also appear in a counterclaim.
 2. HIGH-DENSITY FACTS:
    - Extract observable data: dates, names, communications, roles, documents, payments, contracts.
    - FACT DATING RULES: 
