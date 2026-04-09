@@ -1,0 +1,313 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "CA 206/1999 (Suit No unknown)",
+      "Coram": "Chao Hick Tin JA; L P Thean JA; Yong Pung How CJ",
+      "Judge": "",
+      "Date": "2000-07-03",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Kea Holdings Pte Ltd",
+      "Law_Firm": "Hee Theng Fong & Co",
+      "Counsel": [
+        "Hee Theng Fong",
+        "Doris Damaris Lee",
+        "Marilyn Chia Lay Ling"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Kea Holdings Pte Ltd is the first appellant in Civil Appeal No CA 206/1999 and is a holding company."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "",
+          "Text": "Kea Holdings Pte Ltd is the parent company of Kea Resources Pte Ltd, which is a wholly-owned subsidiary."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "",
+          "Text": "Kea Holdings Pte Ltd holds 80% of the shares in Kea Maritime Pte Ltd, a company in the same group that sells vessels on an instalment basis."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-02-12",
+          "Text": "On 12 February 1999, Kea Holdings Pte Ltd together with Kea Resources Pte Ltd commenced proceedings against Gan Boon Hock comprising 16 claims for alleged breaches of management obligations, breach of confidence and fraudulent misrepresentation."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "",
+          "Text": "At first instance, the trial judge allowed five of the 16 claims brought by Kea Holdings Pte Ltd and Kea Resources Pte Ltd and dismissed the remainder, and allowed Gan Boon Hock's counterclaim for annual wage supplements, guaranteed bonuses and CPF contributions."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "",
+          "Text": "Kea Holdings Pte Ltd and Kea Resources Pte Ltd appealed against the High Court decision on seven dismissed claims but proceeded with only four claims during the appeal in CA 206/1999."
+        }
+      ],
+      "Issue": "Whether the appellants, including Kea Holdings Pte Ltd, could succeed on appeal in overturning parts of the High Court decision concerning alleged breaches of management obligations and fraudulent misrepresentation by Gan Boon Hock in relation to various vessel transactions and business opportunities.",
+      "Rule": "Appellate standards for reviewing findings on directors' management obligations and tort of deceit; principles under s 157(1) of the Companies Act requiring directors to act honestly and use reasonable diligence; equitable rules that a fiduciary must not place himself in a position where his duty and personal interest may conflict; and elements of fraudulent misrepresentation requiring a wilful false statement intended to be relied upon, actual reliance, and resulting damage.",
+      "Application": "The appellants argued that the trial judge erred in dismissing several claims, contending that Gan Boon Hock had breached his management obligations and committed fraudulent misrepresentation in relation to the Sinindo purchases, the cancellation of three barges from ZMEC, and the sales of the vessels 'Regal 8' and 'Orient VI'. They relied on authorities such as Industrial Development Consultants v Cooley, Hytech Builders Pte Ltd v Tan Eng Leong & Anor, and Bradford Third Equitable Benefit Building Society v Borders to argue that Gan should account for profits or compensate for losses even if the company might not otherwise have obtained the business, and that Kea Resources, as the ultimate beneficiary of the vessel sales, had sufficient proximity to sue. They submitted that the trial judge misapplied the law on fiduciary conflicts, mischaracterised the evidence on secret commissions and deposits, and wrongly restricted standing to claim losses to Kea Maritime instead of the appellants.",
+      "Judicial_Reasoning_Log": "The Court of Appeal reviewed each of the four appealed claims separately. For the Sinindo purchases, it upheld the trial judge's conclusion that the documentary evidence of an alleged secret commission was inadmissible hearsay and that, without proof of such commission, no conflict of interest or breach of fiduciary duty was established, so the claim remained dismissed. For the three barges 'Pacific 4', 'Pacific 5' and 'Pacific 7', the court agreed that Gan had no general duty to direct Sinindo's business to Kea Resources but found that he had misled Kea Resources about the existence of a willing buyer, causing the forfeiture of deposits; this misrepresentation breached his duty to act honestly under s 157 and justified ordering him to compensate the lost deposits. Regarding 'Regal 8', the court accepted that Gan had created two contracts with different prices but held that the appellants failed to prove any actual loss or that Gan received the disputed $100,000, and that any shortfall would in any event be a loss to Kea Maritime, so the appeal on that claim was dismissed. For 'Orient VI', the court disagreed with the trial judge's view that only the vendor Kea Maritime could sue, holding that Gan's fraudulent misrepresentation was also made to Kea Resources, which funded construction and was closely linked to Kea Maritime, and that Kea Resources suffered damage equal to the unpaid $35,000; it therefore allowed the appeal on that claim. Overall, the appeal succeeded on the second and fourth claims and failed on the first and third, and the appellants were awarded one-third of the costs of the appeal."
+    },
+    "Label": "Appeal Allowed in Part",
+    "Leakage_Score": 4
+  },
+  {
+    "Metadata": {
+      "Case_Number": "CA 206/1999 (Suit No unknown)",
+      "Coram": "Chao Hick Tin JA; L P Thean JA; Yong Pung How CJ",
+      "Judge": "",
+      "Date": "2000-07-03",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Kea Resources Pte Ltd",
+      "Law_Firm": "Hee Theng Fong & Co",
+      "Counsel": [
+        "Hee Theng Fong",
+        "Doris Damaris Lee",
+        "Marilyn Chia Lay Ling"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Kea Resources Pte Ltd is the second appellant in Civil Appeal No CA 206/1999 and is a wholly-owned subsidiary of Kea Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Kea Resources Pte Ltd is in the business of shipbuilding and the sale and purchase of vessels."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1993-07-15",
+          "Text": "On 15 July 1993, Gan Boon Hock joined Kea Resources Pte Ltd as a general manager and subsequently became its managing director, holding that position until 21 November 1998."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "",
+          "Text": "Kea Resources Pte Ltd stated that between mid-1995 and mid-1996, while Gan Boon Hock was its managing director, he caused Sinindo Pacific Pte Ltd to purchase five vessels from China Jiangsu Machinery & Equipment Import & Export Corporation (SUMEC), and claimed that this diverted business away from Kea Resources and caused a loss of S$1,266,559 in profits."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-08-22",
+          "Text": "Prior to 1996, Kea Resources Pte Ltd had ordered three barges from Zhejiang Machinery & Equipment Import & Export Corporation (ZMEC). On Gan Boon Hock's suggestion that there were no buyers and to avoid a 5% export duty, the chairman, Mr Kea Meng Cheng, agreed to cancel the orders, and the orders were cancelled on 22 August 1996, resulting in forfeiture of deposits totalling US$77,610."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "",
+          "Text": "Kea Resources Pte Ltd claimed that at the time of cancelling the ZMEC barge orders, Sinindo Pacific Pte Ltd was looking for barges of similar length and that Gan Boon Hock knew of this but did not inform Kea Resources."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "",
+          "Text": "Kea Resources Pte Ltd stated that it could have offered Sinindo Pacific Pte Ltd similar terms for three barges as Sinindo paid to SUMEC, and that the barges ordered from ZMEC and those ordered from SUMEC were of the same length and should be treated as interchangeable."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-11-15",
+          "Text": "According to the re-re-amended statement of claim, on or about 15 November 1995, Gan Boon Hock caused or procured Kea Resources Pte Ltd to sell the vessel 'Regal 8' through Kea Maritime Pte Ltd to Trisakti Utama Shipping Pte Ltd at a price of S$1,200,000 plus 5% per annum contractual interest charges, payable by 48 monthly instalments of S$30,000 inclusive of interest, totalling S$1,440,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "Kea Resources Pte Ltd bore the costs of construction of all vessels in China, including 'Regal 8', and also bore all other expenses, costs and disbursements for these vessels."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "",
+          "Text": "Under the group arrangement, Kea Maritime Pte Ltd would be the legal owner of vessels sold on instalment until completion of payments, and the proceeds received by Kea Maritime would then be transferred to Kea Resources Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1997-02-13",
+          "Text": "On 13 February 1997, the vessel 'Regal 8' sailed back to Singapore after mechanical difficulties arose while it was with Trisakti Utama Shipping Pte Ltd; Kea Resources Pte Ltd incurred S$338,493.29 for repairs, took the position that the instalment agreement was terminated, reasserted possession, and forfeited the instalment payments made."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "",
+          "Text": "In relation to 'Regal 8', Kea Resources Pte Ltd stated that there were two sale agreements between Kea Maritime Pte Ltd and Trisakti Utama Shipping Pte Ltd: one in Kea Maritime's possession showing a price of S$1.2 million, and another in Trisakti Utama's possession showing a price of S$1.3 million."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "Teddy Salim, associated with Trisakti Utama Shipping Pte Ltd, gave evidence that the contract he signed on behalf of Trisakti Utama was for S$1.3 million and that the agreement for S$1.2 million was a forgery."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "",
+          "Text": "Kea Resources Pte Ltd claimed that the genuine 'Regal 8' sale agreement for S$1.3 million provided for a S$100,000 deposit, and stated that this sum represented a secret commission retained through the use of two different contracts."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "",
+          "Text": "For the vessel 'Orient VI', Kea Resources Pte Ltd claimed to be the owner of the vessel, while Kea Maritime Pte Ltd acted as vendor in a sale to PT Ersihan Satya Pratama, a company controlled by Teddy Salim."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "",
+          "Text": "In the 'Orient VI' transaction, there were two sale agreements: one for S$685,000 in the possession of PT Ersihan Satya Pratama and another for S$650,000 in the possession of Kea Maritime Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "Teddy Salim acknowledged that the correct price for 'Orient VI' was S$685,000, that this amount was paid by PT Ersihan Satya Pratama, and that his signature on the S$650,000 agreement was a forgery."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "In relation to 'Orient VI', evidence accepted at trial indicated that a cash cheque of S$35,000, representing the difference between the two contract prices, was handed by PT Ersihan Satya Pratama to Gan Boon Hock and was not paid over to Kea Maritime Pte Ltd."
+        }
+      ],
+      "Issue": "Whether Kea Resources Pte Ltd could establish on appeal that (a) Gan Boon Hock breached management obligations by diverting Sinindo Pacific Pte Ltd's purchases and by misrepresenting the availability of buyers for three ZMEC barges, and (b) Gan committed fraudulent misrepresentation in the 'Regal 8' and 'Orient VI' transactions causing Kea Resources to suffer recoverable losses.",
+      "Rule": "Directors' duties under s 157(1) of the Companies Act to act honestly and use reasonable diligence, and the equitable rule that a fiduciary must not place himself in a position where his duty and personal interest may conflict; principles on cross-directorships and disclosure as discussed in Boulting v Association of Cinematograph, Television and Allied Technicians; authorities such as Industrial Development Consultants v Cooley and Hytech Builders Pte Ltd v Tan Eng Leong & Anor on diversion of corporate opportunities and accountability for profits; and the elements of the tort of deceit as set out in Bradford Third Equitable Benefit Building Society v Borders and Diamond v Bank of London and Montreal, requiring a wilful false statement, intention that the plaintiff rely, actual reliance, and resulting damage.",
+      "Application": "For the Sinindo purchases, Kea Resources Pte Ltd argued that Gan Boon Hock accepted a secret commission from SUMEC in connection with Sinindo's purchase of the vessel 'SP 2705', relying on banking documents and a letter from Fuchuen Machinery & Equipment indicating a remittance of US$173,303.40 to Gan's Citibank account, and contended that this placed him in a position of conflict and triggered liability under fiduciary principles and s 157. They submitted that, applying Industrial Development Consultants v Cooley and Hytech Builders, Gan should be accountable for profits or losses even if Sinindo might not otherwise have purchased from Kea Resources. For the three ZMEC barges, Kea Resources argued that Gan knew Sinindo was seeking similar 270-foot barges at the time he recommended cancellation, that the ZMEC and SUMEC barges were interchangeable in commercial terms, and that he breached his duty by failing to disclose the existence of a willing buyer and by prioritising Sinindo's interests. In relation to 'Regal 8', Kea Resources contended that Gan procured two inconsistent sale agreements at S$1.2 million and S$1.3 million, that the S$100,000 difference was structured as a deposit under the genuine contract, and that his misrepresentation of the sale price deprived Kea Resources, as the ultimate beneficiary of the sale proceeds, of the ability to collect and forfeit that deposit upon repossession; they relied on Bradford Third Equitable Benefit Building Society v Borders to argue that proof of deceit and loss sufficed even without tracing the money to Gan, and on Ross v Caunters to argue that Kea Resources had sufficient proximity to sue despite Kea Maritime being the named vendor. For 'Orient VI', Kea Resources similarly argued that Gan created two contracts at S$650,000 and S$685,000, that he received S$35,000 in cash representing the price difference, and that his fraudulent misrepresentation of the sale price caused Kea Resources, as owner and ultimate beneficiary of the sale proceeds, to suffer loss; they submitted that Gan had them a duty arising from his close and proximate relationship as managing director and that it was foreseeable they would suffer loss from his scheme.",
+      "Judicial_Reasoning_Log": "The Court of Appeal accepted that Kea Resources Pte Ltd bore the burden of proving both breaches of duty and resulting loss. On the Sinindo purchases, it held that the banking documents and Fuchuen letter relied on to show a secret commission were hearsay because the maker was not called and the witness produced lacked first-hand knowledge; Gan's admission of document authenticity did not admit the truth of their contents, and his refusal to disclose his Citibank account did not justify an adverse inference sufficient to prove receipt of a commission. Without proof of a secret commission, the court concluded that no conflict of interest or diversion of business was established and upheld dismissal of that claim. For the three ZMEC barges, the court distinguished the absence of a duty to direct Sinindo's orders to Kea Resources from Gan's obligation to act honestly towards Kea Resources. It found that Gan had misled Kea Resources into believing there was no buyer when Sinindo was interested in similar vessels, and that this misrepresentation induced the cancellation that caused forfeiture of deposits; this conduct breached his duty under s 157 to act honestly, and the forfeited US$77,610 was a proximate loss for which he was ordered to compensate Kea Resources. Regarding 'Regal 8', the court agreed that Gan had dishonestly arranged two contracts with different prices but emphasised that the tort of deceit requires proof of actual damage. It noted that the instalment sale collapsed for reasons unrelated to the alleged misrepresentation, that there was no evidence the S$100,000 deposit was ever paid to Gan or anyone else, and that any shortfall in sale price would in principle be a loss to Kea Maritime as vendor; it therefore held that Kea Resources had not proved compensable damage and dismissed the appeal on that claim. For 'Orient VI', the court accepted that Gan had received S$35,000 representing the difference between the two contract prices and that this sum was not remitted to Kea Maritime. It rejected the trial judge's view that only the vendor could sue, reasoning that Gan's fraudulent misrepresentation of the selling price was made to both Kea Maritime and Kea Resources, given their integrated roles in funding, owning, and selling the vessels, and that Kea Resources suffered loss equal to the unpaid S$35,000 as the party ultimately entitled to the sale proceeds. On that basis, it held that the elements of deceit in favour of Kea Resources were satisfied and allowed the appeal on the 'Orient VI' claim. Overall, Kea Resources succeeded on the ZMEC barge deposits and the 'Orient VI' claim but failed on the Sinindo and 'Regal 8' claims."
+    },
+    "Label": "Appeal Allowed in Part",
+    "Leakage_Score": 4
+  },
+  {
+    "Metadata": {
+      "Case_Number": "CA 206/1999 (Suit No unknown)",
+      "Coram": "Chao Hick Tin JA; L P Thean JA; Yong Pung How CJ",
+      "Judge": "",
+      "Date": "2000-07-03",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Gan Boon Hock",
+      "Law_Firm": "Tan Peng Chin & Partners",
+      "Counsel": [
+        "Oommen Mathew"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Gan Boon Hock is the respondent in Civil Appeal No CA 206/1999."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1993-07-15",
+          "Text": "On 15 July 1993, Gan Boon Hock joined Kea Resources Pte Ltd as a general manager and subsequently became its managing director, holding this position until 21 November 1998."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "While serving as managing director of Kea Resources Pte Ltd, Gan Boon Hock became a shareholder and director of Sinindo Pacific Pte Ltd together with Indonesian businessman Teddy Salim Liem."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "Gan Boon Hock claimed that he disclosed his involvement in Sinindo Pacific Pte Ltd to the appellants, whereas they stated that he only informed them that he was lending his name to Teddy Salim to form a company."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "",
+          "Text": "Between mid-1995 and mid-1996, while managing director of Kea Resources Pte Ltd, Gan Boon Hock caused Sinindo Pacific Pte Ltd to purchase five vessels from China Jiangsu Machinery & Equipment Import & Export Corporation (SUMEC)."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "The appellants stated that by arranging for Sinindo Pacific Pte Ltd to purchase vessels from SUMEC, Gan Boon Hock diverted business away from Kea Resources Pte Ltd and caused it to lose potential profits."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "",
+          "Text": "In relation to the alleged secret commission on the vessel 'SP 2705', the appellants produced a credit advice from National Commercial Bank Ltd, Hong Kong, to Fuchuen Machinery & Equipment stating that US$780,303.40 had been remitted from DBS Finance Ltd, with a handwritten note indicating that US$173,303.40 was credited into Gan Boon Hock's account number 163118."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "",
+          "Text": "The appellants also produced a letter in Chinese with an English translation certifying that after receipt of the remittance, Fuchuen Machinery & Equipment remitted US$173,303.40 to Gan Boon Hock's Citibank account number 163118."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "Gan Boon Hock denied that US$173,303.40 had been deposited into his Citibank account, although he stated having a Citibank account bearing number 163118, and he refused to give discovery of that account on the basis that some assets in it belonged to his relatives."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-08-22",
+          "Text": "Gan Boon Hock suggested to Kea Resources Pte Ltd's chairman, Mr Kea Meng Cheng, that orders for three barges from Zhejiang Machinery & Equipment Import & Export Corporation be cancelled because there were no buyers and to avoid a 5% export duty; the chairman agreed and the orders were cancelled on 22 August 1996, resulting in forfeiture of deposits totalling US$77,610."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "The appellants stated that at the time of recommending cancellation of the ZMEC barge orders, Gan Boon Hock knew that Sinindo Pacific Pte Ltd was looking for barges of similar length but did not inform Kea Resources Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Gan Boon Hock was the managing director of Kea Maritime Pte Ltd and owned 20% of its shares, with Kea Holdings Pte Ltd owning the remaining 80%."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-11",
+          "Text": "In November 1995, the vessel 'Regal 8' was sold by Kea Maritime Pte Ltd to Trisakti Utama Shipping Pte Ltd, a company in which Teddy Salim was involved, under an instalment sale arrangement with 48 instalments and transfer of title upon completion of payments."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "",
+          "Text": "In the 'Regal 8' transaction, there were two sale agreements: one in Kea Maritime Pte Ltd's possession showing a price of S$1.2 million, and another in Trisakti Utama Shipping Pte Ltd's possession showing a price of S$1.3 million."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "Teddy Salim confirmed in evidence that the contract he signed on behalf of Trisakti Utama Shipping Pte Ltd for 'Regal 8' was for S$1.3 million and that the S$1.2 million agreement was a forgery."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "The trial as a matter of fact that Gan Boon Hock disputed caused there to be two 'Regal 8' agreements with different prices with the intention of retaining the S$100,000 difference, although the scheme did not result in payment because the instalment sale was not completed."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "",
+          "Text": "For the vessel 'Orient VI', Kea Maritime Pte Ltd acted as vendor and PT Ersihan Satya Pratama, a company controlled by Teddy Salim, acted as purchaser; Kea Resources Pte Ltd was the owner of the vessel."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "",
+          "Text": "In the 'Orient VI' transaction, there were two sale agreements: one for S$685,000 in the possession of PT Ersihan Satya Pratama and another for S$650,000 in the possession of Kea Maritime Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "",
+          "Text": "Teddy Salim acknowledged that the correct price for 'Orient VI' was S$685,000, that this amount was paid by PT Ersihan Satya Pratama, and that his signature on the S$650,000 agreement was a forgery."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "In relation to 'Orient VI', the trial judge accepted evidence that PT Ersihan Satya Pratama handed a cash cheque of S$35,000 to Gan Boon Hock as part of the purchase price and that this sum was not paid over to Kea Maritime Pte Ltd."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "",
+          "Text": "At first instance, the trial judge allowed five of the 16 claims brought against Gan Boon Hock and dismissed the remainder, and allowed his counterclaim for annual wage supplements, guaranteed bonuses and CPF contributions, awarding him S$42,166.67 plus CPF contributions, interest and half his costs."
+        }
+      ],
+      "Issue": "Whether, on appeal, the findings against Gan Boon Hock in relation to alleged breaches of management obligations and fraudulent misrepresentation should be expanded or reduced, specifically concerning (a) the Sinindo purchases and alleged secret commission, (b) the cancellation of three ZMEC barges, and (c) the 'Regal 8' and 'Orient VI' transactions.",
+      "Rule": "Directors' duties under s 157(1) of the Companies Act to act honestly and use reasonable diligence, and the equitable rule that a fiduciary must not place himself in a position where his duty and personal interest may conflict; principles on cross-directorships and consent as discussed in Boulting v Association of Cinematograph, Television and Allied Technicians; and the elements of the tort of deceit from Bradford Third Equitable Benefit Building Society v Borders and Diamond v Bank of London and Montreal, requiring a wilful false statement, intention that the plaintiff rely, actual reliance, and resulting damage.",
+      "Application": "In response to the Sinindo purchases claim, Gan Boon Hock argued that as a director of Sinindo Pacific Pte Ltd he had a duty to obtain vessels from the best available source for Sinindo and had no duty to direct Sinindo's business to Kea Resources Pte Ltd. He contended that there was no agreement or understanding that Sinindo or companies associated with Teddy Salim would buy all their vessels from Kea Resources, and that the appellants failed to show that the business would have gone to Kea Resources but for his actions. He denied receiving any secret commission from SUMEC or Fuchuen Machinery & Equipment, challenged the admissibility and probative value of the banking documents and letter relied on by the appellants, and declined to disclose his Citibank account on the basis of third-party interests. Regarding the three ZMEC barges, he maintained that there was no evidence that the ZMEC barges and the SUMEC barges were identical or interchangeable, that the only common feature was length, and that he was obliged to act in Sinindo's best interests when placing orders. He further argued that he did not control Sinindo, which was effectively controlled by Teddy Salim, and that the appellants had not proved that his conduct in relation to Sinindo caused Kea Resources' forfeiture of deposits. In relation to 'Regal 8', Gan accepted that two contracts existed but contended that no S$100,000 deposit or profit was actually received by him or anyone else, that the instalment sale failed for reasons unrelated to any misrepresentation, and that any loss in sale price would be suffered by Kea Maritime Pte Ltd as vendor rather than by Kea Resources Pte Ltd. For 'Orient VI', he did not seriously dispute the finding that he received S$35,000 which was not remitted to Kea Maritime, but he relied on the trial judge's reasoning that Kea Maritime, as vendor, was the proper party to claim that sum and that Kea Resources, as owner, had not shown a basis beyond ownership to sue.",
+      "Judicial_Reasoning_Log": "The Court of Appeal accepted that Gan Boon Hock held cross-directorships in Kea Resources Pte Ltd, Kea Maritime Pte Ltd and Sinindo Pacific Pte Ltd and that the appellants were aware of his role in Sinindo. It endorsed the principle that cross-directorships are not per se a breach of duty if properly disclosed and approved, but emphasised that a director must still avoid conflicts between personal interest and duty and must act honestly in the interests of each company. On the Sinindo purchases, the court held that the documents relied on to show a secret commission were hearsay because the maker was not called and the witness produced lacked first-hand knowledge; it concluded that the appellants had not proved that Gan received a secret commission or that business was diverted from Kea Resources, and therefore upheld the dismissal of that claim. For the three ZMEC barges, the court agreed that Gan had no general duty to ensure Sinindo placed orders with Kea Resources, but found that he misled Kea Resources into believing there was no buyer when Sinindo was interested in similar vessels; this misrepresentation induced the cancellation and forfeiture of deposits and breached his duty under s 157 to act honestly, leading the court to order him to compensate Kea Resources for the US$77,610 deposits. In the 'Regal 8' claim, the court accepted the trial judge's finding that Gan dishonestly arranged two contracts with different prices intending to retain the S$100,000 difference, but stressed that deceit requires proof of actual damage; it found no evidence that the S$100,000 was ever paid or that Kea Resources or Kea Maritime suffered a quantifiable loss attributable to the misrepresentation, and therefore dismissed the appeal on that claim. For 'Orient VI', the court accepted that Gan received S$35,000 representing the difference between the two contract prices and did not remit it to Kea Maritime. It disagreed with the trial judge's view that only the vendor could sue, holding that Gan's fraudulent misrepresentation of the sale price was made to both Kea Maritime and Kea Resources, given their integrated roles in funding and selling the vessel, and that Kea Resources suffered loss equal to the S$35,000. The court therefore held Gan liable to pay Kea Resources US$77,610 and S$35,000, while leaving intact the dismissal of the Sinindo and 'Regal 8' claims and the earlier allowance of his counterclaim. It characterised the overall outcome as the appeal being allowed on two of four issues and dismissed on the others, and adjusted costs accordingly."
+    },
+    "Label": "Partially Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Case_Number": "Suit No unknown (Counterclaim)",
+    "Plaintiff": "Gan Boon Hock",
+    "Defendant": "Kea Resources Pte Ltd",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  }
+]

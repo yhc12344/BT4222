@@ -1,0 +1,1225 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 86 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Ho Yew Kong",
+      "Law_Firm": "Premier Law LLC",
+      "Counsel": [
+        "Siraj Omar",
+        "Lee Wei Alexander",
+        "Audie Wong Cheng Siew"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Ho Yew Kong (\"Ho\") was at all material times a shareholder of Gryphon Real Estate Investment Corporation Pte Ltd (GREIC) and an associate of Andy Ong and Ong Han Boon."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-02-03",
+          "Text": "Ho became a de jure director of Griffin Real Estate Investment Holdings Pte Ltd (the Company) on 3 February 2012 and remained a director until around March 2015."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Ho was the sole director of ERC Unicampus Pte Ltd until 12 July 2013, when he was replaced by Ong Han Boon."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "Ho generally acted on the instructions of Andy Ong in relation to the Company and entities within the ERC Group."
+        }
+      ],
+      "Issue": "Whether Ho, as a director of the Company, was subject of dispute under s 216 of the Companies Act for oppressive conduct towards Sakae Holdings Ltd arising from seven impugned transactions, and whether the High Court’s orders against him in Suit No 1098 of 2013 should be set aside on appeal.",
+      "Rule": "Section 216 of the Companies Act permits a shareholder to seek relief where the affairs of a company are conducted in a manner oppressive to, or in disregard of the interests of, one or more shareholders, or where acts or resolutions unfairly discriminate against or are prejudicial to such shareholders. Directors owe management obligations of loyalty and duties of care, skill and diligence to the company under common law and s 157(1) of the Companies Act. Oppression requires proof of commercial unfairness to the shareholder; negligent mismanagement alone, without more, will not ordinarily amount to oppression.",
+      "Application": "Ho argued that he had not engaged in deliberate wrongdoing and that his conduct, at most, amounted to negligence in relying on Andy Ong and following an established practice of leaving management to Andy Ong and his team. He contended that Sakae’s pleaded case against him was confined to alleged breaches of management obligations, and that there was no proper pleading or proof of any breach of his duty of care, skill and diligence. He further submitted that any failures on his part did not rise to the level of commercial unfairness required for oppression under s 216. Sakae argued that Ho had signed and facilitated sham or backdated documents and transactions (including the Lease Agreement, Consultancy Agreement and Project Manager Agreement) which diverted funds from the Company to ERC Group entities, and that by doing so he breached management obligations and participated in oppressive conduct. Sakae relied on Ho’s close association with Andy Ong and his role as a director to attribute responsibility for several of the impugned transactions to him.",
+      "Judicial_Reasoning_Log": "The Court of Appeal examined Ho’s involvement in Transactions 3, 4 and 7, which were the only transactions in respect of which the High Court had made monetary orders against him. The court accepted that Ho had signed documents such as the Lease Agreement, the Consultancy Agreement and the Project Manager Agreement largely on Andy Ong’s instructions and without adequate inquiry, and that this conduct amounted to a breach of his duty of care, skill and diligence to the Company. However, the court held that the evidence did not establish that Ho acted dishonestly or in breach of fiduciary duties of loyalty. The court noted that fiduciary duties and the duty of care, skill and diligence are conceptually distinct, and that mere incompetence or negligent reliance on another director does not, without more, constitute a breach of fiduciary duty. Since Sakae’s pleaded case against Ho in Suit 1098 was framed in terms of breaches of fiduciary duties, and not in terms of breach of the duty of care, skill and diligence, the specific breach that the evidence supported was not properly pleaded. The court further considered whether Ho’s negligent mismanagement could itself amount to oppression under s 216. Referring to English authorities such as Re Elgindata and Re Macro, the court observed that serious mismanagement can in some circumstances be unfairly prejudicial, but that courts are generally reluctant to treat managerial incompetence as oppression absent particularly serious or self-serving misconduct. On the facts, Ho did not personally benefit from the impugned transactions, and his failures were characterised as negligence rather than deliberate abuse of power. The court concluded that Ho’s conduct, while falling below the standard of care expected of a director, did not amount to commercial unfairness to Sakae for the purposes of s 216. Accordingly, the oppression claim against Ho failed, and the High Court’s orders against him in Suit 1098 were set aside."
+    },
+    "Label": "Appeal Allowed",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 87 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "ERC Holdings Pte Ltd",
+      "Law_Firm": "Rajah & Tann Singapore LLP",
+      "Counsel": [
+        "Lee Eng Beng SC",
+        "Rethnam Chandra Mohan",
+        "Yuen Djia Chiang Jonathan",
+        "Jeremy Gan",
+        "Chia Ming Yee Doreen",
+        "Gaw Wai Ming Daniel"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "ERC Holdings Pte Ltd is a company 86.85% owned by Andy Ong, who is its chief executive officer and founder."
+        },
+        {
+          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Date": "",
+          "Text": "ERC Holdings is the ultimate holding company of several entities in the ERC Group, including Gryphon Capital Management Pte Ltd, ERC Unicampus Pte Ltd, ERC Institute Pte Ltd and ERC Consulting Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-09",
+          "Text": "In or around September 2010, the Company allegedly granted ERC Holdings an option (the ERC Option) to subscribe for 8.8 million ordinary shares in the Company at a price of S$8.8 million."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-05-24",
+          "Text": "On 24 May 2012, ERC Holdings paid S$8.8 million to the Company in purported exercise of the ERC Option to subscribe for 8.8 million shares."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "The S$8.8 million used by ERC Holdings to exercise the ERC Option was funded in part by an S$8 million payment from the Company to Andy Ong under the Project Manager Agreement."
+        }
+      ],
+      "Issue": "Whether ERC Holdings, as an appellant in Civil Appeal No 87 of 2017, could avoid or reduce liability arising from findings that the Share Option Agreement and related share subscription were part of oppressive conduct against Sakae Holdings Ltd, and how the appellate court’s restructuring of remedies for Transaction 6 affected ERC Holdings’ position.",
+      "Rule": "Under s 216 of the Companies Act, the court may grant wide-ranging remedies, including cancelling or varying transactions and ordering share buyouts or winding up, to bring to an end or remedy matters complained of as oppressive or unfairly prejudicial. Where a share issue or option is found to be based on a sham or invalid agreement, the court may invalidate the transaction and adjust shareholdings and payments to restore the parties to an appropriate position.",
+      "Application": "ERC Holdings, together with other ERC Group entities, argued that Sakae’s claims in Suit 1098 were essentially corporate wrongs that should have been pursued by the Company via a derivative action, and that the oppression remedy under s 216 was not available. They also contended that Sakae had contractual remedies under the Joint Venture Agreement, including buyout and dispute resolution mechanisms, and that these should preclude or limit recourse to s 216. In relation to Transaction 6, ERC Holdings maintained that the ERC Option and subsequent share subscription were valid and that Sakae’s voluntary decision to subscribe for additional shares to maintain its percentage shareholding could not be characterised as oppression. Sakae argued that the Share Option Agreement was a sham, that ERC Holdings’ share subscription was procured through undisclosed conflicts of interest and misuse of Company funds, and that the resulting dilution and capital calls were part of a pattern of oppressive conduct. On appeal, the parties addressed how any relief for Transaction 6 should be structured, including whether monetary compensation should be paid by Andy Ong personally or whether the share subscriptions by ERC Holdings and Sakae should be unwound.",
+      "Judicial_Reasoning_Log": "The Court of Appeal upheld the High Court’s core findings that six of the seven impugned transactions, including Transaction 6, formed part of a pattern of conduct that was commercially unfair to Sakae as a minority shareholder. The court agreed that there was no valid share option agreement in favour of ERC Holdings and that the Share Option Agreement was a sham used to justify ERC Holdings’ acquisition of additional shares and to pressure Sakae into subscribing for more shares to avoid dilution. However, the court considered that the High Court’s remedial order for Andy Ong to pay Sakae S$2,641,975 in Suit 122 did not appropriately address the nature of the wrong in Transaction 6 and risked overcompensating Sakae. Instead, the appellate court exercised its powers under s 216(2) to cancel or vary transactions. It held that the appropriate remedy was to invalidate both Sakae’s subscription for 2,641,975 additional shares and ERC Holdings’ subscription for 8.8 million shares under the sham option, and to order the Company to repay Sakae the S$2,641,975 it had paid. The S$8.8 million paid by ERC Holdings was ordered to be held by the Company in escrow, with liberty to Sakae and ERC Holdings to apply for directions on disbursement. This restructuring of relief preserved the High Court’s findings of oppressive conduct but altered the monetary and shareholding consequences of Transaction 6. ERC Holdings’ appeal in CA 87 therefore succeeded only to the limited extent of this adjustment to the remedy for Transaction 6; the broader challenges to liability for oppression and to the winding up and repayment orders were rejected."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 87 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Ong Siew Kwee",
+      "Law_Firm": "Rajah & Tann Singapore LLP",
+      "Counsel": [
+        "Lee Eng Beng SC",
+        "Rethnam Chandra Mohan",
+        "Yuen Djia Chiang Jonathan",
+        "Jeremy Gan",
+        "Chia Ming Yee Doreen",
+        "Gaw Wai Ming Daniel"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Ong Siew Kwee (\"Andy Ong\") is a long-time friend of Douglas Foo Peow Yong and was appointed as an independent director of Sakae Holdings Ltd in July 2003, remaining in that role until 18 March 2013."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Andy Ong was a de jure director of the Company from March 2008 until 9 March 2012, and thereafter remained a shadow director until March 2015."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Andy Ong was a director of Gryphon Capital Management Pte Ltd and of several ERC Group entities, and controlled ERC Holdings Pte Ltd, which owned 86.85% of ERC Holdings."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-09-03",
+          "Text": "On 3 September 2010, Sakae Holdings Ltd, the Company and Gryphon Real Estate Investment Corporation Pte Ltd entered into a Joint Venture Agreement (JVA) to use the Company as a vehicle to invest in units at Bugis Cube."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010",
+          "Text": "Andy Ong proposed to Douglas Foo that they acquire more than 90% of the units in Bugis Cube for potential redevelopment and profit, leading to the JVA structure."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-02-23",
+          "Text": "On 23 February 2010, the Company entered into a Management Agreement with Gryphon Capital Management Pte Ltd, appointing GCM to manage the Company’s real estate investment for an annual fee and a share of profits."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-05-01",
+          "Text": "An addendum to the Management Agreement dated 1 May 2010 purported to require payment of approximately S$2.8 million in management fees to GCM and was signed by Andy Ong on behalf of the Company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2011",
+          "Text": "In 2011 and 2012, Andy Ong and Ong Han Boon, as directors of the Company, caused the Company to pay S$2,826,335.17 to GCM pursuant to the Addendum to the Management Agreement."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-08",
+          "Text": "In August 2012, Andy Ong represented to DBS Bank Ltd that GCM was entitled to management fees from the Company under the Management Agreement and Addendum, leading to a Third Party Assignment of Proceeds (TPAP) in favour of DBS."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-09",
+          "Text": "Under the TPAP, management fees due from the Company to GCM were assigned to DBS as security for credit facilities extended to ERC International Pte Ltd, which drew on the loan to purchase a property at 101 Penang Road."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011",
+          "Text": "In 2011, Andy Ong and Ong Han Boon arranged for the Company to extend a S$10 million First Loan to ERC Unicampus Pte Ltd under a First Loan Agreement to fund the purchase of a property later named Big Hotel."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-09-13",
+          "Text": "On 13 September 2012, the Company paid S$14.3 million to ERC International Pte Ltd and S$1.5 million to ERC Unicampus Pte Ltd, with a further S$200,000 to be paid to ERC Holdings, as part of a S$16 million payment recorded as compensation for early termination of a Lease Agreement with ERC Institute Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-03-01",
+          "Text": "On 1 March 2012, the Company and ERC Institute Pte Ltd entered into a Lease Agreement for the third to sixth floors of Bugis Cube for a three-year term with options to renew."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-05-30",
+          "Text": "A letter dated 30 May 2012, produced at trial, purported to terminate the Lease Agreement; an identically worded letter dated 31 July 2012 had been disclosed earlier."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-04",
+          "Text": "On 4 May 2012, the Company entered into a Consultancy Agreement with ERC Consulting Pte Ltd for a S$150,000 fee to conceptualise and coordinate the sale of Bugis Cube; the agreement was signed on behalf of the Company and ERC Consulting."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-04",
+          "Text": "On 4 May 2012, Foo and Ho, as directors of the Company, passed a board resolution approving a Second Loan of S$10 million to ERC Unicampus and convened an extraordinary general meeting for 7 May 2012 to seek shareholder approval."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-07",
+          "Text": "On 7 May 2012, the Company entered into a Second Loan Agreement with ERC Unicampus for a further S$10 million loan, signed by Ho for the Company and Andy Ong for ERC Unicampus; shareholders approved the Second Loan at the EGM."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "The Second Loan to ERC Unicampus was subsequently repaid in full."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-05-24",
+          "Text": "On 24 May 2012, the Company paid S$8 million to Andy Ong, and ERC Holdings paid S$8.8 million to the Company in purported exercise of the ERC Option to subscribe for 8.8 million shares."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-04",
+          "Text": "A Project Manager Agreement dated 4 May 2012 appointed Andy Ong as project manager for refurbishment of the Company’s units at Bugis Cube for a contract sum of S$8 million; the agreement was signed by Ho for the Company and by Andy Ong personally."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2012-06-06",
+          "Text": "On 6 June 2012, Andy Ong informed Douglas Foo that ERC Holdings intended to exercise the ERC Option and that Sakae would need to subscribe for additional shares to maintain its 24.69% shareholding."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-05-31",
+          "Text": "Around 31 May and 1 June 2012, Sakae authorised and approved the allotment of 8,058,025 shares to ERC Holdings and subscribed for 2,641,975 additional shares in the Company for S$2,641,975."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2012-10-25",
+          "Text": "On 25 October 2012, Douglas Foo convened a Sakae board meeting to raise concerns about various Company transactions, leading to investigations that uncovered the seven impugned transactions."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2013",
+          "Text": "In 2013, Sakae commenced Suit No 1098 of 2013 seeking relief under s 216 of the Companies Act in respect of seven transactions involving diversion of Company assets to ERC Group entities and Andy Ong."
+        }
+      ],
+      "Issue": "Whether Andy Ong and other ERC Group-related defendants could avoid or limit liability for alleged oppressive conduct under s 216 of the Companies Act in Suit No 1098 of 2013, and whether the High Court’s orders for repayment to the Company and winding up should be disturbed on appeal.",
+      "Rule": "Section 216 of the Companies Act provides relief to shareholders where the company’s affairs are conducted or directors’ powers are exercised in a manner oppressive to, or in disregard of the interests of, one or more shareholders, or where acts or resolutions unfairly discriminate against or prejudice such shareholders. The common element is commercial unfairness, assessed objectively in light of the parties’ relationship and legitimate expectations. Directors owe management obligations of loyalty and duties of care, skill and diligence to the company. Section 216A provides for statutory derivative actions to vindicate corporate wrongs. Oppression actions should not be used to vindicate purely corporate wrongs, but may proceed where the shareholder suffers a distinct personal injury and seeks relief that meaningfully addresses that injury, including winding up or share buyouts and ancillary restitutionary orders.",
+      "Application": "The CA 87 appellants argued that Sakae’s claims in Suit 1098 were essentially corporate wrongs concerning misappropriation of Company assets and should have been pursued via a derivative action under s 216A, not under s 216. They relied on Ng Kek Wee to contend that s 216 should not be used to vindicate corporate wrongs and that any loss claimed by Sakae was merely reflective of the Company’s loss. They further submitted that Sakae had negotiated contractual protections in the JVA, including buyout and dispute resolution clauses, and should be confined to those remedies. They contended that Sakae had equal board representation and could have resisted or remedied any alleged oppression through corporate mechanisms, and that Sakae either knew or ought to have known of the impugned transactions from Company accounts and documents. On the merits of the transactions, they maintained that the Management Agreement and Addendum, the loans to ERC Unicampus, the Lease Agreement, the Consultancy Agreement, the Share Option Agreement and the Project Manager Agreement were commercially justifiable and authorised, and that any defects did not amount to oppression. Sakae argued that the seven transactions formed a pattern of systemic abuse by Andy Ong and his associates, involving sham or backdated documents, undisclosed conflicts of interest, and diversion of Company funds to ERC Group entities and to Andy Ong personally, all without Sakae’s knowledge. It contended that its real injury was the misuse of its investment and breach of its legitimate expectations under the JVA that the Company would be managed for the joint venture’s benefit, and that it sought essential relief in the form of a winding up or buyout, with restitutionary orders in favour of the Company as ancillary measures. Sakae submitted that it lacked practical power to prevent the misconduct, that the JVA remedies were inadequate or unrealistic in the circumstances, and that it had not acquiesced in the impugned transactions.",
+      "Judicial_Reasoning_Log": "The Court of Appeal undertook a detailed analysis of the relationship between oppression actions under s 216 and derivative actions under s 216A. It held that s 216 should not be used to vindicate purely corporate wrongs, but recognised that the same facts can give rise to both corporate and personal wrongs. The court articulated an analytical framework focusing on (a) the real injury the shareholder seeks to vindicate and whether it is distinct from the company’s injury and amounts to commercial unfairness, and (b) the essential remedy sought and whether it meaningfully addresses that injury and is available only under s 216. Applying this framework, the court found that Sakae’s real injury was the misuse of its investment and breach of its legitimate expectations under the JVA that the Company would be managed for the joint venture’s benefit, and that the essential relief sought was an exit from the joint venture via winding up or buyout, with restitutionary orders to the Company as ancillary measures to ensure a fair exit. The court concluded that Sakae’s oppression action was not an abuse of process and could proceed under s 216. On the facts, the court accepted the High Court’s findings that six of the seven impugned transactions (all except the Second Loan) were carried out through sham or backdated documents, undisclosed conflicts of interest and diversion of Company funds to ERC Group entities and to Andy Ong, without Sakae’s knowledge. It agreed that these transactions, taken together, constituted systemic abuse and commercial unfairness to Sakae as a minority shareholder. The court rejected the appellants’ reliance on the JVA’s buyout and arbitration clauses as adequate alternative remedies, noting that requiring Sakae to purchase GREIC’s shares to gain control of the Company was commercially unrealistic and would not address the misappropriations, and that the arbitration clause did not clearly cover the oppression complaints against non-party directors and ERC entities. It also rejected arguments that Sakae could have resisted the oppression through board representation or that it had acquiesced or ought to have discovered the misconduct by scrutinising accounts, holding that minority shareholders are not under a duty to investigate management in the absence of red flags. The court affirmed the High Court’s orders winding up the Company and requiring Andy Ong and Ong Han Boon to repay specified sums to the Company in respect of Transactions 1(a), 2, 3, 4 and 7, with the exception of Transaction 6 where the remedy was restructured. For Transaction 6, the court agreed that the Share Option Agreement was a sham and that Andy Ong had breached fiduciary duties to both the Company and Sakae, but considered that ordering Andy Ong to pay Sakae S$2,641,975 risked overcompensation. Instead, it invalidated Sakae’s and ERC Holdings’ share subscriptions under the sham option, ordered the Company to repay Sakae S$2,641,975, and directed that the S$8.8 million paid by ERC Holdings be held in escrow pending further directions. Overall, the appeal in CA 87 was dismissed save for the limited variation of relief in respect of Transaction 6."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 87 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Ong Han Boon (Wang Hanwen)",
+      "Law_Firm": "Rajah & Tann Singapore LLP",
+      "Counsel": [
+        "Lee Eng Beng SC",
+        "Rethnam Chandra Mohan",
+        "Yuen Djia Chiang Jonathan",
+        "Jeremy Gan",
+        "Chia Ming Yee Doreen",
+        "Gaw Wai Ming Daniel"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Ong Han Boon (also known as Wang Hanwen) is an associate of Andy Ong and a shareholder of Gryphon Real Estate Investment Corporation Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Ong Han Boon was a de jure director of the Company from 29 October 2010 until 9 March 2012."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Ong Han Boon was a director of Gryphon Capital Management Pte Ltd and of ERC Institute Pte Ltd, and later became the sole director of ERC Unicampus Pte Ltd from 12 July 2013."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011",
+          "Text": "Together with Andy Ong, Ong Han Boon arranged for the Company to extend a S$10 million First Loan to ERC Unicampus Pte Ltd under a First Loan Agreement in 2011."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-05-01",
+          "Text": "Ong Han Boon was involved with Andy Ong in preparing an Addendum dated 1 May 2010 to the Management Agreement between the Company and Gryphon Capital Management Pte Ltd, which increased management fees to around S$2.8 million."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2011",
+          "Text": "As a director of the Company, Ong Han Boon participated in causing the Company to pay S$2,826,335.17 in management fees to Gryphon Capital Management Pte Ltd pursuant to the Addendum."
+        }
+      ],
+      "Issue": "Whether Ong Han Boon, as a former director of the Company and associate of Andy Ong, remained subject of dispute for oppressive conduct and breaches of management obligations in relation to Transactions 1(a), 2 and 6, and whether the High Court’s repayment orders against him should be disturbed on appeal.",
+      "Rule": "Directors owe management obligations to act bona fide in the interests of the company and to avoid conflicts of interest, as well as duties of care, skill and diligence. Under s 216 of the Companies Act, a director’s misconduct in diverting company assets or fabricating sham documents may constitute part of oppressive conduct towards a minority shareholder. Where oppression is established, the court may order directors to repay misapplied funds to the company.",
+      "Application": "Ong Han Boon argued that Sakae’s claims were corporate in nature and should have been pursued via a derivative action, and that he had ceased to be a director by the time several of the impugned transactions occurred. He contended that he had not personally benefitted from the transactions and that any involvement in documentation or payments was within the scope of legitimate management. He also relied on the general defences advanced by the other appellants, including the existence of contractual remedies under the JVA and Sakae’s alleged ability to protect its own interests. Sakae argued that Ong Han Boon, as a director of the Company and of related ERC entities, had collaborated with Andy Ong in preparing sham documents and authorising payments that diverted Company funds, particularly in relation to the Addendum to the Management Agreement and the First Loan to ERC Unicampus. It contended that these actions breached his management obligations and formed part of the oppressive pattern of conduct. On appeal, the parties addressed whether the High Court correctly held Ong Han Boon jointly and severally subject of dispute with Andy Ong for repayment of S$2,826,335.17 (Transaction 1(a)) and S$7.9 million (Transaction 2), and whether any relief relating to Transaction 6 should affect his position.",
+      "Judicial_Reasoning_Log": "The Court of Appeal accepted the High Court’s factual findings that Ong Han Boon, while a director of the Company, had participated with Andy Ong in preparing the Addendum to the Management Agreement and in causing the Company to pay excessive management fees to Gryphon Capital Management Pte Ltd, and in arranging the First Loan to ERC Unicampus. The Addendum was found to be an ex post facto fabrication used to justify unauthorised payments, and the First Loan was found to be unauthorised with a substantial amount outstanding. The court agreed that these actions breached Ong Han Boon’s fiduciary duties to the Company and formed part of the oppressive conduct towards Sakae as a minority shareholder. The court rejected the argument that Sakae’s claims were purely corporate wrongs, applying its injury-and-remedy framework to conclude that Sakae had suffered a distinct personal injury and sought appropriate relief under s 216. It also rejected the contention that the JVA’s contractual remedies or Sakae’s board representation displaced the oppression remedy. As Ong Han Boon was no longer a director at the time of several later transactions, the court accepted that he was not liable for those, but it upheld the High Court’s orders making him jointly and severally liable with Andy Ong to repay S$2,826,335.17 in respect of Transaction 1(a) and S$7.9 million in respect of Transaction 2. The limited variation of relief for Transaction 6, which focused on unwinding share subscriptions and adjusting payments between Sakae, ERC Holdings and the Company, did not affect the repayment orders against Ong Han Boon. His appeal in CA 87 was therefore dismissed in substance, and his liability for the specified sums to the Company was affirmed."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 87 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Gryphon Capital Management Pte Ltd",
+      "Law_Firm": "Rajah & Tann Singapore LLP",
+      "Counsel": [
+        "Lee Eng Beng SC",
+        "Rethnam Chandra Mohan",
+        "Yuen Djia Chiang Jonathan",
+        "Jeremy Gan",
+        "Chia Ming Yee Doreen",
+        "Gaw Wai Ming Daniel"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Gryphon Capital Management Pte Ltd (GCM) was established to manage the Company’s real estate investment and was part of the ERC Group controlled by Andy Ong."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Andy Ong and Ong Han Boon were directors of GCM at all material times."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-02-23",
+          "Text": "On 23 February 2010, the Company entered into a Management Agreement with GCM, appointing GCM as manager of the Company’s real estate investment for an annual fee and a share of profits."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-05-01",
+          "Text": "An Addendum dated 1 May 2010 to the Management Agreement purported to increase management fees payable by the Company to GCM to around S$2.8 million."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2011",
+          "Text": "In 2011 and 2012, the Company paid S$2,826,335.17 to GCM as management fees pursuant to the Addendum."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-09",
+          "Text": "In September 2012, GCM and DBS Bank Ltd entered into a Third Party Assignment of Proceeds under which management fees due from the Company to GCM were assigned to DBS as security for credit facilities to ERC International Pte Ltd."
+        }
+      ],
+      "Issue": "Whether GCM, as a recipient of management fees and party to the Management Agreement and Addendum, remained implicated in the oppressive conduct found in Suit No 1098 of 2013, and how its withdrawal from the appeal affected the appellate court’s treatment of the underlying findings.",
+      "Rule": "In an oppression action under s 216, the court may examine transactions between the company and related entities to determine whether they form part of a pattern of commercially unfair conduct towards a minority shareholder. Even if an entity withdraws its appeal, the appellate court may leave undisturbed the High Court’s findings and orders concerning that entity where not challenged.",
+      "Application": "GCM initially appealed in CA 87 alongside other defendants but, on instructions from its liquidators, applied to withdraw its appeal. The parties did not contest this withdrawal. The High Court had found that the Addendum to the Management Agreement was a fabrication used to justify excessive management fees paid by the Company to GCM, and that these payments formed part of oppressive conduct towards Sakae. On appeal, the remaining appellants continued to challenge the characterisation of the Addendum and payments as oppressive, but GCM itself did not pursue those challenges after withdrawing. The Court of Appeal considered the role of the Management Agreement, Addendum and payments to GCM as part of the overall pattern of transactions, while recognising that no live appeal remained by GCM against the specific findings and orders affecting it.",
+      "Judicial_Reasoning_Log": "At the outset of the hearing, GCM, through its liquidators, applied to withdraw its appeal in CA 87. As this was unopposed, the Court of Appeal granted the application. The court therefore did not revisit the specific orders or findings directed at GCM in the High Court’s Main Judgment. Nonetheless, in assessing the broader pattern of conduct relevant to Sakae’s oppression claim, the court referred to the Management Agreement, the Addendum and the payments of S$2,826,335.17 to GCM as part of the factual matrix. The High Court’s conclusion that the Addendum was an ex post facto fabrication and that the resulting payments were unauthorised and oppressive remained undisturbed in the absence of a live appeal by GCM. The appellate court’s primary focus in relation to Transaction 1(a) was on the liability of Andy Ong and Ong Han Boon as directors who caused the Company to enter into and act upon the Addendum, rather than on GCM’s position as recipient. As GCM’s appeal was withdrawn and no fresh orders were made against it, the appellate outcome for GCM in CA 87 is recorded as unknown in terms of any change to its liability."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 87 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "ERC Unicampus Pte Ltd",
+      "Law_Firm": "Rajah & Tann Singapore LLP",
+      "Counsel": [
+        "Lee Eng Beng SC",
+        "Rethnam Chandra Mohan",
+        "Yuen Djia Chiang Jonathan",
+        "Jeremy Gan",
+        "Chia Ming Yee Doreen",
+        "Gaw Wai Ming Daniel"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "ERC Unicampus Pte Ltd is an investment holding company within the ERC Group."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Ho was the sole director of ERC Unicampus until 12 July 2013, when he was replaced by Ong Han Boon."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011",
+          "Text": "In 2011, the Company extended a S$10 million First Loan to ERC Unicampus under a First Loan Agreement arranged by Andy Ong and Ong Han Boon."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-07",
+          "Text": "On 7 May 2012, the Company entered into a Second Loan Agreement with ERC Unicampus for a further S$10 million loan, signed by Ho for the Company and Andy Ong for ERC Unicampus."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "The First Loan of S$10 million to ERC Unicampus was alleged to be only partially repaid, with a disputed outstanding amount of S$7.9 million at trial."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "The Second Loan of S$10 million to ERC Unicampus was subsequently repaid in full."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-09-13",
+          "Text": "As part of a S$16 million payment recorded as compensation for early termination of the Lease Agreement with ERC Institute, the Company paid S$1.5 million to ERC Unicampus on 13 September 2012."
+        }
+      ],
+      "Issue": "Whether ERC Unicampus, as borrower under the First and Second Loans and recipient of part of the S$16 million Lease Agreement payment, remained implicated in the oppressive conduct found in Suit No 1098 of 2013, and whether the appellate court’s decision altered the consequences of those transactions for ERC Unicampus.",
+      "Rule": "In an oppression action under s 216, the court may scrutinise related-party loans and payments to determine whether they form part of a pattern of commercially unfair conduct towards a minority shareholder. However, payment orders in favour of the company are generally made against errant directors rather than third-party recipients, unless specific claims are advanced against those recipients.",
+      "Application": "ERC Unicampus appealed in CA 87 along with other ERC Group entities, arguing that the loans and payments it received were legitimate commercial transactions and that any issues with authorisation or disclosure did not amount to oppression. It relied on the general arguments that Sakae’s claims were corporate in nature and that contractual remedies under the JVA should govern. Sakae argued that the First Loan was unauthorised and largely unpaid, that the Second Loan was a sham in context, and that the S$1.5 million payment to ERC Unicampus as part of the S$16 million Lease Agreement compensation was part of a scheme to divert Company funds to ERC Group entities. The High Court had made repayment orders against Andy Ong and Ong Han Boon in respect of the First Loan but did not order ERC Unicampus itself to repay sums in the oppression action. On appeal, the Court of Appeal focused on the liability of directors and the structure of relief, rather than on imposing direct monetary orders on ERC Unicampus.",
+      "Judicial_Reasoning_Log": "The Court of Appeal accepted the High Court’s findings that the First Loan to ERC Unicampus was unauthorised and that a substantial amount remained outstanding, and that the Second Loan, while repaid, was part of a broader pattern of questionable related-party dealings. It agreed that the S$16 million payment recorded as Lease Agreement compensation, including S$1.5 million to ERC Unicampus, was part of a sham transaction used to divert Company funds to ERC Group entities. However, consistent with the High Court’s approach, the appellate court emphasised that in an oppression action, payment orders are generally made against errant directors who breached their duties, rather than against third-party corporate recipients, unless specific claims are advanced. The court upheld the orders requiring Andy Ong and Ong Han Boon to repay S$7.9 million in respect of the First Loan and requiring Andy Ong and Ho to repay S$16 million in respect of the Lease Agreement transaction, without imposing additional direct repayment obligations on ERC Unicampus. The appeal did not result in new or varied orders specifically against ERC Unicampus, and its precise liability position remained governed by the High Court’s unaltered orders and any separate proceedings, so the appellate outcome for ERC Unicampus is recorded as unknown in terms of change to its liability."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 87 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "ERC Institute Pte Ltd",
+      "Law_Firm": "Rajah & Tann Singapore LLP",
+      "Counsel": [
+        "Lee Eng Beng SC",
+        "Rethnam Chandra Mohan",
+        "Yuen Djia Chiang Jonathan",
+        "Jeremy Gan",
+        "Chia Ming Yee Doreen",
+        "Gaw Wai Ming Daniel"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "ERC Institute Pte Ltd is a professional training and consultancy company within the ERC Group."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Andy Ong and Ong Han Boon were directors of ERC Institute at all material times."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-03-01",
+          "Text": "On 1 March 2012, ERC Institute entered into a Lease Agreement with the Company for the third to sixth floors of Bugis Cube for a three-year term with options to renew."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-05-30",
+          "Text": "A letter dated 30 May 2012, produced at trial, purported to terminate the Lease Agreement; an identically worded letter dated 31 July 2012 had been disclosed earlier."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-09-13",
+          "Text": "On 13 September 2012, the Company paid S$16 million recorded as compensation to ERC Institute for early termination of the Lease Agreement, with S$14.3 million disbursed to ERC International Pte Ltd, S$1.5 million to ERC Unicampus Pte Ltd, and S$200,000 earmarked for ERC Holdings Pte Ltd."
+        }
+      ],
+      "Issue": "Whether ERC Institute, as counterparty to the Lease Agreement and nominal recipient of a S$16 million termination compensation, remained implicated in the oppressive conduct found in Suit No 1098 of 2013, and whether the appellate court’s decision altered the consequences of Transaction 3 for ERC Institute.",
+      "Rule": "In assessing oppression under s 216, the court may treat sham contracts and artificial compensation payments as part of a scheme to divert company funds to related entities. Relief is typically directed against directors who orchestrated the scheme, with restitutionary orders in favour of the company, rather than directly against all recipient entities unless specific claims are advanced.",
+      "Application": "ERC Institute appealed in CA 87 along with other ERC Group entities, contending that the Lease Agreement and the S$16 million compensation payment were genuine commercial arrangements and that any defects in documentation or timing did not amount to oppression. Sakae argued that the Lease Agreement was a sham, that the termination letters were backdated or fabricated, and that the S$16 million payment was a vehicle to divert Company funds to ERC Group entities, including ERC Institute, ERC International, ERC Unicampus and ERC Holdings. The High the Lease Agreement and compensation payment were sham transactions and ordered Andy Ong and Ho to repay S$16 million to the Company. On appeal, the Court of Appeal focused on the directors’ liability and the structure of relief, rather than on imposing direct monetary orders on ERC Institute.",
+      "Judicial_Reasoning_Log": "The Court of Appeal agreed with the High Court that the Lease Agreement between the Company and ERC Institute was a sham and that the purported early termination and S$16 million compensation payment were part of a scheme to divert Company funds to ERC Group entities. It accepted that the bulk of the S$16 million was channelled to ERC International and ERC Unicampus, with a smaller portion earmarked for ERC Holdings, and that ERC Institute functioned as a conduit in this arrangement. The court upheld the order requiring Andy Ong and Ho to repay S$16 million to the Company in respect of Transaction 3, treating this as an appropriate restitutionary order against the directors who orchestrated the diversion. It did not, however, make new or varied orders directly against ERC Institute in the oppression action, consistent with the principle that payment orders are generally directed at errant directors rather than all recipient entities in such proceedings. As a result, while ERC Institute remained part of the factual matrix of the oppressive scheme, the appellate decision did not alter its direct liability position from that determined at first instance, and no specific change to its obligations was ordered on appeal."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 87 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "ERC Consulting Pte Ltd",
+      "Law_Firm": "Rajah & Tann Singapore LLP",
+      "Counsel": [
+        "Lee Eng Beng SC",
+        "Rethnam Chandra Mohan",
+        "Yuen Djia Chiang Jonathan",
+        "Jeremy Gan",
+        "Chia Ming Yee Doreen",
+        "Gaw Wai Ming Daniel"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "ERC Consulting Pte Ltd is a company providing business consulting and education services within the ERC Group."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Andy Ong was one of the two directors of ERC Consulting at all material times."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-04",
+          "Text": "On 4 May 2012, the Company entered into a Consultancy Agreement with ERC Consulting for a fee of S$150,000 to conceptualise the sale of Bugis Cube and coordinate promotional activities."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-05-04",
+          "Text": "The Consultancy Agreement was signed by Ho on behalf of the Company and by Ong Siew Bok, Andy Ong’s brother, on behalf of ERC Consulting."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-12-24",
+          "Text": "On 24 December 2012, the Company paid S$160,500 to ERC Consulting as \"Marketing Consultancy\" fees for the sale of Bugis Cube."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-05-02",
+          "Text": "On 2 May 2012, the Company had already engaged Knight Frank Pte Ltd as the sole marketing and sales agent for the sale of Bugis Cube."
+        }
+      ],
+      "Issue": "Whether ERC Consulting, as counterparty to the Consultancy Agreement and recipient of consultancy fees, remained implicated in the oppressive conduct found in Suit No 1098 of 2013, and whether the appellate court’s decision altered the consequences of Transaction 4 for ERC Consulting.",
+      "Rule": "In an oppression action under s 216, the court may treat consultancy agreements with related entities as sham transactions where they lack commercial justification and are used to divert company funds. Relief is typically directed against directors who caused the company to enter into such agreements, with repayment orders in favour of the company.",
+      "Application": "ERC Consulting appealed in CA 87 along with other ERC Group entities, arguing that the Consultancy Agreement was a genuine contract for services related to the sale of Bugis Cube and that the fees paid were commercially justified. Sakae argued that the Consultancy Agreement was a sham, created and backdated to justify paying ERC Consulting a fee far in excess of any legitimate claim, especially given that Knight Frank had already been appointed as sole marketing and sales agent. The High the Consultancy Agreement was a sham and ordered Andy Ong and Ho to repay S$160,500 to the Company. On appeal, the Court of Appeal considered the role of the Consultancy Agreement and payments as part of the pattern of oppressive conduct, while focusing remedial orders on the directors.",
+      "Judicial_Reasoning_Log": "The Court of Appeal agreed with the High Court that the Consultancy Agreement between the Company and ERC Consulting was a sham and that the S$160,500 payment lacked genuine commercial justification, given that Knight Frank had already been engaged as sole marketing and sales agent for Bugis Cube. It accepted that the agreement was used to divert Company funds to an ERC Group entity in which Andy Ong had a substantial interest. The court upheld the order requiring Andy Ong and Ho to repay S$160,500 to the Company in respect of Transaction 4, treating this as an appropriate restitutionary order against the directors responsible for committing the Company to the sham agreement. The appellate court did not, however, impose new or varied orders directly against ERC Consulting in the oppression action. ERC Consulting remained part of the factual narrative of the oppressive scheme, but the appellate decision did not alter its direct liability position from that determined at first instance, and no specific change to its obligations was ordered on appeal."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 87 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Gryphon Real Estate Investment Corporation Pte Ltd",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Gryphon Real Estate Investment Corporation Pte Ltd (GREIC) is an investment holding company whose shareholders included Andy Ong, Ong Han Boon and Ho at all material times."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "At the time of the trial, Ho was the sole director of GREIC."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-09-03",
+          "Text": "On 3 September 2010, GREIC entered into a Joint Venture Agreement with Sakae Holdings Ltd and the Company to use the Company as a vehicle to invest in units at Bugis Cube."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "",
+          "Text": "Under the Joint Venture Agreement, GREIC held 75.31% of the Company’s issued share capital, while Sakae held 24.69%."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "",
+          "Text": "The Joint Venture Agreement provided that the Company’s board would consist of four directors, with GREIC and Sakae each entitled to appoint two directors, and contained reserved matters requiring unanimous shareholder approval."
+        }
+      ],
+      "Issue": "Whether GREIC, as majority shareholder of the Company and party to the Joint Venture Agreement, was directly subject to oppression findings or remedial orders in Suit No 1098 of 2013, and how its role as shareholder affected the analysis of Sakae’s oppression claim.",
+      "Rule": "Oppression under s 216 focuses on conduct in the affairs of the company or exercise of directors’ powers that is commercially unfair to a shareholder. A majority shareholder’s contractual rights under a joint venture agreement may shape the parties’ legitimate expectations, but relief is typically directed at directors and entities that engaged in oppressive conduct, unless specific claims are advanced against the majority shareholder.",
+      "Application": "GREIC was named as a defendant in Suit No 1098 of 2013 as the majority shareholder of the Company and party to the Joint Venture Agreement. The High Court’s analysis of oppression focused on the conduct of Andy Ong, Ong Han Boon and Ho as directors, and on transactions involving ERC Group entities, rather than on specific acts by GREIC as shareholder. On appeal, the Court of Appeal considered GREIC’s role primarily in the context of the Joint Venture Agreement, including the board composition, reserved matters and potential buyout mechanisms. The appellants argued that Sakae could have invoked contractual remedies against GREIC, including a buyout under clause 18, to address any grievances. Sakae argued that GREIC was effectively controlled by Andy Ong and that contractual remedies against GREIC were inadequate or unrealistic in light of the misappropriations and power dynamics.",
+      "Judicial_Reasoning_Log": "The Court of Appeal treated GREIC’s role as majority shareholder and party to the Joint Venture Agreement as part of the background to Sakae’s oppression claim. It analysed the JVA’s provisions on board composition, reserved matters and buyout rights, and concluded that the contractual remedies, including the clause 18 buyout mechanism, did not preclude Sakae from pursuing an oppression action under s 216. The court noted that GREIC was effectively controlled by Andy Ong and that expecting Sakae to purchase GREIC’s shares to gain control of the Company was commercially unrealistic and would not address the misappropriations. The court did not, however, focus on specific oppressive acts by GREIC as shareholder distinct from the conduct of Andy Ong and other directors, and it did not make new or varied orders directly against GREIC in the oppression action. GREIC’s significance lay in shaping Sakae’s legitimate expectations under the JVA and in illustrating the power imbalance, rather than in being the primary target of remedial orders. As a result, the appellate decision did not alter GREIC’s direct liability position from that determined at first instance, and no specific change to its obligations was ordered on appeal."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 87 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "TYN Investment Pte Ltd (f.k.a. ERC International Pte Ltd)",
+      "Law_Firm": "",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "TYN Investment Pte Ltd, formerly known as ERC International Pte Ltd, is a company within the ERC Group and was previously wholly owned by ERC Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-09",
+          "Text": "ERC International Pte Ltd drew on credit facilities from DBS Bank Ltd, secured by the Third Party Assignment of Proceeds over management fees due from the Company to Gryphon Capital Management Pte Ltd, to pay about S$60 million to purchase a property at 101 Penang Road."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-09-13",
+          "Text": "On 13 September 2012, as part of a S$16 million payment recorded as Lease Agreement compensation, the Company paid S$14.3 million to ERC International Pte Ltd."
+        }
+      ],
+      "Issue": "Whether TYN Investment Pte Ltd (formerly ERC International Pte Ltd), as recipient of substantial payments and beneficiary of DBS credit facilities secured on Company-related management fees, remained implicated in the oppressive conduct found in Suit No 1098 of 2013, and whether the appellate court’s decision altered its position.",
+      "Rule": "In an oppression action under s 216, the court may consider payments to related entities and the use of company-related receivables as security for third-party financing as part of a pattern of commercially unfair conduct. However, restitutionary orders are generally directed at directors rather than all recipient entities unless specific claims are advanced.",
+      "Application": "TYN Investment Pte Ltd (as ERC International Pte Ltd) was named as a defendant in Suit No 1098 of 2013 due to its receipt of S$14.3 million from the Company as part of the S$16 million Lease Agreement compensation and its role as borrower under DBS credit facilities secured by the TPAP over management fees. The High the Lease Agreement and compensation payment were sham transactions and that the TPAP, while causing no ultimate loss to the Company, formed part of the pattern of conduct orchestrated by Andy Ong. The court did not, however, make direct repayment orders against ERC International in the oppression action, focusing instead on directors’ liability. On appeal, the Court of Appeal accepted the High Court’s findings on these transactions and maintained the focus of remedial orders on Andy Ong and other directors.",
+      "Judicial_Reasoning_Log": "The Court of Appeal agreed that the S$16 million Lease Agreement compensation, including the S$14.3 million paid to ERC International Pte Ltd, was part of a sham transaction used to divert Company funds to ERC Group entities. It also accepted that the TPAP assigning management fees to DBS as security for ERC International’s loan, while ultimately causing no loss to the Company because the loan was repaid, illustrated Andy Ong’s use of Company-related receivables to support ERC Group financing. The court upheld the High Court’s approach of directing restitutionary orders against Andy Ong and Ho in respect of the S$16 million payment, and declined to grant a declaration voiding the TPAP due to DBS’s status as a bona fide purchaser for value without notice. The appellate court did not impose new or varied orders directly against TYN Investment Pte Ltd (formerly ERC International Pte Ltd) in the oppression action. Its role remained part of the factual background to the oppressive scheme, but the appellate decision did not alter its direct liability position from that determined at first instance."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 86 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Sakae Holdings Ltd",
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Davinder Singh s/o Amar Singh SC",
+        "Jaikanth Shankar",
+        "Pardeep Singh Khosa",
+        "Navin Shanmugaraj Thevar",
+        "Lydia Ni",
+        "Jaspreet Singh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Sakae Holdings Ltd (\"Sakae\") is a listed company and was the plaintiff in Suit No 1098 of 2013, holding 24.69% of the Company’s issued share capital under the Joint Venture Agreement."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Douglas Foo Peow Yong was the chairman of Sakae’s board at all material times."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-09-03",
+          "Text": "On 3 September 2010, Sakae entered into a Joint Venture Agreement with the Company and Gryphon Real Estate Investment Corporation Pte Ltd to invest in units at Bugis Cube through the Company."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "",
+          "Text": "Under the Joint Venture Agreement, Sakae and GREIC were each entitled to appoint two directors to the Company’s four-member board, and certain shareholder and board reserved matters required unanimous or majority approval."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2012-10-25",
+          "Text": "On 25 October 2012, Douglas Foo convened a Sakae board meeting to raise concerns about various transactions undertaken by the Company, leading to investigations into the Company’s financial affairs."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2013",
+          "Text": "In 2013, Sakae commenced Suit No 1098 of 2013 seeking relief under s 216 of the Companies Act in respect of seven transactions involving diversion of Company assets to ERC Group entities and Andy Ong."
+        }
+      ],
+      "Issue": "In CA 86, whether Sakae, as respondent to Ho’s appeal, could maintain the High Court’s findings that Ho was subject of dispute for oppressive conduct and breaches of management obligations in Suit No 1098 of 2013.",
+      "Rule": "A defendant to an appeal in an oppression action may seek to uphold the trial court’s findings by demonstrating that the director’s conduct amounted to breaches of management obligations and formed part of commercially unfair conduct under s 216. The appellate court will assess whether the pleaded breaches are supported by evidence and whether they meet the threshold of oppression.",
+      "Application": "Sakae argued that Ho’s conduct in signing and facilitating sham or backdated agreements, including the Lease Agreement, Consultancy Agreement and Project Manager Agreement, and in consenting to the TPAP and loans, amounted to breaches of management obligations to the Company and formed part of the oppressive pattern of conduct. It contended that Ho’s reliance on an \"Established Norm\" of leaving management to Andy Ong did not excuse his failure to act in the Company’s interests or to question transactions that diverted funds to ERC Group entities. Sakae sought to uphold the High Court’s orders requiring Ho to repay S$16 million, S$160,500 and S$8 million to the Company in respect of Transactions 3, 4 and 7. Ho argued that his conduct, while possibly negligent, did not amount to dishonesty or breach of management obligations, that Sakae’s pleadings did not allege breach of the duty of care, skill and diligence, and that his actions did not rise to the level of oppression under s 216.",
+      "Judicial_Reasoning_Log": "The Court of Appeal accepted that Sakae had established oppression in relation to the conduct of Andy Ong and Ong Han Boon, but it distinguished Ho’s position. The court found that Ho had generally acted on Andy Ong’s instructions and had failed to exercise adequate care and diligence in scrutinising transactions, including signing the Lease Agreement, Consultancy Agreement and Project Manager Agreement and consenting to related payments. However, it held that the evidence did not show that Ho acted dishonestly or in breach of fiduciary duties of loyalty. The court emphasised the conceptual distinction between fiduciary duties and the duty of care, skill and diligence, and noted that Sakae’s pleadings against Ho were framed in terms of breaches of fiduciary duties, not negligence. As the evidence supported only a breach of the duty of care, skill and diligence, which was not pleaded, Sakae’s case against Ho as pleaded was not made out. The court further held that Ho’s negligent mismanagement, without personal benefit or deliberate abuse of power, did not amount to commercial unfairness sufficient to ground oppression under s 216. Accordingly, the court allowed Ho’s appeal in CA 86, set aside the High Court’s findings of fiduciary breach and oppression against him, and vacated the repayment orders in respect of Transactions 3, 4 and 7. Sakae, as respondent in CA 86, was therefore not able to maintain the High Court’s conclusions regarding Ho’s liability."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 87 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Sakae Holdings Ltd",
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Davinder Singh s/o Amar Singh SC",
+        "Jaikanth Shankar",
+        "Pardeep Singh Khosa",
+        "Navin Shanmugaraj Thevar",
+        "Lydia Ni",
+        "Jaspreet Singh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Sakae Holdings Ltd was the plaintiff in Suit No 1098 of 2013 and respondent in Civil Appeal No 87 of 2017, seeking to uphold the High Court’s findings of oppression and related repayment and winding-up orders."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2017-04-07",
+          "Text": "On 7 April 2017, the High Court issued the Main Judgment in Sakae Holdings Ltd v Gryphon Real Estate Investment Corp Pte Ltd and others and another suit [2017] SGHC 73, allowing most of Sakae’s claims in Suits Nos 1098 and 122 of 2013."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2017-05-04",
+          "Text": "On 4 May 2017, the High Court issued the Third Party Judgment in Sakae Holdings Ltd v Gryphon Real Estate Investment Corp Pte Ltd and others and another suit [2017] SGHC 100, dismissing third party claims against Douglas Foo."
+        }
+      ],
+      "Issue": "In CA 87, whether Sakae, as respondent, could maintain the High Court’s findings that the ERC Group-related appellants and Andy Ong and Ong Han Boon were subject of dispute for oppression and breaches of duty in Suit No 1098 of 2013, and whether the appellate court should uphold the winding-up and repayment orders.",
+      "Rule": "The respondent in an oppression appeal may seek to uphold the trial court’s findings by demonstrating that the conduct complained of amounted to commercial unfairness under s 216 and that the remedies granted, including winding up and restitutionary orders, were within the court’s broad discretion under s 216(2).",
+      "Application": "Sakae argued that the seven impugned transactions, including excessive management fees, related-party loans, sham lease and consultancy agreements, a sham share option and an unjustified S$8 million payment to Andy Ong, formed a coherent pattern of conduct that was commercially unfair to Sakae as a minority shareholder. It contended that Andy Ong and Ong Han Boon, as directors, had breached management obligations by diverting Company funds to ERC Group entities and to Andy Ong personally, and that the ERC Group entities had participated in or benefitted from these transactions. Sakae submitted that its real injury was the misuse of its investment and breach of its legitimate expectations under the Joint Venture Agreement, and that it sought essential relief in the form of winding up the Company and restitutionary orders to restore misapplied funds. It argued that contractual remedies under the JVA were inadequate and that it lacked practical power to prevent the misconduct. The appellants challenged the characterisation of the transactions as sham or oppressive, argued that Sakae’s claims were corporate in nature, and contended that the JVA’s remedies and Sakae’s board representation precluded or mitigated oppression.",
+      "Judicial_Reasoning_Log": "The Court of Appeal substantially agreed with Sakae’s characterisation of the impugned transactions and upheld the High Court’s findings that six of the seven transactions (all except the Second Loan) formed part of a pattern of commercially unfair conduct towards Sakae. It endorsed the analytical framework distinguishing personal from corporate wrongs and concluded that Sakae’s oppression action under s 216 was properly constituted, as Sakae suffered a distinct personal injury and sought appropriate relief in the form of winding up and ancillary restitutionary orders. The court rejected the appellants’ reliance on the JVA’s contractual remedies and on Sakae’s board representation as adequate alternatives, and dismissed arguments based on Sakae’s alleged knowledge or acquiescence. It upheld the winding-up order for the Company and the repayment orders against Andy Ong and Ong Han Boon in respect of Transactions 1(a), 2, 3, 4 and 7, with the exception of Transaction 6 where the remedy was restructured. For Transaction 6, the court set aside the High Court’s order requiring Andy Ong to pay Sakae S$2,641,975 and instead invalidated Sakae’s and ERC Holdings’ share subscriptions under the sham option, ordering the Company to repay Sakae S$2,641,975 and to hold ERC Holdings’ S$8.8 million in escrow. While Sakae succeeded in maintaining the core findings of oppression and most of the relief granted, the specific monetary order in its favour in Suit No 122 was replaced by a different remedial structure. In the context of CA 87, Sakae, as respondent, was not found liable; rather, it successfully defended the High Court’s findings against the appellants, subject only to the limited variation of relief for Transaction 6."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 103 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Ong Siew Kwee",
+      "Law_Firm": "Rajah & Tann Singapore LLP",
+      "Counsel": [
+        "Lee Eng Beng SC",
+        "Rethnam Chandra Mohan",
+        "Yuen Djia Chiang Jonathan",
+        "Jeremy Gan",
+        "Chia Ming Yee Doreen",
+        "Gaw Wai Ming Daniel"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "In Civil Appeal No 103 of 2017, Andy Ong (Ong Siew Kwee) appealed as a third party claimant against the dismissal of his third party claims for contribution against Douglas Foo Peow Yong in Suit No 1098 of 2013."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2017-05-04",
+          "Text": "On 4 May 2017, the High Court issued the Third Party Judgment dismissing third party claims by Andy Ong, Ong Han Boon and Ho against Douglas Foo and ordering indemnity costs against them."
+        }
+      ],
+      "Issue": "Whether Andy Ong, having been found subject of dispute to the Company in Suit No 1098 of 2013, was entitled under ss 15 and 16 of the Civil Law Act to recover contribution from Douglas Foo Peow Yong in respect of that liability.",
+      "Rule": "Section 15(1) of the Civil Law Act allows a person subject of dispute in respect of damage suffered by another to recover contribution from any other person subject of dispute in respect of the same damage. Section 16(2) empowers the court to exempt any person from liability to make contribution. The court must identify the damage suffered, determine whether both the third party claimant and third party defendant are subject of dispute in respect of that same damage, and then consider whether it is just and equitable to order contribution or to exempt the third party defendant.",
+      "Application": "Andy Ong argued that the Company had suffered damage from the impugned transactions and that both he and Douglas Foo, as directors of the Company, were subject of dispute in respect of that damage. He contended that Foo had engaged in disputed conduct by failing to supervise the Company’s affairs and by leaving management entirely to Andy Ong, and that Foo’s inaction contributed to the occurrence of the transactions. He sought contribution from Foo under s 15(1) of the Civil Law Act. Foo argued that the third party claims should fail because Andy Ong and Ong Han Boon had not adduced their own evidence at trial, that any breaches by Foo were of a different nature from Andy Ong’s deliberate misconduct, and that Foo should in any event be exempted from contribution under s 16(2) given the deliberate and self-serving nature of Andy Ong’s wrongdoing.",
+      "Judicial_Reasoning_Log": "The Court of Appeal clarified the proper application of s 15(1) of the Civil Law Act, holding that the focus is on the damage suffered by the person harmed and that the harmed party need not be the plaintiff in the main action. In the context of Suit No 1098 of 2013, the court treated the Company as the party that suffered damage from the misappropriation of its assets, even though Sakae had brought the oppression action. It reformulated the three-step test from Tan Juay Pah to ask: (a) what damage the Company suffered as a result of Andy Ong’s actions; (b) whether Andy Ong was liable to the Company in respect of that damage; and (c) whether Foo was also liable to the Company in respect of that same damage. The court accepted that Andy Ong was liable to the Company for breaches of fiduciary duty in relation to several transactions and that Foo had breached his duty of care, skill and diligence by failing to supervise the Company’s affairs and by relying entirely on Andy Ong. However, it noted that Andy Ong’s third party pleadings alleged that Foo had breached fiduciary duties, not the duty of care, skill and diligence. As the evidence supported only a breach of the duty of care, skill and diligence by Foo, and not a breach of fiduciary duties as pleaded, the court held that Andy Ong had not established that Foo was liable on the pleaded basis in respect of the same damage. On this ground, the claim for contribution under s 15(1) failed. For completeness, the court considered whether, assuming proper pleading, Foo should be exempted from contribution under s 16(2). It held that allowing Andy Ong to recover contribution would unjustly permit him to retain part of his wrongly acquired benefit, given that he had directly benefitted from the misappropriations through payments to himself and ERC Group entities. The court also considered the role of illegality, noting that while illegality is not a complete defence to a contribution claim, it is relevant to the exercise of the court’s discretion under s 16. It concluded that Foo should in any event be exempted from liability to make contribution to Andy Ong. Accordingly, the appeal in CA 103 was dismissed in respect of the third party claims under Suit No 1098 of 2013."
+    },
+    "Label": "Appeal Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 103 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Ong Han Boon (Wang Hanwen)",
+      "Law_Firm": "Rajah & Tann Singapore LLP",
+      "Counsel": [
+        "Lee Eng Beng SC",
+        "Rethnam Chandra Mohan",
+        "Yuen Djia Chiang Jonathan",
+        "Jeremy Gan",
+        "Chia Ming Yee Doreen",
+        "Gaw Wai Ming Daniel"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "In Civil Appeal No 103 of 2017, Ong Han Boon appealed as a third party claimant against the dismissal of his third party claims for contribution against Douglas Foo Peow Yong in Suit No 1098 of 2013."
+        }
+      ],
+      "Issue": "Whether Ong Han Boon, having been found subject of dispute to the Company in Suit No 1098 of 2013, was entitled under ss 15 and 16 of the Civil Law Act to recover contribution from Douglas Foo Peow Yong in respect of that liability.",
+      "Rule": "Under s 15(1) of the Civil Law Act, a person subject of dispute in respect of damage suffered by another may seek contribution from another person subject of dispute in respect of the same damage. Section 16(2) allows the court to exempt a person from liability to make contribution. The court must consider the pleaded basis of liability and whether it is just and equitable to order contribution.",
+      "Application": "Ong Han Boon argued that the Company had suffered damage from the First Loan and excessive management fees, and that both he and Foo, as directors, were subject of dispute in respect of that damage. He contended that Foo’s failure to supervise the Company’s affairs and to question transactions contributed to the occurrence of the impugned transactions. Foo argued that Ong Han Boon’s third party pleadings alleged breaches of management obligations by Foo, whereas the evidence showed, at most, a breach of the duty of care, skill and diligence, and that in any event it would be inequitable to require Foo to contribute to losses arising from Ong Han Boon’s deliberate misconduct.",
+      "Judicial_Reasoning_Log": "The Court of Appeal applied the same analytical framework under ss 15 and 16 of the Civil Law Act to Ong Han Boon’s third party claim as it did to Andy Ong’s. It accepted that the Company had suffered damage from the First Loan and excessive management fees and that Ong Han Boon was liable to the Company for breaches of fiduciary duty in relation to those transactions. It also accepted that Foo had breached his duty of care, skill and diligence by failing to supervise the Company’s affairs. However, the court noted that Ong Han Boon’s third party pleadings alleged that Foo had breached fiduciary duties, not the duty of care, skill and diligence. As the evidence did not establish a breach of fiduciary duties by Foo, Ong Han Boon failed to show that Foo was liable on the pleaded basis in respect of the same damage. The claim for contribution under s 15(1) therefore failed. The court went on to consider, in the alternative, whether Foo should be exempted from contribution under s 16(2). It held that allowing Ong Han Boon to recover contribution would effectively permit him to rely on his own illegality, as he had colluded with Andy Ong in preparing sham documents and arranging unauthorised transactions. The court considered it inequitable to require Foo, who had not profited from the misconduct, to contribute to losses arising from deliberate wrongdoing by Ong Han Boon. Accordingly, the court held that Foo should in any event be exempted from liability to make contribution to Ong Han Boon. The appeal in CA 103 was therefore dismissed in respect of Ong Han Boon’s third party claims under Suit No 1098 of 2013."
+    },
+    "Label": "Appeal Dismissed",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 104 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Ho Yew Kong",
+      "Law_Firm": "Premier Law LLC",
+      "Counsel": [
+        "Siraj Omar",
+        "Lee Wei Alexander",
+        "Audie Wong Cheng Siew"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "In Civil Appeal No 104 of 2017, Ho appealed as a third party claimant against the dismissal of his third party claims for contribution against Douglas Foo Peow Yong in Suit No 1098 of 2013."
+        }
+      ],
+      "Issue": "Whether Ho, having been found subject of dispute to the Company in Suit No 1098 of 2013, was entitled under ss 15 and 16 of the Civil Law Act to recover contribution from Douglas Foo Peow Yong, and how the appellate court’s decision in CA 86 affected the need to determine CA 104.",
+      "Rule": "A third party contribution claim under ss 15 and 16 of the Civil Law Act requires that the claimant be subject of dispute in respect of damage suffered by another and that the third party defendant also be subject of dispute in respect of the same damage. If the claimant’s underlying liability is set aside on appeal, the contribution claim becomes moot.",
+      "Application": "Ho argued that if he were subject of dispute to the Company for breaches of duty in relation to certain transactions, he should be entitled to contribution from Foo on the basis that Foo had engaged in disputed conduct as a director by failing to supervise the Company’s affairs. Foo argued that Ho’s third party claim should fail for similar reasons as those advanced against Andy Ong and Ong Han Boon, and that in any event it would be inequitable to require Foo to contribute to losses arising from Ho’s conduct. After the Court of Appeal allowed Ho’s appeal in CA 86 and set aside his liability for oppression and related repayment orders in Suit No 1098 of 2013, the basis for Ho’s third party contribution claim in CA 104 fell away.",
+      "Judicial_Reasoning_Log": "The Court of Appeal held in CA 86 that Ho was not liable for oppression or for breaches of fiduciary duties in Suit No 1098 of 2013, and it set aside the repayment orders against him. As a result, Ho no longer had any liability to the Company in respect of which he could seek contribution from Foo under s 15(1) of the Civil Law Act. The court therefore considered that the merits of Ho’s third party contribution claim in CA 104 had become moot. It made no order on the substantive third party claim, save that it set aside the High Court’s order of indemnity costs against Ho in the third party proceedings, reflecting the change in his liability position. In light of the outcome in CA 86, there was no need to determine whether Foo would otherwise have been liable to contribute to any damage in respect of Ho’s conduct."
+    },
+    "Label": "Appeal Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 86 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Sakae Holdings Ltd",
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Davinder Singh s/o Amar Singh SC",
+        "Jaikanth Shankar",
+        "Pardeep Singh Khosa",
+        "Navin Shanmugaraj Thevar",
+        "Lydia Ni",
+        "Jaspreet Singh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "In Civil Appeal No 86 of 2017, Sakae was the respondent defending the High Court’s findings of oppression and fiduciary breach against Ho in Suit No 1098 of 2013."
+        }
+      ],
+      "Issue": "Whether Sakae, as respondent in CA 86, could maintain the High Court’s findings that Ho was subject of dispute for oppression and breaches of management obligations in Suit No 1098 of 2013.",
+      "Rule": "To uphold findings of oppression and fiduciary breach against a director, the respondent must show that the director’s conduct amounted to breaches of management obligations and formed part of commercially unfair conduct under s 216. The appellate court will assess whether the pleaded breaches are supported by evidence and whether they meet the threshold of oppression.",
+      "Application": "Sakae argued that Ho’s conduct in signing and facilitating sham or backdated agreements and payments formed part of the oppressive pattern of conduct and breached his management obligations to the Company. Ho argued that his conduct, while negligent, did not amount to dishonesty or breach of management obligations, that Sakae’s pleadings did not allege breach of the duty of care, skill and diligence, and that his actions did not meet the threshold for oppression.",
+      "Judicial_Reasoning_Log": "The Court of Appeal concluded that Sakae had not established, on its pleaded case, that Ho breached fiduciary duties or engaged in oppressive conduct. It found that Ho’s conduct amounted to negligence in failing to exercise due care and diligence, but did not demonstrate dishonesty or disloyalty. As Sakae’s pleadings alleged only breaches of fiduciary duties and not breaches of the duty of care, skill and diligence, the specific breach supported by the evidence was not properly pleaded. The court also held that Ho’s negligent mismanagement, without personal benefit or deliberate abuse of power, did not amount to commercial unfairness sufficient to ground oppression under s 216. Accordingly, it allowed Ho’s appeal in CA 86 and set aside the High Court’s findings and orders against him. Sakae, as respondent, was therefore not able to maintain the High Court’s conclusions regarding Ho’s liability."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 7
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 87 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Sakae Holdings Ltd",
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Davinder Singh s/o Amar Singh SC",
+        "Jaikanth Shankar",
+        "Pardeep Singh Khosa",
+        "Navin Shanmugaraj Thevar",
+        "Lydia Ni",
+        "Jaspreet Singh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "In Civil Appeal No 87 of 2017, Sakae was the respondent defending the High Court’s findings of oppression and related orders in Suit No 1098 of 2013 against multiple ERC Group-related appellants and directors."
+        }
+      ],
+      "Issue": "Whether Sakae, as respondent in CA 87, could maintain the High Court’s findings that the ERC Group-related appellants and Andy Ong and Ong Han Boon were subject of dispute for oppression and breaches of duty in Suit No 1098 of 2013, and whether the appellate court should uphold the winding-up and repayment orders.",
+      "Rule": "The respondent in an oppression appeal may seek to uphold the trial court’s findings by demonstrating that the conduct complained of amounted to commercial unfairness under s 216 and that the remedies granted were within the court’s discretion under s 216(2).",
+      "Application": "Sakae argued that the seven impugned transactions formed a coherent pattern of commercially unfair conduct orchestrated by Andy Ong and his associates, and that the High Court’s findings and remedies were justified. The appellants challenged the characterisation of the transactions, argued that Sakae’s claims were corporate in nature, and contended that contractual remedies and Sakae’s board representation precluded or mitigated oppression. Sakae defended the High Court’s reasoning on the interplay between s 216 and s 216A, the inadequacy of JVA remedies, and the absence of acquiescence or knowledge on its part.",
+      "Judicial_Reasoning_Log": "The Court of Appeal substantially upheld the High Court’s findings that six of the seven impugned transactions constituted oppressive conduct towards Sakae and that Andy Ong and Ong Han Boon had breached their duties to the Company. It endorsed the analytical framework distinguishing personal from corporate wrongs and concluded that Sakae’s oppression action under s 216 was properly constituted. The court rejected the appellants’ reliance on JVA remedies and on Sakae’s board representation as adequate alternatives, and dismissed arguments based on Sakae’s alleged knowledge or acquiescence. It upheld the winding-up order for the Company and the repayment orders against Andy Ong and Ong Han Boon in respect of Transactions 1(a), 2, 3, 4 and 7, with a limited variation of relief for Transaction 6. For Transaction 6, the court replaced the High Court’s order requiring Andy Ong to pay Sakae S$2,641,975 with an order invalidating Sakae’s and ERC Holdings’ share subscriptions under the sham option and directing the Company to repay Sakae S$2,641,975 while holding ERC Holdings’ S$8.8 million in escrow. Sakae, as respondent, successfully defended the core findings and remedies, subject only to this limited adjustment."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 103 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Douglas Foo Peow Yong",
+      "Law_Firm": "Premier Law LLC",
+      "Counsel": [
+        "Siraj Omar",
+        "Lee Wei Alexander",
+        "Audie Wong Cheng Siew"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Douglas Foo Peow Yong (\"Foo\") was the chairman of Sakae’s board at all material times and a director of the Company."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2012-10-25",
+          "Text": "On 25 October 2012, Foo convened a Sakae board meeting to raise concerns about various transactions undertaken by the Company, leading to investigations into the Company’s financial affairs."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "Foo generally left the management of the Company’s daily operations to Andy Ong and his team at Gryphon Capital Management Pte Ltd, and relied on Sakae’s Chief Financial Officer to monitor the Company’s management accounts."
+        }
+      ],
+      "Issue": "Whether Foo, as respondent to third party contribution claims in CA 103, was subject of dispute under ss 15 and 16 of the Civil Law Act to contribute to the sums that Andy Ong and Ong Han Boon were ordered to pay to the Company in Suit No 1098 of 2013.",
+      "Rule": "Under s 15(1) of the Civil Law Act, a person subject of dispute in respect of damage suffered by another may be required to contribute to another person’s liability in respect of the same damage. Section 16(2) allows the court to exempt a person from liability to make contribution. The court must consider the pleaded basis of liability and whether it is just and equitable to order contribution.",
+      "Application": "Foo argued that the third party claims by Andy Ong and Ong Han Boon should fail because their pleadings alleged breaches of management obligations by Foo, whereas the evidence showed, at most, a breach of the duty of care, skill and diligence. He contended that he had not engaged in deliberate wrongdoing, had not profited from the impugned transactions, and had not actively participated in the misappropriations. He further argued that even if he were subject of dispute in some way, it would be inequitable to require him to contribute to losses arising from deliberate and self-serving misconduct by Andy Ong and Ong Han Boon. Andy Ong and Ong Han Boon argued that Foo’s failure to supervise the Company’s affairs and to question transactions contributed to the occurrence of the impugned transactions and that he should share responsibility for the resulting damage.",
+      "Judicial_Reasoning_Log": "The Court of Appeal held that the third party claims against Foo failed on both pleading and discretionary grounds. It accepted that Foo had breached his duty of care, skill and diligence by failing to supervise the Company’s affairs and by relying entirely on Andy Ong, but it found no evidence that Foo had breached fiduciary duties of loyalty or had engaged in deliberate wrongdoing. As Andy Ong’s and Ong Han Boon’s third party pleadings alleged only breaches of fiduciary duties by Foo, the court held that they had not established that Foo was liable on the pleaded basis in respect of the same damage suffered by the Company. The claims for contribution under s 15(1) therefore failed. The court went on to consider, in the alternative, whether Foo should be exempted from contribution under s 16(2). It concluded that allowing Andy Ong and Ong Han Boon to recover contribution would unjustly permit them to retain part of their wrongly acquired benefit and would effectively allow Ong Han Boon to rely on his own illegality. The court considered it inequitable to require Foo, who had not profited from the misconduct, to contribute to losses arising from deliberate wrongdoing by Andy Ong and Ong Han Boon. Accordingly, it held that Foo should in any event be exempted from liability to make contribution. The appeal in CA 103 was dismissed in respect of the third party claims under Suit No 1098 of 2013, and Foo remained not liable to contribute."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 86 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Douglas Foo Peow Yong",
+      "Law_Firm": "Premier Law LLC",
+      "Counsel": [
+        "Siraj Omar",
+        "Lee Wei Alexander",
+        "Audie Wong Cheng Siew"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "In Civil Appeal No 86 of 2017, Foo was not a direct party to the main claim between Ho and Sakae, but his role as chairman of Sakae’s board and director of the Company formed part of the factual background."
+        }
+      ],
+      "Issue": "Whether any findings in CA 86 regarding Ho’s liability for oppression and breaches of duty in Suit No 1098 of 2013 affected Foo’s position as a director and potential third party defendant.",
+      "Rule": "Findings in an appeal concerning a director’s liability for oppression and breaches of duty may indirectly affect the viability of third party contribution claims against another director, but do not by themselves impose liability on that other director in the absence of specific claims.",
+      "Application": "The Court of Appeal’s decision in CA 86 focused on Ho’s liability and did not directly address Foo’s liability. However, the court’s analysis of Ho’s conduct and the distinction between management obligations and the duty of care, skill and diligence informed its later analysis in CA 103 of Foo’s liability for contribution. Foo’s position as a director who had left management to Andy Ong and had not profited from the impugned transactions was relevant to the court’s assessment of whether he should be required to contribute to losses arising from deliberate misconduct by others.",
+      "Judicial_Reasoning_Log": "In CA 86, the Court of Appeal did not make any direct findings of liability against Foo. Its analysis of Ho’s conduct and the distinction between fiduciary duties and the duty of care, skill and diligence, however, laid the groundwork for its later conclusion in CA 103 that Foo had breached his duty of care, skill and diligence but not his fiduciary duties. The court’s recognition that negligent mismanagement without personal benefit or deliberate abuse of power does not necessarily amount to oppression or fiduciary breach supported its decision not to impose liability on Foo in the third party contribution context. Foo’s position in CA 86 remained that of a background actor whose conduct was relevant to the overall narrative but did not give rise to direct liability in that appeal."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 87 of 2017 (Suit No 1098 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Douglas Foo Peow Yong",
+      "Law_Firm": "Premier Law LLC",
+      "Counsel": [
+        "Siraj Omar",
+        "Lee Wei Alexander",
+        "Audie Wong Cheng Siew"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "In Civil Appeal No 87 of 2017, Foo was not a direct party to the main claim between the ERC Group-related appellants and Sakae, but his role as chairman of Sakae’s board and director of the Company formed part of the factual background."
+        }
+      ],
+      "Issue": "Whether any findings in CA 87 regarding oppression and breaches of duty in Suit No 1098 of 2013 affected Foo’s position as a director and potential third party defendant.",
+      "Rule": "Findings in an oppression appeal concerning directors’ misconduct and the adequacy of shareholder remedies may inform the analysis of a director’s potential liability in related third party contribution proceedings, but do not by themselves impose liability on a director who is not a party to the appeal.",
+      "Application": "In CA 87, the Court of Appeal focused on the conduct of Andy Ong, Ong Han Boon and ERC Group entities, and on Sakae’s oppression claim. Foo’s role as chairman of Sakae’s board and director of the Company was relevant to the analysis of Sakae’s knowledge, ability to resist oppression, and the adequacy of contractual remedies under the Joint Venture Agreement. The court’s findings that Sakae did not know of the impugned transactions and that it was not required to scrutinise Company accounts in the absence of red flags supported the conclusion that Foo had not acquiesced in the misconduct. These findings later informed the court’s analysis in CA 103 of Foo’s liability for contribution.",
+      "Judicial_Reasoning_Log": "The Court of Appeal in CA 87 did not impose liability on Foo, as he was not a party to that appeal. Its findings regarding Sakae’s lack of knowledge of the impugned transactions and the inadequacy of contractual remedies under the Joint Venture Agreement, however, were relevant to the assessment of Foo’s conduct as chairman of Sakae’s board and director of the Company. The court’s conclusion that Sakae was not required to investigate the Company’s affairs in the absence of red flags and that it did not acquiesce in the misconduct supported the view that Foo had not engaged in deliberate wrongdoing or acquiescence. These conclusions were later reflected in CA 103, where the court held that Foo had breached his duty of care, skill and diligence but not his fiduciary duties, and that he should be exempted from contribution. Foo’s position in CA 87 remained that of a background actor without direct liability in that appeal."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 103 of 2017 (Suit No 122 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Ong Siew Kwee",
+      "Law_Firm": "Rajah & Tann Singapore LLP",
+      "Counsel": [
+        "Lee Eng Beng SC",
+        "Rethnam Chandra Mohan",
+        "Yuen Djia Chiang Jonathan",
+        "Jeremy Gan",
+        "Chia Ming Yee Doreen",
+        "Gaw Wai Ming Daniel"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "In Suit No 122 of 2013, Sakae sued Andy Ong for breach of management obligations as a director of Sakae and for inducing the Company to breach the Joint Venture Agreement in relation to Transaction 6."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-05-24",
+          "Text": "On 24 May 2012, ERC Holdings paid S$8.8 million to the Company in purported exercise of the ERC Option, and on 31 May and 1 June 2012, Sakae subscribed for 2,641,975 additional shares in the Company for S$2,641,975."
+        }
+      ],
+      "Issue": "Whether Andy Ong, as appellant in CA 103, remained subject of dispute to Sakae in Suit No 122 of 2013 for breach of management obligations in relation to Transaction 6, and whether he was entitled to contribution from Foo in respect of that liability.",
+      "Rule": "A director owes management obligations to act in the best interests of the company and to avoid conflicts of interest. Where a director causes a company to enter into a sham or conflicted transaction that harms the company or its shareholders, he may be subject of dispute for breach of management obligation. Under ss 15 and 16 of the Civil Law Act, a person subject of dispute in respect of damage suffered by another may seek contribution from another person subject of dispute in respect of the same damage, subject to the court’s discretion to exempt.",
+      "Application": "The High Court had held that Andy Ong breached his management obligations to Sakae in relation to Transaction 6 by placing himself in a position of conflict of interest and causing Sakae to subscribe for additional shares under a sham Share Option Agreement, and ordered him to pay Sakae S$2,641,975. Andy Ong appealed in CA 103 and also sought contribution from Foo in respect of this liability. On appeal, the Court of Appeal restructured the remedy for Transaction 6, invalidating Sakae’s share subscription and ordering the Company to repay S$2,641,975 to Sakae, thereby removing Andy Ong’s personal liability for that amount. As a result, his third party contribution claim against Foo in respect of Suit No 122 became moot.",
+      "Judicial_Reasoning_Log": "The Court of Appeal agreed with the High Court that Andy Ong had breached his fiduciary duties to Sakae in relation to Transaction 6 by placing himself in a position of conflict of interest and using a sham Share Option Agreement to pressure Sakae into subscribing for additional shares. However, it considered that the High Court’s remedy of ordering Andy Ong to pay S$2,641,975 to Sakae risked overcompensating Sakae, as Sakae would retain the additional shares while also receiving full monetary compensation. The court exercised its powers under s 216(2) of the Companies Act to cancel or vary transactions and held that the appropriate remedy was to invalidate Sakae’s subscription for the additional 2,641,975 shares and to order the Company to repay S$2,641,975 to Sakae. It also invalidated ERC Holdings’ share subscription under the sham option and directed that the S$8.8 million paid by ERC Holdings be held in escrow. This restructuring removed Andy Ong’s personal liability to Sakae for S$2,641,975 in Suit No 122. Consequently, his third party contribution claim against Foo in respect of that liability became moot, and the court made no order on that aspect of CA 103. The appeal was thus allowed in part in relation to the remedy for Transaction 6, while the underlying finding of fiduciary breach was conceptually maintained."
+    },
+    "Label": "Appeal Allowed in Part",
+    "Leakage_Score": 5
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 103 of 2017 (Suit No 122 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Sakae Holdings Ltd",
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Davinder Singh s/o Amar Singh SC",
+        "Jaikanth Shankar",
+        "Pardeep Singh Khosa",
+        "Navin Shanmugaraj Thevar",
+        "Lydia Ni",
+        "Jaspreet Singh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "In Suit No 122 of 2013, Sakae sued Andy Ong for breach of management obligations as a director of Sakae and for inducing the Company to breach the Joint Venture Agreement in relation to Transaction 6."
+        }
+      ],
+      "Issue": "Whether Sakae, as respondent in CA 103, could maintain the High Court’s order requiring Andy Ong to pay S$2,641,975 in Suit No 122 of 2013, or whether the appellate court should restructure the remedy for Transaction 6.",
+      "Rule": "Where a director breaches management obligations in relation to a transaction that causes a company or its shareholder to make a payment under a sham or conflicted arrangement, the court may grant relief by cancelling or varying the transaction and ordering restitution by the company, rather than by ordering the director to pay compensation directly, to avoid overcompensation and to align with the nature of the wrong.",
+      "Application": "Sakae argued that Andy Ong’s breach of management obligations in relation to Transaction 6 justified the High Court’s order requiring him to pay S$2,641,975, representing the amount Sakae paid to subscribe for additional shares. Andy Ong argued that this remedy overcompensated Sakae and that the appropriate relief was to unwind the share subscriptions and adjust payments between Sakae, ERC Holdings and the Company. The Court of Appeal agreed that the Share Option Agreement was a sham and that Andy Ong had breached management obligations, but considered that the remedy should be structured to avoid Sakae retaining both the additional shares and full monetary compensation.",
+      "Judicial_Reasoning_Log": "The Court of Appeal held that while Andy Ong had breached his fiduciary duties to Sakae in relation to Transaction 6, the High Court’s remedy of ordering him to pay S$2,641,975 to Sakae risked overcompensating Sakae. The court reasoned that if Sakae retained the additional 2,641,975 shares and also received full monetary compensation, it would effectively obtain a windfall. To align the remedy with the nature of the wrong and to avoid overcompensation, the court exercised its powers under s 216(2) of the Companies Act to cancel or vary transactions. It invalidated Sakae’s subscription for the additional 2,641,975 shares and ordered the Company to repay S$2,641,975 to Sakae. It also invalidated ERC Holdings’ share subscription under the sham option and directed that the S$8.8 million paid by ERC Holdings be held in escrow, with liberty to Sakae and ERC Holdings to apply for directions on disbursement. As a result, the High Court’s order requiring Andy Ong to pay S$2,641,975 to Sakae in Suit No 122 was set aside, and Sakae’s recovery was restructured as restitution from the Company rather than compensation from Andy Ong personally. In this sense, Andy Ong was no longer personally liable to Sakae for that amount, and Sakae’s position as respondent in CA 103 was adjusted accordingly."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 4
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 103 of 2017 (Suit No 122 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Douglas Foo Peow Yong",
+      "Law_Firm": "Premier Law LLC",
+      "Counsel": [
+        "Siraj Omar",
+        "Lee Wei Alexander",
+        "Audie Wong Cheng Siew"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "In Suit No 122 of 2013, Foo was joined as a third party by Andy Ong, who sought indemnification or contribution in respect of any liability to Sakae arising from Transaction 6."
+        }
+      ],
+      "Issue": "Whether Foo, as respondent to Andy Ong’s third party contribution claim in CA 103, was subject of dispute under ss 15 and 16 of the Civil Law Act to contribute to any liability Andy Ong had to Sakae in Suit No 122 of 2013.",
+      "Rule": "A third party contribution claim under ss 15 and 16 of the Civil Law Act requires that the claimant be subject of dispute in respect of damage suffered by another and that the third party defendant also be subject of dispute in respect of the same damage. If the claimant’s underlying liability is set aside or restructured such that the claimant no longer owes the relevant sum, the contribution claim becomes moot.",
+      "Application": "Andy Ong argued that if he were subject of dispute to Sakae for S$2,641,975 in Suit No 122, Foo should contribute to that liability on the basis that Foo had engaged in disputed conduct as a director of Sakae and of the Company. Foo argued that he had not breached management obligations to Sakae in relation to Transaction 6 and that it would be inequitable to require him to contribute to any liability arising from Andy Ong’s deliberate misconduct. After the Court of Appeal restructured the remedy for Transaction 6 by invalidating Sakae’s share subscription and ordering the Company to repay S$2,641,975, Andy Ong no longer had personal liability to Sakae for that amount, and the basis for his contribution claim against Foo fell away.",
+      "Judicial_Reasoning_Log": "The Court of Appeal held that, following its decision to set aside the High Court’s order requiring Andy Ong to pay S$2,641,975 to Sakae and to restructure the remedy for Transaction 6 as restitution from the Company, Andy Ong no longer had personal liability to Sakae in respect of that amount. As a result, the precondition for a contribution claim under s 15(1) of the Civil Law Act—that the claimant be liable in respect of damage suffered by another—was no longer satisfied. The court therefore considered Andy Ong’s third party contribution claim against Foo in respect of Suit No 122 to be moot and made no order on that aspect of CA 103. It did not need to decide whether Foo would otherwise have been liable to contribute, although it noted in the Third Party Judgment that the High Court had found no breach of fiduciary duties by Foo in relation to Transaction 6. Foo remained not liable to contribute in respect of Suit No 122."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Court of Appeal Originating Summons No 13 of 2017 (Suits No 1098 and 122 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Ong Siew Kwee",
+      "Law_Firm": "Rajah & Tann Singapore LLP",
+      "Counsel": [
+        "Lee Eng Beng SC",
+        "Rethnam Chandra Mohan",
+        "Yuen Djia Chiang Jonathan",
+        "Jeremy Gan",
+        "Chia Ming Yee Doreen",
+        "Gaw Wai Ming Daniel"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2017-04-07",
+          "Text": "On 7 April 2017, the High Court issued the Main Judgment in respect of Suits Nos 1098 and 122 of 2013."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2017-05-04",
+          "Text": "On 4 May 2017, the High Court issued the Third Party Judgment in respect of third party claims in Suits Nos 1098 and 122 of 2013."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2017-05-05",
+          "Text": "On 5 May 2017, the AO Defendants, including Andy Ong, filed a notice of appeal (CA 87) against the Main Judgment, expressed to be in respect of Suit No 1098 of 2013."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2017-05-22",
+          "Text": "On 22 May 2017, Andy Ong and Ong Han Boon filed a notice of appeal (CA 103) against the Third Party Judgment, expressed to be in respect of Suit No 1098 of 2013."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2017-06-30",
+          "Text": "On 30 June 2017, Andy Ong filed CA/OS 13/2017 seeking a retroactive extension of time to file an appeal against the findings in Suit No 122 of 2013, on the basis that his earlier notices of appeal referred only to Suit No 1098 of 2013."
+        }
+      ],
+      "Issue": "Whether Andy Ong was required to file separate notices of appeal in respect of Suits Nos 1098 and 122 of 2013, and whether he needed a retroactive extension of time to appeal against the findings in Suit No 122 of 2013.",
+      "Rule": "Order 57 rule 3(2) of the Rules of Court provides that a notice of appeal is to be filed in respect of the whole or any specified part of the judgment or order of the court below. Where a single judgment covers multiple actions, a single notice of appeal may suffice to challenge the findings in respect of all actions covered by that judgment.",
+      "Application": "Andy Ong argued that his notices of appeal in CA 87 and CA 103, although expressed to be in respect of Suit No 1098 of 2013, should be treated as appeals against the findings in both Suits Nos 1098 and 122 of 2013, as the High Court had issued single judgments covering both suits and single extracted judgments for each. Sakae argued that separate notices of appeal were required for each suit, relying on authorities suggesting that where orders are made in different actions, separate notices of appeal are needed. The Court of Appeal examined Order 57 rule 3(2) and relevant case law, including Tang Liang Hong and Linda Lai, and considered whether those authorities applied to the present situation.",
+      "Judicial_Reasoning_Log": "The Court of Appeal held that Andy Ong was not required to file separate notices of appeal for Suits Nos 1098 and 122 of 2013. It interpreted Order 57 rule 3(2) of the Rules of Court as providing that a notice of appeal is filed in respect of a judgment or order, not in respect of an action. As the High Court had issued a single Main Judgment covering both suits and a single Third Party Judgment covering both suits, and had extracted single judgments for each, the court concluded that a single notice of appeal against each judgment sufficed to challenge the findings in respect of both suits. The court distinguished Tang Liang Hong and Linda Lai on the basis that those cases involved attempts to use a single notice of appeal to challenge multiple separate judgments or orders in different actions, whereas in the present case each notice of appeal was directed at a single judgment covering multiple suits. The court also noted practical considerations of judicial economy and costs in favour of allowing a single notice of appeal per judgment. It therefore held that Andy Ong’s existing notices of appeal in CA 87 and CA 103 were effective to challenge the findings in both Suits Nos 1098 and 122 of 2013, and that no retroactive extension of time was necessary. Accordingly, it made no order on CA/OS 13/2017, effectively allowing Andy Ong’s position that his appeals already covered Suit No 122 of 2013."
+    },
+    "Label": "Appeal Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Court of Appeal Originating Summons No 13 of 2017 (Suits No 1098 and 122 of 2013)",
+      "Coram": "Sundaresh Menon CJ, Tay Yong Kwang JA and Steven Chong JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2018-06-29",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Sakae Holdings Ltd",
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Davinder Singh s/o Amar Singh SC",
+        "Jaikanth Shankar",
+        "Pardeep Singh Khosa",
+        "Navin Shanmugaraj Thevar",
+        "Lydia Ni",
+        "Jaspreet Singh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2017-05-16",
+          "Text": "At a hearing on 16 May 2017, Sakae maintained that Andy Ong was required to file a separate notice of appeal in respect of Suit No 122 of 2013 if he wished to challenge the findings in that suit."
+        }
+      ],
+      "Issue": "Whether Sakae’s position that separate notices of appeal were required for Suits Nos 1098 and 122 of 2013 should be accepted, thereby necessitating a retroactive extension of time for Andy Ong to appeal in respect of Suit No 122 of 2013.",
+      "Rule": "Order 57 rule 3(2) of the Rules of Court governs the filing of notices of appeal in respect of judgments or orders, not actions. Authorities requiring separate notices of appeal for different actions heard together must be read in context and do not necessarily apply where a single judgment covers multiple actions.",
+      "Application": "Sakae argued that case law, including Tang Liang Hong and Linda Lai, required separate notices of appeal for each action, even if the actions were heard together, and that Andy Ong’s notices of appeal, which referred only to Suit No 1098 of 2013, did not cover Suit No 122 of 2013. The Court of Appeal examined the wording of Order 57 rule 3(2), the structure of the High Court’s judgments and extracted orders, and the authorities cited by Sakae. It considered whether those authorities applied to the present situation, where single judgments and extracted orders covered multiple suits.",
+      "Judicial_Reasoning_Log": "The Court of Appeal rejected Sakae’s contention that separate notices of appeal were required for Suits Nos 1098 and 122 of 2013. It held that Order 57 rule 3(2) focuses on judgments and orders rather than actions, and that a single notice of appeal may properly challenge a single judgment that covers multiple actions. The court distinguished Tang Liang Hong and Linda Lai on the basis that those cases involved attempts to use a single notice of appeal to challenge multiple separate judgments or orders in different actions, whereas in the present case each notice of appeal was directed at a single judgment that encompassed both suits. The court also noted that requiring separate notices of appeal in such circumstances would be inefficient and could impose unnecessary costs on appellants. It concluded that Andy Ong’s existing notices of appeal in CA 87 and CA 103 were effective to challenge the findings in both Suits Nos 1098 and 122 of 2013, and that no retroactive extension of time was necessary. Sakae’s position in CA/OS 13/2017 was therefore not accepted, and no order was made on the originating summons."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  }
+]

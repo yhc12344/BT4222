@@ -1,0 +1,629 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 3 of 2017",
+      "Coram": "Kannan Ramesh J, Roger Giles IJ and Anselmo Reyes IJ",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-07-03",
+      "Tribunal_Court": "Singapore International Commercial Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "DyStar Global Holdings (Singapore) Pte Ltd",
+      "Law_Firm": "Premier Law LLC",
+      "Counsel": [
+        "See Chern Yang",
+        "Teng Po Yew",
+        "Audie Wong Cheng Siew"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "DyStar Global Holdings (Singapore) Pte Ltd is a Singapore-incorporated holding company for the DyStar group, which operates an international dyes and textile chemicals business."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-01-31",
+          "Text": "DyStar, Kiri Industries Limited, Kiri International (Mauritius) Private Limited, Pravinchandra Amrutlal Kiri, Manishkumar Pravinchandra Kiri and Well Prospering Limited entered into a Share Subscription and Shareholders Agreement (SSSA) and a Convertible Bond Subscription Agreement (CBSA) governing their joint venture in DyStar."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-2011",
+          "Text": "A DyStar German subsidiary provided process technology development (PTD) services to Kiri Industries Limited, including development and implementation of production processes for dyes."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2011-06-17",
+          "Text": "DyStar Germany issued pro-forma invoices to Kiri Industries Limited for PTD services rendered in 2010 and 2011, totalling approximately EUR 1.719 million."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2011-10",
+          "Text": "At a DyStar Board meeting on 26–27 October 2011, the shareholders discussed reimbursement of DyStar's PTD investment and recorded that Kiri would reimburse EUR 1.7 million via future transactions reflected in transfer pricing."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-05-18",
+          "Text": "DyStar issued a debit note dated 18 May 2012 to Kiri Industries Limited for S$443,813.59 in respect of additional audit costs incurred for audits aligned to Kiri's 31 March financial year-end."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-05",
+          "Text": "DyStar engaged KPMG LLP to conduct additional audits for periods ending 31 March 2011 and 31 March 2012 at Kiri's request, and received an invoice of approximately S$443,813.59 which DyStar sought to recharge to Kiri."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2012-05-07",
+          "Text": "DyStar's COO Harry emailed Manishkumar Pravinchandra Kiri stating that DyStar assumed Kiri's agreement to pay about USD 300,000 in audit costs before the final audit report was handed over."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2012-05-08",
+          "Text": "Manishkumar Pravinchandra Kiri replied that Kiri's representative would follow whatever commitment existed with KPMG for the audit fees."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01",
+          "Text": "A DyStar Board discussion in January 2013 noted that PTD charge-out to Kiri had not been done because no agreement was reached, and suggested charging the cost to DyStar Singapore to address tax risk for DyStar Germany."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "DyStar stated that Kiri Industries Limited breached non-compete and non-solicitation provisions in clause 15.1(a) and (b) of the SSSA by approaching certain customers in various jurisdictions, including FOTL in Morocco."
+        }
+      ],
+      "Issue": "Whether Kiri Industries Limited and related parties breached the SSSA (including non-compete, non-solicitation and confidentiality provisions), whether Kiri-nominated directors breached management obligations and conspired against DyStar, and whether Kiri is subject of dispute to DyStar for PTD fees and audit costs.",
+      "Rule": "Contractual obligations under the SSSA, including clause 15.1(a) prohibiting carrying on any business substantially similar to or competing with the DyStar group subject to carve-outs for existing businesses, clause 15.1(b) prohibiting solicitation of the custom of DyStar customers and identified prospective customers, and clause 17.1 imposing confidentiality obligations; general law on directors' management obligations to act bona fide in the interests of the company and not to misuse confidential information; elements of lawful and unlawful means conspiracy requiring a combination, intention (predominant purpose to injure for lawful means), unlawful acts where applicable, acts in furtherance, and resulting damage; contractual principles on formation and variation of agreements and liability to pay for services requested and received.",
+      "Application": "DyStar argued that Kiri Industries Limited and its related entities breached clause 15.1(a) and (b) of the SSSA by competing with DyStar and soliciting its customers in multiple countries, including by offering reactive dyes and related products to customers such as FOTL in Morocco, and that these breaches also constituted unlawful means for a conspiracy claim. DyStar further contended that Manishkumar Pravinchandra Kiri and Mukherjee Amitava, as Kiri-nominated directors, misused confidential information and engaged in competing activities, thereby breaching management obligations. On the PTD fees, DyStar relied on the October 2011 Board minutes and subsequent correspondence to argue that Kiri agreed to reimburse EUR 1.7 million via transfer pricing for PTD services provided by DyStar Germany. On the audit costs, DyStar relied on Audit Committee discussions, the engagement of KPMG for additional audits at Kiri's request, and emails in May 2012 to assert that Kiri agreed to bear S$443,813 in extra audit fees. DyStar maintained that these sums were due as contractual debts or on the basis of agreement and that Kiri's failure to pay caused loss to DyStar.",
+      "Judicial_Reasoning_Log": "The court held that clause 15.1(a) and (b) of the SSSA were enforceable restraints of trade in the context of a shareholders' joint venture agreement, protecting DyStar's legitimate proprietary interest in its business and goodwill and going no further than necessary when properly construed. The court interpreted clause 15.1(a) as prohibiting Kiri from carrying on any business substantially similar to or competing with DyStar's business in countries where DyStar operated, subject to a carve-out allowing Kiri to continue existing businesses it carried on prior to the SSSA, and clause 15.1(b) as preventing Kiri from soliciting the custom of DyStar's customers and identified prospective customers, while permitting Kiri to continue dealing with its own pre-existing customers. On the pleaded instances of competition and solicitation across various jurisdictions, the court found that, save for the approach to FOTL in Morocco, DyStar had not proved that Kiri's activities fell outside the carve-out for existing business or that the products offered were substantially similar to DyStar's business, or that there was actionable solicitation of DyStar's custom. In relation to FOTL, the court accepted that Kiri's approach involved offering products substantially similar to DyStar's and that FOTL was not an existing Kiri customer at the time of the SSSA, thereby constituting breaches of clause 15.1(a) and (b) by Kiri. However, no link was established between those breaches and any personal conduct of Manish or Amit, so the breaches were attributed only to Kiri. The court rejected DyStar's confidentiality claim under clause 17.1 due to lack of evidence of specific disclosures by Manish or Amit and absence of particulars of how any alleged disclosure caused loss. On fiduciary duties, the court held that the alleged competitive and solicitation conduct did not amount to breaches by Manish or Amit, and that their information requests and challenges to management decisions, including in relation to related party loans, cash-pooling, and structural changes, were grounded in legitimate governance concerns rather than an intention to disrupt DyStar. The court distinguished the earlier inspection proceedings under s 199(3) of the Companies Act, noting that the dismissal of that application did not convert the underlying information requests into breaches of duty. The court therefore dismissed the fiduciary duty claims. For conspiracy, the court found that the unlawful means conspiracy claim failed because the underlying alleged unlawful acts (breaches of the SSSA and fiduciary duties) were largely not made out and, in any event, there was no evidence of a combination or agreement among Kiri, Pravin, Manish and Amit to injure DyStar. The lawful means conspiracy claim failed because DyStar did not prove a predominant purpose to injure; the conduct relied upon was either legitimate competition within the contractual carve-outs or board-level oversight activity. On the PTD fees, the court relied on the October 2011 Board minutes, which recorded that both shareholders agreed that Kiri and Lonsen Kiri needed to reimburse DyStar's PTD investment and that Kiri would reimburse EUR 1.7 million via future transactions reflected in transfer pricing. The court found that this constituted an agreement by Kiri to pay the PTD fees and that Kiri had not in fact reimbursed DyStar, so judgment was entered for DyStar for EUR 1.7 million. On the audit costs, the court accepted Viktor's unchallenged evidence and contemporaneous emails showing that Kiri requested additional audits to align with its 31 March year-end, that DyStar engaged KPMG to perform those audits, and that Kiri agreed to bear the associated costs, as reflected in Harry's email and Manish's response that Kiri's representative would follow the commitment with KPMG. The court concluded that Kiri was contractually bound to pay the S$443,813 audit costs and had failed to do so, and therefore awarded that sum to DyStar. Overall, the court allowed DyStar's claim in Suit 3 in part: it granted monetary relief for the PTD fees and audit costs and interlocutory judgment for damages to be assessed for Kiri's breaches of clause 15.1(a) and (b) in respect of FOTL, while dismissing the remaining contractual, fiduciary duty, and conspiracy claims against the individual defendants and KIPL."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 4
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 3 of 2017",
+      "Coram": "Kannan Ramesh J, Roger Giles IJ and Anselmo Reyes IJ",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-07-03",
+      "Tribunal_Court": "Singapore International Commercial Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Kiri Industries Limited",
+      "Law_Firm": "Allen & Gledhill LLP",
+      "Counsel": [
+        "Dinesh Dhillon Singh",
+        "Lim Dao Kai",
+        "Margaret Joan Ling Wei Wei",
+        "Ivan Lim Jun Rui",
+        "Nigel Yeo Kok Quan"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Kiri Industries Limited is an Indian company listed on the National Stock Exchange and the Bombay Stock Exchange, engaged in manufacturing and selling reactive dyes, dye intermediates and basic chemicals."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1998",
+          "Text": "Kiri Industries Limited was incorporated in 1998 by Pravinchandra Amrutlal Kiri, who has been its Chairman since incorporation."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Manishkumar Pravinchandra Kiri is the Managing Director of Kiri Industries Limited."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2008",
+          "Text": "Kiri Industries Limited and Well Prospering Limited entered into a joint venture agreement in 2008 to establish Lonsen Kiri Chemical Industries Limited in India, with Kiri holding 40% and WPL holding 60% of the shares."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-01-31",
+          "Text": "Kiri Industries Limited became a party to the SSSA and CBSA governing the DyStar joint venture, alongside DyStar, Kiri International (Mauritius) Private Limited, Pravinchandra Amrutlal Kiri, Manishkumar Pravinchandra Kiri and Well Prospering Limited."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-2011",
+          "Text": "Kiri Industries Limited received process technology development services from a DyStar German subsidiary, for which DyStar later invoiced approximately EUR 1.719 million."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2011-10",
+          "Text": "At the DyStar Board meeting on 26–27 October 2011, Kiri's representatives discussed PTD cost reimbursement and agreed in principle that Kiri would reimburse EUR 1.7 million via future transactions with DyStar reflected in transfer pricing."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-05",
+          "Text": "Kiri requested DyStar to conduct additional audits to align DyStar's financial information with Kiri's 31 March financial year-end, leading to DyStar engaging KPMG LLP for extra audit work."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2012-05-08",
+          "Text": "In response to DyStar's COO stating that DyStar assumed Kiri's agreement to pay approximately USD 300,000 in audit costs, Manishkumar Pravinchandra Kiri replied that Kiri's representative would follow the existing commitment with KPMG for the fees."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-05-18",
+          "Text": "DyStar issued a debit note to Kiri Industries Limited for S$443,813.59 in respect of additional audit costs, which remained unpaid."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-02",
+          "Text": "A Kiri representative contacted FOTL in Morocco, introduced Kiri as a supplier of reactive dyes, and indicated that DyStar was a sister concern, in the context of offering products similar to DyStar's Remazol dyes."
+        }
+      ],
+      "Issue": "Whether Kiri Industries Limited is subject of dispute to DyStar for alleged breaches of the SSSA, including non-compete and non-solicitation obligations, and for unpaid PTD fees and audit costs claimed by DyStar.",
+      "Rule": "Interpretation and enforceability of clause 15.1(a) and (b) of the SSSA governing non-competition and non-solicitation, including the carve-out for existing businesses and customers; principles on when a board-level agreement and subsequent conduct amount to a binding obligation to pay for services; general contract law on proof of agreement and liability for requested services; standards for establishing breaches of contractual restraints in multiple jurisdictions.",
+      "Application": "Kiri argued that clause 15.1(a) and (b) of the SSSA were void as unreasonable restraints of trade and, alternatively, that its activities fell within the carve-out for existing businesses and customers, as Kiri had long-standing operations and customer relationships in many of the countries where DyStar alleged competition or solicitation. Kiri contended that its sales of intermediates and basic chemicals did not compete with DyStar's reactive dyes business and that approaches to customers such as Gildan, Ceiba, Textufil, Hanes, and others were either aligned with DyStar's own regional strategy or involved products outside DyStar's business. On the PTD fees, Kiri maintained that no binding agreement was reached at the October 2011 Board meeting and relied on later minutes suggesting that PTD costs would be charged to DyStar Singapore, arguing that DyStar had assumed the costs. Regarding the audit costs, Kiri submitted that DyStar, as a subsidiary, was obliged to provide audited accounts for consolidation and that there was no clear agreement that Kiri would reimburse the additional S$443,813, pointing to a May 2012 email from DyStar's COO as evidence that DyStar was still seeking Kiri's agreement at that time. Kiri denied any breach of confidentiality or fiduciary obligations and disputed that any of its conduct amounted to conspiracy or caused recoverable loss to DyStar.",
+      "Judicial_Reasoning_Log": "The court rejected Kiri's contention that clause 15.1(a) and (b) of the SSSA were void restraints of trade, holding that in the context of a negotiated shareholders' joint venture agreement between substantial commercial entities, the non-compete and non-solicitation provisions were reasonable in scope and duration and protected DyStar's legitimate interest in its business and goodwill. The court construed clause 15.1(a) as allowing Kiri to continue pre-existing businesses in countries where it already operated, including selling products that were not part of DyStar's business, and clause 15.1(b) as permitting Kiri to continue dealing with its own existing customers while prohibiting solicitation of DyStar's customers and identified prospective customers for business that was substantially similar to or in competition with DyStar. Applying this construction, the court found that most of DyStar's allegations of competition and solicitation in Brazil, Sri Lanka, Honduras, El Salvador, the USA, Turkey, Japan, and Indonesia were not made out, either because Kiri's activities fell within the existing business carve-out, involved products not shown to be part of DyStar's business, or lacked sufficient evidence of solicitation of DyStar's custom. However, in relation to FOTL in Morocco, the court accepted that Kiri approached a DyStar customer with offers of products substantially similar to DyStar's Remazol dyes and that FOTL was not an existing Kiri customer at the time of the SSSA, thereby breaching clause 15.1(a) and (b). The court held Kiri liable for those breaches and granted interlocutory judgment with damages to be assessed, while dismissing broader allegations of systemic non-compliance with the non-compete regime. On the PTD fees, the court placed significant weight on the October 2011 Board minutes, which recorded that both shareholders agreed that Kiri and Lonsen Kiri needed to reimburse DyStar's PTD investment and that Kiri would reimburse EUR 1.7 million via future transactions reflected in transfer pricing. The court found that this constituted a binding agreement by Kiri to pay the PTD fees and that subsequent references to charging costs to DyStar Singapore were driven by tax considerations and did not displace Kiri's reimbursement obligation. As Kiri had not reimbursed DyStar, the court entered judgment against Kiri for EUR 1.7 million. On the audit costs, the court accepted Viktor's evidence and contemporaneous correspondence showing that Kiri requested additional audits to align DyStar's reporting with Kiri's year-end, that DyStar engaged KPMG to perform the work, and that Kiri agreed to bear the costs, as reflected in Harry's email assuming Kiri's agreement and Manish's response that Kiri's representative would follow the commitment with KPMG. The court concluded that Kiri was contractually obliged to pay the S$443,813 audit costs and had failed to do so, and therefore awarded that sum to DyStar. The court dismissed DyStar's claims that Kiri, through its directors, breached confidentiality obligations or fiduciary duties, and rejected the conspiracy claims, finding no sufficient evidence of a combination with a predominant purpose to injure DyStar or of unlawful means beyond the limited contractual breaches already identified. Accordingly, Kiri was held partially liable: it was ordered to pay the PTD fees and audit costs and to answer in damages for the specific non-compete and non-solicitation breaches concerning FOTL, but was not found liable on the broader suite of contractual, fiduciary, and conspiracy allegations."
+    },
+    "Label": "Partially Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 3 of 2017",
+      "Coram": "Kannan Ramesh J, Roger Giles IJ and Anselmo Reyes IJ",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-07-03",
+      "Tribunal_Court": "Singapore International Commercial Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Manishkumar Pravinchandra Kiri",
+      "Law_Firm": "Allen & Gledhill LLP",
+      "Counsel": [
+        "Dinesh Dhillon Singh",
+        "Lim Dao Kai",
+        "Margaret Joan Ling Wei Wei",
+        "Ivan Lim Jun Rui",
+        "Nigel Yeo Kok Quan"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Manishkumar Pravinchandra Kiri is the Managing Director of Kiri Industries Limited and the son of Pravinchandra Amrutlal Kiri."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Manishkumar Pravinchandra Kiri was a Kiri-nominated director on the DyStar Board and served as Chairman of the DyStar Board from March 2010 until 25 May 2012."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-03-05",
+          "Text": "At the first DyStar Board meeting on 5 March 2010, Manishkumar Pravinchandra Kiri was appointed Chairman of the DyStar Board, and later co-Chairman alongside Ruan Weixiang."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-05-25",
+          "Text": "On 25 May 2012, Manishkumar Pravinchandra Kiri stepped down as co-Chairman of the DyStar Board but remained a director."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-2015",
+          "Text": "As a DyStar director, Manishkumar Pravinchandra Kiri raised concerns about related party loans from DyStar entities to Longsheng-related entities, the cash-pooling arrangement, and the Longsheng Financing Concept, and supported Kiri's position that such transactions required Board scrutiny."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2012-05-08",
+          "Text": "In response to DyStar's COO's email about additional audit costs, Manishkumar Pravinchandra Kiri stated that Kiri's representative would follow the existing commitment with KPMG for the audit fees."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-2016",
+          "Text": "Manishkumar Pravinchandra Kiri communicated with DyStar management and procurement staff regarding Kiri's offers to supply products such as Turquoise Blue and expressed Kiri's expectation to be treated as a preferred supplier under the SSSA."
+        }
+      ],
+      "Issue": "Whether Manishkumar Pravinchandra Kiri, as a Kiri-nominated director of DyStar and a party to the SSSA, breached contractual obligations, management obligations, or participated in a conspiracy against DyStar.",
+      "Rule": "Directors' management obligations to act bona fide in the interests of the company, to avoid conflicts of interest, and not to misuse confidential information; contractual obligations under the SSSA as they apply to individual promoters; elements of lawful and unlawful means conspiracy requiring proof of a combination, requisite intent, unlawful acts where applicable, and resulting damage.",
+      "Application": "DyStar stated that Manishkumar Pravinchandra Kiri was involved in Kiri's competitive activities and solicitation of DyStar's customers in breach of clause 15.1(a) and (b) of the SSSA, and that he misused DyStar's confidential information to benefit Kiri, thereby breaching management obligations. DyStar further contended that Manish, together with other Kiri parties, engaged in a campaign of disruptive conduct, including extensive information requests, challenges to management decisions, and interference with procurement decisions such as the Turquoise Blue supply, with the aim of harming DyStar and supporting Kiri's oppression suit, amounting to lawful or unlawful means conspiracy. Manish maintained that his conduct as a director was directed at ensuring proper corporate governance, that he did not personally solicit DyStar's customers or misuse confidential information, and that any competitive activities were undertaken by Kiri within the contractual carve-outs. He denied any agreement or predominant purpose to injure DyStar.",
+      "Judicial_Reasoning_Log": "The court found no evidential basis to attribute to Manish personal breaches of the SSSA's non-compete and non-solicitation provisions, noting that the only established breaches in respect of FOTL in Morocco were committed by Kiri as a corporate entity and that no specific evidence linked those actions to Manish's individual conduct. The court held that DyStar had not proved that Manish disclosed or misused confidential information in breach of clause 17.1 or his fiduciary duties, as there were no concrete instances of disclosure, no particulars of recipients, and no demonstrated causal link to loss. On the allegation that Manish engaged in disruptive and harmful activities as a director, the court examined the pleaded instances, including his involvement in information requests about related party loans and cash-pooling, his questions on proposed structural changes such as a new Egypt entity and a China regional headquarters, his stance on the Turquoise Blue procurement, and his objections to being excluded from certain management meetings. The court concluded that these actions were consistent with a director seeking to understand and oversee significant transactions and governance issues, particularly in light of the later findings of oppressive conduct by the majority, and did not amount to bad faith or a breach of fiduciary duty. Regarding conspiracy, the court held that the unlawful means conspiracy claim failed because the underlying alleged unlawful acts (breaches of contract and fiduciary duty) were largely not established against Manish, and the lawful means conspiracy claim failed because there was no evidence of a combination or agreement between Manish and other Kiri parties with a predominant purpose to injure DyStar. The court therefore dismissed all claims against Manish in Suit 3 and the overlapping counterclaims in Suit 4."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 3 of 2017",
+      "Coram": "Kannan Ramesh J, Roger Giles IJ and Anselmo Reyes IJ",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-07-03",
+      "Tribunal_Court": "Singapore International Commercial Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Pravinchandra Amrutlal Kiri",
+      "Law_Firm": "Allen & Gledhill LLP",
+      "Counsel": [
+        "Dinesh Dhillon Singh",
+        "Lim Dao Kai",
+        "Margaret Joan Ling Wei Wei",
+        "Ivan Lim Jun Rui",
+        "Nigel Yeo Kok Quan"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Pravinchandra Amrutlal Kiri is the founder and Chairman of Kiri Industries Limited and a party to the SSSA and CBSA relating to the DyStar joint venture."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-01-31",
+          "Text": "Pravinchandra Amrutlal Kiri personally signed the SSSA and CBSA in relation to DyStar, alongside Kiri Industries Limited, Kiri International (Mauritius) Private Limited, Manishkumar Pravinchandra Kiri and DyStar."
+        }
+      ],
+      "Issue": "Whether Pravinchandra Amrutlal Kiri, as a promoter and party to the SSSA, breached contractual obligations or participated in a conspiracy against DyStar.",
+      "Rule": "Liability of individual promoters under contractual non-compete and non-solicitation clauses; requirements for establishing participation in lawful or unlawful means conspiracy, including proof of agreement, intent, and acts in furtherance.",
+      "Application": "DyStar stated that Pravinchandra Amrutlal Kiri, together with other Kiri parties, was bound by the SSSA's non-compete and non-solicitation provisions and participated in competitive activities and solicitation of DyStar's customers, and that he was part of a combination to injure DyStar. Pravinchandra denied involvement in operational decisions concerning DyStar's customer dealings or competitive conduct and argued that DyStar had not identified any specific acts by him constituting breaches or participation in a conspiracy.",
+      "Judicial_Reasoning_Log": "The court observed that DyStar's pleadings and evidence did not identify any concrete acts by Pravinchandra Amrutlal Kiri that constituted breaches of the SSSA or participation in any alleged conspiracy. The established breaches of clause 15.1(a) and (b) in relation to FOTL were attributed to Kiri Industries Limited, and there was no evidence that Pravinchandra personally directed or implemented those actions. Similarly, the court found no evidence that he engaged in or directed any solicitation of DyStar's customers, misuse of confidential information, or disruptive conduct in DyStar's management. In the absence of specific unlawful or conspiratorial acts, and without proof of any agreement by him to injure DyStar, the court dismissed the contractual and conspiracy claims against Pravinchandra in Suit 3 and the corresponding counterclaims in Suit 4."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 3 of 2017",
+      "Coram": "Kannan Ramesh J, Roger Giles IJ and Anselmo Reyes IJ",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-07-03",
+      "Tribunal_Court": "Singapore International Commercial Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Kiri International (Mauritius) Private Limited",
+      "Law_Firm": "Allen & Gledhill LLP",
+      "Counsel": [
+        "Dinesh Dhillon Singh",
+        "Lim Dao Kai",
+        "Margaret Joan Ling Wei Wei",
+        "Ivan Lim Jun Rui",
+        "Nigel Yeo Kok Quan"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Kiri International (Mauritius) Private Limited is a company incorporated in Mauritius and a wholly-owned subsidiary of Kiri Industries Limited."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Kiri International (Mauritius) Private Limited was a shareholder-related party to the SSSA governing the DyStar joint venture."
+        }
+      ],
+      "Issue": "Whether Kiri International (Mauritius) Private Limited breached the SSSA or participated in a conspiracy against DyStar.",
+      "Rule": "Contractual liability of related corporate parties under non-compete and non-solicitation clauses; requirements for establishing corporate participation in conspiracy.",
+      "Application": "DyStar pleaded that Kiri International (Mauritius) Private Limited, as a party to the SSSA, was subject to the non-compete and non-solicitation obligations and was part of a group of Kiri-related entities that allegedly competed with DyStar and solicited its customers. Kiri International (Mauritius) Private Limited argued that DyStar had not adduced evidence of any specific acts by it in relation to the alleged breaches or conspiracy, and that the operational conduct in issue was undertaken by Kiri Industries Limited and other entities.",
+      "Judicial_Reasoning_Log": "The court noted that DyStar's case against Kiri International (Mauritius) Private Limited was entirely derivative of its broader allegations against the Kiri group and that no specific conduct by this Mauritius entity was identified in the evidence as constituting competition with DyStar, solicitation of DyStar's customers, or participation in any conspiratorial agreement. The court found that the only proven breaches of the SSSA's non-compete and non-solicitation provisions related to Kiri Industries Limited's approach to FOTL in Morocco and that there was no basis to extend liability for those acts to Kiri International (Mauritius) Private Limited. Similarly, there was no evidence that this entity was party to any agreement to injure DyStar or that it took steps in furtherance of any alleged conspiracy. Accordingly, the court dismissed the claims and counterclaims against Kiri International (Mauritius) Private Limited."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 3 of 2017",
+      "Coram": "Kannan Ramesh J, Roger Giles IJ and Anselmo Reyes IJ",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-07-03",
+      "Tribunal_Court": "Singapore International Commercial Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Mukherjee Amitava",
+      "Law_Firm": "Allen & Gledhill LLP",
+      "Counsel": [
+        "Dinesh Dhillon Singh",
+        "Lim Dao Kai",
+        "Margaret Joan Ling Wei Wei",
+        "Ivan Lim Jun Rui",
+        "Nigel Yeo Kok Quan"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Mukherjee Amitava is a director of DyStar and was nominated to the DyStar Board by Kiri Industries Limited."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-03-05",
+          "Text": "At the first DyStar Board meeting on 5 March 2010, Mukherjee Amitava was approved as one of the Kiri-nominated directors on the DyStar Board."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-04",
+          "Text": "At the DyStar Board meeting in April 2014, Mukherjee Amitava raised concerns about related party loans from DyStar entities to Longsheng-related entities, including the interest rate differential and lack of prior Board approval."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-05-30",
+          "Text": "On 30 May 2014, Mukherjee Amitava emailed DyStar management expressing hope that the outstanding loan given by DyStar to Longsheng had been unwound, indicating his opposition to the related party loans."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2014-07-25",
+          "Text": "In response to a draft Board resolution to ratify related party loans, Mukherjee Amitava emailed to state that his understanding was that loan amounts should match cash collateral provided by Longsheng and requested further details before signing."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-02-14",
+          "Text": "On 14 February 2015, Mukherjee Amitava emailed DyStar representatives requesting information on cash margins provided by Longsheng and details of related party loans, and followed up with further emails when information was not provided."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-10-21",
+          "Text": "On 21 October 2015, Mukherjee Amitava emailed DyStar management requesting copies of the cash-pooling agreement and the WPL-DSPL loan agreement, as well as information on Longsheng-related financing arrangements."
+        },
+        {
+          "Fact_Type": "LITIGATION",
+          "Fact_Date": "2015",
+          "Text": "Mukherjee Amitava commenced Originating Summons No 863 of 2015 seeking inspection of DyStar's records under section 199(3) of the Companies Act, which was later dismissed on the basis that his primary purpose was to advance Kiri's oppression suit."
+        }
+      ],
+      "Issue": "Whether Mukherjee Amitava, as a Kiri-nominated director of DyStar and a party to the SSSA, breached contractual obligations, management obligations, or participated in a conspiracy against DyStar.",
+      "Rule": "Directors' management obligations to act in good faith in the interests of the company, to exercise independent judgment, and to seek information necessary for oversight; contractual confidentiality obligations under the SSSA; elements of conspiracy requiring proof of agreement, intent, and acts in furtherance.",
+      "Application": "DyStar stated that Mukherjee Amitava was involved in Kiri's competitive conduct and solicitation of DyStar's customers, misused confidential information obtained as a director to benefit Kiri, and engaged in a pattern of disruptive behaviour, including extensive information requests and legal proceedings for document inspection, with the aim of harming DyStar and supporting Kiri's oppression claim. Amitava argued that his information requests and challenges to related party transactions, cash-pooling, and financing arrangements were motivated by legitimate governance concerns, that he did not personally solicit DyStar's customers or misuse confidential information, and that his unsuccessful inspection application under section 199(3) did not convert his underlying concerns into breaches of duty or conspiracy.",
+      "Judicial_Reasoning_Log": "The court found that DyStar had not adduced evidence of any specific acts by Mukherjee Amitava that constituted breaches of the SSSA's non-compete, non-solicitation, or confidentiality provisions. The court noted that the only established contractual breaches in relation to FOTL were attributable to Kiri Industries Limited and that there was no evidence linking Amitava personally to those actions. On fiduciary duties, the court carefully reviewed the instances of alleged disruptive conduct, including Amitava's persistent questioning of related party loans, his insistence on adherence to agreed borrowing conditions, his pursuit of information on cash margins and the cash-pooling agreement, and his involvement in the inspection application. The court concluded that these actions were consistent with a director discharging oversight responsibilities in circumstances where significant related party transactions had been entered into without prior Board approval and where information was not readily forthcoming from management. The court held that the dismissal of the inspection application under section 199(3) turned on the statutory purpose requirement and did not imply that Amitava's underlying concerns or information requests were improper or in bad faith. The court therefore found no breach of fiduciary duty. Regarding conspiracy, the court held that the unlawful means conspiracy claim failed because the alleged unlawful acts were not established against Amitava, and the lawful means conspiracy claim failed because there was no evidence of an agreement between Amitava and other Kiri parties with a predominant purpose to injure DyStar. All claims against Amitava in Suit 3 and the overlapping counterclaims in Suit 4 were accordingly dismissed."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 4 of 2017",
+      "Coram": "Kannan Ramesh J, Roger Giles IJ and Anselmo Reyes IJ",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-07-03",
+      "Tribunal_Court": "Singapore International Commercial Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Kiri Industries Limited",
+      "Law_Firm": "Allen & Gledhill LLP",
+      "Counsel": [
+        "Dinesh Dhillon Singh",
+        "Lim Dao Kai",
+        "Margaret Joan Ling Wei Wei",
+        "Ivan Lim Jun Rui",
+        "Nigel Yeo Kok Quan"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Kiri Industries Limited is a minority shareholder of DyStar Global Holdings (Singapore) Pte Ltd, holding approximately 37.57% of DyStar's shares after conversion of a convertible bond by Senda International Capital Limited."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-01-31",
+          "Text": "Kiri Industries Limited entered into the SSSA and CBSA with DyStar, Well Prospering Limited, Kiri International (Mauritius) Private Limited, Pravinchandra Amrutlal Kiri and Manishkumar Pravinchandra Kiri, establishing governance arrangements for DyStar, including Board composition and shareholder reserved matters."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-12-26",
+          "Text": "Senda International Capital Limited converted the entire principal amount of a EUR 22 million zero-coupon convertible bond into DyStar shares at S$10 per share, resulting in Senda holding approximately 62.43% of DyStar and diluting Kiri's shareholding to 37.57%."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-13",
+          "Text": "DyStar and DyStar Singapore Pte Ltd entered into loan arrangements with Longsheng-related entities, including a revolving credit facility to Amino-Chem (HK) Co., Limited and a loan to Well Prospering Limited, totalling approximately USD 33.5 million, without prior DyStar Board approval."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-04",
+          "Text": "At the April 2014 DyStar Board meeting, Kiri's directors first learned of the related party loans from DyStar entities to Longsheng-related entities and expressed concerns about the lack of prior approval and the interest rate differential compared to DyStar's own borrowing costs."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-07",
+          "Text": "At a July 2014 shareholders' meeting, Kiri's directors agreed to approve the related party loans subject to conditions that loan amounts not exceed cash margins posted by Longsheng for DyStar's bank borrowings and that interest rates at least match DyStar's borrowing costs."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-07",
+          "Text": "DyStar Singapore Pte Ltd and DyStar (Shanghai) Trading Co., Ltd entered into a cash-pooling agreement under which surplus funds were pooled and lent primarily to Longsheng-related entities, without prior approval from the DyStar Board or disclosure to Kiri's directors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-03-10",
+          "Text": "Well Prospering Limited and DyStar Singapore Pte Ltd entered into a loan agreement for USD 150 million at 3.5% per annum (the WPL-DSPL Agreement), implementing the 'Longsheng Financing Concept' without prior DyStar Board approval."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2014-10-21",
+          "Text": "DyStar's Longsheng-nominated directors signed a Board resolution approving a US$2 million special incentive payment to Ruan Weixiang, justified by a special incentive plan tied to DyStar's 2014 earnings, without approval from Kiri's directors and outside the Remuneration Committee process."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-08-31",
+          "Text": "DyStar Colours Deutschland GmbH assigned a valuable patent relating to Orange 288 mixtures and processes to Zhejiang Longsheng Group Co., Ltd under a patent assignment agreement stating that the assignment was temporary and for the purpose of defending invalidation proceedings in China."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-01-21",
+          "Text": "Longsheng announced a settlement of patent invalidation proceedings in China concerning the Orange 288 patent but did not re-assign the patent to DyStar as contemplated by the patent assignment agreement."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "Longsheng used the Orange 288 patent in its own manufacturing processes and licensed the patent to third parties in China, collecting licence fees without DyStar's prior written consent or accounting to DyStar."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016",
+          "Text": "DyStar paid approximately USD 10.5 million to Longsheng in 2016 as management and corporate guarantee fees for services and support allegedly provided in 2015, following transfer pricing reports by Ernst & Young Solutions LLP."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016",
+          "Text": "DyStar made provisions of approximately USD 10.7 million in its 2016 accounts for further management and guarantee fees to Longsheng, subject to Board approval, despite Kiri's objections."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-2017",
+          "Text": "Between 2013 and end-June 2017, DyStar generated total profits of approximately USD 380.53 million but did not declare any dividends to shareholders, including Kiri."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2015-01-26",
+          "Text": "In response to Kiri's request for a dividend following DyStar's strong 2014 performance, a Longsheng representative emailed that DyStar required huge working capital and highlighted Longsheng's guarantees and support, stating that it was not the right time to declare dividends."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-11-14",
+          "Text": "Kiri entered into a non-binding letter of intent with the State General Reserve Fund of Oman for the sale of Kiri's DyStar shares at USD 165 million, subject to minority protection clauses requiring Senda's agreement, which Senda declined, causing the transaction to fall through."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-06-26",
+          "Text": "Kiri commenced Suit No 643 of 2015 (later transferred and redesignated as Suit No 4 of 2017) seeking relief for minority oppression in relation to DyStar's affairs."
+        }
+      ],
+      "Issue": "Whether Senda International Capital Limited, acting through Longsheng-nominated directors, conducted DyStar's affairs in a manner oppressive or commercially unfair to Kiri as a minority shareholder, and what relief should be granted under section 216 of the Companies Act.",
+      "Rule": "Section 216 of the Companies Act on personal remedies for oppression, requiring proof that the affairs of the company are conducted or directors' powers are exercised in a manner oppressive, in disregard of members' interests, or unfairly prejudicial; the compendious concept of commercial unfairness as articulated in Over & Over Ltd v Bonvests Holdings Ltd and subsequent cases; identification of legitimate expectations arising from constitutional documents and the joint venture context, including expectations of board-managed governance, access to information, fair participation in management, and fair sharing of benefits; principles on when related party transactions, extraction of value by a majority shareholder, denial of dividends, and exclusion from management amount to oppression; remedial discretion under section 216(2), including share buy-out orders and valuation adjustments to reverse the effects of oppressive conduct.",
+      "Application": "Kiri argued that, following Senda's conversion of the convertible bond and assumption of majority control, Senda and the Longsheng-nominated directors engaged in a sustained pattern of conduct that violated Kiri's legitimate expectations under the SSSA and general law. Kiri contended that DyStar was intended to be a board-managed company with entrenched Kiri representation, and that Senda's use of its board majority to approve or conceal related party loans, cash-pooling, and the Longsheng Financing Concept, all heavily favouring Longsheng and lacking commercial justification, diverted DyStar's resources and increased its borrowing costs. Kiri further submitted that the US$2 million special incentive payment to Ruan, implemented via a backdated incentive plan and a Board resolution signed only by Longsheng directors, was an improper extraction of value that bypassed the Remuneration Committee. Kiri claimed that Longsheng's failure to re-assign the Orange 288 patent and its unilateral exploitation of the patent through internal use and licensing without accounting to DyStar deprived DyStar of a valuable asset. Kiri also challenged the retrospective imposition of substantial management and guarantee fees for 2015 and the provisioning for similar fees in 2016 as ex post attempts to justify value extraction, relying on transfer pricing reports commissioned after Kiri sought an injunction. Kiri argued that Senda's refusal to declare dividends despite DyStar's strong profitability, while simultaneously causing DyStar to lend substantial sums to Longsheng-related entities and to pay or provision for Longsheng fees, demonstrated an intention to deny Kiri the benefits of its investment. Kiri further stated that it was excluded from meaningful participation in DyStar's management through practices such as Ruan's instruction that directors route information requests through the Board, the non-disclosure of key agreements, and decisions taken without Kiri's input. Kiri sought a buy-out order requiring Senda to purchase its DyStar shares at a fair value adjusted to reverse the effects of the oppressive conduct. Senda denied the existence of legitimate expectations beyond the SSSA, defended the related party transactions and financing arrangements as commercially justified and beneficial to DyStar, characterised the special incentive payment and Longsheng fees as reasonable compensation for services and guarantees, and argued that any grievances could be addressed by prospective orders regulating DyStar's affairs rather than a share buy-out.",
+      "Judicial_Reasoning_Log": "The court first identified Kiri's legitimate expectations arising from the SSSA and the joint venture context, holding that DyStar was intended to be a board-managed company with overall control vested in the Board, that Kiri was entitled to meaningful participation through its entrenched directors, that the Longsheng-nominated directors were obliged to act in DyStar's interests notwithstanding their nomination by the majority shareholder, and that Kiri could expect access to information necessary for Board oversight and a fair opportunity to share in the benefits of its investment. The court rejected Kiri's argument that there were additional quasi-partnership expectations beyond the SSSA, finding that the relationship was governed by detailed contractual terms negotiated at arm's length. Applying the compendious test of commercial unfairness under section 216, the court examined the challenged transactions and conduct in detail. It held that the related party loans from DyStar entities to Longsheng-related entities, entered into without prior Board approval, at interest rates lower than DyStar's own borrowing costs, and in amounts that effectively lent out DyStar's earnings after tax while DyStar continued to borrow heavily, lacked commercial justification from DyStar's perspective and primarily benefited Longsheng by allowing it to pass on borrowing costs. The court found that the alleged past practice of management entering into related party transactions before Board notification did not excuse the failure to obtain prior approval for these loans, especially given the conflicts of interest of the Longsheng-nominated signatories. The court also found that the cash-pooling agreement, entered into around the time Kiri sought to impose borrowing conditions on the related party loans and not disclosed until later, functioned to channel DyStar group funds to Longsheng-related entities and appeared to circumvent the agreed conditions, reinforcing the oppressive character of the overall financing arrangements. While the court accepted that the Longsheng Financing Concept might be commercially defensible in isolation, it concluded that, in the context of DyStar having already lent substantial sums to Longsheng-related entities and then borrowing USD 150 million from a Longsheng subsidiary without clear Board-level justification, the arrangement contributed to an overall pattern of value extraction and was oppressive. On remuneration, the court distinguished between the 2014 Bonus Matrix, which it found had been discussed and approved at Board level, and the US$2 million special incentive payment to Ruan, which it held to be commercially unfair. The court noted that the special incentive plan was created late in 2014, after DyStar's strong results were apparent, that its targets were set in a way that effectively guaranteed a substantial payment, that the payment bypassed the Remuneration Committee, and that the Board resolution approving it was signed only by Longsheng directors, including Ruan as beneficiary, before being sent to Kiri's director for signature. The court concluded that the special incentive payment was an after-the-fact device to extract value for Ruan and not a bona fide incentive arrangement. Regarding the Orange 288 patent, the court accepted that Kiri had been informed of the temporary assignment to Longsheng for the purpose of defending invalidation proceedings, but held that Longsheng's failure to re-assign the patent after settlement of those proceedings, and its subsequent exploitation of the patent through internal use and licensing without DyStar's consent or accounting, breached the patent assignment agreement and reflected the Longsheng directors' failure to act in DyStar's interests. The court rejected Senda's argument that ongoing or potential invalidation proceedings justified retaining the patent, emphasising that any such decision should have been made by the DyStar Board. On the Longsheng fees, the court found that there was no prior agreement that Longsheng would retrospectively charge DyStar for services once DyStar became profitable, and that the decision in late 2015 to impose substantial management and guarantee fees for 2015, followed by the commissioning of transfer pricing reports after Kiri sought an injunction, indicated that the fees were an ex post attempt to legitimise value extraction. The court held that the Ernst & Young reports, which relied heavily on information from Longsheng personnel, did not cure the underlying lack of commercial justification. The court similarly found that the provisioning for 2016 fees at Longsheng's request, without a prior agreement or clear Board-level assessment, was oppressive. On dividends, the court accepted that the decision to declare dividends is a commercial one but held that Senda's refusal to declare any dividends despite DyStar's strong profitability, while simultaneously causing DyStar to lend large sums to Longsheng-related entities and to pay or provision for Longsheng fees, was not made in good faith. The court found that the stated justification of 'huge working capital' needs was inconsistent with DyStar's lending behaviour and the later imposition of Longsheng fees, and that Senda's veto right over dividends under the SSSA did not entitle it to withhold dividends indefinitely in circumstances where the effect was to deny Kiri any return while the majority extracted value through related party arrangements. The court also found that Ruan's instruction that Board members should not contact management directly, which management interpreted as a directive to withhold information from Kiri's directors, disproportionately hindered Kiri's ability to obtain information and participate in management, and was oppressive in the context of undisclosed related party transactions. The court rejected some of Kiri's complaints, including the alleged understanding to route all DyStar purchases through Lonsen Kiri and the claim that a specific email about Turquoise Blue established a directive not to buy from Kiri, finding the evidence insufficient to link the decline in purchases to an instruction from the Longsheng directors. The court also declined to treat the failure to pursue an IPO or the SGRF transaction as oppressive, noting that Senda was entitled under the SSSA to refuse amendments and that IPO discussions were preliminary. Having found a pattern of commercially unfair conduct that undermined Kiri's legitimate expectations and extracted value from DyStar for Longsheng's benefit, the court concluded that Kiri had been oppressed as a minority shareholder under section 216. In exercising its remedial discretion, the court considered but rejected Senda's proposal for a suite of prospective regulatory orders, holding that the breakdown in trust and the breadth of the oppressive conduct made a share buy-out the most appropriate remedy to bring the matters complained of to an end. The court ordered Senda to purchase Kiri's 37.57% shareholding in DyStar at a value to be determined as at the date of judgment, with the valuation to be adjusted to reverse the effects of the oppressive conduct by adding back the US$2 million special incentive payment, the 2015 and (if paid) 2016 Longsheng fees, the licence fees and benefits derived from Longsheng's exploitation of the Orange 288 patent, and the losses to DyStar from the related party loans, cash-pooling, and Longsheng Financing Concept. The court directed that further submissions be made on the valuation methodology, any minority discount, the interaction with the outcomes in Suit 3 and the counterclaims, and costs."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 4 of 2017",
+      "Coram": "Kannan Ramesh J, Roger Giles IJ and Anselmo Reyes IJ",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-07-03",
+      "Tribunal_Court": "Singapore International Commercial Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Senda International Capital Limited",
+      "Law_Firm": "Wong & Leow LLC",
+      "Counsel": [
+        "Nandakumar Ponniya Servai",
+        "Wong Tjen Wee",
+        "Liu Ze Ming",
+        "Lucas Lim",
+        "Daniel Ho",
+        "Nicolette Oon"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "Senda International Capital Limited is a Hong Kong-incorporated company and a wholly-owned subsidiary of Zhejiang Longsheng Group Co., Ltd, and became the majority shareholder of DyStar after converting a EUR 22 million convertible bond."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-07-14",
+          "Text": "The DyStar Board approved the transfer of the EUR 22 million convertible bond from Well Prospering Limited to Senda International Capital Limited pursuant to the CBSA."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-12-26",
+          "Text": "Senda International Capital Limited converted the entire principal amount of the convertible bond into DyStar shares at S$10 per share, resulting in Senda holding approximately 62.43% of DyStar's shares."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "",
+          "Text": "Senda International Capital Limited, acting on Longsheng's instructions, caused Longsheng-nominated directors to be appointed to the DyStar Board, including Ruan Weixiang as Chairman and Xu Yalin and Yao Jianfang as directors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-13",
+          "Text": "Under the control of Longsheng-nominated directors, DyStar and DyStar Singapore Pte Ltd entered into related party loan agreements with Longsheng-related entities, including Amino-Chem (HK) Co., Limited and Well Prospering Limited, without prior DyStar Board approval."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-07",
+          "Text": "DyStar Singapore Pte Ltd and DyStar (Shanghai) Trading Co., Ltd entered into a cash-pooling agreement under which pooled funds were lent primarily to Longsheng-related entities, with the agreement signed by Longsheng-nominated directors and not disclosed to Kiri's directors until 2015."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-03-10",
+          "Text": "Senda, through Longsheng, implemented the 'Longsheng Financing Concept' by causing Well Prospering Limited and DyStar Singapore Pte Ltd to enter into a USD 150 million loan agreement at 3.5% per annum, without prior DyStar Board approval."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2014-10-21",
+          "Text": "Longsheng-nominated directors on the DyStar Board signed a resolution approving a US$2 million special incentive payment to Ruan Weixiang, based on a special incentive plan dated 21 October 2014, without approval from Kiri-nominated directors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "",
+          "Text": "Senda, through Longsheng, did not cause the Orange 288 patent assigned to Longsheng under a temporary patent assignment agreement to be re-assigned to DyStar after settlement of invalidation proceedings, and allowed Longsheng to exploit the patent without accounting to DyStar."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016",
+          "Text": "Under Senda's control, DyStar paid approximately USD 10.5 million to Longsheng as management and corporate guarantee fees for 2015, and made provisions of approximately USD 10.7 million for similar fees for 2016, despite Kiri's objections."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-2017",
+          "Text": "During the period when Senda was majority shareholder, DyStar generated substantial profits but did not declare dividends, while engaging in significant related party transactions and fee payments benefiting Longsheng."
+        }
+      ],
+      "Issue": "Whether Senda International Capital Limited, as majority shareholder of DyStar, conducted DyStar's affairs in a manner that was commercially unfair and oppressive to Kiri under section 216 of the Companies Act, and whether Senda is subject of dispute to purchase Kiri's shares as a remedy.",
+      "Rule": "Section 216 of the Companies Act on oppression and unfair prejudice; standards of commercial fairness in the context of a joint venture company; majority shareholders' obligations not to use control to extract value at the expense of minority shareholders; principles governing relief, including share buy-out orders and valuation adjustments to neutralise the effects of oppressive conduct.",
+      "Application": "Senda argued that it was entitled under the SSSA and CBSA to exercise control over DyStar's management and financing, that the related party loans, cash-pooling, and Longsheng Financing Concept were commercially justified by Longsheng's guarantees and support, and that the special incentive payment and Longsheng fees were reasonable compensation for services and risk-bearing. Senda maintained that DyStar's refusal to declare dividends was driven by genuine working capital needs and that Kiri's expectations were confined to the contractual terms of the SSSA. Senda contended that any issues could be addressed by prospective orders regulating DyStar's affairs, such as requiring prior approval for related party transactions, mandating information flows, and adjusting future dividend policies, rather than by a share buy-out. Kiri contended that Senda's use of its majority position to approve or conceal self-dealing transactions, extract fees, deny dividends, and limit Kiri's access to information and management participation breached Kiri's legitimate expectations and amounted to oppression, warranting a buy-out order.",
+      "Judicial_Reasoning_Log": "The court held that Senda, acting through Longsheng and its nominated directors, used its majority control over DyStar in a manner that departed from the standards of fair dealing and violated Kiri's legitimate expectations as a minority shareholder. The court found that the related party loans, cash-pooling arrangement, and Longsheng Financing Concept were structured and implemented primarily to benefit Longsheng, with DyStar effectively borrowing at higher rates to lend at lower rates to Longsheng-related entities, thereby absorbing part of Longsheng's financing costs and tying up DyStar's earnings while DyStar continued to borrow. The court emphasised that these transactions were entered into without prior Board approval, that the Longsheng-nominated directors signed loan agreements on both sides of the transactions despite clear conflicts of interest, and that Kiri's directors faced significant obstacles in obtaining information necessary to assess compliance with agreed borrowing conditions. The court concluded that these financing arrangements were not in DyStar's best interests and were oppressive to Kiri. The court further held that the US$2 million special incentive payment to Ruan, implemented via a late-year incentive plan and a Board resolution signed only by Longsheng directors, was an improper extraction of value that bypassed established governance structures and was not a bona fide incentive scheme. The court found that Senda's failure to cause the Orange 288 patent to be re-assigned to DyStar after settlement of invalidation proceedings, and its acquiescence in Longsheng's exploitation of the patent without DyStar's consent or accounting, reflected a disregard for DyStar's interests and contributed to the oppressive pattern. On the Longsheng fees, the court determined that there was no prior agreement entitling Longsheng to retrospectively charge DyStar for services once DyStar became profitable, and that the decision to impose substantial management and guarantee fees for 2015, followed by the commissioning of transfer pricing reports after Kiri sought injunctive relief, indicated that the fees were an ex post rationalisation of value extraction. The court found that the Ernst & Young reports, which relied heavily on information from Longsheng personnel, did not provide an independent commercial justification for the level and retrospective nature of the fees. The court also held that the provisioning for 2016 fees at Longsheng's request, without a clear Board-level assessment or prior agreement, was similarly oppressive. Regarding dividends, the court accepted that Senda had a contractual veto over dividend declarations but held that its refusal to declare any dividends despite DyStar's strong profitability, while simultaneously engaging in related party lending and fee payments benefiting Longsheng, was not made in good faith and unfairly denied Kiri any return on its investment. The court found that Senda's stated justification of 'huge working capital' needs was inconsistent with DyStar's lending behaviour and the later imposition of Longsheng fees. The court also considered Ruan's instruction that Board members should not contact management directly, which management interpreted as a directive to withhold information from Kiri's directors, as part of a pattern of limiting Kiri's access to information and participation in management, particularly in relation to undisclosed related party transactions. While the court rejected some of Kiri's complaints, such as the alleged obligation to route all purchases through Lonsen Kiri and the claim that the failure to pursue an IPO was oppressive, it concluded that the cumulative effect of Senda's conduct amounted to oppression under section 216. In determining relief, the court held that a share buy-out was the most appropriate remedy given the breakdown in trust and the impracticality of attempting to regulate DyStar's future affairs through detailed orders. The court ordered Senda to purchase Kiri's 37.57% shareholding in DyStar at a value determined as at the date of judgment, with the valuation to be adjusted to add back the value of the special incentive payment, the 2015 and (if paid) 2016 Longsheng fees, the benefits derived from Longsheng's exploitation of the Orange 288 patent, and the losses to DyStar from the related party loans, cash-pooling, and Longsheng Financing Concept. The court directed further submissions on valuation methodology, any minority discount, the interaction with the outcomes in Suit 3 and the counterclaims, and costs."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 4 of 2017",
+      "Coram": "Kannan Ramesh J, Roger Giles IJ and Anselmo Reyes IJ",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-07-03",
+      "Tribunal_Court": "Singapore International Commercial Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "DyStar Global Holdings (Singapore) Pte Ltd",
+      "Law_Firm": "Premier Law LLC",
+      "Counsel": [
+        "See Chern Yang",
+        "Teng Po Yew",
+        "Audie Wong Cheng Siew"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "",
+          "Text": "DyStar Global Holdings (Singapore) Pte Ltd is the joint venture company whose affairs are the subject of Kiri's minority oppression claim in Suit No 4 of 2017."
+        }
+      ],
+      "Issue": "DyStar is a nominal defendant in Kiri's oppression claim, with the substantive allegations directed at Senda as majority shareholder and the Longsheng-nominated directors.",
+      "Rule": "",
+      "Application": "",
+      "Judicial_Reasoning_Log": "The court treated DyStar as the corporate vehicle whose affairs were allegedly conducted oppressively by Senda and the Longsheng-nominated directors. No substantive relief was sought against DyStar itself in Suit 4, and the court did not make findings of liability against DyStar as a defendant in the oppression claim."
+    },
+    "Label": "Unknown",
+    "Leakage_Score": 0
+  },
+  {
+    "Case_Number": "Suit No 4 of 2017 (Counterclaim)",
+    "Plaintiff": "Senda International Capital Limited",
+    "Defendant": "Kiri Industries Limited, Pravinchandra Amrutlal Kiri, Manishkumar Pravinchandra Kiri, Kiri International (Mauritius) Private Limited, Mukherjee Amitava",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 3 of 2017 (Counterclaim)",
+    "Plaintiff": "DyStar Global Holdings (Singapore) Pte Ltd",
+    "Defendant": "Kiri Industries Limited",
+    "Plaintiff_Label": "Claim Allowed in Part",
+    "Defendant_Label": "Partially Liable"
+  }
+]
