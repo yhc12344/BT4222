@@ -1,0 +1,93 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 544 of 2012",
+      "Coram": "Steven Chong J",
+      "Judge": "Steven Chong J",
+      "Date": "2016-04-21",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Living the Link Pte Ltd (in creditors’ voluntary liquidation)",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2007-01-09",
+          "Text": "Living the Link Pte Ltd was incorporated to carry on a new enterprise."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-06-11",
+          "Text": "Living entered into a tenancy agreement for One Nassim with Cheong."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Living faced cash-flow difficulties throughout 2008."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2009-07-31",
+          "Text": "Living closed the business and terminated the lease."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-05-13",
+          "Text": "Living was placed in creditors’ voluntary liquidation."
+        }
+      ],
+      "Issue": "Whether the transfers of inventory and shares by Living the Link Pte Ltd to its associate companies were influenced by a desire to prefer these companies over other creditors.",
+      "Rule": "A transaction is an undue preference if it is influenced by a desire to place a creditor in a better position in the event of insolvency.",
+      "Application": "The liquidators argued that the transfers were made when Living was insolvent and were influenced by a desire to prefer the associate companies. The defendants claimed the transfers were made in the ordinary course of business.",
+      "Judicial_Reasoning_Log": "The court found that the transfers of inventory and shares were undue preferences as they were influenced by a desire to prefer the associate companies over other creditors."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 544 of 2012",
+      "Coram": "Steven Chong J",
+      "Judge": "Steven Chong J",
+      "Date": "2016-04-21",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Tan Lay Tin Tina",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2007-01-01",
+          "Text": "Tina Tan was a director and the sole shareholder of Living the Link Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-12-31",
+          "Text": "Tina Tan procured the transfer of inventory from Living to associate companies."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-04-01",
+          "Text": "Tina Tan procured the transfer of Graha shares from Living to Link."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2008-01-01",
+          "Text": "Tina Tan was aware of Living's financial difficulties and cash-flow issues."
+        }
+      ],
+      "Issue": "Whether a director is legally responsible for procuring transactions that constitute undue preferences.",
+      "Rule": "Directors have a duty to act in the best interest of the company and its creditors when the company is insolvent.",
+      "Application": "The liquidators argued that Tina Tan contravened her duties by preferring the associate companies. Tina Tan claimed she acted in the best interest of the company.",
+      "Judicial_Reasoning_Log": "The court held that Tina Tan breached her duties as a director by procuring undue preferences, influenced by a desire to prefer the associate companies."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  }
+]

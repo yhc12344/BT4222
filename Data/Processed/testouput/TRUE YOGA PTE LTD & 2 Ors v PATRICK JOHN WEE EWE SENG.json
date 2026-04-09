@@ -1,0 +1,188 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 376 of 2019",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck J",
+      "Date": "2022-07-05",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "True Yoga Pte Ltd",
+      "Law_Firm": "Audent Chambers LLC",
+      "Counsel": [
+        "Jordan Tan",
+        "Victor Leong"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2008-03-31",
+          "Text": "Patrick John Wee Ewe Seng signed an employment contract with True Yoga Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-05-19",
+          "Text": "CJ Group Pte Ltd transferred its shares in the plaintiffs to True Fitness Holdings (Singapore) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-05-29",
+          "Text": "Tongfang Kontafarma Holdings Limited acquired majority shareholding in True Group (Singapore)."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-06-10",
+          "Text": "True Group (Malaysia) ceased operations."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-06-09",
+          "Text": "True Group (Thailand) ceased operations."
+        }
+      ],
+      "Issue": "Whether the defendant was legally responsible for mismanaging the closures of True Group (Malaysia) and True Group (Thailand).",
+      "Rule": "A director must act in the best interests of the company and manage its affairs diligently.",
+      "Application": "The plaintiffs stated that the defendant's actions in selling long-term memberships and failing to inform members of impending closures were not in the best interests of the company. The defendant argued that the closures were commercial decisions made in the best interests of the regional groups.",
+      "Judicial_Reasoning_Log": "The court found that the defendant breached his duties by failing to properly manage the closures, which damaged the reputation of the True Group."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 376 of 2019",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck J",
+      "Date": "2022-07-05",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Wee Ewe Seng Patrick John",
+      "Law_Firm": "Arbiters Inc Law Corporation",
+      "Counsel": [
+        "Rai Vijay Kumar",
+        "Joavan Christopher Pereira",
+        "Jasleen Kaur"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2008-03-19",
+          "Text": "Patrick John Wee Ewe Seng became the Group CEO of True Group."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2018-05-09",
+          "Text": "Patrick John Wee Ewe Seng was terminated from his position as Group CEO."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-02-01",
+          "Text": "Patrick John Wee Ewe Seng knew of financial difficulties in True Group (Malaysia) and allowed long-term memberships to be sold."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-11-30",
+          "Text": "Patrick John Wee Ewe Seng caused S$3.25 million to be paid to his beneficially owned company."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2017-03-01",
+          "Text": "Patrick John Wee Ewe Seng communicated with potential investors about exiting the Malaysian and Thailand markets."
+        }
+      ],
+      "Issue": "Whether the defendant was legally responsible for the financial mismanagement leading to the closures of True Group (Malaysia) and True Group (Thailand).",
+      "Rule": "A director is required to manage company affairs in a manner that serves the best interests of the company and its stakeholders.",
+      "Application": "The defendant stated that the closures were necessary due to financial constraints and were managed in the best possible manner. The plaintiffs argued that the defendant's actions were detrimental to the company's reputation and financial standing.",
+      "Judicial_Reasoning_Log": "The court concluded that the defendant's actions were not in the best interests of the company, leading to reputational damage and financial loss."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 376 of 2019 (Counterclaim)",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck J",
+      "Date": "2022-07-05",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Wee Ewe Seng Patrick John",
+      "Law_Firm": "Arbiters Inc Law Corporation",
+      "Counsel": [
+        "Rai Vijay Kumar",
+        "Joavan Christopher Pereira",
+        "Jasleen Kaur"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2018-05-09",
+          "Text": "Patrick John Wee Ewe Seng was terminated from his position as Group CEO."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "Patrick John Wee Ewe Seng claimed unpaid salary of $120,000 per month for the period of 1 January 2018 to 30 April 2018."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-04-12",
+          "Text": "Tongfang sent a letter requesting Patrick John Wee Ewe Seng to resign from his position as CEO."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2018-03-12",
+          "Text": "Patrick John Wee Ewe Seng's employment contract was impliedly extended beyond 12 March 2018."
+        }
+      ],
+      "Issue": "Whether the defendant was disputed terminated and entitled to unpaid salary.",
+      "Rule": "An employee is entitled to compensation if terminated without cause before the end of the contract term.",
+      "Application": "The defendant by counterclaim argued that his termination was without cause and that he was entitled to his full salary. The plaintiffs by counterclaim stated that the termination was justified due to misconduct.",
+      "Judicial_Reasoning_Log": "The court found that the termination was justified due to the defendant's mismanagement and misconduct, negating the claim for unpaid salary."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 376 of 2019 (Counterclaim)",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck J",
+      "Date": "2022-07-05",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "True Yoga Pte Ltd",
+      "Law_Firm": "Audent Chambers LLC",
+      "Counsel": [
+        "Jordan Tan",
+        "Victor Leong"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2018-05-09",
+          "Text": "True Yoga Pte Ltd terminated Patrick John Wee Ewe Seng's employment."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-04-12",
+          "Text": "True Yoga Pte Ltd requested Patrick John Wee Ewe Seng to resign from his position as CEO."
+        }
+      ],
+      "Issue": "Whether the company was legally responsible for disputed termination and unpaid salary claims.",
+      "Rule": "A company may terminate an employee for cause if there is evidence of misconduct or negligence.",
+      "Application": "The plaintiffs by counterclaim argued that the termination was justified due to the defendant's mismanagement. The defendant by counterclaim stated that the termination was without cause and sought unpaid salary.",
+      "Judicial_Reasoning_Log": "The court determined that the termination was justified based on the defendant's conduct, and the company was not liable for unpaid salary claims."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 256 of 2023",
+      "Coram": "Kwek Mean Luck J",
+      "Judge": "Kwek Mean Luck J",
+      "Date": "2024-05-27",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Pioneer Energy Holdings Pte Ltd",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2016-11-23",
+          "Text": "Pioneer Energy Holdings Pte Ltd was incorporated in Singapore."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-04-13",
+          "Text": "Mr Zheng and Mr Xu entered into a Cooperation Agreement for the sale of 50% of Pioneer shares."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-07-03",
+          "Text": "Pioneer took out two loans from UOB: an SME Working Capital Loan of $259,000 and a Bizmoney Loan of $100,000."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2018-05-28",
+          "Text": "Mr Xu was appointed as a director of Pioneer."
+        }
+      ],
+      "Issue": "Whether a company can hold a former director legally responsible for financial discrepancies and unauthorized transactions during her tenure.",
+      "Rule": "A director must act in good faith and in the best interests of the company, avoiding conflicts of interest and unauthorized transactions.",
+      "Application": "The Plaintiffs stated that Ms Zhu was involved in unauthorized financial transactions and failed to act in the company's best interest. Ms Zhu argued she was only a nominee director with no executive role.",
+      "Judicial_Reasoning_Log": "The court found no evidence of Ms Zhu's involvement in unauthorized transactions and determined she was a nominee director with limited responsibilities."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 256 of 2023",
+      "Coram": "Kwek Mean Luck J",
+      "Judge": "Kwek Mean Luck J",
+      "Date": "2024-05-27",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Xu Jinsong",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2018-05-28",
+          "Text": "Xu Jinsong was appointed as a director of Pioneer Energy Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-04-13",
+          "Text": "Xu Jinsong entered into a Cooperation Agreement with Mr Zheng for the sale of 50% of Pioneer shares."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2019-09-25",
+          "Text": "Xu Jinsong communicated with Ms Zhu regarding a power of attorney for debt collection."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2019-01-14",
+          "Text": "Xu Jinsong signed a Withdrawal Agreement with Mr Zheng."
+        }
+      ],
+      "Issue": "Whether a shareholder and director can claim against a former director for stated unauthorized financial transactions.",
+      "Rule": "A director must exercise reasonable care and diligence in managing the company's affairs and avoid unauthorized transactions.",
+      "Application": "The Plaintiff stated that Ms Zhu was responsible for unauthorized transactions. Ms Zhu contended she had no access to financial documents and was not involved in such transactions.",
+      "Judicial_Reasoning_Log": "The court found no evidence linking Ms Zhu to the alleged unauthorized transactions and noted her role as a nominee director."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 256 of 2023",
+      "Coram": "Kwek Mean Luck J",
+      "Judge": "Kwek Mean Luck J",
+      "Date": "2024-05-27",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Zhu Yimin",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2016-11-23",
+          "Text": "Zhu Yimin was appointed as a director of Pioneer Energy Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2019-09-25",
+          "Text": "Zhu Yimin resigned as a director of Pioneer Energy Holdings Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2019-10-11",
+          "Text": "Zhu Yimin communicated with Xu Jinsong about the control and operations of Pioneer."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2018-12-22",
+          "Text": "Zhu Yimin was involved in discussions regarding the Withdrawal Agreement between Xu Jinsong and Mr Zheng."
+        }
+      ],
+      "Issue": "Whether a former director can be held legally responsible for stated unauthorized transactions during her tenure as a nominee director.",
+      "Rule": "A nominee director is expected to fulfill statutory obligations but is not typically involved in executive decision-making unless explicitly authorized.",
+      "Application": "The Defendant argued she was a nominee director with no executive powers. The Plaintiffs stated she was involved in unauthorized transactions.",
+      "Judicial_Reasoning_Log": "The court determined that Ms Zhu acted within her role as a nominee director and found no evidence of unauthorized transactions."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 256 of 2023 (Counterclaim)",
+      "Coram": "Kwek Mean Luck J",
+      "Judge": "Kwek Mean Luck J",
+      "Date": "2024-05-27",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Zhu Yimin",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2019-12-18",
+          "Text": "ECS issued an invoice to Pioneer Energy Holdings Pte Ltd for accounting services."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2021-07-09",
+          "Text": "ECS sent a chaser email to Pioneer Energy Holdings Pte Ltd for payment of outstanding fees."
+        }
+      ],
+      "Issue": "Whether a director can claim outstanding fees for services rendered by her company to the defendant company.",
+      "Rule": "A claim for services rendered must be supported by evidence of the services provided and acknowledgment of debt by the receiving party.",
+      "Application": "The Plaintiff by counterclaim stated that ECS provided accounting services to Pioneer. The Defendant by counterclaim disputed the services were rendered.",
+      "Judicial_Reasoning_Log": "The court found insufficient evidence to support the claim for outstanding fees as there was no acknowledgment from Pioneer."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 256 of 2023 (Counterclaim)",
+      "Coram": "Kwek Mean Luck J",
+      "Judge": "Kwek Mean Luck J",
+      "Date": "2024-05-27",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Pioneer Energy Holdings Pte Ltd",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2023-10-23",
+          "Text": "UOB increased the interest rate on a loan to ECS from 1.9% to 6.25% per year."
+        }
+      ],
+      "Issue": "Whether a company can be held responsible for increased loan interest rates incurred by a director's separate business due to ongoing litigation.",
+      "Rule": "A company is not legally responsible for financial consequences incurred by a director's separate business unless a direct causal link is established.",
+      "Application": "The Defendant by counterclaim argued that the litigation affected ECS's ability to refinance its loan. The Plaintiff by counterclaim provided no evidence of a direct link.",
+      "Judicial_Reasoning_Log": "The court found no evidence linking the litigation to the increased interest rates on ECS's loan."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  }
+]

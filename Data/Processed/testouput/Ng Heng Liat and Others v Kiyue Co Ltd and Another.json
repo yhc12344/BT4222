@@ -1,0 +1,182 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "OS 1115/2002",
+      "Coram": "Kan Ting Chiu J",
+      "Judge": "Kan Ting Chiu J",
+      "Date": "2003-03-22",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Ng Heng Liat",
+      "Law_Firm": "Engelin Teh Practice LLC",
+      "Counsel": [
+        "Harish Kumar"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2002-01-01",
+          "Text": "Ng Heng Liat is a director of Aquagen International Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2002-01-01",
+          "Text": "Ng Heng Liat served as a director of Aquagen International Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-07-29",
+          "Text": "Ng Heng Liat opposed AIPL's participation in arbitration proceedings."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2002-07-29",
+          "Text": "Ng Heng Liat received a notice from Kiyue Co Ltd under s 216A of the Companies Act."
+        }
+      ],
+      "Issue": "Whether directors can seek a declaration of compliance with management obligations without a pending action against them.",
+      "Rule": "Directors may seek a declaration of compliance with their duties if there is a reasonable apprehension of legal action.",
+      "Application": "The plaintiffs argued that they acted within their management obligations by opposing arbitration participation. The defendant contended that the plaintiffs' actions were not in the company's best interest.",
+      "Judicial_Reasoning_Log": "The court found that the plaintiffs were entitled to seek a declaration as there was no pending action against them."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "OS 1115/2002",
+      "Coram": "Kan Ting Chiu J",
+      "Judge": "Kan Ting Chiu J",
+      "Date": "2003-03-22",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Kiyue Co Ltd",
+      "Law_Firm": "Kenneth Tan Partnership",
+      "Counsel": [
+        "Wang Wei Chi"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2002-01-01",
+          "Text": "Kiyue Co Ltd is a minority shareholder of Aquagen International Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2002-07-29",
+          "Text": "Kiyue Co Ltd issued a notice under s 216A of the Companies Act to AIPL's directors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-07-29",
+          "Text": "Kiyue Co Ltd requested AIPL to commence action against the plaintiffs for contravening management obligations."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2002-07-29",
+          "Text": "Kiyue Co Ltd issued a formal notice to AIPL's board regarding potential legal action."
+        }
+      ],
+      "Issue": "Whether a minority shareholder can independently initiate a counterclaim for directors' contravention of management obligations.",
+      "Rule": "A minority shareholder must obtain court approval to initiate a derivative action on behalf of the company.",
+      "Application": "The defendant argued that it had the right to bring a counterclaim without court approval. The plaintiffs contended that only the company could seek redress for directors' actions.",
+      "Judicial_Reasoning_Log": "The court held that Kiyue Co Ltd lacked the standing to bring a counterclaim without court approval."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "OS 1115/2002 (Counterclaim)",
+      "Coram": "Kan Ting Chiu J",
+      "Judge": "Kan Ting Chiu J",
+      "Date": "2003-03-22",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Kiyue Co Ltd",
+      "Law_Firm": "Kenneth Tan Partnership",
+      "Counsel": [
+        "Wang Wei Chi"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2002-01-01",
+          "Text": "Kiyue Co Ltd is a minority shareholder of Aquagen International Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2002-07-29",
+          "Text": "Kiyue Co Ltd issued a notice under s 216A of the Companies Act to AIPL's directors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-07-29",
+          "Text": "Kiyue Co Ltd requested AIPL to commence action against the plaintiffs for contravening management obligations."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2002-07-29",
+          "Text": "Kiyue Co Ltd issued a formal notice to AIPL's board regarding potential legal action."
+        }
+      ],
+      "Issue": "Whether a minority shareholder can independently initiate a counterclaim for directors' contravention of management obligations.",
+      "Rule": "A minority shareholder must obtain court approval to initiate a derivative action on behalf of the company.",
+      "Application": "The defendant argued that it had the right to bring a counterclaim without court approval. The plaintiffs contended that only the company could seek redress for directors' actions.",
+      "Judicial_Reasoning_Log": "The court held that Kiyue Co Ltd lacked the standing to bring a counterclaim without court approval."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "OS 1115/2002 (Counterclaim)",
+      "Coram": "Kan Ting Chiu J",
+      "Judge": "Kan Ting Chiu J",
+      "Date": "2003-03-22",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Ng Heng Liat",
+      "Law_Firm": "Engelin Teh Practice LLC",
+      "Counsel": [
+        "Harish Kumar"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2002-01-01",
+          "Text": "Ng Heng Liat is a director of Aquagen International Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2002-01-01",
+          "Text": "Ng Heng Liat served as a director of Aquagen International Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-07-29",
+          "Text": "Ng Heng Liat opposed AIPL's participation in arbitration proceedings."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2002-07-29",
+          "Text": "Ng Heng Liat received a notice from Kiyue Co Ltd under s 216A of the Companies Act."
+        }
+      ],
+      "Issue": "Whether directors can seek a declaration of compliance with management obligations without a pending action against them.",
+      "Rule": "Directors may seek a declaration of compliance with their duties if there is a reasonable apprehension of legal action.",
+      "Application": "The plaintiffs argued that they acted within their management obligations by opposing arbitration participation. The defendant contended that the plaintiffs' actions were not in the company's best interest.",
+      "Judicial_Reasoning_Log": "The court found that the plaintiffs were entitled to seek a declaration as there was no pending action against them."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  }
+]

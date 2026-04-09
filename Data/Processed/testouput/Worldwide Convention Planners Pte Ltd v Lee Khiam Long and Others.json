@@ -1,0 +1,164 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit 578/2007",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck J",
+      "Date": "2008-09-15",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Worldwide Convention Planners Pte Ltd",
+      "Law_Firm": "B T Tan & Co",
+      "Counsel": [
+        "Tan Bar Tien",
+        "Quek Seng Soon Winston"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1995-01-01",
+          "Text": "Worldwide Convention Planners Pte Ltd was incorporated to organize conventions and events."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2000-12-01",
+          "Text": "The plaintiff purchased the property at 51A/B Neil Road for $2,400,000."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2006-04-03",
+          "Text": "A valuation report valued the property at $2,050,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-08-30",
+          "Text": "Payment of $42,000 was made to the first defendant as director’s fees."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-08-30",
+          "Text": "Payment of $58,200 was made to Your Holiday Planners Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-08-30",
+          "Text": "Payment of $510,000 was divided among shareholders."
+        }
+      ],
+      "Issue": "Whether the directors of a company can be held legally responsible for actions that allegedly contravened their management obligations.",
+      "Rule": "Directors must act in the best interest of the company and ensure that all transactions are conducted with transparency and proper authorization.",
+      "Application": "The plaintiff stated that the first defendant acted without proper board approval in selling the property and distributing funds. The defendants argued that all actions were ratified by the shareholders.",
+      "Judicial_Reasoning_Log": "The court found that the plaintiff's claims were unsubstantiated and that the transactions were ratified by the shareholders."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 578/2007",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck J",
+      "Date": "2008-09-15",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lee Khiam Long",
+      "Law_Firm": "Choo Hin & Partners",
+      "Counsel": [
+        "Tan Kah Hin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1995-01-01",
+          "Text": "Lee Khiam Long was the managing director of Worldwide Convention Planners Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2006-08-30",
+          "Text": "Lee Khiam Long received $42,000 as director’s fees."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2006-08-30",
+          "Text": "Resolutions were passed to sell the property and distribute funds."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2007-01-29",
+          "Text": "Completion of the sale of the property to the second and third defendants."
+        }
+      ],
+      "Issue": "Whether a director can be held legally responsible for actions taken in the management of company assets without explicit board approval.",
+      "Rule": "A director must ensure that all significant company transactions are approved by the board or shareholders to avoid contravening management obligations.",
+      "Application": "The defendant argued that the sale and distribution of funds were approved by the shareholders. The plaintiff stated that these actions were unauthorized.",
+      "Judicial_Reasoning_Log": "The court concluded that the actions were ratified by the shareholders and dismissed the claims against the defendant."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 578/2007 (Counterclaim)",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck J",
+      "Date": "2008-09-15",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Lee Khiam Long",
+      "Law_Firm": "Choo Hin & Partners",
+      "Counsel": [
+        "Tan Kah Hin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2007-01-29",
+          "Text": "Lee Khiam Long claimed $111,122.25 from the plaintiff."
+        }
+      ],
+      "Issue": "Whether a director can claim reimbursement for expenses incurred in the course of company management.",
+      "Rule": "A director is entitled to claim legitimate expenses incurred in the course of fulfilling their management duties.",
+      "Application": "The plaintiff by counterclaim stated that the expenses were legitimate and supported by documentation. The defendant by counterclaim did not challenge the claim.",
+      "Judicial_Reasoning_Log": "The court accepted the evidence provided by the plaintiff by counterclaim and allowed the claim for reimbursement."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 578/2007 (Counterclaim)",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck J",
+      "Date": "2008-09-15",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Worldwide Convention Planners Pte Ltd",
+      "Law_Firm": "B T Tan & Co",
+      "Counsel": [
+        "Tan Bar Tien",
+        "Quek Seng Soon Winston"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2007-01-29",
+          "Text": "Worldwide Convention Planners Pte Ltd was claimed against for $111,122.25 by Lee Khiam Long."
+        }
+      ],
+      "Issue": "Whether a company is legally responsible to reimburse a director for claimed expenses.",
+      "Rule": "A company is obligated to reimburse directors for legitimate expenses incurred in the course of their duties, provided proper documentation is submitted.",
+      "Application": "The defendant by counterclaim did not provide evidence to refute the claim. The plaintiff by counterclaim provided documentation supporting the expenses.",
+      "Judicial_Reasoning_Log": "The court found the claim to be valid and ordered the company to reimburse the claimed amount."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  }
+]

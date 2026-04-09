@@ -1,0 +1,189 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 454 of 2012",
+      "Coram": "Tan Siong Thye J",
+      "Judge": "Tan Siong Thye J",
+      "Date": "2015-01-29",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Leong Hin Chuee",
+      "Law_Firm": "ADTvance Law LLC",
+      "Counsel": [
+        "Dawn Tan Ly-Ru",
+        "Adriel Chia"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2007-08-01",
+          "Text": "Leong Hin Chuee signed an Employment Agreement with Transpacific Group."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2007-08-01",
+          "Text": "Leong Hin Chuee received a monthly salary of S$25,000."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-08-01",
+          "Text": "Employment Agreement entitled Leong to bonuses, share rewards, and reimbursements."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-08-01",
+          "Text": "Leong was entitled to US$4,663,020 for Project Gibson completion."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-08-01",
+          "Text": "Leong was entitled to US$4,511,250 for Project MP completion."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-08-01",
+          "Text": "Leong was entitled to US$1,138,315.22 for fundraising activities."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-08-01",
+          "Text": "Leong was entitled to S$1,852,000 for fundraising for 21 Anderson Properties."
+        }
+      ],
+      "Issue": "Whether the plaintiff is entitled to bonuses and reimbursements under the Employment Agreement.",
+      "Rule": "An employee is entitled to contractual benefits if the conditions stipulated in the contract are met.",
+      "Application": "The plaintiff argues that he fulfilled the conditions for bonuses and reimbursements. The defendants contend that the conditions were not met and that they were not parties to the Employment Agreement.",
+      "Judicial_Reasoning_Log": "The court found that the plaintiff was entitled to some of the claimed bonuses and reimbursements, but not all, due to the lack of evidence for certain claims."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 454 of 2012",
+      "Coram": "Tan Siong Thye J",
+      "Judge": "Tan Siong Thye J",
+      "Date": "2015-01-29",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Citra Group Pte Ltd",
+      "Law_Firm": "WongPartnership LLP",
+      "Counsel": [
+        "Ho Pei Shien Melanie",
+        "Sim Hui Shan",
+        "Sim Mei Ling",
+        "Simran Toor",
+        "Wong Shu Yu",
+        "Debby Ratnasari"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2007-08-01",
+          "Text": "Citra Group Pte Ltd was part of the Transpacific Group."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-08-01",
+          "Text": "Citra Group Pte Ltd was not a signatory to the Employment Agreement."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-17",
+          "Text": "Leong Hin Chuee communicated his willingness to waive certain claims for reimbursement."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-10-24",
+          "Text": "Citra Group Pte Ltd issued a cheque for S$25,109.15 to Leong Hin Chuee."
+        }
+      ],
+      "Issue": "Whether the defendants are legally responsible for the plaintiff's claims under the Employment Agreement.",
+      "Rule": "A corporate entity is bound by a contract only if it is a party to the contract.",
+      "Application": "The defendants argue they were not parties to the Employment Agreement and thus not responsible for the claims. The plaintiff contends that the defendants were part of the group that employed him.",
+      "Judicial_Reasoning_Log": "The court held that the defendants were not parties to the Employment Agreement and thus not liable for the claims."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 454 of 2012 (Counterclaim)",
+      "Coram": "Tan Siong Thye J",
+      "Judge": "Tan Siong Thye J",
+      "Date": "2015-01-29",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Citra Group Pte Ltd",
+      "Law_Firm": "WongPartnership LLP",
+      "Counsel": [
+        "Ho Pei Shien Melanie",
+        "Sim Hui Shan",
+        "Sim Mei Ling",
+        "Simran Toor",
+        "Wong Shu Yu",
+        "Debby Ratnasari"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-01",
+          "Text": "Leong Hin Chuee allegedly removed confidential documents from Citra Group Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-01",
+          "Text": "Citra Group Pte Ltd communicated concerns about contravention of confidentiality."
+        }
+      ],
+      "Issue": "Whether the plaintiff by counterclaim contravened confidentiality obligations.",
+      "Rule": "A party is legally responsible for maintaining confidentiality if bound by a confidentiality agreement.",
+      "Application": "The plaintiff by counterclaim argues that the defendant by counterclaim contravened confidentiality by removing documents. The defendant by counterclaim denies any contravened.",
+      "Judicial_Reasoning_Log": "The court found insufficient evidence to support the claim of breach of confidentiality."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 454 of 2012 (Counterclaim)",
+      "Coram": "Tan Siong Thye J",
+      "Judge": "Tan Siong Thye J",
+      "Date": "2015-01-29",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Leong Hin Chuee",
+      "Law_Firm": "ADTvance Law LLC",
+      "Counsel": [
+        "Dawn Tan Ly-Ru",
+        "Adriel Chia"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-07-01",
+          "Text": "Leong Hin Chuee allegedly removed confidential documents from Citra Group Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-07-01",
+          "Text": "Leong Hin Chuee communicated his denial of any contravention of confidentiality."
+        }
+      ],
+      "Issue": "Whether the defendant by counterclaim is legally responsible for contravention of confidentiality.",
+      "Rule": "A party is legally responsible for maintaining confidentiality if bound by a confidentiality agreement.",
+      "Application": "The defendant by counterclaim denies any contravention of confidentiality, arguing that the documents were necessary for his defense. The plaintiff by counterclaim insists on a contravened.",
+      "Judicial_Reasoning_Log": "The court found insufficient evidence to support the claim of breach of confidentiality."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  }
+]

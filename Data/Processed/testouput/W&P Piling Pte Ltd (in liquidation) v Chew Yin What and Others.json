@@ -1,0 +1,205 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 162/2006",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu J",
+      "Date": "2007-07-31",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "W&P Piling Pte Ltd (in liquidation)",
+      "Law_Firm": "AsiaLegal LLC",
+      "Counsel": [
+        "Jeya Putra",
+        "Magdalene Chew"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-05-09",
+          "Text": "W&P Piling Pte Ltd was incorporated and engaged in mixed construction activities."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2003-05-16",
+          "Text": "The company was ordered to be wound-up by an order of court."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1997-11-27",
+          "Text": "Purchased IMT AF 18 hydraulic equipment for $740,000."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-01-01",
+          "Text": "Entered into a scheme of arrangement to pay creditors 0.40¢ for every $1.00."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2002-05-02",
+          "Text": "Sold the first machine to Wee Poh for $380,000."
+        }
+      ],
+      "Issue": "Whether directors can be held legally responsible for transferring company assets without proper accounting.",
+      "Rule": "Directors must act in the best interest of the company and ensure proper accounting for asset transfers.",
+      "Application": "The Plaintiff argued that the directors transferred assets without proper valuation or accounting, worsening the company's financial position. The Defendants claimed the transfers were necessary to alleviate cash flow issues.",
+      "Judicial_Reasoning_Log": "The court found that the directors failed to act in the company's best interest by transferring assets without proper valuation or accounting, leading to financial detriment."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 162/2006",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu J",
+      "Date": "2007-07-31",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Chew Yin What",
+      "Law_Firm": "William Poh & Louis Lim",
+      "Counsel": [
+        "Leslie Phua",
+        "Louis Lim"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-05-09",
+          "Text": "Chew Yin What was appointed as a director of W&P Piling Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-05-02",
+          "Text": "Approved the sale of the first machine to Wee Poh without valuation."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "Involved in the decision to transfer machines to Wee Poh without accounting for proceeds."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2003-06-05",
+          "Text": "Responded to liquidator's demand for payment, disputing the amount owed."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2003-06-27",
+          "Text": "Signed a letter asserting that the adjudicated sum was included in the original debt."
+        }
+      ],
+      "Issue": "Whether a director is legally responsible for failing to account for asset transfers and proceeds.",
+      "Rule": "Directors must ensure proper accounting and valuation of company assets during transfers.",
+      "Application": "The Defendant argued that the asset transfers were necessary for cash flow management. The Plaintiff contended that the lack of valuation and accounting contravened legal obligations.",
+      "Judicial_Reasoning_Log": "The court determined that the Defendant failed to fulfill his duties by not ensuring proper valuation and accounting, resulting in financial harm to the company."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 162/2006",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu J",
+      "Date": "2007-07-31",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lee Kok Swee",
+      "Law_Firm": "William Poh & Louis Lim",
+      "Counsel": [
+        "Leslie Phua",
+        "Louis Lim"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-08-02",
+          "Text": "Lee Kok Swee was appointed as a director of W&P Piling Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-05-02",
+          "Text": "Participated in the decision to sell the first machine to Wee Poh without valuation."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "Involved in the decision to transfer machines to Wee Poh without accounting for proceeds."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2003-06-05",
+          "Text": "Supported the response disputing the amount owed to the liquidator."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2003-06-27",
+          "Text": "Endorsed a letter asserting that the adjudicated sum was included in the original debt."
+        }
+      ],
+      "Issue": "Whether a director is legally responsible for failing to account for asset transfers and proceeds.",
+      "Rule": "Directors must ensure proper accounting and valuation of company assets during transfers.",
+      "Application": "The Defendant argued that the asset transfers were necessary for cash flow management. The Plaintiff contended that the lack of valuation and accounting contravened legal obligations.",
+      "Judicial_Reasoning_Log": "The court determined that the Defendant failed to fulfill his duties by not ensuring proper valuation and accounting, resulting in financial harm to the company."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 162/2006",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu J",
+      "Date": "2007-07-31",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Yeung Chun Keung",
+      "Law_Firm": "CH & Partners",
+      "Counsel": [
+        "Tan Cheow Hin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-05-27",
+          "Text": "Yeung Chun Keung was appointed as a director of W&P Piling Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "Did not participate in the decision to sell the first machine."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-01-01",
+          "Text": "Claimed to have no knowledge of the sale of the five machines."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2004-09-22",
+          "Text": "Examined in court on the plaintiff’s affairs and duties as a director."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2004-10-08",
+          "Text": "Filed an to answer questions put by the liquidator."
+        }
+      ],
+      "Issue": "Whether a director can be held legally responsible for failing to prevent asset transfers without proper accounting.",
+      "Rule": "Directors must exercise due diligence to prevent unauthorized asset transfers.",
+      "Application": "The Defendant claimed limited involvement and lack of knowledge regarding the asset transfers. The Plaintiff argued that the Defendant failed to exercise due diligence in overseeing company affairs.",
+      "Judicial_Reasoning_Log": "The court acknowledged the Defendant's limited role but found a failure to exercise due diligence in preventing unauthorized asset transfers."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  }
+]

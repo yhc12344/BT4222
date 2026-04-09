@@ -1,0 +1,169 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 912 of 2019",
+      "Coram": "Tan Siong Thye J",
+      "Judge": "Tan Siong Thye J",
+      "Date": "2021-11-19",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Prime Cars Leasing Pte Ltd",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2015-03-27",
+          "Text": "Prime Cars Leasing Pte Ltd was incorporated."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2017-01-01",
+          "Text": "Supreme Pte Ltd leased 23 cars from PCL."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-05-01",
+          "Text": "Supreme Pte Ltd stopped paying monthly rentals to PCL."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2018-12-14",
+          "Text": "Neo Sisters became directors of PCL."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-08-01",
+          "Text": "Ms Lim directed the sale of 14 cars to Zenith."
+        }
+      ],
+      "Issue": "Whether a director can be held legally responsible for selling company assets without shareholder consent.",
+      "Rule": "A director must act in the best interests of the company and exercise reasonable diligence.",
+      "Application": "The Plaintiff argued that Ms Lim sold the cars at undervalued prices without authority. The Defendant contended that the sales were necessary due to financial distress caused by the Plaintiff's own actions.",
+      "Judicial_Reasoning_Log": "The court found that Ms Lim acted within her authority as the sole director and in the best interests of PCL given the financial circumstances."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 912 of 2019",
+      "Coram": "Tan Siong Thye J",
+      "Judge": "Tan Siong Thye J",
+      "Date": "2021-11-19",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Zenith Automobile Pte Ltd",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2018-01-01",
+          "Text": "Zenith Automobile Pte Ltd is a company dealing in used cars."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2018-07-26",
+          "Text": "Zenith purchased 14 cars from PCL."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-07-01",
+          "Text": "Zenith conducted an ACRA search confirming Ms Lim as sole director of PCL."
+        }
+      ],
+      "Issue": "Whether a company can be held legally responsible for purchasing assets at undervalued prices knowing the seller's management contravened.",
+      "Rule": "A purchaser must not knowingly participate in a transaction that constitutes a contravention of management duty.",
+      "Application": "The Defendant argued that the purchase was at market value and conducted in good faith. The Plaintiff claimed the prices were undervalued and Zenith was complicit.",
+      "Judicial_Reasoning_Log": "The court found no evidence of undervaluation or dishonest assistance by Zenith."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 912 of 2019 (Counterclaim)",
+      "Coram": "Tan Siong Thye J",
+      "Judge": "Tan Siong Thye J",
+      "Date": "2021-11-19",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Lim Siew Ling",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2015-03-27",
+          "Text": "Ms Lim was the sole director and shareholder of PCL."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-05-01",
+          "Text": "Supreme Pte Ltd stopped paying monthly rentals to PCL."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2018-07-26",
+          "Text": "Ms Lim directed the sale of 14 cars to Zenith."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-08-01",
+          "Text": "Ms Lim transferred $289,700.47 to her personal account for PCL expenses."
+        }
+      ],
+      "Issue": "Whether a director can claim reimbursement for personal funds used to cover company expenses.",
+      "Rule": "A director is entitled to reimbursement for personal funds used in the company's best interest.",
+      "Application": "The Plaintiff by counterclaim argued that the funds were used to cover necessary expenses due to the company's financial distress. The Defendant by counterclaim disputed the necessity and authority for such transfers.",
+      "Judicial_Reasoning_Log": "The court found that Ms Lim acted in the company's best interest and was entitled to reimbursement for legitimate expenses."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 912 of 2019 (Counterclaim)",
+      "Coram": "Tan Siong Thye J",
+      "Judge": "Tan Siong Thye J",
+      "Date": "2021-11-19",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Prime Cars Leasing Pte Ltd",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2015-03-27",
+          "Text": "Prime Cars Leasing Pte Ltd was incorporated."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-05-01",
+          "Text": "Supreme Pte Ltd stopped paying monthly rentals to PCL."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2018-07-26",
+          "Text": "PCL sold 14 cars to Zenith."
+        }
+      ],
+      "Issue": "Whether a company is legally responsible to reimburse a director for personal funds used to cover company expenses.",
+      "Rule": "A company is legally responsible to reimburse a director for personal funds used in the company's best interest.",
+      "Application": "The Defendant by counterclaim argued that the director's actions were unauthorized and unnecessary. The Plaintiff by counterclaim demonstrated the necessity due to financial distress.",
+      "Judicial_Reasoning_Log": "The court found that the director's actions were justified and necessary for the company's survival."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  }
+]

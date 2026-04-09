@@ -1,0 +1,268 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 758 of 2017",
+      "Coram": "Chua Lee Ming J",
+      "Judge": "Chua Lee Ming J",
+      "Date": "2020-10-08",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Ng Tang Hock",
+      "Law_Firm": "Damodara Ong LLC",
+      "Counsel": [
+        "Suresh s/o Damodara",
+        "Ong Ziying Clement",
+        "Khoo Shufen Joni"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1989-01-01",
+          "Text": "Ng Tang Hock is a successful self-made businessman."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "1996-05-22",
+          "Text": "Teelek Realty was incorporated in Singapore."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011-09-13",
+          "Text": "Ng Tang Hock transferred his shares in Mingsen to Wendy."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2011-08-15",
+          "Text": "Loans from Ng Tang Hock to Teelek Realty totaled $12,564,000."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-11-12",
+          "Text": "Ng Tang Hock met with Shirlyn and Eugene at West Coast Plaza."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-01-03",
+          "Text": "Interim judgment dissolving the marriage was granted."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-08-01",
+          "Text": "A consent ancillaries order was made in the divorce proceedings."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-08-07",
+          "Text": "Ng Tang Hock resigned as a director of Teelek Realty."
+        }
+      ],
+      "Issue": "Whether the plaintiff is entitled to repayment of loans made to Teelek Realty and whether the conduct of the defendants amounted to oppression.",
+      "Rule": "A shareholder may seek relief under s 216 of the Companies Act if the company's affairs are conducted in a manner oppressive to the shareholder.",
+      "Application": "The plaintiff argued that the loans were not time-barred and that the defendants' actions were oppressive. The defendants claimed the loans were waived and denied oppressive conduct.",
+      "Judicial_Reasoning_Log": "The court found that the plaintiff's oppression claim was valid and ordered the winding up of Teelek Realty. The claim for repayment of loans was dismissed."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 758 of 2017",
+      "Coram": "Chua Lee Ming J",
+      "Judge": "Chua Lee Ming J",
+      "Date": "2020-10-08",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Teelek Realty Pte Ltd",
+      "Law_Firm": "OTP Law Corporation",
+      "Counsel": [
+        "Lim Seng Siew",
+        "Isabel Chew-Lau"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-05-22",
+          "Text": "Teelek Realty was incorporated as an investment holding company."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011-10-01",
+          "Text": "Loans from Ng Tang Hock were reclassified as loans from Wendy."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-08-07",
+          "Text": "Shirlyn was appointed as a director of Teelek Realty."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2014-09-01",
+          "Text": "Eugene was appointed as a director of Teelek Realty."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-07-28",
+          "Text": "Wendy transferred one share each to Shirlyn and Eugene."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-05-26",
+          "Text": "Notice of Teelek Realty’s 20th AGM was issued."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-08-17",
+          "Text": "Ng Tang Hock commenced the present action."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2017-11-07",
+          "Text": "The 20th AGM was held based on the original agenda."
+        }
+      ],
+      "Issue": "Whether the defendants' actions in managing Teelek Realty were oppressive to the plaintiff as a shareholder.",
+      "Rule": "Directors must act in the best interests of the company and not disregard the interests of shareholders.",
+      "Application": "The defendants argued that their actions were in compliance with company procedures and that the plaintiff's claims were unfounded. The plaintiff contended that the defendants' actions were prejudicial.",
+      "Judicial_Reasoning_Log": "The court found that the defendants' conduct amounted to oppression and ordered the winding up of Teelek Realty."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 758 of 2017 (Counterclaim)",
+      "Coram": "Chua Lee Ming J",
+      "Judge": "Chua Lee Ming J",
+      "Date": "2020-10-08",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Wendy",
+      "Law_Firm": "OTP Law Corporation",
+      "Counsel": [
+        "Lim Seng Siew",
+        "Isabel Chew-Lau"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1995-06-21",
+          "Text": "Wendy married Ng Tang Hock."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-05-22",
+          "Text": "Wendy became a director of Teelek Realty."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011-09-13",
+          "Text": "Wendy received shares in Mingsen from Ng Tang Hock."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-10-01",
+          "Text": "Wendy reclassified loans from Ng Tang Hock as loans from herself."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-08-01",
+          "Text": "Wendy was granted joint custody of children in the Ancillaries Order."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-07-28",
+          "Text": "Wendy transferred shares to Shirlyn and Eugene."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-08-14",
+          "Text": "Wendy's lawyer sent a draft Trust Deed to Ng Tang Hock."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-08-17",
+          "Text": "Wendy filed a counterclaim against Ng Tang Hock."
+        }
+      ],
+      "Issue": "Whether Wendy is entitled to claim that Ng Tang Hock holds shares in Teelek Realty on trust for Shirlyn and Eugene.",
+      "Rule": "A trust claim requires clear evidence of an agreement to hold property on behalf of beneficiaries.",
+      "Application": "Wendy claimed that there was an agreement for Ng Tang Hock to hold shares on trust. Ng Tang Hock denied any such agreement existed.",
+      "Judicial_Reasoning_Log": "The court found no evidence of a trust agreement and dismissed Wendy's counterclaim."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 758 of 2017 (Counterclaim)",
+      "Coram": "Chua Lee Ming J",
+      "Judge": "Chua Lee Ming J",
+      "Date": "2020-10-08",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Ng Tang Hock",
+      "Law_Firm": "Damodara Ong LLC",
+      "Counsel": [
+        "Suresh s/o Damodara",
+        "Ong Ziying Clement",
+        "Khoo Shufen Joni"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1989-01-01",
+          "Text": "Ng Tang Hock is a successful self-made businessman."
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1995-06-21",
+          "Text": "Ng Tang Hock married Wendy."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-05-22",
+          "Text": "Ng Tang Hock became a director of Teelek Realty."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011-09-13",
+          "Text": "Ng Tang Hock transferred shares in Mingsen to Wendy."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-11-12",
+          "Text": "Ng Tang Hock met with Shirlyn and Eugene at West Coast Plaza."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-01-03",
+          "Text": "Interim judgment dissolving the marriage was granted."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-08-01",
+          "Text": "A consent ancillaries order was made in the divorce proceedings."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-08-07",
+          "Text": "Ng Tang Hock resigned as a director of Teelek Realty."
+        }
+      ],
+      "Issue": "Whether Ng Tang Hock holds shares in Teelek Realty on trust for Shirlyn and Eugene.",
+      "Rule": "A trust requires a clear intention to create a management relationship and hold property for the benefit of others.",
+      "Application": "Ng Tang Hock denied any trust agreement and argued that he retained full ownership of his shares. Wendy claimed there was an agreement for a trust.",
+      "Judicial_Reasoning_Log": "The court found no evidence supporting the existence of a trust and ruled in favor of Ng Tang Hock."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  }
+]

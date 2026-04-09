@@ -1,0 +1,206 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "CA 206/1999",
+      "Coram": "Chao Hick Tin JA; L P Thean JA; Yong Pung How CJ",
+      "Judge": "Chao Hick Tin JA; L P Thean JA; Yong Pung How CJ",
+      "Date": "2000-07-03",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Kea Holdings Pte Ltd",
+      "Law_Firm": "Hee Theng Fong & Co",
+      "Counsel": [
+        "Hee Theng Fong",
+        "Doris Damaris Lee",
+        "Marilyn Chia Lay Ling"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1993-07-15",
+          "Text": "Gan Boon Hock joined Kea Resources as a general manager."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1998-11-21",
+          "Text": "Gan Boon Hock served as managing director of Kea Resources until this date."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-05-01",
+          "Text": "Gan became a majority shareholder and director of Sinindo Pacific Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-08-22",
+          "Text": "Kea Resources forfeited deposits totaling US$77,610 due to cancellation of barge orders."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-11-01",
+          "Text": "Gan allegedly procured two sale agreements for the vessel 'Regal 8' with different sale prices."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1999-02-12",
+          "Text": "Appellants commenced proceedings against Gan for management obligations and fraudulent misrepresentation."
+        }
+      ],
+      "Issue": "Whether a director can be held legally responsible for diverting business opportunities and misrepresenting financial transactions to the detriment of the company.",
+      "Rule": "A director must act in the best interests of the company and avoid conflicts between personal interests and company duties.",
+      "Application": "The appellants stated that Gan diverted business and misrepresented sale agreements, causing financial loss. Gan argued he acted in the best interests of Sinindo and denied any misrepresentation.",
+      "Judicial_Reasoning_Log": "The court found Gan liable for misrepresentation in the sale of 'Orient VI' and ordered compensation for forfeited deposits, but dismissed claims related to business diversion and 'Regal 8'."
+    },
+    "Label": "Appeal Allowed in Part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "CA 206/1999",
+      "Coram": "Chao Hick Tin JA; L P Thean JA; Yong Pung How CJ",
+      "Judge": "Chao Hick Tin JA; L P Thean JA; Yong Pung How CJ",
+      "Date": "2000-07-03",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Gan Boon Hock",
+      "Law_Firm": "Tan Peng Chin & Partners",
+      "Counsel": [
+        "Oommen Mathew"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1993-07-15",
+          "Text": "Gan Boon Hock joined Kea Resources as a general manager."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1998-11-21",
+          "Text": "Gan Boon Hock served as managing director of Kea Resources until this date."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1995-05-01",
+          "Text": "Gan became a majority shareholder and director of Sinindo Pacific Pte Ltd."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1995-05-01",
+          "Text": "Gan informed appellants of his involvement in Sinindo, claiming it was to lend his name to Teddy Salim."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-08-22",
+          "Text": "Kea Resources forfeited deposits totaling US$77,610 due to cancellation of barge orders."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1995-11-01",
+          "Text": "Gan allegedly procured two sale agreements for the vessel 'Regal 8' with different sale prices."
+        }
+      ],
+      "Issue": "Whether a director is legally responsible for stated misrepresentation and diversion of business opportunities.",
+      "Rule": "A director must act in the best interests of the company and avoid conflicts between personal interests and company duties.",
+      "Application": "Gan argued he acted in the best interests of Sinindo and denied any misrepresentation. The appellants stated that Gan diverted business and misrepresented sale agreements, causing financial loss.",
+      "Judicial_Reasoning_Log": "The court found Gan liable for misrepresentation in the sale of 'Orient VI' and ordered compensation for forfeited deposits, but dismissed claims related to business diversion and 'Regal 8'."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "CA 206/1999 (Counterclaim)",
+      "Coram": "Chao Hick Tin JA; L P Thean JA; Yong Pung How CJ",
+      "Judge": "Chao Hick Tin JA; L P Thean JA; Yong Pung How CJ",
+      "Date": "2000-07-03",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Gan Boon Hock",
+      "Law_Firm": "Tan Peng Chin & Partners",
+      "Counsel": [
+        "Oommen Mathew"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-11-21",
+          "Text": "Gan claimed annual wage supplements and bonuses from Kea Resources."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1993-07-15",
+          "Text": "Gan joined Kea Resources as a general manager."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1998-11-21",
+          "Text": "Gan served as managing director of Kea Resources until this date."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1999-02-12",
+          "Text": "Gan counterclaimed against Kea Resources for financial entitlements."
+        }
+      ],
+      "Issue": "Whether an employee is entitled to claim unpaid financial entitlements after termination of employment.",
+      "Rule": "An employee may claim financial entitlements if they are contractually agreed upon and remain unpaid.",
+      "Application": "Gan stated that he was owed financial entitlements as per his employment contract. Kea Resources contested the validity of these claims.",
+      "Judicial_Reasoning_Log": "The court allowed Gan's counterclaim for financial entitlements, awarding him S$42,166.67 and CPF contributions."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "CA 206/1999 (Counterclaim)",
+      "Coram": "Chao Hick Tin JA; L P Thean JA; Yong Pung How CJ",
+      "Judge": "Chao Hick Tin JA; L P Thean JA; Yong Pung How CJ",
+      "Date": "2000-07-03",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Kea Resources Pte Ltd",
+      "Law_Firm": "Hee Theng Fong & Co",
+      "Counsel": [
+        "Hee Theng Fong",
+        "Doris Damaris Lee",
+        "Marilyn Chia Lay Ling"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1993-07-15",
+          "Text": "Gan joined Kea Resources as a general manager."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1998-11-21",
+          "Text": "Gan served as managing director of Kea Resources until this date."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1998-11-21",
+          "Text": "Gan claimed annual wage supplements and bonuses from Kea Resources."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "1999-02-12",
+          "Text": "Gan counterclaimed against Kea Resources for financial entitlements."
+        }
+      ],
+      "Issue": "Whether a company is legally responsible to pay financial entitlements claimed by a former employee.",
+      "Rule": "A company is obligated to pay financial entitlements if they are contractually agreed upon and remain unpaid.",
+      "Application": "Kea Resources contested the validity of Gan's claims for financial entitlements. Gan stated that he was owed these entitlements as per his employment contract.",
+      "Judicial_Reasoning_Log": "The court allowed Gan's counterclaim for financial entitlements, awarding him S$42,166.67 and CPF contributions."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  }
+]
