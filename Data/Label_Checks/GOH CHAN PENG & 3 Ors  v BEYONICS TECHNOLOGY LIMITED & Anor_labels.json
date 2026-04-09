@@ -1,0 +1,30 @@
+[
+  {
+    "Case_Number": "[2017] SGCA 40; CA 94/2016 (and Suit 672/2013)",
+    "Plaintiff": "Beyonics Technology Ltd",
+    "Defendant": "Goh Chan Peng",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "[2017] SGCA 40; CA 94/2016 (and Suit 672/2013)",
+    "Plaintiff": "Beyonics Technology Ltd",
+    "Defendant": "Wyser International Ltd",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "[2017] SGCA 40; CA 94/2016 (and Suit 672/2013)",
+    "Plaintiff": "Beyonics International Pte Ltd",
+    "Defendant": "Goh Chan Peng",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "[2017] SGCA 40; CA 98/2016",
+    "Plaintiff": "Beyonics Technology Ltd",
+    "Defendant": "Goh Chan Peng",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  }
+]

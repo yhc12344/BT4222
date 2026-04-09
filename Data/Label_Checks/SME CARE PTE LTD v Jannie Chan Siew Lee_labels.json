@@ -1,0 +1,23 @@
+[
+  {
+    "Case_Number": "[2025] SGHC 27 (HC/SUM 4315/2022 in B 2648/2018)",
+    "Plaintiff": "SME Care Pte Ltd",
+    "Defendant": "Jannie Chan Siew Lee",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "[2025] SGHC 27 (HC/OA 797/2022 & HC/SUM 4314/2022 in B 2648/2018)",
+    "Plaintiff": "Fulcrum Distressed Partners Limited",
+    "Defendant": "Jannie Chan Siew Lee",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "[2025] SGHC 27 (HC/SUM 4316/2022 in B 2648/2018) (Counterclaim)",
+    "Plaintiff": "Jannie Chan Siew Lee",
+    "Defendant": "Fulcrum Distressed Partners Limited",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  }
+]

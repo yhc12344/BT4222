@@ -1,0 +1,207 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 118 of 2021",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair J",
+      "Date": "2023-08-15",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Elcarim Science Pte Ltd",
+      "Law_Firm": "Fullerton Law Chambers LLC",
+      "Counsel": ["Tham Wei Chern", "Ling Yuanrong", "Samuel Ang Rong En"],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-08-07",
+          "Text": "Elcarim Science Pte Ltd was incorporated in Singapore to provide research and development in the security industry."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011-04-25",
+          "Text": "The company exported restricted equipment on two occasions in February and June 2015 without the required permits."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-10-01",
+          "Text": "Three individuals, including the director's wife, were placed on the company's payroll and received salaries totaling $86,255."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-07-23",
+          "Text": "A sum of $58,288 from the company's funds was used to process repayments for a director's personal bank loan."
+        },
+        {
+          "Fact_Type": "DISCLOSURE_EVENT",
+          "Fact_Date": "2021-05-01",
+          "Text": "The Ministry of Manpower made inquiries regarding the company's failure to pay CPF contributions for certain employees."
+        }
+      ],
+      "Issue": "Whether a director contravened management obligations by failing to secure export permits, utilizing company funds for personal loan repayments, and placing non-working individuals on the corporate payroll.",
+      "Rule": "A director is legally responsible for acting in the company's best interests and must account for any unauthorized use of corporate funds or failure to comply with statutory licensing requirements.",
+      "Application": "The Plaintiff stated that the director secretly hired 'phantom' employees and diverted funds for personal debt. The Defendant argued that the hires were authorized for business development and the loan was taken out for the company's cash-flow benefit.",
+      "Judicial_Reasoning_Log": "The court allowed the claim regarding the three employees, finding they did no work. However, it dismissed the claims for the ANZ loan and SGCA permits due to insufficient evidence of the director's personal culpability or proof that the funds were not used for company benefit."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 118 of 2021",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair J",
+      "Date": "2023-08-15",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Zhang Yongtai",
+      "Law_Firm": "Lee & Lee",
+      "Counsel": ["Quek Mong Hua", "Tan Jin Yong"],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-08-07",
+          "Text": "Zhang Yongtai served as the sole director of Elcarim from its incorporation, responsible for its day-to-day management."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-07-23",
+          "Text": "The director deposited $60,000 from a personal ANZ bank loan into the company's OCBC account to assist with cash flow issues."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-12-01",
+          "Text": "The director transferred half of the company's shares to another individual on the instructions of the primary shareholder."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2013-02-21",
+          "Text": "A Letter of Appointment was signed designating the director as the company's general manager."
+        }
+      ],
+      "Issue": "Whether a managing director is legally responsible for company convictions and financial disbursements related to employee salaries and personal loan repayments.",
+      "Rule": "A director must use reasonable diligence in the discharge of duties and must not place personal acquaintances on payroll without a legitimate business purpose.",
+      "Application": "The Defendant stated the hiring of the three employees was to increase Singaporean headcount to facilitate hiring foreign workers. The Plaintiff argued these were 'phantom' employees who provided no objective advantage to the company.",
+      "Judicial_Reasoning_Log": "The court determined that the director was legally responsible for the salaries paid to the three individuals as there was no evidence they performed any work. The director was found not liable for the SGCA charges or the ANZ loan repayments."
+    },
+    "Label": "Partially Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 118 of 2021 (Counterclaim)",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair J",
+      "Date": "2023-08-15",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Zhang Yongtai",
+      "Law_Firm": "Lee & Lee",
+      "Counsel": ["Quek Mong Hua", "Tan Jin Yong"],
+      "Facts": [
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-06-10",
+          "Text": "The company terminated the director's employment with immediate effect without providing any notice period."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-02-28",
+          "Text": "A Share Pledge Agreement (SPA) was allegedly executed, whereby 50% of the company's shares were pledged as collateral for a $750,000 loan."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-06-11",
+          "Text": "The director discovered that his 50% shareholding in the company had been transferred to another shareholder without his stated authority."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-09-30",
+          "Text": "Internal financial statements recorded an aggregate loan balance of $685,539 as being owed to the director."
+        }
+      ],
+      "Issue": "Whether a former director is entitled to damages for wrongful termination of employment and the disputed transfer of corporate shares under an allegedly forged agreement.",
+      "Rule": "A party seeking damages for the loss of shares in conversion must prove the transfer was unauthorized, and an employee is entitled to reasonable notice or salary in lieu of notice upon termination.",
+      "Application": "The Plaintiff by counterclaim stated his signature on the share transfer documents was forged and he was entitled to three months' notice. The Defendants by counterclaim maintained the transfer was a valid exercise of rights under the SPA and the employment contract was fabricated.",
+      "Judicial_Reasoning_Log": "The court allowed the claim for wrongful termination, awarding one month's salary. Crucially, the court found the director had not signed the SPA or transfer documents and awarded damages for the loss of the shares to be assessed."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 118 of 2021 (Counterclaim)",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair J",
+      "Date": "2023-08-15",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Elcarim Science Pte Ltd",
+      "Law_Firm": "Fullerton Law Chambers LLC",
+      "Counsel": ["Tham Wei Chern", "Ling Yuanrong", "Samuel Ang Rong En"],
+      "Facts": [
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-06-10",
+          "Text": "The company issued a termination letter to the director stating his employment would cease with immediate effect."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-05-01",
+          "Text": "The company processed salary payments to the director at a rate of $11,000 per month for the period preceding termination."
+        }
+      ],
+      "Issue": "Whether a company is legally responsible for unpaid salary and notice pay where the validity of the underlying employment agreement is disputed.",
+      "Rule": "In the absence of a valid written contract, an employee is entitled to a reasonable notice period based on their seniority and length of service.",
+      "Application": "The Defendant by counterclaim argued the Plaintiff's salary was only $11,000 and the provided written contract was not genuine. The Plaintiff by counterclaim stated he was entitled to $18,000 a month and three months' notice.",
+      "Judicial_Reasoning_Log": "The court found the written contract unenforceable but determined that a one-month notice period was reasonable given the director's position, awarding him $11,000 in damages."
+    },
+    "Label": "Partially Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 118 of 2021 (Counterclaim)",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair J",
+      "Date": "2023-08-15",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Dou Suoke",
+      "Law_Firm": "Fullerton Law Chambers LLC",
+      "Counsel": ["Tham Wei Chern", "Ling Yuanrong", "Samuel Ang Rong En"],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-08-07",
+          "Text": "Dou Suoke was the primary funder and shareholder of the company from its inception."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2015-02-28",
+          "Text": "The shareholder produced a Share Pledge Agreement purportedly signed by the director in the presence of a witness at a Singapore apartment."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2015-06-10",
+          "Text": "The shareholder executed the transfer of the director's 50% shareholding to himself, becoming the sole owner of the company."
+        }
+      ],
+      "Issue": "Whether a primary shareholder is legally responsible for the loss of shares resulting from an unauthorized transfer under a disputed pledge agreement.",
+      "Rule": "A party asserting the authenticity of a signature on a commercial document bears the evidentiary burden to prove it was genuinely executed by the stated signatory.",
+      "Application": "The Defendant by counterclaim stated the transfer was a legitimate response to the director's refusal to stop using a personal credit card for company GST payments. The Plaintiff by counterclaim stated he never saw or signed the pledge agreement.",
+      "Judicial_Reasoning_Log": "The court held that the shareholder improperly transferred the shares. Based on factual inconsistencies in the witness testimony and handwriting analysis, the court found the director did not sign the documents and held the shareholder liable for damages."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  }
+]

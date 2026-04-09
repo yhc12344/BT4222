@@ -1,0 +1,86 @@
+[
+  {
+    "Case_Number": "Suit No 3 of 2017",
+    "Plaintiff": "DyStar Global Holdings (Singapore) Pte Ltd",
+    "Defendant": "Kiri Industries Limited",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 3 of 2017",
+    "Plaintiff": "DyStar Global Holdings (Singapore) Pte Ltd",
+    "Defendant": "Manishkumar Pravinchandra Kiri",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 3 of 2017",
+    "Plaintiff": "DyStar Global Holdings (Singapore) Pte Ltd",
+    "Defendant": "Pravinchandra Amrutlal Kiri",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 3 of 2017",
+    "Plaintiff": "DyStar Global Holdings (Singapore) Pte Ltd",
+    "Defendant": "Kiri International (Mauritius) Private Limited",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 3 of 2017",
+    "Plaintiff": "DyStar Global Holdings (Singapore) Pte Ltd",
+    "Defendant": "Mukherjee Amitava",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 4 of 2017",
+    "Plaintiff": "Kiri Industries Limited",
+    "Defendant": "Senda International Capital Limited",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 4 of 2017",
+    "Plaintiff": "Kiri Industries Limited",
+    "Defendant": "DyStar Global Holdings (Singapore) Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 4 of 2017 (Counterclaim)",
+    "Plaintiff": "Senda International Capital Limited",
+    "Defendant": "Kiri Industries Limited",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 4 of 2017 (Counterclaim)",
+    "Plaintiff": "Senda International Capital Limited",
+    "Defendant": "Pravinchandra Amrutlal Kiri",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 4 of 2017 (Counterclaim)",
+    "Plaintiff": "Senda International Capital Limited",
+    "Defendant": "Manishkumar Pravinchandra Kiri",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 4 of 2017 (Counterclaim)",
+    "Plaintiff": "Senda International Capital Limited",
+    "Defendant": "Kiri International (Mauritius) Private Limited",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 4 of 2017 (Counterclaim)",
+    "Plaintiff": "Senda International Capital Limited",
+    "Defendant": "Mukherjee Amitava",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  }
+]

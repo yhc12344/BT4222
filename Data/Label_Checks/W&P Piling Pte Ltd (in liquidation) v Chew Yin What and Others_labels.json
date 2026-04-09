@@ -1,0 +1,37 @@
+[
+  {
+    "Case_Number": "Suit No 162/2006",
+    "Plaintiff": "W&P Piling Pte Ltd (in liquidation)",
+    "Defendant": "Chew Yin What",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 162/2006",
+    "Plaintiff": "W&P Piling Pte Ltd (in liquidation)",
+    "Defendant": "Lee Kok Swee",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 162/2006",
+    "Plaintiff": "W&P Piling Pte Ltd (in liquidation)",
+    "Defendant": "Yeung Chun Keung",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 162/2006 (Third Party Proceedings)",
+    "Plaintiff": "Yeung Chun Keung",
+    "Defendant": "Chew Yin What",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 162/2006 (Third Party Proceedings)",
+    "Plaintiff": "Yeung Chun Keung",
+    "Defendant": "Lee Kok Swee",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  }
+]

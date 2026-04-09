@@ -1,0 +1,208 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit 521/2005",
+      "Coram": "Andrew Ang J",
+      "Judge": "Andrew Ang J",
+      "Date": "2006-12-22",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Firstlink Energy Pte Ltd",
+      "Law_Firm": "Rodyk & Davidson",
+      "Counsel": [
+        "Low Chai Chong",
+        "Loh Kia Meng",
+        "Joanna Yeo"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-09-15",
+          "Text": "Ngu Tieng Ung was appointed as a director of Firstlink Energy Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2004-08-19",
+          "Text": "Firstlink Energy Pte Ltd, Creanovate Pte Ltd, and Tang entered into a Joint Venture Agreement for coal trading."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-09-07",
+          "Text": "Firstlink Energy Pte Ltd advanced $940,000 to Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-01-08",
+          "Text": "Firstlink Energy Pte Ltd, Creanovate Pte Ltd, and PT PAC entered into a Subscription Agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-03",
+          "Text": "Firstlink Energy Pte Ltd advanced a total of $3.26m to Creanovate Pte Ltd."
+        }
+      ],
+      "Issue": "Whether the defendant company is legally responsible to refund the advances made under the Subscription Agreement due to non-fulfillment of conditions precedent.",
+      "Rule": "A company must refund advances if conditions precedent in a contract are not fulfilled by the agreed deadline.",
+      "Application": "The plaintiff stated that the conditions precedent were not met, requiring a refund of the advances. The defendant argued that the Settlement Agreement superseded the Subscription Agreement, negating the refund obligation.",
+      "Judicial_Reasoning_Log": "The court found that the conditions precedent were not fulfilled, and the Settlement Agreement did not exempt Creanovate from refunding the advances."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 521/2005",
+      "Coram": "Andrew Ang J",
+      "Judge": "Andrew Ang J",
+      "Date": "2006-12-22",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Creanovate Pte Ltd",
+      "Law_Firm": "Mallal & Namazie",
+      "Counsel": [
+        "Tan Teng Muan",
+        "Loh Li Qin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-07-01",
+          "Text": "Tang Kok Heng was the majority and controlling shareholder of Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2004-08-19",
+          "Text": "Creanovate Pte Ltd entered into a Joint Venture Agreement with Firstlink Energy Pte Ltd and Tang for coal trading."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2004-09-07",
+          "Text": "Creanovate Pte Ltd received an advance of $940,000 from Firstlink Energy Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-01-08",
+          "Text": "Creanovate Pte Ltd entered into a Subscription Agreement with Firstlink Energy Pte Ltd and PT PAC."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-03",
+          "Text": "Creanovate Pte Ltd received a total of $3.26m in advances from Firstlink Energy Pte Ltd."
+        }
+      ],
+      "Issue": "Whether the company is legally responsible to refund the advances due to the non-fulfillment of conditions precedent in the Subscription Agreement.",
+      "Rule": "A company is obligated to refund advances if conditions precedent in a contract are not fulfilled by the agreed deadline.",
+      "Application": "The defendant argued that the Settlement Agreement superseded the Subscription Agreement, negating the refund obligation. The plaintiff stated that the conditions precedent were not met, requiring a refund of the advances.",
+      "Judicial_Reasoning_Log": "The court found that the conditions precedent were not fulfilled, and the Settlement Agreement did not exempt Creanovate from refunding the advances."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 523/2005",
+      "Coram": "Andrew Ang J",
+      "Judge": "Andrew Ang J",
+      "Date": "2006-12-22",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Firstlink Energy Pte Ltd",
+      "Law_Firm": "Rodyk & Davidson",
+      "Counsel": [
+        "Low Chai Chong",
+        "Loh Kia Meng",
+        "Joanna Yeo"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-09-15",
+          "Text": "Ngu Tieng Ung was appointed as a director of Firstlink Energy Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2004-08-19",
+          "Text": "Firstlink Energy Pte Ltd, Creanovate Pte Ltd, and Tang entered into a Joint Venture Agreement for coal trading."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-21",
+          "Text": "Firstlink Energy Pte Ltd advanced $1m to Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-01-08",
+          "Text": "Firstlink Energy Pte Ltd, Creanovate Pte Ltd, and PT PAC entered into a Subscription Agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-03",
+          "Text": "Firstlink Energy Pte Ltd advanced a total of $3.26m to Creanovate Pte Ltd."
+        }
+      ],
+      "Issue": "Whether the directors are legally responsible for the unauthorized advances made to the defendant company.",
+      "Rule": "Directors must ensure that company funds are advanced in compliance with statutory provisions and company interests.",
+      "Application": "The plaintiff stated that the advances were unauthorized and contravened statutory provisions. The defendants argued that the advances were legitimate business transactions.",
+      "Judicial_Reasoning_Log": "The court found that the advances were unauthorized and contravened statutory provisions, holding the directors accountable."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 523/2005",
+      "Coram": "Andrew Ang J",
+      "Judge": "Andrew Ang J",
+      "Date": "2006-12-22",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Ngu Tieng Ung",
+      "Law_Firm": "Lim & Lim",
+      "Counsel": [
+        "Chopra Sarbjit Singh",
+        "Suja Michelle Sasidharan"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-09-15",
+          "Text": "Ngu Tieng Ung was appointed as a director of Firstlink Energy Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2004-08-19",
+          "Text": "Ngu Tieng Ung was involved in the Joint Venture Agreement between Firstlink Energy Pte Ltd, Creanovate Pte Ltd, and Tang for coal trading."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-21",
+          "Text": "Ngu Tieng Ung authorized the advance of $1m to Creanovate Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2005-01-08",
+          "Text": "Ngu Tieng Ung was involved in the Subscription Agreement between Firstlink Energy Pte Ltd, Creanovate Pte Ltd, and PT PAC."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2005-02-03",
+          "Text": "Ngu Tieng Ung authorized the advance of a total of $3.26m to Creanovate Pte Ltd."
+        }
+      ],
+      "Issue": "Whether the director is legally responsible for the unauthorized advances made to the defendant company.",
+      "Rule": "Directors must ensure that company funds are advanced in compliance with statutory provisions and company interests.",
+      "Application": "The plaintiff stated that the advances were unauthorized and contravened statutory provisions. The defendant argued that the advances were legitimate business transactions.",
+      "Judicial_Reasoning_Log": "The court found that the advances were unauthorized and contravened statutory provisions, holding the director accountable."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  }
+]

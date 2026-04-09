@@ -1,0 +1,30 @@
+[
+  {
+    "Case_Number": "[2017] SGHC 202",
+    "Plaintiff": "TYC Investment Pte Ltd",
+    "Defendant": "Jannie Chan Siew Lee",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "[2017] SGHC 202",
+    "Plaintiff": "TYC Investment Pte Ltd",
+    "Defendant": "Henry Tay Yun Chwan",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "[2017] SGHC 202 (Counterclaim)",
+    "Plaintiff": "Jannie Chan Siew Lee",
+    "Defendant": "TYC Investment Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "[2017] SGHC 202 (Counterclaim)",
+    "Plaintiff": "Jannie Chan Siew Lee",
+    "Defendant": "Henry Tay Yun Chwan",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  }
+]

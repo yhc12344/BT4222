@@ -1,0 +1,37 @@
+[
+  {
+    "Case_Number": "Suit 731/2002",
+    "Plaintiff": "De Cruz Andrea Heidi",
+    "Defendant": "Guangzhou Yuzhitang Health Products Co Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit 731/2002",
+    "Plaintiff": "De Cruz Andrea Heidi",
+    "Defendant": "HealthBiz Pte Ltd",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit 731/2002",
+    "Plaintiff": "De Cruz Andrea Heidi",
+    "Defendant": "Semon Liu Kelun",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit 731/2002",
+    "Plaintiff": "De Cruz Andrea Heidi",
+    "Defendant": "TV Media Pte Ltd",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit 731/2002",
+    "Plaintiff": "De Cruz Andrea Heidi",
+    "Defendant": "Rayson Tan Tai Ming",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  }
+]

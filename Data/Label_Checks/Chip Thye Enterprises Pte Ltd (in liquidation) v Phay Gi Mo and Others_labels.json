@@ -1,0 +1,30 @@
+[
+  {
+    "Case_Number": "Suit 103/2002",
+    "Plaintiff": "Chip Thye Enterprises Pte Ltd (in liquidation)",
+    "Defendant": "Phay Gi Mo",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit 103/2002",
+    "Plaintiff": "Chip Thye Enterprises Pte Ltd (in liquidation)",
+    "Defendant": "Pey Lim Cheng",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit 103/2002",
+    "Plaintiff": "Chip Thye Enterprises Pte Ltd (in liquidation)",
+    "Defendant": "Estate of Lee Tiang Chin, Deceased",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit 103/2002",
+    "Plaintiff": "Chip Thye Enterprises Pte Ltd (in liquidation)",
+    "Defendant": "Pey Ciew Chang",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  }
+]

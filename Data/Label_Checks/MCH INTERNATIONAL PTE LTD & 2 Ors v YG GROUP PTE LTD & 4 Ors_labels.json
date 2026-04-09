@@ -1,0 +1,191 @@
+[
+  {
+    "Case_Number": "Suit No 104 of 2016",
+    "Plaintiff": "YG Logistics Pte Ltd",
+    "Defendant": "Wong Kok Hwee",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 104 of 2016",
+    "Plaintiff": "YG Logistics Pte Ltd",
+    "Defendant": "MCH International Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 337 of 2016",
+    "Plaintiff": "YG Logistics Pte Ltd",
+    "Defendant": "MCH International Pte Ltd",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 337 of 2016",
+    "Plaintiff": "YG Logistics Pte Ltd",
+    "Defendant": "Wong Kok Hwee",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 337 of 2016",
+    "Plaintiff": "YG Logistics Pte Ltd",
+    "Defendant": "Sing Lee Mee Yoke",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 337 of 2016 (Counterclaim)",
+    "Plaintiff": "MCH International Pte Ltd",
+    "Defendant": "YG Logistics Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 337 of 2016 (Counterclaim)",
+    "Plaintiff": "MCH International Pte Ltd",
+    "Defendant": "Liong Chung Yee",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 337 of 2016 (Counterclaim)",
+    "Plaintiff": "Wong Kok Hwee",
+    "Defendant": "YG Logistics Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 337 of 2016 (Counterclaim)",
+    "Plaintiff": "Wong Kok Hwee",
+    "Defendant": "Liong Chung Yee",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 337 of 2016 (Counterclaim)",
+    "Plaintiff": "Sing Lee Mee Yoke",
+    "Defendant": "YG Logistics Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 337 of 2016 (Counterclaim)",
+    "Plaintiff": "Sing Lee Mee Yoke",
+    "Defendant": "Liong Chung Yee",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 80 of 2017",
+    "Plaintiff": "YG Group Pte Ltd",
+    "Defendant": "Wong Kok Hwee",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 107 of 2017",
+    "Plaintiff": "MCH International Pte Ltd",
+    "Defendant": "YG Group Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 107 of 2017",
+    "Plaintiff": "MCH International Pte Ltd",
+    "Defendant": "YG Logistics Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 107 of 2017",
+    "Plaintiff": "MCH International Pte Ltd",
+    "Defendant": "Liong Chung Yee",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 107 of 2017",
+    "Plaintiff": "MCH International Pte Ltd",
+    "Defendant": "Tan Keng Beng",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 107 of 2017",
+    "Plaintiff": "MCH International Pte Ltd",
+    "Defendant": "Ang Chee Siong",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 107 of 2017",
+    "Plaintiff": "Wong Kok Hwee",
+    "Defendant": "YG Group Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 107 of 2017",
+    "Plaintiff": "Wong Kok Hwee",
+    "Defendant": "YG Logistics Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 107 of 2017",
+    "Plaintiff": "Wong Kok Hwee",
+    "Defendant": "Liong Chung Yee",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 107 of 2017",
+    "Plaintiff": "Wong Kok Hwee",
+    "Defendant": "Tan Keng Beng",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 107 of 2017",
+    "Plaintiff": "Wong Kok Hwee",
+    "Defendant": "Ang Chee Siong",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 107 of 2017",
+    "Plaintiff": "Sing Lee Mee Yoke",
+    "Defendant": "YG Group Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 107 of 2017",
+    "Plaintiff": "Sing Lee Mee Yoke",
+    "Defendant": "YG Logistics Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 107 of 2017",
+    "Plaintiff": "Sing Lee Mee Yoke",
+    "Defendant": "Liong Chung Yee",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 107 of 2017",
+    "Plaintiff": "Sing Lee Mee Yoke",
+    "Defendant": "Tan Keng Beng",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 107 of 2017",
+    "Plaintiff": "Sing Lee Mee Yoke",
+    "Defendant": "Ang Chee Siong",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  }
+]

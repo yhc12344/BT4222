@@ -1,0 +1,30 @@
+[
+  {
+    "Case_Number": "[2024] SGHC(I) 2",
+    "Plaintiff": "Baker, Michael A (executor of the estate of Chantal Burnison, deceased)",
+    "Defendant": "BCS Business Consulting Services Pte Ltd",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "[2024] SGHC(I) 2",
+    "Plaintiff": "Baker, Michael A (executor of the estate of Chantal Burnison, deceased)",
+    "Defendant": "Marcus Weber",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "[2024] SGHC(I) 2",
+    "Plaintiff": "Baker, Michael A (executor of the estate of Chantal Burnison, deceased)",
+    "Defendant": "Renslade Holdings Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "[2024] SGHC(I) 2",
+    "Plaintiff": "Baker, Michael A (executor of the estate of Chantal Burnison, deceased)",
+    "Defendant": "Hartono Sianto",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "Case_Number": "[2024] SGHC 138 / OC 256 of 2023",
+    "Plaintiff": "Pioneer Energy Holdings Pte Ltd",
+    "Defendant": "Zhu Yimin",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "[2024] SGHC 138 / OC 256 of 2023",
+    "Plaintiff": "Xu Jinsong",
+    "Defendant": "Zhu Yimin",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "[2024] SGHC 138 / OC 256 of 2023 (Counterclaim)",
+    "Plaintiff": "Zhu Yimin",
+    "Defendant": "Pioneer Energy Holdings Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "[2024] SGHC 138 / OC 256 of 2023 (Counterclaim)",
+    "Plaintiff": "Zhu Yimin",
+    "Defendant": "Xu Jinsong",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  }
+]

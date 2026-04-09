@@ -1,0 +1,213 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 475 of 2023",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair J",
+      "Date": "2024-09-25",
+      "Tribunal_Court": "General Division of the High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "AP Automotive Services Pte Ltd",
+      "Law_Firm": "Nine Yard Chambers LLC",
+      "Counsel": [
+        "Yeo Lai Hock Nichol",
+        "Qua Bi Qi",
+        "Andrew Ong"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-08-05",
+          "Text": "AP Automotive Services Pte Ltd was incorporated with a paid-up capital of $100,000."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-08-05",
+          "Text": "Mr Ho Siow Poh was the Managing Director and sole director on record."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-08-05",
+          "Text": "Mr Teo Ying Ping and Mr Liew Nyok Wah each held 33% of the Company's shares."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2020-08-05",
+          "Text": "Mr Ho held 34% of the Company's shares."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2021-04-07",
+          "Text": "Mr Teo sent a WhatsApp message to Ms Liew stating he passed a cheque of $100,000 to Mr Ho for a short-term loan."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2021-01-14",
+          "Text": "Mr Teo was repaid a sum of $160,000 by the Company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2021-10-08",
+          "Text": "Mr Teo contributed $260,000 to the Company through a hire-purchase loan."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2021-01-08",
+          "Text": "The Company entered into a loan agreement with Mengkim Holdings Pte Ltd."
+        }
+      ],
+      "Issue": "Whether Mr Liew breached management obligations by causing the Company to repay loans and whether the contributions were loans or capital injections.",
+      "Rule": "A director must act in the best interest of the company and avoid conflicts of interest.",
+      "Application": "The Plaintiff argued that Mr Liew breached an agreement to match capital contributions and acted against the Company's interest by repaying loans. The Defendant contended that the contributions were loans and repayments were justified.",
+      "Judicial_Reasoning_Log": "The court found that the contributions were loans, not capital injections, and Mr Liew was entitled to repayment. The evidence did not support the existence of a binding agreement for capital contributions."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 2
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 475 of 2023",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair J",
+      "Date": "2024-09-25",
+      "Tribunal_Court": "General Division of the High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Liew Nyok Wah",
+      "Law_Firm": "Fortress Law Corporation",
+      "Counsel": [
+        "Ow Yong Wei En James",
+        "Madeline Chan Yuen Hun"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2023-05-02",
+          "Text": "Mr Liew discussed financial contributions with Mr Ho and Mr Teo, acknowledging a matching agreement."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2021-01-08",
+          "Text": "Mr Liew procured a $500,000 loan from Mengkim Holdings Pte Ltd for the Company."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2022-04-28",
+          "Text": "The Company completed repayment of the Mengkim loan."
+        }
+      ],
+      "Issue": "Whether Mr Liew was subject of dispute for breaching management obligations by causing the Company to repay loans and whether the contributions were loans or capital injections.",
+      "Rule": "A director must act in the best interest of the company and avoid conflicts of interest.",
+      "Application": "The Defendant argued that the contributions were loans and repayments were justified. The Plaintiff contended that Mr Liew breached an agreement to match capital contributions and acted against the Company's interest.",
+      "Judicial_Reasoning_Log": "The court found that the contributions were loans, not capital injections, and Mr Liew was entitled to repayment. The evidence did not support the existence of a binding agreement for capital contributions."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 1
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 475 of 2023 (Counterclaim)",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair J",
+      "Date": "2024-09-25",
+      "Tribunal_Court": "General Division of the High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Liew Nyok Wah",
+      "Law_Firm": "Fortress Law Corporation",
+      "Counsel": [
+        "Ow Yong Wei En James",
+        "Madeline Chan Yuen Hun"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2020-08-05",
+          "Text": "Mr Liew began contributing personal funds to support the operational needs of the Company from its inception."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2021-01-08",
+          "Text": "Mr Liew procured a $500,000 loan from Mengkim Holdings Pte Ltd to provide further funding for the Company."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2021-11-01",
+          "Text": "Mr Liew's funding contributions were actively tracked and circulated in internal company documents labeled as 'loan sheets'."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2022-07-31",
+          "Text": "As at 31 July 2022, internal accounts recorded that Mr Liew was owed an outstanding balance of approximately $1.03 million."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2023-01-09",
+          "Text": "A formal creditors confirmation document was signed by the Company's Managing Director, officially acknowledging the outstanding debt to Mr Liew."
+        }
+      ],
+      "Issue": "Whether a shareholder who provides operational funding to a company is legally entitled to the repayment of those funds as an outstanding loan.",
+      "Rule": "A corporate entity is legally obligated to repay financial advances made by individuals unless those funds were explicitly agreed to be permanent equity contributions.",
+      "Application": "The Plaintiff by counterclaim stated that his financial contributions were structured as loans and sought repayment of the outstanding balance. The Defendant by counterclaim did not dispute the mathematical amount but argued the original contributions were capital injections that could not be withdrawn.",
+      "Judicial_Reasoning_Log": "The court found that the contributions were loans, not capital injections, and Mr Liew was entitled to repayment. The company had no defence to the repayment, and judgment was awarded in the undisputed sum of $719,000."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 475 of 2023 (Counterclaim)",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair J",
+      "Date": "2024-09-25",
+      "Tribunal_Court": "General Division of the High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "AP Automotive Services Pte Ltd",
+      "Law_Firm": "Nine Yard Chambers LLC",
+      "Counsel": [
+        "Yeo Lai Hock Nichol",
+        "Qua Bi Qi",
+        "Andrew Ong"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2020-08-05",
+          "Text": "The Company began receiving periodic financial injections from its shareholder, Mr Liew."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2021-01-08",
+          "Text": "The Company's Managing Director signed a loan agreement with Mengkim Holdings Pte Ltd to secure $500,000 in funding."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2021-01-01",
+          "Text": "The Company's internal accounting department classified the incoming shareholder funds under the ledger heading 'Loan from Director'."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2022-05-01",
+          "Text": "The Company processed partial repayments toward the funding facilities associated with Mr Liew."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2023-01-09",
+          "Text": "The Company issued a Creditors Confirmation Request formally confirming an outstanding balance of $1.03 million owed to Mr Liew as of July 2022."
+        }
+      ],
+      "Issue": "Whether a company is legally obligated to repay funds advanced by a shareholder, or whether those funds are subject to a binding capital injection agreement that precludes withdrawal.",
+      "Rule": "A corporate entity must repay documented financial advances unless it can definitively prove the funds were intended as non-refundable equity.",
+      "Application": "The Defendant by counterclaim did not dispute the mathematical amount but argued the original contributions were permanent capital injections. The Plaintiff by counterclaim stated that his financial contributions were explicitly tracked as loans and demanded repayment.",
+      "Judicial_Reasoning_Log": "The court found that the contributions were loans, not capital injections. The company had no defence to the repayment, and judgment was awarded against the company in the undisputed sum of $719,000."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 545 of 2021",
+      "Coram": "Hoo Sheau Peng J",
+      "Judge": "Hoo Sheau Peng J",
+      "Date": "2024-02-13",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Farzin Ratan Karma",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2021-06-18",
+          "Text": "Farzin Ratan Karma commenced the present action."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2006-12-12",
+          "Text": "Farzin Ratan Karma was appointed a director of MC Corporate Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-04-21",
+          "Text": "Farzin Ratan Karma was appointed a director of MC Accounting Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-04-23",
+          "Text": "Farzin Ratan Karma received a settlement amount of S$350,000 from Helen Campos."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-04-23",
+          "Text": "Farzin Ratan Karma and Helen Campos entered into the Directors’ Agreement."
+        }
+      ],
+      "Issue": "Whether the actions of the majority shareholder in conducting rights issues and drawing salaries were commercially unfair to the minority shareholder.",
+      "Rule": "A shareholder's legitimate expectations are determined by the company's constitution and any agreements between shareholders.",
+      "Application": "The Plaintiff argued that the rights issues were a mala fide exercise to dilute his shares and that the Defendant's salaries were improperly drawn. The Defendant contended that the rights issues were necessary due to cash flow issues and that the salaries were justified.",
+      "Judicial_Reasoning_Log": "The court found that the rights issues were justified due to the companies' financial needs and that the drawing of salaries was consistent with the Directors’ Agreement."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 545 of 2021",
+      "Coram": "Hoo Sheau Peng J",
+      "Judge": "Hoo Sheau Peng J",
+      "Date": "2024-02-13",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Helen Campos",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2006-11-28",
+          "Text": "Helen Campos incorporated MC Corporate Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2006-11-28",
+          "Text": "Helen Campos was the sole shareholder and director of MC Corporate Services Pte Ltd at incorporation."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2008-01-29",
+          "Text": "Helen Campos incorporated MC Accounting Services Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-04-23",
+          "Text": "Helen Campos paid a settlement amount of S$350,000 to Farzin Ratan Karma."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-04-23",
+          "Text": "Helen Campos and Farzin Ratan Karma entered into the Directors’ Agreement."
+        }
+      ],
+      "Issue": "Whether the majority shareholder's actions in conducting rights issues and drawing salaries were commercially unfair to the minority shareholder.",
+      "Rule": "A shareholder's legitimate expectations are determined by the company's constitution and any agreements between shareholders.",
+      "Application": "The Defendant argued that the rights issues were necessary due to cash flow issues and that the salaries were justified. The Plaintiff contended that the rights issues were a mala fide exercise to dilute his shares and that the Defendant's salaries were improperly drawn.",
+      "Judicial_Reasoning_Log": "The court found that the rights issues were justified due to the companies' financial needs and that the drawing of salaries was consistent with the Directors’ Agreement."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 545 of 2021 (Counterclaim)",
+      "Coram": "Hoo Sheau Peng J",
+      "Judge": "Hoo Sheau Peng J",
+      "Date": "2024-02-13",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Helen Campos",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2020-01-10",
+          "Text": "MCCS entered into an agreement with FEL concerning the salary of Asis Rose Dela Rosa."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2021-01-01",
+          "Text": "FEL failed to pay MCCS the agreed sum of S$1,700 for Rose's services from January 2021."
+        }
+      ],
+      "Issue": "Whether the director contravened his duty by causing the company to enter into an agreement that was not in its best interest.",
+      "Rule": "A director must act in good faith and in the best interests of the company, avoiding conflicts of interest.",
+      "Application": "The Plaintiff by counterclaim argued that the director caused the company to enter into an agreement with his personal company, which then failed to make payments. The Defendant by counterclaim contended that the agreement was terminated as Rose ceased working for his company.",
+      "Judicial_Reasoning_Log": "The court found that the agreement was not properly terminated and that the director's personal company was liable for the unpaid amounts."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 545 of 2021 (Counterclaim)",
+      "Coram": "Hoo Sheau Peng J",
+      "Judge": "Hoo Sheau Peng J",
+      "Date": "2024-02-13",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Farzin Ratan Karma",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2020-01-10",
+          "Text": "MCCS entered into an agreement with FEL concerning the salary of Asis Rose Dela Rosa."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2021-01-01",
+          "Text": "FEL failed to pay MCCS the agreed sum of S$1,700 for Rose's services from January 2021."
+        }
+      ],
+      "Issue": "Whether the director contravened his duty by causing the company to enter into an agreement that was not in its best interest.",
+      "Rule": "A director must act in good faith and in the best interests of the company, avoiding conflicts of interest.",
+      "Application": "The Defendant by counterclaim contended that the agreement was terminated as Rose ceased working for his company. The Plaintiff by counterclaim argued that the director caused the company to enter into an agreement with his personal company, which then failed to make payments.",
+      "Judicial_Reasoning_Log": "The court found that the agreement was not properly terminated and that the director's personal company was liable for the unpaid amounts."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  }
+]

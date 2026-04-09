@@ -1,0 +1,30 @@
+[
+  {
+    "Case_Number": "[2017] SGHC 285; Suit No 655 of 2011",
+    "Plaintiff": "Ong Bee Chew",
+    "Defendant": "Ong Shu Lin",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "[2017] SGHC 285; Suit No 179 of 2012",
+    "Plaintiff": "Ong Bee Chew",
+    "Defendant": "Ong Shu Lin",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "[2017] SGHC 285; Suit No 655 of 2011 (Counterclaim)",
+    "Plaintiff": "Ong Shu Lin",
+    "Defendant": "Ong Bee Chew",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "[2017] SGHC 285; Suit No 179 of 2012 (Counterclaim)",
+    "Plaintiff": "Ong Shu Lin",
+    "Defendant": "Ong Bee Chew",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  }
+]

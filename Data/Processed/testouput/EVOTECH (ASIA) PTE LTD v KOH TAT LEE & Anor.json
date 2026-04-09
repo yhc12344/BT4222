@@ -1,0 +1,279 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 1242 of 2016",
+      "Coram": "Kannan Ramesh J",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-11-20",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Evotech (Asia) Pte Ltd",
+      "Law_Firm": "AbrahamLow LLC",
+      "Counsel": [
+        "Leng Siew Wei Aloysius",
+        "Jonathan Tan Yi Wen",
+        "Koh Jian Ying",
+        "Sarah Phang Shih Min"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-09-16",
+          "Text": "Koh Tat Lee was appointed as a director of Evotech (Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2011-07-26",
+          "Text": "Lily Bey Lay Lay was appointed as a director of Evotech (Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2016-05-23",
+          "Text": "Koh Tat Lee and Lily Bey Lay Lay were removed as directors of Evotech (Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-05-25",
+          "Text": "Evotech (Asia) Pte Ltd made a payment of S$1,400,000 to Kesterion Investments Limited."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-05-31",
+          "Text": "Evotech (Asia) Pte Ltd made a payment of S$200,000 to Kesterion Investments Limited."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-08-01",
+          "Text": "Evotech (Asia) Pte Ltd made a payment of US$570,000 to Kesterion Investments Limited."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-05-26",
+          "Text": "Evotech (Asia) Pte Ltd made a payment of S$300,000 to Koh Tat Lee."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-05-26",
+          "Text": "Evotech (Asia) Pte Ltd made a payment of S$250,000 to Yao Jun."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-07-21",
+          "Text": "Evotech (Asia) Pte Ltd made a payment of US$500,000 to Yao Jun."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-05-25",
+          "Text": "Evotech (Asia) Pte Ltd made a payment of S$135,000 to Yew Eng Piow."
+        }
+      ],
+      "Issue": "Whether the defendants acted in contravention of their management obligations by authorizing payments not in the interest of the plaintiff.",
+      "Rule": "Directors must act in the best interest of the company they represent and not subordinate its interests to those of other entities.",
+      "Application": "The plaintiff argued that the payments were unauthorized and not in discharge of its obligations. The defendants claimed the payments were made with approval and for the benefit of the group.",
+      "Judicial_Reasoning_Log": "The court found that the defendants breached their management obligations by authorizing payments that were not in the plaintiff's interest and were related-party transactions without board approval."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 1242 of 2016",
+      "Coram": "Kannan Ramesh J",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-11-20",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Koh Tat Lee",
+      "Law_Firm": "Nicholas & Tan Partnership",
+      "Counsel": [
+        "Nicholas Jeyaraj s/o Narayanan",
+        "Nichol Yeo",
+        "Lim Seng Sheoh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-09-16",
+          "Text": "Koh Tat Lee was appointed as a director of Evotech (Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2016-05-23",
+          "Text": "Koh Tat Lee was removed as a director of Evotech (Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-05-26",
+          "Text": "Koh Tat Lee received a payment of S$300,000 from Evotech (Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-04-01",
+          "Text": "Koh Tat Lee was appointed as general manager of Evotech (Asia) Pte Ltd with a salary of S$15,000 per month."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-09-28",
+          "Text": "Evotech (Asia) Pte Ltd issued a notice of termination to Koh Tat Lee with two months' notice."
+        }
+      ],
+      "Issue": "Whether the defendant was legally responsible for unauthorized payments made after his removal as a director.",
+      "Rule": "A director must not act beyond their authority and must ensure that all transactions are in the company's best interest.",
+      "Application": "The defendant argued he was unaware of his removal and acted in the interest of the group. The plaintiff contended the payments were unauthorized and conflicted with the company's interests.",
+      "Judicial_Reasoning_Log": "The court determined that the defendant was aware of his removal and acted without authority, breaching his management obligations by authorizing payments that were not in the plaintiff's interest."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 1242 of 2016",
+      "Coram": "Kannan Ramesh J",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-11-20",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lily Bey Lay Lay",
+      "Law_Firm": "Nicholas & Tan Partnership",
+      "Counsel": [
+        "Nicholas Jeyaraj s/o Narayanan",
+        "Nichol Yeo",
+        "Lim Seng Sheoh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2011-07-26",
+          "Text": "Lily Bey Lay Lay was appointed as a director of Evotech (Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2016-05-23",
+          "Text": "Lily Bey Lay Lay was removed as a director of Evotech (Asia) Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-05-25",
+          "Text": "Evotech (Asia) Pte Ltd made a payment of S$135,000 to Yew Eng Piow."
+        }
+      ],
+      "Issue": "Whether the defendant was legally responsible for unauthorized payments made after her removal as a director.",
+      "Rule": "A director must not act beyond their authority and must ensure that all transactions are in the company's best interest.",
+      "Application": "The defendant claimed she was not acting as a director and merely followed instructions. The plaintiff argued she was a de facto director and responsible for the payments.",
+      "Judicial_Reasoning_Log": "The court found that the defendant acted as a de facto director and was responsible for authorizing payments that were not in the plaintiff's interest."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 1242 of 2016 (Counterclaim)",
+      "Coram": "Kannan Ramesh J",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-11-20",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Koh Tat Lee",
+      "Law_Firm": "Nicholas & Tan Partnership",
+      "Counsel": [
+        "Nicholas Jeyaraj s/o Narayanan",
+        "Nichol Yeo",
+        "Lim Seng Sheoh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-04-01",
+          "Text": "Koh Tat Lee was appointed as the General Manager of the company with a monthly salary of S$15,000."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-04-01",
+          "Text": "Koh Tat Lee entered into a stated verbal agreement with the directors of the parent company for a monthly housing allowance of S$7,500."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-23",
+          "Text": "Following his removal as a director, Koh Tat Lee stopped reporting to the company's office to perform his duties as General Manager."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-09-28",
+          "Text": "The company issued a notice of termination to Koh Tat Lee providing two months of notice instead of the three months he believed he was had."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-11-30",
+          "Text": "Koh Tat Lee claimed outstanding salary and housing allowances for the duration of a three-month notice period totaling S$67,500."
+        }
+      ],
+      "Issue": "Whether a former manager is entitled to salary and a stated housing allowance during a notice period where the underlying verbal agreement and his performance of duties are disputed.",
+      "Rule": "A party claiming a contractual benefit must prove the existence of the agreement and their own compliance with the terms, such as the requirement to remain ready and willing to work during a notice period.",
+      "Application": "The Plaintiff by counterclaim stated that he was had to three months' notice and a verbal housing allowance. The Defendant by counterclaim argued that no such allowance was authorized and that the manager failed to report for work after his removal from the board.",
+      "Judicial_Reasoning_Log": "The court dismissed the counterclaim. It found that the housing allowance was never formally authorized by the board and that Koh Tat Lee had breached his contract by failing to report for duty or show he was ready to work during the notice period, thus forfeiting his right to salary."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 1242 of 2016 (Counterclaim)",
+      "Coram": "Kannan Ramesh J",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-11-20",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Evotech (Asia) Pte Ltd",
+      "Law_Firm": "AbrahamLow LLC",
+      "Counsel": [
+        "Leng Siew Wei Aloysius",
+        "Jonathan Tan Yi Wen",
+        "Koh Jian Ying",
+        "Sarah Phang Shih Min"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-04-01",
+          "Text": "The company employed Koh Tat Lee as General Manager under a contract specifying a monthly salary of S$15,000."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-05-23",
+          "Text": "The company's attendance records indicated that the manager did not report for duty at the corporate offices following his removal from the board of directors."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2016-09-01",
+          "Text": "The company's board of directors reviewed the manager's employment and determined that no written authorization existed for a housing allowance."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-09-28",
+          "Text": "The company served a formal notice of termination to the manager, ending the employment relationship."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-10-01",
+          "Text": "The company withheld salary payments for the notice period on the basis that the employee was not performing his contractual tasks."
+        }
+      ],
+      "Issue": "Whether a company is legally responsible to pay salary and housing allowances to a former employee during a notice period if the employee failed to report for work.",
+      "Rule": "An employer's obligation to pay salary during a notice period is contingent upon the employee's willingness and readiness to perform their duties unless otherwise agreed.",
+      "Application": "The Defendant by counterclaim argued that the manager contravened his employment contract by absenting himself from work. The Plaintiff by counterclaim stated he was entitled to full payment and a housing allowance based on a prior verbal commitment.",
+      "Judicial_Reasoning_Log": "The court found the company was not liable for the payments. The judge held that the manager had essentially abandoned his post after being removed as a director and provided no evidence that a housing allowance had been validly agreed upon by the company's board."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  }
+]

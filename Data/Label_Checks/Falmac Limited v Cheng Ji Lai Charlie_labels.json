@@ -1,0 +1,16 @@
+[
+  {
+    "Case_Number": "Suit No 935 of 2009",
+    "Plaintiff": "Falmac Limited",
+    "Defendant": "Cheng Ji Lai Charlie",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 935 of 2009 (Counterclaim)",
+    "Plaintiff": "Cheng Ji Lai Charlie",
+    "Defendant": "Falmac Limited",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  }
+]

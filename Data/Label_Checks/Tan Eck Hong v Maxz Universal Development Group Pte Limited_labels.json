@@ -1,0 +1,16 @@
+[
+  {
+    "Case_Number": "Suit No 898 of 2008",
+    "Plaintiff": "Tan Eck Hong",
+    "Defendant": "Maxz Universal Development Group Pte Limited",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 898 of 2008 (Counterclaim)",
+    "Plaintiff": "Maxz Universal Development Group Pte Limited",
+    "Defendant": "Tan Eck Hong",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  }
+]

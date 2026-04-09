@@ -1,0 +1,23 @@
+[
+  {
+    "Case_Number": "[2021] SGHC 262",
+    "Plaintiff": "Prime Cars Leasing Pte Ltd",
+    "Defendant": "Zenith Automobile Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "[2021] SGHC 262",
+    "Plaintiff": "Prime Cars Leasing Pte Ltd",
+    "Defendant": "Lim Siew Ling",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "[2021] SGHC 262",
+    "Plaintiff": "Lim Siew Ling",
+    "Defendant": "Prime Cars Leasing Pte Ltd",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  }
+]

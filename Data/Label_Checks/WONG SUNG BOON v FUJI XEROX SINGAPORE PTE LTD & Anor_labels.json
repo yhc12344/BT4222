@@ -1,0 +1,23 @@
+[
+  {
+    "Case_Number": "[2021] SGHC 24; Suit No 163 of 2018",
+    "Plaintiff": "Wong Sung Boon",
+    "Defendant": "Fuji Xerox Singapore Pte Ltd",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "[2021] SGHC 24; Suit No 163 of 2018 (Counterclaim)",
+    "Plaintiff": "Fuji Xerox Singapore Pte Ltd",
+    "Defendant": "Wong Sung Boon",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "[2021] SGHC 24; Suit No 163 of 2018",
+    "Plaintiff": "Wong Sung Boon",
+    "Defendant": "Fuji Xerox Asia Pacific Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  }
+]

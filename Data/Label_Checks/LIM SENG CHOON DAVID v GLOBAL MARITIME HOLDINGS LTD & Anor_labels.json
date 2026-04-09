@@ -1,0 +1,23 @@
+[
+  {
+    "Case_Number": "HC/Suit No 1236 of 2015",
+    "Plaintiff": "Lim Seng Choon David",
+    "Defendant": "Global Maritime Holdings Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "HC/Suit No 1236 of 2015",
+    "Plaintiff": "Lim Seng Choon David",
+    "Defendant": "Global Maritime Consultancy Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "HC/Suit No 239 of 2015",
+    "Plaintiff": "Global Maritime Consultancy Pte Ltd",
+    "Defendant": "Lim Seng Choon David",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  }
+]

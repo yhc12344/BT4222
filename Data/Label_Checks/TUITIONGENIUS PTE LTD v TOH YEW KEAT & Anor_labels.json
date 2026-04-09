@@ -1,0 +1,37 @@
+[
+  {
+    "Case_Number": "[2019] SGHC 264; Suit No 453 of 2016",
+    "Plaintiff": "Tuitiongenius Pte Ltd",
+    "Defendant": "Toh Yew Keat",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "[2019] SGHC 264; Suit No 453 of 2016",
+    "Plaintiff": "Tuitiongenius Pte Ltd",
+    "Defendant": "Economics at Tuitiongenius Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "[2019] SGHC 264; Suit No 453 of 2016 (Counterclaim)",
+    "Plaintiff": "Toh Yew Keat",
+    "Defendant": "Tuitiongenius Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "[2019] SGHC 264; Suit No 453 of 2016 (Counterclaim)",
+    "Plaintiff": "Toh Yew Keat",
+    "Defendant": "Keng Jun Hao",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "[2019] SGHC 264; Suit No 453 of 2016 (Counterclaim)",
+    "Plaintiff": "Toh Yew Keat",
+    "Defendant": "Keng Yew Huat",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  }
+]

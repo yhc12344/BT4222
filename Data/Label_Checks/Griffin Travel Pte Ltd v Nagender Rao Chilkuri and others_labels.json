@@ -1,0 +1,107 @@
+[
+  {
+    "Case_Number": "Suit No 835 of 2011",
+    "Plaintiff": "Griffin Travel Pte Ltd",
+    "Defendant": "Nagender Rao Chilkuri",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 835 of 2011",
+    "Plaintiff": "Griffin Travel Pte Ltd",
+    "Defendant": "Joanna Kaunang",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 835 of 2011",
+    "Plaintiff": "Griffin Travel Pte Ltd",
+    "Defendant": "Leny Widjaja",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 835 of 2011",
+    "Plaintiff": "Griffin Travel Pte Ltd",
+    "Defendant": "Pereira Rahul Anthony",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 835 of 2011",
+    "Plaintiff": "Griffin Travel Pte Ltd",
+    "Defendant": "Gwee Bee Ting Annie",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 835 of 2011",
+    "Plaintiff": "Griffin Travel Pte Ltd",
+    "Defendant": "Ng Choo Geok Adella",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 835 of 2011",
+    "Plaintiff": "Griffin Travel Pte Ltd",
+    "Defendant": "Narra Gouri Prasad",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 835 of 2011 (Counterclaim)",
+    "Plaintiff": "Nagender Rao Chilkuri",
+    "Defendant": "Griffin Travel Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 835 of 2011 (Counterclaim)",
+    "Plaintiff": "Joanna Kaunang",
+    "Defendant": "Griffin Travel Pte Ltd",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 835 of 2011 (Counterclaim)",
+    "Plaintiff": "Pereira Rahul Anthony",
+    "Defendant": "Griffin Travel Pte Ltd",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 835 of 2011 (Counterclaim)",
+    "Plaintiff": "Gwee Bee Ting Annie",
+    "Defendant": "Griffin Travel Pte Ltd",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 835 of 2011 (Counterclaim)",
+    "Plaintiff": "Ng Choo Geok Adella",
+    "Defendant": "Griffin Travel Pte Ltd",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 835 of 2011 (Counterclaim)",
+    "Plaintiff": "Signature Sparks Pte Ltd",
+    "Defendant": "Griffin Travel Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 835 of 2011 (Counterclaim)",
+    "Plaintiff": "Nagender Rao Chilkuri",
+    "Defendant": "Griffin Global Holdco Ltd",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 835 of 2011 (Counterclaim)",
+    "Plaintiff": "Nagender Rao Chilkuri",
+    "Defendant": "Griffin Bidco Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  }
+]

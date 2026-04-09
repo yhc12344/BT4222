@@ -1,0 +1,256 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 835 of 2011",
+      "Coram": "Chan Seng Onn J",
+      "Judge": "Chan Seng Onn J",
+      "Date": "2014-10-16",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Griffin Travel Pte Ltd",
+      "Law_Firm": "Shook Lin & Bok LLP",
+      "Counsel": [
+        "Pradeep Pillai",
+        "Stephanie Wee",
+        "Ng Wenling",
+        "Sarah Yazid"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-01-01",
+          "Text": "Nagender Rao Chilkuri was designated as the next Global CEO of the Griffin Group."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2011-02-21",
+          "Text": "Quest Horizon Pte Ltd was incorporated with Annie and Adella as directors."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2011-04-27",
+          "Text": "Niado Technology Pte Ltd was incorporated with Annie, Cornel, and Sandeep as directors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-06-21",
+          "Text": "Nagender resigned from the board of Griffin India."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-06-22",
+          "Text": "Nagender resigned from the Griffin Global board."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-08-16",
+          "Text": "Nagender tendered his resignation as the managing director of the Plaintiff."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-09-19",
+          "Text": "Nagender resigned from the Plaintiff’s board of directors."
+        }
+      ],
+      "Issue": "Whether the Defendants contravened their employment obligations by engaging in activities that could harm the Plaintiff's business interests.",
+      "Rule": "Employees must act in the best interests of their employer and avoid conflicts of interest that could harm the employer's business.",
+      "Application": "The Plaintiff stated that the Defendants were involved in setting up competing entities while still employed. The Defendants argued that these were preparatory steps and not competitive activities.",
+      "Judicial_Reasoning_Log": "The court found that while some preparatory steps were permissible, certain actions taken by the Defendants were not in line with their employment obligations."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 835 of 2011",
+      "Coram": "Chan Seng Onn J",
+      "Judge": "Chan Seng Onn J",
+      "Date": "2014-10-16",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Nagender Rao Chilkuri",
+      "Law_Firm": "Rajah & Tann LLP",
+      "Counsel": [
+        "Francis Xavier SC",
+        "Muthu Arusu",
+        "Alina Chia",
+        "Melvin Mok",
+        "Tng Sheng Rong"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-01-01",
+          "Text": "Nagender Rao Chilkuri was designated as the next Global CEO of the Griffin Group."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2011-02-21",
+          "Text": "Quest Horizon Pte Ltd was incorporated with Annie and Adella as directors."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2011-04-27",
+          "Text": "Niado Technology Pte Ltd was incorporated with Annie, Cornel, and Sandeep as directors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-06-21",
+          "Text": "Nagender resigned from the board of Griffin India."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-06-22",
+          "Text": "Nagender resigned from the Griffin Global board."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-08-16",
+          "Text": "Nagender tendered his resignation as the managing director of the Plaintiff."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-09-19",
+          "Text": "Nagender resigned from the Plaintiff’s board of directors."
+        }
+      ],
+      "Issue": "Whether the Defendant was legally responsible for actions that contravened his employment obligations.",
+      "Rule": "A director must act in the best interests of the company and avoid conflicts of interest.",
+      "Application": "The Defendant argued that his actions were preparatory and did not constitute competitive activity. The Plaintiff stated that these actions were harmful to its business interests.",
+      "Judicial_Reasoning_Log": "The court determined that the Defendant's actions went beyond permissible preparatory steps and were not aligned with his obligations to the Plaintiff."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 835 of 2011 (Counterclaim)",
+      "Coram": "Chan Seng Onn J",
+      "Judge": "Chan Seng Onn J",
+      "Date": "2014-10-16",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Nagender Rao Chilkuri",
+      "Law_Firm": "Rajah & Tann LLP",
+      "Counsel": [
+        "Francis Xavier SC",
+        "Muthu Arusu",
+        "Alina Chia",
+        "Melvin Mok",
+        "Tng Sheng Rong"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-01-01",
+          "Text": "Nagender Rao Chilkuri was designated as the next Global CEO of the Griffin Group."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2011-02-21",
+          "Text": "Quest Horizon Pte Ltd was incorporated with Annie and Adella as directors."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2011-04-27",
+          "Text": "Niado Technology Pte Ltd was incorporated with Annie, Cornel, and Sandeep as directors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-06-21",
+          "Text": "Nagender resigned from the board of Griffin India."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-06-22",
+          "Text": "Nagender resigned from the Griffin Global board."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-08-16",
+          "Text": "Nagender tendered his resignation as the managing director of the Plaintiff."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-09-19",
+          "Text": "Nagender resigned from the Plaintiff’s board of directors."
+        }
+      ],
+      "Issue": "Whether the Plaintiff by counterclaim was disputed dismissed and entitled to damages.",
+      "Rule": "An employee is entitled to damages if dismissed without just cause or excuse.",
+      "Application": "The Plaintiff by counterclaim stated that the dismissal was without basis and sought damages. The Defendant by counterclaim argued that the dismissal was justified due to misconduct.",
+      "Judicial_Reasoning_Log": "The court found that the dismissal was justified based on the evidence of misconduct presented."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 835 of 2011 (Counterclaim)",
+      "Coram": "Chan Seng Onn J",
+      "Judge": "Chan Seng Onn J",
+      "Date": "2014-10-16",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Griffin Travel Pte Ltd",
+      "Law_Firm": "Shook Lin & Bok LLP",
+      "Counsel": [
+        "Pradeep Pillai",
+        "Stephanie Wee",
+        "Ng Wenling",
+        "Sarah Yazid"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2009-01-01",
+          "Text": "Nagender Rao Chilkuri was designated as the next Global CEO of the Griffin Group."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2011-02-21",
+          "Text": "Quest Horizon Pte Ltd was incorporated with Annie and Adella as directors."
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2011-04-27",
+          "Text": "Niado Technology Pte Ltd was incorporated with Annie, Cornel, and Sandeep as directors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-06-21",
+          "Text": "Nagender resigned from the board of Griffin India."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-06-22",
+          "Text": "Nagender resigned from the Griffin Global board."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-08-16",
+          "Text": "Nagender tendered his resignation as the managing director of the Plaintiff."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-09-19",
+          "Text": "Nagender resigned from the Plaintiff’s board of directors."
+        }
+      ],
+      "Issue": "Whether the Defendant by counterclaim was justified in dismissing the Plaintiff by counterclaim.",
+      "Rule": "An employer may dismiss an employee for just cause or excuse, including misconduct.",
+      "Application": "The Defendant by counterclaim argued that the dismissal was due to misconduct. The Plaintiff by counterclaim stated that the dismissal was without basis.",
+      "Judicial_Reasoning_Log": "The court determined that the dismissal was justified based on the evidence of misconduct presented."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  }
+]
