@@ -1,7 +1,7 @@
 [
   {
     "Metadata": {
-      "Case_Number": "CA 119/2003",
+      "Case_Number": "Civil Appeal No 119 of 2003",
       "Coram": "Chao Hick Tin JA; Woo Bih Li J; Yong Pung How CJ",
       "Judge": "Yong Pung How CJ",
       "Date": "2004-07-08",
@@ -20,35 +20,31 @@
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2001-12-01",
-          "Text": "In December 2001, Andrea saw TV Media's Slim 10 commercials featuring Liping and the posters at TV Media's Beach Road retail outlet"
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2002-01-11",
-          "Text": "On 2002-01-11, Andrea bought two bottles of Slim 10 from her colleague Rayson and received the pills in unmarked containers"
+          "Text": "The consumer viewed television 'infomercials' asserting that a specific slimming pill was '100% herbal' and safe for consumption."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002-02-15",
-          "Text": "By 2002-02-15, Andrea had been taking Slim 10 for several weeks to help manage her weight"
+          "Fact_Date": "2002-04-14",
+          "Text": "After consuming the product over several weeks, she suffered severe liver inflammation and jaundice."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002-05-07",
-          "Text": "On 2002-05-07, Andrea underwent a successful living donor liver transplant after developing liver failure"
+          "Fact_Date": "2002-05-05",
+          "Text": "Her condition deteriorated to acute liver failure, necessitating an emergency liver transplant."
         }
       ],
-      "Issue": "Whether a consumer's failure to purchase a product from an authorized retailer breaks the chain of causation in a product liability claim against the distributor",
-      "Rule": "A consumer's method of procurement does not break the chain of causation if the distributor actively marketed the product as universally safe and the procurement method did not introduce new risks",
-      "Application": "The distributor assumed a primary duty of care through its aggressive marketing and safety guarantees, and the consumer's procurement of the product via a colleague did not break the chain of causation.",
-      "Judicial_Reasoning_Log": "The court held that the consumer's reliance on the distributor's mass advertising was reasonable. The fact that she obtained the pills through a colleague rather than a pharmacy did not break the chain of causation because the pills themselves were inherently toxic."
+      "Issue": "Whether a consumer can hold a distributor legally responsible for injuries when relying on the distributor's public safety representations.",
+      "Rule": "A consumer may seek compensation from a distributor if the distributor assumed legal responsibility through its marketing and failed to verify safety claims.",
+      "Application": "The Plaintiff stated she was induced to purchase the product by the Defendant's specific safety claims. The Defendant argued she assumed the risk by purchasing outside authorized channels.",
+      "Conclusion": "Claim Allowed",
+      "Judicial_Reasoning_Log": "The court found the distributor's marketing created a proximate relationship. Endorsing the product while harboring internal doubts was improper and caused the ingestion of toxic substances."
     },
-    "Label": "Claim Allowed in Part",
+    "Label": "Claim Allowed",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "CA 119/2003",
+      "Case_Number": "Civil Appeal No 119 of 2003",
       "Coram": "Chao Hick Tin JA; Woo Bih Li J; Yong Pung How CJ",
       "Judge": "Yong Pung How CJ",
       "Date": "2004-07-08",
@@ -64,37 +60,33 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2001-03-01",
-          "Text": "The company entered into an exclusive distributorship agreement to market and sell a brand of imported slimming pills"
-        },
-        {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2001-12-01",
-          "Text": "The company advertised Slim 10 through television infomercials and posters featuring Liping, and the advertisements represented that the pills were 100% herbal and safe for consumption"
+          "Text": "The company launched an advertising campaign claiming the product was '100% natural'."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2001-12-01",
-          "Text": "The company did not conduct any independent laboratory testing to verify the ingredients of the pills before distributing them"
+          "Fact_Date": "2001-11-01",
+          "Text": "The company relied on the importer's assurances rather than conducting independent ingredient testing."
         },
         {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2001-11-01",
-          "Text": "The company relied on Health Biz's assurances and HSA's product approval instead of conducting independent checks on the Chinese manufacturer or the pills"
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2002-01-01",
+          "Text": "Internal records revealed strong doubts regarding the importer's diligence and product safety."
         }
       ],
-      "Issue": "Whether a sole distributor is legally responsible in tort to consumers for failing to independently test a product that it aggressively advertises as completely safe",
-      "Rule": "A sole distributor who actively promotes a product and makes specific safety claims assumes a duty of care to consumers and cannot blindly rely on the importer's assurances without conducting independent verification",
-      "Application": "As a mere distributor, the company owed no duty of care to consumers and was legally entitled to rely on the importer's assurances and the regulatory authority's product approval.",
-      "Judicial_Reasoning_Log": "The Court of Appeal dismissed the distributor's appeal. It found that TV Media was not a passive wholesaler; it aggressively marketed the pills and endorsed their safety. By doing so, it assumed a duty of care to consumers and was negligent in failing to conduct its own independent safety tests."
+      "Issue": "Whether a sole distributor is legally responsible for consumer injury when failing to verify contents of a product marketed as safe.",
+      "Rule": "A distributor actively endorsing product safety owes a duty to ensure representations are accurate via independent verification.",
+      "Application": "The Defendant argued it acted reasonably by relying on regulatory listings. The Plaintiff stated that failing to test despite stated concerns fell below the standard of a prudent distributor.",
+      "Conclusion": "Liable",
+      "Judicial_Reasoning_Log": "The court ruled the distributor could not shift responsibility to government agencies. Continued promotion despite internal doubts rendered it liable for the resulting harm."
     },
     "Label": "Liable",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "CA 122/2003",
+      "Case_Number": "Civil Appeal No 122 of 2003",
       "Coram": "Chao Hick Tin JA; Woo Bih Li J; Yong Pung How CJ",
       "Judge": "Yong Pung How CJ",
       "Date": "2004-07-08",
@@ -112,26 +104,27 @@
       "Facts": [
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002-02-01",
-          "Text": "She began consuming Slim 10 in late January or early February 2002 to manage her weight"
+          "Fact_Date": "2002-01-11",
+          "Text": "The consumer purchased slimming pills that were subsequently found to contain undeclared toxic synthetic substances."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002-05-07",
-          "Text": "She underwent a liver transplant on 2002-05-07"
+          "Fact_Date": "2002-04-14",
+          "Text": "She suffered acute liver failure as a direct result of ingesting the improperly tested product."
         }
       ],
-      "Issue": "Whether a consumer can pierce the corporate veil to hold an importing company's director personally responsible for product injuries",
-      "Rule": "A corporate director can be held personally liable for the torts of the company if they expressly directed, authorized, or procured the commission of the tortious act",
-      "Application": "The corporate director is personally liable as a joint tortfeasor because he personally procured, directed, and orchestrated the negligent importation and distribution of the toxic pills.",
-      "Judicial_Reasoning_Log": "The court found that the director personally procured and directed the negligent importation of the pills, rendering him personally liable as a joint tortfeasor alongside his company."
+      "Issue": "Whether a consumer can pierce the corporate veil to hold a controlling director personally responsible for injuries caused by corporate actions he personally directed.",
+      "Rule": "A director may be personally liable if they authorized, directed, or procured a tortious course of conduct through absolute control of the company's affairs.",
+      "Application": "The Plaintiff stated the director personally orchestrated the importation and distribution of the toxic product without safety checks. The Defendant argued he was protected by the corporate veil.",
+      "Conclusion": "Claim Allowed",
+      "Judicial_Reasoning_Log": "The court determined the director exercised total control over the negligent course of conduct. Exceptional circumstances justified lifting the corporate veil to hold him personally liable for the consumer's damages."
     },
-    "Label": "Claim Allowed in Part",
+    "Label": "Claim Allowed",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "CA 122/2003",
+      "Case_Number": "Civil Appeal No 122 of 2003",
       "Coram": "Chao Hick Tin JA; Woo Bih Li J; Yong Pung How CJ",
       "Judge": "Yong Pung How CJ",
       "Date": "2004-07-08",
@@ -139,7 +132,7 @@
     },
     "Party_Details": {
       "Role": "Defendant",
-      "Name": "Semon",
+      "Name": "Semon Liu",
       "Law_Firm": "Attorneys Inc. LLC",
       "Counsel": [
         "Simon Tan Hiang Teck"
@@ -148,28 +141,24 @@
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2001-01-01",
-          "Text": "Semon was the director and principal shareholder of Health Biz, the company that imported and sold Slim 10"
+          "Text": "He was the founder and majority shareholder of the entity importing the slimming product."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2001-06-01",
-          "Text": "Semon sent samples of the original Slim 10 formulation to Setsco for testing"
+          "Fact_Date": "2001-11-01",
+          "Text": "He personally assured health authorities that the product would be free from synthetic adulterants."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2001-12-01",
-          "Text": "Semon supplied Slim 10 to Rayson for distribution to MediaCorp artistes with TV Media's approval"
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2001-12-01",
-          "Text": "Semon told TV Media's representatives that he had invested his personal savings into the Chinese manufacturer"
+          "Fact_Date": "2002-02-01",
+          "Text": "He authorized the supply of pills for distribution while knowing required safety declarations had not been made."
         }
       ],
-      "Issue": "Whether the controlling director of an importing company is personally liable in negligence for authorizing the distribution of a toxic product",
-      "Rule": "Directors are not automatically liable for a company's negligence, but personal liability attaches if the director was personally involved in directing or procuring the specific negligent acts",
-      "Application": "Any alleged negligence was committed by the corporate entity, and the director is shielded from personal liability as he acted strictly in his capacity as a corporate officer.",
-      "Judicial_Reasoning_Log": "The Court of Appeal dismissed the director's appeal. It ruled that his personal, hands-on involvement in importing the pills, submitting regulatory documents, and failing to implement safety checks meant he had expressly directed the negligence, justifying personal liability."
+      "Issue": "Whether a controlling director is personally responsible for injuries caused by a corporate course of conduct he personally authorized.",
+      "Rule": "Personal liability attaches to a director if they exercise absolute control and are personally involved in the specific improper conduct.",
+      "Application": "The Defendant argued administrative licensing was handled by employees. The Plaintiff stated the Defendant was the 'controlling mind' who orchestrated the improper importation failures.",
+      "Conclusion": "Liable",
+      "Judicial_Reasoning_Log": "The court found the director exercised total control and nothing was done without his knowledge. He personally procured the siphoning of toxic product into the market, justifying personal liability."
     },
     "Label": "Liable",
     "Leakage_Score": 0

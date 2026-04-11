@@ -178,5 +178,34 @@
     },
     "Label": "Not Liable",
     "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "OS 1115/2002 (Counterclaim)",
+      "Coram": "Kan Ting Chiu J",
+      "Judge": "Kan Ting Chiu J",
+      "Date": "2003-03-22",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Aquagen International Pte Ltd",
+      "Law_Firm": "Unrepresented",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2002-01-01",
+          "Text": "The entity is a private company limited by shares and the subject of a management dispute between its directors and a minority shareholder."
+        }
+      ],
+      "Issue": "Whether a company can be joined as a defendant in a counterclaim brought by a shareholder who has not obtained court leave to represent the company's interests.",
+      "Rule": "A company is a necessary party in any derivative proceeding, but the proceeding itself cannot move forward if the claimant fails to satisfy the statutory requirements for standing.",
+      "Application": "The company was named as a defendant in the shareholder's counterclaim. The directors moved to strike out the claim on the basis that the shareholder lacked the authority to act for the entity.",
+      "Conclusion": "Not Liable",
+      "Judicial_Reasoning_Log": "The court struck out the counterclaim against the company. It held that allowing the claim to proceed would bypass the protections of Section 216A, which are designed to prevent the company from being dragged into unauthorized litigation."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   }
 ]

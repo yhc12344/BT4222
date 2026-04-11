@@ -1,7 +1,7 @@
 [
   {
     "Metadata": {
-      "Case_Number": "Civil Appeal No 103 of 2013",
+      "Case_Number": "Civil Appeal No 105 of 2013",
       "Coram": "Sundaresh Menon CJ; Chao Hick Tin JA; V K Rajah JA",
       "Judge": "Sundaresh Menon CJ",
       "Date": "2014-04-29",
@@ -9,7 +9,7 @@
     },
     "Party_Details": {
       "Role": "Plaintiff",
-      "Name": "Dynasty Line Limited",
+      "Name": "Dynasty Line Limited (in liquidation)",
       "Law_Firm": "Legis Point LLC",
       "Counsel": [
         "Samuel Chacko",
@@ -18,45 +18,21 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1996-02-05",
-          "Text": "Dynasty Line Limited acquired 29,537,367 shares in China Development Corporation Limited"
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "1996-02-05",
-          "Text": "Dynasty entered into sale and purchase agreements with several vendors for shares"
-        },
-        {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1999-06-10",
-          "Text": "Only 28% of the purchase price for the shares was paid by Dynasty"
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1996-04-23",
-          "Text": "Dynasty pledged shares to Commerzbank as security for loans to Sia"
+          "Fact_Date": "1997-11-03",
+          "Text": "The company had settled only 28% of the purchase price for its primary share assets, leaving a multi-million dollar debt outstanding to the vendors."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1997-11-03",
-          "Text": "Dynasty pledged shares to Creditanstalt Bankverein as security for loans to Sia"
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1996-01-01",
-          "Text": "Sia was the sole shareholder of Dynasty Line Limited"
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1996-01-01",
-          "Text": "Lee Howe Yong was a co-director of Dynasty Line Limited"
+          "Text": "The entity pledged its only significant assets as security for personal loan facilities granted to its directors and their business associates."
         }
       ],
-      "Issue": "Whether the directors of a company contravened their management obligations by pledging company assets when the company was insolvent or of doubtful solvency",
-      "Rule": "Directors must act in the best interests of the company, considering both shareholder and creditor interests, especially when the company is insolvent or nearing insolvency",
-      "Application": "The directors acted against the company's interests by pledging its only asset for personal loans. the company was not insolvent at the time of the transactions",
-      "Judicial_Reasoning_Log": "The court found that the directors breached their duties by pledging the company's sole asset without benefiting the company, thereby compromising its ability to meet its obligations."
+      "Issue": "Whether a company can recover assets from directors who pledged corporate security for personal benefit when the company was in a state of doubtful solvency.",
+      "Rule": "A director is governed by management obligations to protect corporate assets, especially when a company is nearing insolvency, and must prioritize the interests of creditors over those of shareholders.",
+      "Application": "The Plaintiff stated the company was of doubtful solvency because its only asset was effectively unpaid for. The Defendants argued that the company was balance-sheet solvent and the pledges were legitimate business maneuvers.",
+      "Conclusion": "Claim Allowed",
+      "Judicial_Reasoning_Log": "The court found that the company was in a state of doubtful solvency during the later transactions. It ruled that the directors contravened management obligations by pledging assets for personal gain without any corporate benefit."
     },
     "Label": "Claim Allowed",
     "Leakage_Score": 0
@@ -79,47 +55,65 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
+          "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1996-01-01",
-          "Text": "Sukamto Sia was the sole shareholder of Dynasty Line Limited"
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1996-04-23",
-          "Text": "On 23 April 1996, Sia caused Dynasty to pledge 12,032,302 CDC shares to Commerzbank (South East Asia) Limited as security for a loan facility to him"
+          "Text": "The individual served as the sole shareholder and the dominant directing mind of the investment entity."
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1997-11-03",
-          "Text": "On 3 November 1997, Sia caused Dynasty to pledge 10,702,625 CDC shares to Creditanstalt Bankverein as security for a loan facility to him"
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1996-04-01",
-          "Text": "Between April 1996 and November 1997, Sia caused Dynasty to pledge its shares to various financial institutions as security for loans to him, his business associate Franklin Syah, and Beswil Investment Pte Ltd"
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1996-05-02",
-          "Text": "Sia knew that Dynasty had not fully paid for the shares and that a substantial amount of the purchase price remained outstanding"
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1996-01-01",
-          "Text": "Sia was a director of Dynasty Line Limited"
+          "Text": "He authorized multiple pledges of company assets to secure financing for himself and his business associates."
         }
       ],
-      "Issue": "Whether a director is legally responsible for compromising a company's financial position by using its assets for personal benefit",
-      "Rule": "A director must not use company assets for personal gain if it jeopardizes the company's ability to meet its obligations",
-      "Application": "The transactions were permissible under company law. the transactions were detrimental to the company's financial health",
-      "Judicial_Reasoning_Log": "The court concluded that Sia breached his duties by using company assets for personal benefit, compromising the company's financial position."
+      "Issue": "Whether a sole shareholder-director is legally responsible for corporate losses if they use corporate assets as security for personal debt while the company is unable to meet its own debts.",
+      "Rule": "A director who procures the diversion of corporate capital for personal gain in circumstances of doubtful solvency is liable to indemnify the entity for the resulting loss.",
+      "Application": "The Defendant stated he was entitled to manage the company as his alter ego. The Plaintiff stated he disregarded the separate legal personality of the company and the interests of its creditors.",
+      "Conclusion": "Liable",
+      "Judicial_Reasoning_Log": "The court ruled the director was liable for the depletion of corporate assets. His failure to consider the interests of unpaid creditors while utilizing company security for personal financing was improper."
     },
     "Label": "Liable",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Civil Appeal No 103 of 2013 (Counterclaim)",
+      "Case_Number": "Civil Appeal No 105 of 2013",
+      "Coram": "Sundaresh Menon CJ; Chao Hick Tin JA; V K Rajah JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2014-04-29",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lee Howe Yong",
+      "Law_Firm": "Premier Law LLC",
+      "Counsel": [
+        "Siraj Omar",
+        "Lee Wei Alexander"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-01-01",
+          "Text": "The individual was a co-director who was promised a share of the company's eventual profits."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-04-23",
+          "Text": "He signed the authorization documents for the initial provision of security without making inquiries into the company's financial status."
+        }
+      ],
+      "Issue": "Whether a director can avoid liability for improper asset use by claiming a lack of knowledge regarding the company's financial status.",
+      "Rule": "Directors have an obligation to act with reasonable diligence; ignorance of the company’s insolvency is not a defense if the director failed to make due inquiry.",
+      "Application": "The Defendant stated he was a passive participant who trusted his co-director. The Plaintiff stated he was an experienced businessman who should have realized the company was of doubtful solvency.",
+      "Conclusion": "Liable In-part",
+      "Judicial_Reasoning_Log": "The court found him liable for the first transaction he signed. However, as he was not a party to the subsequent transactions and there was no evidence of his involvement, his liability was limited to the initial loss."
+    },
+    "Label": "Liable In-part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 105 of 2013 (Counterclaim)",
       "Coram": "Sundaresh Menon CJ; Chao Hick Tin JA; V K Rajah JA",
       "Judge": "Sundaresh Menon CJ",
       "Date": "2014-04-29",
@@ -136,36 +130,27 @@
       "Facts": [
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "1996-01-01",
-          "Text": "Sia claimed a collateral agreement existed allowing flexibility in payment terms."
+          "Fact_Date": "1996-02-05",
+          "Text": "The individual asserted that an oral collateral agreement existed alongside the written share purchase contracts."
         },
         {
           "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "1996-01-01",
-          "Text": "Sia communicated with Low regarding payment flexibility."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1996-01-01",
-          "Text": "Sia stated that Low agreed to flexible payment terms."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "1996-01-01",
-          "Text": "Sia referred to sale and purchase agreements with specified payment schedules."
+          "Fact_Date": "1996-02-05",
+          "Text": "He alleged that the vendor agreed to allow indefinite flexibility in meeting the written payment deadlines."
         }
       ],
-      "Issue": "Whether a collateral agreement can modify the terms of a written contract regarding payment obligations",
-      "Rule": "A collateral agreement must be clear and certain to modify the terms of a written contract",
-      "Application": "A collateral agreement allowed for flexible payments. the existence of such an agreement",
-      "Judicial_Reasoning_Log": "The court found no evidence of a binding collateral agreement that modified the written contract terms."
+      "Issue": "Whether an alleged oral agreement can modify the express payment obligations of a written commercial contract.",
+      "Rule": "A collateral agreement must be established by clear and certain evidence and must be consistent with the main written contract.",
+      "Application": "The Plaintiff by counterclaim stated the written terms were a mere formality. The Defendant by counterclaim stated the written deadlines were strictly binding.",
+      "Conclusion": "Claim Dismissed",
+      "Judicial_Reasoning_Log": "The court found no credible evidence of an agreement that modified the written deadlines. The original contract terms remained enforceable, and the counterclaim was rejected."
     },
     "Label": "Claim Dismissed",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Civil Appeal No 103 of 2013 (Counterclaim)",
+      "Case_Number": "Civil Appeal No 105 of 2013 (Counterclaim)",
       "Coram": "Sundaresh Menon CJ; Chao Hick Tin JA; V K Rajah JA",
       "Judge": "Sundaresh Menon CJ",
       "Date": "2014-04-29",
@@ -174,6 +159,39 @@
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Low Tuck Kwong",
+      "Law_Firm": "WongPartnership LLP",
+      "Counsel": [
+        "Alvin Yeo SC",
+        "Tan Whei Mien Joy",
+        "Ong Xi-Lin Adeline"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1999-01-01",
+          "Text": "The individual enforced the original payment terms of the share purchase agreements after the buyer failed to settle the outstanding balance."
+        }
+      ],
+      "Issue": "Whether a vendor is legally responsible for a buyer's loss if the vendor merely enforces the agreed terms of a written contract.",
+      "Rule": "A party is entitled to enforce its contractual rights; an unproven allegation of a collateral agreement cannot prevent a vendor from claiming an outstanding debt.",
+      "Application": "The Defendant by counterclaim stated he never waived the payment deadlines. The Plaintiff by counterclaim stated the enforcement was a contravention of an underlying understanding.",
+      "Conclusion": "Not Liable",
+      "Judicial_Reasoning_Log": "The court upheld the enforcement of the written contract. The vendor was found not liable for any losses claimed under the alleged oral understanding."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 103 of 2013",
+      "Coram": "Sundaresh Menon CJ; Chao Hick Tin JA; V K Rajah JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2014-04-29",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Sukamto Sia",
       "Law_Firm": "Premier Law LLC",
       "Counsel": [
         "Siraj Omar",
@@ -181,15 +199,83 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "1996-02-05",
-          "Text": "Low entered into sale and purchase agreements with Dynasty for shares"
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-04-14",
+          "Text": "The individual alleged that vendors and liquidators conspired to cause him financial injury through the initiation of lawsuits."
         }
       ],
-      "Issue": "Whether a vendor is legally responsible for enforcing strict payment terms in the absence of a proven collateral agreement",
-      "Rule": "A vendor is entitled to enforce the terms of a written contract unless a valid collateral agreement is proven",
-      "Application": "The original contract terms were binding. for a collateral agreement allowing flexibility",
-      "Judicial_Reasoning_Log": "The court upheld the original contract terms, finding no evidence of a collateral agreement."
+      "Issue": "Whether a lawsuit brought by insolvency officeholders can constitute an unlawful conspiracy if its purpose is alleged to be the injury of a director.",
+      "Rule": "A conspiracy claim requires proof of an agreement with the predominant purpose of causing injury to the target through illegitimate means.",
+      "Application": "The Plaintiff stated the litigation was malicious and groundless. The Defendants stated they were performing management obligations to recover company assets.",
+      "Conclusion": "Claim Dismissed",
+      "Judicial_Reasoning_Log": "The court dismissed the claim, finding no evidence of an agreement to injure. The liquidators' actions were a legitimate attempt to recover corporate losses."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 103 of 2013",
+      "Coram": "Sundaresh Menon CJ; Chao Hick Tin JA; V K Rajah JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2014-04-29",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Low Tuck Kwong",
+      "Law_Firm": "WongPartnership LLP",
+      "Counsel": [
+        "Alvin Yeo SC",
+        "Tan Whei Mien Joy",
+        "Ong Xi-Lin Adeline"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2007-08-23",
+          "Text": "The individual acted as a primary creditor who supported the company's liquidation proceedings."
+        }
+      ],
+      "Issue": "Whether a creditor's support for a liquidation proceeding constitutes an unlawful conspiracy against a director.",
+      "Rule": "Supporting liquidators in asset recovery is a legitimate exercise of creditor rights and does not constitute conspiracy unless malice and an agreement to injure are proven.",
+      "Application": "The Defendant stated he was seeking to recover an unpaid debt. The Plaintiff stated the Defendant’s support for the liquidators was part of an orchestrated campaign of injury.",
+      "Conclusion": "Not Liable",
+      "Judicial_Reasoning_Log": "The court concluded the creditor acted reasonably to recover his funds. No evidence was found that the litigation was for any purpose other than asset recovery."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 103 of 2013",
+      "Coram": "Sundaresh Menon CJ; Chao Hick Tin JA; V K Rajah JA",
+      "Judge": "Sundaresh Menon CJ",
+      "Date": "2014-04-29",
+      "Tribunal_Court": "Court of Appeal"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lee Howe Yong",
+      "Law_Firm": "Wong & Leow LLC",
+      "Counsel": [
+        "Chan Leng Sun SC",
+        "Ang Hsueh Ling Celeste",
+        "Jennifer Fong Lee Cheng",
+        "Michelle Virgiany"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1996-01-01",
+          "Text": "The individual was a co-director and associate who was subsequently sued for conspiracy alongside the vendors and liquidators."
+        }
+      ],
+      "Issue": "Whether a co-director is legally responsible for conspiracy if they cooperate with liquidators in providing information about past corporate transactions.",
+      "Rule": "Cooperation with court-appointed officeholders in an investigation is a legal duty and does not satisfy the elements of a conspiracy to injure.",
+      "Application": "The Defendant stated he was fulfilling his obligations to the company. The Plaintiff stated the Defendant turned against him as part of a concerted plan.",
+      "Conclusion": "Not Liable",
+      "Judicial_Reasoning_Log": "The court found no evidence of a conspiratorial agreement. The director's interactions with the liquidators were deemed routine and appropriate in the context of an insolvency investigation."
     },
     "Label": "Not Liable",
     "Leakage_Score": 0

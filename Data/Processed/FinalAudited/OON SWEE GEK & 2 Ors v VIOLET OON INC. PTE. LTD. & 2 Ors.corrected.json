@@ -1,7 +1,7 @@
 [
   {
     "Metadata": {
-      "Case_Number": "Originating Claim No 301 of 2022",
+      "Case_Number": "OC 301 of 2022",
       "Coram": "Philip Jeyaretnam J",
       "Judge": "Philip Jeyaretnam J",
       "Date": "2024-01-19",
@@ -54,7 +54,7 @@
   },
   {
     "Metadata": {
-      "Case_Number": "Originating Claim No 301 of 2022",
+      "Case_Number": "OC 301 of 2022",
       "Coram": "Philip Jeyaretnam J",
       "Judge": "Philip Jeyaretnam J",
       "Date": "2024-01-19",
@@ -102,7 +102,7 @@
   },
   {
     "Metadata": {
-      "Case_Number": "Originating Claim No 301 of 2022",
+      "Case_Number": "OC 301 of 2022",
       "Coram": "Philip Jeyaretnam J",
       "Judge": "Philip Jeyaretnam J",
       "Date": "2024-01-19",
@@ -145,7 +145,7 @@
   },
   {
     "Metadata": {
-      "Case_Number": "Originating Claim No 301 of 2022",
+      "Case_Number": "OC 301 of 2022",
       "Coram": "Philip Jeyaretnam J",
       "Judge": "Philip Jeyaretnam J",
       "Date": "2024-01-19",
@@ -188,7 +188,7 @@
   },
   {
     "Metadata": {
-      "Case_Number": "Originating Claim No 301 of 2022",
+      "Case_Number": "OC 301 of 2022",
       "Coram": "Philip Jeyaretnam J",
       "Judge": "Philip Jeyaretnam J",
       "Date": "2024-01-19",
@@ -240,7 +240,7 @@
   },
   {
     "Metadata": {
-      "Case_Number": "Originating Claim No 301 of 2022",
+      "Case_Number": "OC 301 of 2022",
       "Coram": "Philip Jeyaretnam J",
       "Judge": "Philip Jeyaretnam J",
       "Date": "2024-01-19",
@@ -287,7 +287,7 @@
   },
   {
     "Metadata": {
-      "Case_Number": "Companies Winding Up No 195 of 2022",
+      "Case_Number": "CWU 195 of 2022",
       "Coram": "Philip Jeyaretnam J",
       "Judge": "Philip Jeyaretnam J",
       "Date": "2024-01-19",
@@ -325,7 +325,7 @@
   },
   {
     "Metadata": {
-      "Case_Number": "Companies Winding Up No 195 of 2022",
+      "Case_Number": "CWU 195 of 2022",
       "Coram": "Philip Jeyaretnam J",
       "Judge": "Philip Jeyaretnam J",
       "Date": "2024-01-19",
@@ -354,6 +354,84 @@
       "Judicial_Reasoning_Log": "The court declined to wind up the company. The judge concluded that ordering a buyout was a far more appropriate and proportionate remedy that preserved the enterprise value of the company while curing the deadlock."
     },
     "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "CWU 195 of 2022",
+      "Coram": "Philip Jeyaretnam J",
+      "Judge": "Philip Jeyaretnam J",
+      "Date": "2024-01-19",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Tay Su-Lyn",
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Meryl Koh Junning",
+        "Justin Lai Wen-Jin",
+        "Shahera Safrin",
+        "Daniel Wong Sheng Jie"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-03-26",
+          "Text": "The individual is a shareholder and director responsible for the brand's creative direction and marketing."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2019-02-23",
+          "Text": "She encountered an irretrievable breakdown in communication with the majority investor, leading to a management impasse."
+        }
+      ],
+      "Issue": "Whether a shareholder is entitled to a winding-up order on just and equitable grounds when an alternative buyout remedy is available.",
+      "Rule": "A winding-up petition will be refused if the court finds that a share purchase order can adequately resolve the deadlock without destroying the business.",
+      "Application": "The Plaintiff sought winding up to exit the deadlock, but the court favored a buyout as a less destructive solution.",
+      "Conclusion": "Claim Dismissed",
+      "Judicial_Reasoning_Log": "The court dismissed the petition. While trust had failed, the entity remained a successful enterprise, making winding up a disproportionate and unnecessary remedy."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Companies Winding Up No 195 of 2022",
+      "Coram": "Philip Jeyaretnam J",
+      "Judge": "Philip Jeyaretnam J",
+      "Date": "2024-01-19",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Tay Yiming",
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Meryl Koh Junning",
+        "Justin Lai Wen-Jin",
+        "Shahera Safrin",
+        "Daniel Wong Sheng Jie"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-03-26",
+          "Text": "The individual is a shareholder and director who managed the company's daily operations during the dispute."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2019-02-01",
+          "Text": "He was the primary point of contact for the majority investor during the negotiations for the revised management terms."
+        }
+      ],
+      "Issue": "Whether a shareholder is entitled to a winding-up order when a less destructive remedy like a buyout is available to resolve a management deadlock.",
+      "Rule": "A court will dismiss a winding-up application if a share purchase order under the oppression regime provides a more appropriate and proportionate remedy for the parties.",
+      "Application": "The claimant sought winding up on just and equitable grounds, but the court determined that the buyout ordered in the related oppression suit was a superior solution.",
+      "Conclusion": "Claim Dismissed",
+      "Judicial_Reasoning_Log": "The court dismissed the winding-up application as it was deemed unnecessary given the successful outcome of the oppression claim, which allowed the company to continue as a going concern."
+    },
+    "Label": "Claim Dismissed",
     "Leakage_Score": 0
   }
 ]

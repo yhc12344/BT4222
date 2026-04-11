@@ -1,7 +1,7 @@
 [
   {
     "Metadata": {
-      "Case_Number": "Civil Appeal Nos 202 and 203 of 2020",
+      "Case_Number": "CA 202/2020",
       "Coram": "Sundaresh Menon CJ, Andrew Phang Boon Leong JCA, Judith Prakash JCA, Belinda Ang Saw Ean JAD, Chao Hick Tin SJ",
       "Judge": "Judith Prakash JCA",
       "Date": "2022-04-04",
@@ -21,35 +21,83 @@
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2020-01-01",
-          "Text": "Hin Leong Trading (Pte) Ltd was a company in Singapore."
+          "Text": "The company operated as a major oil trading entity in Singapore under the direction of its founding family [cite: 79-80]."
         },
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2020-01-01",
-          "Text": "Hin Leong Trading (Pte) Ltd was placed into liquidation before the filing of Civil Appeal No 202 of 2020 and was described as being in liquidation in the appeal title."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2020-01-01",
-          "Text": "At the material time in 2020, Hin Leong Trading (Pte) Ltd and Ocean Tankers (Pte) Ltd were related companies referred to collectively as the Companies."
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2020-04-27",
+          "Text": "The company was placed under interim judicial management by a court order, which transferred the management of its affairs, business, and property to independent officeholders[cite: 84, 212]."
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2020-01-01",
-          "Text": "At the material time in 2020, Lim Chee Meng and Lim Huey Ching were directors of Hin Leong Trading (Pte) Ltd."
+          "Fact_Date": "2020-04-27",
+          "Text": "The governing court order authorized the interim judicial managers to exercise all powers and entitlements of directors conferred by the Companies Act and the company's constitution[cite: 213]."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-05-01",
+          "Text": "The appointed interim judicial managers exercised their management powers to retain a specific law firm to provide legal services to the company[cite: 91]."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2020-07-01",
+          "Text": "The company's directors, despite being divested of operational control, formally objected to the choice of legal counsel selected by the interim judicial managers[cite: 68, 98]."
         }
       ],
-      "Issue": "Whether, after a company is placed under interim judicial management and then judicial management, its directors retain the authority to cause the company to commence and maintain applications in its name to restrain the company’s retained law firm without approval from the insolvency officeholders.",
-      "Rule": "Under the Companies Act and the judicial management regime, when a company is placed under interim judicial management or judicial management, the affairs, business, and property of the company are managed by the appointed officeholders. These officeholders exercise all powers and entitlements of directors, including the power to bring or defend legal proceedings in the company's name and to retain legal counsel. Directors retain only narrow residual common law powers limited to challenging or appealing against the very order placing the company into the insolvency process.",
-      "Application": "Hin Leong Trading (Pte) Ltd was placed under interim judicial management on 2020-04-27 and under judicial management on 2020-08-07. The governing orders stipulated that the insolvency officeholders would manage the company and exercise all directorial powers, including retaining legal counsel. The officeholders subsequently retained Rajah & Tann Singapore LLP to act for the company. In July 2020, directors Lim Chee Meng and Lim Huey Ching caused injunctive applications to be filed in the company’s name to restrain the retained law firm from acting, without seeking or obtaining approval from the interim or permanent judicial managers. These injunctive applications did not challenge the insolvency orders themselves, but instead sought to dictate the choice of legal representation, directly intersecting with the management powers explicitly conferred on the insolvency officeholders.",
-      "Judicial_Reasoning_Log": "Upon the making of interim judicial management and judicial management orders, all management powers conferred on directors—including the power to commence proceedings in the company’s name and to retain or discharge solicitors—are transferred entirely to the insolvency officeholders pursuant to section 227G and the Eleventh Schedule of the Companies Act. Directors retain only narrow residual powers at common law, which are strictly confined to instructing solicitors to oppose a winding up petition or to challenge the specific order appointing the insolvency officeholders. An application seeking to restrain the law firm chosen by the insolvency officeholders does not challenge the insolvency appointment itself and therefore falls outside these residual powers. Recognising a broader residual power for directors to interfere with the officeholders' management decisions would undermine the statutory insolvency scheme. Consequently, the directors lack the authority to cause the company to commence and maintain such injunctive applications, rendering the applications invalid for want of authority. Costs resulting from such unauthorised litigation are to be borne personally by the directors who instigated the actions, rather than burdening the insolvent company's creditors."
-    },
-    "Label": "Claim Dismissed",
-    "Leakage_Score": 0
+      "Issue": "Whether, following the appointment of interim judicial managers who possess the express power to manage a company's affairs, directors retain a residual common law entitlement to initiate litigation in the company's name to challenge management decisions [cite: 69-70, 126].",
+      "Rule": "Upon the making of an insolvency management order, the directors are effectively divested of their powers of management. Such powers, including the exclusive right to bring or defend legal proceedings in the company's name, are transferred to the court-appointed officeholders[cite: 170, 217, 260].",
+      "Application": "The Plaintiff (acting through directors) stated that directors retain residual management powers to protect the company's interests, including the power to restrain solicitors. The Defendant stated that the statutory regime and the specific court orders transferred all litigation-related authority to the interim judicial managers to the exclusion of the directors[cite: 113, 275, 516].",
+      "Conclusion": "Appeal Dismissed",
+      "Judicial_Reasoning_Log": "The court held that the appointment of interim judicial managers renders the board of directors functus officio regarding the company's management. Directors retain only extremely narrow residual powers to challenge the insolvency order itself. Seeking to injunct the law firm chosen by the managers does not challenge the manager's appointment but rather interferes with their operational management. Consequently, the directors had no authority to sue in the company's name[cite: 227, 389, 534, 552].",
+      "Label": "Appeal Dismissed",
+      "Leakage_Score": 0
+    }
   },
   {
     "Metadata": {
-      "Case_Number": "Civil Appeal Nos 202 and 203 of 2020",
+      "Case_Number": "CA 202/2020",
+      "Coram": "Sundaresh Menon CJ, Andrew Phang Boon Leong JCA, Judith Prakash JCA, Belinda Ang Saw Ean JAD, Chao Hick Tin SJ",
+      "Judge": "Judith Prakash JCA",
+      "Date": "2022-04-04",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Rajah & Tann Singapore LLP",
+      "Law_Firm": "Colin Liew LLC",
+      "Counsel": [
+        "Toby Thomas Landau QC",
+        "Liew Wey-Ren Colin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2020-01-01",
+          "Text": "The respondent is a limited liability partnership providing legal services in Singapore[cite: 8]."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2020-04-27",
+          "Text": "The firm was formally retained by the interim judicial managers of an oil trading company to advise and act for the company and its managers[cite: 13, 91]."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2020-05-12",
+          "Text": "The firm acted for the company under the direction of the insolvency officeholders, who had been granted all directorial powers by the High Court[cite: 213, 273]."
+        }
+      ],
+      "Issue": "Whether a law firm validly retained by a company's interim judicial managers can be restrained from acting by the company's directors who have been divested of their management powers[cite: 68, 519].",
+      "Rule": "A company under judicial management must act through its appointed managers. If the managers choose to retain or continue a set of solicitors, that choice is a management function within their sole prerogative[cite: 262, 524].",
+      "Application": "The Defendant stated it was properly instructed by the only individuals with the legal authority to represent the company. The Plaintiff stated that the firm's prior involvement created a conflict that justified directorial intervention[cite: 520, 525].",
+      "Conclusion": "Not Liable",
+      "Judicial_Reasoning_Log": "The Court of Appeal found that the law firm was retained by the only parties possessing the authority to manage the company. The directors' attempt to 'restrain' the solicitors was an attempt to forcibly bring about a state of affairs that the managers did not sanction. The firm was not improperly acting, and the attempts to injunct them were taken without authority[cite: 525, 531, 554].",
+      "Label": "Not Liable",
+      "Leakage_Score": 0
+    }
+  },
+  {
+    "Metadata": {
+      "Case_Number": "CA 203/2020",
       "Coram": "Sundaresh Menon CJ, Andrew Phang Boon Leong JCA, Judith Prakash JCA, Belinda Ang Saw Ean JAD, Chao Hick Tin SJ",
       "Judge": "Judith Prakash JCA",
       "Date": "2022-04-04",
@@ -70,50 +118,31 @@
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2020-01-01",
-          "Text": "At the time of Civil Appeal No 203 of 2020, Ocean Tankers (Pte) Ltd was described as being under interim judicial management in the appeal title."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2020-01-01",
-          "Text": "At the material time in 2020, Lim Chee Meng and Lim Huey Ching were directors of Ocean Tankers (Pte) Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2020-05-12",
-          "Text": "On 2020-05-12, the High Court made an order placing Ocean Tankers (Pte) Ltd under interim judicial management and appointing interim judicial managers over the company."
+          "Text": "The company was a related entity to Hin Leong Trading and operated in the shipping and tanker industry[cite: 80]."
         },
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2020-05-12",
-          "Text": "With effect from 2020-05-12, the affairs, business and property of Ocean Tankers (Pte) Ltd were to be managed by the interim judicial managers under the interim judicial management order."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2020-05-12",
-          "Text": "The interim judicial management order for Ocean Tankers (Pte) Ltd authorised the interim judicial managers to exercise all powers and entitlements of a judicial manager and all powers and entitlements of directors of the company conferred by the Companies Act and the company’s memorandum and articles of association."
+          "Text": "A High Court order placed the company under interim judicial management, divesting directors of their power to manage the business and property of the entity[cite: 85, 90, 212]."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2020-05-12",
-          "Text": "After their appointment on 2020-05-12, the interim judicial managers of Ocean Tankers (Pte) Ltd retained the legal services of Rajah & Tann Singapore LLP to act for the company."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2020-05-12",
-          "Text": "From 2020-05-12, Rajah & Tann Singapore LLP acted as legal counsel for the interim judicial managers of Ocean Tankers (Pte) Ltd pursuant to a retainer."
+          "Fact_Date": "2020-05-15",
+          "Text": "The interim judicial managers, exercising their court-granted entitlements, continued the retainer of a law firm to manage the company's legal affairs[cite: 91, 273]."
         }
       ],
-      "Issue": "Whether directors of a company under interim judicial management retain the residual authority to initiate legal proceedings in the company's name to restrain the insolvency officeholders' choice of legal counsel without the officeholders' consent.",
-      "Rule": "The statutory framework of judicial management transfers the authority to manage a company's affairs, business, and property—including the power to commence or defend legal proceedings and to instruct legal counsel—exclusively to the appointed insolvency officeholders. Directors are divested of these powers and retain only a narrow common law right to challenge the order that placed the company into the insolvency process.",
-      "Application": "Ocean Tankers (Pte) Ltd was placed under interim judicial management on 2020-05-12 and under judicial management on 2020-08-07. The court orders expressly authorised the insolvency officeholders to exercise all directorial powers, including conducting litigation and retaining legal counsel. The officeholders subsequently retained Rajah & Tann Singapore LLP. In July 2020, directors Lim Chee Meng and Lim Huey Ching initiated injunctive applications in the company’s name to restrain the law firm, acting without the consent of the appointed insolvency officeholders. These applications did not seek to discharge the judicial management orders but rather targeted the officeholders' specific choice of legal representation.",
-      "Judicial_Reasoning_Log": "The statutory regime unequivocally transfers the authority to conduct litigation and instruct solicitors to the appointed insolvency officeholders. Directors are stripped of these operational powers and hold only the narrowly defined residual capacity to appeal or challenge the insolvency appointment itself. Injunctive applications designed to disqualify or restrain the legal counsel selected by the insolvency officeholders do not challenge the underlying insolvency appointment and therefore fall strictly outside these residual powers. Consequently, the directors possess no authority to initiate such proceedings in the company's name. The unauthorised applications must be struck out for want of authority. To prevent unfair prejudice to the company's creditors, the real actors behind the unauthorised litigation—the directors—are personally responsible for the resulting costs."
-    },
-    "Label": "Claim Dismissed",
-    "Leakage_Score": 0
+      "Issue": "Whether directors of a shipping company retain the standing to initiate corporate legal actions after a court has transferred all management and directorial powers to interim judicial managers[cite: 125, 151].",
+      "Rule": "The appointment of a judicial manager entails a substitution and supplantation of the powers ordinarily vested in the board of directors. This excludes directors from conducting litigation or discharging company solicitors[cite: 290, 424, 523].",
+      "Application": "The Plaintiff (acting through former management) stated they retained residual authority to dictate the company's legal representation. The Defendant stated that the directors were functus officio and had no legal standing to represent the company[cite: 287, 513].",
+      "Conclusion": "Appeal Dismissed",
+      "Judicial_Reasoning_Log": "The court confirmed that the statutory scheme vests authority over the company's affairs in the managers to the exclusion of the directors. The directors' attempt to start litigation without the managers' consent was unauthorized. The court upheld the striking out of the actions[cite: 516, 552, 554].",
+      "Label": "Appeal Dismissed",
+      "Leakage_Score": 0
+    }
   },
   {
     "Metadata": {
-      "Case_Number": "Civil Appeal Nos 202 and 203 of 2020",
+      "Case_Number": "CA 203/2020",
       "Coram": "Sundaresh Menon CJ, Andrew Phang Boon Leong JCA, Judith Prakash JCA, Belinda Ang Saw Ean JAD, Chao Hick Tin SJ",
       "Judge": "Judith Prakash JCA",
       "Date": "2022-04-04",
@@ -129,42 +158,23 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2020-01-01",
-          "Text": "Rajah & Tann Singapore LLP is a Singapore law firm."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2020-04-27",
-          "Text": "On 2020-04-27, interim judicial managers were appointed over Hin Leong Trading (Pte) Ltd."
-        },
-        {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2020-05-12",
-          "Text": "On 2020-05-12, interim judicial managers were appointed over Ocean Tankers (Pte) Ltd."
+          "Text": "The firm acted as legal counsel for the shipping company under the express authorization of the court-appointed interim judicial managers[cite: 91, 97]."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2020-04-27",
-          "Text": "On 2020-04-27, Hin Leong Trading (Pte) Ltd was placed under interim judicial management and interim judicial managers were appointed over it."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2020-05-12",
-          "Text": "On 2020-05-12, Ocean Tankers (Pte) Ltd was placed under interim judicial management and interim judicial managers were appointed over it."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2020-08-07",
-          "Text": "On 2020-08-07, Hin Leong Trading (Pte) Ltd and Ocean Tankers (Pte) Ltd were placed under judicial management."
+          "Fact_Date": "2020-07-01",
+          "Text": "The firm's authority to act was challenged by directors who had been removed from the management of the company's affairs by the judicial management regime[cite: 80, 525]."
         }
       ],
-      "Issue": "Whether applications filed in the name of companies under judicial management to restrain their retained law firm are procedurally valid when commenced by the companies' directors without the authorisation of the appointed insolvency officeholders.",
-      "Rule": "Where a company is under interim judicial management or judicial management, the insolvency officeholders possess the exclusive power to retain and instruct legal counsel and to commence or defend proceedings in the company’s name. Applications brought in the company’s name without the authority of the insolvency officeholders are procedurally defective and subject to being struck out.",
-      "Application": "Rajah & Tann Singapore LLP was retained as legal counsel by the interim judicial managers of Hin Leong Trading (Pte) Ltd and Ocean Tankers (Pte) Ltd following their respective appointments in April and May 2020. The firm continued to act for the Companies after judicial management orders were made in August 2020. The insolvency orders explicitly authorised the officeholders to exercise all powers of directors, including conducting litigation. In July 2020, the Companies’ directors filed injunctive applications in the Companies’ names seeking to restrain the firm from acting for the insolvency officeholders, without obtaining approval from the interim or permanent judicial managers. The law firm responded on 2020-10-05 by seeking to strike out these applications on the basis that the directors lacked the requisite authority to commence the litigation.",
-      "Judicial_Reasoning_Log": "Under the judicial management and liquidation framework, the exclusive power to retain and instruct solicitors on behalf of a company rests with the court-appointed insolvency officeholders. Directors do not possess the standing or residual authority to commence legal proceedings in the company's name to dispute the officeholders' choice of legal counsel. Because the injunctive applications seeking to restrain the law firm were filed by the directors without the authorisation of the insolvency officeholders, they are procedurally defective and invalid for want of authority. The law firm remains validly retained by the insolvency officeholders, and the unauthorised applications targeting the firm must be struck out, with costs borne personally by the directors who improperly initiated the actions."
-    },
-    "Label": "Not Liable",
-    "Leakage_Score": 0
+      "Issue": "Whether a law firm is subject to a restraining order initiated by directors when the firm's client—the company—is under the exclusive control of judicial managers who support the retainer[cite: 520, 524].",
+      "Rule": "Management power includes the power to choose who represents the company. Directors cannot use the court's machinery to override the decisions of managers in whom those powers are currently vested[cite: 170, 517, 525].",
+      "Application": "The Defendant stated that the directors' actions were a non-starter because they lacked the requisite authority to manage the company's litigation. The Plaintiff stated that residual powers allowed them to interfere with the retainer[cite: 275, 420].",
+      "Conclusion": "Not Liable",
+      "Judicial_Reasoning_Log": "The court dismissed the appeal, noting that recognizing the directors' purported power would outflank the purpose of the judicial management scheme. The firm's retainer by the managers was valid, and the directors had no authority to terminate it or sue in the company's name to achieve that end[cite: 516, 534, 602].",
+      "Label": "Not Liable",
+      "Leakage_Score": 0
+    }
   }
 ]

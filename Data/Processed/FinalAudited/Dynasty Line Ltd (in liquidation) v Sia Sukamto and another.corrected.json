@@ -249,5 +249,108 @@
     },
     "Label": "Not Liable",
     "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 256 of 2010 (Counterclaim)",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu J",
+      "Date": "2013-07-31",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lau Wu Kwai King Lauren",
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2007-03-01",
+          "Text": "The individual was a director of Stone Forest Corporate Advisory and was initially engaged by the primary creditor to investigate the company's affairs prior to any formal appointment."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2007-05-07",
+          "Text": "Following her appointment as a provisional liquidator, she entered into a funding agreement with the primary creditor to finance investigations and subsequent legal actions against the directors."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-04-14",
+          "Text": "She authorized the commencement of the Original Action based on her internal findings of misfeasance, which the Plaintiff alleged were 'predetermined' and 'unbalanced'."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2011-01-01",
+          "Text": "The individual refused to instruct solicitors to accept service of the counterclaim in Singapore, compelling the Plaintiff to incur costs for service out of jurisdiction."
+        }
+      ],
+      "Issue": "Whether a liquidator's reliance on creditor funding and close coordination with a creditor during an investigation constitutes an unlawful conspiracy to injure the target of that investigation.",
+      "Rule": "A liquidator's pursuit of a lawsuit is protected if their predominant purpose is asset recovery for the company, even if the action is funded by a hostile creditor and results in injury to a director.",
+      "Conclusion": "Not Liable",
+      "Judicial_Reasoning_Log": "The court found that the individual acted as an independent officer. While she was funded by Low, her investigation was based on legitimate evidence of share pledging. Her refusal to facilitate service of the counterclaim was 'unhelpful' but did not prove a predominant intent to injure."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 256 of 2010 (Counterclaim)",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu J",
+      "Date": "2013-07-31",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "William Tacon",
+      "Facts": [
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2009-12-22",
+          "Text": "The individual was appointed as a joint liquidator in the BVI and relied entirely on the investigative reports prepared by his co-liquidator (Lauren)."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-04-14",
+          "Text": "During cross-examination, the individual admitted he had not conducted his own detailed enquiries or independent verification of the claims before authorizing the lawsuit."
+        }
+      ],
+      "Issue": "Whether a joint liquidator who acts as a 'rubber stamp' for another liquidator's investigation can be held liable for conspiracy to injure.",
+      "Rule": "A lack of diligence or passive reliance on a co-liquidator does not equate to the specific intent required for the tort of conspiracy.",
+      "Conclusion": "Not Liable",
+      "Judicial_Reasoning_Log": "The court categorized the individual as a 'sleeping' liquidator. While his lack of independent enquiry was noted, it did not satisfy the high threshold of proving he combined with others with the predominant purpose of injuring the director."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 256 of 2010 (Counterclaim)",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu J",
+      "Date": "2013-07-31",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Dynasty Line Ltd (in liquidation)",
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2009-12-22",
+          "Text": "The company was placed into liquidation following a petition by the primary creditor and was used as the nominal plaintiff to recover US$66m in assets."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2010-04-14",
+          "Text": "The company's liquidators pursued the action despite a personal settlement agreement between the creditor and the director."
+        }
+      ],
+      "Issue": "Whether a company can be liable for conspiracy if it is alleged to be the 'alter ego' of a creditor who is using the liquidation process to bypass a settlement agreement.",
+      "Rule": "A company in liquidation remains a separate legal entity; its pursuit of claims for the benefit of the estate is a legitimate corporate act and not an act of conspiracy.",
+      "Conclusion": "Not Liable",
+      "Judicial_Reasoning_Log": "The court rejected the 'alter ego' argument. The company was the proper plaintiff for claims of breach of fiduciary duty, and its pursuit of those claims—authorized by court-appointed liquidators—could not constitute an unlawful conspiracy."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   }
 ]

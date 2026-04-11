@@ -7,14 +7,7 @@
     "Defendant_Label": "Liable"
   },
   {
-    "Case_Number": "CA 206/1999",
-    "Plaintiff": "Kea Resources Pte Ltd",
-    "Defendant": "Gan Boon Hock",
-    "Plaintiff_Label": "Claim Allowed In-part",
-    "Defendant_Label": "Liable"
-  },
-  {
-    "Case_Number": "CA 206/1999",
+    "Case_Number": "CA 206/1999 (Counterclaim)",
     "Plaintiff": "Gan Boon Hock",
     "Defendant": "Kea Resources Pte Ltd",
     "Plaintiff_Label": "Claim Allowed",

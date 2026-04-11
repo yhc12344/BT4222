@@ -7,9 +7,16 @@
     "Defendant_Label": "Not Liable"
   },
   {
-    "Case_Number": "RA 267/2002",
+    "Case_Number": "OS 1115/2002 (Counterclaim)",
     "Plaintiff": "Kiyue Co Ltd",
     "Defendant": "Ng Heng Liat and Others",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "OS 1115/2002 (Counterclaim)",
+    "Plaintiff": "Kiyue Co Ltd",
+    "Defendant": "Aquagen International Pte Ltd",
     "Plaintiff_Label": "Claim Dismissed",
     "Defendant_Label": "Not Liable"
   }

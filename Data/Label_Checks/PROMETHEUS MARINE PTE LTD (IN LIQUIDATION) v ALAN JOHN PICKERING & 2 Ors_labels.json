@@ -1,16 +1,23 @@
 [
   {
-    "Case_Number": "[2024] SGHC 293; Suit No 1002 of 2021",
+    "Case_Number": "Suit No 1002 of 2021",
     "Plaintiff": "Prometheus Marine Pte Ltd (In Liquidation)",
     "Defendant": "Alan John Pickering",
     "Plaintiff_Label": "Claim Allowed In-part",
     "Defendant_Label": "Liable"
   },
   {
-    "Case_Number": "[2024] SGHC 293; Suit No 1002 of 2021",
+    "Case_Number": "Suit No 1002 of 2021",
     "Plaintiff": "Prometheus Marine Pte Ltd (In Liquidation)",
     "Defendant": "Lynette Anne Pickering",
     "Plaintiff_Label": "Claim Allowed In-part",
     "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 1002 of 2021",
+    "Plaintiff": "Prometheus Marine Pte Ltd (In Liquidation)",
+    "Defendant": "Promarine Yacht Sales Pte Ltd",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
   }
 ]

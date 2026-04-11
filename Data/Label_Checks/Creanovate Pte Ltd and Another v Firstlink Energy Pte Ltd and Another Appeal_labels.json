@@ -3,21 +3,21 @@
     "Case_Number": "CA 114/2006",
     "Plaintiff": "Firstlink Energy Pte Ltd",
     "Defendant": "Creanovate Pte Ltd",
-    "Plaintiff_Label": "Claim Allowed",
-    "Defendant_Label": "Liable"
+    "Conclusion": "Claim Allowed In-part",
+    "Label": "Liable"
+  },
+  {
+    "Case_Number": "CA 114/2006",
+    "Plaintiff": "Firstlink Energy Pte Ltd",
+    "Defendant": "Tang Kok Heng",
+    "Conclusion": "Claim Allowed In-part",
+    "Label": "Liable"
   },
   {
     "Case_Number": "CA 115/2006",
     "Plaintiff": "Firstlink Energy Pte Ltd",
     "Defendant": "Ngu Tieng Ung",
-    "Plaintiff_Label": "Claim Allowed In-part",
-    "Defendant_Label": "Liable"
-  },
-  {
-    "Case_Number": "CA 115/2006",
-    "Plaintiff": "Firstlink Energy Pte Ltd",
-    "Defendant": "Tang Kok Heng",
-    "Plaintiff_Label": "Claim Allowed In-part",
-    "Defendant_Label": "Liable"
+    "Conclusion": "Claim Allowed In-part",
+    "Label": "Liable"
   }
 ]

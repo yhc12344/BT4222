@@ -111,5 +111,47 @@
     },
     "Label": "Not Liable",
     "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Summons No 895 of 2013",
+      "Coram": "Lee Kim Shin JC",
+      "Judge": "Lee Kim Shin JC",
+      "Date": "2014-10-10",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Tay Yun Chwan Henry",
+      "Law_Firm": "Tan Rajah & Cheah",
+      "Counsel": [
+        "Chelva Retnam Rajah, SC",
+        "Sayana Baratham",
+        "Megan Chia"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1979-01-01",
+          "Text": "HT is a founder of THG and a permanent Governing Director of TYC[cite: 3408, 3416]."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-08-06",
+          "Text": "HT’s private company, Amstay Pte Ltd, paid KPMG fees that JC refused to approve, seeking reimbursement from TYC[cite: 3504]."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2013-09-04",
+          "Text": "HT called and attended the EGM to pass resolutions aimed at dealing with JC's 'obstructive conduct'[cite: 3535, 3536]."
+        }
+      ],
+      "Issue": "Whether a director can be authorized by shareholders to unilaterally sign cheques, bypassing a contractually mandated joint-approval system[cite: 3950].",
+      "Rule": "Shareholder reserve powers cannot be used to contravene an express term in a company’s articles or rewrite the rights/obligations of the parties under a settlement deed[cite: 3826, 3957].",
+      "Application": "The EGM's attempt to authorize HT to sign cheques unilaterally was a breach of the Payment Clause, which required both directors' signatures[cite: 3952].",
+      "Judicial_Reasoning_Log": "Although HT was aligned with the company’s effort to break the deadlock, his attempt to assume unilateral payment authority was rejected as it would re-write the SSD[cite: 3614, 3959]. HT was ordered to bear his own costs[cite: 4270]."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   }
 ]

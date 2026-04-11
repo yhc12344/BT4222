@@ -7,38 +7,10 @@
     "Defendant_Label": "Not Liable"
   },
   {
-    "Case_Number": "Suit 578/2007",
-    "Plaintiff": "Worldwide Convention Planners Pte Ltd",
-    "Defendant": "Poh Lye Yee Alan",
-    "Plaintiff_Label": "Claim Dismissed",
-    "Defendant_Label": "Not Liable"
-  },
-  {
-    "Case_Number": "Suit 578/2007",
-    "Plaintiff": "Worldwide Convention Planners Pte Ltd",
-    "Defendant": "Poh Jian Xiong Christopher",
-    "Plaintiff_Label": "Claim Dismissed",
-    "Defendant_Label": "Not Liable"
-  },
-  {
-    "Case_Number": "Suit 578/2007",
-    "Plaintiff": "Worldwide Convention Planners Pte Ltd",
-    "Defendant": "Chris Lyn Investment Pte Ltd",
-    "Plaintiff_Label": "Claim Dismissed",
-    "Defendant_Label": "Not Liable"
-  },
-  {
-    "Case_Number": "Suit 578/2007",
+    "Case_Number": "Suit 578/2007 (Counterclaim)",
     "Plaintiff": "Lee Khiam Long",
     "Defendant": "Worldwide Convention Planners Pte Ltd",
     "Plaintiff_Label": "Claim Allowed",
-    "Defendant_Label": "Liable"
-  },
-  {
-    "Case_Number": "Suit 578/2007",
-    "Plaintiff": "Chris Lyn Investment Pte Ltd",
-    "Defendant": "Worldwide Convention Planners Pte Ltd",
-    "Plaintiff_Label": "Claim Allowed In-part",
     "Defendant_Label": "Liable"
   }
 ]

@@ -433,7 +433,7 @@
     },
     "Party_Details": {
       "Role": "Defendant",
-      "Name": "Philippe Emanuel Mulacek, Carlo Giuseppe Civelli, Nicholas Johnstone, Daniel Chance Walker, Stefan Wood, Singapore Air Charter Pte Ltd",
+      "Name": "Philippe Emanuel Mulacek",
       "Law_Firm": "Salem Ibrahim LLC",
       "Counsel": [
         "Salem Ibrahim",
@@ -442,27 +442,222 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-04-12",
-          "Text": "Singapore Air Charter Pte Ltd received the resignation of its Managing Director, Danial Patrick Higgins"
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2010-11-26",
+          "Text": "The individual was an external investor and client who utilized the company's services for aircraft management."
         },
         {
-          "Fact_Type": "COMMUNICATION",
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-01-27",
+          "Text": "The individual held meetings with the Managing Director to discuss the 'dysfunctional' state of the company's internal management."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-02-09",
+          "Text": "The individual, through associated entities, issued a notice to terminate the aircraft management agreement with the company."
+        }
+      ],
+      "Issue": "Whether an external stakeholder can be liable for conspiracy if they terminate a commercial agreement following disclosures of internal management failure by the company's own director.",
+      "Rule": "A conspiracy claim requires proof of an agreement between two or more persons to perform an unlawful act or a lawful act by unlawful means with a predominant purpose to injure.",
+      "Application": "The individual's decision to move his business was found to be a response to the information provided by the claimant himself regarding the company's inability to function.",
+      "Judicial_Reasoning_Log": "The court found that the individual acted in his own commercial self-interest. Because the claimant failed to prove a predominant intent to injure or any unlawful means, the conspiracy claim was dismissed."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 733 of 2014 (Counterclaim)",
+      "Coram": "Edmund Leow JC",
+      "Judge": "Edmund Leow JC",
+      "Date": "2016-09-26",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Carlo Giuseppe Civelli",
+      "Law_Firm": "Salem Ibrahim LLC",
+      "Counsel": [
+        "Salem Ibrahim",
+        "Kulvinder Kaur",
+        "Jeriel Lam"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "2010-11-26",
+          "Text": "The individual was a key business associate and investor who placed aircraft under the company's management."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-02-01",
+          "Text": "The individual received reports from the Managing Director that the company was on the verge of collapse due to friction between the founding partners."
+        }
+      ],
+      "Issue": "Whether a third party's coordination with company directors to protect their assets from internal management deadlock constitutes an actionable conspiracy.",
+      "Rule": "Acting to protect one's own commercial interests is a complete defense to a claim of conspiracy by lawful means.",
+      "Application": "The court noted that the individual's involvement was limited to ensuring his aircraft were managed by a stable entity after being warned of the company's internal issues.",
+      "Judicial_Reasoning_Log": "The court dismissed the claims of conspiracy and inducement, finding no evidence of a combination intended to injure the claimant personally."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 733 of 2014 (Counterclaim)",
+      "Coram": "Edmund Leow JC",
+      "Judge": "Edmund Leow JC",
+      "Date": "2016-09-26",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Nicholas Johnstone",
+      "Law_Firm": "Salem Ibrahim LLC",
+      "Counsel": [
+        "Salem Ibrahim",
+        "Kulvinder Kaur",
+        "Jeriel Lam"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-09-07",
+          "Text": "The individual was a director and chief pilot of the company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-12-01",
+          "Text": "The individual experienced a total communication breakdown with the Managing Director, eventually refusing to interact with him directly."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2012-07-19",
+          "Text": "The individual participated in a board vote to remove the Managing Director from office following a series of management failures."
+        }
+      ],
+      "Issue": "Whether a director's participation in a board vote to remove a fellow director constitutes an unlawful conspiracy or an inducement of breach of contract.",
+      "Rule": "Directors acting within the scope of their authority to protect the company's interests are generally immune from personal liability for the company's breach of contract under the Said v Butt principle.",
+      "Application": "The individual's actions were found to be a legitimate exercise of corporate power following a breakdown in management trust.",
+      "Judicial_Reasoning_Log": "The court found that the predominant purpose was the survival of the company, not the injury of the claimant. The conspiracy claim was thus dismissed."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 733 of 2014 (Counterclaim)",
+      "Coram": "Edmund Leow JC",
+      "Judge": "Edmund Leow JC",
+      "Date": "2016-09-26",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Daniel Chance Walker",
+      "Law_Firm": "Salem Ibrahim LLC",
+      "Counsel": [
+        "Salem Ibrahim",
+        "Kulvinder Kaur",
+        "Jeriel Lam"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-09-07",
+          "Text": "The individual served as a director and pilot involved in the daily flight operations of the company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
           "Fact_Date": "2012-05-01",
-          "Text": "The company was notified of an outstanding balance of US$14,351.90 for salary and operational expenses"
+          "Text": "The individual expressed frustration over the Managing Director's lack of involvement and failure to secure new business contracts."
+        }
+      ],
+      "Issue": "Whether the collective decision of a board to reorganize management after a director's resignation can be characterized as a tortious conspiracy.",
+      "Rule": "Conspiracy requires proof of a combination and an intent to injure. Collective directorial action taken in the company's interest does not satisfy this threshold.",
+      "Application": "The evidence showed that the individual acted to ensure flight operations continued despite the internal management crisis.",
+      "Judicial_Reasoning_Log": "The court found no evidence of a 'beautiful scheme' to oust the claimant. The actions taken were found to be a standard response to a dysfunctional corporate environment."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 733 of 2014 (Counterclaim)",
+      "Coram": "Edmund Leow JC",
+      "Judge": "Edmund Leow JC",
+      "Date": "2016-09-26",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Stefan Wood",
+      "Law_Firm": "Salem Ibrahim LLC",
+      "Counsel": [
+        "Salem Ibrahim",
+        "Kulvinder Kaur",
+        "Jeriel Lam"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-09-07",
+          "Text": "The individual was a founding director and significant shareholder of the company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-01-01",
+          "Text": "The individual engaged in friction with the Managing Director over salary increases and the Managing Director's perceived lack of corporate commitment."
         },
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2012-06-22",
-          "Text": "Company director Stefan Wood requisitioned an extraordinary general meeting to formally remove Mr Higgins as a director"
+          "Text": "The individual formally requisitioned an EGM to remove the Managing Director from the board following a total loss of trust."
         }
       ],
-      "Issue": "Whether a company and its associates are legally responsible for a former director' conspiracy to oust him",
-      "Rule": "A company must fulfill valid contractual remuneration obligations, but conspiracy requires objective proof of an unlawful combination intended to cause harm",
-      "Application": "There was no conspiracy to injure or induce a termination of employment, while acknowledging the unpaid salary figures. the defendants colluded to oust him and withhold his rightful compensation",
-      "Judicial_Reasoning_Log": "The court found the company liable for the undisputed unpaid salary and expenses. The court dismissed the conspiracy claims against the individual defendants by counterclaim, finding that their actions to remove him were a legitimate response to his own misconduct."
+      "Issue": "Whether the statutory removal of a director by a shareholder-director using an EGM process constitutes an actionable conspiracy.",
+      "Rule": "A director or shareholder exercising their statutory right to remove an officer via an EGM is acting within their legal rights unless it is proven the process was used for an unlawful purpose.",
+      "Application": "The individual utilized formal corporate procedures to resolve a management deadlock. The claimant failed to prove that these procedures were a sham.",
+      "Judicial_Reasoning_Log": "The court held that the individual's actions were justified by the claimant's own breaches of duty and the commercial reality of the company's failure. The conspiracy claim failed."
     },
-    "Label": "Liable",
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 733 of 2014 (Counterclaim)",
+      "Coram": "Edmund Leow JC",
+      "Judge": "Edmund Leow JC",
+      "Date": "2016-09-26",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Singapore Air Charter Pte Ltd",
+      "Law_Firm": "Salem Ibrahim LLC",
+      "Counsel": [
+        "Salem Ibrahim",
+        "Kulvinder Kaur",
+        "Jeriel Lam"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-04-12",
+          "Text": "The company received the resignation of its Managing Director, who agreed to continue performing duties until a formal handover."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2012-07-19",
+          "Text": "Internal accounting reports identified an outstanding balance of US$14,351.90 for unpaid salary and operational expenses."
+        }
+      ],
+      "Issue": "Whether a company is liable for unpaid salary and expenses acknowledged in its own internal accounting despite ongoing litigation with the claimant.",
+      "Rule": "A company must fulfill its contractual obligations for remuneration to its officers for services rendered unless a valid legal basis for set-off is proven.",
+      "Application": "The company admitted the debt in its internal records but attempted to withhold payment as a set-off against its claims for damages in the main suit.",
+      "Judicial_Reasoning_Log": "The court found that while the company's claims in the main suit were partially successful, they did not negate the admitted debt for salary and expenses. Therefore, the claimant was entitled to recover the US$14,351.90."
+    },
+    "Label": "Claim Allowed In-part",
     "Leakage_Score": 0
   }
 ]

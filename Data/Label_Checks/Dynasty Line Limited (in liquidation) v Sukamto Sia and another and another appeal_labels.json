@@ -23,7 +23,7 @@
   {
     "Case_Number": "Civil Appeal No 103 of 2013",
     "Plaintiff": "Sukamto Sia",
-    "Defendant": "Dynasty Line Limited (in liquidation)",
+    "Defendant": "Lee Howe Yong",
     "Plaintiff_Label": "Claim Dismissed",
     "Defendant_Label": "Not Liable"
   },
@@ -37,7 +37,14 @@
   {
     "Case_Number": "Civil Appeal No 103 of 2013",
     "Plaintiff": "Sukamto Sia",
-    "Defendant": "Lau Wu Kwai King Lauren",
+    "Defendant": "Lau Wu Kwai King, Lauren",
+    "Plaintiff_Label": "Claim Dismissed",
+    "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Civil Appeal No 103 of 2013",
+    "Plaintiff": "Sukamto Sia",
+    "Defendant": "Dynasty Line Limited (in liquidation)",
     "Plaintiff_Label": "Claim Dismissed",
     "Defendant_Label": "Not Liable"
   }
