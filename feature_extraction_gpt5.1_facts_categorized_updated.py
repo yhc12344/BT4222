@@ -15,7 +15,7 @@ from openai import OpenAI
 load_dotenv(find_dotenv())
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-MODEL_NAME = "gpt-4o"  # Fixed model name
+MODEL_NAME = "gpt-5.1"
 
 INPUT_FOLDER = Path("Data/Testinput")
 OUTPUT_FOLDER = Path("Data/Processed/testouput")
