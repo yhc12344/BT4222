@@ -2,7 +2,7 @@
   {
     "Metadata": {
       "Case_Number": "Suit No 863 of 2019",
-      "Coram": "General Division of the High Court — Suit No 863 of 2019",
+      "Coram": "Philip Jeyaretnam J",
       "Judge": "Philip Jeyaretnam J",
       "Date": "2022-09-26",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
@@ -10,209 +10,41 @@
     "Party_Details": {
       "Role": "Plaintiff",
       "Name": "Baker, Samuel Cranage",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Unrepresented",
+      "Counsel": [
+        "In Person"
+      ],
       "Facts": [
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2007-11-01",
-          "Text": "In November 2007, Samuel Cranage Baker co-founded StreetSine together with Jeremy Lee."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2014-10-31",
-          "Text": "On 31 October 2014, Samuel Cranage Baker entered into a Share Purchase Agreement with SPH Interactive Pte Ltd."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2014-10-31",
-          "Text": "On 31 October 2014, Samuel Cranage Baker entered into a Shareholders' Agreement with SPH Interactive Pte Ltd."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2014-10-31",
-          "Text": "On 31 October 2014, Samuel Cranage Baker entered into a Put and Call Option Agreement with Singapore Press Holdings Ltd."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "On 31 October 2014, a management agreement between StreetSine Technology Group Pte Ltd and Samuel Cranage Baker was executed."
-        },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2014-10-31",
-          "Text": "With effect from completion of SPH Interactive Pte Ltd's investment, Samuel Cranage Baker was appointed Chief Executive Officer of StreetSine under his management agreement."
+          "Text": "Samuel Cranage Baker was appointed as Chief Executive Officer of StreetSine"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2014-10-31",
-          "Text": "The management agreement for Samuel Cranage Baker provided that his employment would commence on completion of the SPH Interactive Pte Ltd investment and continue until 30 June 2018 as the initial term, subject to earlier termination under the agreement."
+          "Text": "Shareholders’ Agreement between SPHI and the plaintiffs was executed"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2014-10-31",
-          "Text": "Under the Shareholders' Agreement dated 31 October 2014, the term 'Management' was defined to include Samuel Cranage Baker in his capacity as Chief Executive Officer of StreetSine and its related companies."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "Clause 5.3 of the Shareholders' Agreement dated 31 October 2014 stated that from the date of the agreement until 30 June 2018, the board of StreetSine would delegate the day-to-day running of the business to the Management, including Samuel Cranage Baker as CEO, subject to specified conditions."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "Clause 5.1.1 of the Shareholders' Agreement dated 31 October 2014 provided that the Management, including Samuel Cranage Baker, would prepare and submit a draft updated Strategic Plan and annual Operating Budget to the board at least two months before the start of the next financial year."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "Clause 5.1.4 of the Shareholders' Agreement dated 31 October 2014 allowed the Management, including Samuel Cranage Baker, until 30 June 2018 to make certain variations to the Strategic Plan within specified limits and notification requirements."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "Clause 7.1.1 of the Shareholders' Agreement dated 31 October 2014 recorded the shareholders' intention that StreetSine Technology Group Pte Ltd evaluate the feasibility of a Qualifying IPO by 31 December 2017."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "Under the Put and Call Option Agreement dated 31 October 2014, if no Qualifying IPO occurred by 31 December 2017, Singapore Press Holdings Ltd obtained a right to purchase, and Samuel Cranage Baker obtained a right to require Singapore Press Holdings Ltd to purchase, his shares at specified prices between 1 January 2018 and 30 June 2018."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-04-06",
-          "Text": "On 6 April 2016, the Singapore Institute of Surveyors and Valuers issued a press release stating that computer-generated values were not valuations in accordance with its valuation standards and were not recognised by the institute."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-04-18",
-          "Text": "On 18 April 2016, SSTG lodged a complaint with the Competition and Consumer Commission of Singapore in response to the Singapore Institute of Surveyors and Valuers' 6 April 2016 press release."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-11-10",
-          "Text": "On 10 November 2016, StreetSine Singapore Pte Ltd commenced a High Court suit against the Singapore Institute of Surveyors and Valuers for various causes of action, including the tort of conspiracy and unlawful interference with trade or business."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2017-07-01",
-          "Text": "In July 2017, StreetSine engaged Candor Advisory Partners, led by Jason Lewis Barakat-Brown, as an external advisor to assist on bringing in a new investor and positioning StreetSine for an IPO in three to five years' time."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2017-08-01",
-          "Text": "From 1 August 2017 to end-January 2018, Candor Advisory Partners advised StreetSine under a mandate to assist with investor introduction and IPO positioning."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-01-21",
-          "Text": "By 21 January 2018, Samuel Cranage Baker had decided to relocate to the USA and discussed this relocation with Leslie Fong, a director of StreetSine."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-03-01",
-          "Text": "In March 2018, a second mandate letter was executed to engage Candor Advisory Partners until March 2019 to advise StreetSine on investor introduction and IPO positioning."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-05-03",
-          "Text": "On 3 May 2018, Samuel Cranage Baker emailed SPH's CEO Ng Yat Chung recommending that Jason Lewis Barakat-Brown be approved as a replacement Chief Executive Officer for StreetSine and describing him as a suitable candidate."
+          "Text": "Management agreements for Mr Baker and Mr Lee between them and SSTG were executed"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2018-05-23",
-          "Text": "On 23 May 2018, the boards of SSTG and SSSPL passed resolutions to appoint Jason Lewis Barakat-Brown as CEO with effect from 1 June 2018 and to record that Samuel Cranage Baker would resign as CEO and take the role of Co-Founder and Executive Director from 1 June 2018."
+          "Text": "On 2018-05-23, Mr Baker's resignation as CEO of StreetSine and his appointment as Co-Founder and Executive Director were formalised"
         },
         {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2018-06-01",
-          "Text": "With effect from 1 June 2018, Samuel Cranage Baker ceased to hold the position of Chief Executive Officer of StreetSine and took the role described as Co-Founder and Executive Director."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2018-06-04",
-          "Text": "On 4 June 2018, a Service Agreement for Jason Lewis Barakat-Brown as CEO of StreetSine was sent to him, signed on behalf of StreetSine by director Julian Tan."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-08-17",
-          "Text": "On 17 August 2018, REA Group Limited submitted an indicative non-binding proposal to acquire 60% to 100% of SSTG based on a valuation of $85m."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2018-08-22",
-          "Text": "On 22 August 2018, Samuel Cranage Baker and Jeremy Lee submitted a formal offer to sell their shareholding to SPH, based on a valuation analysis report prepared by Mr Barakat-Brown estimating the value of SSTG at $250m."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-08-22",
-          "Text": "On 22 August 2018, Samuel Cranage Baker and Jeremy Lee's offer letter to Singapore Press Holdings Ltd proposed consideration options including $100m cash, $60m cash and 40% of the proceeds of the SISV Litigation, or $60m cash and $40m of the proceeds of the SISV Litigation."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-09-24",
-          "Text": "On 24 September 2018, SPH communicated to Samuel Cranage Baker and Jeremy Lee that it rejected their 22 August 2018 offer and that SPHI wished to continue to engage REA Group and proceed with the next stage in the process, with the aim of concluding a sale of StreetSine to REA as expeditiously as possible."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-10-22",
-          "Text": "On 22 October 2018, REA withdrew the Indicative Proposal because, after concluding its due diligence, it found that material assumptions had not been supported and any valuation supporting a final binding offer was likely to be materially lower than the indicative terms."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-12-14",
-          "Text": "On 14 December 2018, Mr Fong informed the plaintiffs that there was no longer a need for them to remain in their executive roles and that their transition to non-executive roles was to be formalised as soon as possible."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2018-12-17",
-          "Text": "On 17 December 2018, written resolutions approving the termination of the plaintiffs' employments as Executive Director and CTO were approved by the SSTG board, and the plaintiffs were paid three months' salary in lieu of notice in accordance with Clause 9.2 of the MAs."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2018-12-17",
-          "Text": "After 17 December 2018, Samuel Cranage Baker remained a non-executive director and minority shareholder of SSTG, and each plaintiff held 20% of the shares."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-12-17",
-          "Text": "Following the termination of the plaintiffs' executive roles on 17 December 2018, access to the Google drive and other operational systems of StreetSine was restricted."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-12-17",
-          "Text": "After 17 December 2018, Mr Barakat-Brown instructed D&N to take instructions only from himself or Mr McCune in respect of the SISV Litigation."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-05-23",
-          "Text": "On 23 May 2019, letters were issued to the plaintiffs on behalf of StreetSine demanding the return of certain sums amounting to $19,500 which it alleged were unauthorised and improperly paid."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-06-21",
-          "Text": "On 21 June 2019, StreetSine commenced a suit against the plaintiffs for the recovery of these payments, with NLC Law Asia LLC acting for StreetSine."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-07-16",
-          "Text": "On 16 July 2019, the plaintiffs' then solicitors sent a letter to Allen & Gledhill LLP, acting for SPH, conveying an offer by Samuel Cranage Baker and Jeremy Lee to sell their 40% shareholding for $55m payable immediately, $45m payable upon completion of the SISV Litigation and 1% of gross revenue for SSTG's digital property, banking and financial services for a 10-year period beginning on 1 September 2021."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-07-24",
-          "Text": "On 24 July 2019, SSTG requested additional cash facilities of between $6.58m and $8.58m from its shareholders; on the same day, Mr Baker replied on behalf of the plaintiffs that they would only consider the request if conditions including reducing Mr Barakat-Brown's compensation or terminating his employment were met."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-07-29",
-          "Text": "On 29 July 2019, A&G responded with a counter-offer from SPH to purchase the plaintiffs' shareholding for a total of $10m."
+          "Text": "On 2018-12-17, the SSTG board approved the termination of Mr Baker's employment as Executive Director"
         }
       ],
-      "Issue": "Whether a majority shareholder’s exercise of board control—including terminating the founders' executive roles after the expiration of a guaranteed management period, settling corporate litigation, and placing the company in judicial management—constitutes actionable minority oppression or an unlawful means conspiracy to devalue the founders' shares.",
-      "Rule": "Under section 216 of the Companies Act, minority oppression requires proof of commercial unfairness, which is determined against the backdrop of the parties' contractual agreements. If a shareholders' agreement explicitly limits the founders' guaranteed management period, the subsequent termination of their executive roles by the board does not breach a legitimate expectation. Furthermore, bona fide commercial decisions by the board (such as settling litigation or entering judicial management due to genuine insolvency) do not constitute oppression or an unlawful means conspiracy, even if those decisions disadvantage the minority shareholders' exit valuation.",
-      "Application": "Baker and his co-founder sold a 60% stake to SPH under a Shareholders' Agreement that guaranteed their executive management roles only until June 2018. After this period expired, and following Baker's own recommendation of a replacement CEO and relocation plans, the board terminated the founders' executive roles, restricted their IT access, and pursued small recovery claims against them. Concurrently, the founders attempted to sell their remaining 40% stake to SPH at heavily inflated valuations ($250m and later $100m+), which SPH rejected, offering $10m instead. As the company’s financial position worsened, the board—without the founders' consent—settled ongoing corporate litigation against SISV and subsequently placed the company into judicial management. The founders sued, claiming these combined actions were a 'bloodless coup' and an orchestrated conspiracy by SPH to maliciously devalue their shares and force a cheap buyout.",
-      "Judicial_Reasoning_Log": "The court systematically dismissed the claims of minority oppression and conspiracy. The Shareholders' Agreement clearly limited the founders' guaranteed management tenure to June 2018; therefore, their termination did not violate any legitimate expectation of perpetual control. The board's decisions to terminate their executive roles, restrict IT access (a standard security measure for departed executives), and settle the SISV litigation were found to be rational, good-faith commercial judgments within the board's authority, not acts of oppression. The court noted that the founders' inflated valuation demands were unrealistic and unsupported by independent due diligence (as evidenced by REA Group's withdrawal). Furthermore, the decision to enter judicial management was driven by genuine cash flow insolvency, not a malicious scheme to expropriate the founders' shares. Because the majority shareholder and the board acted lawfully within their contractual rights and for legitimate commercial purposes, the plaintiffs failed to prove either commercial unfairness (oppression) or an intention to injure (conspiracy). All claims were dismissed."
+      "Issue": "Whether the plaintiffs were unfairly excluded from management roles in contravention of their legitimate expectations",
+      "Rule": "A minority shareholder is entitled to fair treatment, an ambulatory standard bounded by the four limbs of s 216(1) of the Companies Act",
+      "Application": "They had a legitimate expectation to remain in management roles, while the termination was in the best interests of the company",
+      "Judicial_Reasoning_Log": "The court found that the plaintiffs had no legitimate expectation to remain in management roles after 30 June 2018, and the decision to terminate them was taken in good faith with the best interests of StreetSine in mind."
     },
     "Label": "Claim Dismissed",
     "Leakage_Score": 0
@@ -220,180 +52,7 @@
   {
     "Metadata": {
       "Case_Number": "Suit No 863 of 2019",
-      "Coram": "General Division of the High Court — Suit No 863 of 2019",
-      "Judge": "Philip Jeyaretnam J",
-      "Date": "2022-09-26",
-      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
-    },
-    "Party_Details": {
-      "Role": "Plaintiff",
-      "Name": "Lee Chuen Yang Jeremy",
-      "Law_Firm": "",
-      "Counsel": [],
-      "Facts": [
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2007-11-01",
-          "Text": "In November 2007, Jeremy Lee Chuen Yang co-founded StreetSine in Singapore together with Samuel Cranage Baker."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2014-10-31",
-          "Text": "On 31 October 2014, Jeremy Lee Chuen Yang entered into a Share Purchase Agreement with SPH Interactive Pte Ltd for the sale of shares in StreetSine Technology Group Pte Ltd."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2014-10-31",
-          "Text": "On 31 October 2014, Jeremy Lee Chuen Yang entered into a Shareholders' Agreement with SPH Interactive Pte Ltd relating to StreetSine Technology Group Pte Ltd."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2014-10-31",
-          "Text": "On 31 October 2014, Jeremy Lee Chuen Yang entered into a Put and Call Option Agreement with Singapore Press Holdings Ltd concerning his shares in StreetSine Technology Group Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "On 31 October 2014, a management agreement between StreetSine Technology Group Pte Ltd and Jeremy Lee Chuen Yang was executed, appointing him to an executive role."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2014-10-31",
-          "Text": "With effect from completion of SPH Interactive Pte Ltd's investment on 31 October 2014, Jeremy Lee Chuen Yang was appointed Chief Technology Officer of StreetSine under his management agreement."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "The management agreement for Jeremy Lee Chuen Yang provided that his employment would commence on completion of the SPH Interactive Pte Ltd investment and continue until 30 June 2018 as the initial term, earlier termination under the agreement."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "Under the Shareholders' Agreement dated 31 October 2014, the term 'Management' was defined to include Jeremy Lee Chuen Yang in his capacity as Chief Technology Officer of StreetSine Technology Group Pte Ltd and its related companies."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "Clause 5.3 of the Shareholders' Agreement dated 31 October 2014 stated that from the date of the agreement until 30 June 2018, the board of StreetSine would delegate the day-to-day running of the business to the Management, including Jeremy Lee Chuen Yang as CTO, specified conditions."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "Clause 5.1.1 of the Shareholders' Agreement dated 31 October 2014 provided that the Management, including Jeremy Lee Chuen Yang, would prepare and submit a draft updated Strategic Plan and annual Operating Budget to the board at least two months before the start of each financial year."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "Clause 5.1.4 of the Shareholders' Agreement dated 31 October 2014 allowed the Management, including Jeremy Lee Chuen Yang, until 30 June 2018 to make certain variations to the Strategic Plan within specified limits and notification requirements."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "Clause 7.1.1 of the Shareholders' Agreement dated 31 October 2014 recorded the shareholders' intention that StreetSine Technology Group Pte Ltd evaluate the feasibility of a Qualifying IPO by 31 December 2017, with the Management, including Jeremy Lee Chuen Yang, focusing on growth and development of the business."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "Under the Put and Call Option Agreement dated 31 October 2014, if no Qualifying IPO occurred by 31 December 2017, Singapore Press Holdings Ltd obtained a right to purchase, and Jeremy Lee Chuen Yang obtained a right to require Singapore Press Holdings Ltd to purchase, his shares in StreetSine Technology Group Pte Ltd at specified prices between 1 January 2018 and 30 June 2018."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-07-01",
-          "Text": "In or around July 2012, Singapore Press Holdings Ltd contacted Jeremy Lee Chuen Yang to explore a potential investment by SPH into StreetSine through StreetSine Technology Group Pte Ltd, then known as CoSine Holdings Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2013-12-01",
-          "Text": "Between December 2013 and August 2014, negotiations took place between Singapore Press Holdings Ltd and the StreetSine founders, including Jeremy Lee Chuen Yang, regarding SPH's acquisition of a 60% shareholding in StreetSine Technology Group Pte Ltd through SPH Interactive Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-04-06",
-          "Text": "On 6 April 2016, the Singapore Institute of Surveyors and Valuers issued a press release stating that computer-generated values were not valuations in accordance with its standards, affecting StreetSine's business in which Jeremy Lee Chuen Yang was a co-founder and executive."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-04-18",
-          "Text": "On 18 April 2016, StreetSine lodged a complaint with the Competition and Consumer Commission of Singapore in response to the Singapore Institute of Surveyors and Valuers' 6 April 2016 press release."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-11-10",
-          "Text": "On 10 November 2016, StreetSine Singapore Pte Ltd commenced a High Court suit against the Singapore Institute of Surveyors and Valuers and others, relating to the impact of the institute's statements on StreetSine's business."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2018-06-01",
-          "Text": "With effect from 1 June 2018, Jeremy Lee Chuen Yang continued as Chief Technology Officer of StreetSine but no longer worked with Samuel Cranage Baker as CEO, as Jason Lewis Barakat-Brown took over the CEO role."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-09-24",
-          "Text": "On 24 September 2018, Singapore Press Holdings Ltd communicated to Jeremy Lee Chuen Yang and Samuel Cranage Baker that it rejected their 22 August 2018 offer and that SPH Interactive Pte Ltd wished to continue engaging REA Group Limited to pursue a potential sale of StreetSine."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-12-14",
-          "Text": "On 14 December 2018, Leslie Fong informed Jeremy Lee Chuen Yang and Samuel Cranage Baker that there was no longer a need for them to remain in their executive roles at StreetSine and that their transition to non-executive roles was to be formalised."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2018-12-17",
-          "Text": "On 17 December 2018, written resolutions of the StreetSine Technology Group Pte Ltd board approved the termination of Jeremy Lee Chuen Yang's employment in his executive role as Chief Technology Officer, with payment of three months' salary in lieu of notice in accordance with his management agreement."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2018-12-17",
-          "Text": "After 17 December 2018, Jeremy Lee Chuen Yang remained a non-executive director and minority shareholder of StreetSine Technology Group Pte Ltd, each plaintiff holding 20% of the shares."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-12-17",
-          "Text": "Following the termination of the plaintiffs' executive roles on 17 December 2018, access by Jeremy Lee Chuen Yang to StreetSine's Google Drive and other operational systems was restricted by CEO Jason Lewis Barakat-Brown."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-05-23",
-          "Text": "On 23 May 2019, letters were issued on behalf of StreetSine to Jeremy Lee Chuen Yang and Samuel Cranage Baker demanding the return of certain sums totalling approximately S$19,500 that StreetSine stated were unauthorised and improperly paid."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-06-21",
-          "Text": "On 21 June 2019, StreetSine commenced a suit in the Magistrate's Court against Jeremy Lee Chuen Yang and Samuel Cranage Baker to recover payments of about S$22,100, with NLC Law Asia LLC acting for StreetSine."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-07-16",
-          "Text": "On 16 July 2019, the plaintiffs' then solicitors sent a letter to Allen & Gledhill LLP, acting for Singapore Press Holdings Ltd, conveying an offer by Jeremy Lee Chuen Yang and Samuel Cranage Baker to sell their 40% shareholding in StreetSine Technology Group Pte Ltd for S$55 million payable immediately, S$45 million payable upon completion of the SISV litigation, and 1% of gross revenue for certain digital services for a 10-year period from 1 September 2021."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-07-24",
-          "Text": "On 24 July 2019, StreetSine Technology Group Pte Ltd requested additional cash facilities of between S$6.58 million and S$8.58 million from its shareholders; on the same day, Samuel Cranage Baker replied on behalf of the plaintiffs that they would only consider the request if conditions including reducing or terminating CEO Jason Lewis Barakat-Brown's compensation were met, which affected the company's funding options while Jeremy Lee Chuen Yang remained a shareholder."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-07-29",
-          "Text": "On 29 July 2019, Allen & Gledhill LLP responded on behalf of Singapore Press Holdings Ltd with a counter-offer to purchase the plaintiffs' 40% shareholding in StreetSine Technology Group Pte Ltd for a total of S$10 million."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-08-30",
-          "Text": "On 30 August 2019, Jeremy Lee Chuen Yang and Samuel Cranage Baker commenced Suit No 863 of 2019 in the General Division of the High Court of Singapore against SPH Interactive Pte Ltd and others."
-        }
-      ],
-      "Issue": "Whether a minority founder-shareholder can successfully claim minority oppression and conspiracy based on the majority shareholder's decisions to terminate his executive employment post-contract, restrict IT access, and place the financially distressed company into judicial management.",
-      "Rule": "Under section 216 of the Companies Act, minority oppression requires demonstrating commercial unfairness, which is strictly evaluated against the parties' explicit contractual agreements. If a Shareholders' Agreement guarantees executive employment only for a specific initial term, the subsequent termination of that employment by the board does not violate any legitimate expectation of perpetual control. Furthermore, standard corporate actions—such as securing IT systems upon executive termination, pursuing minor recovery claims, and placing an insolvent company into judicial management—do not constitute oppression or an actionable conspiracy unless proven to be bad-faith acts maliciously coordinated to devalue the minority's shares.",
-      "Application": "Jeremy Lee co-founded StreetSine and, alongside Baker, sold a 60% stake to SPH. Their Shareholders' and Management Agreements explicitly guaranteed their executive roles (Lee as CTO) only until June 2018. Following the expiration of this term, the board terminated their executive roles (paying them in lieu of notice), restricted their access to corporate IT systems, and pursued them for minor unauthorized payments. Concurrently, Lee and Baker demanded an exorbitant buyout price for their remaining 40% stake, which SPH rejected. When the company faced severe cash-flow insolvency and the founders refused to inject further capital, the board filed for judicial management. Lee claims these actions were an orchestrated, oppressive conspiracy by SPH to humiliate the founders, devalue their shares, and execute a 'bloodless coup'.",
-      "Judicial_Reasoning_Log": "The court analyzed Lee's claims in tandem with Baker's, as their contractual positions were identical. The court found no commercial unfairness or oppression. The Shareholders' Agreement definitively capped their guaranteed executive tenure at June 2018; thus, the board's decision to terminate Lee's CTO role in December 2018 breached no legitimate expectation of perpetual management. The board's actions in terminating the roles, revoking IT access, and pursuing small-value claims were standard, rational corporate measures, not a malicious conspiracy. Most critically, the court found that the company was genuinely insolvent. The decision to enter judicial management was a necessary, legally sound response to cash flow constraints, not an oppressive tactic designed to steal the founders' equity. The court highlighted that the founders' massively inflated valuation demands were completely divorced from commercial reality. Finding no breach of the contractual framework and no malicious intent to injure, the court dismissed Lee's claims of minority oppression and unlawful means conspiracy."
-    },
-    "Label": "Claim Dismissed",
-    "Leakage_Score": 0
-  },
-  {
-    "Metadata": {
-      "Case_Number": "Suit No 863 of 2019",
-      "Coram": "General Division of the High Court — Suit No 863 of 2019",
+      "Coram": "Philip Jeyaretnam J",
       "Judge": "Philip Jeyaretnam J",
       "Date": "2022-09-26",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
@@ -401,413 +60,124 @@
     "Party_Details": {
       "Role": "Defendant",
       "Name": "SPH Interactive Pte. Ltd.",
-      "Law_Firm": "",
-      "Counsel": [],
-      "Facts": [
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "On 31 October 2014, SPH Interactive Pte Ltd entered into a Share Purchase Agreement with Samuel Cranage Baker and Jeremy Lee Chuen Yang to acquire 60% of the shares in StreetSine Technology Group Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "On 31 October 2014, SPH Interactive Pte Ltd entered into a Shareholders' Agreement with Samuel Cranage Baker and Jeremy Lee Chuen Yang governing the management, reserved matters, and board composition of StreetSine Technology Group Pte Ltd."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2014-10-31",
-          "Text": "Under the Shareholders' Agreement dated 31 October 2014, SPH Interactive Pte Ltd was entitled to nominate three directors to the board of StreetSine Technology Group Pte Ltd, including the chairman."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-07-01",
-          "Text": "In or around July 2012, Singapore Press Holdings Ltd, the parent of SPH Interactive Pte Ltd, contacted Jeremy Lee Chuen Yang to explore a potential investment into StreetSine through StreetSine Technology Group Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2013-12-01",
-          "Text": "Between December 2013 and August 2014, Singapore Press Holdings Ltd negotiated with the StreetSine founders regarding an acquisition of a 60% stake in StreetSine Technology Group Pte Ltd, which was to be implemented through SPH Interactive Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2014-10-31",
-          "Text": "On 31 October 2014, SPH Interactive Pte Ltd completed its investment in StreetSine Technology Group Pte Ltd by acquiring 60% of its shares, with the founders retaining 40%."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-04-06",
-          "Text": "On 6 April 2016, the Singapore Institute of Surveyors and Valuers issued a press release affecting StreetSine's valuation-related services, which SPH Interactive Pte Ltd monitored as the majority shareholder of StreetSine Technology Group Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-11-10",
-          "Text": "On 10 November 2016, StreetSine Singapore Pte Ltd commenced litigation against the Singapore Institute of Surveyors and Valuers and others, a development SPH Interactive Pte Ltd as the 60% shareholder of the StreetSine group."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2017-07-01",
-          "Text": "In July 2017, StreetSine engaged Candor Advisory Partners to advise on bringing in a new investor and positioning the company for an IPO, with SPH Interactive Pte Ltd as majority shareholder overseeing this strategic initiative."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2018-05-23",
-          "Text": "On 23 May 2018, the boards of StreetSine Technology Group Pte Ltd and StreetSine Singapore Pte Ltd, which included SPH Interactive Pte Ltd nominees, resolved to appoint Jason Lewis Barakat-Brown as CEO with effect from 1 June 2018 and to record the change in Samuel Cranage Baker's role."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-08-17",
-          "Text": "On 17 August 2018, REA Group Limited submitted an indicative non-binding proposal to acquire 60% to 100% of StreetSine Technology Group Pte Ltd based on a valuation of S$85 million, which SPH Interactive Pte Ltd considered as the 60% shareholder."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-09-24",
-          "Text": "On 24 September 2018, SPH Interactive Pte Ltd, through Singapore Press Holdings Ltd, informed the founders that it rejected their 22 August 2018 offer to sell their 40% stake and that it wished to continue engaging REA Group Limited to pursue a potential sale of StreetSine."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-10-22",
-          "Text": "On 22 October 2018, REA Group Limited withdrew its indicative proposal to acquire StreetSine, informing SPH Interactive Pte Ltd and other stakeholders that due diligence did not support the earlier valuation assumptions."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2018-12-17",
-          "Text": "On 17 December 2018, the board of StreetSine Technology Group Pte Ltd, which included SPH Interactive Pte Ltd nominees, approved written resolutions terminating the executive employments of Samuel Cranage Baker and Jeremy Lee Chuen Yang with payment in lieu of notice."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-05-23",
-          "Text": "On 23 May 2019, letters were sent on behalf of StreetSine to the founders demanding repayment of certain sums that StreetSine stated were unauthorised, with SPH Interactive Pte Ltd's board nominees aware of these steps."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-06-21",
-          "Text": "On 21 June 2019, StreetSine commenced a Magistrate's Court suit against the founders to recover approximately S$22,100, with NLC Law Asia LLC acting for StreetSine and SPH Interactive Pte Ltd monitoring the proceedings as majority shareholder."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-07-16",
-          "Text": "On 16 July 2019, the founders' solicitors sent a letter to Allen & Gledhill LLP, acting for Singapore Press Holdings Ltd and SPH Interactive Pte Ltd, offering to sell the founders' 40% shareholding in StreetSine Technology Group Pte Ltd for a structured consideration including S$55 million upfront and additional components."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-07-29",
-          "Text": "On 29 July 2019, Allen & Gledhill LLP, on behalf of Singapore Press Holdings Ltd and SPH Interactive Pte Ltd, made a counter-offer to purchase the founders' 40% shareholding in StreetSine Technology Group Pte Ltd for a total of S$10 million."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2020-04-28",
-          "Text": "At a board meeting on 28 April 2020, the StreetSine board, including SPH Interactive Pte Ltd nominees, considered a report from CEO Jason Lewis Barakat-Brown that StreetSine would not be able to continue trading by the end of June 2020 without new funds and decided that the company should be placed under judicial management if shareholder funds were not provided."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2020-05-11",
-          "Text": "On 11 May 2020, StreetSine Technology Group Pte Ltd and StreetSine Singapore Pte Ltd filed applications to be placed under judicial management, a step supported by SPH Interactive Pte Ltd as the 60% shareholder."
-        }
+      "Law_Firm": "Allen & Gledhill LLP",
+      "Counsel": [
+        "Aaron Lee Teck Chye",
+        "Xu Jiaxiong Daryl",
+        "Chong Xue Er, Cheryl",
+        "Lim Wei Ying"
       ],
-      "Issue": "Whether a majority shareholder’s exercise of its contractual rights and board control to terminate the founders' executive roles, settle corporate litigation, and place the financially distressed company into judicial management constitutes actionable minority oppression or an unlawful means conspiracy.",
-      "Rule": "A majority shareholder does not commit minority oppression or an unlawful means conspiracy when it exercises its board control to make bona fide commercial decisions—such as terminating executives after their guaranteed contractual term expires, settling corporate litigation, or filing for judicial management due to genuine insolvency. Commercial unfairness under Section 216 of the Companies Act is measured against the parties' explicit contractual agreements, and a minority shareholder's disagreement with rational business judgments does not establish oppression or a malicious intent to injure.",
-      "Application": "SPH Interactive Pte Ltd (SPHI) acquired a 60% stake in StreetSine. The Shareholders' Agreement explicitly guaranteed the founders' executive management roles only until June 2018. After this period, SPHI's board nominees voted to terminate the founders' executive roles (with proper notice pay), restricted their IT access, and pursued small recovery claims against them. As StreetSine faced severe cash flow insolvency, SPHI rejected the founders' heavily inflated demands to buy out their 40% stake and, through its board control, placed the company into judicial management. The founders sued SPHI, claiming these actions were a coordinated, bad-faith conspiracy designed to devalue the company and execute a 'bloodless coup' to acquire the founders' shares cheaply.",
-      "Judicial_Reasoning_Log": "The court ruled that SPHI acted entirely within its legal and contractual rights. The Shareholders' Agreement clearly limited the founders' guaranteed executive tenure to June 2018; therefore, SPHI’s support for their termination breached no legitimate expectation. The court found that SPHI's board nominees made good-faith commercial decisions regarding the termination, the restriction of IT access, and the settlement of the SISV litigation. Crucially, the court rejected the narrative that SPHI orchestrated a conspiracy to devalue the company. The decision to seek judicial management was driven by genuine, verifiable insolvency, and SPHI ultimately failed in its own bid to buy the company during the independent judicial management sale process. Because SPHI's actions were lawful commercial steps consistent with its rights as a majority investor, the court dismissed the claims of minority oppression and unlawful means conspiracy against it."
-    },
-    "Label": "Not Liable",
-    "Leakage_Score": 0
-  },
-  {
-    "Metadata": {
-      "Case_Number": "Suit No 863 of 2019",
-      "Coram": "General Division of the High Court — Suit No 863 of 2019",
-      "Judge": "Philip Jeyaretnam J",
-      "Date": "2022-09-26",
-      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
-    },
-    "Party_Details": {
-      "Role": "Defendant",
-      "Name": "Singapore Press Holdings Ltd.",
-      "Law_Firm": "",
-      "Counsel": [],
       "Facts": [
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-10-31",
-          "Text": "On 31 October 2014, Singapore Press Holdings Ltd entered into a Put and Call Option Agreement with Samuel Cranage Baker and Jeremy Lee Chuen Yang granting reciprocal rights to require or effect the purchase of their shares in StreetSine Technology Group Pte Ltd if no Qualifying IPO occurred by 31 December 2017."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-07-01",
-          "Text": "In or around July 2012, Singapore Press Holdings Ltd contacted Jeremy Lee Chuen Yang to explore a potential investment into StreetSine through StreetSine Technology Group Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2013-12-01",
-          "Text": "Between December 2013 and August 2014, Singapore Press Holdings Ltd negotiated with the StreetSine founders regarding an acquisition of a 60% stake in StreetSine Technology Group Pte Ltd, to be implemented through SPH Interactive Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2014-10-31",
-          "Text": "On 31 October 2014, Singapore Press Holdings Ltd completed its investment structure by having its subsidiary SPH Interactive Pte Ltd acquire 60% of the shares in StreetSine Technology Group Pte Ltd, while entering into a Put and Call Option Agreement with the founders."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2017-01-01",
-          "Text": "By 2017, Singapore Press Holdings Ltd had not achieved a Qualifying IPO for StreetSine Technology Group Pte Ltd by the target date of 31 December 2017, which triggered the option period under the Put and Call Option Agreement."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-01-01",
-          "Text": "Between 1 January 2018 and 30 June 2018, Singapore Press Holdings Ltd and the founders held reciprocal rights under the Put and Call Option Agreement to require the purchase of the founders' shares in StreetSine Technology Group Pte Ltd at specified prices, but neither party exercised these options."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-09-24",
-          "Text": "On 24 September 2018, Singapore Press Holdings Ltd informed the founders that it rejected their 22 August 2018 offer to sell their 40% stake and that it wished to continue engaging REA Group Limited to pursue a potential sale of StreetSine."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-10-22",
-          "Text": "On 22 October 2018, REA Group Limited notified Singapore Press Holdings Ltd and other stakeholders that it was withdrawing its indicative proposal to acquire StreetSine because due diligence did not support the earlier valuation assumptions."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-07-29",
-          "Text": "On 29 July 2019, Allen & Gledhill LLP, on behalf of Singapore Press Holdings Ltd, made a counter-offer to purchase the founders' 40% shareholding in StreetSine Technology Group Pte Ltd for a total of S$10 million."
-        }
-      ],
-      "Issue": "Whether a corporate parent's negotiation of buyout options, rejection of inflated founder valuations, and support for placing a financially distressed subsidiary into judicial management constitute an actionable conspiracy or minority oppression.",
-      "Rule": "A corporate parent acting through its subsidiary does not commit minority oppression or unlawful means conspiracy by strictly adhering to the agreed contractual framework (such as expiring Put and Call options) or by making rational commercial decisions. Rejecting an inflated buyout offer and supporting judicial management to address genuine insolvency are lawful business acts that do not inherently demonstrate a malicious intent to economically injure minority shareholders.",
-      "Application": "Singapore Press Holdings Ltd (SPH) structured its 60% acquisition of StreetSine through its subsidiary and signed a Put and Call Option Agreement with the founders. When no IPO occurred by the 2017 deadline, neither SPH nor the founders exercised their options to buy/sell the shares during the designated 2018 window. Subsequently, the founders attempted to sell their 40% stake to SPH at a massively inflated valuation, which SPH rejected, offering a lower counter-proposal. As StreetSine faced actual insolvency, SPH supported the board's decision to enter judicial management. The founders sued SPH, alleging it orchestrated a grand conspiracy to deliberately devalue the company, force a 'bloodless coup,' and steal their shares on the cheap.",
-      "Judicial_Reasoning_Log": "The court dismissed the claims against SPH entirely. It found that SPH adhered to the explicit contractual mechanisms agreed upon in the Share Purchase and Option Agreements. The failure of either party to exercise the Put and Call options within the defined timeframe simply extinguished those rights; it did not create an ongoing obligation for SPH to buy out the founders at their preferred valuation. The court determined that SPH's rejection of the founders' exorbitant buyout demands and its subsequent lower counter-offer were standard, lawful commercial negotiations. Furthermore, SPH's support for placing StreetSine into judicial management was a necessary response to the company's genuine insolvency, not a malicious scheme. The court highlighted that SPH's own subsequent bid to acquire the company during the independent judicial management sale process failed, completely undermining the plaintiffs' conspiracy theory that SPH orchestrated the entire process to steal the business. Finding no unlawful acts or malicious intent, SPH was not held liable."
-    },
-    "Label": "Not Liable",
-    "Leakage_Score": 0
-  },
-  {
-    "Metadata": {
-      "Case_Number": "Suit No 863 of 2019",
-      "Coram": "General Division of the High Court — Suit No 863 of 2019",
-      "Judge": "Philip Jeyaretnam J",
-      "Date": "2022-09-26",
-      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
-    },
-    "Party_Details": {
-      "Role": "Defendant",
-      "Name": "Streetsine Technology Group Pte. Ltd.",
-      "Law_Firm": "",
-      "Counsel": [],
-      "Facts": [
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2007-11-01",
-          "Text": "StreetSine Technology Group Pte Ltd, originally known as CoSine Holdings Pte Ltd, was founded in November 2007 as the holding company for StreetSine Singapore Pte Ltd, which operated a property technology business."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2014-10-31",
-          "Text": "On 31 October 2014, StreetSine Technology Group Pte Ltd became 60% owned by SPH Interactive Pte Ltd and 40% owned by founders Samuel Cranage Baker and Jeremy Lee Chuen Yang."
-        },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2014-10-31",
-          "Text": "From 31 October 2014, the board of StreetSine Technology Group Pte Ltd included three nominees of SPH Interactive Pte Ltd and two founder directors, Samuel Cranage Baker and Jeremy Lee Chuen Yang."
+          "Text": "SPH Interactive Pte. Ltd. acquired 60% of the shares in SSTG"
         },
         {
-          "Fact_Type": "CONDUCT",
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2014-10-31",
-          "Text": "Following the 31 October 2014 investment, StreetSine Technology Group Pte Ltd continued to operate a business described as third-generation property technology, including online classifieds technology, big data algorithms, market pricing mechanisms, and transaction capabilities."
+          "Text": "Shareholders’ Agreement between SPHI and the plaintiffs was executed"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-04-06",
-          "Text": "On 6 April 2016, the Singapore Institute of Surveyors and Valuers issued a press release stating that computer-generated values were not valuations in accordance with its standards, affecting StreetSine Technology Group Pte Ltd's business model."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-04-18",
-          "Text": "On 18 April 2016, StreetSine lodged a complaint with the Competition and Consumer Commission of Singapore in response to the Singapore Institute of Surveyors and Valuers' 6 April 2016 press release."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-11-10",
-          "Text": "On 10 November 2016, StreetSine Singapore Pte Ltd, the operating subsidiary of StreetSine Technology Group Pte Ltd, commenced a High Court suit against the Singapore Institute of Surveyors and Valuers and others, alleging that the institute's statements had adversely affected its business."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2017-07-01",
-          "Text": "In July 2017, StreetSine Technology Group Pte Ltd engaged Candor Advisory Partners as an external advisor to assist with bringing in a new investor and positioning the company for an IPO in three to five years."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2017-08-01",
-          "Text": "From 1 August 2017 to end-January 2018, Candor Advisory Partners advised StreetSine Technology Group Pte Ltd under a mandate to assist with investor introduction and IPO positioning."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-03-01",
-          "Text": "In March 2018, StreetSine Technology Group Pte Ltd executed a second mandate letter with Candor Advisory Partners to extend the advisory engagement until March 2019."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2018-05-23",
-          "Text": "On 23 May 2018, the boards of StreetSine Technology Group Pte Ltd and StreetSine Singapore Pte Ltd resolved to appoint Jason Lewis Barakat-Brown as CEO with effect from 1 June 2018 and to record the change in Samuel Cranage Baker's role."
+          "Text": "Engagement of Mr Jason Lewis Barakat-Brown as CEO of StreetSine was formalized"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-08-17",
-          "Text": "On 17 August 2018, StreetSine Technology Group Pte Ltd received an indicative non-binding proposal from REA Group Limited to acquire 60% to 100% of the company based on a valuation of S$85 million."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-10-22",
-          "Text": "On 22 October 2018, REA Group Limited withdrew its indicative proposal to acquire StreetSine Technology Group Pte Ltd after due diligence indicated that the earlier valuation assumptions were not supported."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2018-12-17",
-          "Text": "On 17 December 2018, the board of StreetSine Technology Group Pte Ltd approved written resolutions terminating the executive employments of founders Samuel Cranage Baker and Jeremy Lee Chuen Yang, while they remained as non-executive directors and shareholders."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-05-23",
-          "Text": "On 23 May 2019, StreetSine Technology Group Pte Ltd, through its representatives, sent letters to the founders demanding repayment of certain sums that the company stated were unauthorised and improperly paid."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-06-21",
-          "Text": "On 21 June 2019, StreetSine Technology Group Pte Ltd commenced a Magistrate's Court suit against the founders to recover approximately S$22,100 in payments."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-07-24",
-          "Text": "On 24 July 2019, StreetSine Technology Group Pte Ltd requested additional cash facilities of between S$6.58 million and S$8.58 million from its shareholders to support its operations."
+          "Text": "Termination of the plaintiffs’ employments as Executive Director and CTO was approved by the SSTG board"
         }
       ],
-      "Issue": "Whether a company, named as a nominal defendant, can be held liable for minority oppression or conspiracy when its board executes contractually authorized management terminations and places the insolvent company into judicial management.",
-      "Rule": "A company is generally a nominal defendant in a minority oppression suit. The substantive liability lies with the majority shareholders or directors whose conduct is challenged. When a company's board makes decisions—such as terminating executives upon the expiration of their contractual term, settling litigation, or applying for judicial management due to genuine insolvency—these are lawful corporate acts within the board's authority. They do not constitute oppression or an unlawful means conspiracy unless proven to be coordinated acts of bad faith intended to injure the minority.",
-      "Application": "StreetSine Technology Group Pte Ltd operated under a Shareholders' Agreement that guaranteed the founders' executive roles only until June 2018. Following this, the board voted to terminate the founders' executive positions. As the company faced severe cash-flow issues and a failed acquisition bid by REA Group, it requested further capital from its shareholders. When the founders refused to contribute (demanding instead that the CEO's pay be cut), the board placed the insolvent company into judicial management. The founders sued the company alongside the majority shareholders, alleging that the company's operational and restructuring decisions were weaponized as part of a conspiracy to devalue their equity.",
-      "Judicial_Reasoning_Log": "The court treated StreetSine Technology Group Pte Ltd purely as a nominal defendant. It determined that all actions taken by the company's board—terminating the founders' roles, restricting IT access, pursuing minor debt recovery, and filing for judicial management—were lawful, commercial decisions executed within the bounds of the Shareholders' Agreement. Specifically, the decision to enter judicial management was a necessary, legally sound response to the company's verified insolvency, ensuring court-supervised restructuring, rather than a malicious tactic to harm the founders. Because the corporate acts were valid and no substantive relief was sought directly against the company, it was not held liable for either minority oppression or conspiracy."
+      "Issue": "Whether SPHI acted oppressively by excluding the plaintiffs from management roles",
+      "Rule": "A majority shareholder is entitled to make management decisions in good faith in the best interests of the company",
+      "Application": "The decision to terminate the plaintiffs was made in good faith and was necessary for the company's best interests",
+      "Judicial_Reasoning_Log": "The court found that SPHI acted within its rights as a majority shareholder and the decision to terminate the plaintiffs was not oppressive."
     },
     "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Suit No 863 of 2019",
-      "Coram": "General Division of the High Court — Suit No 863 of 2019",
+      "Case_Number": "Suit No 863 of 2019 (Counterclaim)",
+      "Coram": "Philip Jeyaretnam J",
       "Judge": "Philip Jeyaretnam J",
       "Date": "2022-09-26",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
     },
     "Party_Details": {
-      "Role": "Defendant",
-      "Name": "Barakat-Brown, Jason Lewis",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Role": "Plaintiff",
+      "Name": "SPH Interactive Pte. Ltd.",
+      "Law_Firm": "Allen & Gledhill LLP",
+      "Counsel": [
+        "Aaron Lee Teck Chye",
+        "Xu Jiaxiong Daryl",
+        "Chong Xue Er, Cheryl",
+        "Lim Wei Ying"
+      ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-10-31",
+          "Text": "SPH Interactive Pte. Ltd. and the founders executed a Share Purchase Agreement (SPA)"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-10-31",
+          "Text": "Under Clause 8.2 of the SPA, the founders agreed to pay to SSTG or SSSPL the sum of any tax liability arising before 31 October 2014, and payments connected to that tax liability"
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2013-01-01",
-          "Text": "In 2013, while he was Managing Director & Head of Advisory of Religare Capital, an investment banking firm, Jason Lewis Barakat-Brown advised SSTG in relation to the potential acquisition of its shares."
+          "Text": "IRAS assessed an additional tax liability for the year 2013 against SSTG, resulting in a net payment by the company of $4,406.93"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2017-07-01",
-          "Text": "In July 2017, through his new firm, Candor Advisory Partners, Jason Lewis Barakat-Brown was engaged by SSTG as an external advisor to advise on its objectives of bringing in a new investor and positioning itself for an IPO in three to five years' time."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2017-08-01",
-          "Text": "From 1 August 2017 to end-January 2018, Candor Advisory Partners was first engaged to advise SSTG."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-03-01",
-          "Text": "In March 2018, a second mandate letter was executed to engage Candor Advisory Partners until March 2019."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-05-08",
-          "Text": "On 8 May 2018, Jason Lewis Barakat-Brown had a discussion with Mr Ng."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2018-05-23",
-          "Text": "On 23 May 2018, the engagement of Jason Lewis Barakat-Brown as CEO of StreetSine with effect from 1 June 2018 was formalised by resolutions of SSTG and SSSPL's boards."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2018-06-01",
-          "Text": "With effect from 1 June 2018, Jason Lewis Barakat-Brown became CEO of StreetSine."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2018-06-04",
-          "Text": "On 4 June 2018, Mr Barakat-Brown's Service Agreement was sent to him, signed by Mr Julian Tan, a director of SSTG, on behalf of StreetSine."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-06-04",
-          "Text": "On 4 June 2018, after Mr Barakat-Brown reported to Mr Baker that terms were agreed with SPH and that he had signed the Service Agreement, Mr Baker replied \"Super\"."
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-01-01",
+          "Text": "Regnum Corporate Services Pte Ltd invoiced SSTG for the sum of $6,420.00 for advice and correspondence with IRAS in connection with the 2013 tax liability"
         }
       ],
-      "Issue": "Whether a newly appointed CEO's actions in advising the board, revoking the former founders' IT access, and recommending judicial management constitute an unlawful means conspiracy or minority oppression.",
-      "Rule": "A corporate executive acting within the scope of their employment and fiduciary duties does not commit an unlawful means conspiracy or minority oppression by executing standard managerial decisions. Advising on corporate strategy, securing IT systems from terminated employees, and recommending judicial management to an insolvent company are lawful management actions. Without proof that these acts were independently unlawful and coordinated with malicious intent to injure specific shareholders, no personal liability attaches to the executive.",
-      "Application": "Jason Barakat-Brown initially served as an external advisor to StreetSine and was later appointed CEO (a move actually recommended by the plaintiff founders). After the founders' guaranteed executive tenure expired and their roles were terminated by the board, Barakat-Brown, acting as CEO, restricted their access to the company's operational IT systems and centralized control over corporate litigation. Later, facing a severe cash shortage, he presented a financial report to the board detailing the company's insolvency, which led the board to file for judicial management. The founders sued Barakat-Brown, alleging that his strategic advice and subsequent managerial actions were part of a malicious conspiracy engineered with the majority shareholder to devalue the founders' equity.",
-      "Judicial_Reasoning_Log": "The court completely exonerated Barakat-Brown, finding that his actions were entirely lawful and within the standard scope of a CEO's duties. The strategic notes he prepared were consistent with the founders' own plans and were discussed openly. His decision to revoke the founders' IT access was a standard, prudent security measure following the termination of any executive, not an act of oppression. Furthermore, his report detailing the company's insolvency was factual and essential for the board to make an informed decision regarding judicial management. The court found no evidence of malice, improper purpose, or any unlawful combination with the majority shareholders. Consequently, the claims of unlawful means conspiracy and minority oppression against Barakat-Brown were dismissed."
+      "Issue": "Whether the vendors of a company are legally responsible for pre-acquisition tax liabilities and associated corporate advisory costs pursuant to a tax indemnity clause in a share purchase agreement",
+      "Rule": "A contracting party is bound by express indemnity clauses to cover specific historical liabilities, such as pre-completion tax assessments, arising out of a corporate acquisition",
+      "Application": "The Defendants by counterclaim were bound by Clause 8.2 of the SPA to cover the 2013 tax liabilities and associated advisory costs. The Defendants by counterclaim put the Plaintiff by counterclaim to strict proof of the amounts but did not raise a positive substantive defence",
+      "Judicial_Reasoning_Log": "The court noted that during cross-examination, Mr Lee accepted the amounts claimed. The court found that SPHI had successfully proved the net additional tax paid to IRAS and the advisory costs incurred. Accordingly, the court allowed the counterclaim and ordered the founders to pay the respective sums."
     },
-    "Label": "Not Liable",
+    "Label": "Claim Allowed",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Suit No 863 of 2019",
-      "Coram": "General Division of the High Court — Suit No 863 of 2019",
+      "Case_Number": "Suit No 863 of 2019 (Counterclaim)",
+      "Coram": "Philip Jeyaretnam J",
       "Judge": "Philip Jeyaretnam J",
       "Date": "2022-09-26",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
-      "Name": "Fong Yin Leong Leslie",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Name": "Baker, Samuel Cranage",
+      "Law_Firm": "Unrepresented",
+      "Counsel": [
+        "In Person"
+      ],
       "Facts": [
         {
-          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2014-10-31",
-          "Text": "Leslie Fong was the Chairman of the Board of Directors of StreetSine Technology Group Pte Ltd and was appointed by SPHI."
+          "Text": "Samuel Cranage Baker and Jeremy Lee Chuen Yang executed a Share Purchase Agreement (SPA) with SPH Interactive Pte. Ltd"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-01-21",
-          "Text": "By 21 January 2018, Mr Baker had decided to relocate to the USA and discussed this with Mr Fong. Discussions concerning Mr Baker's replacement followed."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2018-05-23",
-          "Text": "On 23 May 2018, the engagement of Mr Barakat-Brown as CEO of StreetSine with effect from 1 June 2018 was formalised by resolutions of SSTG and SSSPL's boards. It was also formalised that Mr Baker would resign as CEO and adopt the role of Co-Founder and Executive Director with effect from 1 June 2018."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-06-04",
-          "Text": "Mr Fong responded that the Service Agreement was in all material aspects the same as an earlier draft which Mr Baker himself had provided."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2018-12-14",
-          "Text": "On 14 December 2018, Mr Fong informed the plaintiffs that there was no longer a need for them to remain in their executive roles and that their transition to non-executive roles was to be formalised as soon as possible."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2018-12-17",
-          "Text": "Written resolutions approving the termination of the plaintiffs' employments as Executive Director and CTO were approved by the SSTG board on 17 December 2018. The plaintiffs were paid three months' salary in lieu of notice in accordance with Clause 9.2 of the MAs, and remained non-executive directors of SSTG."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-10-31",
+          "Text": "Clause 8.2 of the SPA required the plaintiffs to pay SSTG or SSSPL the amount of any tax liability arising before 31 October 2014, together with payments connected to that tax liability"
         }
       ],
-      "Issue": "Whether a nominee director/chairman breaches their fiduciary duties or engages in an unlawful means conspiracy by voting to terminate the founders' executive contracts and placing the company into judicial management.",
-      "Rule": "A nominee director owes their primary fiduciary duty to the company on whose board they sit, not to the shareholder who appointed them. Participating in board decisions to terminate executive contracts upon their expiration, pursuing corporate debt recovery, and placing an insolvent company into judicial management are lawful exercises of a director's commercial judgment. Such actions do not constitute an unlawful means conspiracy or minority oppression absent proof of an independent unlawful act and a malicious intent to injure the minority shareholders.",
-      "Application": "Leslie Fong served as the Chairman of StreetSine and was a nominee director appointed by the majority shareholder, SPH. In this capacity, Fong oversaw the transition of the new CEO (a transition initiated by the founders themselves) and subsequently informed the founders that their executive roles were being terminated following the expiration of their guaranteed contractual term. Fong also participated in board decisions to settle ongoing litigation against SISV and to place the insolvent company into judicial management. The founders sued Fong personally, alleging he subordinated his fiduciary duties to the company in favor of SPH's interests, thereby participating in a malicious conspiracy to devalue their shares.",
-      "Judicial_Reasoning_Log": "The court found that Leslie Fong acted entirely within his authority and in accordance with his fiduciary duties to StreetSine. The court accepted Fong's evidence that he exercised independent judgment in all his decisions. Supporting the termination of the founders' executive roles was a rational commercial decision, particularly since the founders' guaranteed tenure had expired and the new CEO was fully operational. The board's decisions to settle the SISV litigation and seek judicial management were driven by the company's genuine financial distress and insolvency, not by a desire to harm the founders or serve SPH's ulterior motives. Because Fong's conduct consisted of lawful board-level decisions devoid of malice or improper purpose, the claims of minority oppression and unlawful means conspiracy against him were dismissed."
+      "Issue": "The issue was whether the plaintiffs were liable to pay the amount of any pre-31 October 2014 tax liability and related advisory fees under Clause 8.2 of the SPA",
+      "Rule": "Clause 8.2 of the SPA required the plaintiffs to pay SSTG or SSSPL the amount of any tax liability arising before 31 October 2014, together with payments connected to that tax liability",
+      "Application": "Clause 8.2 of the SPA covered the 2013 tax liability and the related advisory fees",
+      "Judicial_Reasoning_Log": "The court allowed SPHI's counterclaim and ordered the plaintiffs to pay SSTG the sum of $4,406.93 and SSSPL the sum of $6,420.00."
     },
-    "Label": "Not Liable",
+    "Label": "Liable",
     "Leakage_Score": 0
   }
 ]

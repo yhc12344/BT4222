@@ -2,7 +2,7 @@
   {
     "Metadata": {
       "Case_Number": "Suit No 1012 of 2018",
-      "Coram": "Ho Pak Kim Realty Co Pte Ltd (in liquidation) v Ho Soo Fong and another",
+      "Coram": "Audrey Lim J",
       "Judge": "Audrey Lim J",
       "Date": "2020-09-15",
       "Tribunal_Court": "High Court of Singapore"
@@ -10,64 +10,42 @@
     "Party_Details": {
       "Role": "Plaintiff",
       "Name": "Ho Pak Kim Realty Co Pte Ltd (in liquidation)",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "WNLEX LLC",
+      "Counsel": [
+        "Lee Ming Hui Kelvin",
+        "Ong Xin Ying Samantha"
+      ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
+          "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1984-05-01",
-          "Text": "Ho Pak Kim Realty Co Pte Ltd was incorporated in May 1984 with main activities in civil engineering and real estate development."
+          "Text": "HPK was incorporated with main activities in civil engineering and real estate development"
         },
         {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2006-01-01",
-          "Text": "In January 2006, Ho Pak Kim Realty Co Pte Ltd commenced Suit 36 of 2006 against Revitech Pte Ltd over a construction dispute, and Revitech filed a counterclaim."
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1984-05-01",
+          "Text": "D1 and D2 were directors of HPK since its incorporation"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2013-10-29",
-          "Text": "By various court decisions culminating in an assessment of damages on 29 October 2013, the net effect was that Ho Pak Kim Realty Co Pte Ltd owed Revitech Pte Ltd around S$1,585,723.08."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2017-10-01",
-          "Text": "In October 2017, Revitech Pte Ltd commenced winding up proceedings against Ho Pak Kim Realty Co Pte Ltd after non-payment of the statutory demands."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2012-08-31",
-          "Text": "As at 31 August 2012, Ho Pak Kim Realty Co Pte Ltd’s financial statement recorded an amount of S$3,590,587 as owing from related parties to the company."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-08-31",
-          "Text": "Ho Pak Kim Realty Co Pte Ltd’s balance sheet as at 31 August 2012 identified related party balances of S$3,500,074.29 due from Ho Tong Seng and S$90,513.51 due from Invest Ho Properties Pte Ltd."
+          "Text": "By 2013-10-29, HPK owed Revitech around $1,585,723.08"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2012-08-31",
-          "Text": "As at 31 August 2012, Ho Pak Kim Realty Co Pte Ltd’s only current asset was the S$3,590,587 amount owing from related parties, and it also held investments of S$38,745."
+          "Fact_Date": "2017-06-01",
+          "Text": "Revitech served statutory demands on HPK for an outstanding sum of $1.619 million"
         },
         {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-08-31",
-          "Text": "The 2012 financial statement of Ho Pak Kim Realty Co Pte Ltd was signed by both Ho Soo Fong and Ho Soo Kheng as directors."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2013-11-01",
-          "Text": "On 1 November 2013, Ho Pak Kim Realty Co Pte Ltd was reported to the Accounting and Corporate Regulatory Authority as dormant with effect from that date."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2013-01-01",
-          "Text": "From 2013 onwards, Ho Pak Kim Realty Co Pte Ltd did not prepare further annual accounts beyond the 2012 financial statements."
+          "Fact_Type": "AUTHORITY_EVENT",
+          "Fact_Date": "2017-10-27",
+          "Text": "HPK was wound up on 27 October 2017, and Don Ho was appointed as its liquidator"
         }
       ],
-      "Issue": "Whether, before liquidation, Ho Pak Kim Realty Co Pte Ltd had a recoverable related-party receivable of S$3,590,587 and whether its directors’ pre-liquidation conduct regarding that receivable and company records affected the company’s ability to satisfy Revitech Pte Ltd’s judgment debt.",
-      "Rule": "Directors must manage the company’s affairs in accordance with company law and the company’s constitution, including maintaining proper accounting records, considering the company’s financial position, and managing related-party transactions in a way that preserves the company’s assets for the benefit of the company and, when the company is in financial difficulty, with regard to the interests of its creditors.",
-      "Application": "Ho Pak Kim Realty Co Pte Ltd’s 2012 financial statements recorded a S$3,590,587 receivable from related parties, primarily Ho Tong Seng and Invest Ho Properties Pte Ltd, at a time when the company had minimal other assets and was exposed to a substantial adverse net position in litigation against Revitech Pte Ltd. After 2012, the company ceased preparing accounts, was later reported dormant, and no pre-liquidation records show collection of the related-party receivable. These circumstances meant that the company’s ability to meet Revitech Pte Ltd’s judgment depended heavily on whether that related-party balance was preserved and pursued before liquidation.",
-      "Judicial_Reasoning_Log": "Directors owe duties to act honestly and bona fide in the company’s interests, to consider creditors’ interests when the company is in a parlous financial position, to avoid conflicts of interest, and to exercise reasonable diligence. The S$3.59m sum recorded in the 2012 financial statements constitutes a genuine related-party receivable owed by entities with common directorships and shareholdings. Claims that the debtors were unrelated third parties or that the accounts contained mistakes are inconsistent with contemporaneous documents, such as letters of award and payment vouchers, which confirm the company carried out actual construction work. By failing to collect this receivable, ceasing to prepare accounts after 2012, and reporting the company as dormant shortly after an adverse judgment, the directors improperly kept related-party funds out of reach of creditors. Furthermore, deliberately discarding company documents and submitting incomplete, inconsistent statements of affairs actively obstructs the liquidation process. Claiming to be a 'sleeping' or nominal director does not absolve an individual of these duties, especially given their long involvement, remuneration, and execution of key financial documents. By failing to pursue the S$3.59m receivable while the company was insolvent, destroying records, and obstructing the liquidator, the directors breached their fiduciary duties and are jointly liable to compensate the company for the resulting loss."
+      "Issue": "Whether directors are legally responsible for failing to collect debts owed to a company in liquidation",
+      "Rule": "Directors must act in the best interests of the company and its creditors, especially when the company is insolvent",
+      "Application": "The Defendants did not collect the $3.59 million debt owed to HPK by the related parties",
+      "Judicial_Reasoning_Log": "The court found that the Defendants breached their duties by not pursuing the debt, which was a significant asset of the company, and acted against the interests of the company's creditors."
     },
     "Label": "Claim Allowed",
     "Leakage_Score": 0
@@ -75,7 +53,7 @@
   {
     "Metadata": {
       "Case_Number": "Suit No 1012 of 2018",
-      "Coram": "Ho Pak Kim Realty Co Pte Ltd (in liquidation) v Ho Soo Fong and another",
+      "Coram": "Audrey Lim J",
       "Judge": "Audrey Lim J",
       "Date": "2020-09-15",
       "Tribunal_Court": "High Court of Singapore"
@@ -83,89 +61,32 @@
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Ho Soo Fong",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Dodwell & Co LLC",
+      "Counsel": [
+        "Alfred Dodwell",
+        "Yap Pui Yee"
+      ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1984-05-01",
-          "Text": "Since the incorporation of Ho Pak Kim Realty Co Pte Ltd in May 1984, Ho Soo Fong has been a director of the company."
-        },
-        {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1984-05-01",
-          "Text": "From incorporation, Ho Soo Fong held 75% of the shares in Ho Pak Kim Realty Co Pte Ltd."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1986-01-01",
-          "Text": "In 1986, Ho Soo Fong was involved in setting up Invest Ho Properties Pte Ltd."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1989-01-01",
-          "Text": "In 1989, Ho Soo Fong was involved in setting up Ho Tong Seng."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2006-08-28",
-          "Text": "On 28 August 2006, Invest Ho Properties Pte Ltd issued a letter of award to Ho Pak Kim Realty Co Pte Ltd for the construction of cluster houses at Daisy Avenue for a contract sum of about S$2.8 million."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2006-08-28",
-          "Text": "The 28 August 2006 Daisy Avenue letter of award identified Ho Pak Kim Realty Co Pte Ltd as the main contractor engaged by Invest Ho Properties Pte Ltd."
+          "Text": "Ho Soo Fong was a director of HPK since its incorporation"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2007-11-14",
-          "Text": "Between 14 November 2007 and 24 December 2007, Invest Ho Properties Pte Ltd issued ten payment vouchers to Ho Pak Kim Realty Co Pte Ltd described as part payments for the Daisy Avenue project, totalling approximately S$327,000."
+          "Fact_Date": "2012-01-01",
+          "Text": "Ho Soo Fong signed HPK's 2012 Financial Statement, which showed that related parties owed HPK $3,590,587 as at 2012-08-31"
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2007-11-17",
-          "Text": "On 17 November 2007, a letter of award was issued by Ho Soo Fong and Ho Soo Kheng to Ho Pak Kim Realty Co Pte Ltd for the construction of two bungalows at Braddell Road."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2007-11-17",
-          "Text": "The 17 November 2007 Braddell Road letter of award identified Ho Pak Kim Realty Co Pte Ltd as the main contractor for the construction of two bungalows for Ho Soo Fong and Ho Soo Kheng."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008-08-25",
-          "Text": "On 25 August 2008, Ho Tong Seng issued a letter of award to Ho Pak Kim Realty Co Pte Ltd for the construction of an apartment block at Rosyth Road."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2008-08-25",
-          "Text": "The 25 August 2008 Rosyth Road letter of award identified Ho Pak Kim Realty Co Pte Ltd as the principal subcontractor engaged by Ho Tong Seng."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-08-31",
-          "Text": "As at 31 August 2012, the financial statements of Ho Pak Kim Realty Co Pte Ltd recorded an amount of S$3,590,587 owing from related parties and total liabilities of approximately S$2.9 million."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2012-08-31",
-          "Text": "As at 31 August 2012, Ho Pak Kim Realty Co Pte Ltd had no cash and cash equivalents recorded in its financial statements, and its total equity excluding the S$3,590,587 related-party receivable was close to zero."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2013-01-01",
-          "Text": "Ho Pak Kim Realty Co Pte Ltd ceased preparing annual accounts after the 2012 financial year."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2013-11-01",
-          "Text": "In or around November 2013, Ho Pak Kim Realty Co Pte Ltd was reported as dormant to the Accounting and Corporate Regulatory Authority with effect from 1 November 2013."
+          "Fact_Date": "2016-12-21",
+          "Text": "Around 2016-12-21, Ho Soo Fong instructed workers to discard HPK's documents after CAD seized some documents"
         }
       ],
-      "Issue": "Whether, before the commencement of the liquidation, Ho Soo Fong, as a director and majority shareholder of Ho Pak Kim Realty Co Pte Ltd and related entities, managed related-party construction projects, financial records, and the S$3,590,587 related-party receivable in a way that preserved or diminished the company’s assets available to meet Revitech Pte Ltd’s judgment debt.",
-      "Rule": "Company directors must manage company projects and finances, including related-party transactions, in accordance with statutory and common law standards, to maintain accurate financial records, and to take reasonable steps to safeguard and realise company receivables, particularly when the company has significant liabilities and limited assets.",
-      "Application": "From 2006 onwards, Ho Soo Fong arranged for Ho Pak Kim Realty Co Pte Ltd to undertake construction projects for Invest Ho Properties Pte Ltd, Ho Tong Seng, and for himself and his brother, with letters of award and payment vouchers documenting these engagements. By 31 August 2012, the company’s financial statements, signed by him, showed that almost all of the company’s assets consisted of a S$3,590,587 receivable from related parties, while the company had substantial liabilities and no recorded cash. After the adverse net position against Revitech was established in 2013, he did not cause the company to prepare further accounts, and the company was reported dormant shortly thereafter. In 2016, he directed workers to discard older records of the company and related entities. Following the winding up order, he submitted three inconsistent statements of affairs that did not clearly identify or substantiate the S$3,590,587 receivable or provide supporting documentation. These pre-dispute actions and omissions affected the visibility and potential realisation of the related-party receivable that could have been used to address the judgment debt.",
-      "Judicial_Reasoning_Log": "A director who acts as the driving force behind a company and orchestrates related-party construction projects owes a duty to safeguard the company's receivables. The S$3,590,587 related-party receivable recorded in the 2012 financial statements represented a genuine asset and the primary source of potential recovery for creditors. When the company entered a parlous financial position with substantial liabilities and minimal other assets, an honest and diligent director must take steps to pursue and collect such receivables. Failing to collect the debt, ceasing the preparation of accounts, reporting the company dormant following an adverse judgment, and orchestrating the destruction of older corporate records demonstrate a clear intent to keep related-party funds out of reach of creditors and undermine the liquidator’s ability to reconstruct transactions. Submitting incomplete and inconsistent statements of affairs further breaches the duty to cooperate with the liquidation process. Such actions constitute a breach of the duties to act honestly, consider creditors’ interests, avoid conflicts of interest, and exercise reasonable diligence, rendering the director liable to compensate the company for the unrecovered S$3,590,587."
+      "Issue": "Whether a director is legally responsible for failing to act in the company's best interests by not collecting debts",
+      "Rule": "Directors must exercise reasonable diligence and act in the best interests of the company and its creditors",
+      "Application": "He was unaware of the company's financial situation and relied on others for management. the Defendant's inaction led to the company's inability to pay its creditors",
+      "Judicial_Reasoning_Log": "The court held that the Defendant failed to exercise reasonable diligence and did not act in the best interests of the company, contributing to its financial difficulties."
     },
     "Label": "Liable",
     "Leakage_Score": 0
@@ -173,7 +94,7 @@
   {
     "Metadata": {
       "Case_Number": "Suit No 1012 of 2018",
-      "Coram": "Ho Pak Kim Realty Co Pte Ltd (in liquidation) v Ho Soo Fong and another",
+      "Coram": "Audrey Lim J",
       "Judge": "Audrey Lim J",
       "Date": "2020-09-15",
       "Tribunal_Court": "High Court of Singapore"
@@ -181,99 +102,27 @@
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Ho Soo Kheng",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Covenant Chambers LLC",
+      "Counsel": [
+        "Ronald Wong Jian Jie",
+        "Lopez Stacey Millicent Xue Mei"
+      ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1984-05-01",
-          "Text": "Since the incorporation of Ho Pak Kim Realty Co Pte Ltd in May 1984, Ho Soo Kheng has been a director of the company."
-        },
-        {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1984-05-01",
-          "Text": "From incorporation, Ho Soo Kheng held 25% of the shares in Ho Pak Kim Realty Co Pte Ltd."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1984-05-01",
-          "Text": "From 1984 until about 1994, Ho Soo Kheng worked full time for Ho Pak Kim Realty Co Pte Ltd, supervising workers on construction sites, transporting them, and arranging repair of construction equipment."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1994-01-01",
-          "Text": "From about 1994 until around 2002, Ho Soo Kheng worked part-time for Ho Pak Kim Realty Co Pte Ltd while remaining a director."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1986-01-01",
-          "Text": "In 1986, Ho Soo Kheng allowed his name to be used in the incorporation of Invest Ho Properties Pte Ltd and became a shareholder and director of that company."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1989-01-01",
-          "Text": "In 1989, Ho Soo Kheng allowed his name to be used in the incorporation of Ho Tong Seng and became a shareholder and director of that company."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1996-01-01",
-          "Text": "In January 1996, Ho Soo Kheng resigned as a director of Ho Tong Seng but remained a shareholder."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2002-01-01",
-          "Text": "Around 2002, Ho Soo Kheng stopped working on a day-to-day basis for Ho Pak Kim Realty Co Pte Ltd but continued to hold office as a director."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2006-08-28",
-          "Text": "On 28 August 2006, as a director of Invest Ho Properties Pte Ltd, Ho Soo Kheng signed the Daisy Avenue letter of award appointing Ho Pak Kim Realty Co Pte Ltd as main contractor for a cluster housing project."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008-08-25",
-          "Text": "On 25 August 2008, as a director of Ho Pak Kim Realty Co Pte Ltd, Ho Soo Kheng signed the Rosyth Road letter of award under which Ho Tong Seng engaged Ho Pak Kim Realty Co Pte Ltd as principal subcontractor."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2007-01-01",
-          "Text": "By 2007, Ho Soo Kheng became aware, through relatives working at Ho Pak Kim Realty Co Pte Ltd, that the company was involved in litigation against Revitech Pte Ltd."
+          "Text": "Ho Soo Kheng was a director of HPK since its incorporation"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2006-01-01",
-          "Text": "A spreadsheet prepared for Ho Pak Kim Realty Co Pte Ltd recorded that in 2006, Ho Soo Kheng received salary of S$23,352 and director’s fees of S$50,000."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2006-01-01",
-          "Text": "From 2006 to 2011, records for Ho Pak Kim Realty Co Pte Ltd showed that Ho Soo Kheng continued to receive annual salary payments, including a salary of S$100,000 in 2010."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-08-31",
-          "Text": "As at 31 August 2012, the financial statements of Ho Pak Kim Realty Co Pte Ltd, signed by Ho Soo Kheng, recorded an amount of S$3,590,587 owing from related parties and identified Ho Tong Seng and Invest Ho Properties Pte Ltd as related parties with outstanding balances."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-08-31",
-          "Text": "On or about 31 August 2012, Ho Soo Kheng signed the 2012 financial statements of Ho Pak Kim Realty Co Pte Ltd in his capacity as director."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2013-01-01",
-          "Text": "By 2013, Ho Soo Kheng was aware that Ho Pak Kim Realty Co Pte Ltd had been involved in prolonged litigation with Revitech Pte Ltd, which resulted in a net amount being payable by the company."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2017-10-27",
-          "Text": "On 27 October 2017, following the winding up order against Ho Pak Kim Realty Co Pte Ltd, the liquidator sent a letter to Ho Soo Kheng requesting submission of a statement of affairs and delivery of company books and records."
+          "Fact_Date": "2012-01-01",
+          "Text": "D2 signed HPK's 2012 Financial Statement, which showed an amount owing from related parties of $3.59 million as at 31 August 2012"
         }
       ],
-      "Issue": "Whether Ho Soo Kheng’s role as director and shareholder of Ho Pak Kim Realty Co Pte Ltd and related entities, his involvement in related-party construction projects, his knowledge of the company’s financial position, and his handling of financial records affected the preservation and potential recovery of the S$3,590,587 related-party receivable.",
-      "Rule": "All company directors, including non-executive or less active directors, must take reasonable steps to inform themselves about the company’s business, assets, and liabilities, to understand key financial statements they sign, and to monitor management decisions that may affect significant receivables and the company’s ability to meet its obligations.",
-      "Application": "Ho Soo Kheng worked in Ho Pak Kim Realty Co Pte Ltd for many years, later continued as a director and shareholder, and also held positions in Ho Tong Seng and Invest Ho Properties Pte Ltd. He signed letters of award that engaged Ho Pak Kim Realty Co Pte Ltd for the Daisy Avenue and Rosyth Road projects and signed the 2012 financial statements that recorded a S$3,590,587 receivable from related parties, primarily Ho Tong Seng and Invest Ho Properties Pte Ltd, at a time when the company had substantial liabilities and minimal other assets. He was aware of the long-running litigation and its financial implications for the company. Despite this, there is no record of him initiating or directing steps before liquidation to clarify, document, or pursue the related-party receivable, or to ensure that company records were preserved and that accurate information would be available to address the judgment debt. His continued remuneration and participation in signing key documents indicate an ongoing role in the company’s affairs during the period when the related-party receivable and the litigation exposure were most significant.",
-      "Judicial_Reasoning_Log": "A formally appointed director cannot rely on a claimed status as a 'sleeping' or nominal director to evade responsibility for managing a company's key assets. A director who works in the company for many years, supervises operations, receives substantial remuneration, and executes key documents—including letters of award and financial statements—bears an active fiduciary obligation. Even non-executive directors must meet an objective standard of care, which requires taking reasonable steps to guide and monitor management and understand financial information. By signing the 2012 financial statements, which identified the S$3,590,587 related-party receivable as the sole current asset against significant liabilities, the director either knew or ought to have known of the company’s parlous financial position. Failing to make basic inquiries to recover the receivable, failing to submit a statement of affairs upon winding up, and providing redacted financial records to the liquidator constitute a failure to exercise reasonable diligence and a breach of the duty to act honestly and avoid conflicts of interest. Consequently, the director is jointly liable for the loss of the receivable and the resulting shortfall to the company and its creditors."
+      "Issue": "Whether a director is legally responsible for failing to act in the company's best interests by not collecting debts",
+      "Rule": "Directors must exercise reasonable diligence and act in the best interests of the company and its creditors",
+      "Application": "He was a silent partner and unaware of the company's financial situation. the Defendant's inaction led to the company's inability to pay its creditors",
+      "Judicial_Reasoning_Log": "The court found that the Defendant failed to exercise reasonable diligence and did not act in the best interests of the company, contributing to its financial difficulties."
     },
     "Label": "Liable",
     "Leakage_Score": 0

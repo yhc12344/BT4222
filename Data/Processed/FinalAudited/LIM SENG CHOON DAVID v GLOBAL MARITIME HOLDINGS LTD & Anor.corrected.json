@@ -1,11 +1,11 @@
 [
   {
     "Metadata": {
-      "Case_Number": "HC/Suit No 1236 of 2015; HC/Suit No 239 of 2015",
+      "Case_Number": "Suit No 1236 of 2015",
       "Coram": "Choo Han Teck J",
-      "Judge": "Choo Han Teck",
+      "Judge": "Choo Han Teck J",
       "Date": "2018-02-01",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Plaintiff",
@@ -17,86 +17,51 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2014-01-01",
-          "Text": "Lim Seng Choon David was an employee of Global Maritime Holdings Ltd and a director of Global Maritime Consultancy Pte Ltd."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2012-06-01",
-          "Text": "A property in Woodlands belonging to Lim Seng Choon David and his wife was leased to Global Maritime Consultancy Pte Ltd under a tenancy agreement dated 1 June 2012 with a 24-month term ending 30 June 2014 and a monthly rental of $2,700."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2013-02-28",
-          "Text": "On 28 February 2013, a letter issued on behalf of Global Maritime Consultancy Pte Ltd to the wife of Lim Seng Choon David stated that the existing lease of the Woodlands Property would be terminated with effect from 28 February 2013."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2013-02-28",
-          "Text": "On 28 February 2013, Global Maritime Consultancy Pte Ltd entered into a fresh lease for the Woodlands Property with the wife of Lim Seng Choon David as landlord at an increased rent of $2,800 per month with effect from 1 March 2013, and Lim Seng Choon David signed the tenancy agreement on behalf of the company."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2013-02-28",
-          "Text": "Around 28 February 2013, Global Maritime Consultancy Pte Ltd paid $2,996 in commission to PropNex for arranging the new lease of the Woodlands Property."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2014-01-01",
-          "Text": "In 2014, Lim Seng Choon David made a total of eight trips to Hong Kong and China that were charged to Global Maritime Consultancy Pte Ltd as business travel expenses."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2014-11-24",
-          "Text": "On 24 November 2014, Lim Seng Choon David met with Gary Anthony Hogg, a director of Global Maritime Holdings Ltd and Global Maritime Consultancy Pte Ltd, and was asked to retire early."
-        },
-        {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2014-11-24",
-          "Text": "On the afternoon of 24 November 2014, after the meeting about his early retirement, Lim Seng Choon David sent an email to Gary Anthony Hogg stating that he was entitled to 'all dues plus 6 months’ salary'."
+          "Text": "Meeting between Lim Seng Choon David and Mr Gary Anthony Hogg where early retirement was discussed."
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2014-11-24",
-          "Text": "On 24 November 2014, discussions took place between Lim Seng Choon David and Gary Anthony Hogg regarding the immediate termination of his employment, possible compensation including six months’ salary, payment for unutilised holiday leave and 'earned leaves', a 2013 bonus, transfer of his shares in Global Maritime Group AS at an open market value, repayment of an outstanding balance under a S$500,000 loan agreement, and a six-month non-competition period."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2015-01-20",
-          "Text": "On 20 January 2015, Lim Seng Choon David sent an email to Gary Anthony Hogg setting out what he wanted in exchange for his retirement, including terms on compensation."
+          "Text": "stated oral agreement made between Lim Seng Choon David and the defendants regarding early retirement terms."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2014-11-24",
-          "Text": "As at 24 November 2014, Global Maritime Consultancy Pte Ltd maintained leave records for Lim Seng Choon David that tracked unutilised holiday leave entitlement and 'earned leaves' accumulated up to that date."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2014-11-01",
-          "Text": "In November 2014, after discussions about his retirement, Lim Seng Choon David travelled to Hong Kong to collect a gold bar and a gold business card stand on behalf of Global Maritime Consultancy Pte Ltd, and the trip expenses were claimed from the company."
+          "Text": "Lim Seng Choon David claims entitlement to $273,550 and $188,100 for unutilised holiday or leave entitlement and 'earned leaves'."
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2014-11-01",
-          "Text": "In November 2014, Global Maritime Consultancy Pte Ltd incurred costs for commissioning a gold bar described as a 10-year long service award and a gold business card stand described as a 5-year long service award, and the only recipients were Lim Seng Choon David and his son respectively."
+          "Fact_Date": "2014-11-24",
+          "Text": "Claim for bonus of $30,692 for the year 2013."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-11-24",
+          "Text": "Claim for $228,000 for six months’ salary."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-11-24",
+          "Text": "Claim for purchase of shares in Global Maritime Group at the price of Norwegian Kroner 249,899.70."
         }
       ],
-      "Issue": "Whether an executive's early retirement discussions resulted in a binding oral agreement, and whether his prior conduct regarding company expenses and related-party leases constituted a breach of director's duties.",
-      "Rule": "An oral contract is formed only when parties manifest mutual assent to sufficiently certain terms with an intention to create legal relations. Directors of companies must ensure that company resources are used for proper corporate purposes, that related-party transactions are properly disclosed, and that expense claims align with the company’s commercial interests and internal authorization processes.",
-      "Application": "The dispute concerns an unwritten retirement package and the validity of a director's self-approval of travel expenses and property leases involving his spouse. The legal tension focuses on whether these actions constituted authorized benefits or a breach of directorial duty.",
-      "Judicial_Reasoning_Log": "The court found that no binding oral agreement was formed during the retirement discussions, as the parties were merely negotiating and material terms remained unsettled. Regarding the executive's conduct, the court determined he breached his fiduciary duties to act honestly and avoid conflicts of interest. The overseas trips, personal expense claims, custom gold items, and related-party leases were found to be unauthorized, self-serving, and contrary to the company's interests. The executive's claims for the retirement package were dismissed, and he was held liable to reimburse the company for the wrongfully claimed expenses and associated losses."
+      "Issue": "Whether an oral agreement was formed between the plaintiff and the defendants regarding early retirement terms",
+      "Rule": "An oral agreement requires clear evidence of mutual intent to create legal obligations",
+      "Application": "A binding oral agreement was reached during the meeting on 24 November 2014, establishing the terms for early retirement.",
+      "Judicial_Reasoning_Log": "The court found no evidence of a binding oral agreement, as the discussions were deemed to be negotiations without mutual intent to create legal obligations."
     },
     "Label": "Claim Dismissed",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "HC/Suit No 1236 of 2015; HC/Suit No 239 of 2015",
+      "Case_Number": "Suit No 1236 of 2015",
       "Coram": "Choo Han Teck J",
-      "Judge": "Choo Han Teck",
+      "Judge": "Choo Han Teck J",
       "Date": "2018-02-01",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
@@ -108,71 +73,36 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2014-01-01",
-          "Text": "The two companies were in the business of providing marine, offshore and engineering consultancy services."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2014-01-01",
-          "Text": "The second company was a wholly-owned subsidiary of Global Maritime Holdings Ltd."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2014-01-01",
-          "Text": "Lim Seng Choon David was an employee of Global Maritime Holdings Ltd and a director of the subsidiary company."
-        },
-        {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2014-01-01",
-          "Text": "Mr Gary Anthony Hogg was a director of both companies."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2014-11-24",
-          "Text": "On 24 November 2014, Lim Seng Choon David met with Mr Gary Anthony Hogg and was asked to retire early."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-11-24",
-          "Text": "The terms discussed at the 24 November 2014 meeting included immediate termination of employment, waiver of one month's notice, payment for unutilised leave, a 2013 bonus, transfer of shares, repayment of an outstanding loan balance, and six months' salary in consideration of a six months' non-competition period."
+          "Text": "Global Maritime Holdings Ltd is the parent company of Global Maritime Consultancy Pte Ltd."
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2014-11-24",
-          "Text": "On the afternoon of 24 November 2014, Lim Seng Choon David emailed Mr Hogg stating that he was entitled to 'all dues plus 6 months' salary'."
+          "Text": "Mr Gary Anthony Hogg, director of Global Maritime Holdings Ltd, met with Lim Seng Choon David to discuss early retirement"
         },
         {
           "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2014-11-25",
-          "Text": "Shortly after his departure, a draft Separation Agreement and a draft Sale and Purchase Agreement for the shares were circulated to Lim Seng Choon David."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-11-25",
-          "Text": "The draft Separation Agreement indicated a 12-month non-competition period."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2014-11-25",
-          "Text": "After 24 November 2014, there was subsequent email correspondence and draft agreements exchanged between the parties."
+          "Fact_Date": "2014-11-24",
+          "Text": "Draft Separation Agreement and Share Purchase Agreement circulated to Lim Seng Choon David."
         }
       ],
-      "Issue": "Whether a holding company entered into a binding oral contract with its employee during an initial meeting regarding an early retirement package, or if the discussions were merely preliminary negotiations.",
-      "Rule": "A company becomes bound by an oral contract when its authorized representatives manifest agreement to definite terms with an intention to create legal relations. In employment exit situations, negotiations, emails, and subsequent draft agreements are assessed to determine whether they reflect a concluded agreement or ongoing discussions.",
-      "Application": "The holding company explored terms for the immediate retirement of its employee. The initial meeting was followed by an email from the employee asserting his expectations, and the company subsequently circulated a draft Separation Agreement containing new material terms, such as a 12-month non-compete clause instead of a 6-month clause. These subsequent drafts and ongoing correspondence demonstrated that the parties were still negotiating the material elements of the severance package.",
-      "Judicial_Reasoning_Log": "The court determined that the 24 November 2014 discussions were subject to contract and that no binding oral agreement was concluded. The lack of detailed terms in the immediate email follow-up and the circulation of formal draft agreements demonstrated that the parties did not intend to be legally bound at the initial meeting. The claims asserting a binding oral agreement for the severance package were dismissed."
+      "Issue": "Oral agreement for early retirement",
+      "Rule": "A company is bound by an agreement only if there is clear evidence of mutual consent to the terms",
+      "Application": "The discussions regarding early retirement were strictly negotiations subject to contract, and no binding oral agreement was ever formed.",
+      "Judicial_Reasoning_Log": "The court concluded that the evidence did not support the existence of a binding oral agreement, as the discussions were considered negotiations."
     },
     "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "HC/Suit No 1236 of 2015; HC/Suit No 239 of 2015",
+      "Case_Number": "Suit No 1236 of 2015",
       "Coram": "Choo Han Teck J",
-      "Judge": "Choo Han Teck",
+      "Judge": "Choo Han Teck J",
       "Date": "2018-02-01",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
@@ -184,142 +114,129 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2018-01-01",
-          "Text": "Global Maritime Consultancy Pte Ltd was in the business of providing marine, offshore and engineering consultancy services."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2018-01-01",
-          "Text": "Global Maritime Consultancy Pte Ltd was a wholly-owned subsidiary of Global Maritime Holdings Ltd."
-        },
-        {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2018-01-01",
-          "Text": "Lim Seng Choon David was a director of Global Maritime Consultancy Pte Ltd."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2018-01-01",
-          "Text": "Gary Anthony Hogg was a director of Global Maritime Consultancy Pte Ltd."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2018-01-01",
-          "Text": "Jan Vatsvaag was a director and regional superior within Global Maritime Consultancy Pte Ltd at the material time."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2018-01-01",
-          "Text": "Anna Keen was the regional manager of Global Maritime Consultancy Pte Ltd at the material time."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2018-01-01",
-          "Text": "Tiffany Liu Yao was the accountant of Global Maritime Consultancy Pte Ltd at the material time."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2018-01-01",
-          "Text": "Global Maritime Consultancy Pte Ltd had a China office with a managing director responsible for managing Chinese clients."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-11-24",
-          "Text": "At the 24 November 2014 meeting, discussions covered immediate termination of employment, waiver of one month's notice, payment for unutilised holiday leave, a 2013 bonus, repayment of an outstanding loan balance, six months' salary, a non-competition period, and transfer of shares."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2014-11-24",
-          "Text": "Global Maritime Consultancy Pte Ltd owed an outstanding balance under a S$500,000 loan agreement to the director as at 24 November 2014."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2013-01-01",
-          "Text": "Global Maritime Consultancy Pte Ltd identified a bonus amount of $30,692 for the year 2013."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2014-11-24",
-          "Text": "Discussions included potential payments for unutilised holiday leave entitlement and 'earned leaves' accumulated as at 24 November 2014, to be calculated based on leave records."
-        },
-        {
-          "Fact_Type": "CONDUCT",
           "Fact_Date": "2014-01-01",
-          "Text": "In 2014, Global Maritime Consultancy Pte Ltd recorded eight trips by the director to Hong Kong and China as business travel expenses."
+          "Text": "Global Maritime Consultancy Pte Ltd is a wholly-owned subsidiary of Global Maritime Holdings Ltd"
         },
         {
           "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2014-01-01",
-          "Text": "In 2014, email correspondence from director Jan Vatsvaag informed the director that he should not venture into China because matters there were to be dealt with by the managing director of the China office."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2014-01-01",
-          "Text": "Chinese clients of Global Maritime Consultancy Pte Ltd were managed by the China office, and there was no operational need for the Singapore director to visit China or Hong Kong to cultivate business."
+          "Fact_Date": "2014-11-24",
+          "Text": "Mr Gary Anthony Hogg, director of Global Maritime Consultancy Pte Ltd, met with Lim Seng Choon David to discuss early retirement"
         },
         {
           "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2014-01-01",
-          "Text": "Global Maritime Consultancy Pte Ltd used an expense claim process in which its accountant checked that claimed amounts matched receipts, though small purchases might not require receipts."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2014-01-01",
-          "Text": "Within Global Maritime Consultancy Pte Ltd, expense claims submitted by the director were approved by himself in line with the internal practice."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2014-01-01",
-          "Text": "Global Maritime Consultancy Pte Ltd processed and paid various overseas travel expense claims submitted by the director, including claims for accommodation and food on non-working days, a trip to Vietnam during the Chinese New Year period when the office was closed, and two family vacations."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2012-01-01",
-          "Text": "Over several years, Global Maritime Consultancy Pte Ltd reimbursed personal expenses claimed by the director, including a home telecommunications plan, residential air conditioning servicing, personal vehicle road tax and petrol, and personal toiletries."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-06-01",
-          "Text": "On 1 June 2012, the company entered into a tenancy agreement for a property with the director's wife as landlord for 24 months ending 30 June 2014 at a monthly rental of $2,700."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2013-02-28",
-          "Text": "Seven months into the lease, the director issued a letter on behalf of the company to his wife, terminating the lease with effect from 28 February 2013."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2013-02-28",
-          "Text": "Immediately after the termination, a fresh lease for the same property was entered into on 28 February 2013 with the director's wife as landlord at an increased rent of $2,800 a month with effect from 1 March 2013, which the director signed on behalf of the company."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2013-02-28",
-          "Text": "In connection with the new lease commencing 1 March 2013, Global Maritime Consultancy Pte Ltd paid $2,996 in commission to a real estate agency."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2014-11-01",
-          "Text": "In November 2014, Global Maritime Consultancy Pte Ltd incurred costs for commissioning a gold bar described as a 10-year long service award and a gold business card stand described as a 5-year long service award."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2014-11-01",
-          "Text": "The idea of commissioning the gold bar and gold business card stand was initiated by the director and then implemented within Global Maritime Consultancy Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2014-11-01",
-          "Text": "The only recipients of the commissioned gold bar and gold business card stand within the company were the director and his son, respectively, and no other employees before or after received similar gold products for long service."
+          "Fact_Date": "2014-11-24",
+          "Text": "A draft Separation Agreement and a draft Sale and Purchase Agreement for the shares were sent to Lim Seng Choon David shortly after his departure"
         }
       ],
-      "Issue": "Whether a subsidiary company is bound by an alleged oral retirement agreement, and whether its director breached fiduciary duties by approving his own personal expenses, related-party leases, and unauthorized benefits.",
-      "Rule": "A company is bound by an oral agreement only if its authorized representatives manifest assent to clear and definite terms. Company directors have a strict fiduciary duty to ensure that company funds are applied for corporate purposes, to properly disclose related-party transactions, and to avoid self-dealing in expense approvals and contractual arrangements.",
-      "Application": "The company engaged in negotiations for an executive's retirement package that were never formalized into a signed contract. During his tenure, the director authorized numerous company payments for personal and family benefit, including luxury items, family vacations, and daily personal living expenses. Furthermore, he terminated a company property lease to his wife only to immediately re-sign a new lease for the same property at an increased rental rate, all without independent corporate approval or full disclosure.",
-      "Judicial_Reasoning_Log": "The court found that no binding oral agreement existed regarding the retirement package, thereby dismissing the claims for the severance terms. On the issue of the director's conduct, the court held that the director breached his fiduciary duties to act honestly and avoid conflicts of interest. The approval of his own travel, personal expenses, custom gold products, and related-party leases constituted clear breaches of trust. The court ordered the director to reimburse the company for the wrongfully claimed expenses, real estate commissions, and any damages arising from the self-interested related-party transactions."
+      "Issue": "Oral agreement for early retirement",
+      "Rule": "A company is bound by an agreement only if there is clear evidence of mutual consent to the terms",
+      "Application": "The discussions regarding early retirement were strictly negotiations subject to contract, and no binding oral agreement was ever formed.",
+      "Judicial_Reasoning_Log": "The court concluded that the evidence did not support the existence of a binding oral agreement, as the discussions were considered negotiations."
     },
     "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 239 of 2015 (Counterclaim)",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck J",
+      "Date": "2018-02-01",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Global Maritime Consultancy Pte Ltd",
+      "Law_Firm": "Dentons Rodyk & Davidson LLP",
+      "Counsel": [
+        "Audrey Chiang Ju Hua",
+        "Nerissa Tan Yin Shi"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "Lim Seng Choon David made trips to Hong Kong and China at the company's expense without business operations there"
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "Claims for personal expenses such as passport renewal and home internet were made by Lim Seng Choon David"
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "Lim Seng Choon David issued cheques to his wife for cleaning services without proper contracts"
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "Lim Seng Choon David authorised payments for used furniture and appliances from his wife"
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "Lease agreements were entered into with properties owned by Lim Seng Choon David's family"
+        }
+      ],
+      "Issue": "Whether the director contravened his management obligations by engaging in transactions that presented conflicts of interest",
+      "Rule": "Directors must avoid conflicts of interest and act in the best interests of the company",
+      "Application": "The director breached his fiduciary duties by engaging in unauthorized transactions and claiming personal expenses that presented clear conflicts of interest.",
+      "Judicial_Reasoning_Log": "The court found that the defendant-in-counterclaim breached his duties by engaging in transactions that presented conflicts of interest and were not in the company's best interests."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 239 of 2015 (Counterclaim)",
+      "Coram": "Choo Han Teck J",
+      "Judge": "Choo Han Teck J",
+      "Date": "2018-02-01",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lim Seng Choon David",
+      "Law_Firm": "Central Chambers Law Corporation",
+      "Counsel": [
+        "Twang Kern Zern",
+        "Lam Jianhao Mark"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "Lim Seng Choon David made trips to Hong Kong and China at the company's expense without business operations there."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-01-01",
+          "Text": "Claims for personal expenses such as passport renewal and home internet were made by Lim Seng Choon David."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "Lim Seng Choon David issued cheques to his wife for cleaning services without proper contracts."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "Lim Seng Choon David authorised payments for used furniture and appliances from his wife."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2014-01-01",
+          "Text": "Lease agreements were entered into with properties owned by Lim Seng Choon David's family."
+        }
+      ],
+      "Issue": "Whether the director contravened his management obligations by engaging in transactions that presented conflicts of interest",
+      "Rule": "Directors must avoid conflicts of interest and act in the best interests of the company",
+      "Application": "The transactions and expense claims were properly authorized and executed in the best interests of the company, negating any breach of fiduciary duties.",
+      "Judicial_Reasoning_Log": "The court found that the defendant-in-counterclaim breached his duties by engaging in transactions that presented conflicts of interest and were not in the company's best interests."
+    },
+    "Label": "Liable",
     "Leakage_Score": 0
   }
 ]

@@ -3,9 +3,9 @@
     "Metadata": {
       "Case_Number": "Suit 459/2003",
       "Coram": "Lai Siu Chiu J",
-      "Judge": "Lai Siu Chiu",
+      "Judge": "Lai Siu Chiu J",
       "Date": "2004-08-31",
-      "Tribunal_Court": "High Court"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Plaintiff",
@@ -18,483 +18,143 @@
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "1991-01-24",
-          "Text": "DM Divers Technics Pte Ltd was incorporated in Singapore on 24 January 1991 with its registered address at 14 Pioneer Road, Singapore 628425, and its main business was commercial diving and underwater tasks for oil refineries and the marine industry including shipyards."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1991-01-24",
-          "Text": "Before its incorporation, the business of DM Divers Technics Pte Ltd was carried on as a sole proprietorship under the name DM Divers owned by Tee Chin Hock."
+          "Text": "DM Divers Technics Pte Ltd was incorporated in Singapore on 24 January 1991 with its registered address at 14 Pioneer Road, Singapore 628425"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1991-01-24",
-          "Text": "From the incorporation of DM Divers Technics Pte Ltd, Tee Chin Hock acted as managing director until the year 2000."
+          "Text": "From incorporation, the company carried on commercial diving and underwater tasks for oil refineries and the marine industry, including shipyards"
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1991-01-24",
+          "Text": "Prior to incorporation, the business was operated as a sole proprietorship under the name DM Divers owned by Tee Chin Hock"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1991-01-24",
-          "Text": "From incorporation, the directors of DM Divers Technics Pte Ltd included Tan Siam Weng and Tee Chin Hock."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1991-01-24",
-          "Text": "At the material time, the shareholders of DM Divers Technics Pte Ltd included Tan Siam Weng, Tee Chin Hock and Tay Chin Huat."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1991-01-01",
-          "Text": "Tay Chin Huat is the brother of Tee Chin Hock."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1977-01-01",
-          "Text": "Tan Siam Weng started a shipyard business at Pioneer Road in 1977 under the name Dundee Marine & Industrial Services Pte Ltd and served as its managing director."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1991-01-24",
-          "Text": "Dundee Marine & Industrial Services Pte Ltd provided a rent-free office at 14 Pioneer Road to DM Divers Technics Pte Ltd from the time of its incorporation."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1984-11-08",
-          "Text": "Between 8 November 1984 and 4 November 1985, Tee Chin Hock operated a sole proprietorship called Technics Underwater Services with its business address at 184 Tanjong Katong Road."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1985-11-04",
-          "Text": "After 4 November 1985, the sole proprietorship Technics Underwater Services was taken over by Tee Chin Hock's wife, Tan Geok Keng."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1991-01-01",
-          "Text": "The address 184 Tanjong Katong Road was also the registered office of ST Divers Technics Pte Ltd, a company in which Tee Chin Hock was both a director and shareholder, and whose principal activity was commercial diving."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1988-01-01",
-          "Text": "Before the incorporation of DM Divers Technics Pte Ltd, Technics Underwater Services undertook underwater assignments for Dundee Marine & Industrial Services Pte Ltd as a subcontractor, including jobs worth over $20,000 in 1988 and over $33,000 in 1989."
+          "Text": "The company had three shareholders at the material time, namely Tan Siam Weng, Tee Chin Hock, and Tay Chin Huat"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1991-01-01",
-          "Text": "From January 1991 onwards, Tan Geok Keng was placed on the payroll of DM Divers Technics Pte Ltd as a clerk."
+          "Fact_Date": "2000-01-01",
+          "Text": "Tan Siam Weng and Tee Chin Hock were directors of the company, with Tee Chin Hock acting as managing director from incorporation until around 2000"
+        },
+        {
+          "Fact_Type": "RELATIONSHIP",
+          "Fact_Date": "1991-01-24",
+          "Text": "The company operated from premises at Pioneer Road provided rent-free by Dundee Marine & Industrial Services Pte Ltd, a shipyard business controlled by director Tan Siam Weng"
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "1990-06-01",
-          "Text": "In mid-1990, Tee Chin Hock approached Tan Siam Weng to help set up a new company to take over underwater work, stating that he intended to close down Technics Underwater Services and that the new company would be profitable."
+          "Fact_Date": "1991-01-01",
+          "Text": "From January 1991 onwards, the company placed the defendant's wife, Tan Geok Keng, on its payroll as a clerk, although director Tan was not informed of this arrangement"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "1990-06-01",
-          "Text": "Following discussions in mid-1990, Tan Siam Weng agreed to the proposal by Tee Chin Hock to set up DM Divers Technics Pte Ltd to carry out underwater jobs associated with Dundee Marine & Industrial Services Pte Ltd."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1991-01-24",
-          "Text": "After incorporation, DM Divers Technics Pte Ltd took over underwater jobs previously handled by Dundee Marine & Industrial Services Pte Ltd, reducing Dundee's income from subcontracted diving work."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1991-01-24",
-          "Text": "From the outset of DM Divers Technics Pte Ltd's operations, Tan Siam Weng left the running of the company to Tee Chin Hock and did not involve himself in day-to-day operations."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1991-01-24",
-          "Text": "From incorporation, Tan Siam Weng routinely signed accounts presented by Tee Chin Hock for DM Divers Technics Pte Ltd and pre-signed blank cheques for use on the company's behalf."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2000-11-01",
-          "Text": "By late 2000, after being told that DM Divers Technics Pte Ltd was not making money despite increased job orders, Tan Siam Weng decided to close down the company and requested Tee Chin Hock to draw up accounts for liquidation and disposal of assets."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2000-11-01",
-          "Text": "Between late 2000 and several months thereafter, Tee Chin Hock did not produce the requested accounts of DM Divers Technics Pte Ltd for liquidation despite repeated requests from Tan Siam Weng."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2000-11-01",
-          "Text": "In late 2000, when asked to sign the accounts and directors' report for filing annual returns of DM Divers Technics Pte Ltd, Tan Siam Weng noticed errors in the documents and refused to sign."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2001-08-01",
-          "Text": "In August 2001, when approached again by Tee Chin Hock to sign the accounts and directors' report for DM Divers Technics Pte Ltd for the years 1999 and 2000, Tan Siam Weng refused due to perceived errors and requested that the company's books of accounts be brought to Dundee Marine & Industrial Services Pte Ltd for inspection."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2001-09-01",
-          "Text": "In September 2001, Tee Chin Hock brought the books of accounts of DM Divers Technics Pte Ltd to Dundee Marine & Industrial Services Pte Ltd for inspection by Tan Siam Weng and Agnes Lee."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2001-10-01",
-          "Text": "In October 2001, Tan Siam Weng and Agnes Lee examined the books of accounts of DM Divers Technics Pte Ltd at Dundee Marine & Industrial Services Pte Ltd."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2001-11-01",
-          "Text": "In early November 2001, Tan Siam Weng confronted Tee Chin Hock at a meeting attended by Agnes Lee and Tan's wife regarding financial entries in the accounts of DM Divers Technics Pte Ltd."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2001-12-10",
-          "Text": "On 10 December 2001, a meeting took place between Tan Siam Weng and Tee Chin Hock, with Agnes Lee present, during which financial matters of DM Divers Technics Pte Ltd were discussed."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2001-12-10",
-          "Text": "On 10 December 2001, Tee Chin Hock signed three letters addressed to Tan Siam Weng as director of DM Divers Technics Pte Ltd, taking responsibility for the company's accounts for the years ending 31 December 1991 to 31 December 2000 and agreeing to return sums of money owing to the company on or before completion of audited accounts for the years ended 31 December 1999 and 2000."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2001-12-10",
-          "Text": "On 10 December 2001, Tee Chin Hock signed a Declaration of Trust stating that he was the registered owner of three motor vehicles and three vessels purchased with funds from DM Divers Technics Pte Ltd and that he held these items for the company and would transfer the motor vehicles as directed by the company or when he ceased employment."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2001-12-10",
-          "Text": "On 10 December 2001, in one of the letters referred to as letter D, Tee Chin Hock agreed that certain expenses charged to DM Divers Technics Pte Ltd were not wholly and exclusively incurred for the company's trade and that material errors and misstatements existed in the audited accounts for the years 1991 to 2000, requiring adjustments to relevant transactions and accounts."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2002-03-21",
-          "Text": "By a letter dated 21 March 2002, referred to as the fourth admission letter, Tee Chin Hock agreed with Tan Siam Weng that two vessels of DM Divers Technics Pte Ltd which he had disposed of, together with some used equipment and tools, would be valued at $45,000 and that he would repay this sum to the company."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2002-05-17",
-          "Text": "On 17 May 2002, a payment of $15,000 was credited into the United Overseas Bank account of DM Divers Technics Pte Ltd as part of the agreed sum of $45,000 relating to two vessels and used equipment and tools."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2002-05-17",
-          "Text": "On 17 May 2002, Tee Chin Hock had agreed to go to Tan Siam Weng's office at Dundee Marine & Industrial Services Pte Ltd to sign revised accounts of DM Divers Technics Pte Ltd for the years ended 1999 and 2000 but did not attend."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2002-01-16",
-          "Text": "On or about 16 January 2001, $38,000 was withdrawn from the bank account of DM Divers Technics Pte Ltd via United Overseas Bank cheque number 566783."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2002-09-19",
-          "Text": "By letter dated 19 September 2002, Tan Siam Weng gave notice of an annual general meeting of DM Divers Technics Pte Ltd to be held on 11 October 2002."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2002-10-11",
-          "Text": "On 11 October 2002, an annual general meeting of DM Divers Technics Pte Ltd could not proceed due to lack of quorum when Tee Chin Hock did not attend despite notice."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2002-11-28",
-          "Text": "On 28 May 2003, Tan Siam Weng lodged a police report concerning matters relating to the conduct of Tee Chin Hock in relation to DM Divers Technics Pte Ltd."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2001-11-26",
-          "Text": "On 26 November 2001, Tee Chin Hock sent a fax to Tricia Tan to confirm the date and time for a meeting at Joy Management to prepare revised draft accounts for DM Divers Technics Pte Ltd."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2002-03-21",
-          "Text": "On 21 March 2002, Tee Chin Hock met with Joy Management regarding the accounts and audit of DM Divers Technics Pte Ltd for the years ended December 1999 and 2000 and sent a follow-up letter requesting a visit to Pioneer Road to discuss these matters."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2002-03-22",
-          "Text": "On 22 March 2002, Joy Management sent a reply letter to DM Divers Technics Pte Ltd requesting confirmation of fees of $100 per hour for attendance by Jessie Choo, and on the same day, Tee Chin Hock confirmed acceptance of these fees by fax endorsement."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "1992-11-11",
-          "Text": "On 11 November 1992, Lee Khiok Fong applied on behalf of Dundee Marine & Industrial Services Pte Ltd to United Overseas Bank for a letter of credit to purchase a Phosmarine Brush Kart machine for use by DM Divers Technics Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "1992-11-11",
-          "Text": "In 1992, Twin Wheels Engineering, a company associated with Tan Siam Weng, purchased a Phosmarine Brush Kart machine via a letter of credit and sold it to DM Divers Technics Pte Ltd at the same price for hull cleaning work."
+          "Fact_Date": "1992-11-01",
+          "Text": "In November 1992, the company bought a Phosmarine Brush Kart machine through Tan's other company, Twin Wheels Engineering, because it did not have sufficient funds to purchase the machine"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "1993-03-13",
-          "Text": "On 13 March 1993, Twin Wheels Engineering refunded $20,000 to the bank account of DM Divers Technics Pte Ltd, which was credited into the company's account."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1993-03-20",
-          "Text": "On 20 March 1993, $20,000 was withdrawn in cash from the bank account of DM Divers Technics Pte Ltd following the earlier credit from Twin Wheels Engineering."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1994-04-21",
-          "Text": "On 21 April 1994, DM Divers Technics Pte Ltd issued an invoice for $114,345.86 to Wattyl Dimet (S) Pte Ltd for coating supplied for a Public Utilities Board contract."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1994-05-31",
-          "Text": "By statement dated 31 May 1994, Wattyl Dimet (S) Pte Ltd recorded a claim of $65,441.22 for coating supplied to DM Divers Technics Pte Ltd for the Public Utilities Board contract."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1994-08-04",
-          "Text": "On 4 August 1994, Wattyl Dimet (S) Pte Ltd set off its claim of $65,441.22 against the invoice of DM Divers Technics Pte Ltd and paid the balance of $48,904.64, which was deposited into the company's bank account."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1994-08-04",
-          "Text": "On 4 August 1994, a payment voucher of DM Divers Technics Pte Ltd recorded a cash payment of $65,441.22 to Wattyl Dimet (S) Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1994-07-12",
-          "Text": "On 12 July 1994, a cheque for $60,000 from Wattyl Dimet (S) Pte Ltd was deposited into the bank account of DM Divers Technics Pte Ltd as payment for invoice 94-57."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1994-07-18",
-          "Text": "On 18 July 1994, $75,967.94 was withdrawn from the bank account of DM Divers Technics Pte Ltd, recorded in the general ledger as a repayment to directors."
+          "Text": "On 13 March 1993, $20,000 was credited into the company's bank account as a refund related to the Phosmarine Brush Kart transaction"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "1994-07-20",
-          "Text": "On 20 July 1994, a deposit of $99,900 was made into the bank account of DM Divers Technics Pte Ltd."
+          "Text": "On 20 July 1994, $99,900 was deposited into the company's United Overseas Bank account"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1994-07-25",
-          "Text": "On 25 July 1994, $60,000 was withdrawn from the bank account of DM Divers Technics Pte Ltd, recorded in the general ledger as a repayment to directors."
+          "Fact_Date": "1994-08-04",
+          "Text": "On 4 August 1994, the company received $48,904.64 from Wattyl Dimet (S) Pte Ltd after set-off of $65,441.22 for coating supplied under a Public Utilities Board contract"
         },
         {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "1992-06-30",
-          "Text": "A statement of account dated 30 June 1992, signed by Tee Chin Hock, recorded that he had taken loans totalling $77,318.65 from Dundee Marine & Industrial Services Pte Ltd between January and May 1991, repaid or set off $53,290.00, leaving a balance of $24,028.65 outstanding."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-03-30",
-          "Text": "On 30 March 1991, DM Divers Technics Pte Ltd incurred an expense of $55.00 for beer."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-04-30",
-          "Text": "On 30 April 1991, DM Divers Technics Pte Ltd incurred an expense of $49.90 for groceries at a supermarket."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-05-30",
-          "Text": "On 30 May 1991, DM Divers Technics Pte Ltd incurred an expense of $29.00 at the departmental store Yaohan."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-09-30",
-          "Text": "On 30 September 1991, DM Divers Technics Pte Ltd incurred an expense of $17.00 for newspapers delivered to a residential address."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "In 1991, DM Divers Technics Pte Ltd recorded entertainment expenses totalling $3,500 without supporting documents."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1992-11-06",
-          "Text": "On 6 November 1992, a cash payment voucher of DM Divers Technics Pte Ltd, signed by Tee Chin Hock, approved payment of $14,423.50 to Tean Chay Earthwork Pte Ltd based on an invoice dated 17 November 1992 made out to Jurong Engineering Ltd."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1994-04-21",
+          "Text": "On 21 April 1994, the company issued an invoice for $114,345.86 to Wattyl Dimet (S) Pte Ltd for work done involving coating supplied for a Public Utilities Board contract"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "1995-01-01",
-          "Text": "Between January and December 1995, monthly inter-bank GIRO deductions of $2,121 were made from the bank account of DM Divers Technics Pte Ltd to Orix Leasing for hire-purchase instalments on the Phosmarine Brush Kart machine."
+          "Text": "During 1995, monthly instalments of $2,121 were deducted by inter-bank GIRO from the company's bank account to Orix Leasing for the Phosmarine Brush Kart machine"
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1995-12-01",
-          "Text": "Around December 1995, a cash voucher for $25,452.80, representing 12 monthly instalments of $2,121, was prepared in DM Divers Technics Pte Ltd's records without a named recipient."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1996-02-05",
-          "Text": "On 5 February 1996, DM Divers Technics Pte Ltd incurred a bill of $1,200 from D & P Hampers & Florists Pte Ltd for eight hampers delivered to the company."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1995-03-31",
-          "Text": "On 31 March 1995, DM Divers Technics Pte Ltd paid paging charges of $49.44 for Miss Rosnani bte Abdul Salam, who was not recorded as an employee of the company."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1995-04-27",
-          "Text": "On 27 April 1995, DM Divers Technics Pte Ltd paid $545.90 for an LCCI course for Tan Bee Shin, who was not recorded as an employee of the company."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1995-01-01",
-          "Text": "In 1995, DM Divers Technics Pte Ltd applied a Skills Development Fund grant of $343 towards course fees of $490 incurred by Tan Geok Keng and Tee Chin Hock, with the company agreeing to absorb only the portion relating to Tee Chin Hock."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From 1991 to 1998, DM Divers Technics Pte Ltd recorded petrol and transport claims submitted by Tee Chin Hock totalling approximately $96,000, based on a flat monthly transport allowance of about $1,000."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From 1991 onwards, DM Divers Technics Pte Ltd recorded numerous purchases of parking coupons and transport-related expenses claimed by employees including Tee Chin Hock, separate from expenses of company-owned vehicles."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From 1991 onwards, DM Divers Technics Pte Ltd paid for personal expenses of Tee Chin Hock including groceries, store purchases, home telephone charges, and traffic summonses, as recorded in the company's accounts."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From 1991 onwards, DM Divers Technics Pte Ltd paid for medical and dental expenses of Tan Geok Keng as recorded in the company's accounts."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From 1991 onwards, DM Divers Technics Pte Ltd paid for expenses of non-employees including paging charges and course fees, as reflected in payment vouchers."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From 1991 to 1998, the books of accounts of DM Divers Technics Pte Ltd were audited and approved by external auditors, including R Chan and later Richard Lim."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From 1991 onwards, the bookkeeping of DM Divers Technics Pte Ltd was carried out by Ideal Commercial and later by Joy Management."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "1991-01-01",
-          "Text": "Since 1991, DM Divers Technics Pte Ltd did not regularly hold board meetings but instead circulated resolutions for signature by directors and later held meetings when all directors were present in Singapore."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1998-01-01",
-          "Text": "In the 1998 accounts of DM Divers Technics Pte Ltd, the expense item described as 'sampan fees' was recorded as $4,018."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1999-01-01",
-          "Text": "In the 1999 accounts of DM Divers Technics Pte Ltd, the expense item described as 'sampan fees' was recorded as $21,964, an increase of more than five times compared to 1998."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1999-01-01",
-          "Text": "In 1999, the business volume of DM Divers Technics Pte Ltd decreased by approximately $300,000 compared to the previous year, according to figures referred to by Tan Siam Weng."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2000-06-15",
-          "Text": "Around June to July 2000, when Tan Siam Weng telephoned Tee Chin Hock to pass on a customer's job to DM Divers Technics Pte Ltd, Tee Chin Hock declined on the basis that the company's workers were busy, resulting in the job being given to Underwater Contractors Pte Ltd for $2,937.50."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2000-06-15",
-          "Text": "Around June to July 2000, Underwater Contractors Pte Ltd performed a diving job referred by Tan Siam Weng for a fee of $2,937.50 that could otherwise have been undertaken by DM Divers Technics Pte Ltd."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "1992-01-01",
-          "Text": "In 1992, DM Divers Technics Pte Ltd purchased an underwater camera costing around $15,400, as reflected in company records."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2000-01-01",
-          "Text": "In 2000, quotations showed that two compressors could be purchased for $5,500, while rental rates for compressors were about $50 per day and for diving tanks about $10 per day."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "1991-05-01",
-          "Text": "Telex bills for May 1991 and October 1993 and a telephone bill for May 1993 for DM Divers Technics Pte Ltd were addressed to 14 Pioneer Road, indicating operations from Dundee Marine & Industrial Services Pte Ltd's premises."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "1997-10-25",
-          "Text": "An invoice DM/0375/10/01 dated 25 October 2001 from Dundee Marine & Industrial Services Pte Ltd recorded storage charges of $11,885 for the period January 1991 to December 1999, which were set off against invoices from DM Divers Technics Pte Ltd to Dundee."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1997-01-01",
-          "Text": "Between January 1991 and December 1999, invoices from DM Divers Technics Pte Ltd to Dundee Marine & Industrial Services Pte Ltd totalling $11,885 (less a $200 credit note) were offset against storage charges of $11,885 due to Dundee."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From incorporation, DM Divers Technics Pte Ltd used the premises at 14 Pioneer Road as its operating office without paying rent to Dundee Marine & Industrial Services Pte Ltd."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "In an application for a class survey licence for DM Divers Technics Pte Ltd, it was stated that the company owned all diving equipment including underwater cameras."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From 1991 to 2000, DM Divers Technics Pte Ltd used the services of external bookkeepers Ideal Commercial and later Joy Management to maintain its accounting records."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2001-10-01",
-          "Text": "After the meeting on 10 December 2001, Agnes Lee prepared an Appendix D listing adjustments to the 1999 accounts of DM Divers Technics Pte Ltd based on discussions and agreements with Tee Chin Hock and provided a copy to him for review."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2001-01-01",
-          "Text": "In the year of assessment 2000, DM Divers Technics Pte Ltd did not file its income tax returns, leading to a summons from the Inland Revenue Authority of Singapore."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2003-03-21",
-          "Text": "On 21 March 2003, DM Divers Technics Pte Ltd was fined $250 by the courts following a summons from the Inland Revenue Authority of Singapore for failure to file income tax returns for the year of assessment 2000."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2001-01-01",
-          "Text": "In 2001, the Registry of Companies issued summonses to DM Divers Technics Pte Ltd for failure to file revised accounts for the years ended 1999 and 2000."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2002-01-01",
-          "Text": "In 2002, the Registry of Companies and the Inland Revenue Authority of Singapore issued further reminders and summonses to DM Divers Technics Pte Ltd relating to outstanding accounts and tax filings."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2002-01-01",
-          "Text": "In 2002, Agnes Lee adjusted the accounts of DM Divers Technics Pte Ltd for the years 1991 to 2000 based on agreements reached with Tee Chin Hock regarding transactions not incurred for the purposes of the company's business."
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2000-07-01",
+          "Text": "In June to July 2000, Tan contacted Tee Chin Hock about a customer diving job, but the assignment was declined because the company's workers were said to be busy"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2001-01-16",
-          "Text": "On 16 January 2001, a cash withdrawal of $38,000 was recorded in the Industrial and Commercial Bank bank statement of DM Divers Technics Pte Ltd."
+          "Text": "On 16 January 2001, $38,000 was withdrawn from the company's bank account via United Overseas Bank cheque number 566783"
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2000-01-01",
+          "Text": "In late 2000, Tan decided to close down the company after being told repeatedly by Tee Chin Hock that the business was not making money and requested preparation of accounts for liquidation"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2001-08-01",
+          "Text": "In August 2001, when asked to sign the 1999 accounts and directors' report, Tan noticed errors in the accounts prepared by Tee Chin Hock and refused to sign"
         },
         {
           "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2001-09-01",
+          "Text": "In September 2001, Tee Chin Hock brought the company's books of account to Dundee's office"
+        },
+        {
+          "Fact_Type": "DISCLOSURE_EVENT",
+          "Fact_Date": "2001-10-01",
+          "Text": "In October 2001, Tan and Agnes Lee examined the company's books and discovered that the defendant had been misappropriating the company's moneys and assets since its incorporation"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2001-11-01",
+          "Text": "In early November 2001, Tan confronted Tee Chin Hock in the presence of Agnes Lee and Tan's wife about the financial irregularities identified in the accounts"
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2001-12-10",
+          "Text": "On 10 December 2001, three letters addressed to Tan as director were drafted by Agnes Lee and signed by Tee Chin Hock, in which he took responsibility for the company's accounts for financial years 1991 to 2000 and agreed to return sums owing"
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2001-12-10",
+          "Text": "On 10 December 2001, a Declaration of Trust was signed by Tee Chin Hock stating that he was the registered owner of three motor vehicles and three vessels purchased with the company's funds and that he held them on trust for the company"
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2001-12-10",
+          "Text": "In the third admission letter dated 10 December 2001, Tee Chin Hock agreed that certain expenses charged to the company were not wholly and exclusively incurred for its trade and that material errors and misstatements existed in the audited accounts for 1991 to 2000"
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2002-03-21",
+          "Text": "On 21 March 2002, a further letter was signed in which Tee Chin Hock agreed that two vessels, used equipment, and tools disposed of would be valued at $45,000 and that he would return this sum to the company"
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-05-17",
+          "Text": "On 17 May 2002, a payment of $15,000 was credited into the company's bank account as part payment towards the agreed $45,000 relating to disposed vessels and equipment"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2002-05-17",
+          "Text": "The company arranged for Tee Chin Hock to attend at Dundee's office on 17 May 2002 to sign revised accounts for financial years 1999 and 2000, but he did not attend"
+        },
+        {
+          "Fact_Type": "AUTHORITY_EVENT",
           "Fact_Date": "2003-03-21",
-          "Text": "On 21 March 2003, the Inland Revenue Authority of Singapore summons number 12110/2001 against DM Divers Technics Pte Ltd resulted in a fine of $250."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2003-04-28",
-          "Text": "On 28 April 2003, the court granted leave under section 216A of the Companies Act for Tan Siam Weng to bring an action on behalf of DM Divers Technics Pte Ltd against Tee Chin Hock."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2003-05-08",
-          "Text": "On 8 May 2003, an action was commenced in the High Court by DM Divers Technics Pte Ltd against Tee Chin Hock following the grant of leave under section 216A of the Companies Act."
+          "Text": "On 21 March 2003, the company was fined $250 for failing to file its income tax returns for year of assessment 2000"
         }
       ],
-      "Issue": "Whether the managing director's control over the company's finances, cash withdrawals, and subsequent written admissions regarding financial irregularities constitute an actionable misappropriation of corporate funds, and whether such claims are shielded by statutory time bars.",
-      "Rule": "A managing director owes fiduciary duties to act honestly, avoid conflicts of interest, and refrain from misusing company funds for personal or related-party expenses. The Limitation Act generally imposes a six-year time bar on civil claims; however, under section 26(2), this period restarts if the debtor explicitly acknowledges the liability in writing or makes a part payment. Furthermore, under section 29(1), if the right of action is concealed by the defendant's fraud, the limitation period does not begin to run until the plaintiff discovers the fraud or could have discovered it with reasonable diligence.",
-      "Application": "Tee Chin Hock operated as the de facto managing director of DM Divers, exercising exclusive control over its day-to-day finances. The company's ledgers and bank statements record numerous cash withdrawals and payments for personal items (groceries, beer, traffic summonses) and unauthorized third-party expenses, alongside significant, unexplained cash extractions documented as 'repayments to directors'. In late 2001 and early 2002, when confronted by the co-director regarding these discrepancies, Tee signed multiple formal letters admitting responsibility for the financial misstatements, agreeing to return the diverted sums, and declaring that certain personal assets were held in trust for the company. He subsequently made a part payment of $15,000 toward these admitted liabilities. The legal conflict centers on whether these actions prove a systemic breach of fiduciary duty and whether Tee's written admissions and the latent nature of the financial diversions defeat his defense that the claims are time-barred.",
-      "Judicial_Reasoning_Log": "The court determined that the managing director systematically misused and misappropriated company funds over a decade, breaching his fiduciary duties by treating the company's assets as his own. His exclusive control over the company's opaque bookkeeping allowed him to conceal the diversions, satisfying the threshold for fraud under section 29(1) of the Limitation Act. The co-director, having relied on the managing director's representations, could not have reasonably discovered the fraud until the books were finally inspected in 2001. Therefore, the limitation period did not begin to run until the discovery of the fraud. Furthermore, the multiple formal admission letters signed by the defendant, coupled with his part payment of $15,000, constituted clear, written acknowledgments of debt under section 26(2) of the Limitation Act, independently restarting the limitation period. The court rejected the defendant's belated and withdrawn claim of duress regarding the signed admissions. Consequently, the time-bar defense failed entirely, and the managing director was ordered to repay the specific misappropriated sums, indemnify the company for resulting statutory fines, and provide a full account of profits diverted to his other businesses."
+      "Issue": "Whether a company can recover sums and assets from a former managing director who is said to have contravened management obligations by diverting company funds and opportunities to himself and related entities over a prolonged period",
+      "Rule": "A director must act honestly in the best interests of the company, avoid conflicts between personal interests and corporate duties, and account for any company property or profits obtained through misuse of position or unauthorised transactions",
+      "Application": "The company, acting through Tan, stated that Tee Chin Hock used his control over the accounts to channel payments, assets, and business opportunities away from the company and into his own hands or related businesses without proper justification. Tee Chin Hock responded that the payments and arrangements were legitimate business expenses or part of an agreed structure involving related entities and that the accounts had been open to inspection and audited over the years",
+      "Judicial_Reasoning_Log": "The court found that from the inception of the company the defendant, acting as de facto managing director, systematically diverted company funds and opportunities to himself and related entities such as TUS and ST Divers. Detailed examination of vouchers, bank statements, and ledgers showed numerous unjustified cash withdrawals, duplicate or fictitious payments, personal expenses charged to the company, and diversion of receivables. The judge rejected the defendant's explanations as implausible and inconsistent with contemporaneous documents, preferred the evidence of Tan and Agnes Lee, and held that the defendant had contravened his duties to act in the company's interests and to avoid conflicts. The court held that the limitation defence was displaced by section 29(1) of the Limitation Act because the misconduct had been concealed and only came to light when Tan scrutinised the accounts in 2001, and that the admission letters and part payment also operated as acknowledgments under section 26(2). Final judgment was entered for specific misappropriated sums totalling $298,285.46, with interlocutory judgment for an account of all other sums and profits due, and the defendant was ordered to indemnify the company for regulatory fines; the counterclaim was dismissed."
     },
     "Label": "Claim Allowed",
     "Leakage_Score": 0
@@ -503,9 +163,9 @@
     "Metadata": {
       "Case_Number": "Suit 459/2003",
       "Coram": "Lai Siu Chiu J",
-      "Judge": "Lai Siu Chiu",
+      "Judge": "Lai Siu Chiu J",
       "Date": "2004-08-31",
-      "Tribunal_Court": "High Court"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
@@ -519,283 +179,143 @@
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "1984-11-08",
-          "Text": "From 8 November 1984 to 4 November 1985, Tee Chin Hock was the sole proprietor of Technics Underwater Services, whose business address was at 184 Tanjong Katong Road."
+          "Text": "Between 8 November 1984 and 4 November 1985, Tee Chin Hock operated a sole proprietorship called Technics Underwater Services"
         },
         {
-          "Fact_Type": "PARTY_INFO",
+          "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "1985-11-04",
-          "Text": "After 4 November 1985, his wife, Tan Geok Keng, took over the sole proprietorship of Technics Underwater Services."
+          "Text": "After 4 November 1985, Technics Underwater Services was taken over as a sole proprietorship by his wife, Tan Geok Keng, with its business address at 184 Tanjong Katong Road"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1991-01-24",
-          "Text": "Upon incorporation of DM Divers Technics Pte Ltd on 24 January 1991, Tee Chin Hock was the managing director of the plaintiff until the year 2000 and called himself Simon Tee."
+          "Text": "Upon incorporation of DM Divers Technics Pte Ltd on 24 January 1991, Tee Chin Hock became a director and acted as managing director until around the year 2000"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1991-01-24",
-          "Text": "From incorporation, Tee Chin Hock was one of the current directors of DM Divers Technics Pte Ltd and a shareholder at the material time."
+          "Text": "He held himself out to third parties as the person in charge of the company's day-to-day operations"
         },
         {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1991-01-24",
-          "Text": "From 1991 onwards, Tee Chin Hock took care of the day-to-day running of DM Divers Technics Pte Ltd as an informal managing director."
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1991-01-01",
+          "Text": "From January 1991, he arranged for his wife, Tan Geok Keng, to be placed on the company's payroll as a clerk without informing fellow director Tan Siam Weng"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1991-01-01",
-          "Text": "Tee Chin Hock was both a director and shareholder of ST Divers Technics Pte Ltd, whose registered office was at 184 Tanjong Katong Road and whose principal activity was commercial diving."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1991-01-01",
-          "Text": "From January 1991 onwards, Tee Chin Hock put his wife, Tan Geok Keng, on the payroll of the plaintiff as a clerk."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "1991-01-24",
-          "Text": "Technics Underwater Services and ST Divers Technics Pte Ltd operated from 184 Tanjong Katong Road, and the plaintiff paid rent for that address to Song Yew Chee."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "1991-01-24",
-          "Text": "Before the plaintiff's incorporation, Technics Underwater Services undertook underwater assignments for Dundee Marine & Industrial Services Pte Ltd as the company's subcontractor."
+          "Text": "Before the company's incorporation, the defendant operated DM Divers as a sole proprietorship"
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1990-06-01",
-          "Text": "In mid 1990, Tee Chin Hock approached Tan Siam Weng to help set up a company, saying he intended to close down Technics Underwater Services and that the new company would be profitable."
+          "Text": "He persuaded Tan Siam Weng in mid-1990 to help set up DM Divers Technics Pte Ltd, representing that he intended to close down Technics Underwater Services and that the new company would be profitable"
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1991-01-24",
-          "Text": "From the incorporation of DM Divers Technics Pte Ltd, Tee Chin Hock left the running of the company entirely to himself and incurred expenses on the company's behalf."
+          "Text": "After incorporation, he was entrusted by Tan with full control over the company's finances and operations, including preparation of accounts and control of cheque payments"
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "1991-01-24",
-          "Text": "From 1991 onwards, Tee Chin Hock prepared the accounts of DM Divers Technics Pte Ltd."
+          "Text": "He caused the company to pay rent for premises at 184 Tanjong Katong Road to a landlord while also using the same premises for other businesses such as ST Divers, TUS, and SS Scubaworld without allocating rent to those entities"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1991-01-24",
-          "Text": "The plaintiff's bookkeeping was done by Ideal Commercial and later by Joy Management."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1991-01-24",
-          "Text": "Since 1991, it was the plaintiff's practice not to hold meetings of the board of directors, but to circulate resolutions for signature and choose a meeting date when all directors were present in Singapore."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1991-01-24",
-          "Text": "From 1991 onwards, the plaintiff recorded petrol and transport claims submitted by Tee Chin Hock, including a flat monthly transport allowance of about $1,000 between 1999 and 2000."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1991-01-01",
-          "Text": "Between 1991 and 1998, the defendant alleged that the plaintiff refused to reimburse his petrol claims totalling $96,000."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From 1991 onwards, the plaintiff's accounts recorded various personal and third-party expenses, including groceries, beer, departmental store purchases, home newspaper deliveries, and traffic summonses associated with vehicles used by Tee Chin Hock."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From 1991 onwards, the plaintiff's accounts recorded medical and dental expenses of Tan Geok Keng and other non-employee individuals."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-03-30",
-          "Text": "On 30 March 1991, the plaintiff's accounts recorded $55.00 spent on beer."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-04-30",
-          "Text": "On 30 April 1991, the plaintiff's accounts recorded $49.90 spent on groceries at a supermarket."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-05-30",
-          "Text": "On 30 May 1991, the plaintiff's accounts recorded $29.00 spent at Yaohan department store."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-09-30",
-          "Text": "On 30 September 1991, the plaintiff's accounts recorded $17.00 for newspapers delivered to a residential address."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From January to December 1991, the plaintiff's accounts recorded entertainment expenses of $3,500 without supporting documents."
+          "Text": "He was both a director and shareholder of ST Divers Technics Pte Ltd, which shared the Tanjong Katong Road address and also carried on commercial diving activities"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "1992-11-06",
-          "Text": "On 6 November 1992, a cash payment voucher signed by Tee Chin Hock approved payment of $14,423.50 to Tean Chay Earthwork Pte Ltd, although the corresponding invoice dated 17 November 1992 was made out to Jurong Engineering Ltd."
+          "Text": "On 6 November 1992, he approved a cash payment voucher for $14,423.50 from the company to Tean Chay Earthwork Pte Ltd, referencing an invoice that was actually addressed to Jurong Engineering Ltd"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1993-03-13",
-          "Text": "On 13 March 1993, $20,000 was credited into the plaintiff's UOB bank account from Twin Wheels, and on 30 March 1993 the defendant withdrew the amount as cash."
+          "Fact_Date": "1993-03-30",
+          "Text": "On 30 March 1993, $20,000 previously credited to the company's account in relation to the Phosmarine Brush Kart transaction was withdrawn in cash by him"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "1994-07-18",
-          "Text": "On 18 July 1994, $75,967.94 was withdrawn from the plaintiff's bank account."
+          "Text": "On 18 July 1994, he withdrew $75,967.94 from the company's United Overseas Bank account, recorded in the general ledger as a repayment to directors without supporting documentation"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1994-07-20",
-          "Text": "On 20 July 1994, $99,900 was deposited into the plaintiff's bank account, and on 25 July 1994, $60,000 was withdrawn from the account."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "1992-06-30",
-          "Text": "A statement of account dated 30 June 1992 signed by Tee Chin Hock recorded that he had taken loans totalling $77,318.65 from Dundee between January and May 1991, repaid or set off $53,290.00, leaving a balance of $24,028.65."
+          "Fact_Date": "1994-07-25",
+          "Text": "On 25 July 1994, he withdrew a further $60,000 from the company's bank account shortly after depositing $99,900 on 20 July 1994"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1995-01-01",
-          "Text": "Between January and December 1995, an inter-bank GIRO deduction of $2,121 was made for monthly instalments paid to Orix Leasing from whom the machine was leased."
+          "Fact_Date": "1994-08-04",
+          "Text": "Despite Wattyl Dimet (S) Pte Ltd having already set off $65,441.22 against the company's invoice and paying the balance, he caused a cash payment voucher dated 4 August 1994 to be issued for $65,441.22 purportedly to Wattyl Dimet"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "1995-12-01",
-          "Text": "Sometime in December 1995, the defendant's wife made out a cash voucher for $25,452.80 representing 12 monthly instalments of $2,121, and no recipient signed the voucher."
+          "Text": "Around December 1995, a cash voucher for $25,452.80, equivalent to twelve monthly instalments of $2,121, was prepared and signed by his wife for payment to Orix Leasing, even though the instalments had already been paid by GIRO from the company's bank account"
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1995-03-31",
-          "Text": "On 31 March 1995, the plaintiff's payment voucher recorded paging charges of $49.44 for Miss Rosnani bte Abdul Salam, who was not recorded as an employee."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1995-04-27",
-          "Text": "On 27 April 1995, the plaintiff's accounts recorded an LCCI course fee of $545.90 for Tan Bee Shin, who was not recorded as an employee."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1996-02-05",
-          "Text": "On 5 February 1996, the plaintiff's accounts recorded a bill for $1,200 from D & P Hampers & Florists Pte Ltd for eight hampers delivered to the plaintiff."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Type": "CONDUCT",
           "Fact_Date": "1991-01-01",
-          "Text": "From 1991 onwards, the plaintiff paid rental for the premises at 184 Tanjong Katong Road to Song Yew Chee while businesses associated with Tee Chin Hock, including ST Divers Technics Pte Ltd, Technics Underwater Services, and SS Scubaworld, operated from the same premises."
+          "Text": "From 1991 onwards,petrol, transport, parking, meal, and personal-expense claims to the company, including claims relating to non-company vehicles and personal expenses such as groceries, home telephone bills, and his wife's medical and dental costs"
         },
         {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2000-12-21",
-          "Text": "On 21 December 2000, the plaintiff issued an invoice for $2,100 to Power Senoko Ltd, and on 26 January 2001, ST Divers issued a corresponding invoice for $2,100 to the plaintiff, both signed by Tee Chin Hock."
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1991-01-01",
+          "Text": "He arranged for the company to pay for gift hampers and other entertainment items that were delivered to the Tanjong Katong Road address and not clearly linked to company customers"
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2001-01-26",
-          "Text": "On 26 January 2001, ST Divers was registered and issued an invoice to the plaintiff for $2,100 corresponding to a Power Senoko Ltd contract originally invoiced by the plaintiff."
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1991-01-01",
+          "Text": "Technics Underwater Services was the company's employee, go-between, agent, main contractor, and administrator, and that it was entitled to referral and rental fees"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-01-01",
+          "Text": "He applied for a class survey licence on behalf of the company, representing that the company owned all necessary diving equipment including underwater cameras"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2001-01-16",
-          "Text": "On 16 January 2001, $38,000 was withdrawn in cash from the plaintiff's bank account via United Overseas Bank cheque no 566783."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "The defendant asserted that the plaintiff's books of accounts for the years 1991 to 1998 were audited and approved by the plaintiff's auditors."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1991-01-24",
-          "Text": "The defendant alleged that TUS was an employee or go-between and/or agent and/or main contractor of the plaintiff."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-24",
-          "Text": "The defendant claimed that TUS would be paid a referral fee of 10% of the value of each of the plaintiff's invoices and rental charges or reimbursement of rental equipment amounting to 7.5% of each of the plaintiff's invoices."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-24",
-          "Text": "The defendant alleged that between 1993 and 30 November 2000, the plaintiff had failed to pay TUS for the hiring of equipment, and that it had not paid TUS for administration work carried out between 24 January 1991 and 31 December 2000 or for referral charges during the period."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2003-04-28",
-          "Text": "On 28 April 2003, the defendant alleged that an assignment of debt was made between himself and TUS in respect of a claimed debt of $1,126,153.59 owed by the plaintiff to TUS."
+          "Text": "On 16 January 2001, he withdrew $38,000 in cash from the company's bank account via United Overseas Bank cheque number 566783"
         },
         {
           "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2003-05-05",
-          "Text": "On or about 5 or 6 May 2003, the defendant alleged he gave notice of the assignment to the plaintiff."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2003-05-21",
-          "Text": "On 21 May 2003, the defendant alleged he made a written demand on the plaintiff for payment of the debt."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1994-07-20",
-          "Text": "On or about 20 July 1994, the defendant alleged he made a capital injection of $99,900 into the plaintiff, which he later sought to recover."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From 1991 onwards, the plaintiff's accounts recorded numerous transport and petrol claims by Tee Chin Hock relating to non-Q-plated vehicles, and claims for traffic summonses incurred by him."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From 1991 onwards, the plaintiff's accounts recorded personal telephone charges associated with telephone number 7880253."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From 1991 onwards, the plaintiff's accounts recorded expenses for motor vehicle no SBN 5527S."
+          "Fact_Date": "2001-11-01",
+          "Text": "In early November 2001, when confronted by Tan and Agnes Lee about irregularities in the accounts, he did not deny the specific instances pointed out and confessed to them"
         },
         {
           "Fact_Type": "DOCUMENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "In his application for a class survey licence for the plaintiff, the defendant stated that the company owned all diving equipment including underwater cameras."
+          "Fact_Date": "2001-12-10",
+          "Text": "On 10 December 2001, he signed three letters addressed to Tan as director of the company, taking full responsibility for the accounts for financial years 1991 to 2000 and agreeing to return sums owing upon completion of revised audited accounts"
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2001-12-10",
+          "Text": "On the same day, he signed a Declaration of Trust acknowledging that three motor vehicles and three vessels registered in his name had been purchased with company funds and agreeing to transfer them as directed by the company"
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2002-03-21",
+          "Text": "On 21 March 2002, he signed a further letter agreeing that two vessels and certain used equipment and tools disposed of would be valued at $45,000 and that he would return this amount to the company"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From 1991 onwards, the plaintiff's accounts recorded gift hampers ordered from D & P Hampers & Florists Pte Ltd, some of which were ordered by TUS but delivered to the Tanjong Katong address."
+          "Fact_Date": "2002-05-17",
+          "Text": "On 17 May 2002, he caused $15,000 to be paid into the company's bank account as part payment towards the agreed $45,000 relating to disposed vessels and equipment"
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From 1991 onwards, the plaintiff's accounts recorded expenses incurred by TUS on 23 and 24 January 1991, before the incorporation of the plaintiff, which were charged to the company's account."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1991-01-01",
-          "Text": "From 1991 onwards, the plaintiff's accounts recorded numerous books of parking coupons being charged to the company."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1994-06-30",
-          "Text": "As at 30 June 1994, the defendant claimed that the plaintiff owed him $215,060.80 as entered in the general ledgers of the company for that year."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1991-01-01",
-          "Text": "Initially, the defendant resided at a public housing flat at Block 933, Tampines Street 91, #07-385."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2000-01-01",
-          "Text": "The defendant later moved to a private property at 1A Haig Avenue and then to a private flat at 10 Lorong 14 #08-05, Geylang, Singapore 398922."
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2002-05-17",
+          "Text": "He agreed to attend at Dundee's office on 17 May 2002 to sign revised accounts for 1999 and 2000 but failed to appear and subsequently became uncontactable by Tan"
         }
       ],
-      "Issue": "Whether a de facto managing director who exercises exclusive control over a company's finances breaches his fiduciary duties by executing unexplained cash withdrawals, utilizing corporate funds for personal expenses, and intermingling corporate revenue with his own external businesses, and whether such claims are barred by the statute of limitations or offset by the director's undocumented counterclaims.",
-      "Rule": "A director owes fiduciary duties to act honestly, protect corporate assets, and avoid conflicts of interest. The systematic diversion of company funds for personal use or to related entities constitutes a breach of these duties. While the Limitation Act imposes a six-year bar on claims, time does not begin to run if the right of action is concealed by the defendant's fraud (until the fraud is or could reasonably be discovered). Furthermore, written admissions of liability or part payments restart the limitation period. Uncorroborated, undocumented counterclaims for alleged capital injections or assigned debts cannot offset proven corporate losses.",
-      "Application": "Tee Chin Hock operated DM Divers with absolute financial autonomy. Corporate bank accounts and ledgers show extensive cash withdrawals recorded generically as 'repayments to directors' alongside payments for personal items like groceries and traffic summonses. Simultaneously, he operated parallel diving businesses (TUS and ST Divers) from the same address, transferring business and funds between them. When the co-director demanded an accounting in 2001, Tee signed several formal admission letters acknowledging the financial irregularities and agreeing to repay the diverted funds. He subsequently made a $15,000 part payment. To counter the company's claims, Tee raised a limitation defense, arguing the transactions occurred over six years ago, and filed counterclaims asserting the company owed him for a $99,900 capital injection and a $1.12 million debt assigned from TUS. The conflict evaluates the validity of the limitation defense in light of his written admissions and the latent nature of the diversions, as well as the evidentiary basis for his massive counterclaims.",
-      "Judicial_Reasoning_Log": "The director's exclusive control over the company's opaque accounting system facilitated a systematic misappropriation of funds and concealment of the company's true financial state, constituting fraud under the Limitation Act. As the co-director could not have reasonably discovered this fraud until the 2001 audit, the limitation period was suspended until that discovery. Even if the original limitation period applied, the director's multiple signed admission letters and his $15,000 part payment served as clear statutory acknowledgments of debt, fully restarting the limitation clock. The director's attempt to recant these admissions by claiming duress was unconvincing and formally withdrawn during trial. Furthermore, his counterclaims for the $99,900 capital injection and the massive assigned debt from TUS were entirely unsupported by reliable contemporaneous documentation and were themselves time-barred. The director was held liable for the proven diverted sums, ordered to indemnify the company against resulting statutory fines, and directed to provide a full accounting of all profits funneled through his parallel businesses."
+      "Issue": "Whether a managing director who controlled a company's finances and related entities can be held legally responsible for returning sums and assets where the company contends that payments, withdrawals, and inter-company arrangements contravened his management obligations",
+      "Rule": "A director who manages a company's affairs must not use corporate funds or opportunities for personal benefit or for the benefit of related entities without proper authority, and must account for any gains obtained through unauthorised transactions or conflicts of interest",
+      "Application": "Tee Chin Hock orchestrated cash withdrawals, duplicate payments, and multi-layered fee arrangements with entities he controlled, and that his signed letters and part payment showed recognition of sums owing. He responded that the payments were legitimate reimbursements or fees for services rendered by Technics Underwater Services and other entities, that he signed the letters without full information and under pressure, and that the accounts had been audited and accessible to the other director",
+      "Judicial_Reasoning_Log": "The judge concluded that the defendant's explanations for numerous cash withdrawals, duplicate payments, and personal expenses charged to the company were untenable and unsupported by documentation. The court found that the rental, referral, and equipment-hire structure involving TUS and ST Divers was contrived to divert a substantial portion of the company's revenue to entities controlled by the defendant. The admission letters and Declaration of Trust were held to be voluntary acknowledgments of responsibility, reinforced by the subsequent $15,000 payment, and the defence of duress was abandoned at trial. The court held that the defendant had systematically misused company funds from 1991 onwards, that the limitation period was postponed under section 29(1) of the Limitation Act due to concealment and lack of earlier discoverability, and that the letters and payment also constituted acknowledgments under section 26(2). Specific misappropriated sums were awarded against him with an order for a full account of all other sums and profits, and his counterclaim was rejected as unproven and, in part, time-barred."
     },
     "Label": "Liable",
     "Leakage_Score": 0

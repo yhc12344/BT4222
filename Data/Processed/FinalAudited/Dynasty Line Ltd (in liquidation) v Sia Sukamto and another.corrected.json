@@ -3,7 +3,7 @@
     "Metadata": {
       "Case_Number": "Suit No 256 of 2010",
       "Coram": "Lai Siu Chiu J",
-      "Judge": "Lai Siu Chiu",
+      "Judge": "Lai Siu Chiu J",
       "Date": "2013-07-31",
       "Tribunal_Court": "High Court"
     },
@@ -19,100 +19,50 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1994-01-01",
-          "Text": "Dynasty Line Limited was incorporated under the laws of the British Virgin Islands in 1994."
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1994-11-24",
+          "Text": "Dynasty Line Ltd was incorporated under the laws of the BVI"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1996-05-06",
-          "Text": "Sia and Lee were appointed directors of Dynasty on 6 May 1996."
+          "Text": "Sia Sukamto and Lee Howe Yong were appointed directors of Dynasty"
         },
         {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1996-05-06",
-          "Text": "At all material times, Sia was the sole shareholder of Dynasty although Lee was promised 20% of the profits of Dynasty without any equity contribution from him."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1994-01-01",
-          "Text": "Dynasty Line Limited functioned as a corporate vehicle for investments by Sia Sukamto and did not have independent business operations or trading activities."
-        },
-        {
-          "Fact_Type": "CONDUCT",
+          "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "1996-02-05",
-          "Text": "Those shares were acquired from Low and the following parties under seven sale and purchase agreements dated 5 February 1996."
+          "Text": "Dynasty acquired 29,537,367 shares in China Development Corporation Limited for HK$230,391,463"
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-03-01",
+          "Text": "Vendors transferred shares to Dynasty before the completion date"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "1996-02-05",
-          "Text": "Those shares were acquired from Low and the following parties (the Remaining Vendors and collectively the Vendors) under seven sale and purchase agreements dated 5 February 1996: Johnny Tsao Yue Hwa, Yap Han Hoe, Swanny Sri Sujanty Setyono, Lau Kang Thow, Evelyn Ong Suat Tay, and Low Cheng Lum."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1996-02-05",
-          "Text": "The total purchase price for the 29,537,367 China Development Corporation Limited shares under the sale and purchase agreements dated 5 February 1996 was HK$230,391,463."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1997-11-01",
-          "Text": "Sia made payments totalling HK$64,348,525.81 to Low between 2 February 1996 and 11 November 1997."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1996-03-01",
-          "Text": "Between March 1996 and May 1996, the vendors transferred all 29,537,367 China Development Corporation Limited shares to Dynasty Line Limited before the intended completion date of 2 May 1996."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "1996-04-23",
-          "Text": "On 23 April 1996, Dynasty charged 60,161,510 CDC shares to Commerzbank (South East Asia) Limited as security for facilities granted to Sia."
+          "Text": "Dynasty charged 60,161,510 CDC shares to Commerzbank as security for facilities granted to Sia"
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "1996-11-06",
-          "Text": "On 6 November 1996, Dynasty charged 28 million CDC shares to Societe Generale (Labuan branch) as security for facilities granted to Beswil Investment Pte Ltd, which is a company owned by Sia and Lee."
+          "Text": "Dynasty charged 28 million CDC shares to Societe Generale as security for facilities granted to Beswil Investment Pte Ltd"
         },
         {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "1996-11-06",
-          "Text": "Beswil Investment Pte Ltd is a company owned by Sia and Lee."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "1997-08-29",
-          "Text": "On 29 August 1997, Dynasty charged 48,822,700 CDC shares to KG Investments Asia Limited as security for facilities granted to Franklin Syah."
+          "Text": "Dynasty charged 48,822,700 CDC shares to KG Investments Asia Limited as security for facilities granted to Franklin Syah"
         },
         {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "1997-08-29",
-          "Text": "On 29 August 1997, Dynasty charged 48,822,700 CDC shares to KG Investments Asia Limited as security for facilities granted to Franklin Syah."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "1997-11-03",
-          "Text": "On 3 November 1997, Dynasty charged 10,702,625 CDC shares to Creditanstalt Bankverein as security for facilities granted to Sia."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1997-11-03",
-          "Text": "On 3 November 1997, Dynasty charged 10,702,625 CDC shares to Creditanstalt Bankverein as security for facilities granted to Sia."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1998-05-23",
-          "Text": "On 23 May 1998, the Vendors, through their then Singapore lawyers Khattar Wong & Partners, demanded payment of the alleged balance of HK$166,042,909 of the Purchase Price."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "1998-05-23",
-          "Text": "The Vendors, through their then Singapore lawyers Khattar Wong & Partners, demanded payment of the alleged balance of HK$166,042,909 of the Purchase Price."
+          "Text": "Dynasty charged 10,702,625 CDC shares to Creditanstalt Bankverein as security for facilities granted to Sia"
         }
       ],
-      "Issue": "Whether the directors of an investment holding company breach their fiduciary duties by pledging the company's sole assets to secure personal and third-party loans while the company owes a substantial debt for the purchase of those same assets.",
-      "Rule": "Under BVI company law, directors must act honestly and in good faith with a view to the best interests of the company. However, when a company is solvent, the interests of the company are synonymous with those of its shareholders. A company's constitutional documents may expressly permit the pledging of assets to secure third-party liabilities regardless of corporate benefit. If the company is solvent and acting within its constitutional powers with the consent of its sole shareholder, the directors do not breach their duties by executing such pledges.",
-      "Application": "Dynasty Line Limited functioned exclusively as an investment vehicle for its sole shareholder and director, Sia Sukamto. Between April 1996 and November 1997, Dynasty pledged its primary assets—millions of CDC shares—to various financial institutions to secure loan facilities for Sia, a company co-owned by Sia and Lee Howe Yong, and a third party. At the time of these pledges, Dynasty had acquired the shares but had not fully paid the HK$230 million purchase price. The core tension is whether these pledges constituted a misappropriation of corporate assets that prejudiced creditors, or whether they were lawful acts by a solvent BVI investment vehicle operating in accordance with its shareholder's directives and constitutional powers.",
-      "Judicial_Reasoning_Log": "The court found that Dynasty Line Limited was not insolvent, of doubtful solvency, or on the verge of insolvency at the time the shares were pledged. Applying the BVI cash-flow test for insolvency, the court noted there was no debt then due and payable because of a collateral arrangement allowing flexible payment of the purchase price, and there were no proven statutory demands at the material time. Because the company was solvent, the directors' duties were owed to the sole shareholder, not to creditors. The BVI International Business Companies Act 1984 and Dynasty's own memorandum and articles expressly authorized the company to secure the obligations of third parties irrespective of corporate benefit. Therefore, the pledging of the shares to secure loans for Sia and related parties was not improper per se. Because the directors acted within the company's powers and with the consent of the sole shareholder while the company was solvent, they did not breach their fiduciary duties. Consequently, the liquidators' claims against the former directors were dismissed."
+      "Issue": "Whether the directors of a company can be held legally responsible for actions that contravene their management obligations when the company is insolvent or near insolvency",
+      "Rule": "Directors must act in the best interests of the company and its creditors when the company is insolvent or on the verge of insolvency",
+      "Application": "The directors breached their fiduciary duties and failed to act in good faith by pledging company assets for personal benefit when the company was insolvent or on the verge of insolvency.",
+      "Judicial_Reasoning_Log": "The court found that the pledging of shares was not improper and was done in the interests of Dynasty. The directors acted honestly and in good faith, and the company was not insolvent at the material time."
     },
     "Label": "Claim Dismissed",
     "Leakage_Score": 0
@@ -121,7 +71,7 @@
     "Metadata": {
       "Case_Number": "Suit No 256 of 2010",
       "Coram": "Lai Siu Chiu J",
-      "Judge": "Lai Siu Chiu",
+      "Judge": "Lai Siu Chiu J",
       "Date": "2013-07-31",
       "Tribunal_Court": "High Court"
     },
@@ -138,113 +88,38 @@
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1996-05-06",
-          "Text": "On 6 May 1996, Sia Sukamto was appointed a director of Dynasty Line Limited."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1996-05-06",
-          "Text": "At all material times, Sia Sukamto was the sole shareholder of Dynasty Line Limited."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1994-01-01",
-          "Text": "Dynasty Line Limited was used by Sia Sukamto as a corporate vehicle for his investments and did not carry on independent trading operations."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1996-02-05",
-          "Text": "Dynasty Line Limited served as a corporate vehicle for Sia’s investments and did not have any business operations or engage in any trading."
+          "Text": "Sia Sukamto was appointed director of Dynasty Line Ltd"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "1996-02-05",
-          "Text": "Those shares were acquired from Low and the following parties under seven sale and purchase agreements dated 5 February 1996: Johnny Tsao Yue Hwa, Yap Han Hoe, Swanny Sri Sujanty Setyono, Lau Kang Thow, Evelyn Ong Suat Tay, and Low Cheng Lum."
+          "Text": "Sia acquired shares in CDC through Dynasty for HK$230,391,463"
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1996-02-02",
-          "Text": "Sia made payments totalling HK$64,348,525.81 to Low between 2 February 1996 and 11 November 1997."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "1996-04-23",
-          "Text": "On 23 April 1996, Dynasty charged 60,161,510 CDC shares to Commerzbank (South East Asia) Limited as security for facilities granted to Sia."
+          "Text": "Sia arranged for Dynasty to charge CDC shares to Commerzbank as security for his facilities"
         },
         {
-          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "1996-11-06",
-          "Text": "On 6 November 1996, Dynasty charged 28 million CDC shares to Societe Generale (Labuan branch) as security for facilities granted to Beswil Investment Pte Ltd, which is a company owned by Sia and Lee."
+          "Text": "Sia arranged for Dynasty to charge CDC shares to Societe Generale for facilities granted to Beswil Investment Pte Ltd"
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1997-11-03",
-          "Text": "On 6 November 1996, Dynasty charged 28 million CDC shares to Societe Generale (Labuan branch) as security for facilities granted to Beswil Investment Pte Ltd, which is a company owned by Sia and Lee."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1997-11-03",
-          "Text": "On 3 November 1997, Dynasty charged 10,702,625 CDC shares to Creditanstalt Bankverein as security for facilities granted to Sia."
-        },
-        {
-          "Fact_Type": "CONDUCT",
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "1997-08-29",
-          "Text": "On 29 August 1997, Dynasty charged 48,822,700 CDC shares to KG Investments Asia Limited as security for facilities granted to Franklin Syah."
+          "Text": "Sia arranged for Dynasty to charge CDC shares to KG Investments Asia Limited for facilities granted to Franklin Syah"
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1996-04-01",
-          "Text": "Between April 1996 and November 1997, Sia, on behalf of Dynasty, entered into transactions with various financial institutions pursuant to which the Sale Shares owned by Dynasty were pledged as security for loan facilities granted to Sia and other third parties."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1998-06-17",
-          "Text": "On 17 June 1998, Low filed Suit 960 of 1998 against Sia seeking payment of HK$71,836,580.31, being the alleged unpaid balance of the Purchase Price of the Sale Shares due to him under the S&P Agreements."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "1998-11-05",
-          "Text": "On 5 November 1998, the parties' solicitors recorded settlement terms for Suit 960 of 1998, including discontinuance of the suit and a condition linking Sia’s waiver of costs to Low’s commencement of other related proceedings."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1998-11-05",
-          "Text": "A letter dated 5 November 1998 from Lee & Lee to Khattar Wong & Partners recorded that Suit 960 of 1998 would be discontinued, that a notice of discontinuance would be filed by 9 November 1998, that Sia would not claim costs on the condition that Low did not commence or continue other proceedings connected with the facts or subject matters of Suit 960, and that if such proceedings were commenced, Sia could seek taxation and recovery of his costs."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1998-12-22",
-          "Text": "On 22 December 1998, five of the Remaining Vendors sued Sia in Suit 2333 of 1998 for the alleged unpaid balance of the Purchase Price of the Sale Shares owed to them under their respective S&P Agreements."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1999-05-26",
-          "Text": "Suit 2333 was discontinued on 26 May 1999."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1998-06-19",
-          "Text": "On 19 June 1998, Sia, through Dynasty, brought an action in HCA 10075 of 1998 against Low and the Remaining Vendors for misrepresentation in relation to the Sale Shares."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1998-12-16",
-          "Text": "This action was struck out on 16 December 1998 as Dynasty lacked the funds to continue the proceedings."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2007-09-27",
-          "Text": "On 27 September 2007, the Provisional Liquidators commenced proceedings on Dynasty’s behalf against Sia and Lee in HCA 2057 of 2007 for, inter alia, alleged breaches of fiduciary duties in relation to the Sale Shares."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-04-14",
-          "Text": "On 14 April 2010, the Liquidators commenced the Original Action against Sia and Lee for, inter alia, alleged breaches of fiduciary duties owed to Dynasty."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1997-11-03",
+          "Text": "Sia arranged for Dynasty to charge CDC shares to Creditanstalt Bankverein for his facilities"
         }
       ],
-      "Issue": "Whether a prior settlement agreement and subsequent insolvency proceedings brought by a creditor constitute an actionable conspiracy or breach of contract barring the liquidators from pursuing claims against a former director for pledging corporate assets.",
-      "Rule": "A settlement agreement is interpreted objectively to determine its scope and whether it imposes an absolute bar on future litigation. Liquidators pursuing claims on behalf of an insolvent estate are presumed to act independently to recover assets for creditors. To establish a conspiracy by lawful means, a party must prove a combination with the predominant intention to cause injury, rather than a legitimate commercial purpose such as debt recovery.",
-      "Application": "Sia Sukamto, as sole director and shareholder, pledged Dynasty's shares to secure personal loans. After facing lawsuits for the unpaid purchase price of those shares, Sia reached a settlement in 1998 regarding one specific suit (Suit 960), waiving his claim for costs on the condition that the creditor did not commence related proceedings. Years later, the creditor successfully petitioned to wind up Dynasty, and the appointed liquidators initiated the current action against Sia for breach of fiduciary duty. Sia counterclaims that the creditor breached the 1998 settlement and conspired with the liquidators to pursue baseless claims against him as the alter ego of the company.",
-      "Judicial_Reasoning_Log": "The 1998 settlement letter did not impose an absolute prohibition on future proceedings; it merely stipulated that if related proceedings were commenced, Sia could recover his costs for the discontinued suit. It did not represent a full and final settlement of all underlying substantive disputes. Furthermore, there was no evidence that the creditor controlled the liquidators as an alter ego. The liquidators acted on independent professional and legal advice to maximize recovery for the insolvent estate. Because the predominant purpose of the litigation and winding-up proceedings was legitimate debt recovery rather than a concerted effort to injure Sia, the conspiracy claims fail. However, on the primary claim brought by the liquidators, because the company was solvent at the time the pledges were made and the BVI constitution permitted such third-party security arrangements, Sia did not breach his fiduciary duties. Therefore, while Sia's counterclaims are dismissed, he is also not liable on the primary claim."
+      "Issue": "Whether a director can be held legally responsible for pledging company assets when the company is not insolvent",
+      "Rule": "Directors are required to act in the best interests of the company and its creditors when the company is insolvent or on the verge of insolvency",
+      "Application": "The company was solvent at the time of the transactions, and the pledging of shares was executed in good faith and squarely within the directors' rights.",
+      "Judicial_Reasoning_Log": "The court found that the company was not insolvent at the time of the transactions and the directors acted within their rights."
     },
     "Label": "Not Liable",
     "Leakage_Score": 0
@@ -253,7 +128,7 @@
     "Metadata": {
       "Case_Number": "Suit No 256 of 2010",
       "Coram": "Lai Siu Chiu J",
-      "Judge": "Lai Siu Chiu",
+      "Judge": "Lai Siu Chiu J",
       "Date": "2013-07-31",
       "Tribunal_Court": "High Court"
     },
@@ -271,42 +146,64 @@
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1996-05-06",
-          "Text": "On 6 May 1996, Lee Howe Yong was appointed a director of Dynasty Line Limited."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1996-05-06",
-          "Text": "Lee Howe Yong was promised 20% of the profits of Dynasty Line Limited without any equity contribution."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "1996-11-06",
-          "Text": "On 6 November 1996, Dynasty charged 28 million CDC shares to Societe Generale (Labuan branch) as security for facilities granted to Beswil Investment Pte Ltd, which is a company owned by Sia and Lee."
+          "Text": "Lee Howe Yong was appointed director of Dynasty Line Ltd"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1996-11-06",
-          "Text": "On 6 November 1996, Dynasty charged 28 million CDC shares to Societe Generale (Labuan branch) as security for facilities granted to Beswil Investment Pte Ltd, which is a company owned by Sia and Lee."
+          "Fact_Date": "1996-05-06",
+          "Text": "Lee was promised 20% of Dynasty's profits without any equity contribution"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1996-04-01",
-          "Text": "Between April 1996 and November 1997, Sia, on behalf of Dynasty, entered into transactions with various financial institutions pursuant to which the Sale Shares owned by Dynasty were pledged as security for loan facilities granted to Sia and other third parties."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-11-06",
+          "Text": "Dynasty charged 28 million CDC shares to Societe Generale as security for facilities granted to Beswil Investment Pte Ltd, a company owned by Sia and Lee"
         }
       ],
-      "Issue": "Whether a director breaches his fiduciary duties by allowing a solvent company to pledge its assets to secure loans for a separate entity in which he holds an interest.",
-      "Rule": "A director must act honestly and in good faith with a view to the best interests of the company. However, when a company is solvent, its interests are aligned with its shareholders. If the company's constitution and governing law explicitly permit the pledging of assets to secure third-party liabilities regardless of corporate benefit, a director does not breach their duty by participating in such transactions, provided the sole shareholder consents.",
-      "Application": "Lee Howe Yong served as a director of Dynasty Line Limited. During his tenure, Dynasty pledged a significant portion of its shares to secure loan facilities for Beswil Investment Pte Ltd, a company co-owned by Lee and Sia Sukamto (Dynasty's sole shareholder). The liquidators argue that by authorizing or failing to prevent the use of corporate assets to secure loans for an entity in which he had a personal interest, Lee failed to exercise reasonable skill, care, and diligence, thereby breaching his fiduciary duties.",
-      "Judicial_Reasoning_Log": "At the time the security transactions were executed, Dynasty Line Limited was factually solvent under the BVI cash-flow test, as there were no debts currently due and payable owing to a collateral payment arrangement. Because the company was solvent, the directors' duties were owed to the sole shareholder, who actively directed and consented to the pledges. The BVI International Business Companies Act and Dynasty's own constitutional documents explicitly authorized the company to secure the obligations of third parties irrespective of corporate benefit. Since the transactions were legally permissible, within the company's powers, and aligned with the will of the solvent company's sole shareholder, Lee Howe Yong's participation did not constitute a lack of honesty, good faith, or reasonable care. The claims against him for breach of fiduciary duty must therefore fail."
+      "Issue": "Whether a director can be held legally responsible for actions taken in the interest of the company when the company is not insolvent",
+      "Rule": "Directors must act in the best interests of the company and its creditors when the company is insolvent or on the verge of insolvency",
+      "Application": "The company was solvent at the material times, and the actions taken were executed honestly and in the best commercial interests of the company.",
+      "Judicial_Reasoning_Log": "The court found that the company was not insolvent at the time of the transactions and the directors acted within their rights."
     },
     "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Suit No 256 of 2010",
+      "Case_Number": "Suit No 256 of 2010 (Counterclaim)",
       "Coram": "Lai Siu Chiu J",
-      "Judge": "Lai Siu Chiu",
+      "Judge": "Lai Siu Chiu J",
+      "Date": "2013-07-31",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Sia Sukamto",
+      "Law_Firm": "Legis Point LLC",
+      "Counsel": [
+        "Samuel Chacko",
+        "Angeline Soh",
+        "Christopher Yeo"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1998-11-05",
+          "Text": "Sia and Low settled Suit 960 on 1998-11-05, and Low agreed to discontinue the action"
+        }
+      ],
+      "Issue": "Whether the defendant by counterclaim acted in breach of the settlement agreement and engaged in a conspiracy to injure",
+      "Rule": "A party to a settlement agreement must not pursue related claims if it contravenes the terms of the agreement",
+      "Application": "Low contravened the personal settlement agreement and engaged in an unlawful conspiracy to injure by procuring the liquidators to commence claims against Sia through the company.",
+      "Judicial_Reasoning_Log": "The court found that the claims pursued by Dynasty were separate from the settlement agreement and did not constitute a breach or an unlawful conspiracy."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 256 of 2010 (Counterclaim)",
+      "Coram": "Lai Siu Chiu J",
+      "Judge": "Lai Siu Chiu J",
       "Date": "2013-07-31",
       "Tribunal_Court": "High Court"
     },
@@ -320,30 +217,35 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1996-02-05",
-          "Text": "On 5 February 1996, Low Tuck Kwong and the other vendors entered into seven sale and purchase agreements for the sale of 29,537,367 China Development Corporation Limited shares to Dynasty Line Limited."
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2007-08-23",
+          "Text": "Low presented a petition in the Hong Kong High Court for the appointment of provisional liquidators for Dynasty."
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1996-02-05",
-          "Text": "Under the sale and purchase agreements dated 5 February 1996, the total purchase price for the 29,537,367 China Development Corporation Limited shares was HK$230,391,463."
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2007-09-27",
+          "Text": "Provisional Liquidators commenced proceedings against Sia and Lee in HCA 2057 of 2007."
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1996-03-01",
-          "Text": "Between March 1996 and May 1996, the vendors voluntarily transferred all their shares to Dynasty Line Limited before the intended completion date of 2 May 1996."
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-10-29",
+          "Text": "Low filed a petition in the BVI High Court to wind up Dynasty."
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1997-11-11",
-          "Text": "By 11 November 1997, Sia had made payments totalling HK$64,348,525.81 to Low between 2 February 1996 and 11 November 1997."
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2009-12-22",
+          "Text": "Low's application to wind up Dynasty was granted and liquidators were appointed."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-04-14",
+          "Text": "The Liquidators commenced the Original Action against Sia and Lee."
         }
       ],
-      "Issue": "Whether a creditor's actions in funding liquidation proceedings and supporting claims against former directors constitute a breach of a prior settlement agreement or an actionable conspiracy to injure.",
-      "Rule": "A settlement agreement is interpreted objectively; an agreement waiving costs on the condition that related suits are not filed does not act as an absolute bar to future litigation but merely triggers the right to recover those waived costs. Furthermore, a creditor pursuing statutory winding-up processes and funding independent liquidators to recover a judgment debt is engaging in lawful commercial conduct, which defeats the 'predominant intention to injure' requirement necessary to establish a conspiracy by lawful means.",
-      "Application": "Low Tuck Kwong sold shares to Dynasty Line Limited and subsequently pursued litigation for the unpaid balance. A 1998 settlement concerning one of these suits involved the opposing party waiving costs on the condition that Low did not commence related proceedings. Years later, after securing a monetary judgment, Low petitioned to wind up Dynasty and funded the appointed liquidators, who then sued the former directors. The former directors counterclaimed, asserting that Low breached the 1998 settlement and conspired with the liquidators as an 'alter ego' to maliciously pursue stale claims.",
-      "Judicial_Reasoning_Log": "Objective interpretation of the 1998 settlement letter reveals it was not a full and final global release of all claims, but a conditional costs waiver. The condition explicitly outlined the remedy if breached: the right to seek taxation and recovery of the previously waived costs, not an injunction against future suits. Therefore, funding subsequent litigation did not breach the agreement. Additionally, the corporate veil of the liquidators cannot be pierced simply because Low funded them; the liquidators acted on independent legal advice to recover assets for the estate. Because Low's actions were driven by the legitimate commercial purpose of enforcing a judgment debt and maximizing recovery in insolvency, the predominant purpose was not to injure the defendants. Consequently, the conspiracy and alter ego counterclaims against the creditor must be dismissed."
+      "Issue": "Whether the defendants by counterclaim breached the settlement agreement and engaged in a conspiracy to injure",
+      "Rule": "A party to a settlement agreement must not pursue related claims if it contravenes the terms of the agreement",
+      "Application": "The claims pursued by Dynasty were independent corporate actions brought by the liquidators that did not contravene the personal settlement agreement, and there was no conspiracy to injure.",
+      "Judicial_Reasoning_Log": "The court found that the claims pursued by Dynasty were separate from the settlement agreement and did not constitute a breach or an unlawful conspiracy."
     },
     "Label": "Not Liable",
     "Leakage_Score": 0

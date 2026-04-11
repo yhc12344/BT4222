@@ -12,84 +12,49 @@
       "Name": "TYC Investment Pte Ltd",
       "Law_Firm": "TSMP Law Corporation",
       "Counsel": [
-        "Thio Shen Yi SC",
-        "Lim Shaochun Freddie",
-        "Tan Pei Qian Rachel"
-      ],
-      "Facts": [
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1979-01-01",
-          "Text": "The company was established as a family holding company to manage shares in The Hour Glass Limited and other family assets."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-06-11",
-          "Text": "The company became bound by a Deed requiring both Governing Directors to jointly approve all future corporate payments via a voucher system."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2013-04-01",
-          "Text": "The company received an invoice from KPMG for $19,424.05 regarding tax and accounting advisory services."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2013-09-04",
-          "Text": "An extraordinary general meeting was convened where resolutions were passed to authorize the commencement of legal proceedings to resolve a management deadlock."
-        }
-      ],
-      "Issue": "Whether a company can utilize shareholder reserve powers to authorize the commencement of litigation and the appointment of solicitors when its board is deadlocked.",
-      "Rule": "Management powers are generally reserved to the board, but limited reserve powers may be implied to shareholders if the board is unable or unwilling to act and such steps are necessary to enable the company to function.",
-      "Application": "The Plaintiff stated that the entrenched joint-approval system paralyzed corporate action, necessitating judicial intervention via shareholder resolutions. The Defendants argued that the board's powers could not be usurped by shareholders under the company's constitution.",
-      "Conclusion": "Claim Dismissed",
-      "Judicial_Reasoning_Log": "The court dismissed the application. While it recognized a limited reserve power in shareholders to appoint solicitors during a deadlock, it ruled that shareholders could not authorize a director to unilaterally sign cheques in contravention of an entrenched joint-approval mechanism."
-    }
-  },
-  {
-    "Metadata": {
-      "Case_Number": "Originating Summons No 895 of 2013",
-      "Coram": "Lee Kim Shin JC",
-      "Judge": "Lee Kim Shin JC",
-      "Date": "2014-10-10",
-      "Tribunal_Court": "High Court"
-    },
-    "Party_Details": {
-      "Role": "Defendant",
-      "Name": "Tay Yun Chwan Henry",
-      "Law_Firm": "Tan Rajah & Cheah",
-      "Counsel": [
-        "Chelva Retnam Rajah SC",
-        "Sayana Baratham",
-        "Megan Chia"
+        "Thio Shen Yi, SC",
+        "Lim Shaochun, Freddie",
+        "Tan Pei Qian, Rachel"
       ],
       "Facts": [
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1979-01-01",
-          "Text": "He co-founded the family holding company and served as a permanent Governing Director."
+          "Text": "TYC Investment Pte Ltd was established as a family holding company"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-05-15",
-          "Text": "He executed an agreement introducing a strict payment voucher system requiring joint approval for all corporate fund disbursements."
+          "Fact_Date": "2012-06-11",
+          "Text": "TYC entered into a deed with HT and JC on 2012-06-11 in respect of certain matters relating to TYC"
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2013-09-04",
+          "Text": "An extraordinary general meeting was held to address JC's refusal to approve payments"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-01-01",
+          "Text": "HT and JC agreed that both must approve payments by TYC"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2013-08-06",
-          "Text": "His associated company, Amstay Pte Ltd, paid a $19,424.05 corporate invoice and subsequently sought reimbursement from the holding company."
+          "Fact_Date": "2013-04-01",
+          "Text": "An invoice for $19,424.05 to TYC"
         },
         {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2013-09-04",
-          "Text": "He convened an extraordinary general meeting to pass resolutions enabling him to unilaterally authorize corporate payments."
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2013-09-11",
+          "Text": "HT informed TYC's shareholders of TSMP's appointment by email"
         }
       ],
-      "Issue": "Whether a director possesses the authority to unilaterally appoint legal counsel or override a joint-approval payment mechanism through majority shareholder resolutions.",
-      "Rule": "A director acting without a valid board resolution cannot bind the company to significant management decisions if the constitution requires joint consent.",
-      "Application": "The Defendant supported the company's efforts to break the deadlock and effect payments. The opposing director stated that his unilateral appointment of lawyers and attempt to bypass the voucher system was a contravention of the corporate constitution.",
-      "Conclusion": "Not Liable",
-      "Judicial_Reasoning_Log": "The court found that the director lacked the authority to unilaterally commence the action in the name of the company or to override the joint-approval framework established by the settlement documents."
-    }
+      "Issue": "Whether a company can enforce payment obligations against a director who refuses to approve payments under a mutual agreement",
+      "Rule": "A director must act in the best interest of the company and cannot withhold approval for payments capriciously or arbitrarily",
+      "Application": "JC' her refusal was justified due to concerns over the legitimacy of the expenses",
+      "Judicial_Reasoning_Log": "The court found that while JC had some valid concerns, her refusal to approve payments was not entirely justified under the agreed terms."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
   },
   {
     "Metadata": {
@@ -101,7 +66,7 @@
     },
     "Party_Details": {
       "Role": "Defendant",
-      "Name": "Chan Siew Lee Jannie",
+      "Name": "Jannie Chan Siew Lee",
       "Law_Firm": "Eugene Thuraisingam",
       "Counsel": [
         "Eugene Thuraisingam",
@@ -111,29 +76,40 @@
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1979-01-01",
-          "Text": "She co-founded the family holding company and served as a permanent Governing Director with 44% voting rights."
+          "Text": "Jannie Chan Siew Lee was one of TYC's permanent Governing Directors under article 8 of its articles of association"
         },
         {
-          "Fact_Type": "CONDUCT",
+          "Fact_Type": "CHRONOLOGY",
           "Fact_Date": "2012-07-01",
-          "Text": "She began withholding her signature on corporate payment vouchers, effectively blocking the disbursement of funds for property and professional expenses."
+          "Text": "JC refused to approve certain payments by TYC"
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2013-04-01",
-          "Text": "She refused to approve the payment of a $19,424.05 invoice from KPMG citing a lack of clarity regarding the scope of work."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-06-11",
+          "Text": "JC entered into the TYC Deed with HT and TYC in respect of certain matters relating to TYC as agreed in the DOS and the SSD"
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2013-09-11",
-          "Text": "She formally challenged the authority of the external solicitors appointed by her co-director and the shareholder group."
+          "Text": "JC informed HT and TSMP that she did not recognize TSMP's authority to act for TYC"
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2013-09-04",
+          "Text": "JC did not attend the extraordinary general meeting called by HT"
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2013-04-01",
+          "Text": "JC refused to approve payment of KPMG's invoice for $19,424.05"
         }
       ],
-      "Issue": "Whether a governing director's refusal to approve specific corporate payments constitutes a contravention of management obligations when the governance structure requires joint consent.",
-      "Rule": "A director is entitled to scrutinize corporate expenses and exercise independent judgment; a court will not compel a director's management decision unless it contravenes the law or the company's constitution.",
-      "Application": "The Plaintiff stated her refusal to sign cheques was obstructive and paralyzed the business. The Defendant argued her refusal was a legitimate exercise of management oversight regarding expenses she deemed questionable.",
-      "Conclusion": "Not Liable",
-      "Judicial_Reasoning_Log": "The judge affirmed that her refusal to sign cheques was a management function. The court declined to rewrite the parties' contract or imply terms restricting her power to withhold approval, as her conduct was already governed by existing statutory duties."
-    }
+      "Issue": "Whether a director can be compelled to approve payments when there is a deadlock in management decisions",
+      "Rule": "A director's refusal to approve payments must be justified and not contrary to the company's best interests",
+      "Application": "Her refusal was based on legitimate concerns about the expenses. JC's actions were obstructive and against the agreed terms",
+      "Judicial_Reasoning_Log": "The court acknowledged JC's concerns but emphasized the need for cooperation in management decisions."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
   }
 ]

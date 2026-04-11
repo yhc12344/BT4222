@@ -2,7 +2,7 @@
   {
     "Metadata": {
       "Case_Number": "Originating Claim No 100 of 2023",
-      "Coram": "Duke Bakery Pte Ltd v Lin Liming and others [2024] SGHC 318",
+      "Coram": "Hri Kumar Nair J",
       "Judge": "Hri Kumar Nair J",
       "Date": "2024-12-13",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
@@ -20,189 +20,39 @@
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2014-07-01",
-          "Text": "Around July 2014, Duke Bakery Pte Ltd was operating in Singapore in the business of producing and selling confectionery and bakery products through a central kitchen and multiple retail outlets."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2015-12-19",
-          "Text": "As at around 19 December 2015, Duke Bakery operated 14 retail stores in Singapore."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2016-12-26",
-          "Text": "As at around 26 December 2016, Duke Bakery operated 15 retail stores in Singapore."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2018-12-31",
-          "Text": "By the end of 2018, Duke Bakery operated 13 retail stores in Singapore."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2019-01-01",
-          "Text": "From January 2019 onwards, Duke Bakery funded its own operations without requiring further shareholder loans from Junhao Investment Pte Ltd."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2020-12-31",
-          "Text": "By the end of 2020, Duke Bakery operated 11 retail stores in Singapore."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2021-12-31",
-          "Text": "By the end of 2021, Duke Bakery operated 10 retail stores in Singapore."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2022-12-31",
-          "Text": "By the end of 2022, Duke Bakery operated 10 retail stores in Singapore."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2023-12-31",
-          "Text": "By the end of 2023, Duke Bakery operated 13 retail stores in Singapore."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2015-12-19",
-          "Text": "On or around 19 December 2015, Duke Bakery's director Zhang Yongqiang informed the directors that he planned to expand Duke Bakery's production capability by June 2016 to meet the production requirement of 25 stores."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2016-12-26",
-          "Text": "On or around 26 December 2016, Zhang Yongqiang informed Duke Bakery's directors of a plan to open an additional six to seven stores in 2017."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2016-12-19",
-          "Text": "As at 19 December 2016, Junhao Investment Pte Ltd shareholders had provided loans totalling $2.12 million to Duke Bakery, of which $500,000 came from shareholder Lin Liming."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2016-12-26",
-          "Text": "On 26 December 2016, Zhang Yongqiang sent a WeChat message to Junhao Investment Pte Ltd shareholders asking for further loan contributions to Duke Bakery to support expansion, but no shareholder responded."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2016-12-28",
-          "Text": "On 28 December 2016, Zhang Yongqiang sent a draft WeChat message to shareholder Cai Duanhong stating proposed contribution percentages for a further loan to Duke Bakery, indicating a 12% share for Lin Liming and 8% for shareholder Mdm Lee Chiayun."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2016-12-19",
-          "Text": "In late December 2016, Duke Bakery required approximately $380,000 to open a new store in Bedok, including an urgent $150,000 needed to pay a deposit to secure the store."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2017-01-05",
-          "Text": "On 5 January 2017, shareholder Cai Duanhong asked managing director Zhang Yongqiang via WeChat whether a sum of $150,000 had been paid into Duke Bakery by shareholder Lin Liming; after being told no funds had been received, Cai informed Zhang that Lin would transfer $150,000 to Duke Bakery that day and instructed that there was no need to issue another appeal to other Junhao shareholders, stating that the matter was mainly between Cai and Lin."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017-01-05",
-          "Text": "On or around 5 January 2017, Duke Bakery received a $150,000 payment from shareholder Lin Liming intended to fund the opening of the Bedok store."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2017-01-11",
-          "Text": "On 11 January 2017, a Letter of Agreement was prepared recording a $150,000 loan from shareholder Lin Liming to Duke Bakery with a stated repayment date of 10 February 2017, bearing signatures for Lin as lender, Zhang Yongqiang on behalf of Duke Bakery, and a witnessing signature by finance manager Chng Chee Hong."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2017-02-13",
-          "Text": "On 13 February 2017, Zhang Yongqiang sent a WeChat message to shareholder Cai Duanhong describing the $150,000 funding from Lin Liming as a temporary loan that had to be repaid and relayed that Lin wanted repayment; Cai replied suggesting that future loan contributions expected from Lin could be set off against the $150,000, with any balance to be repaid to Lin."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017-01-11",
-          "Text": "Between January and late 2017, Duke Bakery made multiple instalment payments to shareholder Lin Liming totalling $150,000, recorded in Duke Bakery's general ledger as repayments of the January 2017 loan."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2017-01-11",
-          "Text": "For each instalment repayment of the $150,000 loan in 2017, Duke Bakery prepared payment vouchers that, according to its finance procedures, were accompanied by a copy of the 11 January 2017 Letter of Agreement as supporting documentation."
+          "Fact_Date": "2024-08-01",
+          "Text": "Duke Bakery Pte Ltd was in the business of producing and selling confectionery and bakery products"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2024-08-01",
+          "Text": "Duke Bakery operated a central kitchen and had 12 retail outlets as of August 2024"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2017-01-01",
-          "Text": "In 2017, Duke Bakery's indirect majority shareholder was Junhao Investment Pte Ltd, whose largest individual shareholder was Cai Duanhong."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017-12-31",
-          "Text": "For the financial year ended 31 December 2017, Duke Bakery's financial statements, which reflected the 2017 repayments to shareholder Lin Liming, were audited and signed by shareholder-director Cai Duanhong."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2018-01-21",
-          "Text": "On 21 January 2018, finance manager Chng Chee Hong sent a WeChat message to a Junhao Investment Pte Ltd shareholders' group chat stating that a $200,000 loan was required from Junhao shareholders for Duke Bakery and that shareholder Lin Liming's share of this loan was $24,000, corresponding to 12%."
+          "Text": "Mr Lin loaned $150,000 to Duke Bakery in January 2017 to help pay a deposit for a new store in Bedok"
         },
         {
           "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-09-23",
-          "Text": "On 23 September 2018, after her employment ended, former finance manager Chng Chee Hong sent a WeChat message to shareholder Cai Duanhong stating that based on her own calculations she had taken about $380,000 from Duke Bakery."
+          "Fact_Date": "2017-01-05",
+          "Text": "Mr Cai communicated with Mr Zhang about Mr Lin's $150,000 loan to Duke Bakery"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2020-12-01",
-          "Text": "In December 2020, Duke Bakery paid a total of approximately $300,000 from its funds to Junhao Investment Pte Ltd shareholders, excluding shareholder Lin Liming, in proportions corresponding to their shareholdings, including a substantial amount to shareholder-director Cai Duanhong."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017-07-01",
-          "Text": "In July 2017, Junhao Investment Pte Ltd shareholder Mdm Lee Chiayun transferred her 8% shareholding in Junhao to shareholder-director Cai Duanhong."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2017-01-01",
-          "Text": "During the period 2015 to 2018, Duke Bakery relied on Junhao Investment Pte Ltd shareholders, including Cai Duanhong and Lin Liming, to provide shareholder loans to fund store openings and operations."
+          "Fact_Date": "2017-02-10",
+          "Text": "A Letter of Agreement was signed requiring Duke Bakery to repay Mr Lin's loan by 10 February 2017"
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-01-01",
-          "Text": "Between 2015 and 2018, Duke Bakery's internal financial controls allowed the issuance of cash cheques and cash payments, and supporting documents for some payments were not consistently retained."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-01-01",
-          "Text": "Between 2015 and 2018, Duke Bakery used WeChat as a primary communication channel among Junhao Investment Pte Ltd shareholders and Duke Bakery's directors and employees for matters including funding and store expansion."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2017-03-01",
-          "Text": "After March 2017, managing director Zhang Yongqiang prepared a written analysis for Duke Bakery estimating that the starting capital open a new store ranged from approximately $105,056 to $384,851.39 depending on store type and size."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-01-01",
-          "Text": "During 2015 to 2018, Duke Bakery operated a commission scheme under which employees received commissions for selling VIP cards, and related commission payments were processed through its finance function."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-01-01",
-          "Text": "During 2015 to 2018, Duke Bakery reimbursed certain staff medical and transport expenses, and managing director Zhang Yongqiang occasionally approved reimbursements above contractual limits."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-01-01",
-          "Text": "During 2015 to 2018, Duke Bakery made salary and other payments to employees in cash or by cheque, supported by vouchers and invoices, and did not receive complaints from employees that they had not received such payments."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2015-01-01",
-          "Text": "Between 2015 and 2018, some third-party invoices used in Duke Bakery's payment processes showed identical phone and fax numbers across different named companies and similar layouts, and some invoices were issued in the names of entities that could not be identified."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2022-09-17",
-          "Text": "On 17 September 2022, former finance manager Chng Chee Hong sent a WeChat message to shareholder Cai Duanhong stating that she had continued to pay money back to Duke Bakery after fully returning more than $300,000, and that any extra money repaid was intended as compensation and to persuade the company to give her a chance not to proceed with charges."
+          "Fact_Date": "2017-02-13",
+          "Text": "Mr Zhang described Mr Lin's loan as temporary and requiring repayment"
         }
       ],
-      "Issue": "Whether the repayment of a $150,000 advance to a shareholder-director constitutes an unlawful extraction of corporate funds, and whether employee misappropriation caused a compensable loss of future profits by derailing planned store expansions.",
-      "Rule": "A company is contractually obligated to repay funds advanced by a shareholder if contemporaneous documentation and internal communications characterize the transaction as a repayable short-term loan rather than a capital contribution. When seeking damages for lost future profits due to employee misappropriation, a company must prove that it had a definitive intention and realistic capability to expand, and that the specific shortfall in funds—rather than external market factors or strategic site unavailability—directly caused the abandonment of those expansion plans.",
-      "Application": "In January 2017, Duke Bakery urgently required funds to secure a new store in Bedok. Shareholder Lin Liming advanced $150,000. A formal Letter of Agreement was executed, detailing a one-month repayment deadline. Over the course of 2017, the managing director authorized the gradual repayment of this sum, which was recorded in the company ledger and audited without objection from the majority shareholder. Separately, the finance manager misappropriated over $300,000 but subsequently repaid more than $420,000. Following these events, the company’s store count fluctuated, eventually decreasing. The core legal conflict centers on whether the $150,000 repayment was a breach of director duties, and whether the temporary loss of the misappropriated funds directly caused the company to abandon its stated goal of expanding to 25 stores, thereby entitling the company to massive lost-profit damages.",
-      "Judicial_Reasoning_Log": "The $150,000 transfer from Lin Liming was supported by a signed Letter of Agreement and consistent internal WeChat communications confirming it was a temporary, repayable loan, not a capital contribution under an alleged shareholder pact. Because the company was contractually bound to repay the loan, the directors did not breach their fiduciary duties or conspire to misappropriate funds by executing those repayments. The conspiracy claim against the directors therefore failed. Regarding the damages claim against the finance manager, while misappropriation occurred, the company failed to prove that this specific shortfall caused the abandonment of store expansions. Store closures and the failure to reach the 25-store target were driven by operational realities, such as unsuitable locations, poor foot traffic, and mall tenant-mix policies, rather than a lack of capital—especially since the company later accumulated enough surplus funds to pay out $300,000 to shareholders. Consequently, the claim for lost future profits was dismissed as legally and factually unsupportable."
+      "Issue": "Transfer Agreement",
+      "Rule": "A company is bound by the terms of a loan agreement unless a valid and mutually agreed modification exists",
+      "Application": "The loan was subject to a Transfer Agreement, the loan was temporary and repayable",
+      "Judicial_Reasoning_Log": "The court found no evidence of the Transfer Agreement and upheld the validity of the Letter of Agreement, requiring repayment of the loan."
     },
     "Label": "Claim Dismissed",
     "Leakage_Score": 0
@@ -210,7 +60,7 @@
   {
     "Metadata": {
       "Case_Number": "Originating Claim No 100 of 2023",
-      "Coram": "Duke Bakery Pte Ltd v Lin Liming and others [2024] SGHC 318",
+      "Coram": "Hri Kumar Nair J",
       "Judge": "Hri Kumar Nair J",
       "Date": "2024-12-13",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
@@ -224,70 +74,35 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2014-01-01",
-          "Text": "Lin Liming was Duke Bakery Pte Ltd's former director and had no executive role in Duke Bakery."
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2024-08-01",
+          "Text": "Lin Liming was a former director of Duke Bakery"
         },
         {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2014-01-01",
-          "Text": "Lin Liming held 12% of Junhao Investment Pte Ltd's shares in his own name."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2016-12-19",
-          "Text": "As at 19 December 2016, Mr Lin had loaned a total of $500,000 to Duke Bakery out of total shareholder loans of $2.12 million."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2016-12-19",
-          "Text": "Lin Liming held 12% of Junhao's shares in his own name."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2016-12-28",
-          "Text": "On 28 December 2016, Mr Zhang sent a WeChat message to Mr Cai with a draft message noting that Mr Lin's share of contributions was 12% and Mdm Lee's was 8%."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2017-01-05",
-          "Text": "On 5 January 2017, Mr Cai messaged Mr Zhang that Mr Lin would transfer $150,000 to Duke Bakery that day."
+          "Text": "Lin Liming loaned $150,000 to Duke Bakery"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2024-09-11",
+          "Text": "Lin Liming discussed the loan with Mr Cai"
         },
         {
           "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2017-01-11",
-          "Text": "On 11 January 2017, a Letter of Agreement recorded a $150,000 loan from Mr Lin to Duke Bakery, with repayment due by 10 February 2017."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2017-01-11",
-          "Text": "Mr Lin insisted on the Letter Agreement being signed before he would extend the loan."
+          "Fact_Date": "2017-02-10",
+          "Text": "A Letter of Agreement was signed for the repayment of the loan by 10 February 2017"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017-02-13",
-          "Text": "On 13 February 2017, Mr Zhang sent a WeChat message to Mr Cai describing the loan as temporary and saying it had to be repaid."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017-12-31",
-          "Text": "During 2017, Duke Bakery made instalment payments to Mr Lin totalling $150,000, which were recorded in Duke Bakery's general ledger as loan repayments."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2017-07-01",
-          "Text": "In July 2017, Mdm Lee transferred her 8% shares in Junhao to Mr Cai."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-01-21",
-          "Text": "On 21 January 2018, Mdm Chng sent a WeChat message to a group chat stating that a loan of $200,000 was required from Junhao's shareholders and that Mr Lin was to contribute $24,000, ie, 12% of that loan."
+          "Fact_Date": "2017-01-01",
+          "Text": "Lin Liming received repayments for the loan from Duke Bakery"
         }
       ],
-      "Issue": "Whether a $150,000 advance provided by a shareholder-director constitutes a repayable short-term loan or a mandatory, non-repayable capital contribution.",
-      "Rule": "The characterization of a shareholder advance is determined by contemporaneous agreements and corporate records. A written agreement explicitly detailing a loan amount and a specific repayment date establishes a binding debt obligation. In the absence of a formalized shareholder pact overriding such terms, the company is legally required to honor the repayment.",
-      "Application": "Lin Liming held a 12% indirect stake in Duke Bakery and had previously loaned the company $500,000. When the company urgently needed funds for a new store deposit in January 2017, Lin transferred $150,000. Before doing so, he insisted on the execution of a formal Letter of Agreement, which explicitly documented the transfer as a loan to be repaid within one month. The company subsequently made installment repayments throughout 2017, recording them as loan repayments in its audited ledger. The dispute centers on whether this $150,000 was a binding loan or whether Lin was obligated to provide it as a non-repayable capital injection under an alleged broader shareholder agreement.",
-      "Judicial_Reasoning_Log": "The existence of an overarching shareholder 'Transfer Agreement' compelling non-repayable capital contributions was entirely unproven, lacking any contemporaneous documentary support. Conversely, the 11 January 2017 Letter of Agreement clearly documented a temporary, repayable loan. This classification was corroborated by internal WeChat messages between the directors and the company's own audited ledgers. Because the loan agreement was authentic and enforceable, the company was legally obligated to repay the funds. Consequently, receiving the $150,000 repayment did not cause a loss to the company, and the claims against the shareholder for conspiracy or breach of duty in receiving the funds were dismissed."
+      "Issue": "Whether Lin Liming was legally responsible for receiving loan repayments under a disputed Transfer Agreement",
+      "Rule": "A lender is entitled to repayment unless a valid agreement to the contrary is proven",
+      "Application": "It was subject to a Transfer Agreement preventing repayment",
+      "Judicial_Reasoning_Log": "The court found no evidence of the Transfer Agreement and upheld the validity of the Letter of Agreement, allowing repayment."
     },
     "Label": "Not Liable",
     "Leakage_Score": 0
@@ -295,7 +110,7 @@
   {
     "Metadata": {
       "Case_Number": "Originating Claim No 100 of 2023",
-      "Coram": "Duke Bakery Pte Ltd v Lin Liming and others [2024] SGHC 318",
+      "Coram": "Hri Kumar Nair J",
       "Judge": "Hri Kumar Nair J",
       "Date": "2024-12-13",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
@@ -309,60 +124,30 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2017-01-01",
-          "Text": "From at least 2014, Zhang Yongqiang was the Managing Director of Duke Bakery Pte Ltd."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2015-12-19",
-          "Text": "In or around 19 December 2015, Mr Zhang announced to Duke Bakery's directors a plan to expand its production capability by June 2016 to meet the production requirement of 25 stores. At that time, Duke Bakery had 14 stores."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2016-12-26",
-          "Text": "In or around 26 December 2016, Mr Zhang announced to Duke Bakery's directors a plan to open an additional six to seven stores in 2017. At that time, Duke Bakery had 15 stores."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2016-12-26",
-          "Text": "On 26 December 2016, Mr Zhang sent a WeChat message to Mr Cai with a draft message to be sent to Junhao's shareholders, noting that Mr Lin's share of contributions was 12% and that Mdm Lee's was 8%."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2016-12-28",
-          "Text": "On 28 December 2016, Mr Zhang sent a WeChat message to Mr Cai with a draft message to be sent to Junhao's shareholders, noting that Mr Lin's share of contributions was 12% and that Mdm Lee's was 8%."
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2024-12-13",
+          "Text": "Zhang Yongqiang was a former Managing Director of Duke Bakery"
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2017-01-05",
-          "Text": "On 5 January 2017, Mr Cai asked Mr Zhang if Mr Lin had paid in a sum of $150,000 to Duke Bakery. Mr Zhang responded that no monies had been received, and Mr Cai said that he would check. Mr Cai messaged Mr Zhang that same day stating that Mr Lin would transfer a sum of $150,000 to Duke Bakery that day and that there was no need to issue another appeal to the other shareholders of Junhao."
+          "Text": "Zhang Yongqiang communicated with Mr Cai about the repayment of Mr Lin's loan"
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2017-02-13",
+          "Text": "Zhang Yongqiang described Mr Lin's loan as temporary and requiring repayment"
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2017-01-11",
-          "Text": "The Loan was documented in a Letter of Agreement dated 11 January 2017, and its terms required Duke Bakery to repay the Loan by 10 February 2017."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017-02-13",
-          "Text": "On 13 February 2017, Mr Zhang sent a WeChat message to Mr Cai describing the Loan as a 'temporary' one and that it had to be repaid."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2017-02-13",
-          "Text": "In response to Mr Zhang's message, Mr Cai suggested that the Loan be set off against Mr Lin's future contributions, and the balance repaid to Mr Lin."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2017-01-01",
-          "Text": "Mr Zhang's evidence was that the $3,000 limit only applied to 'operational expenses', which did not include loan repayments."
+          "Text": "Zhang Yongqiang signed a Letter of Agreement for the repayment of Mr Lin's loan"
         }
       ],
-      "Issue": "Whether a managing director breaches his fiduciary duties or engages in an actionable conspiracy by executing a loan agreement with a shareholder and subsequently authorizing the repayment of that loan.",
-      "Rule": "A managing director possesses the authority to execute commercial contracts, including loan agreements, on behalf of the company in the ordinary course of business. Authorizing the repayment of a documented, legally binding loan does not constitute a misapplication of corporate funds or a breach of fiduciary duty, as the company is contractually obligated to fulfill its debt commitments.",
-      "Application": "Managing Director Zhang Yongqiang facilitated an urgent $150,000 capital injection from shareholder Lin Liming to secure a new retail site. Zhang executed a formal Letter of Agreement explicitly documenting the transfer as a temporary loan. After informing the majority shareholder of the loan's temporary nature, Zhang authorized multiple installment repayments to Lin throughout 2017. These repayments were accurately recorded in the company's ledger. The conflict arises over whether Zhang's authorization of these repayments was a conspired extraction of capital or the lawful discharge of a binding corporate debt.",
-      "Judicial_Reasoning_Log": "The execution of the loan agreement fell squarely within the ordinary management functions of the managing director. Because the loan agreement was deemed authentic and legally binding, the company bore a contractual obligation to repay the $150,000. Authorizing the fulfillment of a valid corporate debt cannot be characterized as a breach of duty, a misapplication of funds, or a conspiracy to cause loss. The majority shareholder was fully aware of the loan and its terms, and never instructed the managing director to withhold repayment. Therefore, all claims alleging that the managing director breached his duties or conspired to injure the company by processing the repayment fail completely."
+      "Issue": "Whether Zhang Yongqiang was legally responsible for authorizing loan repayments under a disputed Transfer Agreement",
+      "Rule": "A director must act within the scope of authority and in accordance with valid agreements",
+      "Application": "The loan was subject to a Transfer Agreement preventing repayment",
+      "Judicial_Reasoning_Log": "The court found no evidence of the Transfer Agreement and upheld the validity of the Letter of Agreement, allowing repayment."
     },
     "Label": "Not Liable",
     "Leakage_Score": 0
@@ -370,7 +155,7 @@
   {
     "Metadata": {
       "Case_Number": "Originating Claim No 100 of 2023",
-      "Coram": "Duke Bakery Pte Ltd v Lin Liming and others [2024] SGHC 318",
+      "Coram": "Hri Kumar Nair J",
       "Judge": "Hri Kumar Nair J",
       "Date": "2024-12-13",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
@@ -386,28 +171,111 @@
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2015-01-01",
-          "Text": "Mdm Chng was Duke Bakery's Finance Manager."
+          "Text": "Chng Chee Hong was Duke Bakery's former Finance Manager"
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2015-01-01",
+          "Text": "Chng Chee Hong misappropriated a significant sum from Duke Bakery while she was Finance Manager"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-09-23",
+          "Text": "Chng Chee Hong told Mr Cai in a WeChat conversation that, based on her own calculations, she had taken about $380,000"
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-10-01",
+          "Text": "Chng Chee Hong repaid $420,955 to Duke Bakery"
+        }
+      ],
+      "Issue": "Whether a finance manager is legally responsible for specific unrecovered financial shortfalls discovered during a corporate audit",
+      "Rule": "An employee tasked with financial control must account for all missing corporate funds and is legally responsible for any unauthorized diversions",
+      "Application": "The finance manager remained responsible for further unrecovered sums beyond her initial repayments. she had already repaid all relevant amounts and was not responsible for the remaining unaccounted discrepancies",
+      "Judicial_Reasoning_Log": "The court found that while the finance manager had taken funds, she had already repaid the $420,955, and the company failed to provide sufficient evidence linking her to the remaining unrecovered sums. The main claim against her was dismissed."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 100 of 2023 (Counterclaim)",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair J",
+      "Date": "2024-12-13",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Chng Chee Hong",
+      "Law_Firm": "Fervent Chambers LLC",
+      "Counsel": [
+        "Che Wei Chin"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2024-01-01",
+          "Text": "Chng Chee Hong was a former Finance Manager of Duke Bakery"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2015-01-01",
-          "Text": "Between 2015 and 2018, Mdm Chng misappropriated from Duke Bakery the sum of $339,730.20."
+          "Text": "Chng Chee Hong misappropriated funds from Duke Bakery over the period 2015 to 2018"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-09-23",
+          "Text": "Chng Chee Hong communicated with Mr Cai about the amount misappropriated"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2018-12-31",
-          "Text": "Mdm Chng transferred sums totalling $420,955 to Duke Bakery."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2018-12-31",
-          "Text": "Mdm Chng paid $244,955 in restitution in 2018."
+          "Fact_Date": "2018-01-01",
+          "Text": "Chng Chee Hong repaid $420,955 to Duke Bakery"
         }
       ],
-      "Issue": "Whether a company can claim damages for lost future profits allegedly caused by an employee's misappropriation of funds, and whether the employee can recover excess restitution payments made in the absence of a formal settlement agreement.",
-      "Rule": "To recover damages for lost profits due to misappropriation, a company must prove causation: that it had specific, viable opportunities to generate profit (e.g., expanding locations) and that the temporary lack of the specific misappropriated funds was the direct cause of abandoning those plans. Separately, an individual who overpays restitution cannot recover the excess amount under the doctrine of unjust enrichment if the payments were made voluntarily in the hope of avoiding prosecution, rather than under an actionable mistake or a total failure of basis.",
-      "Application": "Finance Manager Chng Chee Hong admitted to misappropriating $339,730.20 between 2015 and 2018. Upon discovery, she voluntarily made restitution payments totaling $420,955, significantly exceeding the proven theft amount. She explicitly communicated that the excess was intended as compensation to persuade the company not to pursue criminal charges, though no formal non-prosecution agreement was ever executed. Meanwhile, the company alleges that the initial theft of these funds paralyzed its ability to open new stores, depriving it of massive projected future profits. The legal tension centers on whether the company can establish that the theft directly thwarted its expansion, and whether Chng's overpayment constitutes unjust enrichment requiring a refund.",
-      "Judicial_Reasoning_Log": "The company's claim for lost profits fails on causation. The evidence demonstrated that the failure to open new stores was dictated by operational constraints—such as unsuitable retail locations, low foot traffic, and landlord tenant-mix policies—not by a lack of capital caused by the misappropriation. This is reinforced by the fact that the company later had sufficient surplus funds to pay out $300,000 to shareholders. Consequently, the massive damages claim for lost future profits is dismissed. Regarding the counterclaim for the return of the overpaid restitution, the employee made the excess payments voluntarily, hoping to avoid escalation or police involvement. There was no legally recognized mistake or a total failure of basis, as the company never promised immunity in exchange for the funds. Because the company retained the excess funds believing they represented stolen money or voluntary compensation, the retention was not unjust. The counterclaim for the return of the excess funds is therefore dismissed."
+      "Issue": "Whether Chng Chee Hong is entitled to recover the excess sum repaid to Duke Bakery",
+      "Rule": "A party may recover payments made under a mistake or without a valid basis",
+      "Application": "The repayment was voluntary and not subject to recovery",
+      "Judicial_Reasoning_Log": "The court found no evidence of a promise by Duke Bakery not to pursue legal action and dismissed the claim for recovery of the excess sum."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 100 of 2023 (Counterclaim)",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair J",
+      "Date": "2024-12-13",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Duke Bakery Pte Ltd",
+      "Law_Firm": "Yuen Law LLC",
+      "Counsel": [
+        "Cai Enhuai Amos",
+        "Teo Ying Ying Denise",
+        "Lim Yun Heng",
+        "Jolene Song Zhu Yi"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2024-01-01",
+          "Text": "Duke Bakery Pte Ltd was in the business of producing and selling confectionery and bakery products"
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-01-01",
+          "Text": "Duke Bakery received $420,955 in repayments from Chng Chee Hong"
+        }
+      ],
+      "Issue": "Whether Duke Bakery is legally responsible to return the excess sum repaid by Chng Chee Hong",
+      "Rule": "A recipient of funds is not required to return them unless a valid claim of mistake or lack of basis is proven",
+      "Application": "The repayment was made under a mistaken belief of obligation",
+      "Judicial_Reasoning_Log": "The court found no evidence of a promise by Duke Bakery not to pursue legal action and dismissed the claim for recovery of the excess sum."
     },
     "Label": "Not Liable",
     "Leakage_Score": 0

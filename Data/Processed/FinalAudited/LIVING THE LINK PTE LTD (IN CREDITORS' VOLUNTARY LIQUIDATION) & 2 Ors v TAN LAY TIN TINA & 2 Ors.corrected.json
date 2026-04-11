@@ -2,402 +2,98 @@
   {
     "Metadata": {
       "Case_Number": "Suit No 544 of 2012",
-      "Coram": "High Court — Suit No 544 of 2012",
+      "Coram": "Steven Chong J",
       "Judge": "Steven Chong J",
       "Date": "2016-04-21",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Plaintiff",
       "Name": "Living the Link Pte Ltd (in creditors’ voluntary liquidation)",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Advocatus Law LLP",
+      "Counsel": [
+        "Steven Chong Judge Suresh Sukumaran Nair",
+        "Tan Tse Hsien",
+        "Bryan"
+      ],
       "Facts": [
         {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1982-01-01",
-          "Text": "Link was first founded by Tina Tan as a retailer of ladies’ apparel and high fashion merchandise in 1982."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2007-01-09",
-          "Text": "Living was incorporated on 9 January 2007 to carry on this new enterprise."
+          "Text": "Living the Link Pte Ltd was incorporated to carry on a new enterprise"
         },
         {
-          "Fact_Type": "CONDUCT",
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2007-06-11",
-          "Text": "Living entered into a tenancy agreement for One Nassim with Cheong on 11 June 2007 for three years."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2008-05-06",
-          "Text": "The tenancy was extended on 6 May 2008 till 31 March 2011."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2007-07-01",
-          "Text": "The store at One Nassim opened for business sometime in the second half of 2007, but it never really took off."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-01-10",
-          "Text": "Demands for outstanding rental were made from as early as 10 January 2008, and Living remained in arrears throughout 2008."
+          "Text": "Living entered into a tenancy agreement for One Nassim with Cheong"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2008-01-01",
-          "Text": "Living faced cash-flow difficulties throughout 2008."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2008-10-24",
-          "Text": "Living wrote to Cheong’s property agent on 24 October 2008 to request a waiver of two months of rental and a reduction of rental because it had not been able to generate the same amount of sales as at its previous location."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-11-25",
-          "Text": "On 25 November 2008, Living obtained a $2m credit facility from the Bank of East Asia, which was a transfer of Link’s credit facility with BEA to Living. The terms provided that borrowings were to be disbursed to pay off outstanding sums owing by Link and Alldressedup to BEA before any undrawn portion was available for Living’s use."
+          "Text": "Living faced cash-flow difficulties throughout 2008"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2008-12-31",
-          "Text": "The audited accounts of Living reflect that it had no inventory as at 31 December 2008."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008-12-31",
-          "Text": "The corresponding debit notes dated 31 December 2008 reflected transfers of inventory to Link and Alldressedup in the amounts of $1,289,858.90 and $1,337,926.50 respectively."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008-12-31",
-          "Text": "The transfer of fixed assets from Living to Link was also recorded on 31 December 2008."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-05-13",
-          "Text": "From 13 May 2008 to 31 December 2008, there were a total of 159 cash transfers from Living to Link totalling $3,354,174.35, and Link transferred $469,000 to Living, resulting in a net cash transfer of $2,885,174.35 from Living to Link."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-12-01",
-          "Text": "In December 2008, there were a total of 23 cash payments made by Living to Link, totalling $361,050, and one payment of $41,000 in the other direction by Link to Living on 26 December 2008."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-01-01",
-          "Text": "Link used its banking facilities to purchase inventory on behalf of Living, and the debit notes issued by Link to Living over the relevant period indicate that Link supplied Living with inventory of approximately $2.9m in value and paid about $1.3m of Living’s operating expenses."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-01-01",
-          "Text": "In 2009, sales at One Nassim were effected on behalf of Link, and the necessary expenses were charged to Link."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2009-01-01",
-          "Text": "There were bank transfers totalling $903,000 and $125,500 from Link and Alldressedup respectively to Living from January to August 2009."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2009-01-01",
-          "Text": "The wage/staff costs which were charged to Link for the period from January 2009 to July 2009 amounted to $762,073.38."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2009-01-01",
-          "Text": "Living’s net monthly rental for this period was $41,840.53, derived by deducting the sub-tenant rental of $29,692.50 from the rental of $71,533.03 payable by Living to Cheong, so the total net rental from January to July 2009 was $292,883.71."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-04-01",
-          "Text": "On 1 April 2009, Living transferred 120,000 ordinary shares that it held in Graha Lifestyle Pte Ltd at the book value of $120,000 to Link."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-07-29",
-          "Text": "On 29 July 2009, Living offered to settle the July rental if Cheong accepted a mutual termination of the Tenancy Agreement."
-        },
-        {
-          "Fact_Type": "CONDUCT",
           "Fact_Date": "2009-07-31",
-          "Text": "Living eventually closed the business and terminated the lease on 31 July 2009."
+          "Text": "Living closed the business and terminated the lease"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-05-01",
-          "Text": "Between 1 May 2008 and 15 July 2009, Living paid the personal expenses of Tina Tan and her husband Lionel Leo, who was the CEO of the Link Group at all material times, to the amount of $41,738.80."
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2010-05-13",
+          "Text": "Living was placed in creditors’ voluntary liquidation"
         }
       ],
-      "Issue": "Whether pre-liquidation transfers of inventory, shares, and cash from Living the Link Pte Ltd to related companies, and payments of personal expenses, altered the distribution of assets between related and unrelated creditors at a time when Living the Link Pte Ltd was unable to meet its obligations.",
-      "Rule": "Where a company is wound up, transactions occurring within a specified period before the commencement of winding up that place certain creditors in a better position than others may be set aside as undue preferences. Directors of a company in financial difficulty are required to manage the company’s assets with regard to the interests of its creditors as a whole.",
-      "Application": "Living the Link Pte Ltd experienced persistent rental arrears and cash-flow constraints in 2008 and 2009. Prior to its creditors’ voluntary liquidation, it recorded substantial cash transfers, inventory transfers at book value, and share transfers to related entities Link Boutique Pte Ltd and Alldressedup International Pte Ltd. During the same period, a substantial unrelated landlord claim remained outstanding. These events shifted assets out of the failing company to related entities while leaving external creditors unpaid.",
-      "Judicial_Reasoning_Log": "It was determined that the impugned transactions occurred within the relevant statutory look-back period and placed related companies in a better position in the event of liquidation. Living the Link Pte Ltd was found to be insolvent on a cash-flow basis from January 2008, and insolvent on a balance sheet basis by 31 December 2008. The statutory presumption of a desire to prefer applied because the recipient companies were associates. While cash transfers made earlier in 2008 under a running account were deemed commercially justified, the inventory transfers on 31 December 2008, the share transfers, and the December 2008 cash payments were made after the decision to wind down the business and thus could not be justified by ongoing commercial support. Consequently, these specific transfers were set aside as undue preferences. The court ordered full reversal of these transactions, requiring the related entities to restore the quantified value to the liquidation estate."
+      "Issue": "Whether the transfers of inventory and shares by Living the Link Pte Ltd to its associate companies were influenced by a desire to prefer these companies over other creditors",
+      "Rule": "A transaction is an undue preference if it is influenced by a desire to place a creditor in a better position in the event of insolvency",
+      "Application": "The transfers were made when Living was insolvent and were influenced by a desire to prefer the associate companies. the transfers were made in the ordinary course of business",
+      "Judicial_Reasoning_Log": "The court found that the transfers of inventory and shares were undue preferences as they were influenced by a desire to prefer the associate companies over other creditors."
     },
-    "Label": "Claim Allowed",
+    "Label": "Claim Allowed in Part",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
       "Case_Number": "Suit No 544 of 2012",
-      "Coram": "High Court — Suit No 544 of 2012",
+      "Coram": "Steven Chong J",
       "Judge": "Steven Chong J",
       "Date": "2016-04-21",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
-    },
-    "Party_Details": {
-      "Role": "Plaintiff",
-      "Name": "Chia Soo Hien",
-      "Law_Firm": "",
-      "Counsel": [],
-      "Facts": [
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2009-08-01",
-          "Text": "Following the termination of its lease at One Nassim on 31 July 2009, Living the Link Pte Ltd entered creditors’ voluntary liquidation."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2009-08-01",
-          "Text": "Chia Soo Hien was appointed as one of the joint and several liquidators of Living the Link Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-01-01",
-          "Text": "In his capacity as liquidator, Chia Soo Hien initiated Suit No 544 of 2012 to challenge various pre-liquidation asset and cash transfers executed between Living the Link Pte Ltd and its related entities."
-        }
-      ],
-      "Issue": "Whether the pre-liquidation transfers of assets and payments by Living the Link Pte Ltd to related companies affected the recovery prospects of unsecured creditors represented by the liquidators.",
-      "Rule": "In insolvency, transactions that place certain creditors in a better position than others within a defined look-back period may be adjusted so that unsecured creditors share available assets according to the statutory priority scheme.",
-      "Application": "As a plaintiff acting through the liquidators of Living the Link Pte Ltd, Chia Soo Hien’s position depended on whether the transfers of inventory, shares, and cash to related companies constituted avoidable preferences that deprived the general pool of unsecured creditors.",
-      "Judicial_Reasoning_Log": "The court focused on whether the challenged transactions were avoidable as undue preferences. It held that the transfers of inventory, shares, and late 2008 cash payments were indeed undue preferences made while the company was insolvent. The court ordered the restoration of value to the company's estate, facilitating collective distribution among unsecured creditors."
-    },
-    "Label": "Claim Allowed",
-    "Leakage_Score": 0
-  },
-  {
-    "Metadata": {
-      "Case_Number": "Suit No 544 of 2012",
-      "Coram": "High Court — Suit No 544 of 2012",
-      "Judge": "Steven Chong J",
-      "Date": "2016-04-21",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
-    },
-    "Party_Details": {
-      "Role": "Plaintiff",
-      "Name": "Leow Quek Shiong",
-      "Law_Firm": "",
-      "Counsel": [],
-      "Facts": [
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2009-08-01",
-          "Text": "Following the cessation of its retail business, Living the Link Pte Ltd was placed into creditors’ voluntary liquidation."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2009-08-01",
-          "Text": "Leow Quek Shiong was appointed as a joint and several liquidator of Living the Link Pte Ltd alongside Chia Soo Hien."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-01-01",
-          "Text": "Acting as liquidator, Leow Quek Shiong commenced legal action to examine and potentially reverse specific transactions made by the company's sole director in the period leading up to liquidation."
-        }
-      ],
-      "Issue": "Whether the impugned transactions reduced the assets available to Living the Link Pte Ltd’s unsecured creditors and should be reversed for the benefit of the liquidation estate.",
-      "Rule": "Liquidators may seek to set aside transactions that meet statutory criteria for avoidance so that the company’s estate is restored for collective distribution among unsecured creditors.",
-      "Application": "As a co-liquidator of Living the Link Pte Ltd, Leow Quek Shiong challenged transfers to related companies that occurred when the company was in financial difficulty, aiming to recover those assets for the creditor pool.",
-      "Judicial_Reasoning_Log": "The court upheld the core contention that certain transfers of inventory, shares, and cash to related companies were executed as undue preferences during insolvency. The court mandated the reversal of these specific transfers, effectively restoring the required value to the liquidation estate."
-    },
-    "Label": "Claim Allowed",
-    "Leakage_Score": 0
-  },
-  {
-    "Metadata": {
-      "Case_Number": "Suit No 544 of 2012",
-      "Coram": "High Court — Suit No 544 of 2012",
-      "Judge": "Steven Chong J",
-      "Date": "2016-04-21",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Tan Lay Tin Tina",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Wong Thomas & Leong",
+      "Counsel": [
+        "Tan Kheng Ann Alvin",
+        "Lo Ying Xi",
+        "John"
+      ],
       "Facts": [
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1982-01-01",
-          "Text": "In 1982, Tan Lay Tin Tina founded Link Boutique Pte Ltd as a retailer of ladies’ apparel and high fashion merchandise in Singapore."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2005-01-01",
-          "Text": "In early 2005, Tan Lay Tin Tina began to design and produce fashion wear under Link Boutique Pte Ltd’s own label \"alldressedup\"."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2005-01-01",
-          "Text": "In 2005, Alldressedup International Pte Ltd was incorporated to carry on the production and sale of the \"alldressedup\" label associated with Link Boutique Pte Ltd."
-        },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2007-01-09",
-          "Text": "On 9 January 2007, Living the Link Pte Ltd was incorporated to carry on a fashion and lifestyle concept store business conceptualised by Tan Lay Tin Tina."
+          "Text": "Tina Tan was a director of Living the Link Pte Ltd"
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2006-07-01",
-          "Text": "In the third quarter of 2006, the Link Group had to relocate its flagship store from the Mandarin Hotel after receiving notice to vacate due to planned renovations."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2006-07-01",
-          "Text": "Around the third quarter of 2006, Tan Lay Tin Tina identified 1 Nassim Road as a suitable location for a new flagship store near Orchard Road."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2006-07-01",
-          "Text": "Around 2006, Tan Lay Tin Tina conceptualised a fashion and lifestyle concept store at 1 Nassim Road combining high fashion retail with food and beverage outlets under the name \"Living the Link\"."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2009-01-01",
-          "Text": "At all material times, Tan Lay Tin Tina was a director and the sole shareholder of Living the Link Pte Ltd, Link Boutique Pte Ltd, and Alldressedup International Pte Ltd through their parent company Fashionation International Pte Ltd."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2008-01-01",
-          "Text": "During 2008, Lionel Leo, the husband of Tan Lay Tin Tina, was the CEO of the Link Group."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-01-01",
-          "Text": "In 2008, Link Boutique Pte Ltd used its banking facilities to purchase inventory for Living the Link Pte Ltd, and repayments to the banks were made by Link Boutique Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-01-01",
-          "Text": "In 2008, banks pressed Link Boutique Pte Ltd and Alldressedup International Pte Ltd to settle outstanding loans amounting to over S$1.5 million, for which Tan Lay Tin Tina had provided personal guarantees."
-        }
-      ],
-      "Issue": "Whether a director who causes an insolvent company to transfer assets to related entities, thereby reducing her own personal guarantee exposure, is personally liable for breaching fiduciary duties to creditors.",
-      "Rule": "Directors of an insolvent or near-insolvent company must consider creditors’ collective interests and avoid applying assets in a way that prejudices those interests. A director who procures preferential payments to related entities can be ordered to personally restore the misapplied value.",
-      "Application": "Tan Lay Tin Tina controlled Living the Link Pte Ltd and related entities through a common holding structure. While Living faced persistent rental arrears and cash-flow constraints, she oversaw arrangements transferring inventory, fixed assets, and cash to related companies. These transfers were made in the context of group bank facilities that she had personally guaranteed. These actions shifted stock and value away from the failing company, leaving substantial external landlord claims outstanding.",
-      "Judicial_Reasoning_Log": "The court held that as the directing mind of the near-insolvent company, the director breached her fiduciary duties to creditors by causing company assets to be applied in a way that favored related entities. Because the proceeds of the impugned transfers were used mainly to reduce bank loans secured by her personal guarantees, she effectively improved her own position at the expense of unsecured creditors. The court held that a director who causes a company to make a preferential payment can be ordered to restore the value of the misapplied funds, even if the director does not receive the funds directly. Consequently, she was found personally liable to restore the corresponding value."
-    },
-    "Label": "Liable",
-    "Leakage_Score": 0
-  },
-  {
-    "Metadata": {
-      "Case_Number": "Suit No 544 of 2012",
-      "Coram": "High Court — Suit No 544 of 2012",
-      "Judge": "Steven Chong J",
-      "Date": "2016-04-21",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
-    },
-    "Party_Details": {
-      "Role": "Defendant",
-      "Name": "Alldressedup International Pte Ltd",
-      "Law_Firm": "",
-      "Counsel": [],
-      "Facts": [
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2005-01-01",
-          "Text": "Alldressedup International Pte Ltd was incorporated in 2005 to carry on the production and sale of the \"alldressedup\" fashion label associated with Link Boutique Pte Ltd."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2009-01-01",
-          "Text": "Alldressedup International Pte Ltd was an associate company of Living the Link Pte Ltd within the Link Group and was under the control of Tan Lay Tin Tina."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2008-12-31",
-          "Text": "On 31 December 2008, Living the Link Pte Ltd recorded a transfer of inventory with a book value of S$1,337,926.50 to Alldressedup International Pte Ltd via debit notes."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2009-01-01",
-          "Text": "Between January and August 2009, Alldressedup International Pte Ltd transferred S$125,500 to Living the Link Pte Ltd, and Living the Link Pte Ltd used these funds to pay expenses that were recorded as costs of Link Boutique Pte Ltd and other group entities."
-        }
-      ],
-      "Issue": "Whether inventory transferred from a distressed company to a related associate company constitutes an undue preference that must be restored to the liquidation estate.",
-      "Rule": "Where a company in financial difficulty transfers assets to an associate within a statutory look-back period, the statutory presumption of a desire to prefer applies. If not rebutted, the associate must restore the value of the assets received.",
-      "Application": "Alldressedup International Pte Ltd received significant inventory at book value from Living the Link Pte Ltd at a time when the latter was experiencing severe cash-flow problems and escalating external debt. As a related associate company sharing a common director, it benefited from the redistribution of the distressed company's remaining assets.",
-      "Judicial_Reasoning_Log": "The court held that Alldressedup International Pte Ltd was an associate of the distressed company, triggering the statutory presumption of a desire to prefer regarding the December 2008 inventory transfer. Finding no evidence that the transfer was motivated solely by proper commercial considerations, the court classified it as an undue preference. Following adjustments for hypothetical selling expenses, the company was ordered to repay its apportioned share of the inventory's value to the liquidators."
-    },
-    "Label": "Liable",
-    "Leakage_Score": 0
-  },
-  {
-    "Metadata": {
-      "Case_Number": "Suit No 544 of 2012",
-      "Coram": "High Court — Suit No 544 of 2012",
-      "Judge": "Steven Chong J",
-      "Date": "2016-04-21",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
-    },
-    "Party_Details": {
-      "Role": "Defendant",
-      "Name": "Link Boutique Pte Ltd",
-      "Law_Firm": "",
-      "Counsel": [],
-      "Facts": [
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1982-01-01",
-          "Text": "Link Boutique Pte Ltd was founded in 1982 as a retailer of ladies’ apparel and high fashion merchandise in Singapore."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2005-01-01",
-          "Text": "Link Boutique Pte Ltd was part of the Link Group and was associated with Living the Link Pte Ltd and Alldressedup International Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-01-01",
-          "Text": "From January to December 2008, Link Boutique Pte Ltd supplied inventory of approximately S$2,908,749.37 in value and paid about S$1,278,994.18 of Living the Link Pte Ltd's operating expenses."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-05-13",
-          "Text": "Between 13 May 2008 and 31 December 2008, Living the Link Pte Ltd made cash transfers totalling S$3,354,174.35 to Link Boutique Pte Ltd, and Link Boutique Pte Ltd transferred S$469,000 to Living the Link Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-12-01",
-          "Text": "In December 2008, Living the Link Pte Ltd made 23 cash payments totalling S$361,050 to Link Boutique Pte Ltd, and Link Boutique Pte Ltd made one payment of S$41,000 to Living the Link Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-12-31",
-          "Text": "On 31 December 2008, Living the Link Pte Ltd recorded a transfer of inventory with a book value of S$1,289,858.90 to Link Boutique Pte Ltd."
+          "Text": "Tina Tan caused Living to transfer inventory to Link and Alldressedup on 31 December 2008"
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-01-01",
-          "Text": "From January to April 2009, sales at the 1 Nassim Road premises were carried out on behalf of Link Boutique Pte Ltd, and rental and wage/staff costs for 2009 were debited to Link Boutique Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2009-01-01",
-          "Text": "Between January and August 2009, Link Boutique Pte Ltd transferred S$903,000 to Living the Link Pte Ltd, and Living the Link Pte Ltd used these funds to pay rental and wage/staff costs that were recorded as expenses of Link Boutique Pte Ltd and other group entities."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-04-01",
-          "Text": "On 1 April 2009, Living the Link Pte Ltd transferred 120,000 ordinary shares in Graha Lifestyle Pte Ltd to Link Boutique Pte Ltd at a recorded book value of S$120,000."
+          "Text": "Tina Tan caused Living to transfer 120,000 ordinary shares in Graha Lifestyle Pte Ltd to Link on 1 April 2009"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2008-10-24",
+          "Text": "On 24 October 2008, Tina Tan caused Living to write to Cheong’s property agent seeking a waiver of two months’ rent and a rent reduction because Living had not been able to generate the same amount of sales as at Mandarin Hotel"
         }
       ],
-      "Issue": "Whether cash, inventory, and shares transferred to a related company functioning as an operational supplier should be unwound as undue preferences upon insolvency.",
-      "Rule": "Transfers made to an associate company during insolvency are presumed to be driven by a desire to prefer. While ongoing running-account commercial payments may rebut this presumption, final asset transfers executed while winding down operations are voidable preferences.",
-      "Application": "Link Boutique Pte Ltd was a key trading entity within the group, supplying inventory and covering operational expenses for the distressed company. However, during the final stages of the distressed company's operations, it received substantial, one-way transfers of cash, bulk inventory, and shares. These final transfers left the recipient in a significantly better position than external unsecured creditors.",
-      "Judicial_Reasoning_Log": "The court accepted that many of the mid-2008 cash transfers were legitimate commercial payments made under a running account. However, it determined that by December 2008, the decision had been made to wind down the distressed company. Therefore, the late 2008 cash payments, the bulk inventory transfer, and the April 2009 share transfer could not be justified by ongoing commercial support. The statutory presumption applied, and these specific end-of-life transfers were deemed undue preferences. The court ordered Link Boutique Pte Ltd to repay the adjusted value of these specific assets and late cash payments to the liquidation estate."
+      "Issue": "Whether a director is legally responsible for procuring transactions that constitute undue preferences",
+      "Rule": "Directors have a duty to act in the best interest of the company and its creditors when the company is insolvent",
+      "Application": "The dispute concerned whether the inventory transfers, the Graha share transfer, and the 2008 cash payments were made when Living was insolvent and with a desire to prefer the associate companies",
+      "Judicial_Reasoning_Log": "The court held that Tina Tan breached her duties as a director by procuring undue preferences, influenced by a desire to prefer the associate companies."
     },
     "Label": "Liable",
     "Leakage_Score": 0

@@ -1,682 +1,468 @@
 [
   {
     "Metadata": {
-      "Case_Number": "Suit 244 of 2013; Suit 733 of 2014",
+      "Case_Number": "Suit No 244 of 2013",
       "Coram": "Edmund Leow JC",
-      "Judge": "Edmund Leow",
+      "Judge": "Edmund Leow JC",
       "Date": "2016-09-26",
       "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Plaintiff",
       "Name": "Danial Patrick Higgins",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Peter Low LLC",
+      "Counsel": [
+        "Peter Low",
+        "Raj Mannar",
+        "Elaine Low"
+      ],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2010-01-01",
-          "Text": "At that time, Danial Patrick Higgins was the Managing Director of Montreal Asset Management, a company involved in shipping and oil trading and which also provided aviation consultancy services."
+          "Fact_Date": "2010-09-07",
+          "Text": "By 7 September 2010, Danial Patrick Higgins was a founding director and the Managing Director of Singapore Air Charter Pte Ltd, a Singapore-incorporated air charter company"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2010-09-07",
-          "Text": "Singapore Air Charter Pte Ltd was incorporated on 7 September 2010, and its founding directors were Nicholas Johnstone, Stefan Wood, Danial Patrick Higgins, and Mr Higgins's wife."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2010-09-07",
-          "Text": "Mr Higgins was invited to join Singapore Air Charter Pte Ltd as its Managing Director."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2001-01-01",
-          "Text": "Mr Johnstone first met Mr Higgins in 2001, and Mr Higgins was also a pilot with experience in the corporate aviation industry."
+          "Text": "At the time of SAC's incorporation, Mr Higgins also served as Managing Director of Montreal Asset Management, a company involved in shipping, oil trading, and aviation consultancy"
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2010-11-26",
-          "Text": "On 2010-11-26, at a networking event at the Fullerton Hotel, Danial Patrick Higgins met Philippe Emanuel Mulacek, Chief Executive Officer of InterOil Corporation, and discussed the possibility that Mulacek might purchase a pre-owned corporate jet for business travel."
+          "Text": "On 26 November 2010, Mr Higgins met Philippe Emanuel Mulacek at a networking event at the Fullerton Hotel and discussed the possibility of Mulacek purchasing a pre-owned corporate jet"
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2010-11-29",
-          "Text": "On 29 November 2010, Mr Higgins wrote to Mr Mulacek to explain that a Gulfstream aircraft might suit Mr Mulacek's needs, outlined different purchasing options, and said that SAC might be able to assist through the provision of air chartering services."
+          "Text": "On 29 November 2010, Mr Higgins emailed Mr Mulacek from his SAC email account recommending a Gulfstream aircraft and offering that SAC could assist with air chartering services, signing off as 'M.D. Singapore Air Charter'"
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2010-12-01",
-          "Text": "During December 2010 and January 2011, Mr Higgins sent several emails to Mr Mulacek detailing the specifications and prices of various Gulfstream aircraft available for sale, and he consistently identified himself as the MD of SAC; Mr Johnstone was also copied in the correspondence."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-03-08",
-          "Text": "On 8 March 2011, AirLNG was incorporated in Labuan, Malaysia, as Malaysia had a double-taxation agreement with Papua New Guinea."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2011-03-23",
-          "Text": "On 23 March 2011, the Letter of Intent for the purchase of the Aircraft was signed after being amended by Mr Higgins."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2011-04-25",
-          "Text": "On 25 April 2011, the AMS Agreement was concluded between SAC and AirLNG, under which SAC was responsible for the use, management, operation, and maintenance of the Aircraft for AirLNG's exclusive use."
+          "Text": "During December 2010 and January 2011, Mr Higgins sent multiple emails to Mr Mulacek detailing specifications and prices of various Gulfstream aircraft for sale, copying SAC director Nicholas Johnstone"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2011-04-25",
-          "Text": "Under the AMS Agreement, AirLNG was to pay SAC US$25,000 a month in addition to paying each Primary Flight Crew member US$11,875 a month."
+          "Fact_Date": "2011-03-23",
+          "Text": "By 23 March 2011, Mr Higgins had amended a draft Letter of Intent for the purchase of a Gulfstream III corporate jet from OK Consultants"
         },
         {
-          "Fact_Type": "DOCUMENT",
+          "Fact_Type": "AUTHORITY_EVENT",
           "Fact_Date": "2011-04-26",
-          "Text": "On 26 April 2011, Mr Aldorf granted Mr Higgins a power of attorney to act on behalf of AirLNG and PacLNG in the purchase of the Aircraft."
+          "Text": "On 26 April 2011, AirLNG director Henry Edmond Aldorf granted Mr Higgins a power of attorney to act on behalf of AirLNG Ltd and Pacific LNG Operations Pte Ltd in the purchase of the Aircraft"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2011-05-17",
-          "Text": "On 17 May 2011, Mr Higgins on behalf of AirLNG and Mr Kendall on behalf of OK Consultants gave detailed instructions on how the money in the escrow account was to be disbursed."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2011-05-18",
-          "Text": "On the completion date of 18 May 2011, US$1.35m was to be transferred to an account specified by OK Consultants as the purchase price of the plane."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2011-05-18",
-          "Text": "The escrow disbursement instructions provided for US$15,000 to be transferred to SAC, US$316,500 to MAM, US$316,500 to OK Consultants, US$1,690 to be retained as escrow fees, US$4,400 to Mr Higgins for pre-buy inspection instructions, and US$2,325 to OK Consultants."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-02-01",
-          "Text": "Mr Higgins served as the primary point of contact between SAC and would arrange for the charters, with Mr Walker covering for him in his absence."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-08-01",
-          "Text": "Sometime in August 2011, Mr Mulacek proposed that SAC assist him with the running of an aircraft management company in Papua New Guinea called National Air Services."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-09-20",
-          "Text": "On 20 September 2011, Mr Higgins wrote to Mr Mulacek to inform him that the FAA had introduced onerous rules pertaining to the ownership and registration of US-registered aircraft and that an acceptable alternate jurisdiction would have to be found."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-01-25",
-          "Text": "On 2012-01-25, Mr Higgins emailed the other directors of SAC stating that he had recently met Mr Mulacek and Mr Civelli, that they were unhappy with issues including Mr Johnstone's resignation as pilot and Mr Walker's extended vacation, and that two possible courses of action had been discussed: an investment by Mr Mulacek into SAC or termination of the AMS Agreement and reassignment of the contract to a new company to be headed by Mr Higgins."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-01-27",
-          "Text": "On 27 January 2012, Mr Higgins, Mr Civelli, and Mr Mulacek met at the offices of InterOil Corporation in Singapore to discuss, among other things, the termination of the AMS Agreement."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-12-31",
-          "Text": "At the end of December 2011, Mr Johnstone resigned from his position as a pilot on the ground of ill health though he indicated his willingness to fly until May 2012 if necessary."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-12-20",
-          "Text": "Mr Walker returned to Australia for a four week vacation over the Christmas/New Year period."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-12-01",
-          "Text": "At the end of 2011, the Aircraft was grounded for scheduled maintenance and, due to corrosion detected at the wing, it was grounded for longer than expected."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-02-13",
-          "Text": "The Aircraft returned to service on 13 February 2012."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-01-01",
-          "Text": "Relationships deteriorated to the point where Mr Higgins was no longer on speaking terms with Mr Walker and Mr Wood, leaving Mr Johnstone to act as the intermediary between them."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-01-29",
-          "Text": "On 29 January 2012, Mr Walker tendered his resignation as the manager of SAC's flight operations but offered to continue serving as a pilot. His resignation was accepted by Mr Higgins but his offer to continue as a pilot was turned down."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-02-09",
-          "Text": "On 9 February 2012, Mr Benjamin Ng, a Financial Controller with PacLNG, sent a draft notice of termination to Mr Higgins."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-02-10",
-          "Text": "On 10 February 2012, Mr Higgins and Mr Ng met, Mr Ng printed a copy of the notice, and Mr Higgins signed it in Mr Ng's presence."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-02-28",
-          "Text": "On 28 February 2012, Mr Higgins sent his fellow directors an electronic copy of the draft notice of termination that had been sent to him on 9 February 2012."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-03-22",
-          "Text": "The termination was to take effect from 22 March 2012."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-03-01",
-          "Text": "Between 10 February 2012 and 28 February 2012, Mr Higgins did not inform the other directors that he had signed the notice."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-03-12",
-          "Text": "On 12 March 2012, Mr Kendall of OK Consultants sent an urgent email to Mr Higgins to inform him that his company was under significant pressure from the US tax authorities as a result of the Aircraft and insisted that the Aircraft be transferred to another registry or, if it was to remain on the US registry, that it be registered in the name of another company."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-03-12",
-          "Text": "This triggered an exchange of emails between Mr Mulacek and Mr Higgins at the end of which Mr Mulacek approved of Mr Higgins's plan for the Aircraft to be flown to Malaysia and parked pending re-registration in another jurisdiction."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-03-16",
-          "Text": "The Aircraft was moved to Malaysia on 16 March 2012 and efforts were made for it to be registered there."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-03-19",
-          "Text": "It was soon discovered that registration in Malaysia was not viable as the Aircraft would be the first of its type registered in the jurisdiction and the process would therefore be prohibitively expensive and time-consuming."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-04-14",
-          "Text": "A letter on AirLNG letterhead signed by Mr Mulacek was sent to the Department of Civil Aviation in Malaysia stating that Mr Higgins was employed as Consultant to AirLNG and was authorised to approve and sign all documents relating to AirLNG's aircraft and its certification and registration in Malaysia."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-03-28",
-          "Text": "On 28 March 2012, Mr Higgins incorporated Singapore Aircraft Management Pte Ltd."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-03-29",
-          "Text": "On 29 March 2012, Mr Higgins submitted a draft aircraft management contract to Mr Ng with instructions that it was to be sent on to Mr Mulacek, Mr Civelli, and Mr Aldorf. The draft terms were almost identical to the AMS Agreement."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-04-10",
-          "Text": "On 10 April 2012, Mr Higgins wrote to Mr Ng saying that he was doing lots of work trying to get the aircraft re-registered, essentially for free at the moment, and that he had paid the salaries of the contract pilots and that it was only right that when the new contract is signed it should be backdated."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-04-15",
-          "Text": "On 15 April 2012, Mr Higgins wrote to Mr Mulacek asking for a letter of authority to enable him to represent AirLNG in negotiations with the Malaysian aviation authorities and saying that he needed a short term Consultancy Agreement, backdated to 22nd March, to allow him to proceed with both the Malaysian DCA and Jet Aviation, at US$35,000 plus expenses for six months."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-04-17",
-          "Text": "On 17 April 2012, Mr Higgins emailed Mr Ng in relation to his request to be paid in advance for a Gulfstream III Simuflite pilot training course which he intended to enroll a prospective pilot on, and he wrote that he had to pay for a GIII pilot training course for a new Captain by the end of that week and did not have any contract with AirLNG."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2012-04-30",
-          "Text": "On 30 April 2012, Mr Higgins sent Mr Ng an invoice for $22,000 for the Simuflite course."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-04-30",
-          "Text": "On 30 April 2012, Mr Ng replied to state categorically that 'we have not committed to a new management agreement and definitely have not committed to hiring and training a new pilot'."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-05-01",
-          "Text": "On 1 May 2012, Mr Mulacek wrote to Mr Higgins to say that it would be best to look at placing items on hold with the Aircraft and that the contracts were too high to go forward and that they would take over the core management going forward."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-05-01",
-          "Text": "On 1 May 2012, Mr Higgins replied to indicate that he would be placing matters on hold until a decision was taken as to how matters should proceed."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-05-01",
-          "Text": "At the start of May 2012, Mr Higgins was asked to stop all the work he was doing in relation to the registration of the Aircraft and he did."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-05-08",
-          "Text": "On 8 May 2012, AirLNG signed an aircraft management contract with AAC."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-07-11",
-          "Text": "The Aircraft was re-registered in the US on 11 July 2012."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-07-31",
-          "Text": "The certificate of airworthiness was granted on 31 July 2012, after which the Aircraft returned to active service."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2012-06-22",
-          "Text": "On 22 June 2012, Mr Wood requisitioned an extraordinary general meeting for the purpose of removing Mr Higgins and his wife from their directorships."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2012-07-19",
-          "Text": "On 19 July 2012, an EGM was scheduled and a notice was circulated to this effect. On the appointed day, Mr Higgins and his wife arrived before the commencement of the EGM to tender their resignations and left immediately afterwards. The resolution for their removal as directors was passed unanimously and their voluntarily resignations were also duly recorded in the minutes of meeting."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-07-19",
-          "Text": "On the appointed day, Mr Higgins and his wife arrived before the commencement of the EGM to tender their resignations and left immediately afterwards."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2012-04-01",
-          "Text": "The documentary evidence shows that Elite Jets informed Mr Higgins that the flights would cost US$116,000 and Mr Higgins informed Mr Mulacek that the charters would cost US$140,000."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2012-04-15",
-          "Text": "AirLNG transferred US$90,000 directly to Elite Jets while MAM transferred the balance of US$26,000 to Elite Jets, and AirLNG subsequently transferred US$50,000 to MAM at Mr Higgins's request."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-02-13",
-          "Text": "Between 13 February 2012 and 22 March 2012, Mr Higgins continued to correspond with Mr Ng and Mr Mulacek on matters relating to the Aircraft."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-03-23",
-          "Text": "Between 23 March 2012 and early May 2012, Mr Higgins continued to perform work relating to the Aircraft, including efforts toward registration."
+          "Text": "On 17 May 2011, Mr Higgins instructed the escrow agent that US$15,000 be paid to Singapore Air Charter and US$316,500 be paid to Montreal Asset Management from the Aircraft purchase escrow funds as reimbursement of expenses"
         }
       ],
-      "Issue": "Whether a managing director breaches his fiduciary duties by covertly facilitating the termination of his company's sole management contract while simultaneously setting up a competing personal entity to capture that very contract, and whether he is entitled to personal remuneration for post-termination services absent a finalized agreement.",
-      "Rule": "A managing director owes strict fiduciary duties of loyalty, encompassing the obligation to act in the company's best interests, avoid conflicts of interest, and refrain from usurping corporate opportunities for personal gain. Secretly negotiating the termination of the company's contract to secure the business for a personal vehicle is a fundamental breach of these duties, rendering the director liable for equitable compensation for lost profits and the disgorgement of any secret profits. Regarding claims for personal remuneration, services rendered in mere anticipation of a future contract do not create a binding legal obligation or an unjust enrichment claim if the counterparty expressly rejects the formation of that new contract.",
-      "Application": "Danial Patrick Higgins served as the Managing Director of Singapore Air Charter (SAC). He facilitated SAC's procurement of an Aircraft Management Services (AMS) Agreement with AirLNG. When operational issues strained the relationship with AirLNG's principals, Higgins met with them and discussed terminating SAC's contract so that a new company, headed by Higgins, could take over. Higgins then secretly signed the termination notice on behalf of SAC without informing his co-directors for nearly three weeks. Concurrently, he incorporated Singapore Aircraft Management Pte Ltd (SAM) and submitted a draft management contract to AirLNG, identical to SAC's, in an attempt to secure the business for himself. He also demanded personal consultancy fees for post-termination aircraft registration work, despite AirLNG expressly stating no new contract had been agreed upon. Furthermore, Higgins facilitated charter flights through another personal company (MAM), pocketing a US$24,000 secret markup. The core conflict assesses whether his actions to deliberately dismantle SAC's contract to benefit his new entity breached his fiduciary duties, and whether he is owed compensation for the unsolicited transition work.",
-      "Judicial_Reasoning_Log": "The court held that Higgins committed egregious breaches of his fiduciary duties. By actively proposing the termination of SAC's contract, secretly executing the termination notice, delaying disclosure to his board, and simultaneously incorporating a competing entity to absorb the displaced business, Higgins placed his personal interests directly in conflict with his duty to protect SAC. His actions directly caused SAC to lose the AMS Agreement. Consequently, he was ordered to pay equitable compensation for SAC's lost profits for the remainder of the contract term. Additionally, the court ruled that the US$24,000 markup retained by MAM on the charter flights constituted a secret profit derived from a corporate opportunity belonging to SAC, which must be disgorged. Regarding Higgins's personal claim for post-termination remuneration, the court found no concluded oral or written contract existed; his emails clearly indicated he was performing the work in the hope of securing a new contract. Because he assumed the risk of performing unsolicited services and AirLNG explicitly rejected the formation of a new agreement, his claims in contract and unjust enrichment were dismissed."
+      "Issue": "Whether an individual who arranged the purchase and subsequent management of a corporate jet can claim contractual or restitutionary remuneration from counterparties based on an oral understanding for post-termination management work",
+      "Rule": "To establish a binding oral contract for services, there must be clear mutual consent on essential terms including scope and remuneration, and in the absence of such agreement, recovery for work done depends on proving an enrichment at the claimant's expense that is legally unjustified",
+      "Application": "He concluded oral agreements with the Defendants on 27 January 2012 and again on 8 May 2012 for ongoing management and consultancy services mirroring a prior written management contract. discussions never crystallised into binding terms and that any work done was undertaken at the Plaintiff's own risk in anticipation of a possible future agreement",
+      "Judicial_Reasoning_Log": "The court found no consensus ad idem on 27 January 2012 or 8 May 2012, noting the absence of agreement on remuneration and the continued negotiation of draft contracts thereafter. The judge held that the parties were only exploring potential arrangements and that the Plaintiff's own correspondence acknowledged the lack of a concluded contract and his request for a short-term consultancy agreement. On the restitutionary claim, the court applied unjust enrichment principles and held that most heads of claim either related to periods covered by the existing AMS Agreement, involved expenses incurred without authority, or concerned services that conferred no objective benefit because they were unnecessary or ineffective, particularly the Malaysian registration work based on incorrect advice about US registration rules. The court concluded that the Plaintiff had assumed the risk of working in anticipation of a contract that never materialised and dismissed Suit 244 in its entirety."
     },
     "Label": "Claim Dismissed",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Suit 244 of 2013; Suit 733 of 2014",
+      "Case_Number": "Suit No 244 of 2013",
       "Coram": "Edmund Leow JC",
-      "Judge": "Edmund Leow",
+      "Judge": "Edmund Leow JC",
       "Date": "2016-09-26",
       "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Philippe Emanuel Mulacek",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Salem Ibrahim LLC",
+      "Counsel": [
+        "Salem Ibrahim",
+        "Kulvinder Kaur",
+        "Jeriel Lam"
+      ],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2010-01-01",
-          "Text": "By 2010, Philippe Emanuel Mulacek was the Chief Executive Officer of InterOil Corporation, a company publicly listed in the United States."
+          "Fact_Date": "2010-11-01",
+          "Text": "By November 2010, Philippe Emanuel Mulacek was the Chief Executive Officer of InterOil Corporation, a company publicly listed in the United States with substantial business interests in Papua New Guinea"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-03-01",
-          "Text": "Following discussions between Mr Higgins, Mr Civelli and Mr Mulacek, it was decided that the Aircraft was to be purchased from OK Consultants and beneficially held in the name of a company specifically incorporated for that purpose."
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2010-11-26",
+          "Text": "On 26 November 2010, Mr Mulacek met Danial Higgins at a networking event at the Fullerton Hotel and discussed the potential purchase of a pre-owned corporate jet for his business travel"
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
           "Fact_Date": "2011-03-08",
-          "Text": "On 8 March 2011, AirLNG was incorporated in Labuan, as Malaysia had a double-taxation agreement with Papua New Guinea."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-03-23",
-          "Text": "On 23 March 2011, the Letter of Intent was signed after an exchange of correspondence."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-04-25",
-          "Text": "On 25 April 2011, the AMS Agreement was concluded between SAC and AirLNG."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-06-01",
-          "Text": "For the first few months, the Aircraft was used by Mr Civelli, Mr Mulacek, and Mr Aldorf on a regular basis."
+          "Text": "On 8 March 2011, following discussions involving Mr Mulacek, Mr Higgins, and Mr Civelli, AirLNG Ltd was incorporated in Labuan as the company that would beneficially hold the Aircraft and take advantage of Malaysia's double-taxation agreement with Papua New Guinea"
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2011-08-01",
-          "Text": "Sometime in August 2011, Mr Mulacek proposed that SAC assist him with the running of an aircraft management company in Papua New Guinea, National Air Services."
+          "Text": "Around August 2011, Mr Mulacek proposed that Singapore Air Charter assist him with the running of a Papua New Guinea aircraft management company, National Air Services"
         },
         {
           "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2011-09-21",
-          "Text": "On 20 September 2011, Mr Higgins wrote to inform Mr Mulacek that the FAA had introduced onerous rules pertaining to the ownership and registration of US registered aircraft, and Mr Mulacek replied to acknowledge the point."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-12-01",
-          "Text": "At the end of 2011, the Aircraft was grounded for scheduled maintenance and, due to corrosion detected at the wing, it was grounded for longer than expected, much to Mr Mulacek's dissatisfaction."
+          "Fact_Date": "2012-01-25",
+          "Text": "By 25 January 2012, Mr Mulacek was dissatisfied that the Aircraft had been grounded for longer than expected"
         },
         {
           "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-02-09",
-          "Text": "On 9 February 2012, Mr Benjamin Ng sent a draft notice of termination to Mr Higgins."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-02-10",
-          "Text": "On 10 February 2012, Mr Higgins signed the notice in Mr Ng's presence."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-03-12",
-          "Text": "On 12 March 2012, Mr Kendall emailed Mr Higgins to say his company was under pressure from the US tax authorities and insisted that the Aircraft be transferred to another registry or registered in the name of another company; this triggered an exchange of emails between Mr Mulacek and Mr Higgins at the end of which Mr Mulacek approved Mr Higgins's plan for the Aircraft to be flown to Malaysia and parked pending re-registration."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-03-16",
-          "Text": "The Aircraft was moved to Malaysia on 16 March 2012."
+          "Fact_Date": "2012-03-13",
+          "Text": "On 13 March 2012, Mr Mulacek approved Mr Higgins's plan to fly the Aircraft to Malaysia and park it pending re-registration in another jurisdiction"
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2012-04-14",
-          "Text": "A signed letter of authority on AirLNG letterhead was provided and stated that Mr Higgins was employed as Consultant to AirLNG Ltd and was authorised to represent the company in relation to certification and registration in Malaysia."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-05-01",
-          "Text": "On 30 April 2012, Mr Mulacek wrote to Mr Higgins to say it would be best to look at placing items on hold with the Aircraft and that the contracts were too high to go forward and that they would take over the core management going forward."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-05-08",
-          "Text": "On 8 May 2012, AirLNG signed an aircraft management contract with Asia Aviation Company Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-07-11",
-          "Text": "On 11 July 2012, the Aircraft was re-registered on the US Register."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-07-31",
-          "Text": "On 31 July 2012, the certificate of airworthiness was granted and the Aircraft returned to active service."
+          "Text": "On 14 April 2012, Mr Mulacek signed an AirLNG letter confirming that Mr Higgins was a consultant to AirLNG and authorising him to sign documents relating to the Aircraft's certification and registration in Malaysia"
         }
       ],
-      "Issue": "Whether a principal who engages a management company's director to terminate an existing corporate contract and perform transitional work incurs personal or corporate liability to remunerate that director for uncontracted consultancy services.",
-      "Rule": "A party becomes bound to pay for services only when a definitive contract is formed on clear terms or when the law of unjust enrichment requires restitution for benefits received. Preliminary negotiations, draft contracts, and services performed voluntarily in mere anticipation of a future contract do not create binding payment obligations. Furthermore, corporate contracts are generally binding only on the specific corporate entity involved (the special purpose vehicle), not its individual directors or beneficial owners, unless a personal guarantee is explicitly established.",
-      "Application": "Philippe Emanuel Mulacek, utilizing a special purpose vehicle (AirLNG), contracted with Singapore Air Charter (SAC) to manage a private aircraft. Dissatisfied with SAC's performance, Mulacek discussed terminating SAC's contract with SAC's Managing Director, Higgins. Higgins subsequently signed the termination notice and began drafting a new management contract for his own newly formed personal company. During the transition, Mulacek provided Higgins with a letter of authority to manage the aircraft's re-registration in Malaysia. Higgins demanded a backdated consultancy fee of US$35,000 for this transition work. However, Mulacek and his representatives explicitly stated in emails that no new management or consultancy agreement had been committed to, eventually hiring an entirely different aviation company. The legal conflict assesses whether Mulacek's authorization of Higgins to perform transition work constituted a binding oral contract or an unjust enrichment warranting personal remuneration.",
-      "Judicial_Reasoning_Log": "The court found no evidence of a concluded oral or written contract between Higgins and Mulacek (or AirLNG) for post-termination consultancy fees. The contemporaneous emails clearly demonstrated that the parties were merely in negotiations; Higgins's own messages acknowledged he had \"no contract\" and was seeking to secure one. Performing work in anticipation of a contract that never materializes is a commercial risk that does not automatically trigger an unjust enrichment claim. Furthermore, the court noted that even if a contract had been intended, the proper contracting party would have been the corporate vehicle (AirLNG), not Mulacek personally. Because Mulacek and his representatives expressly refused to commit to the new proposed contracts and Higgins voluntarily assumed the risk of the transition work, all claims for personal remuneration against Mulacek were dismissed."
+      "Issue": "Whether a business principal who used a special purpose vehicle to own an aircraft is contractually or restitutionarily obliged to remunerate an individual consultant for post-termination management and registration work in the absence of a clear written agreement",
+      "Rule": "A person is only legally responsible under an oral services agreement if there is clear mutual assent on essential terms and the correct contracting party, and in the absence of such agreement, liability in restitution arises only where the defendant has been enriched at the claimant's expense in circumstances recognised as unjust",
+      "Application": "Mr Mulacek personally agreed, together with others, any arrangements for aircraft management were to be made through AirLNG, that no personal commitment on remuneration was reached, either duplicated obligations under existing contracts or was unnecessary or ineffective",
+      "Judicial_Reasoning_Log": "The court held that it was commercially implausible that a new oral management contract would be concluded personally with Mr Mulacek and others without involving AirLNG, given the tax-driven structure and prior written agreements. The judge found that contemporaneous emails, including references to draft contracts and requests for a short-term consultancy, showed ongoing negotiations rather than a concluded agreement, and noted that the Plaintiff did not contemporaneously refer to any binding oral contract. On unjust enrichment, the court determined that the alleged benefits, particularly the Malaysian registration efforts, did not confer an objective advantage because they were based on incorrect advice that deregistration from the US was necessary and led to the Aircraft being grounded. The judge concluded that any work was undertaken by the Plaintiff at his own risk in anticipation of a contract and that there was no unjust factor warranting restitution from Mr Mulacek."
     },
     "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Suit 244 of 2013; Suit 733 of 2014",
+      "Case_Number": "Suit No 244 of 2013",
       "Coram": "Edmund Leow JC",
-      "Judge": "Edmund Leow",
+      "Judge": "Edmund Leow JC",
       "Date": "2016-09-26",
       "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Carlo Giuseppe Civelli",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Salem Ibrahim LLC",
+      "Counsel": [
+        "Salem Ibrahim",
+        "Kulvinder Kaur",
+        "Jeriel Lam"
+      ],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2011-01-01",
-          "Text": "Carlo Giuseppe Civelli was an investor in InterOil Corporation."
+          "Fact_Date": "2011-03-01",
+          "Text": "By March 2011, Carlo Giuseppe Civelli was an investor in InterOil and the beneficial owner of Pacific LNG Operations Pte Ltd, with substantial business interests in Papua New Guinea"
         },
         {
-          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2011-03-08",
-          "Text": "On 2011-03-08, AirLNG Ltd was incorporated in Labuan, Malaysia. AirLNG's two founding directors were Carlo Giuseppe Civelli and Henry Edmond Aldorf."
+          "Text": "On 8 March 2011, AirLNG Ltd was incorporated in Labuan to hold the Aircraft, and Mr Civelli was one of its founding directors"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2011-05-01",
-          "Text": "By May 2011, approximately US$2.3 million had been deposited into an escrow account by Mr Civelli."
+          "Text": "Prior to completion of the Aircraft purchase in May 2011, approximately US$2.3 million was deposited into an escrow account funded by Mr Civelli for the acquisition and related expenses"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-03-23",
-          "Text": "Following discussions with Mr Higgins, Mr Civelli and Mr Mulacek, it was decided that the Aircraft was to be purchased from OK Consultants and beneficially held in the name of a company specifically incorporated for that purpose."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011-05-18",
+          "Text": "On 18 May 2011, funds from the escrow account were disbursed to pay the US$1.35 million purchase price of the Aircraft and various reimbursements, with beneficial title passing to AirLNG"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-04-25",
-          "Text": "On 2011-04-25, the AMS Agreement was concluded between SAC and AirLNG. SAC was responsible for the use, management, operation, and maintenance of the Aircraft for AirLNG's exclusive use."
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2011-05-01",
+          "Text": "Following the Aircraft's acquisition in May 2011, Mr Civelli regularly used the Aircraft for travel to Papua New Guinea, where he and InterOil had substantial business interests"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-06-01",
-          "Text": "During the first few months after the AMS Agreement, the Aircraft was used by Mr Civelli, Mr Mulacek, and Mr Aldorf on a regular basis."
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2012-01-27",
+          "Text": "On 27 January 2012, Mr Civelli met Mr Higgins and Mr Mulacek at InterOil's Singapore office to discuss the termination of the AMS Agreement"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-02-10",
-          "Text": "On 2012-02-10, Mr Higgins signed the termination notice for the AMS Agreement in Mr Ng's presence."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-05-08",
-          "Text": "On 2012-05-08, AirLNG signed an aircraft management contract with Asia Aviation Company Pte Ltd."
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2012-03-29",
+          "Text": "On 29 March 2012,a draft aircraft management contract to Mr Ng for onward transmission to Mr Civelli, Mr Mulacek, and Mr Aldorf"
         }
       ],
-      "Issue": "Whether a founding director and financial backer of a special purpose vehicle incurs personal contractual or restitutionary liability to a service provider when negotiations for a new management contract fail to materialize.",
-      "Rule": "Individuals who fund and direct a special purpose vehicle are bound through that vehicle's contracts rather than personally, unless they explicitly agree to assume personal obligations. Without a concluded contract on clear terms, or circumstances demonstrating unjust enrichment at the provider's expense, no personal liability for remuneration arises for work performed during corporate negotiations.",
-      "Application": "Carlo Giuseppe Civelli funded the escrow account for the purchase of a Gulfstream III aircraft and served as a founding director of AirLNG Ltd, the special purpose vehicle created to hold the asset. AirLNG contracted with Singapore Air Charter (SAC) for management services. When dissatisfaction arose, Civelli and his associates discussed terminating SAC's contract with SAC's Managing Director, Higgins. Higgins subsequently performed transitional work, attempting to secure a new contract for his own company. When AirLNG ultimately hired a different aviation company, Higgins sued Civelli personally, claiming an oral agreement entitled him to monthly consultancy fees. The legal tension centers on whether Civelli's role in funding the aircraft and participating in high-level management discussions created a binding personal obligation to remunerate Higgins for uncontracted services.",
-      "Judicial_Reasoning_Log": "The court found no evidence of a concluded oral or written contract between Higgins and Civelli for personal remuneration. It was commercially implausible that experienced businessmen like Civelli would bypass the specifically incorporated, tax-advantaged special purpose vehicle (AirLNG) to assume personal liability for aircraft management services. The contemporaneous communications reflected only ongoing negotiations aimed at securing a contract with the corporate entity. Furthermore, Higgins's restitutionary claims failed because the work he performed was done at his own risk in anticipation of a contract that never materialized, conferring no unjust benefit upon Civelli personally. Consequently, all claims seeking personal remuneration from Civelli were dismissed."
+      "Issue": "Whether an investor and director associated with the aircraft-owning vehicle is contractually or restitutionarily obliged to pay an individual for aircraft management and consultancy work based on an oral understanding separate from the special purpose vehicle",
+      "Rule": "A person connected to a corporate owner is only personally bound by a services agreement if there is clear intention to contract in that capacity, and absent such intention, any claim for a reasonable sum must show that the individual, rather than the company, received and retained a legally unjustified enrichment",
+      "Application": "Mr Civelli personally, together with others, agreed to remunerate him for post- all obligations for aircraft management lay with AirLNG, that he did not personally undertake to pay the Plaintiff, and that any benefit from the Plaintiff's work accrued to the company rather than to him individually",
+      "Judicial_Reasoning_Log": "The court held that the commercial structure, including AirLNG's role as contracting party under both the AMS Agreement and the subsequent AAC agreement, made it highly unlikely that a separate personal oral contract was concluded with Mr Civelli. The judge noted that the Plaintiff's pleadings and evidence did not coherently explain why experienced businessmen would abandon the tax-efficient vehicle and assume personal obligations, and that contemporaneous correspondence showed ongoing attempts to secure a contract with AirLNG rather than reliance on any personal promise. On the restitutionary claim, the court found no basis to treat any alleged enrichment as having accrued personally to Mr Civelli, and concluded that any work done was directed at AirLNG's asset and undertaken at the Plaintiff's own risk."
     },
     "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Suit 244 of 2013; Suit 733 of 2014",
+      "Case_Number": "Suit No 244 of 2013",
       "Coram": "Edmund Leow JC",
-      "Judge": "Edmund Leow",
+      "Judge": "Edmund Leow JC",
       "Date": "2016-09-26",
       "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Pacific LNG Operations Pte Ltd",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Salem Ibrahim LLC",
+      "Counsel": [
+        "Salem Ibrahim",
+        "Kulvinder Kaur",
+        "Jeriel Lam"
+      ],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2011-01-01",
-          "Text": "Pacific LNG Operations Pte Ltd was a Singapore-incorporated company beneficially owned by Carlo Giuseppe Civelli."
+          "Text": "By early 2011, PacLNG was beneficially owned by Carlo Giuseppe Civelli, and Mr Civelli had substantial business interests in Papua New Guinea through PacLNG"
         },
         {
-          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2011-04-26",
-          "Text": "On 2011-04-26, Henry Edmond Aldorf granted a power of attorney to Danial Patrick Higgins to act on behalf of AirLNG Ltd and Pacific LNG Operations Pte Ltd in the purchase of the Aircraft."
+          "Text": "On 26 April 2011, Henry Edmond Aldorf granted Danial Higgins a power of attorney to act on behalf of AirLNG and PacLNG in the purchase of the Aircraft"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-06-01",
-          "Text": "Benjamin Ng was a Financial Controller with PacLNG who assisted Mr Mulacek and Mr Civelli with matters relating to the Aircraft."
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-02-01",
+          "Text": "By February 2012, PacLNG's financial controller Benjamin Ng assisted Mr Mulacek and Mr Civelli with matters relating to the Aircraft"
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2012-02-09",
-          "Text": "On 2012-02-09, Benjamin Ng, a Financial Controller with PacLNG, sent a draft notice of termination to Mr Higgins."
+          "Text": "On 9 February 2012, PacLNG financial controller Benjamin Ng emailed a draft notice of termination of the AMS Agreement to Mr Higgins at his personal email address at Mr Higgins's request"
         },
         {
-          "Fact_Type": "CONDUCT",
+          "Fact_Type": "DOCUMENT",
           "Fact_Date": "2012-02-10",
-          "Text": "On 2012-02-10, Mr Higgins signed the termination notice in Mr Ng's presence."
+          "Text": "On 10 February 2012, Mr Ng printed the termination notice and Mr Higgins signed it in Mr Ng's presence"
         },
         {
           "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-04-10",
-          "Text": "On 2012-04-10, Mr Higgins emailed Mr Ng saying that he was doing work trying to get the aircraft re-registered, had paid the salaries of the contract pilots, and that when the new contract was signed it should be backdated."
+          "Fact_Date": "2012-03-29",
+          "Text": "On 29 March 2012, Mr Ng received from Mr Higgins a draft aircraft management contract for Singapore Aircraft Management Pte Ltd and forwarded it to AirLNG director Henry Aldorf for consideration"
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2012-04-16",
-          "Text": "On 2012-04-16, Mr Ng wrote to Mr Higgins to suggest that he ought to have a chat with Mr Mulacek on the temporary consultancy and that they may have an understanding moving forward."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-04-30",
-          "Text": "On 2012-04-30, Mr Ng replied that 'we have not committed to a new management agreement and definitely have not committed to hiring and training a new pilot'."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-05-01",
-          "Text": "On 2012-05-01, Mr Higgins replied to indicate that he would be placing matters on hold until a decision was taken as to how matters should proceed, and Mr Ng took steps to engage another aircraft management company."
+          "Text": "On 16 April 2012, Mr Ng emailed Mr Higgins suggesting that he discuss a proposed temporary consultancy arrangement with Mr Mulacek and indicating that there might be an understanding on future cooperation"
         }
       ],
-      "Issue": "Whether a corporate entity that acts purely in a coordinating and communicative capacity for a related special purpose vehicle incurs direct contractual or restitutionary liability to a service provider.",
-      "Rule": "A company that coordinates communications and administrative tasks on behalf of a related contracting entity (the principal) does not become a party to the contract or incur independent liability for services rendered, unless it explicitly agrees to assume such obligations. Preliminary negotiations and administrative facilitation by the coordinating entity's employees do not constitute a binding commitment to pay for uncontracted services.",
-      "Application": "Pacific LNG Operations Pte Ltd (PacLNG) acted as an administrative and coordinating entity for AirLNG Ltd, the special purpose vehicle that owned the aircraft. PacLNG's Financial Controller, Benjamin Ng, facilitated communications between the aircraft's beneficial owners and Higgins. Ng drafted the termination notice for the existing management contract and corresponded with Higgins regarding Higgins's proposed new consultancy terms. However, Ng explicitly informed Higgins via email that no new management agreement had been committed to and rejected Higgins's requests for advance payments for pilot training. The core issue is whether PacLNG's involvement in these administrative and communicative tasks created a separate, binding contractual obligation to remunerate Higgins for his transition work.",
-      "Judicial_Reasoning_Log": "The court determined that PacLNG operated strictly as a coordinating administrative vehicle for the principals of AirLNG Ltd. The actual contracting party for the aircraft management was AirLNG Ltd. The contemporaneous emails from PacLNG's Financial Controller unequivocally demonstrated that no new management or consultancy contract had been agreed upon, and explicitly rejected authorization for the expenses Higgins claimed. Because PacLNG merely facilitated communication and never entered into a binding agreement or authorized the disputed work, it incurred no contractual or restitutionary liability. Consequently, all claims seeking remuneration from PacLNG were dismissed."
+      "Issue": "Whether a related operating company that empowered an individual to act in an aircraft acquisition and termination process is contractually or restitutionarily obliged to pay that individual for subsequent management and registration work under an oral understanding",
+      "Rule": "A corporate entity becomes legally responsible for service fees only where it is clearly identified as a contracting party to an agreement with sufficiently certain terms, and in the absence of such agreement, restitutionary liability requires proof that the company itself received and retained a benefit at the claimant's expense in circumstances recognised as unjust",
+      "Application": "PacLNG, together with its principals, orally agreed that he would be remunerated for post-termination management and consultancy services relating to the Aircraft. PacLNG, through its officers, maintained that its role was limited to facilitating financial and administrative steps for AirLNG and that no separate agreement was concluded under which PacLNG would owe the Plaintiff remuneration for his work",
+      "Judicial_Reasoning_Log": "The court held that the alleged oral agreement was commercially inconsistent with the established structure in which AirLNG, not PacLNG, was the contracting party for aircraft management services. The judge found no contemporaneous evidence that PacLNG undertook to pay the Plaintiff for his claimed services and noted that the Plaintiff's own correspondence sought contracts and consultancy arrangements with AirLNG rather than PacLNG. On unjust enrichment, the court concluded that any benefits from the Plaintiff's work accrued, if at all, to AirLNG and that there was no basis to impose a restitutionary obligation on PacLNG."
     },
     "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Suit 733 of 2014",
+      "Case_Number": "Suit No 733 of 2014",
       "Coram": "Edmund Leow JC",
-      "Judge": "Edmund Leow",
+      "Judge": "Edmund Leow JC",
       "Date": "2016-09-26",
       "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Plaintiff",
       "Name": "Singapore Air Charter Pte Ltd",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Salem Ibrahim LLC",
+      "Counsel": [
+        "Salem Ibrahim",
+        "Kulvinder Kaur",
+        "Jeriel Lam"
+      ],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2010-09-07",
-          "Text": "Singapore Air Charter Pte Ltd was incorporated on 2010-09-07."
+          "Text": "Singapore Air Charter Pte Ltd was incorporated on 7 September 2010 in Singapore to provide, among other things, air chartering services, and its founding directors included Nicholas Johnstone, Stefan Wood, Danial Higgins, and Mr Higgins's wife"
         },
         {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2010-09-07",
-          "Text": "On incorporation on 2010-09-07, the founding directors of Singapore Air Charter Pte Ltd were Nicholas Johnstone, Stefan Wood, Danial Patrick Higgins, and Danial Patrick Higgins's wife."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2010-09-07",
-          "Text": "Mr Higgins was the Managing Director of Singapore Air Charter Pte Ltd."
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2010-11-15",
+          "Text": "On 15 November 2010, SAC requisitioned business cards that described its services as including aircraft sales and acquisitions"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2011-04-25",
-          "Text": "On 2011-04-25, Singapore Air Charter Pte Ltd entered into an Aircraft Management Services Agreement with AirLNG Ltd under which Singapore Air Charter would manage, operate, and maintain a Gulfstream III aircraft for AirLNG's exclusive use in return for a monthly management fee and pilot payments."
+          "Text": "On 25 April 2011, SAC entered into an Aircraft Management Services Agreement with AirLNG Ltd under which SAC would manage, operate, and maintain the Gulfstream III Aircraft for AirLNG's exclusive use in return for a monthly management fee of US$25,000 and pilot payments"
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2011-06-01",
-          "Text": "During this period, Mr Johnstone and Mr Walker served as the primary pilots, and Mr Higgins served as the primary point of contact between SAC and AirLNG."
+          "Text": "From mid-2011, SAC provided aircraft management services for the Aircraft, and Nicholas Johnstone and Daniel Walker served as the primary pilots"
         },
         {
-          "Fact_Type": "CONDUCT",
+          "Fact_Type": "CHRONOLOGY",
           "Fact_Date": "2011-08-01",
-          "Text": "Sometime in August 2011, Mr Mulacek proposed that SAC assist him with the running of an aircraft management company in Papua New Guinea called National Air Services, and the proposal eventually came to naught because none of the directors wished to be based permanently in PNG."
+          "Text": "Around August 2011, SAC's directors considered a proposal for SAC to assist in running National Air Services in Papua New Guinea, but they declined because none wished to be based permanently in Papua New Guinea"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-10-01",
-          "Text": "Disagreements arose between the directors of SAC over Mr Higgins's remuneration, the extent of his commitment to SAC, and proposed salary increases for Mr Johnstone and Mr Walker."
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2011-01-01",
+          "Text": "At the end of 2011, SAC's directors were disagreeing over remuneration and commitment levels, and Nicholas Johnstone resigned as a pilot at the end of December 2011 because of ill health"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-12-01",
-          "Text": "At the end of 2011, the Aircraft was grounded for scheduled maintenance and was grounded for longer than expected due to corrosion detected at the wing."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-12-31",
-          "Text": "At the end of December 2011, Mr Johnstone resigned from his position as a pilot on the ground of ill health, though he indicated his willingness to fly until May 2012 if necessary."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-12-20",
-          "Text": "Mr Walker returned to Australia for a four-week vacation over the Christmas/New Year period."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
+          "Fact_Type": "CHRONOLOGY",
           "Fact_Date": "2012-01-25",
-          "Text": "On 2012-01-25, Mr Higgins emailed the other directors of SAC explaining that he had met Mr Mulacek and Mr Civelli the previous week and that both were unhappy with, among other things, Mr Johnstone's resignation as a pilot, Mr Walker's extended vacation, and the lack of interest in maintenance issues. He said Mr Mulacek had proposed two possible courses of action: Mr Mulacek would buy into SAC and retain Mr Higgins as MD, or the AMS Agreement would be terminated and the contract reassigned to a new company which Mr Higgins would head."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-01-29",
-          "Text": "On 29 January 2012, Mr Walker tendered his resignation as the manager of SAC's flight operations but offered to continue serving as a pilot. His resignation was accepted by Mr Higgins and his offer to continue as a pilot was turned down."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-02-09",
-          "Text": "On 9 February 2012, Mr Ng sent a draft notice of termination to Mr Higgins."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-02-10",
-          "Text": "On 10 February 2012, Mr Higgins signed the termination notice in Mr Ng's presence."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-03-22",
-          "Text": "Following the termination notice, the AMS Agreement took effect from 22 March 2012."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-02-10",
-          "Text": "Mr Higgins did not inform his fellow directors that the AMS Agreement had been terminated until 28 February 2012."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2012-02-28",
-          "Text": "On 28 February 2012, Mr Higgins sent the other directors an electronic copy of the draft notice of termination that had been sent to him on 9 February 2012."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-03-23",
-          "Text": "Following termination, the Aircraft continued to be managed by SAC until 22 March 2012, when the termination took effect."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-04-01",
-          "Text": "The Makassar-Ambon charter flights were arranged in April 2012 while the Aircraft was grounded."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2012-04-15",
-          "Text": "For the Makassar-Ambon charter flights, AirLNG transferred US$90,000 directly to Elite Jets, MAM transferred US$26,000 to Elite Jets, and AirLNG later transferred US$50,000 to MAM."
+          "Text": "On 25 January 2012, Mr Higgins told SAC's directors that Mr Mulacek and Mr Civelli were unhappy with SAC's performance and that Mr Mulacek had proposed either buying into SAC or terminating the AMS Agreement and transferring the work to a new company headed by Mr Higgins"
         },
         {
           "Fact_Type": "BOARD_ACTION",
           "Fact_Date": "2012-06-22",
-          "Text": "On 22 June 2012, Mr Wood requisitioned an extraordinary general meeting for the purpose of removing Mr Higgins and his wife from their directorships."
+          "Text": "On 22 June 2012, SAC director Stefan Wood requisitioned an extraordinary general meeting to remove Mr Higgins and his wife as directors"
+        }
+      ],
+      "Issue": "Whether a managing director who promoted a competing venture, procured the termination of the company's sole management contract, and retained key documents acted contrary to core management obligations had to the company and must account for lost profits and gains",
+      "Rule": "Directors owe duties to act honestly in the company's best interests, avoid conflicts of interest, and not profit from corporate opportunities without informed consent, and where such duties are contravened, equity may require disgorgement of profits and equitable compensation for losses causally linked to the misconduct",
+      "Application": "Its Managing Director undermined its only major contract by recommending termination in favour of a new company he controlled, diverted acquisition and charter opportunities for personal gain, and withheld an aircraft logbook needed to comply with obligations to the owner. he merely reported SAC's operational problems, that profits arose through a separate consultancy business, were had",
+      "Judicial_Reasoning_Log": "The court found that Mr Higgins had actively proposed the termination of the AMS Agreement and the transfer of business to a new company he would control, rather than simply relaying AirLNG's wishes, and that he concealed the fact that he had already signed the termination notice. The judge held that his incorporation of Singapore Aircraft Management Pte Ltd while still SAC's Managing Director placed him in direct competition and created an impermissible conflict. Applying the Brickenden approach, the court concluded that his misconduct caused SAC to lose the AMS Agreement and ordered an assessment of equitable compensation for lost profits until the end of the contractual term. On secret profits, the court held that aircraft acquisition and chartering were within SAC's business, that Mr Higgins had used his position to secure a US$316,500 back-to-back profit on the Aircraft purchase and a US$24,000 margin on the Makassar-Ambon charter without full disclosure, and ordered him to account for these sums. The court also found that his four-year retention of an aircraft logbook breached his duty to act in SAC's interests but that SAC had not proved compensable loss from this aspect."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 733 of 2014",
+      "Coram": "Edmund Leow JC",
+      "Judge": "Edmund Leow JC",
+      "Date": "2016-09-26",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Danial Patrick Higgins",
+      "Law_Firm": "Peter Low LLC",
+      "Counsel": [
+        "Peter Low",
+        "Raj Mannar",
+        "Elaine Low"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2010-09-07",
+          "Text": "At SAC's incorporation on 2010-09-07, Mr Higgins was one of its founding directors and served as its Managing Director"
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2011-09-20",
+          "Text": "On 2011-09-20, Mr Higgins emailed Mr Mulacek to say that the FAA had introduced onerous rules for US-registered aircraft and that an acceptable alternate jurisdiction would have to be found"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2012-01-25",
+          "Text": "On 25 January 2012, Mr Higgins sent SAC directors an email reporting that AirLNG principals were unhappy with SAC and outlining two options, including terminating the AMS Agreement and assigning it to a new company he would head to manage the Aircraft and PNG flight operations"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2012-02-08",
+          "Text": "On 8 February 2012, Mr Higgins emailed PacLNG's financial controller stating that US rules no longer allowed foreign entities to own US-registered aircraft and that the Aircraft needed to be re-registered, citing tax and regulatory pressures"
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-02-10",
+          "Text": "On 2012-02-10, Mr Higgins signed the notice of termination of the AMS Agreement in Mr Ng's presence, and he did not tell the other SAC directors about it until 2012-02-28"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2011-05-18",
+          "Text": "On 2011-05-18, pursuant to escrow instructions given by Mr Higgins, US$316,500 was transferred to Montreal Asset Management and US$15,000 was transferred to Singapore Air Charter from the Aircraft purchase funds as reimbursements"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-03-28",
+          "Text": "On 2012-03-28, while still SAC's Managing Director, Mr Higgins incorporated Singapore Aircraft Management Pte Ltd"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-03-29",
+          "Text": "On 2012-03-29, Mr Higgins sent Mr Ng a draft aircraft management contract for Singapore Aircraft Management Pte Ltd and instructed him to forward it to Mr Mulacek, Mr Civelli, and Mr Aldorf. The draft was almost identical to the AMS Agreement"
+        }
+      ],
+      "Issue": "Whether a managing director who promoted termination of his company's key contract, diverted acquisition and charter opportunities, and retained operational records contravened core management obligations and must compensate the company and disgorge gains",
+      "Rule": "Company directors must act in the company's best interests, avoid conflicts between personal and corporate interests, and not exploit corporate opportunities or make undisclosed profits, and where such duties are contravened, equity may order both equitable compensation for loss and an account of profits without requiring proof that the company could itself have taken the opportunity",
+      "Application": "Mr Higgins encouraged AirLNG to terminate the AMS Agreement and shift the business to a new company he controlled, arranged a substantial margin for his own consultancy on the Aircraft purchase, took a profit on a charter that fell within SAC's business, he was merely responding to AirLNG's dissatisfaction, that profits were earned through his separate consultancy business with SAC's knowledge, and that he retained documents as security for sums he believed were had",
+      "Judicial_Reasoning_Log": "The court found that Mr Higgins had gone beyond reporting SAC's difficulties by actively proposing termination of the AMS Agreement and the transfer of business to a new company he would control, and that he concealed his early acceptance of the termination notice from SAC's board. The judge held that his incorporation of SAM while still SAC's Managing Director and his pursuit of a near-identical management contract created a clear conflict of interest and contravened his duty of loyalty. Applying the Brickenden approach, the court concluded that his misconduct caused SAC to lose the AMS Agreement and ordered an assessment of equitable compensation for lost profits until the end of the contractual term. The judge further held that aircraft acquisition and chartering were within SAC's business, that Mr Higgins had used his position to secure a US$316,500 profit on the Aircraft purchase and a US$24,000 profit on the Makassar-Ambon charter without proper disclosure, and ordered him to account for these sums. The court rejected his claimed lien over the aircraft logbook and found that his prolonged retention of it breached his duty, though no separate monetary award was made for that aspect due to lack of proven loss."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 733 of 2014 (Counterclaim)",
+      "Coram": "Edmund Leow JC",
+      "Judge": "Edmund Leow JC",
+      "Date": "2016-09-26",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Danial Patrick Higgins",
+      "Law_Firm": "Peter Low LLC",
+      "Counsel": [
+        "Peter Low",
+        "Raj Mannar",
+        "Elaine Low"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2012-07-19",
+          "Text": "Danial Patrick Higgins formally resigned from his position at Singapore Air Charter Pte Ltd"
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-07-19",
+          "Text": "Danial Patrick Higgins served as the managing director of Singapore Air Charter Pte Ltd until 19 July 2012"
+        }
+      ],
+      "Issue": "Whether a company and its associates are legally responsible for unpaid salary, business expenses, conspiracy to induce the termination of a director's employment",
+      "Rule": "A company is contractually obligated to pay earned remuneration, and individuals may be legally responsible for conspiracy if they combine to cause intentional harm through unlawful means",
+      "Application": "Any conspiracy, though they did not dispute the specific unpaid salary mathematical amount",
+      "Judicial_Reasoning_Log": "The court allowed the counterclaim in part, awarding Higgins the undisputed US$14,351.90 in unpaid salary and expenses. However, the court dismissed the broader conspiracy claims against the individuals, finding no evidence of an unlawful combination to injure."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 733 of 2014 (Counterclaim)",
+      "Coram": "Edmund Leow JC",
+      "Judge": "Edmund Leow JC",
+      "Date": "2016-09-26",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Philippe Emanuel Mulacek, Carlo Giuseppe Civelli, Nicholas Johnstone, Daniel Chance Walker, Stefan Wood, Singapore Air Charter Pte Ltd",
+      "Law_Firm": "Salem Ibrahim LLC",
+      "Counsel": [
+        "Salem Ibrahim",
+        "Kulvinder Kaur",
+        "Jeriel Lam"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2012-04-12",
+          "Text": "Singapore Air Charter Pte Ltd received the resignation of its Managing Director, Danial Patrick Higgins"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2012-05-01",
+          "Text": "The company was notified of an outstanding balance of US$14,351.90 for salary and operational expenses"
         },
         {
           "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2012-07-19",
-          "Text": "On 19 July 2012, Mr Higgins and his wife arrived before the commencement of the EGM to tender their resignations and left immediately afterwards. The resolution for their removal as directors was passed unanimously and their resignations were recorded in the minutes."
+          "Fact_Date": "2012-06-22",
+          "Text": "Company director Stefan Wood requisitioned an extraordinary general meeting to formally remove Mr Higgins as a director"
         }
       ],
-      "Issue": "Whether a company may recover equitable compensation for lost profits and disgorge secret gains when its managing director secretly negotiates the termination of its primary contract to establish a competing personal business.",
-      "Rule": "A company is entitled to the exclusive benefit of its contracts and corporate opportunities. A managing director owes strict fiduciary duties to act in the company's best interests, avoid conflicts of interest, and refrain from diverting business or generating secret profits connected to their corporate office. If a director's covert actions directly cause the company to lose a profitable contract, the company is entitled to equitable compensation for those lost profits. Additionally, any undisclosed financial benefits derived by the director from corporate opportunities must be disgorged to the company.",
-      "Application": "Singapore Air Charter (SAC) held a lucrative Aircraft Management Services (AMS) Agreement with AirLNG. Amidst operational disputes, SAC's Managing Director, Danial Patrick Higgins, met with AirLNG's principals and discussed terminating SAC's contract so that Higgins could form a new company to take over the management. Higgins then secretly signed the termination notice on behalf of SAC, withholding this critical information from his co-directors for nearly three weeks. Concurrently, he incorporated Singapore Aircraft Management Pte Ltd and submitted a draft contract to AirLNG, attempting to secure the business for himself. Furthermore, during this period, Higgins arranged charter flights through his personal entity, Montreal Asset Management, pocketing a US$24,000 hidden markup that properly belonged to SAC. The legal tension is whether the managing director's actions constituted a deliberate sabotage of SAC's contract to usurp a corporate opportunity, thereby entitling SAC to recover the resulting lost profits and secret gains.",
-      "Judicial_Reasoning_Log": "The court established that the Managing Director owed core fiduciary duties of loyalty to SAC. By actively proposing the termination of the AMS Agreement, secretly executing the termination notice, delaying disclosure to the board, and simultaneously incorporating a competing entity to absorb the displaced business, the director placed his personal interests in direct conflict with his duty to protect SAC. The court applied the Brickenden approach, concluding that this egregious breach of duty was causally linked to the loss of the AMS Agreement; the director failed to prove the contract would have inevitably been terminated regardless of his sabotage. Consequently, SAC was entitled to equitable compensation for lost profits over the remainder of the contractual term. Additionally, the court found that the US$24,000 surplus retained by the director's personal company from the charter flights, as well as related acquisition markups, constituted secret profits derived from corporate opportunities belonging to SAC. These undisclosed financial benefits were ordered to be disgorged to SAC. The company's claim was allowed."
+      "Issue": "Whether a company and its associates are legally responsible for a former director' conspiracy to oust him",
+      "Rule": "A company must fulfill valid contractual remuneration obligations, but conspiracy requires objective proof of an unlawful combination intended to cause harm",
+      "Application": "There was no conspiracy to injure or induce a termination of employment, while acknowledging the unpaid salary figures. the defendants colluded to oust him and withhold his rightful compensation",
+      "Judicial_Reasoning_Log": "The court found the company liable for the undisputed unpaid salary and expenses. The court dismissed the conspiracy claims against the individual defendants by counterclaim, finding that their actions to remove him were a legitimate response to his own misconduct."
     },
-    "Label": "Claim Allowed",
+    "Label": "Liable",
     "Leakage_Score": 0
   }
 ]

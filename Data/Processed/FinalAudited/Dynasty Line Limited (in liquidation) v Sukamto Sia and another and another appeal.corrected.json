@@ -1,7 +1,7 @@
 [
   {
     "Metadata": {
-      "Case_Number": "Civil Appeal No 103 of 2013; Civil Appeal No 105 of 2013; Suit No 256 of 2010; HCA 9505 of 1999; HCA 2057 of 2007; HCCW 382 of 2007",
+      "Case_Number": "Civil Appeal No 103 of 2013",
       "Coram": "Sundaresh Menon CJ; Chao Hick Tin JA; V K Rajah JA",
       "Judge": "Sundaresh Menon CJ",
       "Date": "2014-04-29",
@@ -9,7 +9,7 @@
     },
     "Party_Details": {
       "Role": "Plaintiff",
-      "Name": "Dynasty Line Limited (in liquidation)",
+      "Name": "Dynasty Line Limited",
       "Law_Firm": "Legis Point LLC",
       "Counsel": [
         "Samuel Chacko",
@@ -20,145 +20,50 @@
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "1996-02-05",
-          "Text": "Dynasty Line Limited was incorporated under the laws of the British Virgin Islands."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1996-01-01",
-          "Text": "Sukamto Sia was the sole shareholder of Dynasty Line Limited."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1996-01-01",
-          "Text": "Dynasty Line Limited functioned as the personal investment vehicle of Sukamto Sia."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1996-01-01",
-          "Text": "Sukamto Sia was a director of Dynasty Line Limited."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1996-01-01",
-          "Text": "Lee Howe Yong was a director of Dynasty Line Limited."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "1996-01-01",
-          "Text": "Although he did not hold any shares in Dynasty Line Limited, Lee Howe Yong was promised 20% of the profits of Dynasty Line Limited by Sukamto Sia."
+          "Text": "Dynasty Line Limited acquired 29,537,367 shares in China Development Corporation Limited"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "1996-02-05",
-          "Text": "Under seven separate sale and purchase agreements dated 1996-02-05, Dynasty Line Limited agreed to acquire a total of 29,537,367 shares in China Development Corporation Limited from vendors including Low Tuck Kwong, Johnny Tsao Yue Hwa, Yap Han Hoe, Swanny Sri Sujanty Setyono, Lau Kang Thow, Evelyn Ong Suat Tay and Low Cheng Lum."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "1996-02-05",
-          "Text": "The seven sale and purchase agreements dated 1996-02-05 contained a payment schedule in clause 3.2 specifying three dates for payment of 1%, 4% and 95% of the purchase price amounting in total to HK$230,391,463."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1996-04-23",
-          "Text": "The vendors transferred their China Development Corporation Limited shares to Dynasty Line Limited before the intended completion date of 1996-05-02."
+          "Text": "Dynasty entered into sale and purchase agreements with several vendors for shares"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1996-04-23",
-          "Text": "Under clause 3 of the sale and purchase agreements, Dynasty Line Limited was scheduled to pay the full purchase price of HK$230,391,463 by 1996-05-05."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1996-11-06",
-          "Text": "Only HK$64,459,317.16, approximately 28% of the agreed purchase price for the China Development Corporation Limited shares, was ultimately paid by Dynasty Line Limited."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1996-11-06",
-          "Text": "On 1996-04-23, Dynasty Line Limited pledged 12,032,302 China Development Corporation Limited shares, representing about 40.7% of its holding, to Commerzbank (South East Asia) Limited as security for a loan facility granted to Sukamto Sia."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "1997-05-15",
-          "Text": "The loan facility secured by the 12,032,302 pledged shares on 1996-04-23 was granted to Sukamto Sia and not to Dynasty Line Limited."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1997-08-29",
-          "Text": "On 1996-11-06, Dynasty Line Limited pledged 5,600,000 China Development Corporation Limited shares to Société Générale (Labuan branch) as security for loan facilities granted to Beswil Investment Pte Ltd."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "1997-08-29",
-          "Text": "Beswil Investment Pte Ltd, a company owned by Sukamto Sia and Lee Howe Yong, received loan facilities secured by the 5,600,000 pledged shares on 1996-11-06."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1997-11-03",
-          "Text": "On 1997-05-15, there was a stock split of China Development Corporation Limited shares in the ratio of 5:1, which changed the number of shares represented by Dynasty Line Limited's holdings and affected the quantities pledged in later transactions."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1997-11-03",
-          "Text": "On 1997-08-29, Dynasty Line Limited pledged 48,822,700 China Development Corporation Limited shares to KG Investments Asia Limited as security for loan facilities granted to Franklin Syah."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "1997-11-03",
-          "Text": "The loan facilities secured by the 48,822,700 pledged shares on 1997-08-29 were granted to Sukamto Sia's business associate, Franklin Syah."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1998-01-01",
-          "Text": "On 1997-11-03, Dynasty Line Limited pledged 10,702,625 China Development Corporation Limited shares to Creditanstalt Bankverein as security for loan facilities granted to Sukamto Sia."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
           "Fact_Date": "1999-06-10",
-          "Text": "The loan facilities secured by the 10,702,625 pledged shares on 1997-11-03 were granted to Sukamto Sia personally."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2001-04-06",
-          "Text": "By November 1997, Dynasty Line Limited had pledged all of its China Development Corporation Limited shares to various financial institutions as security for loans to Sukamto Sia, Franklin Syah and Beswil Investment Pte Ltd, and Dynasty Line Limited did not receive the loan proceeds from these facilities."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2007-08-23",
-          "Text": "After the pledges of its China Development Corporation Limited shares, Dynasty Line Limited's ability to use those shares directly to satisfy the unpaid balance of the purchase price to the vendors was reduced."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2007-09-27",
-          "Text": "On 1999-06-10, the vendors of the China Development Corporation Limited shares commenced proceedings in Hong Kong in HCA 9505 of 1999 against Dynasty Line Limited for the unpaid balance of the purchase price."
+          "Text": "Only 28% of the purchase price for the shares was paid by Dynasty"
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-12-22",
-          "Text": "On 2009-12-22, Low Tuck Kwong commenced and obtained an order for the winding up of Dynasty Line Limited in the British Virgin Islands High Court."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2009-12-22",
-          "Text": "On 2009-12-22, William Tacon and Lau Wu Kwai King Lauren were appointed as joint liquidators of Dynasty Line Limited."
+          "Fact_Date": "1996-04-23",
+          "Text": "Dynasty pledged shares to Commerzbank as security for loans to Sia"
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-04-14",
-          "Text": "On 2010-04-14, the joint liquidators of Dynasty Line Limited commenced Suit No 256 of 2010 in Singapore against Sukamto Sia and Lee Howe Yong under British Virgin Islands law in relation to their conduct as directors of Dynasty Line Limited."
+          "Fact_Date": "1997-11-03",
+          "Text": "Dynasty pledged shares to Creditanstalt Bankverein as security for loans to Sia"
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-01-01",
+          "Text": "Sia was the sole shareholder of Dynasty Line Limited"
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1996-01-01",
+          "Text": "Lee Howe Yong was a co-director of Dynasty Line Limited"
         }
       ],
-      "Issue": "Whether directors breach their fiduciary duties by pledging a company's sole assets to secure personal and third-party loans when the company owes a substantial, unsatisfied debt for the purchase of those same assets, thereby prejudicing the company's creditors.",
-      "Rule": "Under BVI company law, directors must act honestly and in good faith with a view to the best interests of the company. When a company's financial position is precarious, or its ability to meet existing obligations is in doubt, directors must give increasing weight to the interests of creditors. Dealing with company property in a way that benefits directors or related parties without corresponding benefit to the company, in circumstances that place existing creditors at risk, constitutes a breach of fiduciary duty. Such conduct may also be treated as a fraudulent breach of trust for limitation purposes, engaging statutory exceptions that remove ordinary time limits for claims.",
-      "Application": "Dynasty Line Limited acquired over 29 million CDC shares for HK$230 million, but only paid about 28% of the purchase price. The unpaid CDC shares constituted the company's only asset. The directors, Sukamto Sia and Lee Howe Yong, subsequently pledged these shares to various financial institutions to secure loan facilities for Sia personally, a company co-owned by Sia and Lee, and a business associate. Dynasty received none of the loan proceeds. This series of pledges encumbered the company's sole asset, severely compromising its ability to satisfy the massive outstanding debt owed to the vendors for the initial purchase of those shares. The core legal tension involves whether stripping an asset-poor company of its only means to pay its primary creditor, in order to benefit the directors personally, breaches the fiduciary duty owed to the company and its creditors.",
-      "Judicial_Reasoning_Log": "The court held that Sia breached his fiduciary duties as a director under BVI law by causing Dynasty to enter into the security transactions when its solvency was in doubt. It rejected Sia's reliance on an alleged collateral agreement that supposedly allowed flexible payment of the purchase price, finding it too uncertain, inconsistent with the written payment schedule, and barred by entire agreement clauses. Dynasty remained obliged to pay the balance. The pledges of Dynasty's only asset to secure loans for Sia and related entities, without benefit to Dynasty, severely compromised Dynasty's ability to meet its obligations to the vendors, placing creditor interests at grave risk. As Dynasty's financial position became precarious, the interests of creditors came to the fore. Sia, with full knowledge of the unpaid purchase price and the sole-asset position, acted in disregard of those interests. The court also found that Lee, an experienced businessman with a 20% profit share, breached his duties by failing to inquire into Dynasty's financial position before signing the first pledge. On limitation, the court applied the Singapore Limitation Act and held that the six-year bar did not apply because the conduct fell within the fraudulent breach of trust exception; using company property to secure personal borrowings under these circumstances would not be countenanced by ordinary standards of reasonable and honest people. Defences of laches, acquiescence, and conspiracy were dismissed. The court therefore allowed Dynasty's appeal, holding the directors liable for breach of fiduciary duty."
+      "Issue": "Whether the directors of a company contravened their management obligations by pledging company assets when the company was insolvent or of doubtful solvency",
+      "Rule": "Directors must act in the best interests of the company, considering both shareholder and creditor interests, especially when the company is insolvent or nearing insolvency",
+      "Application": "The directors acted against the company's interests by pledging its only asset for personal loans. the company was not insolvent at the time of the transactions",
+      "Judicial_Reasoning_Log": "The court found that the directors breached their duties by pledging the company's sole asset without benefiting the company, thereby compromising its ability to meet its obligations."
     },
     "Label": "Claim Allowed",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Civil Appeal No 103 of 2013; Civil Appeal No 105 of 2013; Suit No 256 of 2010",
+      "Case_Number": "Civil Appeal No 105 of 2013",
       "Coram": "Sundaresh Menon CJ; Chao Hick Tin JA; V K Rajah JA",
       "Judge": "Sundaresh Menon CJ",
       "Date": "2014-04-29",
@@ -176,138 +81,91 @@
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "1996-01-01",
-          "Text": "Sukamto Sia used Dynasty Line Limited as his personal investment vehicle."
+          "Text": "Sukamto Sia was the sole shareholder of Dynasty Line Limited"
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-04-23",
+          "Text": "On 23 April 1996, Sia caused Dynasty to pledge 12,032,302 CDC shares to Commerzbank (South East Asia) Limited as security for a loan facility to him"
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1997-11-03",
+          "Text": "On 3 November 1997, Sia caused Dynasty to pledge 10,702,625 CDC shares to Creditanstalt Bankverein as security for a loan facility to him"
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "1996-04-01",
+          "Text": "Between April 1996 and November 1997, Sia caused Dynasty to pledge its shares to various financial institutions as security for loans to him, his business associate Franklin Syah, and Beswil Investment Pte Ltd"
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "1996-05-02",
+          "Text": "Sia knew that Dynasty had not fully paid for the shares and that a substantial amount of the purchase price remained outstanding"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1996-01-01",
-          "Text": "Sukamto Sia was a director of Dynasty Line Limited."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1996-01-01",
-          "Text": "Sukamto Sia was the sole shareholder of Dynasty Line Limited."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "1996-01-01",
-          "Text": "Sukamto Sia promised Lee Howe Yong 20% of the profits of Dynasty Line Limited."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1996-02-05",
-          "Text": "On 5 February 1996, Dynasty Line Limited entered into seven sale and purchase agreements to acquire 29,537,367 shares in China Development Corporation Limited from Low and the other vendors."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1996-04-23",
-          "Text": "On 23 April 1996, Dynasty pledged 12,032,302 CDC shares to Commerzbank (South East Asia) Limited as security for a loan facility to Sia."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1996-04-23",
-          "Text": "The loan facility secured by the 12,032,302 pledged shares was to Sia."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1996-11-06",
-          "Text": "On 6 November 1996, Dynasty pledged 5,600,000 CDC shares to Société Générale (Labuan branch) as security for loan facilities to Beswil."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1997-08-29",
-          "Text": "On 29 August 1997, Dynasty pledged 48,822,700 CDC shares to KG Investments Asia Limited as security for loan facilities to Franklin Syah."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1997-11-03",
-          "Text": "On 3 November 1997, Dynasty pledged 10,702,625 CDC shares to Creditanstalt Bankverein as security for a loan facility to Sia."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1997-11-03",
-          "Text": "On 3 November 1997, Dynasty pledged 10,702,625 CDC shares to Creditanstalt Bankverein as security for a loan facility to Sia."
+          "Text": "Sia was a director of Dynasty Line Limited"
         }
       ],
-      "Issue": "Whether a director and sole shareholder breaches fiduciary duties and engages in a fraudulent breach of trust by pledging the company's only asset to secure personal and related-party loans while a massive acquisition debt for that asset remains unpaid.",
-      "Rule": "Directors must act in good faith in the best interests of the company. When a company's financial position is strained or its ability to meet existing obligations is in doubt, directors must consider the interests of creditors. Dealing with company property to benefit directors or related parties without corresponding benefit to the company, thereby placing existing creditors at risk, constitutes a breach of fiduciary duty. Such conduct may be treated as a fraudulent breach of trust for limitation purposes, preventing the director from relying on ordinary statutory time bars to defeat claims for the recovery of misused corporate assets.",
-      "Application": "Sukamto Sia, acting as director and sole shareholder, caused Dynasty Line Limited to acquire a massive block of CDC shares, incurring a HK$230 million debt. Despite paying only 28% of this purchase price, Sia pledged the entirety of these unpaid shares to secure personal loans for himself, his business associate, and a jointly-owned company. Dynasty received no benefit or loan proceeds from these pledges. By encumbering the company's sole asset, Sia effectively stripped the company of its ability to satisfy the massive debt owed to the original vendors. The conflict centers on whether this extraction of value via pledges, while the company remained heavily indebted for the very assets pledged, constitutes an actionable and fraudulent breach of fiduciary duty not shielded by limitation periods.",
-      "Judicial_Reasoning_Log": "The court determined that Sia breached his fiduciary duties. As the company’s financial position was precarious due to the massive unpaid purchase price, the interests of creditors came to the fore. Sia, fully aware of the unpaid debt and the sole-asset position, acted in total disregard of those creditor interests by encumbering the assets for personal gain without providing any benefit to the company. The court rejected his reliance on an alleged collateral agreement allowing flexible payment, finding it legally unenforceable and inconsistent with the written contracts. Crucially, the court held that Sia's conduct fell within the fraudulent breach of trust exception under the Limitation Act. Using company property to secure personal borrowings under such precarious financial conditions would not be countenanced by ordinary standards of reasonable and honest people, thus defeating his limitation defense. His counterclaims for conspiracy and breach of a prior settlement agreement were also dismissed as lacking factual and legal foundation. He was held liable to the liquidators for the breach of his duties."
+      "Issue": "Whether a director is legally responsible for compromising a company's financial position by using its assets for personal benefit",
+      "Rule": "A director must not use company assets for personal gain if it jeopardizes the company's ability to meet its obligations",
+      "Application": "The transactions were permissible under company law. the transactions were detrimental to the company's financial health",
+      "Judicial_Reasoning_Log": "The court concluded that Sia breached his duties by using company assets for personal benefit, compromising the company's financial position."
     },
     "Label": "Liable",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Civil Appeal No 103 of 2013; Civil Appeal No 105 of 2013; Suit No 256 of 2010",
+      "Case_Number": "Civil Appeal No 103 of 2013 (Counterclaim)",
       "Coram": "Sundaresh Menon CJ; Chao Hick Tin JA; V K Rajah JA",
       "Judge": "Sundaresh Menon CJ",
       "Date": "2014-04-29",
       "Tribunal_Court": "Court of Appeal"
     },
     "Party_Details": {
-      "Role": "Defendant",
-      "Name": "Lee Howe Yong",
-      "Law_Firm": "Wong & Leow LLC",
+      "Role": "Plaintiff",
+      "Name": "Sukamto Sia",
+      "Law_Firm": "Premier Law LLC",
       "Counsel": [
-        "Chan Leng Sun SC",
-        "Ang Hsueh Ling Celeste",
-        "Jennifer Fong Lee Cheng",
-        "Michelle Virgiany"
+        "Siraj Omar",
+        "Lee Wei Alexander"
       ],
       "Facts": [
         {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1996-04-23",
-          "Text": "Lee Howe Yong was a director of Dynasty Line Limited."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "1996-01-01",
-          "Text": "Although he did not hold shares in Dynasty Line Limited, Lee Howe Yong was promised 20% of the profits of Dynasty Line Limited by Sukamto Sia."
+          "Text": "Sia claimed a collateral agreement existed allowing flexibility in payment terms."
         },
         {
-          "Fact_Type": "RELATED_PARTY_EVENT",
+          "Fact_Type": "COMMUNICATION",
           "Fact_Date": "1996-01-01",
-          "Text": "Beswil Investment Pte Ltd was a company owned by Sukamto Sia and Lee Howe Yong."
+          "Text": "Sia communicated with Low regarding payment flexibility."
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "1996-04-23",
-          "Text": "On 23 April 1996, Lee Howe Yong signed documents relating to the pledge by Dynasty Line Limited of 12,032,302 China Development Corporation Limited shares to Commerzbank (South East Asia) Limited as security for a loan facility to Sukamto Sia."
+          "Fact_Date": "1996-01-01",
+          "Text": "Sia stated that Low agreed to flexible payment terms."
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1996-11-06",
-          "Text": "On 6 November 1996, Dynasty Line Limited pledged 5,600,000 China Development Corporation Limited shares to Société Générale (Labuan branch) as security for loan facilities to Beswil Investment Pte Ltd, a company owned by Sia and Lee, although Lee's signature did not appear on the pledge documents."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1997-08-29",
-          "Text": "On 29 August 1997, Dynasty Line Limited pledged 48,822,700 China Development Corporation Limited shares to KG Investments Asia Limited as security for loan facilities to Franklin Syah."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "1997-11-03",
-          "Text": "On 3 November 1997, Dynasty Line Limited pledged 10,702,625 China Development Corporation Limited shares to Creditanstalt Bankverein as security for loan facilities to Sukamto Sia."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1997-01-01",
-          "Text": "By the late 1990s, Lee Howe Yong had experience in the management of publicly listed companies."
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "1996-01-01",
+          "Text": "Sia referred to sale and purchase agreements with specified payment schedules."
         }
       ],
-      "Issue": "Whether a director with a profit-sharing interest breaches fiduciary duties by executing pledge documents that encumber the company's sole asset for the personal benefit of the controlling shareholder without inquiring into the company's financial position or its outstanding liabilities.",
-      "Rule": "Directors have a proactive duty to inform themselves about the company's assets and liabilities, to act in good faith, and to exercise reasonable care, skill, and diligence. As a company's financial position becomes strained, directors must give increasing weight to the interests of creditors. A director who signs or authorizes a transaction that uses a significant portion of the company's assets as security for the personal borrowings of related parties, without making adequate inquiry into the company's financial position and without securing a corresponding benefit to the company, breaches their fiduciary duty. Such a failure to inquire, when facilitating a misappropriation of assets, constitutes a fraudulent breach of trust for limitation purposes.",
-      "Application": "Lee Howe Yong, an experienced businessman, was appointed as a director of Dynasty and promised 20% of its profits. Dynasty's only asset was a block of CDC shares, for which a massive purchase price remained largely unpaid. Lee personally signed documents pledging 12 million of these unpaid shares to secure a personal loan for the controlling shareholder, Sia. Further pledges were subsequently made, including one to secure a loan for a company co-owned by Lee and Sia, though Lee's signature was not on those later documents. The legal tension is whether Lee's execution of the initial pledge document, allegedly as a mere formality without inquiring into the company's massive outstanding debt or the purpose of the pledge, constitutes a breach of his duty of care and loyalty to the company and its creditors.",
-      "Judicial_Reasoning_Log": "The court determined that Lee breached his fiduciary duties in relation to the first pledge he signed. Given his extensive business experience and his 20% profit interest, he had a proactive duty to inquire into the company's financial position before executing the pledge. Had he made basic inquiries, he would have discovered the massive unpaid purchase price and the fact that the company was encumbering its sole asset for the personal benefit of the controlling shareholder. The court rejected his defense that he signed the documents as a mere formality. His failure to inform himself and his facilitation of the transaction constituted a breach of his duty of care and loyalty, triggering the fraudulent breach of trust exception under the Limitation Act, thus defeating his time-bar defense. However, because his signature did not appear on the subsequent pledges and there was no direct evidence of his knowledge or involvement in them, his liability was restricted solely to the losses arising from the first pledge."
+      "Issue": "Whether a collateral agreement can modify the terms of a written contract regarding payment obligations",
+      "Rule": "A collateral agreement must be clear and certain to modify the terms of a written contract",
+      "Application": "A collateral agreement allowed for flexible payments. the existence of such an agreement",
+      "Judicial_Reasoning_Log": "The court found no evidence of a binding collateral agreement that modified the written contract terms."
     },
-    "Label": "Liable",
+    "Label": "Claim Dismissed",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Civil Appeal No 103 of 2013",
+      "Case_Number": "Civil Appeal No 103 of 2013 (Counterclaim)",
       "Coram": "Sundaresh Menon CJ; Chao Hick Tin JA; V K Rajah JA",
       "Judge": "Sundaresh Menon CJ",
       "Date": "2014-04-29",
@@ -316,39 +174,22 @@
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Low Tuck Kwong",
-      "Law_Firm": "Rodyk & Davidson LLP",
+      "Law_Firm": "Premier Law LLC",
       "Counsel": [
-        "Philip Jeyaretnam SC",
-        "Koh Kia Jeng",
-        "Patrick Wong",
-        "Crystal Goh"
+        "Siraj Omar",
+        "Lee Wei Alexander"
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "1996-02-05",
-          "Text": "On 1996-02-05, Low Tuck Kwong was one of the vendors who agreed to sell China Development Corporation Limited shares to Dynasty Line Limited under seven sale and purchase agreements."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1996-05-05",
-          "Text": "Under the 1996 sale and purchase agreements, Low Tuck Kwong and the other vendors were scheduled to receive a total purchase price of HK$230,391,463 by 1996-05-05, of which only HK$64,459,317.16 was ultimately paid."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1999-06-10",
-          "Text": "On 1999-06-10, Low Tuck Kwong and the other vendors commenced Hong Kong proceedings HCA 9505 of 1999 against Dynasty Line Limited for the unpaid balance of the purchase price for the China Development Corporation Limited shares."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2001-04-06",
-          "Text": "On 2001-04-06, Low Tuck Kwong and the other vendors obtained a judgment in Hong Kong in the sum of HK$166,042,936.79 against Dynasty Line Limited for the unpaid balance of the purchase price."
+          "Text": "Low entered into sale and purchase agreements with Dynasty for shares"
         }
       ],
-      "Issue": "Whether a judgment creditor who initiates winding-up proceedings and funds liquidators engages in an actionable conspiracy to injure or breaches a prior settlement agreement that conditionally waived costs.",
-      "Rule": "A civil conspiracy claim requires proof of a combination between two or more persons with the predominant purpose of causing damage to the target. Legitimate efforts by creditors and insolvency practitioners to recover debts and maximize assets do not satisfy this requirement. A prior settlement agreement must be interpreted objectively; an agreement that merely conditions the waiver of costs on the forbearance of future suits does not operate as an absolute legal bar against pursuing those future suits, but rather triggers the forfeiture of the costs waiver.",
-      "Application": "Low Tuck Kwong, owed a massive unpaid balance for the sale of shares, obtained a monetary judgment against Dynasty Line Limited. A 1998 settlement agreement between Low and the controlling director, Sia, stated that Sia would waive his legal costs on the condition that Low did not commence further related proceedings. Years later, Low petitioned to wind up Dynasty and funded the appointed liquidators, who subsequently sued Sia for breach of fiduciary duty. Sia alleges that Low's actions breached the 1998 settlement agreement and constituted a malicious conspiracy with the liquidators to pursue baseless claims as an alter ego.",
-      "Judicial_Reasoning_Log": "The 1998 settlement agreement did not contain an absolute prohibition against future litigation. Objectively interpreted, it merely stipulated that if Low commenced future proceedings, Sia would be entitled to recover the costs he had previously waived. It was not a global release of the underlying massive debt. Furthermore, the conspiracy and alter ego counterclaims fail because Low's actions—obtaining a judgment, initiating winding-up proceedings, and funding liquidators—were standard, legitimate mechanisms for a creditor seeking to enforce a debt. The liquidators acted on independent professional advice to recover dissipated assets for the estate. Therefore, the predominant purpose of the combination was legitimate asset recovery, not a malicious intent to injure Sia. The counterclaims against the creditor were entirely dismissed."
+      "Issue": "Whether a vendor is legally responsible for enforcing strict payment terms in the absence of a proven collateral agreement",
+      "Rule": "A vendor is entitled to enforce the terms of a written contract unless a valid collateral agreement is proven",
+      "Application": "The original contract terms were binding. for a collateral agreement allowing flexibility",
+      "Judicial_Reasoning_Log": "The court upheld the original contract terms, finding no evidence of a collateral agreement."
     },
     "Label": "Not Liable",
     "Leakage_Score": 0

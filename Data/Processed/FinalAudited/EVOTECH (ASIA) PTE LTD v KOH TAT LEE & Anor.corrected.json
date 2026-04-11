@@ -3,9 +3,9 @@
     "Metadata": {
       "Case_Number": "Suit No 1242 of 2016",
       "Coram": "Kannan Ramesh J",
-      "Judge": "Kannan Ramesh",
+      "Judge": "Kannan Ramesh J",
       "Date": "2018-11-20",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Plaintiff",
@@ -19,105 +19,60 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2018-01-01",
-          "Text": "Evotech (Asia) Pte Ltd is a company incorporated in Singapore engaged in the business of installation of industrial machinery and mechanical engineering works."
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2013-09-16",
+          "Text": "Koh Tat Lee was appointed as a director of Evotech (Asia) Pte Ltd"
         },
         {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2018-01-01",
-          "Text": "Evotech (Asia) Pte Ltd is wholly owned by Black Sand International (Singapore) Pte Ltd, which is in turn wholly owned by Black Sand Enterprises Limited."
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2011-07-26",
+          "Text": "Lily Bey Lay Lay was appointed as a director of Evotech (Asia) Pte Ltd"
         },
         {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2018-01-01",
-          "Text": "Black Sand International (Singapore) Pte Ltd is incorporated in Singapore and Black Sand Enterprises Limited is incorporated in Hong Kong."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2018-01-01",
-          "Text": "The ultimate holding company of the corporate group that includes Evotech (Asia) Pte Ltd is Union Asia Enterprise Holdings Limited, formerly known as Pan Asia Mining Ltd, a company incorporated in the Cayman Islands and listed in Hong Kong."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2016-03-31",
-          "Text": "As at 31 March 2016, Union Asia Enterprise Holdings Limited was indebted to Kesterion Investments Limited in the sum of HK$92,855,948, which was recorded as HK$92,831,000 in UAE's 2016 Annual Report."
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2016-05-23",
+          "Text": "Koh Tat Lee and Lily Bey Lay Lay were removed as directors of Evotech (Asia) Pte Ltd"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2016-03-31",
-          "Text": "As at 31 March 2016, Union Asia Enterprise Holdings Limited was indebted to Kesterion Investments Limited in the sum of HK$92,855,948, and Evotech (Asia) Pte Ltd itself was not indebted to Kesterion Investments Limited."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2016-05-20",
-          "Text": "On 20 May 2016, Evotech (Asia) Pte Ltd appointed Ms Yip Man Yi and Mr Titus Shiu Chi Tak as directors of the company."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2016-05-23",
-          "Text": "On 23 May 2016, Evotech (Asia) Pte Ltd removed Koh Tat Lee and Lily Bey Lay Lay from their positions as directors of the company."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2016-05-23",
-          "Text": "On 23 May 2016, Evotech (Asia) Pte Ltd appointed Mr Thomas Au Siu Yung as a director of the company."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2016-05-30",
-          "Text": "On 30 May 2016, Evotech (Asia) Pte Ltd sent letters and faxes addressed to Koh Tat Lee and Lily Bey Lay Lay notifying them that they had been removed as directors on 23 May 2016."
-        },
-        {
-          "Fact_Type": "CONDUCT",
           "Fact_Date": "2016-05-25",
-          "Text": "On 25 May 2016, Evotech (Asia) Pte Ltd made a payment of S$1,400,000 to Kesterion Investments Limited from proceeds realised from the surrender of its leasehold property at 42 Gul Circle Singapore 629577 to Jurong Town Corporation."
+          "Text": "Evotech (Asia) Pte Ltd made a payment of S$1,400,000 to Kesterion Investments Limited"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-05-25",
-          "Text": "On 25 May 2016, Evotech (Asia) Pte Ltd made a payment of S$135,000 to Yew Eng Piow from proceeds realised from the surrender of its leasehold property at 42 Gul Circle Singapore 629577 to Jurong Town Corporation."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-05-26",
-          "Text": "On 26 May 2016, Evotech (Asia) Pte Ltd made a payment of S$300,000 to Koh Tat Lee from proceeds realised from the surrender of its leasehold property at 42 Gul Circle Singapore 629577 to Jurong Town Corporation."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-05-26",
-          "Text": "On 26 May 2016, Evotech (Asia) Pte Ltd made a payment of S$250,000 to Yao Jun from proceeds realised from the surrender of its leasehold property at 42 Gul Circle Singapore 629577 to Jurong Town Corporation."
-        },
-        {
-          "Fact_Type": "CONDUCT",
+          "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2016-05-31",
-          "Text": "On 31 May 2016, Evotech (Asia) Pte Ltd made a payment of S$200,000 to Kesterion Investments Limited from proceeds realised from the surrender of its leasehold property at 42 Gul Circle Singapore 629577 to Jurong Town Corporation."
+          "Text": "Evotech (Asia) Pte Ltd made a payment of S$200,000 to Kesterion Investments Limited"
         },
         {
-          "Fact_Type": "CONDUCT",
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-08-01",
+          "Text": "Evotech (Asia) Pte Ltd made a payment of US$570,000 to Kesterion Investments Limited"
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-05-26",
+          "Text": "Evotech (Asia) Pte Ltd made a payment of S$300,000 to Koh Tat Lee"
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-05-26",
+          "Text": "Evotech (Asia) Pte Ltd made a payment of S$250,000 to Yao Jun"
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2016-07-21",
-          "Text": "On 21 July 2016, Evotech (Asia) Pte Ltd made a payment of US$500,000 to Yao Jun."
+          "Text": "Evotech (Asia) Pte Ltd made a payment of US$500,000 to Yao Jun"
         },
         {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2016-10-04",
-          "Text": "On 4 October 2016, Ms Eva Wong replied by email asking for the identity of the sender and for a breakdown of the S$2,805,127 sum referred to in the 29 September 2016 letter."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-07-01",
-          "Text": "In July 2016, an internal audit or internal control review of Evotech (Asia) Pte Ltd was conducted."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-05-16",
-          "Text": "In May 2016, Evotech (Asia) Pte Ltd surrendered its leasehold property at 42 Gul Circle Singapore 629577 to Jurong Town Corporation and realised proceeds that were later used to fund several payments to Kesterion Investments Limited, Koh Tat Lee, Yao Jun and Yew Eng Piow."
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-05-25",
+          "Text": "Evotech (Asia) Pte Ltd made a payment of S$135,000 to Yew Eng Piow"
         }
       ],
-      "Issue": "Whether payments made by Evotech (Asia) Pte Ltd to related parties after the removal of its directors from the board were authorised corporate transactions in the best interests of the company, and whether the company is liable to pay further salary to a terminated employee who did not work during the notice period.",
-      "Rule": "Company directors and individuals acting in the capacity of directors are legally obligated to act bona fide in the interests of the company, avoid undisclosed conflicts between personal or related-party interests and the company’s interests, and obtain proper corporate approval for transactions involving the use of company funds to satisfy obligations of other entities. Under employment law, an employee who fails to perform work during the notice period is not entitled to salary for that period unless otherwise agreed.",
-      "Application": "Evotech (Asia) Pte Ltd realized significant cash from the surrender of its leasehold property at 42 Gul Circle. Around the date of the removal of Koh Tat Lee and Lily Bey Lay Lay from the board (23 May 2016), large sums were transferred to Kesterion Investments Limited (controlled by the spouse of Koh Tat Lee), to Koh Tat Lee personally, to Yao Jun, and to Yew Eng Piow. Union Asia Enterprise Holdings Limited, not Evotech, recorded the debt owed to Kesterion. No board resolutions from Evotech authorized these payments. Furthermore, several payments were authorized after the directors had received notice of their removal. After 28 September 2016, Evotech issued a termination notice to Koh Tat Lee, and he did not attend work during the notice period.",
-      "Judicial_Reasoning_Log": "Directors who authorize the depletion of a company's assets to pay the debts of a parent company or personal associates, without establishing a direct corporate benefit for the company itself, violate the duty of loyalty. The authority to manage corporate funds terminates upon formal removal from the board; subsequent actions taken without such authority are invalid. A claim of 'group interest' or an unwritten 'verbal agreement' does not permit the sacrifice of a subsidiary's solvency to benefit controllers or related entities without proper documentation and board approval. In the absence of contemporaneous board ratification or full disclosure of conflicts of interest, such payments represent a misapplication of company funds and an actionable breach of trust. On the employment claim, an employee who remains absent from work during a notice period is not contractually entitled to salary for that period."
+      "Issue": "Whether the defendants acted in contravention of their management obligations by authorizing payments not in the interest of the plaintiff",
+      "Rule": "Directors must act in the best interest of the company they represent and not subordinate its interests to those of other entities",
+      "Application": "The payments were unauthorized and not in discharge of its obligations. the payments were made with approval and for the benefit of the group",
+      "Judicial_Reasoning_Log": "The court found that the defendants breached their management obligations by authorizing payments that were not in the plaintiff's interest and were related-party transactions without board approval."
     },
     "Label": "Claim Allowed",
     "Leakage_Score": 0
@@ -126,14 +81,14 @@
     "Metadata": {
       "Case_Number": "Suit No 1242 of 2016",
       "Coram": "Kannan Ramesh J",
-      "Judge": "Kannan Ramesh",
+      "Judge": "Kannan Ramesh J",
       "Date": "2018-11-20",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Koh Tat Lee",
-      "Law_Firm": "Nicholas & Tan Partnership; JLC Advisors LLP; Seng Sheoh & Co",
+      "Law_Firm": "Nicholas & Tan Partnership",
       "Counsel": [
         "Nicholas Jeyaraj s/o Narayanan",
         "Nichol Yeo",
@@ -143,143 +98,33 @@
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2013-09-16",
-          "Text": "On 16 September 2013, Koh Tat Lee was appointed as a director of Evotech (Asia) Pte Ltd."
+          "Text": "Koh Tat Lee was appointed as a director of Evotech (Asia) Pte Ltd"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2016-05-23",
-          "Text": "On 23 May 2016, Koh Tat Lee was removed as a director of Evotech (Asia) Pte Ltd."
+          "Text": "Koh Tat Lee was removed as a director of Evotech (Asia) Pte Ltd"
         },
         {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2016-05-30",
-          "Text": "On 30 May 2016, a letter and a fax notified Koh Tat Lee of his removal as a director on 23 May 2016."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-06-01",
-          "Text": "By 1 June 2016, Koh Tat Lee became aware that he had been removed as a director of Evotech (Asia) Pte Ltd and that new directors had been appointed."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2016-04-01",
-          "Text": "On 1 April 2016, Koh Tat Lee was appointed as general manager of Evotech (Asia) Pte Ltd under a contract of employment dated the same day, with a basic salary of S$15,000 a month."
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-05-26",
+          "Text": "Koh Tat Lee received a payment of S$300,000 from Evotech (Asia) Pte Ltd"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2016-04-01",
-          "Text": "The 1 April 2016 employment contract between Evotech (Asia) Pte Ltd and Koh Tat Lee provided that the company could terminate his employment on three months' notice if his service or position was no longer required, or on two months' notice if his performance was not satisfactory and not up to the company's expectation or if specified forms of misconduct occurred."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-05-25",
-          "Text": "On 25 May 2016, Koh Tat Lee was involved in authorising a payment of S$1,400,000 from Evotech (Asia) Pte Ltd to Kesterion Investments Limited."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-05-25",
-          "Text": "On 25 May 2016, Koh Tat Lee was involved in authorising a payment of S$135,000 from Evotech (Asia) Pte Ltd to Yew Eng Piow."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-05-26",
-          "Text": "On 26 May 2016, Koh Tat Lee was involved in authorising a payment of S$300,000 from Evotech (Asia) Pte Ltd to the first defendant."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-05-26",
-          "Text": "On 26 May 2016, Koh Tat Lee was involved in authorising a payment of S$250,000 from Evotech (Asia) Pte Ltd to Yao Jun."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-05-31",
-          "Text": "On 31 May 2016, Koh Tat Lee was involved in authorising a payment of S$200,000 from Evotech (Asia) Pte Ltd to Kesterion Investments Limited."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-07-21",
-          "Text": "On 21 July 2016, Koh Tat Lee was involved in authorising a payment of US$500,000 from Evotech (Asia) Pte Ltd to Yao Jun."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-08-01",
-          "Text": "On 1 August 2016, Koh Tat Lee was involved in authorising a payment of US$570,000 from Evotech (Asia) Pte Ltd to Kesterion Investments Limited."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2015-11-01",
-          "Text": "Up to sometime in November 2015, Koh Tat Lee's position was that he was the single largest shareholder in Union Asia Enterprise Holdings Limited through shares held by him and convertible bonds held by Kesterion Investments Limited."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2015-11-01",
-          "Text": "Kesterion Investments Limited is a company incorporated in the British Virgin Islands whose sole recorded director and shareholder is Ms Eva Wong, the wife of Koh Tat Lee."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2015-09-01",
-          "Text": "Sometime in September 2015, Koh Tat Lee appointed Cheong Lee Securities Limited as placement agent to sell the convertible bonds in Union Asia Enterprise Holdings Limited held by Kesterion Investments Limited."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-09-01",
-          "Text": "After appointing Cheong Lee Securities Limited in September 2015, Koh Tat Lee dealt with its representatives, including Mr Antony Kwok and Ms Clarea Au, in relation to the sale of the convertible bonds in Union Asia Enterprise Holdings Limited held by Kesterion Investments Limited."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2015-12-01",
-          "Text": "Following the sale of convertible bonds in Union Asia Enterprise Holdings Limited, Kesterion Investments Limited received sale proceeds of HK$120 million, out of which approximately HK$68.5 million was paid to UAE's creditors China Shipbuilding Industry Complete Equipment Logistics (Hong Kong) Co Ltd and Magic Stone Fund (China), and another HK$2 million was loaned to UAE for its operating expenses."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2015-12-31",
-          "Text": "Koh Tat Lee ceased to hold the position of chairman of Union Asia Enterprise Holdings Limited on 31 December 2015."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2016-03-29",
-          "Text": "Koh Tat Lee ceased to hold the position of executive director of Union Asia Enterprise Holdings Limited on 29 March 2016."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2016-01-01",
-          "Text": "Aquaterra China Trading (Shanghai) Company Limited is an ultimate subsidiary of UAE and its legal representative is Denny Wong, the first defendant's brother-in-law."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-04-01",
-          "Text": "The plaintiff acknowledged that it had received S$135,000 from Yew and asserted that the sum was merely channelled through the plaintiff, converted to US dollars and paid out to Liu Tao."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2016-03-31",
-          "Text": "The financial statements of Evotech (Asia) Pte Ltd for the year ended 31 March 2016 recorded an amount of S$230,000 due to a director, with a note stating that the amount was repayable on demand."
+          "Text": "Koh Tat Lee was appointed as general manager of Evotech (Asia) Pte Ltd with a salary of S$15,000 per month"
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2016-09-28",
-          "Text": "On 28 September 2016, Evotech (Asia) Pte Ltd issued a written notice of termination to Koh Tat Lee giving him two months' notice."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-09-28",
-          "Text": "After receiving the termination notice dated 28 September 2016, Koh Tat Lee did not report for work at Evotech (Asia) Pte Ltd during the subsequent notice period."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2017-01-01",
-          "Text": "In HC/SUM 3084/2017, a court awarded Koh Tat Lee S$88,999 in outstanding salary for the period 1 April 2016 to 28 September 2016 and S$12,464 in housing allowance for the period 18 August 2016 to 28 September 2016."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-01-01",
-          "Text": "In 2012, Kesterion Investments Limited advanced sums totalling US$330,000 to Evotech (Asia) Pte Ltd, which Koh Tat Lee later claimed had been assigned to him."
+          "Text": "Evotech (Asia) Pte Ltd issued a notice of termination to Koh Tat Lee with two months' notice"
         }
       ],
-      "Issue": "Whether a former director and general manager breaches fiduciary duties by directing corporate funds to personal and family-controlled entities, and whether he is entitled to post-termination salary without performing work during the notice period.",
-      "Rule": "A fiduciary must not use their position to obtain personal benefits or favor related parties at the company's expense. De facto directorship is established if an individual continues to perform director-level functions, such as authorizing large financial transfers, after formal removal. In employment law, the right to salary during a notice period is contingent upon the performance of duties or the employer's choice to pay in lieu.",
-      "Application": "Koh Tat Lee was removed as a director of Evotech on 23 May 2016. Around this time and subsequently, he authorized the transfer of millions of dollars to Kesterion Investments Limited (a BVI company owned by his wife) and to his own account, funded by the surrender of Evotech's property. No written evidence or board approval supports the transfers as discharging Evotech's own liabilities. After learning of his removal, he continued to manage payments as general manager. Upon his eventual termination, he did not report to work during his notice period but claimed full salary and housing allowance.",
-      "Judicial_Reasoning_Log": "Causing a company to pay the debts of its parent entity or to make payments to the director personally without board ratification is a breach of the no-conflict rule. A director's fiduciary duty is owed to the specific legal entity they manage, not just the group at large, and they cannot prioritize related-party interests over the entity's own creditors. Acting as a primary decision-maker for company disbursements after formal removal confirms the status of a de facto director. Inconsistent explanations regarding the purpose of the payments and the absence of documentation undermine the credibility of any defense asserting a separate verbal agreement or group benefit. Furthermore, an employee who remains absent from work during a notice period is not contractually entitled to salary for that period."
+      "Issue": "Whether the defendant was legally responsible for unauthorized payments made after his removal as a director",
+      "Rule": "A director must not act beyond their authority and must ensure that all transactions are in the company's best interest",
+      "Application": "He was unaware of his removal and acted in the interest of the group. the payments were unauthorized and conflicted with the company's interests",
+      "Judicial_Reasoning_Log": "The court determined that the defendant was aware of his removal and acted without authority, breaching his management obligations by authorizing payments that were not in the plaintiff's interest."
     },
     "Label": "Liable",
     "Leakage_Score": 0
@@ -288,14 +133,14 @@
     "Metadata": {
       "Case_Number": "Suit No 1242 of 2016",
       "Coram": "Kannan Ramesh J",
-      "Judge": "Kannan Ramesh",
+      "Judge": "Kannan Ramesh J",
       "Date": "2018-11-20",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Lily Bey Lay Lay",
-      "Law_Firm": "Nicholas & Tan Partnership; JLC Advisors LLP; Seng Sheoh & Co",
+      "Law_Firm": "Nicholas & Tan Partnership",
       "Counsel": [
         "Nicholas Jeyaraj s/o Narayanan",
         "Nichol Yeo",
@@ -305,35 +150,115 @@
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2011-07-26",
-          "Text": "On 26 July 2011, Lily Bey Lay Lay was appointed as a director of Evotech (Asia) Pte Ltd."
+          "Text": "Lily Bey Lay Lay was appointed as a director of Evotech (Asia) Pte Ltd"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2016-05-23",
-          "Text": "On 23 May 2016, Lily Bey Lay Lay was removed as a director of Evotech (Asia) Pte Ltd."
+          "Text": "Lily Bey Lay Lay was removed as a director of Evotech (Asia) Pte Ltd"
         },
         {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2016-05-30",
-          "Text": "On 30 May 2016, a letter and fax notifying Lily Bey Lay Lay of her removal as a director on 23 May 2016 were sent."
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2016-05-25",
+          "Text": "On 2016-05-25, Lily Bey Lay Lay authorised Evotech (Asia) Pte Ltd's payment of S$135,000 to Yew Eng Piow"
+        }
+      ],
+      "Issue": "Whether the defendant was legally responsible for unauthorized payments made after her removal as a director",
+      "Rule": "A director must not act beyond their authority and must ensure that all transactions are in the company's best interest",
+      "Application": "She was not acting as a director and merely followed instructions. she was a de facto director and responsible for the payments",
+      "Judicial_Reasoning_Log": "The court found that the defendant acted as a de facto director and was responsible for authorizing payments that were not in the plaintiff's interest."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 1242 of 2016 (Counterclaim)",
+      "Coram": "Kannan Ramesh J",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-11-20",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Koh Tat Lee",
+      "Law_Firm": "Nicholas & Tan Partnership",
+      "Counsel": [
+        "Nicholas Jeyaraj s/o Narayanan",
+        "Nichol Yeo",
+        "Lim Seng Sheoh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-04-01",
+          "Text": "Koh Tat Lee was appointed as the General Manager of the company with a monthly salary of S$15,000"
         },
         {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2018-01-01",
-          "Text": "Lily Bey Lay Lay is Koh Tat Lee's niece."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-04-01",
+          "Text": "Verbal agreement with the directors of the parent company for a monthly housing allowance of S$7,500"
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-06-01",
-          "Text": "Lily Bey Lay Lay became aware of her removal as a director in early June 2016."
+          "Fact_Date": "2016-05-23",
+          "Text": "Following his removal as a director, Koh Tat Lee stopped reporting to the company's office to perform his duties as General Manager"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-09-28",
+          "Text": "The company issued a notice of termination to Koh Tat Lee providing two months of notice instead of the three months he believed he was had"
         }
       ],
-      "Issue": "Whether a former director who continues to exercise bank signatory authority to approve conflicted payments acts as a de facto director and breaches fiduciary duties.",
-      "Rule": "A person acts as a de facto director if they undertake functions that can only properly be discharged by a director, such as participating in the direction of the company’s affairs and authorizing significant corporate funds. Such individuals are subject to the same fiduciary duties as formal directors, including the duty to act bona fide in the company's interest and ensure proper authorization for transactions.",
-      "Application": "Lily Bey Lay Lay was formally removed as a director on 23 May 2016. She remained a bank signatory for Evotech and approved seven large transfers to related parties—including her uncle (Koh Tat Lee) and his wife's company (Kesterion)—in May, July, and August 2016. She authorized these payments in the same capacity she had held while a director, without documentary evidence of a separate employment contract with Evotech. She continued to authorize payments even after knowing she had been formally removed from the board by early June 2016.",
-      "Judicial_Reasoning_Log": "An individual who exercises the critical function of authorizing substantial corporate payments, especially after the termination of their formal directorship, acts in the capacity of a de facto director. Relying on instructions from a controller to divert funds to related parties—without board approval or verification of a corporate benefit—constitutes a breach of the duty to act in the best interests of the company. A former director cannot characterize themselves as a mere clerk or employee when they continue to use the unique powers associated with their prior board position and lack any employment documentation. By facilitating the unauthorized depletion of company funds, the individual breaches fiduciary duties and is jointly and severally liable for the resulting loss."
+      "Issue": "Housing allowance during a notice period where the underlying verbal agreement and his performance of duties are disputed",
+      "Rule": "A party claiming a contractual benefit must prove the existence of the agreement and their own compliance with the terms, such as the requirement to remain ready and willing to work during a notice period",
+      "Application": "He was had to three months' notice and a verbal housing allowance. no such allowance was authorized and that the manager failed to report for work after his removal from the board",
+      "Judicial_Reasoning_Log": "The court dismissed the counterclaim. It found that the housing allowance was never formally authorized by the board and that Koh Tat Lee had breached his contract by failing to report for duty or show he was ready to work during the notice period, thus forfeiting his right to salary."
     },
-    "Label": "Liable",
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 1242 of 2016 (Counterclaim)",
+      "Coram": "Kannan Ramesh J",
+      "Judge": "Kannan Ramesh J",
+      "Date": "2018-11-20",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Evotech (Asia) Pte Ltd",
+      "Law_Firm": "AbrahamLow LLC",
+      "Counsel": [
+        "Leng Siew Wei Aloysius",
+        "Jonathan Tan Yi Wen",
+        "Koh Jian Ying",
+        "Sarah Phang Shih Min"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-04-01",
+          "Text": "The company employed Koh Tat Lee as General Manager under a contract specifying a monthly salary of S$15,000"
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2016-09-28",
+          "Text": "The manager did not turn up for work after receiving the notice of termination on 2016-09-28"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2016-09-28",
+          "Text": "The company issued a notice of termination of the manager's employment on 2016-09-28 and gave him two months' notice"
+        }
+      ],
+      "Issue": "Whether a company is legally responsible to pay salary and housing allowances to a former employee during a notice period if the employee failed to report for work",
+      "Rule": "An employer's obligation to pay salary during a notice period is contingent upon the employee's willingness and readiness to perform their duties unless otherwise agreed",
+      "Application": "The manager contravened his employment contract by absenting himself from work. he was entitled to full payment and a housing allowance based on a prior verbal commitment",
+      "Judicial_Reasoning_Log": "The court found the company was not liable for the payments. The judge held that the manager had essentially abandoned his post after being removed as a director and provided no evidence that a housing allowance had been validly agreed upon by the company's board."
+    },
+    "Label": "Not Liable",
     "Leakage_Score": 0
   }
 ]

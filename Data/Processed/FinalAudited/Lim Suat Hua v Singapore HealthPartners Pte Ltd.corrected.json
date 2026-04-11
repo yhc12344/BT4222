@@ -3,7 +3,7 @@
     "Metadata": {
       "Case_Number": "Suit No 726 of 2010",
       "Coram": "Andrew Ang J",
-      "Judge": "Andrew Ang",
+      "Judge": "Andrew Ang J",
       "Date": "2012-03-21",
       "Tribunal_Court": "High Court"
     },
@@ -18,119 +18,54 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2007-09-01",
-          "Text": "Lim Suat Hua was employed by Singapore HealthPartners Pte Ltd between 1 September 2007 and 25 July 2010."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2007-09-01",
-          "Text": "Pursuant to a service agreement dated 1 September 2007, entered into between Singapore HealthPartners Pte Ltd and Lim Suat Hua, Lim was appointed as Executive Director of Singapore HealthPartners Pte Ltd."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2007-09-01",
-          "Text": "Under cl 4.1 of Lim's Service Agreement, she was to be paid $60,000 per month."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2007-09-01",
-          "Text": "Under cl 4.1 of Lim's Service Agreement, she was to be paid $60,000 per month."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2007-09-01",
-          "Text": "Under cl 5.1 of Lim's Service Agreement, she was entitled to 30 business days of leave a year."
-        },
-        {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2006-03-09",
-          "Text": "Singapore HealthPartners Pte Ltd was incorporated on 9 March 2006 to develop a medical complex at No 1 Farrer Park Station Road known as the Connexion project."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2006-03-09",
-          "Text": "Lim was one of the initial shareholders and directors of Singapore HealthPartners Pte Ltd."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2007-09-01",
-          "Text": "On 1 September 2007, Djeng Shih Kien was appointed Executive Chairman of Singapore HealthPartners Pte Ltd under a service agreement similar in structure to Lim's Service Agreement."
+          "Text": "Lim Suat Hua was appointed as Executive Director of Singapore HealthPartners"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2007-09-01",
+          "Text": "Lim's Service Agreement stipulated a monthly salary of $60,000"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-07-25",
+          "Text": "A Settlement Agreement was executed, terminating Lim's employment effective 25 July 2010"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2007-09-01",
-          "Text": "Under cl 4.1 of Djeng's Service Agreement, he was to be paid $70,000 per month."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2007-06-29",
-          "Text": "On 29 June 2007, an Investment Agreement was executed providing for investment into Singapore HealthPartners Pte Ltd by a group of medical doctors or their corporate vehicles referred to as the Investors Group, Berjaya Leisure (Cayman) Ltd, and Wharton Scott Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2007-09-26",
-          "Text": "On 26 September 2007, pursuant to the Investment Agreement, a number of medical doctors or their corporate vehicles, Berjaya Leisure (Cayman) Ltd and Wharton Scott Pte Ltd were registered as new shareholders of Singapore HealthPartners."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2007-09-26",
-          "Text": "On 26 September 2007, the new shareholders nominated directors to represent their respective interests: Maurice Choo, Richard Chew and Whang Hwee Yong for the Investors Group; Dato' Lee Kok Chuan and Dato' Tan Yeong Ching (with Ng Chee Yau as alternate director) for Berjaya; and Tan Soon Hoe and Richard Charles Helfer for Wharton Scott."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-03-21",
-          "Text": "At the conclusion of the board of directors meeting on 21 March 2009, Djeng agreed to step down from his position as Executive Chairman on the basis that Singapore HealthPartners would not pursue any claims against him."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2009-03-21",
-          "Text": "On 21 March 2009, it was resolved that a Remuneration Committee be set up to review Directors' Fees and Directors' Remunerations, including retrospectively review the appropriateness of past Directors' Remuneration."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2009-03-30",
-          "Text": "On 30 March 2009, it was resolved that Lim be offered a New Service Agreement for the period from 1 April 2009 to TOP of the project, at a monthly basic salary of S$50,000."
+          "Fact_Date": "2009-05-01",
+          "Text": "Lim began receiving a reduced salary of $50,000 per month"
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2009-03-26",
-          "Text": "On or about 26 March 2009, Maurice Choo verbally informed Lim that her salary of $60,000 was excessive and proposed that Lim's Service Agreement be varied such that her monthly salary would be reduced to $50,000."
+          "Text": "Maurice Choo proposed to Lim a salary reduction to $50,000"
         },
         {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2009-03-27",
-          "Text": "On or about 27 March 2009, a meeting took place where Lim Suat Hua accepted the arrangement discussed the previous day, indicating she would submit her resignation accordingly and accept a salary of $50,000 per month."
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2009-03-30",
+          "Text": "Board meeting minutes recorded a resolution to offer Lim a New Service Agreement with a reduced salary"
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2009-04-13",
-          "Text": "On or about 13 April 2009, Lim co-signed an Authorisation Letter for submission to DBS mandating payment to herself of $59,662 for April 2009 (the monthly salary of $60,000 less the $338 contribution to the CPF and the CDAC Fund)."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008-10-01",
-          "Text": "From 1 to 3 October 2008, Lim travelled to Thailand on the Thailand trip."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008-10-20",
-          "Text": "From 20 to 24 October 2008, Lim travelled to New Zealand on the New Zealand trip together with Djeng, five representatives from DP Architects and a representative from Beca Carter Carter Holling & Ferner Ltd."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-07-25",
+          "Text": "Lim's employment with Singapore HealthPartners ended"
         }
       ],
-      "Issue": "Whether the parties' conduct and communications resulted in an executive being paid and treated as entitled to a reduced monthly salary, and how final salary and leave entitlements should be quantified upon departure.",
-      "Rule": "An employee's remuneration is governed by the express terms of the service contract, any valid variations agreed between the parties, and the doctrine of estoppel by convention, which prevents a party from denying a shared factual assumption where both parties have acted on it and it would be unjust to resile.",
-      "Application": "An executive director's original contract stipulated a S$60,000 monthly salary. Following concerns raised by new investors, management proposed a reduction to S$50,000. For over a year, the director received, co-authorized, and budgeted her payroll at the reduced rate without formal protest. Upon her departure, a conflict arose regarding whether she could claim the S$10,000 monthly difference based on the original contract, and how to account for leave taken in excess of a pro-rated entitlement.",
-      "Judicial_Reasoning_Log": "It was determined that no formal contractual variation occurred, but an estoppel by convention had arisen from May 2009 onwards. The director's active participation in processing her reduced pay and setting company budgets at the lower rate established a shared assumption that her salary was S$50,000. It was ruled unconscionable to allow her to revert to the S$60,000 figure for that period, dismissing the primary claim for the salary shortfall. However, the final pro-rated salary was calculated based on the S$50,000 rate, offset by deductions for excess annual leave taken, and the claim for this final, adjusted balance was allowed."
+      "Issue": "Whether the plaintiff is entitled to claim unpaid salary based on the original terms of her service agreement",
+      "Rule": "A party may claim unpaid salary if there is no valid agreement or estoppel preventing reliance on the original contract terms",
+      "Application": "No valid agreement existed to reduce her salary, while an estoppel by convention prevented her from asserting the original salary terms",
+      "Judicial_Reasoning_Log": "The court found that an estoppel by convention prevented Lim from claiming the full unpaid salary, but allowed her claim for pro-rated salary for July 2010."
     },
-    "Label": "Claim Allowed",
+    "Label": "Claim Allowed in Part",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
       "Case_Number": "Suit No 726 of 2010",
       "Coram": "Andrew Ang J",
-      "Judge": "Andrew Ang",
+      "Judge": "Andrew Ang J",
       "Date": "2012-03-21",
       "Tribunal_Court": "High Court"
     },
@@ -147,148 +82,137 @@
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2006-03-09",
-          "Text": "Singapore HealthPartners Pte Ltd was incorporated on 9 March 2006 to develop a medical complex comprising a hospital, medical suites and a hotel at No 1 Farrer Park Station Road known as the Connexion project."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2007-06-29",
-          "Text": "On 29 June 2007, Singapore HealthPartners Pte Ltd executed an Investment Agreement with a group of medical doctors or their corporate vehicles referred to as the Investors Group, Berjaya Leisure (Cayman) Ltd and Wharton Scott Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2007-09-26",
-          "Text": "On 26 September 2007, pursuant to the Investment Agreement, the Investors Group, Berjaya Leisure (Cayman) Ltd and Wharton Scott Pte Ltd were registered as new shareholders of Singapore HealthPartners Pte Ltd."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2007-09-26",
-          "Text": "On 26 September 2007, directors nominated by the new shareholders were appointed to the board of Singapore HealthPartners Pte Ltd to represent their respective interests."
+          "Text": "Singapore HealthPartners was incorporated"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2007-09-01",
-          "Text": "On 1 September 2007, Singapore HealthPartners Pte Ltd appointed Lim Suat Hua as Executive Director under a written service agreement."
+          "Text": "Lim Suat Hua was appointed as Executive Director"
         },
         {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2007-09-01",
-          "Text": "On 1 September 2007, Singapore HealthPartners Pte Ltd appointed Djeng Shih Kien as Executive Chairman under a written service agreement."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2009-03-30",
+          "Text": "Board resolved to offer Lim a New Service Agreement with a reduced salary"
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2007-09-01",
-          "Text": "Under Lim's Service Agreement dated 1 September 2007, Singapore HealthPartners Pte Ltd agreed to pay Lim Suat Hua a monthly salary of S$60,000 and to grant 30 business days of leave per year."
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-03-26",
+          "Text": "Maurice Choo communicated a proposal to Lim to reduce her salary"
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2007-09-01",
-          "Text": "Under Djeng's Service Agreement dated 1 September 2007, Singapore HealthPartners Pte Ltd agreed to pay Djeng Shih Kien a monthly salary of S$70,000."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-03-21",
-          "Text": "By 21 March 2009, several new directors of Singapore HealthPartners Pte Ltd had expressed dissatisfaction with the timing, approval process and remuneration levels in the service agreements of Lim Suat Hua and Djeng Shih Kien."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2009-03-21",
-          "Text": "On 21 March 2009, the board of Singapore HealthPartners Pte Ltd resolved to establish a Remuneration Committee to review directors' fees and directors' remuneration, including retrospective review of past directors' remuneration."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-03-21",
-          "Text": "At the 21 March 2009 board meeting, Djeng Shih Kien agreed to step down as Executive Chairman of Singapore HealthPartners Pte Ltd on the basis that the company would not pursue claims against him."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2009-04-13",
-          "Text": "On or about 13 April 2009, Singapore HealthPartners Pte Ltd submitted to DBS Bank an authorisation letter co-signed by Lim Suat Hua mandating payment of S$59,662 to her for April 2009, representing a S$60,000 salary less S$338 in statutory contributions."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-07-12",
+          "Text": "The Settlement and Share Purchase Agreement was executed"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2009-05-01",
-          "Text": "From May 2009 to June 2010, Singapore HealthPartners Pte Ltd paid Lim Suat Hua a monthly salary of S$50,000."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-05-01",
-          "Text": "Between May 2009 and June 2010, Singapore HealthPartners Pte Ltd used monthly authorisation letters co-signed by Lim Suat Hua to instruct DBS Bank to pay her a net salary of S$49,662 per month, being S$50,000 less statutory deductions."
+          "Text": "Lim's salary was reduced to $50,000 per month"
         },
         {
           "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2009-05-01",
-          "Text": "Between May 2009 and June 2010, Singapore HealthPartners Pte Ltd operated on a revised budget prepared by Lim Suat Hua in which her monthly salary was recorded as S$50,000."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-07-01",
-          "Text": "From July 2009 onwards, the directors and shareholders of Singapore HealthPartners Pte Ltd were divided into two factions, one comprising Djeng Shih Kien, Lim Suat Hua and the Berjaya directors, and the other comprising the Investors Group directors and the Wharton Scott directors."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-07-01",
-          "Text": "From mid-2009, disputes between the two factions of shareholders and directors of Singapore HealthPartners Pte Ltd led to several arbitral and court proceedings."
-        },
+          "Fact_Date": "2010-07-25",
+          "Text": "Lim's employment with Singapore HealthPartners ended"
+        }
+      ],
+      "Issue": "Whether the defendant is legally responsible for unpaid salary based on the original service agreement terms",
+      "Rule": "A company is bound by the terms of a service agreement unless a valid variation or estoppel is established",
+      "Application": "An estoppel by convention prevented the plaintiff from claiming the original salary, while no valid variation occurred",
+      "Judicial_Reasoning_Log": "The court found that an estoppel by convention applied, limiting the defendant's liability for unpaid salary, but required payment of pro-rated salary for July 2010."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 726 of 2010 (Counterclaim)",
+      "Coram": "Andrew Ang J",
+      "Judge": "Andrew Ang J",
+      "Date": "2012-03-21",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Singapore HealthPartners Pte Ltd",
+      "Law_Firm": "Tan Kok Quan Partnership",
+      "Counsel": [
+        "Kannan Ramesh SC",
+        "Marina Chin",
+        "Ho Xin Ling"
+      ],
+      "Facts": [
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2008-10-01",
-          "Text": "From 1 to 3 October 2008, Singapore HealthPartners Pte Ltd funded a trip by Lim Suat Hua to Thailand described as the Thailand trip."
+          "Text": "Lim took a trip to Thailand at Singapore HealthPartners' expense from 2008-10-01 to 2008-10-03"
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2008-10-20",
-          "Text": "From 20 to 24 October 2008, Singapore HealthPartners Pte Ltd funded a trip by Lim Suat Hua to New Zealand described as the New Zealand trip, organised by its mechanical and electrical engineering consultants Beca Carter Holling & Ferner Ltd."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2009-03-11",
-          "Text": "On 11 March 2009, the Amalga Report on hospital software was emailed to the board of Singapore HealthPartners Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2009-11-06",
-          "Text": "On 6 November 2009, Singapore HealthPartners Pte Ltd signed a contract with Microsoft Amalga to obtain the Amalga software for the Connexion project."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2009-03-23",
-          "Text": "On 23 March 2009, Singapore HealthPartners Pte Ltd signed a mechanical and electrical engineering contract with Beca Carter Holling & Ferner Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-12-31",
-          "Text": "In its audited financial statements for the period 1 July 2007 to 31 December 2008, Singapore HealthPartners Pte Ltd recorded travelling and entertainment expenses as a category of expenditure."
+          "Text": "Lim took a trip to New Zealand at Singapore HealthPartners' expense from 2008-10-20 to 2008-10-24"
         },
         {
           "Fact_Type": "RELATED_PARTY_EVENT",
           "Fact_Date": "2007-11-01",
-          "Text": "In November 2007, Singapore HealthPartners Pte Ltd entered into an Office/Server Desktop Solution contract with Wizvision Pte Ltd for information technology services."
+          "Text": "Wizvision provided information technology services to Singapore HealthPartners from around November 2007 to around September 2010"
         },
         {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2008-01-01",
-          "Text": "In January 2008, Singapore HealthPartners Pte Ltd entered into an IT System Maintenance Support contract with Wizvision Pte Ltd for the period 1 April 2008 to 31 March 2009."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2007-12-18",
-          "Text": "On 18 December 2007, Singapore HealthPartners Pte Ltd entered into a Facility Agreement, Profit Sharing Agreement, Security Trust Agreement and Deed of Subordination with United Overseas Bank Limited."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2007-12-27",
-          "Text": "On 27 December 2007, Singapore HealthPartners Pte Ltd entered into a Building Agreement with the Urban Redevelopment Authority of Singapore."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2008-03-24",
-          "Text": "On 24 March 2008, Singapore HealthPartners Pte Ltd entered into a Hotel Technical Services Agreement with Rendezvous Hotels International Pte Ltd."
+          "Fact_Type": "DISCLOSURE_EVENT",
+          "Fact_Date": "2007-11-01",
+          "Text": "Lim failed to disclose her 15.59% indirect interest in Wizvision held through Hua Jie Pte Ltd to the board of Singapore HealthPartners"
         }
       ],
-      "Issue": "Whether a company was obliged to pay an executive a salary of S$60,000 or S$50,000 per month, how final salary and leave adjustments should be calculated, and whether the company could pursue monetary claims against the executive for overseas trips and related-party transactions in light of a prior settlement agreement.",
-      "Rule": "A comprehensive settlement agreement containing a release clause generally bars future claims arising from the transactions explicitly or implicitly disclosed within the scope of the release. However, companies may recover profits obtained from undisclosed related-party contracts that fall outside the temporal or factual scope of the release.",
-      "Application": "The company initially agreed to pay the executive S$60,000 per month. Following board concerns, a reduction to S$50,000 was proposed. The company consistently paid the reduced amount for over a year, supported by bank authorization letters and budgets prepared by the executive. A dispute arose over the salary shortfall and excess leave taken. Concurrently, the company sought to recover funds for company-funded overseas trips and related-party IT contracts involving the executive, while the executive relied on a broad waiver and release of claims contained in a Settlement Agreement executed upon her departure.",
-      "Judicial_Reasoning_Log": "It was held that an estoppel by convention arose because both parties acted on the shared assumption that the salary had been reduced to S$50,000. It was unconscionable to allow the executive to claim the higher amount, limiting the company's salary obligation to the reduced rate. The company was entitled to recover salary corresponding to leave taken in excess of the pro-rated entitlement. Regarding the related-party contracts and travel expenses, the general release clause in the settlement agreement effectively barred the company's claims relating to the travel expenses and the first two IT contracts, as these matters were sufficiently referenced in the audited accounts available at the time of the settlement. However, the third IT contract fell outside the temporal scope of the audited accounts and was not captured by the release. The claims covered by the release were dismissed, while an account of profits was ordered in favor of the company for the third, unreleased contract."
+      "Issue": "Whether the defendant by counterclaim contravened management obligations by failing to disclose interests and making unauthorized trips",
+      "Rule": "A director must disclose any personal interest in company transactions and avoid unauthorized actions that could harm the company",
+      "Application": "Lim's failure to disclose her interests and unauthorized trips contravened her duties, the trips were related to disclosed transactions",
+      "Judicial_Reasoning_Log": "The court found that the unauthorized trips were related to disclosed transactions, but Lim's failure to disclose her interest in the third Wizvision contract was not covered by the release."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 726 of 2010 (Counterclaim)",
+      "Coram": "Andrew Ang J",
+      "Judge": "Andrew Ang J",
+      "Date": "2012-03-21",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Lim Suat Hua",
+      "Law_Firm": "INCA Law LLC",
+      "Counsel": [
+        "Lynette Chew",
+        "Gadriel Tan",
+        "Tan Hui Qing"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-10-01",
+          "Text": "Lim travelled to Thailand from 2008-10-01 to 2008-10-03 to review the implementation of Amalga hospital software for the project"
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2008-10-20",
+          "Text": "Lim travelled to New Zealand from 2008-10-20 to 2008-10-24 to study the architectural, mechanical, and electrical engineering aspects of a new hospital building in Auckland"
+        },
+        {
+          "Fact_Type": "DISCLOSURE_EVENT",
+          "Fact_Date": "2007-11-01",
+          "Text": "Lim did not fully disclose her 15.59% indirect stake in Wizvision through Hua Jie Pte Ltd before Singapore HealthPartners engaged Wizvision"
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2010-07-12",
+          "Text": "The Settlement Agreement dated 2010-07-12 included Clause 10.7, which waived claims arising from disclosed transactions"
+        }
+      ],
+      "Issue": "Whether the plaintiff by counterclaim is legally responsible for failing to disclose interests and making unauthorized trips",
+      "Rule": "A director is required to disclose all interests in company transactions and ensure all actions are authorized and beneficial to the company",
+      "Application": "The trips were related to disclosed transactions and that her failure to disclose was an oversight, while the trips were unauthorized and interests undisclosed",
+      "Judicial_Reasoning_Log": "The court found that the trips were related to disclosed transactions and that the release clause covered the first two Wizvision contracts, but not the third."
     },
     "Label": "Liable",
     "Leakage_Score": 0

@@ -1,535 +1,359 @@
 [
   {
     "Metadata": {
-      "Case_Number": "Originating Claim No 301 of 2022; Companies Winding Up No 195 of 2022",
+      "Case_Number": "Originating Claim No 301 of 2022",
       "Coram": "Philip Jeyaretnam J",
-      "Judge": "Philip Jeyaretnam",
+      "Judge": "Philip Jeyaretnam J",
       "Date": "2024-01-19",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
     },
     "Party_Details": {
       "Role": "Plaintiff",
       "Name": "Oon Swee Gek",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Meryl Koh Junning",
+        "Justin Lai Wen-Jin",
+        "Shahera Safrin",
+        "Daniel Wong Sheng Jie"
+      ],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2012-03-26",
-          "Text": "On 2012-03-26, Oon Swee Gek participated in incorporating Violet Oon Inc Pte Ltd in Singapore together with her children."
+          "Text": "She was one of the claimants who incorporated Violet Oon Inc Pte Ltd in Singapore on 2012-03-26"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2012-03-26",
-          "Text": "From the incorporation of Violet Oon Inc Pte Ltd, Oon Swee Gek served as a director of the company."
+          "Text": "She served as the company's Culinary Curator and Chef, and she was one of its directors"
         },
         {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2012-03-26",
-          "Text": "From 2012-03-26, Oon Swee Gek was employed by Violet Oon Inc Pte Ltd as Culinary Curator and Chef."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2014-11-13",
-          "Text": "As at 2014-11-13, Oon Swee Gek held 40% of the shares in Violet Oon Inc Pte Ltd, which were later adjusted to 20% following a new subscription by MMM Delicious."
+          "Text": "On 2014-11-13, she was one of the claimants who entered into the 2014 shareholders' agreement and subscription agreement with MMM Delicious, which subscribed for 50% of the company's shares for $450,000"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2014-11-13",
-          "Text": "Under the 2014 shareholders' agreement, Violet Oon Inc Pte Ltd paid a monthly salary of SGD 5,000 to Oon Swee Gek."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2014-11-04",
-          "Text": "In November 2014, Oon Swee Gek prepared internal documents setting out her then-salary and proposed future salary increments for discussion with the incoming shareholder."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-01-01",
-          "Text": "Between 2015 and 2018, the monthly salary paid by Violet Oon Inc Pte Ltd to Oon Swee Gek was increased on several occasions from the initial SGD 5,000 level."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2015-01-01",
-          "Text": "Between 2015 and 2018, the aggregate amount of salary and employer CPF contributions paid to the three family members exceeded the 2014 levels by approximately SGD 330,000."
+          "Fact_Date": "2014-12-01",
+          "Text": "Following the investment, her personal shareholding was reduced to 20% of the company's total shares"
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2019-02-21",
-          "Text": "On 2019-02-21, Oon Swee Gek agreed in principle to record a SGD 1,550,000 amount in favour of Group MMM Pte Ltd in the company's accounts and accepted changes to board composition."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2019-02-26",
-          "Text": "On 2019-02-26, Oon Swee Gek signed a revised shareholders' agreement for Violet Oon Inc Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2020-03-01",
-          "Text": "Around 2020-03-01, Oon Swee Gek agreed that her salary would be withheld and accumulated as a debt recorded as owing from the company."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2020-06-01",
-          "Text": "During mid-2020, Oon Swee Gek and the other family shareholders offered to sell their shares in Violet Oon Inc Pte Ltd to the corporate shareholder."
+          "Text": "On 2019-02-21, she was among the claimants who agreed to Mr Murjani's list of 2019 Terms"
         }
       ],
-      "Issue": "Whether the shareholder and financing structure of Violet Oon Inc Pte Ltd resulting from the 2019 restructuring is consistent with the commercial interests and prior understandings of Oon Swee Gek.",
-      "Rule": "In shareholder disputes, courts assess whether conduct between shareholders justifies remedies such as setting aside agreements or ordering a buy-out where the relationship of mutual trust and corporate governance has broken down.",
-      "Application": "Oon Swee Gek co-founded the company and accepted a 50% dilution in 2014 to bring in a corporate investor. Following undisclosed salary increases, a 2019 restructuring was implemented which recorded a multi-million dollar liability in favour of the investor and removed her from the board. The validity of these later arrangements depends on the circumstances of their negotiation and the impact on her minority interest.",
-      "Judicial_Reasoning_Log": "The judgment analyses whether the 2019 shareholders' arrangements were procured by economic duress or undue influence, evaluates the concept of commercial unfairness under section 216 of the Companies Act, and considers whether the appropriate remedy is a buy-out of shares, a winding up, or dismissal. It also addresses whether the proceedings constitute an abuse of process in light of a prior offer by the defendants to purchase the claimants' shares, and applies legal tests for economic duress, undue influence, and oppression to the detailed factual matrix, including findings on the parties' credibility and the nature of the salary increases and subsequent negotiations."
+      "Issue": "Whether a founding shareholder is entitled to statutory relief for minority oppression if corporate restructuring agreements were extracted through economic duress",
+      "Rule": "A shareholder may petition the court for a buyout or to set aside agreements if another shareholder leverages illegitimate commercial pressure and undue influence to commandeer the company",
+      "Application": "The 2019 agreements were extracted through economic duress and undue influence after the co-investor manufactured a financial crisis to commandeer control of the company.",
+      "Judicial_Reasoning_Log": "The court found that the 2019 agreements were executed under economic duress and undue influence. The judge set aside the agreements and ordered a buyout of the Defendants' shares under Section 216 of the Companies Act to resolve the oppression."
     },
     "Label": "Claim Allowed",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Originating Claim No 301 of 2022; Companies Winding Up No 195 of 2022",
+      "Case_Number": "Originating Claim No 301 of 2022",
       "Coram": "Philip Jeyaretnam J",
-      "Judge": "Philip Jeyaretnam",
+      "Judge": "Philip Jeyaretnam J",
       "Date": "2024-01-19",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
     },
     "Party_Details": {
       "Role": "Plaintiff",
       "Name": "Tay Su-Lyn",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Meryl Koh Junning",
+        "Justin Lai Wen-Jin",
+        "Shahera Safrin",
+        "Daniel Wong Sheng Jie"
+      ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2012-03-26",
-          "Text": "On 2012-03-26, Tay Su-Lyn participated in incorporating Violet Oon Inc Pte Ltd in Singapore."
-        },
-        {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2012-03-26",
-          "Text": "From the incorporation of Violet Oon Inc Pte Ltd, Tay Su-Lyn served as a director of the company."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2012-03-26",
-          "Text": "From 2012-03-26, Tay Su-Lyn was employed by Violet Oon Inc Pte Ltd as Creative Director and Marketing Manager."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2012-03-26",
-          "Text": "From incorporation until December 2014, Tay Su-Lyn held 30% of the shares in Violet Oon Inc Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2014-11-13",
-          "Text": "Following the 2014 shareholders' agreement, Tay Su-Lyn held 15% of the company's shares."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2014-11-13",
-          "Text": "At the time of the 2014 shareholders' agreement, Violet Oon Inc Pte Ltd paid a monthly salary of SGD 1,000 to Tay Su-Lyn."
+          "Text": "Tay Su-Lyn was one of the company's three directors when it was incorporated on 2012-03-26"
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-01-01",
-          "Text": "Between 2015 and 2018, the monthly salary paid to Tay Su-Lyn was increased on several occasions from the initial SGD 1,000 level."
+          "Fact_Date": "2012-01-01",
+          "Text": "Tay Su-Lyn was employed as the Company's Creative Director, Marketing Manager, and Events & Catering Manager, and she was responsible for branding, business development, and event planning"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2019-02-23",
+          "Text": "Tay Su-Lyn met Mr Murjani only once on 22 or 23 February 2019, and he otherwise refused to speak to her directly"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2019-01-01",
+          "Text": "She executed the revised 2019 Shareholders' Agreement"
         }
       ],
-      "Issue": "Whether changes to the governance and financial arrangements of Violet Oon Inc Pte Ltd in 2019 should be sustained in relation to the interests of Tay Su-Lyn.",
-      "Rule": "In disputes among shareholders, courts consider whether changes to board composition and remuneration are consistent with the parties' commercial arrangements and whether they result from illegitimate pressure.",
-      "Application": "Tay Su-Lyn co-founded the company and initially received a modest salary that was later increased. In 2019, she agreed to arrangements under which she ceased to be a director while continuing in an operational role. These events form the basis for evaluating her contractual and governance position.",
-      "Judicial_Reasoning_Log": "The judgment evaluates how the 2019 restructuring affected the governance and economic position of the family shareholders, including the removal of two family members from the board and the recording of a substantial amount in favour of the incoming shareholder's corporate vehicle. It considers whether these changes, in light of the prior commercial arrangements and the parties' relationship, justify relief under oppression and related doctrines."
+      "Issue": "The issue was whether the 2019 Agreements could be avoided for economic duress or undue influence",
+      "Rule": "The party relying on economic duress must show pressure directed at compulsion of the will, illegitimate pressure, and that but for the pressure the agreement would not have been made",
+      "Application": "The 2019 agreements should be set aside because they were procured by illegitimate commercial pressure, economic duress, and undue influence.",
+      "Judicial_Reasoning_Log": "The court agreed that the pressure applied was illegitimate and that the directors were subjected to undue influence. The agreements were set aside."
     },
     "Label": "Claim Allowed",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Originating Claim No 301 of 2022; Companies Winding Up No 195 of 2022",
+      "Case_Number": "Originating Claim No 301 of 2022",
       "Coram": "Philip Jeyaretnam J",
-      "Judge": "Philip Jeyaretnam",
+      "Judge": "Philip Jeyaretnam J",
       "Date": "2024-01-19",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
     },
     "Party_Details": {
       "Role": "Plaintiff",
       "Name": "Tay Yiming",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Meryl Koh Junning",
+        "Justin Lai Wen-Jin",
+        "Shahera Safrin",
+        "Daniel Wong Sheng Jie"
+      ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2012-03-26",
-          "Text": "On 2012-03-26, Tay Yiming participated in incorporating Violet Oon Inc Pte Ltd in Singapore."
-        },
-        {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2012-03-26",
-          "Text": "From the incorporation of Violet Oon Inc Pte Ltd, Tay Yiming served as a director of the company."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2012-03-26",
-          "Text": "From 2012-03-26, Tay Yiming was employed by Violet Oon Inc Pte Ltd as General Manager and Managing Director."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2012-03-26",
-          "Text": "From incorporation until around December 2014, Tay Yiming held 30% of the shares in Violet Oon Inc Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2014-11-13",
-          "Text": "Following the 2014 shareholders' agreement, Tay Yiming held 15% of the company's shares."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2014-11-13",
-          "Text": "At the time of the 2014 shareholders' agreement, Violet Oon Inc Pte Ltd paid a monthly salary of SGD 4,500 to Tay Yiming."
+          "Text": "On 2012-03-26, Tay Yiming was one of the claimants who incorporated the Company and served as a director"
         },
         {
           "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2014-11-01",
-          "Text": "Around early November 2014, Tay Yiming consulted a lawyer on the draft shareholders' agreement and conveyed suggested changes to the incoming shareholder."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-01-01",
-          "Text": "Between 2015 and 2018, the monthly salary paid by the company to Tay Yiming was increased on several occasions from the initial SGD 4,500 level."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2018-12-01",
-          "Text": "By 2018-12-01, internal company records showed that the aggregate amount of salary and employer CPF contributions paid to the family members above 2014 levels was approximately SGD 330,000."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-12-28",
-          "Text": "On 2018-12-28, Tay Yiming informed the representative of the incoming shareholder of the aggregate salary increments."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-12-31",
-          "Text": "On 2018-12-31, Tay Yiming agreed in principle that SGD 1,100,000 would be added to shareholder loans owed to Group MMM Pte Ltd."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-02-02",
-          "Text": "On 2019-02-02, Tay Yiming discussed spreadsheets showing total family salary payments and reviewed proposals to treat a larger amount as adjustments between the shareholders."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-02-19",
-          "Text": "On 2019-02-19, Tay Yiming sent an email proposing that a SGD 1,250,000 amount be recorded in favour of Group MMM Pte Ltd and requested that any equity conversion mechanism not be implemented."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-02-21",
-          "Text": "On 2019-02-21, Tay Yiming indicated agreement to terms including recording a SGD 1,550,000 amount in favour of Group MMM Pte Ltd and changes to board composition."
+          "Fact_Date": "2019-02-01",
+          "Text": "In February 2019, Mr Murjani dealt mainly with Tay Yiming and refused to speak to Ms Oon or Ms Tay except for one meeting"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2019-02-26",
-          "Text": "On 2019-02-26, Tay Yiming signed a revised shareholders' agreement for the company."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-02-26",
-          "Text": "Under the 2019 arrangements, the board consisted of Tay Yiming and the representative of Group MMM Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2020-03-01",
-          "Text": "Around 2020-03-01, Tay Yiming agreed that his salary would be withheld and accumulated as a debt recorded as owing from the company."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2020-06-01",
-          "Text": "During mid-2020, Tay Yiming and the other family shareholders made an offer to sell their shares to the corporate shareholder."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2022-04-01",
-          "Text": "In April 2022, Tay Yiming requested that Violet Oon Inc Pte Ltd reinstate monthly salary payments to the family members."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2022-05-01",
-          "Text": "On 2022-05-01, the representative of Group MMM Pte Ltd declined to reinstate the salaries."
+          "Text": "On 2019-02-26, Tay Yiming executed the revised shareholders' agreement"
         }
       ],
-      "Issue": "Whether the shareholder and financing structure of Violet Oon Inc Pte Ltd established in 2019 should be maintained in relation to the interests of Tay Yiming.",
-      "Rule": "When assessing restructuring of shareholdings and intra-group financing, courts consider whether the changes were entered into under acceptable commercial conditions and whether they are consistent with the parties' prior understandings.",
-      "Application": "Tay Yiming managed day-to-day operations and initially received a modest salary that was later increased. In 2019, he engaged in communications with the corporate shareholder regarding the recording of a multi-million dollar amount in favour of that shareholder. The resulting agreement altered the board composition and financial obligations of the company.",
-      "Judicial_Reasoning_Log": "The judgment examines in detail the negotiations between Tay Yiming and the representative of Group MMM Pte Ltd, including the escalation of figures associated with salary payments, the proposal to record a large amount in favour of Group MMM Pte Ltd as a loan, and the linkage of that amount to potential equity conversion. It applies legal tests for economic duress and undue influence to these interactions, assesses whether the 2019 agreements should be set aside, and considers appropriate remedies under oppression and insolvency frameworks."
+      "Issue": "Whether the 2019 Agreements, entered into after a dispute over salary increases, were procured by economic duress or undue influence",
+      "Rule": "A shareholder may establish oppression if they are unfairly excluded from the management of a company in contravention of an underlying mutual understanding of shared control",
+      "Application": "The co-investor illegitimately leveraged a salary dispute and isolated family members to exert economic duress and undue influence to seize corporate control.",
+      "Judicial_Reasoning_Log": "The court reasoned that Mr Murjani used the salary dispute to pressure Tay Yiming, exaggerated the claimed salary overpayments and his own contributions, and deliberately isolated him as part of a strategy to secure control of the Company."
     },
     "Label": "Claim Allowed",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Originating Claim No 301 of 2022; Companies Winding Up No 195 of 2022",
+      "Case_Number": "Originating Claim No 301 of 2022",
       "Coram": "Philip Jeyaretnam J",
-      "Judge": "Philip Jeyaretnam",
+      "Judge": "Philip Jeyaretnam J",
       "Date": "2024-01-19",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Violet Oon Inc Pte Ltd",
-      "Law_Firm": "",
+      "Law_Firm": "Unrepresented",
       "Counsel": [],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2012-03-26",
-          "Text": "The company was incorporated in Singapore on 26 March 2012."
+          "Text": "The company was incorporated in Singapore on 2012-03-26"
         },
         {
           "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2012-03-26",
-          "Text": "On incorporation, the three co-founders served as directors of Violet Oon Inc Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2012-03-26",
-          "Text": "From incorporation until 2014, the founders held 100% of the company's shares."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2014-11-13",
-          "Text": "On 13 November 2014, the company entered into a subscription agreement under which MMM Delicious subscribed to 50% of the shares for $450,000."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2014-11-13",
-          "Text": "Following the 2014 subscription, the company's shareholding was split 50% between the founders and 50% to the corporate investor."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2016-08-01",
-          "Text": "The corporate shareholding in the company was transferred to Group MMM in August 2016."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2016-08-01",
-          "Text": "Murjani Manoj Mohan was appointed as a director of the company in August 2016."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2015-01-01",
-          "Text": "The company periodically increased the salaries of the family employees between 2015 and 2018."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2018-12-01",
-          "Text": "Company spreadsheets recorded a total salary payment of $1,279,980 to the founders from December 2014 to November 2018."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2019-02-21",
-          "Text": "In February 2019, terms were proposed stating that Group MMM would receive $1,550,000 to be recorded as a liability of the company."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2019-02-21",
-          "Text": "The 2019 Terms provided that two founders would be removed from the board, leaving two directors remaining."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2019-02-26",
-          "Text": "On 26 February 2019, the parties executed a revised shareholders' agreement."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-02-26",
-          "Text": "The 2019 arrangements provided for changes to the company's branding, including the use of the name 'VO Singapore'."
+          "Text": "On 2014-11-13, MMM Delicious Private Limited subscribed for 50% of the company's shares for $450,000, leaving the shareholding split 20%, 15%, 15%, and 50% among the claimants and MMM Delicious"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2020-03-01",
-          "Text": "In March 2020, the parties agreed that founder salaries would be withheld and accumulated as debt owing from the company."
+          "Text": "Around 2020-03-01, the company faced cash flow issues during the COVID-19 pandemic, and the parties agreed that the claimants' salaries would be withheld and accumulated as debt owed by the company"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2019-02-26",
+          "Text": "On 2019-02-26, the claimants and Group MMM executed a revised shareholders' agreement that altered the company's board composition and management arrangements"
         }
       ],
-      "Issue": "Whether, based on its shareholding structure and internal financial decisions, the company should be subject to a buy-out order or winding up.",
-      "Rule": "In company disputes involving equal shareholders, courts consider whether the company's affairs have been conducted consistently with the parties' commercial arrangements and may order remedies to resolve shareholder deadlock.",
-      "Application": "Violet Oon Inc Pte Ltd was founded in 2012 and underwent a significant ownership shift in 2014 and a governance restructuring in 2019. Tensions regarding salary increases and branding changes led to a breakdown in the relationship between the 50% shareholder blocs.",
-      "Judicial_Reasoning_Log": "The judgment treats Violet Oon Inc Pte Ltd as the central corporate vehicle through which the parties' relationship operated, and analyses how the 2014 and 2019 shareholders' agreements, salary practices, and branding and governance changes affected the balance between the family shareholders and the incoming corporate shareholder. It considers whether these events justify relief under oppression and insolvency provisions, including potential winding up."
+      "Issue": "Whether a corporate entity should be subject to a buyout order when its shareholders are deadlocked due to oppressive conduct by one faction",
+      "Rule": "When a company's affairs are conducted in a manner that is commercially unfair to a shareholder, the court may intervene to regulate the company's affairs or order the purchase of shares to break the deadlock",
+      "Application": "As the nominal subject of the dispute, the company was merely the vehicle through which the shareholder deadlock and oppressive conduct manifested.",
+      "Judicial_Reasoning_Log": "As the nominal subject of the dispute, the court ordered that the shares in the company held by the Defendants be bought out by the Claimants to resolve the oppressive deadlock."
     },
-    "Label": "Not Liable",
+    "Label": "Unknown",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Originating Claim No 301 of 2022; Companies Winding Up No 195 of 2022",
+      "Case_Number": "Originating Claim No 301 of 2022",
       "Coram": "Philip Jeyaretnam J",
-      "Judge": "Philip Jeyaretnam",
+      "Judge": "Philip Jeyaretnam J",
       "Date": "2024-01-19",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Murjani Manoj Mohan",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "TSMP Law Corporation",
+      "Counsel": [
+        "Thian Ern Cher",
+        "Adriel Choy",
+        "Sheryl Ffion Williams"
+      ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2014-07-01",
-          "Text": "During the second half of 2014, Murjani Manoj Mohan became acquainted with the three family shareholders of Violet Oon Inc Pte Ltd."
-        },
-        {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2014-09-01",
-          "Text": "By September 2014, Murjani Manoj Mohan was serving as chairman of MMM Delicious Private Limited."
+          "Fact_Date": "2014-01-01",
+          "Text": "Murjani Manoj Mohan, through his wholly-owned corporate vehicle MMM Delicious Private Limited, subscribed to 50% of Violet Oon Inc Pte Ltd's shares under the 2014 SHA"
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2014-09-01",
-          "Text": "Murjani Manoj Mohan discussed with the family shareholders the entry of his corporate vehicle as a shareholder of the company."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-11-13",
-          "Text": "On 2014-11-13, Murjani Manoj Mohan entered into a subscription agreement for 50% of the company's shares for SGD 450,000."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
           "Fact_Date": "2016-08-01",
-          "Text": "The 50% shareholding initially held by MMM Delicious Private Limited was transferred to Group MMM Pte Ltd, wholly owned by Murjani Manoj Mohan."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2016-08-01",
-          "Text": "In August 2016, Murjani Manoj Mohan was appointed as a director of Violet Oon Inc Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2014-11-13",
-          "Text": "At the time of the 2014 agreement, it was understood that the family members would continue to draw their current monthly salaries."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2014-11-13",
-          "Text": "Murjani Manoj Mohan indicated he would not provide personal guarantees for the company's institutional financing."
+          "Text": "Group MMM appointed Murjani Manoj Mohan as a director of Violet Oon Inc Pte Ltd"
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2018-12-01",
-          "Text": "In late 2018, Murjani Manoj Mohan raised issues regarding the fact that family salaries had been increased above 2014 levels."
+          "Text": "Murjani Manoj Mohan discovered the claimants' salary increases and raised the issue with them"
         },
         {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-12-28",
-          "Text": "On 2018-12-28, Murjani Manoj Mohan proposed that SGD 511,804 be added to shareholder loans owed to Group MMM Pte Ltd and that family salaries revert to original levels."
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2019-01-01",
+          "Text": "Murjani Manoj Mohan emailed Mr Tay a list of proposed terms for the 2019 Agreements"
         },
         {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2018-12-31",
-          "Text": "On 2018-12-31, Murjani Manoj Mohan proposed that SGD 1,100,000 be added to shareholder loans owed to Group MMM Pte Ltd."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-02-02",
-          "Text": "On 2019-02-02, Murjani Manoj Mohan discussed figures including approximately SGD 1,244,931 in connection with proposed shareholder adjustments."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-02-02",
-          "Text": "On 2019-02-02, Murjani Manoj Mohan presented an estimate that the contributions associated with Group MMM to the company had a value of approximately SGD 5,266,667."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-02-02",
-          "Text": "On 2019-02-02, Murjani Manoj Mohan proposed that Group MMM acquire 70% of the company's shares in satisfaction of the estimated value contributed."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-02-19",
-          "Text": "On 2019-02-19, Murjani Manoj Mohan discussed not pursuing the alleged salary overpayments if new arrangements were agreed."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-02-21",
-          "Text": "On 2019-02-21, Murjani Manoj Mohan proposed terms including a SGD 1,550,000 payment to Group MMM, changes to branding, and his appointment as Chairman and CEO."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2019-01-01",
+          "Text": "Murjani Manoj Mohan and the claimants executed the revised shareholders' agreement, the 2019 SHA, on behalf of Group MMM"
         }
       ],
-      "Issue": "Whether the conduct of Murjani Manoj Mohan in negotiating the 2019 restructuring and proposing financial adjustments constituted a breach of his obligations to the co-shareholders.",
-      "Rule": "Individual controllers of corporate shareholders are expected to negotiate shareholders' agreements and financial adjustments without recourse to illegitimate pressure or undue influence.",
-      "Application": "Murjani Manoj Mohan negotiated the entry of his vehicle as a 50% shareholder and subsequently challenged salary increases given to the founders. He proposed a significant shift in equity and the recording of a large corporate liability in his favour, which culminated in the 2019 shareholders' agreement.",
-      "Judicial_Reasoning_Log": "The judgment closely examines Murjani Manoj Mohan's role in structuring the 2014 and 2019 arrangements, his presentation of figures relating to salary payments and alleged contributions, and his later offer to buy out the family shareholders. It applies legal tests for economic duress, undue influence, and abuse of process to his conduct and evaluates whether the 2019 agreements should be set aside and what form of buy-out, if any, is appropriate."
+      "Issue": "Whether a director is legally responsible for minority oppression after utilizing economic duress to force the execution of revised corporate agreements",
+      "Rule": "Corporate agreements may be set aside, and oppression remedies triggered, if a party leverages illegitimate economic pressure and undue influence to seize control of a company",
+      "Application": "The 2019 agreements were standard, freely negotiated commercial rescue measures necessary to save the business, completely devoid of economic duress or undue influence.",
+      "Judicial_Reasoning_Log": "The court found that Murjani Manoj Mohan exerted economic duress and undue influence to change the shareholder arrangements with a view to taking control of the Company. The court ordered the Claimants to buy out the Defendants' shares at fair value."
     },
     "Label": "Liable",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Originating Claim No 301 of 2022; Companies Winding Up No 195 of 2022",
+      "Case_Number": "Originating Claim No 301 of 2022",
       "Coram": "Philip Jeyaretnam J",
-      "Judge": "Philip Jeyaretnam",
+      "Judge": "Philip Jeyaretnam J",
       "Date": "2024-01-19",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Group MMM Pte Ltd",
-      "Law_Firm": "",
+      "Law_Firm": "TSMP Law Corporation",
+      "Counsel": [
+        "Thian Ern Cher",
+        "Adriel Choy",
+        "Sheryl Ffion Williams"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2014-01-01",
+          "Text": "Group MMM Pte Ltd is an investment vehicle entirely owned and controlled by Murjani Manoj Mohan"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-11-13",
+          "Text": "The corporate vehicle executed an agreement to acquire 50% of the shares in Violet Oon Inc Pte Ltd"
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-10-01",
+          "Text": "The vehicle provided various short-term financial advances to the company to cover operational shortfalls"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2019-01-01",
+          "Text": "Under the disputed 2019 agreements, the vehicle was granted enhanced veto rights and a more favorable debt repayment structure"
+        }
+      ],
+      "Issue": "Whether the 2019 Agreements were procured by economic duress or undue influence",
+      "Rule": "Section 216 of the Companies Act provides a personal remedy where commercial unfairness is shown, assessed against the parties' commercial agreement and legitimate expectations",
+      "Application": "The revised agreements reflected valid commercial negotiations and legitimate agreements between shareholders, not oppressive conduct or illegitimate pressure.",
+      "Judicial_Reasoning_Log": "The court found that Mr Murjani exerted economic duress and undue influence to change the shareholder arrangements, set aside the 2019 Agreements, and ordered the claimants to buy Group MMM's shares at fair value."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Companies Winding Up No 195 of 2022",
+      "Coram": "Philip Jeyaretnam J",
+      "Judge": "Philip Jeyaretnam J",
+      "Date": "2024-01-19",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Oon Swee Gek",
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Meryl Koh Junning",
+        "Justin Lai Wen-Jin",
+        "Shahera Safrin",
+        "Daniel Wong Sheng Jie"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-03-26",
+          "Text": "Oon Swee Gek is a founding shareholder holding a 20% stake in the food and beverage company"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2019-01-01",
+          "Text": "Following the breakdown of the 2019 agreements, trust completely eroded between the founding family and the majority investor"
+        }
+      ],
+      "Issue": "Whether a company should be ordered to wind up on just and equitable grounds due to an irretrievable breakdown of trust between its shareholders",
+      "Rule": "A court may order the winding up of a company if there is a complete deadlock in management or a fundamental breakdown of the mutual trust required to operate the business",
+      "Application": "The irretrievable breakdown of mutual trust and complete management deadlock necessitates the winding up of the company on just and equitable grounds.",
+      "Judicial_Reasoning_Log": "While the court recognized the irretrievable breakdown of trust, it determined that winding up a successful business was an unnecessarily destructive remedy. Because the court ordered a buyout remedy under the oppression claim (OC 301), it formally dismissed the winding up application."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Companies Winding Up No 195 of 2022",
+      "Coram": "Philip Jeyaretnam J",
+      "Judge": "Philip Jeyaretnam J",
+      "Date": "2024-01-19",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Violet Oon Inc Pte Ltd",
+      "Law_Firm": "Unrepresented",
       "Counsel": [],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2016-01-01",
-          "Text": "Group MMM Pte Ltd was a Singapore-incorporated company wholly owned by Murjani Manoj Mohan."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2016-08-01",
-          "Text": "Group MMM Pte Ltd acquired the 50% shareholding in Violet Oon Inc Pte Ltd initially subscribed for by MMM Delicious."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2016-08-01",
-          "Text": "From August 2016, Group MMM Pte Ltd exercised its rights as a 50% shareholder to appoint a director to the board."
+          "Fact_Date": "2012-03-26",
+          "Text": "Violet Oon Inc Pte Ltd is a profitable operational company employing numerous staff across several restaurant outlets"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2018-12-31",
-          "Text": "In late 2018, it was proposed that SGD 1,100,000 be added to shareholder loans owed by the company to Group MMM Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2019-02-21",
-          "Text": "On 2019-02-21, terms were proposed under which the company would record a SGD 1,550,000 amount in favour of Group MMM Pte Ltd, with an option to convert unpaid amounts into equity."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2019-02-21",
-          "Text": "On 2019-02-21, it was proposed that Group MMM Pte Ltd's representative be appointed Chairman and CEO with a casting vote."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2019-02-26",
-          "Text": "On 2019-02-26, Group MMM Pte Ltd entered into a revised shareholders' agreement with the family shareholders."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2019-02-26",
-          "Text": "Under the 2019 arrangements, the company's packaging was to include the words 'a Group MMM partnership'."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2019-02-26",
-          "Text": "Under the 2019 arrangements, Group MMM Pte Ltd was to receive compensation equal to the total monthly salaries paid to the family members."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2020-03-01",
-          "Text": "Around March 2020, Group MMM Pte Ltd agreed that family salaries would be withheld and accumulated as debts."
+          "Fact_Date": "2022-01-01",
+          "Text": "Despite the shareholder dispute, the company remained a going concern with ongoing commercial operations"
         }
       ],
-      "Issue": "Whether the 2019 financial and governance arrangements involving Group MMM Pte Ltd were validly entered into.",
-      "Rule": "Courts assessing relief in shareholder disputes consider the conduct of corporate shareholders and their controllers in negotiating equity conversion mechanisms and board control.",
-      "Application": "Group MMM Pte Ltd acquired a 50% shareholding in the company and negotiated the 2019 arrangements under which a SGD 1,550,000 amount was recorded in its favour and could be converted into equity. These events established the corporate structure that became the subject of the dispute.",
-      "Judicial_Reasoning_Log": "The judgment evaluates Group MMM Pte Ltd's position as the incoming 50% shareholder, its role in the 2019 restructuring, and the terms of its 2023 offer to buy out the family shareholders. It considers whether the offer was reasonable, whether its rejection amounted to an abuse of process, and whether Group MMM Pte Ltd should instead be required to sell its shares or face a winding up of the company."
+      "Issue": "Whether a financially viable operational company should be liquidated to resolve an unworkable shareholder deadlock",
+      "Rule": "Courts view winding up as a remedy of last resort and will generally prefer to order a share buyout if the company remains a viable, profitable enterprise",
+      "Application": "The company remains a financially viable and profitable ongoing enterprise, making liquidation an unnecessarily destructive and disproportionate remedy.",
+      "Judicial_Reasoning_Log": "The court declined to wind up the company. The judge concluded that ordering a buyout was a far more appropriate and proportionate remedy that preserved the enterprise value of the company while curing the deadlock."
     },
-    "Label": "Liable",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   }
 ]

@@ -3,9 +3,9 @@
     "Metadata": {
       "Case_Number": "Originating Claim No 475 of 2023",
       "Coram": "Hri Kumar Nair J",
-      "Judge": "Hri Kumar Nair",
+      "Judge": "Hri Kumar Nair J",
       "Date": "2024-09-25",
-      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+      "Tribunal_Court": "General Division of the High Court"
     },
     "Party_Details": {
       "Role": "Plaintiff",
@@ -18,190 +18,50 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
+          "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2020-08-05",
-          "Text": "AP Automotive Services Pte Ltd was incorporated in Singapore on 5 August 2020 with a paid-up capital of $100,000."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2020-08-05",
-          "Text": "Upon incorporation, AP Automotive Services Pte Ltd had three shareholders: Liew Nyok Wah, Teo Ying Ping and Ho Siow Poh."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2020-08-05",
-          "Text": "At incorporation, Teo Ying Ping and Liew Nyok Wah each held 33% of the shares in AP Automotive Services Pte Ltd and Ho Siow Poh held 34%."
+          "Text": "AP Automotive Services Pte Ltd was incorporated with a paid-up capital of $100,000"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2020-08-05",
-          "Text": "On incorporation, Ho Siow Poh was recorded as the sole director of AP Automotive Services Pte Ltd and held the position of Managing Director."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2020-08-05",
-          "Text": "Liew Nyok Wah, Teo Ying Ping and Ho Siow Poh were long-term friends who decided to start the business together."
+          "Text": "Mr Ho Siow Poh was the Managing Director and sole director on record"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2020-09-01",
-          "Text": "Shortly after incorporation, Liew Shulin Mrs Alexander Chong, the daughter of Liew Nyok Wah, joined the company and was involved in its finance and business operations."
+          "Fact_Date": "2020-08-05",
+          "Text": "Mr Teo Ying Ping and Mr Liew Nyok Wah each held 33% of the Company's shares"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2021-01-01",
-          "Text": "In 2021, Marcus Teo Xian Jun, the son of Teo Ying Ping, joined the company and was subsequently appointed its Chief Financial Officer."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2020-08-05",
-          "Text": "At incorporation, Teo Ying Ping and Liew Nyok Wah each agreed to provide an initial capital sum of $50,000."
+          "Text": "Mr Ho held 34% of the Company's shares"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2020-08-05",
-          "Text": "Throughout the life of the company, Teo Ying Ping and Liew Nyok Wah provided funds to support its operations, including personal funds and funds sourced through third-party borrowing."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2020-08-05",
-          "Text": "The shareholders agreed that the company would pay interest on funds provided by Teo Ying Ping and Liew Nyok Wah."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2021-01-08",
-          "Text": "On 8 January 2021, AP Automotive Services Pte Ltd entered into a $500,000 loan arrangement with Mengkim Holdings Pte Ltd, signed by Ho Siow Poh on behalf of the company."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2021-01-08",
-          "Text": "Before the Mengkim loan was signed, Teo Ying Ping was aware that the company was entering into that loan arrangement."
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2021-04-07",
+          "Text": "Mr Teo sent a WhatsApp message to Ms Liew stating he passed a cheque of $100,000 to Mr Ho for a short-term loan"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2021-01-14",
-          "Text": "On 14 January 2021, AP Automotive Services Pte Ltd paid $160,000 to Teo Ying Ping."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2021-04-01",
-          "Text": "Around 1 April 2021, Teo Ying Ping sent a WhatsApp message stating that he had passed a cheque for $100,000 to Ho Siow Poh for short-term use of two months with interest at 1.5% per month."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2021-06-01",
-          "Text": "By mid-2021, AP Automotive Services Pte Ltd had obtained a $300,000 loan from Junk Yard Dog Ventures Pte Ltd, which the company’s accounting records recorded as a loan from Junk Yard Dog."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2021-06-01",
-          "Text": "By June 2021, the shareholders had discussed the possibility of selling the company’s fleet of cars as part of addressing its financial position."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2021-09-01",
-          "Text": "By around August or September 2021, a restructuring plan proposed by Marcus Teo included selling the company’s fleet of cars to improve its finances."
+          "Text": "Mr Teo was repaid a sum of $160,000 by the Company"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2021-10-08",
-          "Text": "On 8 October 2021, the company received approximately $260,000 through a hire-purchase loan taken over the car of Teo Ying Ping, and the company agreed to service monthly instalments of about $5,196 over 60 months."
+          "Text": "On 8 October 2021, Mr Teo obtained a $260,000 hire-purchase loan over his car, and the principal sum was paid to the Company"
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2021-10-08",
-          "Text": "Around 8 October 2021, approximately $60,000 from that $260,000 financing was used for renewal of the car’s Certificate of Entitlement, and approximately $200,000 was paid into the company."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2021-10-08",
-          "Text": "From 8 October 2021, the company began making monthly instalment payments to the finance company under the hire-purchase loan associated with Teo Ying Ping’s car."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2021-11-19",
-          "Text": "Between 19 November 2021 and May 2022, AP Automotive Services Pte Ltd repaid a total of $200,000 to WQ Leasing Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2021-11-21",
-          "Text": "Between 21 November 2021 and 21 January 2022, AP Automotive Services Pte Ltd repaid a total of $200,000 to Lee Sze Peng."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2022-05-01",
-          "Text": "From 1 May 2022 onwards, AP Automotive Services Pte Ltd made repayments in respect of loans associated with Tan Bee Hong and Ban Leong, totalling $400,000 in principal."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2022-06-01",
-          "Text": "Between 1 June 2022 and 12 July 2022, AP Automotive Services Pte Ltd repaid a total of $200,000 to Junk Yard Dog Ventures Pte Ltd in two parts."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2022-07-08",
-          "Text": "The repayment date of the $500,000 loan from Mengkim Holdings Pte Ltd, originally due in January 2022, was extended first to 8 April 2022 and subsequently to 8 July 2022."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2022-07-31",
-          "Text": "As at 31 July 2022, the company’s accounting records and financial statements recorded amounts provided by shareholders, including Liew Nyok Wah and Teo Ying Ping, under headings such as 'Loan from Director'."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2023-01-09",
-          "Text": "On 9 January 2023, Ho Siow Poh signed a Creditors Confirmation Request confirming that AP Automotive Services Pte Ltd owed $1.03 million to Liew Nyok Wah as at 31 July 2022."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2020-11-01",
-          "Text": "From around November 2020, internal 'loan sheets' prepared by Liew Shulin for AP Automotive Services Pte Ltd listed loans and were shared with the accounting team."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2022-12-20",
-          "Text": "On 20 December 2022, AP Automotive Services Pte Ltd repaid $15,000 to Teo Ying Ping."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2022-12-27",
-          "Text": "On 27 December 2022, AP Automotive Services Pte Ltd made withdrawals of $15,000 each to Teo Ying Ping and Liew Nyok Wah."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2021-03-01",
-          "Text": "In early 2021, AP Automotive Services Pte Ltd moved its workshop operations to the Loyang premises while retaining some office and storage space at the Tampines premises managed by Jackspeed Automobile (S) Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2021-03-01",
-          "Text": "After the move to Loyang, the company continued to store accounting records, other records, furniture and a computer at the Tampines premises."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2023-08-24",
-          "Text": "Until 24 August 2023, the registered office address of AP Automotive Services Pte Ltd remained at the Tampines premises associated with Jackspeed Automobile (S) Pte Ltd."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2023-05-02",
-          "Text": "On 2 May 2023, the shareholders met and discussed funding contributions and a possible buy-out in the range of $500,000 to $700,000."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2023-05-01",
-          "Text": "In or around May 2023, disagreements over the company’s funding arrangements caused the shareholders to fall out."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2023-07-27",
-          "Text": "On 27 July 2023, the employment of Liew Shulin with AP Automotive Services Pte Ltd was terminated."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2021-01-08",
+          "Text": "The Company entered into a loan agreement with Mengkim Holdings Pte Ltd"
         }
       ],
-      "Issue": "Whether amounts provided to AP Automotive Services Pte Ltd by or through Liew Nyok Wah, beyond the initial paid-up capital, were loans repayable in the ordinary course or capital contributions subject to a different understanding, and whether repayments connected to those amounts were inconsistent with any agreed funding arrangement or with duties alleged against him.",
-      "Rule": "In company law, the legal characterisation of shareholder-associated funding depends on the parties’ objectively manifested arrangement, including the company’s records, whether interest is payable, whether repayments are contemplated, and how similar advances are treated in practice. If a person is shown to be a de facto or shadow director, fiduciary duties may arise in relation to decisions affecting the company’s assets; however, repayment of funds properly characterised as loans will ordinarily depend on the terms and surrounding circumstances of those advances.",
-      "Application": "AP Automotive Services Pte Ltd was funded not only by its initial paid-up capital but also by later advances associated with its shareholders and by loans from third parties. The company’s internal records, loan sheets, creditors’ confirmation, interest arrangements, and repayment history formed part of the factual matrix, alongside formal borrowing from entities such as Mengkim Holdings Pte Ltd and Junk Yard Dog Ventures Pte Ltd, the servicing of a hire-purchase facility linked to Teo Ying Ping’s car, and the sale of the company’s fleet during a restructuring period. Against that background, the dispute concerned whether amounts associated with Liew Nyok Wah should be treated as repayable debt or non-repayable capital, and whether repayments made during the company’s financial difficulties were inconsistent with any agreed funding arrangement or with duties alleged to arise from his role in the company.",
-      "Judicial_Reasoning_Log": "The court held that the company’s pleaded case based on an agreement for capital injections and a matching dollar-to-dollar funding obligation was not made out on the evidence. It found that there was no enforceable agreement binding the shareholders or the company to treat the contributions as non-repayable capital beyond the initial $100,000 paid-up capital. The judge emphasised that the company’s own financial statements, ACRA filings, internal accounting records, and loan sheets consistently recorded the funds from both Liew and Teo as loans, and that interest was paid on these funds at rates consistent with debt. The court found that only the initial $100,000 was a capital injection and that subsequent contributions by Liew and Teo were loans. The judge rejected the existence of the pleaded Agreement and the later reformulated 'Matching Dollar Agreement', noting the absence of contemporaneous documentation, the ad hoc nature of contributions, the lack of any attempt to enforce matching contributions, and the fact that both shareholders arranged third-party loans for the company without objection. The court also rejected the company’s attempt to imply a term restricting withdrawals of shareholder funding until profitability or sufficient funding, distinguishing Wee Kah Lee v Silverdale Investment Pte Ltd on the basis that the loans in that case were tied to a specific development project with a defined timeframe, whereas here the loans were for general operations and no such term was pleaded or reflected in the parties’ conduct. On the alleged breach of fiduciary duties, the judge proceeded on the basis that even if Liew were a de facto or shadow director, the premise of the claim failed because Liew’s contributions were loans and he was entitled to repayment. The court found that repayments to Liew and to third-party lenders such as Mengkim, Tan Bee Hong and Ban Leong were authorised by Managing Director Ho, who was aware of the nature and origin of the loans. Allegations that Ho acted under pressure from Liew were rejected as unpleaded, unsupported by evidence, and inconsistent with contemporaneous conduct, including Ho’s own admissions that he agreed to the Mengkim loan because it was in the company’s interests. The court noted that the company’s attempt to characterise certain loans as external while blaming Liew for reclassification was not borne out by the records, which continued to show the loans from Tan Bee Hong and Ban Leong under 'Loan from Director'. The judge found that the company’s internal documents, including a creditors’ confirmation signed by Ho and the latest accounts prepared for adoption at the AGM, confirmed that amounts owed to Liew and Teo were treated as loans. On damages, the court held that the various heads of loss were misconceived. The claim for losses due to interest rate differences was abandoned and, in any event, was inconsistent with evidence that Liew could set interest rates on his funds, that Teo himself received interest above 8% per annum, and that Ho agreed to the interest terms on third-party loans. The 'fire sale' claim regarding the company’s car fleet was found to be unsustainable and bordering on dishonesty: the sale of cars began before the Mengkim and other Liew-associated loans were due, the list of 100 cars was inaccurate, and evidence showed that the sale was part of a restructuring plan proposed by Marcus Teo to reduce liabilities, with proceeds used to repay multiple creditors including those connected to Ho and Teo. The court found no evidential basis for the assertion that the fleet was sold to pay only Liew-associated loans. The claim for loss of use of $1,231,500 (later narrowed to $400,000) was described as hopelessly flawed and speculative, relying on a comparison of net profits between financial years without a proper causal analysis, and ignoring that the company had agreed to repay the loans and that only part of the principal had been repaid within the relevant period. The retainer fee claim against Liew relating to payments to Jackspeed was also abandoned; the court observed that all three shareholders had agreed to retain space at the Tampines premises and to continue paying a reduced fee, and there was no basis to impose a duty on Liew to prevent Jackspeed from charging or the company from paying. The loan to Chris Eng claim was expressly abandoned at the outset and no findings were made. The judge considered but did not decide the question of whether Liew was a de facto or shadow director, as it was unnecessary given the findings on the nature of the contributions and the absence of any breach. On the counterclaim, the court accepted that Liew’s contributions were loans and that the company had no substantive defence to repayment. The company did not dispute the pleaded sum of $719,000, and judgment was entered for Liew in that amount. The company’s claim was dismissed in its entirety. The court awarded Liew costs of $150,000 inclusive of disbursements and indicated that it would hear parties on whether shareholder Teo should be liable for the company’s costs and whether Managing Director Ho should be made personally liable for costs, given the court’s findings about the manner in which the claim was pursued."
+      "Issue": "Whether Mr Liew breached management obligations by causing the Company to repay loans and whether the contributions were loans or capital injections",
+      "Rule": "A director must act in the best interest of the company and avoid conflicts of interest",
+      "Application": "Mr Liew breached an agreement to match capital contributions and acted against the Company's interest by repaying loans. the contributions were loans and repayments were justified",
+      "Judicial_Reasoning_Log": "The court found that the contributions were loans, not capital injections, and Mr Liew was entitled to repayment. The evidence did not support the existence of a binding agreement for capital contributions."
     },
     "Label": "Claim Dismissed",
     "Leakage_Score": 0
@@ -210,106 +70,134 @@
     "Metadata": {
       "Case_Number": "Originating Claim No 475 of 2023",
       "Coram": "Hri Kumar Nair J",
-      "Judge": "Hri Kumar Nair",
+      "Judge": "Hri Kumar Nair J",
       "Date": "2024-09-25",
-      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+      "Tribunal_Court": "General Division of the High Court"
     },
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Liew Nyok Wah",
       "Law_Firm": "Fortress Law Corporation",
       "Counsel": [
-        "Ow Yong Wei En James (Ouyang Wei’En)",
+        "Ow Yong Wei En James",
         "Madeline Chan Yuen Hun"
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2020-08-05",
-          "Text": "On 5 August 2020, AP Automotive Services Pte Ltd was incorporated and Liew Nyok Wah held 33% of its shares."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2020-08-05",
-          "Text": "Before and at the time of incorporation, Liew Nyok Wah was a long-term friend of fellow shareholders Teo Ying Ping and Ho Siow Poh."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2020-09-01",
-          "Text": "Shortly after incorporation, Liew Nyok Wah’s daughter, Liew Shulin Mrs Alexander Chong, joined the company and was involved in its finance and business operations."
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2023-05-02",
+          "Text": "Mr Liew discussed funding with Mr Ho and Mr Teo and appeared to acknowledge that each would match contributions on a 1-to-1 basis"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2020-08-05",
-          "Text": "At incorporation, Liew Nyok Wah and Teo Ying Ping each agreed to provide an initial capital sum of $50,000."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2020-08-05",
-          "Text": "From the company’s inception, funds associated with Liew Nyok Wah were provided to the company both directly and via third-party loans that he procured."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2020-08-05",
-          "Text": "The shareholders agreed that the company would pay interest on funds provided by Liew Nyok Wah and Teo Ying Ping."
-        },
+          "Fact_Date": "2023-04-28",
+          "Text": "The Company completed repayment of the Mengkim loan"
+        }
+      ],
+      "Issue": "Whether Mr Liew was subject of dispute for breaching management obligations by causing the Company to repay loans and whether the contributions were loans or capital injections",
+      "Rule": "A director must act in the best interest of the company and avoid conflicts of interest",
+      "Application": "The contributions were loans and repayments were justified. Mr Liew breached an agreement to match capital contributions and acted against the Company's interest",
+      "Judicial_Reasoning_Log": "The court found that the contributions were loans, not capital injections, and Mr Liew was entitled to repayment. The evidence did not support the existence of a binding agreement for capital contributions."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 475 of 2023 (Counterclaim)",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair J",
+      "Date": "2024-09-25",
+      "Tribunal_Court": "General Division of the High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Liew Nyok Wah",
+      "Law_Firm": "Fortress Law Corporation",
+      "Counsel": [
+        "Ow Yong Wei En James",
+        "Madeline Chan Yuen Hun"
+      ],
+      "Facts": [
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2021-01-08",
-          "Text": "On 8 January 2021, AP Automotive Services Pte Ltd entered into a $500,000 loan with Mengkim Holdings Pte Ltd."
+          "Fact_Date": "2020-08-05",
+          "Text": "Mr Liew contributed personal funds to the Company at its inception"
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2021-06-01",
-          "Text": "By mid-2021, AP Automotive Services Pte Ltd had obtained a $300,000 loan from Junk Yard Dog Ventures Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2022-05-01",
-          "Text": "From 1 May 2022 onwards, AP Automotive Services Pte Ltd made repayments in respect of loans associated with Tan Bee Hong and Ban Leong."
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2021-11-01",
+          "Text": "The Company's internal records consistently recorded Mr Liew's contributions as loans, and Ms Liew regularly prepared loan sheets that she shared in the AP Accounting Department WhatsApp group chat"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2022-07-31",
-          "Text": "As at 31 July 2022, the company’s accounting records and financial statements recorded amounts associated with Liew Nyok Wah under headings such as 'Loan from Director'."
+          "Text": "As at 31 July 2022, internal accounts recorded that Mr Liew was owed an outstanding balance of approximately $1.03 million"
         },
         {
           "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2023-01-09",
-          "Text": "On 9 January 2023, Ho Siow Poh signed a Creditors Confirmation Request confirming that AP Automotive Services Pte Ltd owed $1.03 million to Liew Nyok Wah as at 31 July 2022."
+          "Fact_Date": "2022-07-31",
+          "Text": "Mr Ho signed a creditors confirmation request confirming that the Company owed Mr Liew $1.03 million as at 31 July 2022"
+        }
+      ],
+      "Issue": "Whether a shareholder who provides operational funding to a company is legally entitled to the repayment of those funds as an outstanding loan",
+      "Rule": "A corporate entity is legally obligated to repay financial advances made by individuals unless those funds were explicitly agreed to be permanent equity contributions",
+      "Application": "The original contributions were capital injections that could not be withdrawn",
+      "Judicial_Reasoning_Log": "The court found that the contributions were loans, not capital injections, and Mr Liew was entitled to repayment. The company had no defence to the repayment, and judgment was awarded in the undisputed sum of $719,000."
+    },
+    "Label": "Claim Allowed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 475 of 2023 (Counterclaim)",
+      "Coram": "Hri Kumar Nair J",
+      "Judge": "Hri Kumar Nair J",
+      "Date": "2024-09-25",
+      "Tribunal_Court": "General Division of the High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "AP Automotive Services Pte Ltd",
+      "Law_Firm": "Nine Yard Chambers LLC",
+      "Counsel": [
+        "Yeo Lai Hock Nichol",
+        "Qua Bi Qi",
+        "Andrew Ong"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2020-08-05",
+          "Text": "At its inception, the Company received contributions from Mr Liew"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2021-01-08",
+          "Text": "The Company's Managing Director signed a loan agreement with Mengkim Holdings Pte Ltd to secure $500,000 in funding"
         },
         {
           "Fact_Type": "DOCUMENT",
           "Fact_Date": "2020-11-01",
-          "Text": "From around November 2020, internal 'loan sheets' prepared by Liew Shulin for AP Automotive Services Pte Ltd listed loans and were shared with the accounting team."
+          "Text": "The Company's accounting records recorded the funds provided by Mr Liew and Mr Teo as loans from directors"
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2022-05-01",
+          "Text": "From 2022-05-01 onwards, the Company made repayments on the loans from Tan Bee Hong and Ban Leong associated with Mr Liew"
         },
         {
           "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2023-07-01",
-          "Text": "Updated accounts of AP Automotive Services Pte Ltd continued to record amounts owed to Liew Nyok Wah as loans."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2023-05-02",
-          "Text": "On 2 May 2023, Liew Nyok Wah discussed funding contributions and a possible buy-out in the range of $500,000 to $700,000."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2023-05-01",
-          "Text": "In or around May 2023, disagreements over the company’s funding arrangements caused the shareholders to fall out."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2023-05-01",
-          "Text": "After the breakdown in relations around May 2023, Liew Nyok Wah was no longer involved in the management of AP Automotive Services Pte Ltd."
+          "Fact_Date": "2022-07-31",
+          "Text": "Mr Ho signed a Creditors Confirmation Request confirming that the Company owed Mr Liew $1.03 million as at 2022-07-31"
         }
       ],
-      "Issue": "Whether amounts provided by or through Liew Nyok Wah to AP Automotive Services Pte Ltd, beyond the initial paid-up capital, were repayable loans rather than non-repayable capital contributions, and whether the company remained liable to repay the outstanding balance he claimed.",
-      "Rule": "Where a shareholder or associated party provides funds to a company, the character of those funds as debt or equity is determined objectively from the parties’ arrangement, including how the sums are recorded, whether interest is charged, whether repayment is expected, and how comparable advances are treated. A party seeking repayment on a counterclaim must establish the making of the advances, the outstanding balance, and the basis on which the sums are said to be repayable.",
-      "Application": "Amounts associated with Liew Nyok Wah, beyond the initial paid-up capital, were reflected in the company’s accounting records, creditors’ confirmation, and later accounts under loan headings, while the company also paid interest on shareholder-associated funding and made repayments to a range of lenders. The factual setting included direct advances, third-party loans procured in connection with the company’s funding needs, and repayment activity during the period when the shareholders’ relationship deteriorated. In those circumstances, the dispute concerned whether the amounts associated with Liew Nyok Wah were properly to be regarded as repayable loans or non-repayable capital, and whether any agreement or other legal restriction prevented the company from remaining liable for the outstanding balance he claimed.",
-      "Judicial_Reasoning_Log": "The court concluded that the funds advanced by or through Liew Nyok Wah to AP Automotive Services Pte Ltd were loans rather than capital contributions, relying on the company’s own records, financial statements, and conduct. It found that only the initial $100,000 was share capital and that subsequent contributions by both Liew and Teo were treated as debt, with interest payable and repayments made. The judge noted that the company’s pleaded case of a capital-based Agreement and a matching dollar-to-dollar obligation was not supported by contemporaneous documents or consistent testimony, and that the company later shifted its position to a broader 'Matching Dollar Agreement' that was unpleaded and inconsistent with the evidence. The court held that there was no contractual or implied restriction preventing Liew from receiving repayment of his loans, distinguishing the case from Wee Kah Lee v Silverdale Investment Pte Ltd, where loans were tied to a specific development project and an implied term on timing of repayment had been pleaded and supported by the factual matrix. In this case, the loans were for general operational funding and there was no pleaded or evidenced term deferring repayment until profitability or sufficient funding. On the counterclaim, the court observed that the company did not dispute the quantum of $719,000 claimed by Liew as outstanding loans. Given the findings that his contributions were loans and that the company had no substantive defence, the judge held that the company was obliged to repay this amount. Judgment was therefore entered in favour of Liew on his counterclaim for $719,000. The court also awarded him costs of $150,000 inclusive of disbursements and indicated that it would hear further submissions on whether other individuals, including shareholder Teo and managing director Ho, should bear personal liability for costs in light of the way the company’s claim had been advanced."
+      "Issue": "Whether a company is legally obligated to repay funds advanced by a shareholder, or whether those funds are subject to a binding capital injection agreement that precludes withdrawal",
+      "Rule": "A corporate entity must repay documented financial advances unless it can definitively prove the funds were intended as non-refundable equity",
+      "Application": "The original contributions were permanent capital injections. his financial contributions were explicitly tracked as loans and demanded repayment",
+      "Judicial_Reasoning_Log": "The court found that the contributions were loans, not capital injections. The company had no defence to the repayment, and judgment was awarded against the company in the undisputed sum of $719,000."
     },
-    "Label": "Not Liable",
+    "Label": "Liable",
     "Leakage_Score": 0
   }
 ]

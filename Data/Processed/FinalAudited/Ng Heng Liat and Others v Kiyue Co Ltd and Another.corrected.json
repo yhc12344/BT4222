@@ -1,187 +1,182 @@
 [
   {
     "Metadata": {
-      "Case_Number": "Suit No 758 of 2017",
-      "Coram": "High Court — Suit No 758 of 2017",
-      "Judge": "Chua Lee Ming J",
-      "Date": "2020-10-08",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Case_Number": "OS 1115/2002",
+      "Coram": "Kan Ting Chiu J",
+      "Judge": "Kan Ting Chiu J",
+      "Date": "2003-03-22",
+      "Tribunal_Court": "High Court"
     },
     "Party_Details": {
       "Role": "Plaintiff",
-      "Name": "Ng Tang Hock",
-      "Law_Firm": "Damodara Ong LLC",
+      "Name": "Ng Heng Liat",
+      "Law_Firm": "Engelin Teh Practice LLC",
       "Counsel": [
-        "Suresh s/o Damodara",
-        "Ong Ziying Clement",
-        "Khoo Shufen Joni"
+        "Harish Kumar"
       ],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1995-06-21",
-          "Text": "Ng Tang Hock married Chew Kar Lay Wendy on 21 June 1995."
+          "Fact_Date": "2002-01-01",
+          "Text": "Ng Heng Liat is a director of Aquagen International Pte Ltd"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1996-05-22",
-          "Text": "Ng Tang Hock co-founded Teelek Realty Pte Ltd in 1996 with Wendy. At inception, they each held 50% of the shares and were both directors."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2011-08-15",
-          "Text": "By August 2011, Ng Tang Hock had advanced interest-free unsecured loans totaling $12,564,000 to Teelek Realty."
+          "Fact_Date": "2002-01-01",
+          "Text": "Ng Heng Liat served as a director of Aquagen International Pte Ltd"
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-09-11",
-          "Text": "In September 2011, the marital relationship between Ng Tang Hock and Wendy broke down, leading to their separation."
+          "Fact_Date": "2002-07-29",
+          "Text": "Ng Heng Liat opposed AIPL's participation in arbitration proceedings"
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2011-10-01",
-          "Text": "On 1 October 2011, the $12,564,000 loans previously recorded as owing to Ng Tang Hock were reclassified in the company ledger as loans owing to Wendy."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2012-08-07",
-          "Text": "On 7 August 2012, Ng Tang Hock resigned as a director of Teelek Realty, and his daughter Shirlyn was appointed to the board in his place."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-07-01",
-          "Text": "In July 2015, Wendy transferred one share in Teelek Realty to each of her children, Shirlyn and Eugene, without issuing a transfer notice to Ng Tang Hock."
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2002-07-29",
+          "Text": "Ng Heng Liat received a notice from Kiyue Co Ltd under s 216A of the Companies Act"
         }
       ],
-      "Issue": "Whether the disputed reclassification of director loans and the execution of share transfers to family members align with fiduciary duties and constitutional pre-emption rights.",
-      "Rule": "Under Section 216 of the Companies Act, a shareholder may seek relief where the affairs of the company are being conducted in a manner oppressive to a member or in disregard of their interests.",
-      "Application": "A co-founder provided substantial start-up capital for an investment company as loans. Following a domestic breakdown, the other director reclassified those loans to her own credit and transferred shares to their children. The legal conflict assesses whether these maneuvers were legitimate corporate actions or a strategy that contravened the co-founder's rights under the Articles of Association.",
-      "Judicial_Reasoning_Log": "The court found that Wendy had wrongfully reclassified the plaintiff's loans as loans from herself without any genuine agreement or proper accounting entries. The judge held that her subsequent withdrawal of SGD 12,564,000 from the company on the basis of that reclassification was a misappropriation of company funds. Regarding the share transfers, the court concluded that Teelek Realty's Articles required a transfer notice and a right of first refusal for the other shareholder, and that the 2015 transfers were in clear breach of these Articles. In assessing the oppression claim, the court held that Teelek Realty's affairs had been conducted in a manner that disregarded the plaintiff's interests, including the loan reclassification, the invalid share transfers, and the failure to hold physical AGMs. The judge held that these acts constituted breaches of directors' duties. Instead of ordering a buyout, the court ordered that Teelek Realty be wound up to allow independent liquidators to investigate the accounts and affairs, and ordered Wendy to return SGD 12,564,000 to the company."
+      "Issue": "Whether directors can seek a declaration of compliance with management obligations without a pending action against them",
+      "Rule": "Directors may seek a declaration of compliance with their duties if there is a reasonable apprehension of legal action",
+      "Application": "They acted within their management obligations by opposing arbitration participation. the plaintiffs' actions were not in the company's best interest",
+      "Judicial_Reasoning_Log": "The court found that the plaintiffs were entitled to seek a declaration as there was no pending action against them."
     },
     "Label": "Claim Allowed",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Suit No 758 of 2017",
-      "Coram": "High Court — Suit No 758 of 2017",
-      "Judge": "Chua Lee Ming J",
-      "Date": "2020-10-08",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Case_Number": "OS 1115/2002",
+      "Coram": "Kan Ting Chiu J",
+      "Judge": "Kan Ting Chiu J",
+      "Date": "2003-03-22",
+      "Tribunal_Court": "High Court"
     },
     "Party_Details": {
       "Role": "Defendant",
-      "Name": "Chew Kar Lay (Wendy)",
-      "Law_Firm": "OTP Law Corporation",
+      "Name": "Kiyue Co Ltd",
+      "Law_Firm": "Kenneth Tan Partnership",
       "Counsel": [
-        "Lim Seng Siew",
-        "Isabel Chew-Lau"
+        "Wang Wei Chi"
       ],
       "Facts": [
         {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1996-05-22",
-          "Text": "Chew Kar Lay Wendy was a co-founder, 50% shareholder, and director of Teelek Realty Pte Ltd."
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2002-01-01",
+          "Text": "Kiyue Co Ltd is a minority shareholder of Aquagen International Pte Ltd"
         },
         {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2011-10-01",
-          "Text": "Wendy directed the reclassification of $12,564,000 in the company's general ledger, moving the debt from Ng Tang Hock's name to her own."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2012-01-01",
-          "Text": "Between 2012 and 2018, Wendy withdrew $62,381,129.46 from the company's account, with $12,564,000 of that sum recorded as repayment of the reclassified loans."
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2002-07-29",
+          "Text": "Kiyue Co Ltd issued a notice under s 216A of the Companies Act to AIPL's directors"
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-07-01",
-          "Text": "Wendy executed share transfers of one share each to her children, Shirlyn and Eugene, in July 2015."
+          "Fact_Date": "2002-07-29",
+          "Text": "Kiyue Co Ltd requested AIPL to commence action against the plaintiffs for breaches of their fiduciary duties as directors of AIPL"
         },
         {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2015-07-28",
-          "Text": "As director, Wendy approved the share transfers to her children without the knowledge of the other 50% shareholder."
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2002-07-29",
+          "Text": "Kiyue Co Ltd gave notice that it intended to apply to court under s 216A for leave to bring the action in the name and on behalf of AIPL if the directors did not comply"
         }
       ],
-      "Issue": "Whether the disputed reclassification of director loans and the execution of share transfers to family members align with fiduciary duties and constitutional pre-emption rights.",
-      "Rule": "A director must act in good faith in the best interests of the company. Acts that favor one shareholder at the expense of another in a manner that departs from fair dealing may constitute oppression.",
-      "Application": "A co-founder provided substantial start-up capital for an investment company as loans. Following a domestic breakdown, the other director reclassified those loans to her own credit and transferred shares to their children. The legal conflict assesses whether these maneuvers were legitimate corporate actions or a strategy that contravened the co-founder's rights under the Articles of Association.",
-      "Judicial_Reasoning_Log": "The court found that Wendy's evidence was inconsistent and that the reclassification of the loans was a fabrication unsupported by any genuine agreement. The judge determined that her withdrawal of SGD 12,564,000 based on this reclassification was a misappropriation of company funds. The court also held that her 2015 share transfers were in breach of the company's Articles because no transfer notice was provided. The judge concluded that Wendy had breached her duties as a director by failing to hold proper AGMs and by using the company's accounts as conduits for her own funds. These actions justified relief under the oppression framework."
+      "Issue": "Whether a minority shareholder can independently initiate a counterclaim for directors' contravention of management obligations",
+      "Rule": "A minority shareholder must obtain court approval to initiate a derivative action on behalf of the company",
+      "Application": "It had the right to bring a counterclaim without court approval. only the company could seek redress for directors' actions",
+      "Judicial_Reasoning_Log": "The court held that Kiyue Co Ltd lacked the standing to bring a counterclaim without court approval."
     },
     "Label": "Liable",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Suit No 758 of 2017",
-      "Coram": "High Court — Suit No 758 of 2017",
-      "Judge": "Chua Lee Ming J",
-      "Date": "2020-10-08",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Case_Number": "OS 1115/2002 (Counterclaim)",
+      "Coram": "Kan Ting Chiu J",
+      "Judge": "Kan Ting Chiu J",
+      "Date": "2003-03-22",
+      "Tribunal_Court": "High Court"
     },
     "Party_Details": {
-      "Role": "Defendant",
-      "Name": "Ng Pei Ling Shirlyn",
-      "Law_Firm": "Ong Ying Ping Esq",
+      "Role": "Plaintiff",
+      "Name": "Kiyue Co Ltd",
+      "Law_Firm": "Kenneth Tan Partnership",
       "Counsel": [
-        "Ong Ying Ping",
-        "Chua Kok Siong Kenneth"
+        "Wang Wei Chi"
       ],
       "Facts": [
         {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2012-08-07",
-          "Text": "Ng Pei Ling Shirlyn was appointed as a director of Teelek Realty in August 2012."
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2002-01-01",
+          "Text": "Kiyue Co Ltd is a minority shareholder of Aquagen International Pte Ltd"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2002-07-29",
+          "Text": "Kiyue Co Ltd issued a notice under s 216A of the Companies Act to AIPL's directors"
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-07-28",
-          "Text": "Shirlyn received one share in the company from her mother and participated in a board decision to approve that transfer."
+          "Fact_Date": "2002-07-29",
+          "Text": "Kiyue Co Ltd requested the directors of AIPL to commence action against the plaintiffs for breaches of fiduciary duties as directors to AIPL"
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2002-07-29",
+          "Text": "Kiyue Co Ltd gave notice that, if the directors did not comply with its request, it intended to apply to court under s 216A for leave to bring the action in the name and on behalf of AIPL"
         }
       ],
-      "Issue": "Whether a director's participation in board decisions involving disputed share transfers and financial reclassifications aligns with fiduciary duties and the company's constitution.",
-      "Rule": "Directors have a duty to exercise due care and diligence. A director who permits the company's affairs to be conducted in an oppressive manner may be found to have participated in the oppression.",
-      "Application": "A daughter and son joined the company's board and participated in approving share transfers from their mother to themselves. These transfers were challenged by the co-founder (their father) as an improper bypass of his pre-emption rights. The legal tension involves whether the children, as directors, failed in their oversight duties by permitting these transfers and the concurrent reclassification of company funds.",
-      "Judicial_Reasoning_Log": "The court found that the 2015 share transfer to Shirlyn was invalid as it breached the company's Articles. Although Shirlyn was largely passive and left decisions to her mother, the court concluded that she had breached her duties as a director to act with due care and diligence. By failing to ensure compliance with the Articles and disregarding the plaintiff's interests as a shareholder, her conduct formed part of the broader oppressive environment that justified a winding-up order."
+      "Issue": "Whether a minority shareholder can independently initiate a counterclaim for directors' contravention of management obligations",
+      "Rule": "A minority shareholder must obtain court approval to initiate a derivative action on behalf of the company",
+      "Application": "It had the right to bring a counterclaim without court approval. only the company could seek redress for directors' actions",
+      "Judicial_Reasoning_Log": "The court held that Kiyue Co Ltd lacked the standing to bring a counterclaim without court approval."
     },
-    "Label": "Liable",
+    "Label": "Claim Dismissed",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Suit No 758 of 2017",
-      "Coram": "High Court — Suit No 758 of 2017",
-      "Judge": "Chua Lee Ming J",
-      "Date": "2020-10-08",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Case_Number": "OS 1115/2002 (Counterclaim)",
+      "Coram": "Kan Ting Chiu J",
+      "Judge": "Kan Ting Chiu J",
+      "Date": "2003-03-22",
+      "Tribunal_Court": "High Court"
     },
     "Party_Details": {
       "Role": "Defendant",
-      "Name": "Ng Jin Ping Eugene",
-      "Law_Firm": "Ong Ying Ping Esq",
+      "Name": "Ng Heng Liat",
+      "Law_Firm": "Engelin Teh Practice LLC",
       "Counsel": [
-        "Ong Ying Ping",
-        "Chua Kok Siong Kenneth"
+        "Harish Kumar"
       ],
       "Facts": [
         {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2002-01-01",
+          "Text": "Ng Heng Liat is a director of Aquagen International Pte Ltd"
+        },
+        {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2014-09-01",
-          "Text": "Ng Jin Ping Eugene was appointed as a director of Teelek Realty in September 2014."
+          "Fact_Date": "2002-01-01",
+          "Text": "Ng Heng Liat served as a director of Aquagen International Pte Ltd"
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-07-28",
-          "Text": "Eugene received one share in the company from his mother and joined the board decision that approved the transfer."
+          "Fact_Date": "2002-07-29",
+          "Text": "Ng Heng Liat was one of the plaintiffs who objected to AIPL's participation in the arbitration proceedings"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2002-07-29",
+          "Text": "Kiyue Co Ltd issued a notice on 29 July 2002 under s 216A of the Companies Act to the directors of AIPL, and Ng Heng Liat was one of those directors"
         }
       ],
-      "Issue": "Whether a director's participation in board decisions involving disputed share transfers and financial reclassifications aligns with fiduciary duties and the company's constitution.",
-      "Rule": "Directors must ensure that corporate actions, such as share transfers, are carried out in accordance with the company's constitution.",
-      "Application": "A daughter and son joined the company's board and participated in approving share transfers from their mother to themselves. These transfers were challenged by the co-founder (their father) as an improper bypass of his pre-emption rights. The legal tension involves whether the children, as directors, failed in their oversight duties by permitting these transfers and the concurrent reclassification of company funds.",
-      "Judicial_Reasoning_Log": "The court held that the transfer of one share to Eugene was invalid for non-compliance with the Articles of Association. Similar to his sister, Eugene was found to be a largely passive director. However, the court concluded that this passivity constituted a breach of his duty to act in the company's interests and with due care. The court treated the invalid transfers and his failure to protect the plaintiff's shareholder interests as part of the oppressive conduct under section 216."
+      "Issue": "Whether directors can seek a declaration of compliance with management obligations without a pending action against them",
+      "Rule": "Directors may seek a declaration of compliance with their duties if there is a reasonable apprehension of legal action",
+      "Application": "They acted within their management obligations by opposing arbitration participation. the plaintiffs' actions were not in the company's best interest",
+      "Judicial_Reasoning_Log": "The court found that the plaintiffs were entitled to seek a declaration as there was no pending action against them."
     },
-    "Label": "Liable",
+    "Label": "Not Liable",
     "Leakage_Score": 0
   }
 ]

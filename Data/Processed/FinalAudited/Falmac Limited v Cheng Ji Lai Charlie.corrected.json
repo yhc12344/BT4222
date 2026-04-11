@@ -3,9 +3,9 @@
     "Metadata": {
       "Case_Number": "Suit No 935 of 2009",
       "Coram": "Belinda Ang Saw Ean J",
-      "Judge": "Belinda Ang Saw Ean",
+      "Judge": "Belinda Ang Saw Ean J",
       "Date": "2013-05-23",
-      "Tribunal_Court": "High Court of Singapore"
+      "Tribunal_Court": "High Court"
     },
     "Party_Details": {
       "Role": "Plaintiff",
@@ -16,210 +16,25 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
+          "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2011-08-22",
-          "Text": "Falmac Limited was a Catalist Sponsor-supervised company before it was de-listed by the Singapore Exchange Securities Trading Ltd."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2004-10-27",
-          "Text": "On 2004-10-27, Falmac Limited issued 44,975,120 ordinary shares of $0.01 each at par for cash for an aggregate cash consideration of $1,700,000 to reduce amounts owing to creditor banks and to pay professional fees related to a restructuring."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2004-10-27",
-          "Text": "On 2004-10-27, Falmac Limited issued 34,448,000 ordinary shares of $0.01 each at an issue price of $0.311 per share as settlement for partial outstanding loans of $10,713,430 owing by Falmac Limited and its group to creditor banks."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2004-10-27",
-          "Text": "On 2004-10-27, creditor banks holding conversion shares in Falmac Limited undertook not to dispose of any conversion shares for six months and not to dispose of more than 25% of their conversion shares for 12 months from that date."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2004-10-27",
-          "Text": "As of 2004-10-27, debts owing by Falmac Limited and its group to creditor banks amounting to approximately $10.7 million were capitalised into new ordinary shares in Falmac Limited."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2005-12-31",
-          "Text": "As of 2005-12-31, Falmac Limited had a remaining balance of about $4.1 million and $3.9 million owing to creditor banks, to be repaid by disposal of assets in Singapore and by restructuring $3.9 million into a restructured loan repayable by 12 equal quarterly instalments over three years."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2006-02-20",
-          "Text": "On 2006-02-20, creditor banks demanded repayment from Falmac Limited of the entire restructured loan together with interest amounting to about $3.97 million after Falmac Limited defaulted on three repayment instalments and had a shortfall of $250,000 from planned asset sales."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2006-12-31",
-          "Text": "Falmac Limited's financial statements for the year ended 2006-12-31 disclosed defaults in payments under certain indebtedness agreements."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2007-12-31",
-          "Text": "Falmac Limited's financial statements for the year ended 2007-12-31 disclosed defaults in payments under certain indebtedness agreements."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2005-12-31",
-          "Text": "Auditors' notes to Falmac Limited's financial statements dated 2005-12-31 recorded that the company was renegotiating with creditor banks for a revised bank borrowings repayment scheme."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2005-12-31",
-          "Text": "As of 2005-12-31 and in subsequent years, the current liabilities of Falmac Limited and its subsidiaries exceeded their current assets, and auditors in Singapore expressed difficulty in supporting a going concern basis for the company and its subsidiaries."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2008-12-31",
-          "Text": "By 2008-12-31, Falmac Limited's business operations were mainly carried out in Tianjin, People’s Republic of China, through two subsidiaries, Falmac Machinery (Tianjin) Ltd and Falmac Textile (Tianjin) Co Ltd, each owning a factory in Tianjin."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-12-31",
-          "Text": "As of 2008-12-31, Falmac Limited and its Tianjin subsidiaries had significant liabilities and were described as debt-ridden and loss-making businesses."
-        },
-        {
-          "Fact_Type": "RELATED_PARTY_EVENT",
-          "Fact_Date": "2008-12-31",
-          "Text": "Creditor banks assigned all their interests and rights in relation to Falmac Limited's bank loans to Business Corporate Services Pte Ltd, making Business Corporate Services Pte Ltd a 16.5% shareholder and a substantial creditor with an outstanding loan of approximately S$4.5 million."
+          "Text": "Falmac Limited's business operations were mainly carried out in Tianjin, China, through subsidiaries"
         },
         {
           "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-03-09",
-          "Text": "On 2009-03-09, Falmac Limited announced the execution of a contract dated 2009-03-08 with CNMC Goldmine Limited to acquire all shares in CNMC Goldmine Limited."
+          "Fact_Date": "2009-09-01",
+          "Text": "Leon Zhao was appointed as the legal representative of the Tianjin subsidiaries on 2009-09-01"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-12-22",
-          "Text": "On 2009-12-22, Falmac Limited applied to the Singapore Exchange Securities Trading Ltd for an extension of time until 2011-04-30 to submit a resumption proposal for trading of its shares."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-05-21",
-          "Text": "Falmac Limited intended to divest its shareholding in its Tianjin subsidiaries and to write off the investment costs of the Tianjin subsidiaries."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2011-07-11",
-          "Text": "Falmac Limited signed a memorandum of understanding with Unitex Global Limited for the disposal of Falmac Limited's shareholding in its Tianjin subsidiaries."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-12-24",
-          "Text": "Falmac Limited entered into a sale and purchase agreement with Unitex Global Limited to dispose of 100% equity interest in its Tianjin subsidiaries for an aggregate consideration of S$2, subject to shareholders' approval, completion of acquisition of CNMC Goldmine Limited, and resumption of trading of Falmac Limited's shares."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-04-28",
-          "Text": "Falmac Limited and CNMC Goldmine Limited agreed to extend the long-stop date under their contract from 2010-12-31 to 2011-03-31 with an option to extend further to 2011-06-30."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-12-31",
-          "Text": "The new board of Falmac Limited held a meeting at which the chairman informed the board that the Tianjin subsidiaries had defaulted on loans to Avenue Asia Mauritius Ltd and Agricultural Bank of China and proposed rationalising the textile businesses, including disposal of loss-making subsidiaries in China."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-12-31",
-          "Text": "Falmac Machinery (Tianjin) Ltd owed approximately RMB12.1 million to Avenue Asia Mauritius Limited, which had obtained a judgment and begun selling assets including two staff apartments in Tianjin."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2005-12-31",
-          "Text": "Falmac Textile (Tianjin) Co Ltd owed approximately RMB19.2 million to Agricultural Bank of China, and its factory was locked up by Agricultural Bank of China."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-08-17",
-          "Text": "Auditors' notes to Falmac Limited's financial statements recorded that a core part of the restructuring plan was a debt conversion to reduce current liabilities and immediate cash requirements."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-08-18",
-          "Text": "An article about Falmac Limited and its former chief executive officer appeared in The Edge Singapore magazine, and on the same day a trading halt was called on Falmac Limited's shares."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-08-19",
-          "Text": "The Singapore Exchange Securities Trading Ltd requested Falmac Limited to clarify statements in the article published in The Edge Singapore magazine."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-08-21",
-          "Text": "Falmac Limited's former chief executive officer sent a response to the Singapore Exchange Securities Trading Ltd regarding the article in The Edge Singapore magazine."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-01-07",
-          "Text": "Trading of Falmac Limited's shares was suspended after the three-day trading halt period."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-12-01",
-          "Text": "Falmac Limited published a notice in The Straits Times stating that the appointment of Leon Zhao as legal representative of its Tianjin subsidiaries was unauthorised."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2010-10-29",
-          "Text": "Falmac Limited, as 100% shareholder of its Tianjin subsidiaries, passed two shareholder resolutions removing Leon Zhao as legal representative of the Tianjin subsidiaries and appointing Pua Yeow Seng as legal representative."
-        },
-        {
-          "Fact_Type": "CONDUCT",
+          "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2009-10-20",
-          "Text": "Falmac Limited's new board caused a Singapore Exchange announcement stating that the appointment of Leon Zhao as legal representative of the Tianjin subsidiaries was unauthorised."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-10-20",
-          "Text": "Choo and Kuan, as representatives of Falmac Limited, travelled to Tianjin to visit the factories of the Tianjin subsidiaries and to obtain financial records for preparation of Falmac Limited's consolidated financial statements."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2009-07-09",
-          "Text": "Choo and Kuan were not allowed to enter the Falmac Textile (Tianjin) Co Ltd factory by a security guard at the entrance and then proceeded to visit the Falmac Machinery (Tianjin) Ltd factory."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2009-07-30",
-          "Text": "The former board of Falmac Limited passed a resolution to transfer the entire equity in the Tianjin subsidiaries to Sino Vision (HK) Ltd by way of converting debts for shares in the Tianjin subsidiaries."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2009-07-30",
-          "Text": "Falmac Limited entered into two Equity Transfer Agreements with Sino Vision (HK) Ltd to transfer Falmac Limited's shares in each of the Tianjin subsidiaries to Sino Vision (HK) Ltd, with Article 7 providing that formalities to effect the transfer, including corporate approvals and registration, were to be completed within 12 months."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2011-08-18",
-          "Text": "The Equity Transfer Agreements between Falmac Limited and Sino Vision (HK) Ltd were signed on behalf of Falmac Limited by independent director Yu Wei Ying."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2009-12-14",
-          "Text": "Falmac Limited's Chinese counsel inspected records at the Commercial and Industrial Bureau of Tianjin and observed entries showing Sino Vision (HK) Ltd as shareholder of the Tianjin subsidiaries with a registration date of 2011-08-18."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2011-07-11",
-          "Text": "The new board of Falmac Limited passed a resolution to divest the Tianjin subsidiaries, subject to shareholders' approval."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2009-03-20",
-          "Text": "Falmac Limited issued a Singapore Exchange announcement stating that Avenue Asia Mauritius Limited had obtained judgment against Falmac Machinery (Tianjin) Ltd and that Agricultural Bank of China had locked up the factory of Falmac Textile (Tianjin) Co Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2011-08-22",
-          "Text": "Falmac Limited announced that its board intended to divest all ex-Singapore businesses as part of a restructuring plan associated with a proposed reverse takeover."
+          "Text": "Access to the Tianjin factories"
         }
       ],
-      "Issue": "Whether a former chief executive officer breaches fiduciary duties and contributes to the loss of corporate assets and de-listing through corporate decisions on foreign legal representation, the execution of conditional equity transfer agreements, and statements leading to a trading suspension.",
-      "Rule": "Directors are legally bound to act in good faith and with reasonable diligence in the company's best interests. Under section 160(1) of the Companies Act, directors cannot carry into effect proposals to dispose of the whole or substantially the whole of a company's undertaking or property without prior shareholder approval in a general meeting. Liability for corporate loss requires establishing a direct causal link between the director's conduct and the prejudice suffered.",
-      "Application": "Falmac Limited, while in severe financial distress and pursuing a reverse takeover, entered into conditional Equity Transfer Agreements (ETAs) to divest its Tianjin subsidiaries for a nominal sum. These ETAs required corporate approvals and registration within 12 months. Additionally, the CEO signed letters appointing a successor legal representative in China. Following a magazine article containing statements by the CEO, trading of the company's shares was suspended by the SGX-ST. The company eventually faced de-listing after its subsequent resumption proposals were rejected by regulators. The subsidiaries in China were simultaneously subject to enforcement actions by local creditor banks, including the physical locking up of factories.",
-      "Judicial_Reasoning_Log": "Liability for a breach of fiduciary duty requires distinct proof of dishonesty or disloyalty, which is not automatically established by procedural regulatory infractions like delayed AGMs or filings. The execution of a conditional agreement for the transfer of equity does not constitute 'carrying into effect' a disposal under section 160 if the necessary shareholder approvals remain unfulfilled. Regarding the loss of listed status, a director's statements are not the proximate cause of de-listing if the regulatory outcome is driven by the company's own inability to meet the complex due diligence requirements for a reverse takeover. Furthermore, a failure to access physical assets in a foreign jurisdiction is attributable to the enforcement of valid bank security rather than a director's interference. Therefore, in the absence of proven disloyalty or a established causal link between the director's pre-dispute conduct and the company's subsequent financial collapse, the claims must be dismissed."
+      "Issue": "Whether a director can be held legally responsible for unauthorized changes in company representation leading to loss of control over subsidiaries",
+      "Rule": "Directors must act in the best interest of the company and ensure that any significant changes in company representation are authorized by the board",
+      "Application": "The appointment was approved by the former board",
+      "Judicial_Reasoning_Log": "The court found that Falmac did not establish that the appointment of Leon Zhao was unlawful or that D2 retained control over the subsidiaries."
     },
     "Label": "Claim Dismissed",
     "Leakage_Score": 0
@@ -228,9 +43,9 @@
     "Metadata": {
       "Case_Number": "Suit No 935 of 2009",
       "Coram": "Belinda Ang Saw Ean J",
-      "Judge": "Belinda Ang Saw Ean",
+      "Judge": "Belinda Ang Saw Ean J",
       "Date": "2013-05-23",
-      "Tribunal_Court": "High Court of Singapore"
+      "Tribunal_Court": "High Court"
     },
     "Party_Details": {
       "Role": "Defendant",
@@ -241,62 +56,97 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
+          "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2004-10-27",
-          "Text": "On 2004-10-27, Cheng Ji Lai Charlie was appointed a director of Falmac Limited."
+          "Text": "Cheng Ji Lai Charlie was appointed as a director of Falmac Limited"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2004-12-15",
-          "Text": "On 2004-12-15, Cheng Ji Lai Charlie was appointed Chief Executive Officer of Falmac Limited."
+          "Text": "Cheng Ji Lai Charlie was appointed as the Chief Executive Officer of Falmac Limited"
         },
         {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2004-10-27",
-          "Text": "According to his account, Cheng Ji Lai Charlie was introduced into Falmac Limited by director Fei Xue Jun in 2004 when Falmac Limited required capital injection and loan restructuring."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Type": "CHRONOLOGY",
           "Fact_Date": "2009-07-20",
-          "Text": "On 2009-07-20, Cheng Ji Lai Charlie resigned as Chief Executive Officer of Falmac Limited with immediate effect."
+          "Text": "Cheng Ji Lai Charlie resigned as the Chief Executive Officer of Falmac Limited"
         },
         {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2009-10-05",
-          "Text": "On 2009-10-05, Cheng Ji Lai Charlie was removed as a director of Falmac Limited at an Extraordinary General Meeting."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Type": "CONDUCT",
           "Fact_Date": "2009-09-01",
-          "Text": "On 2009-09-01, Cheng Ji Lai Charlie ceased to be the legal representative of Falmac Machinery (Tianjin) Ltd and Falmac Textile (Tianjin) Co Ltd, and Leon Zhao was appointed as legal representative of both Tianjin subsidiaries."
+          "Text": "Cheng Ji Lai Charlie signed Falmac's letters of appointment approving Leon Zhao's appointment as the legal representative of the Tianjin subsidiaries"
         },
         {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2009-09-01",
-          "Text": "On 2009-09-01, Falmac Limited issued letters of appointment, signed by Cheng Ji Lai Charlie, approving the appointment of Leon Zhao as legal representative of its Tianjin subsidiaries."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2009-10-13",
-          "Text": "On 2009-10-13, the Commerce Commission of Ninghe approved the change of legal representative of the Tianjin subsidiaries from Cheng Ji Lai Charlie to Leon Zhao."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2009-07-09",
-          "Text": "On 2009-07-09, the former board of Falmac Limited, including Cheng Ji Lai Charlie, passed a resolution to transfer the entire equity in the Tianjin subsidiaries to Sino Vision (HK) Ltd by way of converting debts for shares."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2009-07-30",
-          "Text": "On 2009-07-30, Falmac Limited entered into two Equity Transfer Agreements with Sino Vision (HK) Ltd to transfer its shares in each Tianjin subsidiary, with Article 7 providing that formalities to effect the transfer, including corporate approvals and registration, were to be completed within 12 months."
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2009-10-19",
+          "Text": "On 2009-10-19, Cheng Ji Lai Charlie told the auditors that he had resigned in September 2009 as chairman of the board of directors of both Tianjin subsidiaries and no longer held any appointment in either company"
         }
       ],
-      "Issue": "Whether a director/CEO breaches his duty of diligence and loyalty by executing conditional equity transfers for loss-making subsidiaries and appointing a successor legal representative during a company's financial restructuring.",
-      "Rule": "A director's fiduciary obligation is to act bona fide in the company's best interests. This requires specific pleading and cogent evidence of dishonesty for liability to attach. Directors also have a statutory right under section 199 to access corporate records and may reasonably refuse to sign financial statements if denied such access. Procedural delays in regulatory compliance do not, in the absence of disloyalty, constitute an actionable breach of fiduciary duty.",
-      "Application": "Cheng Ji Lai Charlie managed the company during a period of debt distress and supported a reverse takeover strategy that involved divesting loss-making Chinese subsidiaries. He signed conditional transfer agreements for these subsidiaries and authorized the appointment of a new legal representative in China, whose role was subsequently approved by the relevant local commerce commission. Following his resignation, physical access to these subsidiaries was hindered by the enforcement actions of a Chinese bank. He also declined to sign the company's 2008 accounts, maintaining that he had been denied access to the underlying source documents required for verification.",
-      "Judicial_Reasoning_Log": "The appointment of a successor legal representative, when properly documented by subsidiary boards and approved by local regulatory commissions, is prima facie a legitimate corporate action. Fiduciary liability cannot be established based on suspicions of 'nominee control' without direct evidence of a director's continued de facto management after their removal. Causal responsibility for the failure to access corporate property is not establishable where the assets have been locked up by a secured creditor bank following loan defaults. Furthermore, the signing of conditional agreements that require subsequent shareholder approval and registration within a fixed window does not violate statutory disposal rules if the director is removed before the implementation of the transfer. Refusing to certify financial statements without access to original records is a reasonable exercise of a director's duties rather than a breach of care. Absent established dishonesty or proven pecuniary loss resulting from regulatory delays, the director is not liable for corporate outcomes driven by independent financial and regulatory factors."
+      "Issue": "Whether a director is legally responsible for unauthorized appointments that result in loss of company control",
+      "Rule": "A director must ensure that all appointments and changes in company representation are authorized by the board and comply with legal requirements",
+      "Application": "The appointment of Leon Zhao was approved by the former board and was not unlawful. the appointment was unauthorized and led to loss of control",
+      "Judicial_Reasoning_Log": "The court concluded that the Plaintiff did not prove that the appointment was unauthorized or that the Defendant retained control over the subsidiaries."
     },
     "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 935 of 2009 (Counterclaim)",
+      "Coram": "Belinda Ang Saw Ean J",
+      "Judge": "Belinda Ang Saw Ean J",
+      "Date": "2013-05-23",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Cheng Ji Lai Charlie",
+      "Law_Firm": "KhattarWong LLP",
+      "Counsel": [
+        "Harpal Singh"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2009-01-01",
+          "Text": "Falmac had not paid the salary owed to Cheng Ji Lai Charlie for the period from 1 January 2009 to 20 July 2009"
+        }
+      ],
+      "Issue": "Whether a former director is entitled to unpaid salary and fees after resignation",
+      "Rule": "A director is entitled to compensation for services rendered unless otherwise stipulated in the employment contract",
+      "Application": "Cheng Ji Lai Charlie's employment contract provided for salary, and Falmac's records later showed that the salary remained unpaid",
+      "Judicial_Reasoning_Log": "The court accepted that Cheng Ji Lai Charlie's remuneration was payable but not paid, relying on the employment contract, annual reports, management accounts, and IRAS correspondence."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 935 of 2009 (Counterclaim)",
+      "Coram": "Belinda Ang Saw Ean J",
+      "Judge": "Belinda Ang Saw Ean J",
+      "Date": "2013-05-23",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Falmac Limited",
+      "Law_Firm": "Winston Quek & Co",
+      "Counsel": [
+        "Winston Quek Seng Soon"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2004-12-15",
+          "Text": "Falmac entered into an employment contract with D2 on 2004-12-15, appointing him as Chief Executive Officer and providing a gross salary of S$280,000 per annum"
+        }
+      ],
+      "Issue": "Whether a company is legally responsible for paying a former director's claimed unpaid salary and fees",
+      "Rule": "A company is obligated to fulfill contractual payment obligations unless there is a valid reason for withholding payment",
+      "Application": "The Plaintiff by counterclaim was not entitled to further payments post-resignation. payments were due for services rendered",
+      "Judicial_Reasoning_Log": "The court found no contractual obligation for Falmac Limited to pay the claimed amounts post-resignation."
+    },
+    "Label": "Liable",
     "Leakage_Score": 0
   }
 ]

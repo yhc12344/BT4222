@@ -3,171 +3,43 @@
     "Metadata": {
       "Case_Number": "Suit No 545 of 2021",
       "Coram": "Hoo Sheau Peng J",
-      "Judge": "Hoo Sheau Peng",
+      "Judge": "Hoo Sheau Peng J",
       "Date": "2024-02-13",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
     },
     "Party_Details": {
       "Role": "Plaintiff",
       "Name": "Farzin Ratan Karma",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Jimmy Yap & Co",
+      "Counsel": [
+        "Hoo Sheau Peng Judge of the High Court Yap Neng Boo Jimmy"
+      ],
       "Facts": [
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2003-01-01",
-          "Text": "Around 2003, Farzin Ratan Karma met Helen Campos while he was Regional Technical Director of Ulysess System (Singapore) Pte Ltd, a computer software and management company that was being advised by a law firm where she worked."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2003-01-01",
-          "Text": "In 2003, Farzin Ratan Karma held the position of Regional Technical Director at Ulysess System (Singapore) Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2006-10-01",
-          "Text": "Around October 2006, after ELTICI Corporate Services Pte Ltd decided to sell its corporate secretarial practice and Helen Campos decided to leave, Farzin Ratan Karma provided support and assistance to her in connection with her departure and the setting up of a new business, including logistics, dealing with movers and contractors, and setting up an IT network system."
-        },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2006-12-12",
-          "Text": "On 2006-12-12, Farzin Ratan Karma was appointed a director of MC Corporate Services Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2007-06-09",
-          "Text": "On 2007-06-09, Farzin Ratan Karma was appointed as a signatory for MC Corporate Services Pte Ltd's bank account with United Overseas Bank Limited."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-02-19",
-          "Text": "On 2008-02-19, Farzin Ratan Karma acquired 35,000 shares in MC Corporate Services Pte Ltd, representing a 35% shareholding."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008-01-01",
-          "Text": "By 2008, Farzin Ratan Karma provided at least minimal contributions to the starting up and running of MC Corporate Services Pte Ltd and MC Accounting Services Pte Ltd, including secondary matters such as logistics and IT setup."
+          "Text": "Farzin Ratan Karma was appointed a director of MC Corporate Services Pte Ltd"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2009-04-21",
-          "Text": "On 2009-04-21, Farzin Ratan Karma was appointed a director of MC Accounting Services Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2009-04-21",
-          "Text": "On 2009-04-21, Farzin Ratan Karma acquired 805 shares in MC Accounting Services Pte Ltd, representing a 35% shareholding."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2009-04-23",
-          "Text": "On 2009-04-23, Farzin Ratan Karma ceased to hold his 35% shareholding in MC Accounting Services Pte Ltd and ceased to be a director of that company."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2010-09-17",
-          "Text": "On 2010-09-17, Farzin Ratan Karma regained a 35% shareholding in MC Accounting Services Pte Ltd amounting to 805 shares."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2013-02-25",
-          "Text": "On 2013-02-25, Farzin Ratan Karma was appointed again as a director of MC Accounting Services Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2013-01-18",
-          "Text": "On 2013-01-18, Farzin Ratan Karma incorporated Farohar Enterprizes, a management consultancy company, and became its sole director and shareholder."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2013-01-01",
-          "Text": "In 2013, Farzin Ratan Karma left his employment with Ulysess System (Singapore) Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-01-01",
-          "Text": "A Directors' Agreement dated 2014-01-01 was prepared to govern the relationship between Farzin Ratan Karma and Helen Campos and their financial entitlements in relation to MC Corporate Services Pte Ltd, MC Accounting Services Pte Ltd, HC Consultancy Pte Ltd, and Farohar Enterprizes."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-04-23",
-          "Text": "On 2014-04-23, Farzin Ratan Karma and Helen Campos signed the Directors' Agreement, which included terms on remuneration, a lump sum payment of S$350,000 from Helen Campos to Farzin Ratan Karma, and apportionment of billings via HC Consultancy Pte Ltd and Farohar Enterprizes."
+          "Text": "Farzin Ratan Karma was appointed a director of MC Accounting Services Pte Ltd"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2014-04-23",
-          "Text": "On 2014-04-23, under the Directors' Agreement, Helen Campos agreed to pay S$350,000 to Farzin Ratan Karma in full and final settlement of possible outstanding business matters including salary, consultancy fees, claims, and dividends among the MC group for the period January 2007 to December 2013."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017-11-02",
-          "Text": "As of 2017-11-02, the accounts of MC Corporate Services Pte Ltd and MC Accounting Services Pte Ltd recorded that Farzin Ratan Karma owed a total of S$546,015.76 to those companies."
+          "Text": "The Directors’ Agreement provided for Helen Campos to pay Farzin Ratan Karma a lump sum of S$350,000 in settlement of possible claims or liabilities"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2017-11-02",
-          "Text": "On 2017-11-02, Farzin Ratan Karma and Helen Campos entered into a Waiver Agreement under which the recorded debt of S$546,015.76 owed by him to MC Corporate Services Pte Ltd and MC Accounting Services Pte Ltd was waived."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2020-01-10",
-          "Text": "On 2020-01-10, MC Corporate Services Pte Ltd and Farohar Enterprizes entered into Rose's Salary Agreement, under which an employee of MC Corporate Services Pte Ltd, Asis Rose Dela Rosa, would spend part of her working hours providing services to Farohar Enterprizes in exchange for a monthly payment of S$1,700 from Farohar Enterprizes to MC Corporate Services Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2020-01-10",
-          "Text": "Under Rose's Salary Agreement dated 2020-01-10, Farohar Enterprizes was to pay MC Corporate Services Pte Ltd S$1,700 per month for services rendered by employee Asis Rose Dela Rosa, with the arrangement terminable on one month's written notice or when she was no longer on assignment with Farohar Enterprizes."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2020-12-01",
-          "Text": "Up to 2020-12-01, Farohar Enterprizes made monthly payments of S$1,700 to MC Corporate Services Pte Ltd under Rose's Salary Agreement."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2021-01-01",
-          "Text": "From 2021-01-01 to 2021-07-01, Farohar Enterprizes did not pay the monthly S$1,700 amounts to MC Corporate Services Pte Ltd under Rose's Salary Agreement."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2019-02-28",
-          "Text": "On 2019-02-28, Farzin Ratan Karma sent an email to Helen Campos stating that she had booked S$360,000 as her salary without supporting documentation and approval from the board and without an employment agreement signed by him, and he referred to his own salary claims and the absence of officially agreed directors' fees or salaries."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2021-02-01",
-          "Text": "On 2021-02-01, Farzin Ratan Karma emailed Asis Rose Dela Rosa stating that there would be no change in the work he assigned to her unless he instructed otherwise."
-        },
-        {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2021-02-24",
-          "Text": "On 2021-02-24, after receiving an email from Helen Campos requesting payment of Farohar Enterprizes' share of Rose's salary, Farzin Ratan Karma responded that he was owed more by MC Corporate Services Pte Ltd than the monthly payment due from Farohar Enterprizes."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2019-07-17",
-          "Text": "On 2020-07-17, at an extraordinary general meeting of MC Corporate Services Pte Ltd and MC Accounting Services Pte Ltd, directors including Chris Allix and Madadevan Lukshumayeh appointed Helen Campos as General Manager of both companies."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2019-11-08",
-          "Text": "On 2019-11-08, an extraordinary general meeting of MC Corporate Services Pte Ltd and MC Accounting Services Pte Ltd was held at which Dr Theyvendran s/o Ramanathan was appointed a director of both companies."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2020-06-29",
-          "Text": "On 2020-06-29, Helen Campos requisitioned an extraordinary general meeting of MC Corporate Services Pte Ltd and MC Accounting Services Pte Ltd to appoint Chris Allix as director and Madadevan Lukshumayeh as alternate director for Dr Theyvendran."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2022-02-01",
-          "Text": "After the February 2022 rights share allotments, Farzin Ratan Karma's shareholding in MC Corporate Services Pte Ltd was reduced to 5% and his shareholding in MC Accounting Services Pte Ltd was reduced to 0.013%."
+          "Fact_Date": "2014-04-23",
+          "Text": "Farzin Ratan Karma and Helen Campos entered into the Directors’ Agreement"
         }
       ],
-      "Issue": "Whether, based on pre-dispute conduct and corporate arrangements, the plaintiff minority shareholder experienced commercially prejudicial treatment in relation to director remuneration, allocation of business and revenues among related entities, and rights issues affecting his shareholding in MC Corporate Services Pte Ltd and MC Accounting Services Pte Ltd.",
-      "Rule": "In minority shareholder disputes, courts assess whether conduct departs from standards of fair dealing and violates conditions of fair play that shareholders are entitled to expect, having regard to the company constitution, any shareholder agreements, and objectively ascertainable expectations arising from the commercial relationship, with closer scrutiny where a company operates as a quasi-partnership.",
-      "Application": "The plaintiff held 35% shareholdings and directorships in MC Corporate Services Pte Ltd and MC Accounting Services Pte Ltd, participated in a 2014 Directors' Agreement that fixed a lump-sum settlement for pre-2014 financial matters and set out revenue-sharing and remuneration structures, and later entered into a 2017 Waiver Agreement addressing recorded debts. He also used his personal company Farohar Enterprizes in arrangements such as Rose's Salary Agreement and received revenue allocations under the Directors' Agreement. Subsequent rights issues were notified to him with specific dates and amounts, and he chose not to subscribe, resulting in dilution of his shareholdings. These events frame the commercial context in which his expectations about remuneration, revenue allocation, and shareholding stability must be evaluated against the written agreements and corporate actions taken before the dispute.",
-      "Judicial_Reasoning_Log": "To establish a quasi-partnership, there must be mutual trust and an informal understanding at incorporation. Where companies are incorporated by a single individual who retains control over the entry and exit of shareholders and directors, the equitable considerations of a quasi-partnership do not apply. The relationship is governed strictly by legal rights and legitimate expectations derived from the constitution and formal agreements. A signed Directors' Agreement that contains a full and final settlement clause bars subsequent challenges to historical salary drawings and revenue allocations. Post-agreement handwritten amendments require mutual consent, evidenced by countersignatures, to be operative. A fixed monthly salary drawn by a majority shareholder who generates the bulk of the billings is not commercially unfair or oppressive, even if technical inconsistencies with the articles exist. Revenue-sharing mechanisms that allocate percentages of billings through personal companies do not constitute an oppressive diversion of business if authorized by the directors' agreement and implemented consistently. When a company faces genuine cash flow constraints, a rights issue priced according to realistic budgets and offering a reasonable subscription period is a bona fide capital-raising exercise. The resulting dilution of a minority shareholder who chooses not to subscribe does not amount to oppression. Conversely, a director breaches fiduciary duties by causing the company to enter into a service agreement with their own personal entity and subsequently failing to ensure that the personal entity honors its payment obligations. Such conduct constitutes a conflict of interest and causes actionable loss to the company, rendering the director liable to make equitable compensation."
+      "Issue": "Whether the actions of the majority shareholder in conducting rights issues and drawing salaries were commercially unfair to the minority shareholder",
+      "Rule": "A shareholder's legitimate expectations are determined by the company's constitution and any agreements between shareholders",
+      "Application": "The rights issues were a mala fide exercise to dilute his shares and that the Defendant's salaries were improperly drawn. the rights issues were necessary due to cash flow issues and that the salaries were justified",
+      "Judicial_Reasoning_Log": "The court found that the rights issues were justified due to the companies' financial needs and that the drawing of salaries was consistent with the Directors’ Agreement."
     },
     "Label": "Claim Dismissed",
     "Leakage_Score": 0
@@ -176,344 +48,122 @@
     "Metadata": {
       "Case_Number": "Suit No 545 of 2021",
       "Coram": "Hoo Sheau Peng J",
-      "Judge": "Hoo Sheau Peng",
+      "Judge": "Hoo Sheau Peng J",
       "Date": "2024-02-13",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
       "Name": "Helen Campos",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Law_Firm": "Rajah & Tann Singapore LLP",
+      "Counsel": [
+        "Vikram Nair",
+        "Ashwin Kumar Menon"
+      ],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2003-01-01",
-          "Text": "In 2003, Helen Campos was working at a law firm whose practice included providing corporate secretarial services."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2005-01-01",
-          "Text": "By 2005, Helen Campos had left the law firm and became a shareholder and managing director of ELTICI Corporate Services Pte Ltd's corporate secretarial practice."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2006-10-01",
-          "Text": "Around October 2006, after ELTICI Corporate Services Pte Ltd decided to sell its corporate secretarial practice, Helen Campos decided to leave that company."
-        },
-        {
-          "Fact_Type": "CONDUCT",
           "Fact_Date": "2006-11-28",
-          "Text": "On 2006-11-28, Helen Campos incorporated MC Corporate Services Pte Ltd as a corporate services company."
+          "Text": "Helen Campos incorporated MC Corporate Services Pte Ltd"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2006-11-28",
-          "Text": "On 2006-11-28, Helen Campos became the sole director and sole shareholder of MC Corporate Services Pte Ltd upon its incorporation."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008-01-29",
-          "Text": "On 2008-01-29, Helen Campos incorporated MC Accounting Services Pte Ltd to provide accounting services."
+          "Text": "Helen Campos was the sole shareholder and director of MC Corporate Services Pte Ltd at incorporation"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2008-01-29",
-          "Text": "On 2008-01-29, Helen Campos became the sole shareholder of MC Accounting Services Pte Ltd upon its incorporation."
+          "Text": "MC Accounting Services Pte Ltd was incorporated on 2008-01-29, and Helen Campos was its sole shareholder at incorporation"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2010-01-01",
-          "Text": "By 2010, Ms Campos retained the remaining 65% shareholding of each company until October 2019, when she transferred one share in each to her son, Andrew Cherian Thomas."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-02-19",
-          "Text": "On 19 February 2008, Mr Karma acquired a 35% shareholding in MCCS (35,000 shares) from Ms Campos."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2009-04-21",
-          "Text": "On 21 April 2009, Mr Karma was appointed a director of MCAS and acquired a 35% shareholding (805 shares). He lost both his shareholding and directorship in MCAS on 23 April 2009."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2010-09-17",
-          "Text": "On 17 September 2010, Mr Karma regained his 35% shareholding in MCAS."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2008-12-23",
-          "Text": "On 23 December 2008, Ms Campos incorporated HC Consultancy Pte Ltd, intending to use it to collect revenue generated from her provision of nominee-director services and other services outside the purview of MCCS or MCAS' business."
+          "Fact_Date": "2014-04-23",
+          "Text": "Helen Campos agreed to pay S$350,000 to Farzin Ratan Karma under the Directors’ Agreement in settlement of possible claims or liabilities"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2014-04-23",
-          "Text": "On 23 April 2014, Ms Campos and Mr Karma entered into the Directors' Agreement, dated 1 January 2014, which provided for remuneration, a lump sum payment of S$350,000, and apportionment of billings."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2014-04-23",
-          "Text": "The Directors' Agreement provided for payment of a lump sum of S$350,000 by Ms Campos to Mr Karma in settlement of any possible claims or liabilities between themselves, MCCS, MCAS, HCCS, or FEL."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2007-01-01",
-          "Text": "From 2007, after the incorporation of MCCS, Ms Campos drew a salary of S$23,000 per month, which was increased to S$30,000 upon the incorporation of MCAS in 2008."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017-03-09",
-          "Text": "On 9 March 2017, Ms Campos was disqualified from acting as a director in or taking part in the management of a company pursuant to s 155A of the Companies Act because she had been a director in three companies that were struck off by the Registrar within a five-year period."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2019-10-01",
-          "Text": "Ms Campos officially resigned from MCCS and MCAS in October 2019, having been granted several extensions of time to resign her directorships by ACRA."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2019-10-01",
-          "Text": "On 8 October 2019, while still disqualified from holding directorships, Ms Campos transferred one share each in MCCS and MCAS to her son, Mr Thomas."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2019-11-08",
-          "Text": "On 8 November 2019, Ms Campos convened an extraordinary general meeting to appoint Dr Theyvendran s/o Ramanathan as a director of MCCS and MCAS."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2020-06-29",
-          "Text": "On 29 June 2020, Ms Campos requisitioned another EGM for the purposes of appointing Mr Allix as a director of MCCS and MCAS, and for Mr Lukshumayeh to be appointed as an alternate director for Dr Theyvendran."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2020-07-17",
-          "Text": "On 17 July 2020, at the EGM, Mr Allix and Mr Lukshumayeh appointed Ms Campos as the General Manager of MCCS and MCAS."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2020-12-29",
-          "Text": "Mr Lukshumayeh was subsequently appointed a director of MCCS and MCAS on 29 December 2020."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2021-02-01",
-          "Text": "On 1 February 2021, Ms Campos was granted leave by the court to act as a director of MCCS and MCAS."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017-11-02",
-          "Text": "As of 2 November 2017, the accounts of MCCS and MCAS showed Mr Karma owing a total debt of S$546,015.76, and Ms Campos and Mr Karma entered into a Waiver Agreement on that date to waive the sum."
+          "Text": "Helen Campos and Farzin Ratan Karma entered into the Directors’ Agreement"
         }
       ],
-      "Issue": "Whether, given the incorporation structure, share transfers, remuneration practices, revenue allocation arrangements, and capital-raising steps implemented by Helen Campos before the dispute, her conduct towards the plaintiff as minority shareholder and co-director created a commercially prejudicial conflict over control, remuneration, and dilution of shareholding.",
-      "Rule": "In assessing minority oppression, courts examine whether controlling shareholders or directors have exercised their powers in a manner that departs from fair dealing and violates legitimate expectations derived from the company constitution, shareholder agreements, and the commercial context, including how remuneration, related-party transactions, and capital-raising are structured and implemented.",
-      "Application": "A company facing cash flow constraints executed a rights issue and maintained a revenue-sharing system. The dispute involves whether these structural measures were used to unfairly dilute a minority shareholder's interest or were necessary for the company’s survival.",
-      "Judicial_Reasoning_Log": "The existence of a quasi-partnership relies on mutual trust and pre-incorporation understandings of shared control. A corporate structure established and wholly controlled by a single founder, where minority shares and directorships are granted and revoked unilaterally, precludes a quasi-partnership. Remuneration and revenue-sharing practices codified in a formal Directors' Agreement are binding and extinguish claims regarding historical financial matters. Without countersigned mutual agreement, unilateral handwritten annotations do not amend such contracts. Drawing a consistent, commensurate salary for generating the majority of corporate billings does not constitute commercially unfair conduct. Routing billings through a personal consultancy firm under an agreed revenue-sharing framework is a legitimate implementation of the contract rather than an oppressive diversion of business. When a company experiences acute cash flow shortages, initiating a rights issue based on objective financial budgets to raise necessary capital is a valid corporate action. Providing the minority shareholder with adequate notice and a reasonable timeframe to subscribe establishes procedural fairness. If the minority shareholder elects not to subscribe, the consequent dilution of their shares is a standard commercial outcome, not minority oppression. A majority shareholder exercising control in accordance with corporate needs and binding agreements incurs no liability for oppression."
+      "Issue": "Whether the majority shareholder's actions in conducting rights issues and drawing salaries were commercially unfair to the minority shareholder",
+      "Rule": "A shareholder's legitimate expectations are determined by the company's constitution and any agreements between shareholders",
+      "Application": "The rights issues were necessary due to cash flow issues and that the salaries were justified. the rights issues were a mala fide exercise to dilute his shares and that the Defendant's salaries were improperly drawn",
+      "Judicial_Reasoning_Log": "The court found that the rights issues were justified due to the companies' financial needs and that the drawing of salaries was consistent with the Directors’ Agreement."
     },
     "Label": "Not Liable",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Suit No 545 of 2021",
+      "Case_Number": "Suit No 545 of 2021 (Counterclaim)",
       "Coram": "Hoo Sheau Peng J",
-      "Judge": "Hoo Sheau Peng",
+      "Judge": "Hoo Sheau Peng J",
       "Date": "2024-02-13",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
     },
     "Party_Details": {
-      "Role": "Defendant",
-      "Name": "MC Corporate Services Pte Ltd",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Role": "Plaintiff",
+      "Name": "Helen Campos",
+      "Law_Firm": "Rajah & Tann Singapore LLP",
+      "Counsel": [
+        "Vikram Nair",
+        "Ashwin Kumar Menon"
+      ],
       "Facts": [
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2006-11-28",
-          "Text": "MC Corporate Services Pte Ltd was incorporated on 2006-11-28 to provide corporate secretarial and general management consultancy services."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2006-11-28",
-          "Text": "On 2006-11-28, MC Corporate Services Pte Ltd was incorporated with Helen Campos as its sole shareholder and director."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2006-12-12",
-          "Text": "On 2006-12-12, Farzin Ratan Karma was appointed a director of MC Corporate Services Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2007-06-09",
-          "Text": "On 2007-06-09, Farzin Ratan Karma was appointed as a signatory for MC Corporate Services Pte Ltd's bank account with United Overseas Bank Limited."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-02-19",
-          "Text": "On 2008-02-19, 35,000 shares in MC Corporate Services Pte Ltd were transferred from Helen Campos to Farzin Ratan Karma, resulting in his 35% shareholding and her 65% shareholding."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-04-23",
-          "Text": "On 2014-04-23, MC Corporate Services Pte Ltd became a party to the Directors' Agreement signed by Helen Campos and Farzin Ratan Karma, which set out director remuneration, a S$350,000 settlement payment, and revenue-sharing arrangements involving HC Consultancy Pte Ltd and Farohar Enterprizes."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017-11-02",
-          "Text": "As of 2017-11-02, the accounts of MC Corporate Services Pte Ltd and MC Accounting Services Pte Ltd showed that Farzin Ratan Karma owed a total of S$546,015.76, which was later waived under a Waiver Agreement."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2017-11-02",
-          "Text": "On 2017-11-02, MC Corporate Services Pte Ltd was a beneficiary of a Waiver Agreement between Helen Campos and Farzin Ratan Karma under which the recorded debt of S$546,015.76 owed by him to MC Corporate Services Pte Ltd and MC Accounting Services Pte Ltd was waived."
-        },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2020-01-10",
-          "Text": "On 2020-01-10, MC Corporate Services Pte Ltd entered into Rose's Salary Agreement with Farohar Enterprizes, under which Asis Rose Dela Rosa would spend some of her working hours providing services to Farohar Enterprizes in exchange for a monthly payment of S$1,700 from Farohar Enterprizes."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2020-12-01",
-          "Text": "Up to December 2020, Farohar Enterprizes paid MC Corporate Services Pte Ltd S$1,700 monthly under Rose's Salary Agreement."
+          "Text": "MCCS entered into an agreement with FEL concerning the salary of Asis Rose Dela Rosa"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
           "Fact_Date": "2021-01-01",
-          "Text": "From January 2021 to July 2021, Farohar Enterprizes did not pay MC Corporate Services Pte Ltd the S$1,700 monthly amount under Rose's Salary Agreement."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2019-11-08",
-          "Text": "On 2019-11-08, an extraordinary general meeting was held to appoint Dr Theyvendran s/o Ramanathan as a director of MC Corporate Services Pte Ltd."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2020-07-17",
-          "Text": "On 2020-07-17, an extraordinary general meeting was held at which Mr Allix and Mr Lukshumayeh were appointed as directors of MC Corporate Services Pte Ltd, and Ms Campos was appointed General Manager."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2020-12-29",
-          "Text": "On 2020-12-29, Mr Lukshumayeh was appointed a director of MC Corporate Services Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2021-10-20",
-          "Text": "On 2021-10-20, an extraordinary general meeting of MC Corporate Services Pte Ltd passed a resolution authorising a rights issue."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2022-02-01",
-          "Text": "In February 2022, MC Corporate Services Pte Ltd allotted shares under the rights issue; Farzin Ratan Karma did not take up the rights issue, and his shareholding in MC Corporate Services Pte Ltd fell from 35% to 5%."
+          "Text": "FEL did not pay MCCS the agreed monthly sum of S$1,700 for Rose's services from January 2021 to July 2021"
         }
       ],
-      "Issue": "Whether the pre-dispute corporate actions and financial arrangements of MC Corporate Services Pte Ltd, including director appointments, revenue-sharing, related-party agreements, and a rights issue, created a neutral structural conflict over funding needs, director conduct, and the plaintiff's shareholding.",
-      "Rule": "Corporate entities may raise capital, enter into related-party agreements, and allocate revenues in accordance with their constitutions and shareholder agreements, and disputes over such actions are evaluated by reference to compliance with those instruments and the commercial rationale for the transactions.",
-      "Application": "MC Corporate Services Pte Ltd was incorporated with a single controlling shareholder and later admitted a minority shareholder-director. It became party to a Directors' Agreement that defined remuneration and revenue-sharing with related entities, and to a Waiver Agreement addressing recorded debts owed by the minority director. It also entered into Rose's Salary Agreement with the minority director's personal company and later implemented a rights issue to address cash flow constraints. These pre-dispute steps set the factual background for the later disagreement over whether the company's funding measures, dealings with the minority director's company, and allocation of revenues were consistent with its constitution and the agreed frameworks.",
-      "Judicial_Reasoning_Log": "A company incorporated and controlled by a single individual does not operate as a quasi-partnership if the structural characteristics of mutual trust and shared control are absent. The company is bound by formal agreements executed by its directors, such as a Directors' Agreement governing remuneration and revenue-sharing, and a Waiver Agreement discharging recorded debts. Implementing a revenue-sharing mechanism where portions of billings are credited back to the company complies with these frameworks and does not constitute an oppressive diversion of corporate opportunities. A service agreement entered into between the company and a director's personal entity remains binding until validly terminated by written notice. The failure of the director's personal entity to make the required monthly payments causes actionable financial loss to the company, and the director's failure to enforce these payments constitutes a breach of fiduciary duty owed to the company. When facing documented cash flow constraints, a rights issue executed with proper notice and pricing is a bona fide capital-raising measure. The consequent dilution of a non-subscribing shareholder is a legitimate commercial result and does not support an oppression claim against the company. The company is entitled to recover losses stemming from the breached service agreement."
+      "Issue": "Whether the director contravened his duty by causing the company to enter into an agreement that was not in its best interest",
+      "Rule": "A director must act in good faith and in the best interests of the company, avoiding conflicts of interest",
+      "Application": "The director caused the company to enter into an agreement with his personal company, which then failed to make payments. the agreement was terminated as Rose ceased working for his company",
+      "Judicial_Reasoning_Log": "The court found that the agreement was not properly terminated and that the director's personal company was liable for the unpaid amounts."
     },
-    "Label": "Not Liable",
+    "Label": "Claim Allowed in Part",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Suit No 545 of 2021",
+      "Case_Number": "Suit No 545 of 2021 (Counterclaim)",
       "Coram": "Hoo Sheau Peng J",
-      "Judge": "Hoo Sheau Peng",
+      "Judge": "Hoo Sheau Peng J",
       "Date": "2024-02-13",
       "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
-      "Name": "MC Accounting Services Pte Ltd",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Name": "Farzin Ratan Karma",
+      "Law_Firm": "Jimmy Yap & Co",
+      "Counsel": [
+        "Hoo Sheau Peng Judge of the High Court Yap Neng Boo Jimmy"
+      ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2008-01-29",
-          "Text": "MC Accounting Services Pte Ltd was incorporated on 2008-01-29 to provide accounting services."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2008-01-29",
-          "Text": "On 2008-01-29, MC Accounting Services Pte Ltd was incorporated."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2009-04-21",
-          "Text": "On 2009-04-21, Farzin Ratan Karma was appointed a director of MC Accounting Services Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2009-04-21",
-          "Text": "On 2009-04-21, 805 shares in MC Accounting Services Pte Ltd were transferred to Farzin Ratan Karma, giving him a 35% shareholding."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2009-04-23",
-          "Text": "On 2009-04-23, Farzin Ratan Karma lost both his shareholding and directorship in MC Accounting Services Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2010-09-17",
-          "Text": "On 2010-09-17, 805 shares in MC Accounting Services Pte Ltd were transferred to Farzin Ratan Karma, resulting in his 35% shareholding and Helen Campos' 65% shareholding."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "2013-02-25",
-          "Text": "On 2013-02-25, Farzin Ratan Karma was appointed again as a director of MC Accounting Services Pte Ltd."
-        },
-        {
           "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2014-04-23",
-          "Text": "On 2014-04-23, MC Accounting Services Pte Ltd became a party to the Directors' Agreement signed by Helen Campos and Farzin Ratan Karma, which set out director remuneration, a S$350,000 settlement payment, and revenue-sharing arrangements involving HC Consultancy Pte Ltd and Farohar Enterprizes."
+          "Fact_Date": "2020-01-10",
+          "Text": "On 2020-01-10, Mr Karma caused MCCS to enter into Rose's Salary Agreement with FEL concerning Asis Rose Dela Rosa's salary"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2017-11-02",
-          "Text": "As of 2017-11-02, the accounts of MC Accounting Services Pte Ltd showed that Farzin Ratan Karma owed the companies a total debt of S$546,015.76."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2017-11-02",
-          "Text": "On 2017-11-02, Helen Campos and Farzin Ratan Karma entered into a Waiver Agreement to waive the recorded debt of S$546,015.76 owed by him to MC Corporate Services Pte Ltd and MC Accounting Services Pte Ltd."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2019-11-08",
-          "Text": "On 2019-11-08, an extraordinary general meeting of MC Accounting Services Pte Ltd was held at which Dr Theyvendran s/o Ramanathan was appointed a director."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2020-07-17",
-          "Text": "On 2020-07-17, an extraordinary general meeting was held at which Mr Allix and Mr Lukshumayeh were appointed as directors of MCCS and MCAS, and they appointed Ms Campos as the General Manager of MCCS and MCAS."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2020-12-29",
-          "Text": "On 2020-12-29, Madadevan Lukshumayeh was appointed a director of MC Accounting Services Pte Ltd."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2022-01-01",
-          "Text": "In February 2022, MC Accounting Services Pte Ltd allotted shares under the approved rights issue; Farzin Ratan Karma did not subscribe, and his shareholding fell to 0.013% while Helen Campos held 99.865% of the shareholding and Mr Allix held one share."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2022-02-01",
-          "Text": "In February 2022, MC Accounting Services Pte Ltd allotted shares under the approved rights issue; Farzin Ratan Karma did not subscribe, and his shareholding was reduced to 0.013% while Helen Campos' shareholding increased to approximately 99.865% and Chris Allix held one share."
+          "Fact_Date": "2021-01-01",
+          "Text": "From January 2021 until July 2021, Mr Karma's personal company, FEL, did not pay MCCS the agreed monthly sum of S$1,700 for Rose's services"
         }
       ],
-      "Issue": "Whether the pre-dispute governance and funding decisions of MC Accounting Services Pte Ltd, including director appointments, participation in the Directors' Agreement and Waiver Agreement, and a rights issue, formed a neutral corporate context for the later conflict over oppression and dilution of the plaintiff's shareholding.",
-      "Rule": "A company's participation in shareholder agreements, debt waivers, and capital-raising measures is assessed against its constitution and the commercial rationale for such steps, and any later dispute over minority prejudice is evaluated in light of these pre-dispute corporate actions.",
-      "Application": "MC Accounting Services Pte Ltd was incorporated and initially wholly owned by Helen Campos, later admitting the plaintiff as a 35% shareholder and director through share transfers. It became party to the 2014 Directors' Agreement, which defined remuneration and revenue-sharing, and to the 2017 Waiver Agreement, which addressed recorded debts owed by the plaintiff. In 2022, it implemented a rights issue to raise funds, which the plaintiff did not subscribe to, resulting in a significant reduction of his percentage shareholding. These steps, taken before the judgment, define the structural and financial setting in which the plaintiff's later complaints about oppression and dilution were raised.",
-      "Judicial_Reasoning_Log": "A corporate entity structured under the sole control of a founder lacks the informal, mutual understandings required to be classified as a quasi-partnership. The entity operates subject to the binding provisions of executed Directors' Agreements and Waiver Agreements, which govern the settlement of historical debts, ongoing remuneration, and revenue-sharing protocols. Engaging in a revenue-sharing system that allocates specific percentages of billings back to the company aligns with these documented agreements and does not represent an oppressive diversion of business. When cash flow constraints arise—evidenced by negative operating balances—executing a rights issue constitutes a legitimate and necessary method of capital injection. Providing a minority shareholder with proper notice and adequate time to subscribe satisfies the requirements of corporate fair play. The resulting dilution of a non-participating shareholder's interest is a standard consequence of capital generation, not an act of minority oppression. Consequently, the company's capital-raising and revenue allocation measures are legally valid and non-oppressive."
+      "Issue": "Whether the director contravened his duty by causing the company to enter into an agreement that was not in its best interest",
+      "Rule": "A director must act in good faith and in the best interests of the company, avoiding conflicts of interest",
+      "Application": "The agreement was terminated as Rose ceased working for his company. the director caused the company to enter into an agreement with his personal company, which then failed to make payments",
+      "Judicial_Reasoning_Log": "The court found that the agreement was not properly terminated and that the director's personal company was liable for the unpaid amounts."
     },
-    "Label": "Not Liable",
+    "Label": "Liable",
     "Leakage_Score": 0
   }
 ]

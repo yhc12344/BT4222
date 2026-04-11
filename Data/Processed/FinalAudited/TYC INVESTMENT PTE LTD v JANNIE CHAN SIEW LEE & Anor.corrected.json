@@ -3,9 +3,9 @@
     "Metadata": {
       "Case_Number": "Originating Summons No 453 of 2017",
       "Coram": "Audrey Lim JC",
-      "Judge": "Audrey Lim",
+      "Judge": "Audrey Lim JC",
       "Date": "2017-08-15",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Plaintiff",
@@ -17,110 +17,35 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1979-01-01",
-          "Text": "TYC Investment Pte Ltd was incorporated in 1979 as a family holding company."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1979-01-01",
-          "Text": "TYC Investment Pte Ltd was established by Jannie Chan and Henry Tay as a family holding company to hold shares in The Hour Glass Limited and other family assets."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "1979-01-01",
-          "Text": "TYC Investment Pte Ltd adopted articles of association that included Article 1, Article 3A, Article 7 and Article 8, and incorporated Table A in the Fourth Schedule to the Companies Act except where inconsistent."
-        },
-        {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1979-01-01",
-          "Text": "Under Article 3A of TYC's articles of association, the first directors of TYC were specified to be Henry Tay and Jannie Chan, with the number of directors to be not less than two and not more than ten."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1979-01-01",
-          "Text": "Under Article 8 of TYC's articles of association, Henry Tay and Jannie Chan were designated as permanent Governing Directors of TYC with authority to exercise all powers expressed to be vested in the directors generally, including convening general meetings, and other directors were to be under their control."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1979-01-01",
-          "Text": "Article 8 of TYC's articles of association provided that while holding the office of Governing Directors, Henry Tay and Jannie Chan could appoint and remove alternate Governing Directors and other directors of TYC by written instruments signed by both of them."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "1979-01-01",
-          "Text": "Article 8 of TYC's articles of association provided that in the event of the death of either of the two Governing Directors, the surviving person would be entitled to exercise all or any of the powers previously held jointly by the Governing Directors."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1979-01-01",
-          "Text": "Under Article 7 of TYC's articles of association, founder shares in TYC carried 44% of the voting rights for Jannie Chan and 46% of the voting rights for Henry Tay, and no other persons could hold these founder shares."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1979-01-01",
-          "Text": "TYC Investment Pte Ltd was structured as a private family holding company with five members: Jannie Chan, Henry Tay, and their three children, Michael Tay, Audrey Tay and Sabrina Tay."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1979-01-01",
-          "Text": "TYC Investment Pte Ltd held shares in The Hour Glass Limited, a company founded by Henry Tay and Jannie Chan, as well as other family assets."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2012-01-01",
-          "Text": "Amstay Pte Ltd was a company wholly owned by Henry Tay and made payments on behalf of TYC Investment Pte Ltd in the ordinary course of TYC's business."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2010-04-09",
-          "Text": "On 9 April 2010, a deed of settlement was executed between Henry Tay and Jannie Chan to settle the division of their matrimonial assets and Jannie Chan's claim for maintenance."
+          "Text": "TYC Investment Pte Ltd was incorporated as a family holding company"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2010-04-09",
-          "Text": "On 9 April 2010, a deed of settlement dated 9 April 2010 was entered into between Henry Tay and Jannie Chan concerning division of matrimonial assets and maintenance."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-05-15",
-          "Text": "On 15 May 2012, an agreement for amendment to the deed of settlement and settlement of litigation between Henry Tay and Jannie Chan, referred to as the SSD, was executed."
+          "Text": "On 2010-04-09, Henry Tay Yun Chwan and Chan Siew Lee entered into a Deed of Settlement to settle the division of their matrimonial assets and Chan Siew Lee's claim for maintenance"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2012-05-15",
-          "Text": "On 15 May 2012, the SSD was entered into between Henry Tay and Jannie Chan to amend the 9 April 2010 deed of settlement and to settle litigation between them, and it included provisions relating to the management of TYC Investment Pte Ltd."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-05-15",
-          "Text": "Clause 10 of the SSD dated 15 May 2012 provided that for all future payments for TYC, neither Henry Tay nor Jannie Chan would sign a cheque on TYC's bank accounts unless the other had signed a voucher approving the payment."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-05-15",
-          "Text": "Clause 10 of the SSD dated 15 May 2012 established a payment voucher system for TYC under which both Henry Tay and Jannie Chan had to participate in approving cheques on TYC's bank accounts."
+          "Text": "On 2012-05-15, Henry Tay Yun Chwan and Chan Siew Lee entered into an agreement to amend the Deed of Settlement and settle their litigation"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2012-06-11",
-          "Text": "On 11 June 2012, a deed referred to as the TYC Deed was entered into between Henry Tay, Jannie Chan and TYC Investment Pte Ltd."
+          "Text": "TYC Deed was executed conferring rights and obligations on TYC"
         },
         {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-06-11",
-          "Text": "The TYC Deed dated 11 June 2012 provided that TYC Investment Pte Ltd would have all rights and benefits and be all obligations, provisions, covenants and conditions under the 9 April 2010 deed of settlement as amended by the SSD, as if TYC were a party to those agreements."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2013-01-01",
-          "Text": "On 29 September 2016, Jannie Chan was made a bankrupt pursuant to an application by Australia and New Zealand Banking Group Ltd in B323/2016 based on a judgment debt obtained in Suit 885 of 2013."
+          "Fact_Type": "AUTHORITY_EVENT",
+          "Fact_Date": "2016-10-07",
+          "Text": "TYC lodged a notification with ACRA that JC had been disqualified as a director"
         }
       ],
-      "Issue": "Whether, given TYC Investment Pte Ltd's articles of association and the incorporation of Table A, the occurrence and later setting aside of a bankruptcy order against one of its directors affected the composition of TYC's board and the operation of the joint cheque approval mechanism for TYC's payments.",
-      "Rule": "Under company law, a company's articles of association, including any incorporated model articles such as Table A, govern the appointment, removal, and vacation of office of directors, and may provide that a director's office becomes vacant automatically upon specified events such as bankruptcy. Bankruptcy legislation generally provides that setting aside or annulling a bankruptcy order restores the individual to the position as if the order had not been made, statutory or contractual provisions that may modify this effect. Contractual arrangements between individuals and a company, such as deeds and shareholder agreements, can allocate management powers and payment approval mechanisms, but these operate within the framework of the company's constitution and applicable statutes.",
-      "Application": "TYC Investment Pte Ltd operated under articles that incorporated Table A, including a provision that a director's office becomes vacant if the director becomes bankrupt. When a bankruptcy order was made against one of its two governing directors, TYC recorded a change in that director's status with the corporate regulator and did not appoint a replacement director before the order was later set aside by consent. TYC had previously entered into deeds that extended arrangements between the two individuals to TYC, including a requirement that both sign off on payment vouchers before cheques on TYC's bank accounts were signed. The interaction between the automatic vacation provision, the later setting aside of the bankruptcy order, and the payment voucher clause determined whether TYC had one or two directors during the relevant period and whether the joint approval mechanism for payments remained operational.",
-      "Judicial_Reasoning_Log": "The court analysed Article 72(b) of Table A, which states that the office of director shall become vacant if the director becomes bankrupt, and held that this provision operates automatically without the need for further action by the company. It rejected the argument that Article 72(b) conflicted with Article 8 of TYC's articles, which described the two founders as permanent Governing Directors, construing 'permanent' as limited to exemption from rotation and age limits rather than immunity from all disqualification events. The court relied on authorities such as Re Bodega, Samuel Tak Lee, and Norakhmar to support automatic vacation of office upon specified events, and distinguished Glossop v Glossop where the articles required a confirming resolution.\n\nThe court then considered the effect of setting aside the bankruptcy order on appeal. It noted that the order was set aside by consent under section 8 of the Bankruptcy Act, not annulled under Part VIII, but treated the effect as analogous for present purposes. Referring to De Robillard, Rangott, and local authority Tan Teck Guan, the court accepted the general principle that annulment or setting aside of a bankruptcy order is retrospective, restoring the individual to the position as if no order had been made, subject to statutory exceptions and contractual arrangements. The court also considered Union Club v Battenberg, where a social club's articles were construed as providing that membership ceased on bankruptcy regardless of later annulment, but found that the commercial and reputational considerations in that case did not apply to a private family holding company like TYC.\n\nOn construction of TYC's articles and the TYC Deed, the court found no indication that the members intended to contract out of the general retrospective effect of setting aside a bankruptcy order. It emphasised that TYC was a family holding company with only five members, that the founder shares and permanent Governing Director structure were designed to give the two founders joint control over significant family assets, and that clause 10 of the SSD implemented a joint payment approval mechanism. The court considered that denying automatic reinstatement after the bankruptcy order was set aside would severely prejudice one founder's position and be inconsistent with the intended governance structure. It also noted the absence of evidence that TYC or third parties had acted in reliance on the bankruptcy order in a way that would make full unwinding impractical or unjust.\n\nThe court concluded that Article 72(b) applied so that the director's office became vacant when the bankruptcy order was made, but that the subsequent setting aside of the order had retrospective effect such that the director was automatically reinstated as a permanent Governing Director. It held that clause 10 of the SSD would have been frustrated if the director had permanently ceased to be a director, because the clause operated on the parties in their capacities as directors, but that in light of reinstatement, clause 10 remained operable. The court declined to grant a declaration allowing the remaining director to unilaterally appoint another director under Article 8, interpreting that article as requiring joint action by both Governing Directors except in the event of death of one of them. It indicated that, if necessary, new directors could be appointed via an extraordinary general meeting under Table A and the Companies Act. The court also declined to treat the ACRA notification filed during the subsistence of the bankruptcy order as invalid, but directed that TYC file updated particulars to reflect the director's reinstatement. Costs were reserved to be addressed separately."
+      "Issue": "Whether the directorship of a company is automatically vacated upon a bankruptcy order and if setting aside the order reinstates the directorship",
+      "Rule": "A director's office becomes vacant upon bankruptcy unless the company's articles provide otherwise. Setting aside a bankruptcy order generally restores the original position",
+      "Application": "JC' the setting aside should restore her directorship",
+      "Judicial_Reasoning_Log": "The court found that the setting aside of the bankruptcy order reinstated JC as a director, as the articles did not preclude such reinstatement."
     },
     "Label": "Claim Dismissed",
     "Leakage_Score": 0
@@ -129,9 +54,9 @@
     "Metadata": {
       "Case_Number": "Originating Summons No 453 of 2017",
       "Coram": "Audrey Lim JC",
-      "Judge": "Audrey Lim",
+      "Judge": "Audrey Lim JC",
       "Date": "2017-08-15",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
@@ -142,192 +67,30 @@
       ],
       "Facts": [
         {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1979-01-01",
-          "Text": "TYC Investment Pte Ltd was incorporated in 1979 by Jannie Chan and Henry Tay, who were previously wife and husband."
-        },
-        {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1979-01-01",
-          "Text": "From incorporation in 1979, Jannie Chan and Henry Tay were the two directors of TYC Investment Pte Ltd."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1979-01-01",
-          "Text": "Under Article 8 of TYC's articles of association, Jannie Chan and Henry Tay were the permanent Governing Directors of TYC until they resigned from office, with authority to exercise the powers vested in the directors generally, including convening general meetings."
+          "Text": "Jannie Chan Siew Lee was appointed as a permanent Governing Director of TYC"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1979-01-01",
-          "Text": "Jannie Chan held a founder share giving her 44% of the voting rights in TYC Investment Pte Ltd."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1979-01-01",
-          "Text": "Jannie Chan and Henry Tay had three children, Michael Tay, Audrey Tay and Sabrina Tay, who owned ordinary shares with 5%, 2.5% and 2.5% voting rights respectively."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2010-04-09",
-          "Text": "On 9 April 2010, Jannie Chan and Henry Tay entered into a deed of settlement to settle the division of their matrimonial assets and JC's claim for maintenance."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2010-04-09",
-          "Text": "The deed of settlement dated 9 April 2010 between Jannie Chan and Henry Tay settled the division of their matrimonial assets and JC's claim for maintenance."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-05-15",
-          "Text": "On 15 May 2012, Jannie Chan and Henry Tay entered into an agreement for amendment to the DOS and settlement of litigation between them, which made amendments to the DOS and stipulated matters relating to the management of TYC."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-05-15",
-          "Text": "Clause 10 of the SSD stated that for all future payments for TYC, neither HT nor JC would sign a cheque on TYC's bank accounts unless the other had signed a voucher approving."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-06-11",
-          "Text": "On 11 June 2012, Jannie Chan, Henry Tay and TYC Investment Pte Ltd entered into the TYC Deed, the effect of which was to confer on TYC all rights and benefits and impose on TYC all obligations, provisions, covenants and conditions under the DOS as amended in accordance with the terms set out in the SSD, as if it were a party thereto."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-06-11",
-          "Text": "The TYC Deed dated 11 June 2012 conferred on TYC all rights and benefits and imposed on TYC all obligations, provisions, covenants and conditions under the DOS as amended in accordance with the terms set out in the SSD, as if it were a party thereto."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2013-01-01",
-          "Text": "Australia and New Zealand Banking Group Ltd obtained a judgment debt against JC in Suit 885 of 2013."
-        },
-        {
-          "Fact_Type": "CONDUCT",
           "Fact_Date": "2016-09-29",
-          "Text": "On 29 September 2016, JC was made a bankrupt pursuant to an application by ANZ Bank in B323/2016, premised on a judgment debt obtained by ANZ Bank against JC in Suit 885 of 2013."
+          "Text": "Jannie Chan Siew Lee was made bankrupt on 2016-09-29 pursuant to an application by ANZ Bank"
         },
         {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2016-10-07",
-          "Text": "On 7 October 2016, TYC lodged a notification with ACRA that JC had been disqualified as a director pursuant to her being made a bankrupt on 29 September 2016."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2010-04-09",
+          "Text": "Jannie Chan Siew Lee and Henry Tay Yun Chwan entered into a deed of settlement dated 2010-04-09 to settle the division of their matrimonial assets and Jannie Chan Siew Lee's claim for maintenance"
         },
         {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-12-01",
-          "Text": "By the time the appeal was heard on 1 December 2016, ANZ Bank and JC had already reached a settlement agreement."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2016-12-01",
-          "Text": "On 1 December 2016, by consent of the parties, the appeal against the bankruptcy order was allowed, the bankruptcy order was set aside and leave was granted to withdraw the bankruptcy application."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2012-05-15",
+          "Text": "Jannie Chan Siew Lee and Henry Tay Yun Chwan entered into an agreement dated 2012-05-15 to amend the deed of settlement and settle litigation between them"
         }
       ],
-      "Issue": "Whether, in light of TYC Investment Pte Ltd's articles of association and the subsequent bankruptcy order and its setting aside, Jannie Chan remained or became reinstated as a permanent Governing Director of TYC and whether the joint cheque approval mechanism and related governance provisions continued to apply to her.",
-      "Rule": "Company constitutions, including bespoke articles and any incorporated model articles, determine how directorships are created, vacated, and continued, and may provide for automatic vacation of office upon events such as bankruptcy. Bankruptcy law generally provides that setting aside or annulling a bankruptcy order restores the individual to the position as if the order had not been made, statutory exceptions and any contrary contractual arrangements. Provisions in deeds and company articles that allocate management powers and payment approval rights operate according to their express terms and the capacities in which the parties act, and courts interpret such provisions to give reasonable business efficacy while respecting statutory limits.",
-      "Application": "Jannie Chan was a founder, a holder of a founder share with significant voting rights, and a permanent Governing Director of TYC Investment Pte Ltd under its articles. She and Henry Tay later entered into a deed of settlement and the SSD, and then the TYC Deed, which extended their arrangements to TYC and created a joint payment voucher system requiring both of them to participate in approving cheques on TYC's bank accounts. When a bankruptcy order was made against her on 29 September 2016, TYC notified ACRA that her directorship status had changed, and no additional director was appointed before the order was set aside by consent on 1 December 2016 after a settlement with the creditor. The interaction between the automatic vacation provision in Table A, the founders' intention reflected in the articles and deeds, and the retrospective effect of setting aside the bankruptcy order determined whether her position as permanent Governing Director and her role in the joint payment approval mechanism continued or was restored.",
-      "Judicial_Reasoning_Log": "The court examined Jannie Chan's status as a permanent Governing Director under Article 8 of TYC's articles and her role as a founder and major voting shareholder. It considered her evidence that she had intended that usual disqualification conditions should not apply to her or to Henry Tay, but found that this intention was not reflected in the express wording of the articles. The court interpreted Article 8 as conferring permanence only in relation to rotation and age limits, not as excluding the operation of Article 72 of Table A or statutory disqualification provisions. It held that her office became vacant automatically when the bankruptcy order was made on 29 September 2016, but that this vacancy arose from the operation of Article 72(b) rather than from any action by TYC or Henry Tay.\n\nThe court then addressed whether the setting aside of the bankruptcy order on 1 December 2016 reinstated her directorship. It applied the general principle that setting aside or annulling a bankruptcy order is retrospective, restoring the individual to the position as if the order had not been made, and found no contractual indication in TYC's articles or the TYC Deed that the parties intended to depart from this principle. The court distinguished the social club context in Battenberg, where reputational and financial contribution considerations supported a non-reinstatement interpretation, and emphasised that TYC was a closely held family holding company with significant assets and a governance structure designed to give both founders joint control. It concluded that denying automatic reinstatement would be inconsistent with that structure and would cause disproportionate prejudice to her.\n\nOn that basis, the court held that although her office was vacated during the period when the bankruptcy order was in force, she was automatically reinstated as a permanent Governing Director when the order was set aside. It further held that clause 10 of the SSD, which required joint approval by both founders for TYC's payments, remained operable because her directorship and management role were restored. The court declined to grant her a separate reinstatement order, reasoning that reinstatement followed automatically from the setting aside of the bankruptcy order and that the court had no general power to rewrite the company's articles to confer directorships. It also declined to declare the ACRA notification filed during the subsistence of the bankruptcy order null or illegal, but directed that TYC update ACRA to reflect her reinstated directorship. Her counterclaims were allowed only to the extent of recognising her automatic reinstatement as a permanent Governing Director, with other requested declarations either dismissed or rendered unnecessary by this conclusion."
-    },
-    "Label": "Not Liable",
-    "Leakage_Score": 0
-  },
-  {
-    "Metadata": {
-      "Case_Number": "Originating Summons No 453 of 2017",
-      "Coram": "Audrey Lim JC",
-      "Judge": "Audrey Lim",
-      "Date": "2017-08-15",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
-    },
-    "Party_Details": {
-      "Role": "Defendant",
-      "Name": "Henry Tay Yun Chwan",
-      "Law_Firm": "Tan Rajah & Cheah",
-      "Counsel": [
-        "Chelva Retnam Rajah, S.C.",
-        "Chia Ru Yun Megan Joan",
-        "Perry Elizabeth Wong"
-      ],
-      "Facts": [
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1979-01-01",
-          "Text": "TYC Investment Pte Ltd was incorporated in 1979 by Jannie Chan and Henry Tay, and was described as a family holding company."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1979-01-01",
-          "Text": "Henry Tay and Jannie Chan were the two directors of TYC Investment Pte Ltd."
-        },
-        {
-          "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1979-01-01",
-          "Text": "Under Article 8 of TYC's articles of association, Henry Tay and Jannie Chan were the permanent Governing Directors of TYC until they resigned from office."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "1979-01-01",
-          "Text": "Henry Tay held a founder share giving him 46% of the voting rights in TYC."
-        },
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "1979-01-01",
-          "Text": "Henry Tay and Jannie Chan had three children, Michael Tay, Audrey Tay and Sabrina Tay, who owned ordinary shares with 5%, 2.5% and 2.5% voting rights respectively."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "1979-01-01",
-          "Text": "TYC was set up to hold shares in The Hour Glass Limited and other family assets."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2010-04-09",
-          "Text": "On 9 April 2010, following his divorce from Jannie Chan, Henry Tay entered into a deed of settlement with her to address division of matrimonial assets and maintenance."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2010-04-09",
-          "Text": "The deed of settlement dated 9 April 2010 between Henry Tay and Jannie Chan dealt with division of matrimonial assets and maintenance and referenced arrangements connected to TYC Investment Pte Ltd."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-05-15",
-          "Text": "On 15 May 2012, Henry Tay and Jannie Chan entered into the SSD, an agreement amending the 9 April 2010 deed of settlement and settling litigation between them, which included provisions on the management of TYC."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-05-15",
-          "Text": "Clause 10 of the SSD dated 15 May 2012 required that for all future payments for TYC, neither Henry Tay nor Jannie Chan would sign a cheque on TYC's bank accounts unless the other had signed a voucher approving the payment."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2012-06-11",
-          "Text": "On 11 June 2012, Henry Tay, Jannie Chan and TYC Investment Pte Ltd entered into the TYC Deed, which extended to TYC the rights and obligations under the 9 April 2010 deed of settlement as amended by the SSD."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2012-06-11",
-          "Text": "The TYC Deed dated 11 June 2012 provided that TYC would be treated as if it were a party to the 9 April 2010 deed of settlement as amended by the SSD, conferring on TYC the rights and obligations under those agreements."
-        },
-        {
-          "Fact_Type": "PARTY_INFO",
-          "Fact_Date": "2012-01-01",
-          "Text": "Amstay Pte Ltd was a company wholly-owned by HT."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-09-29",
-          "Text": "On 29 September 2016, a bankruptcy order was made against Jannie Chan."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-10-07",
-          "Text": "On 7 October 2016, TYC lodged a notification with ACRA that JC had been disqualified as a director pursuant to her being made a bankrupt on 29 September 2016."
-        }
-      ],
-      "Issue": "Whether, following the bankruptcy order made against the other founder-director and its subsequent setting aside, Henry Tay could treat the other founder's directorship as vacated without automatic reinstatement, appoint another director under Article 8, and operate TYC's payment and management structure without joint participation.",
-      "Rule": "Under company law, a director's office may be vacated automatically upon specified events, such as bankruptcy, if the company's articles or incorporated model articles so provide. The effect of setting aside or annulling a bankruptcy order is generally to restore the individual to the position as if the order had not been made, unless statutes or contractual provisions indicate otherwise. Provisions in a company's articles that allocate powers to specific directors, including powers to appoint additional directors, are interpreted according to their express terms and context, and courts do not rewrite such provisions to expand unilateral powers beyond what the articles state.",
-      "Application": "Henry Tay, as a founder and permanent Governing Director of TYC Investment Pte Ltd, continued as the remaining director after a bankruptcy order was made against the other founder-director on 29 September 2016, and he caused TYC to notify ACRA of the change in directorship status. He considered that TYC required at least two directors and that he could appoint another director under Article 8, and he initiated legal proceedings to obtain declarations supporting this position and to address the status of the joint payment voucher system and reimbursements to Amstay Pte Ltd. The later setting aside of the bankruptcy order by consent on 1 December 2016, together with the structure of TYC's articles and the TYC Deed, affected whether he could continue to treat the other founder's office as vacated, whether automatic reinstatement occurred, and whether he could unilaterally appoint a new director under Article 8 or needed to rely on shareholder mechanisms such as an extraordinary general meeting.",
-      "Judicial_Reasoning_Log": "The court accepted that, under Article 72(b) of Table A as incorporated into TYC's articles, the office of director became vacant automatically when the bankruptcy order was made against the other founder-director, and that during the period when the order was in force, Henry Tay was the only remaining director. However, the court rejected his contention that Article 8 allowed him, acting alone, to appoint another director once the other founder's office had become vacant. It interpreted Article 8 as conferring the power to appoint and remove directors on both Governing Directors acting jointly, with a specific provision that only in the event of the death of one Governing Director would the survivor be entitled to exercise all powers previously held jointly. The court held that it was not open to reinterpret Article 8 to allow unilateral appointments in circumstances other than death, as this would rewrite the contractual allocation of powers in the articles.\n\nOn the effect of the setting aside of the bankruptcy order, the court found that the general principle of retrospective restoration applied and that there was no indication in TYC's articles or related deeds that the founders intended to exclude automatic reinstatement. It emphasised that TYC was a family holding company with a governance structure designed to give both founders joint control over significant assets, and that the payment voucher system in clause 10 of the SSD depended on both founders acting as directors. The court concluded that once the bankruptcy order was set aside, the other founder-director was automatically reinstated as a permanent Governing Director, and that Henry Tay could not rely on the earlier vacancy to justify unilateral appointment of a new director under Article 8.\n\nThe court indicated that, had it been necessary to regularise the board in the absence of automatic reinstatement, the appropriate route would have been to convene an extraordinary general meeting under Table A or to use statutory mechanisms under the Companies Act, rather than to expand Henry Tay's unilateral powers beyond the express terms of the articles. It also noted that TYC had not shown that it or third parties had acted in reliance on the bankruptcy order in a way that would make full unwinding impractical or unjust. As a result, the court declined to grant declarations authorising Henry Tay to appoint another director unilaterally or to treat clause 10 of the SSD as frustrated, and instead treated the joint governance and payment approval structure as continuing in force following the automatic reinstatement of the other founder-director."
+      "Issue": "Whether a director automatically resumes their position upon the setting aside of a bankruptcy order",
+      "Rule": "Setting aside a bankruptcy order generally restores the individual's original position unless the company's articles specify otherwise",
+      "Application": "The dispute concerned whether the setting aside of the bankruptcy order automatically reinstated Jannie Chan Siew Lee as a director of TYC",
+      "Judicial_Reasoning_Log": "The court held that the setting aside of the bankruptcy order reinstated JC as a director, as the articles did not preclude such reinstatement."
     },
     "Label": "Not Liable",
     "Leakage_Score": 0

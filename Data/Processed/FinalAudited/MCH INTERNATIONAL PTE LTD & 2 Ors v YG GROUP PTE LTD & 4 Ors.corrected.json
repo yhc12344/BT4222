@@ -1,238 +1,184 @@
 [
   {
     "Metadata": {
-      "Case_Number": "Suit 107/2017; Suit 80/2017; Suit 337/2016; Suit 104/2016",
-      "Coram": "High Court — Suit Nos 107 of 2017, 80 of 2017, 337 of 2016 and 104 of 2016",
+      "Case_Number": "Suit No 107 of 2017",
+      "Coram": "Valerie Thean J",
       "Judge": "Valerie Thean J",
       "Date": "2019-02-27",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Plaintiff",
       "Name": "MCH International Pte Ltd",
-      "Law_Firm": "",
-      "Counsel": [],
-      "Facts": [
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2015-01-19",
-          "Text": "MCH International Pte Ltd agreed to a joint venture with YG Logistics Pte Ltd, taking a 70% stake in a newly formed acquisition vehicle."
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2015-01-29",
-          "Text": "MCH entered into a Loan Agreement with YG Logistics to borrow up to S$4,000,000 to fund its portion of the target company acquisition."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2016-07-28",
-          "Text": "MCH ceased making mandatory interest payments on the loan, claiming the lender had disrupted its business operations."
-        }
+      "Law_Firm": "R. S. Wijaya & Co",
+      "Counsel": [
+        "Sivanathan Wijaya Ravana"
       ],
-      "Issue": "Whether a corporate borrower is excused from loan repayment obligations due to alleged business interference by the lender.",
-      "Rule": "A corporate borrower is strictly bound by the express terms of its loan agreements. Corporate debts and defaults are assessed independently of the personal disputes or separate contractual undertakings of the company's shareholders.",
-      "Application": "MCH acted as the primary borrower to fund a joint venture acquisition. Following a breakdown in the relationship between its majority shareholder and the lending partner, MCH unilaterally halted its interest payments. The lender subsequently classified this non-payment and the surrounding corporate disputes as events of default.",
-      "Judicial_Reasoning_Log": "The court determined that MCH's failure to pay interest was not legally excused by the lender's alleged conduct. The court ruled that the initiation of separate legal hostilities and the cessation of payments clearly satisfied the contractual definitions of an event of default. The court rejected attempts to pierce the corporate veil to shift liability, finding the loan agreement strictly enforceable against MCH."
-    },
-    "Label": "Claim Dismissed",
-    "Leakage_Score": 0
-  },
-  {
-    "Metadata": {
-      "Case_Number": "Suit 107/2017; Suit 80/2017; Suit 337/2016; Suit 104/2016",
-      "Coram": "High Court — Suit Nos 107 of 2017, 80 of 2017, 337 of 2016 and 104 of 2016",
-      "Judge": "Valerie Thean J",
-      "Date": "2019-02-27",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
-    },
-    "Party_Details": {
-      "Role": "Plaintiff",
-      "Name": "Wong Kok Hwee",
-      "Law_Firm": "",
-      "Counsel": [],
-      "Facts": [
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-01-29",
-          "Text": "Wong signed a personal Deed of Undertakings, committing to use his best efforts to hire and second a specialized core management team to the joint venture."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2015-08-19",
-          "Text": "Without informing his joint venture partner, Wong signed a commission letter with the vendors of the target company, securing a promise of US$380,000."
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2015-08-28",
-          "Text": "Wong received an undisclosed payment of US$300,000 from the vendors following the completion of the first acquisition phase."
-        },
-        {
-          "Fact_Type": "CONDUCT",
-          "Fact_Date": "2016-02-20",
-          "Text": "Wong engaged in secret negotiations with an alternative logistics buyer for the target company while the joint venture's call option remained active."
-        }
-      ],
-      "Issue": "Whether a managing director breaches his fiduciary and contractual duties by receiving undisclosed personal commissions and engaging in secret buyout negotiations.",
-      "Rule": "Directors must act in the company's best interests and strictly avoid undisclosed conflicts of interest. Personal contractual undertakings to procure specific corporate actions are legally binding.",
-      "Application": "As the managing director of the joint venture, Wong was entrusted with finalizing the acquisition and installing a competent management team. Instead, he secured a private commission from the sellers, continually delayed the deployment of the promised management personnel, and utilized confidential information to explore alternative buyouts with rival purchasers.",
-      "Judicial_Reasoning_Log": "The court concluded that Wong flagrantly breached his fiduciary duties and his personal Deed of Undertakings. His failure to deploy the management team, combined with his receipt of a secret US$300,000 commission, constituted clear acts of bad faith against the joint venture. The court dismissed his claims of oppression and conspiracy, finding instead that he was the primary wrongdoer liable for the resulting financial fallout."
-    },
-    "Label": "Claim Dismissed",
-    "Leakage_Score": 0
-  },
-  {
-    "Metadata": {
-      "Case_Number": "Suit 107/2017; Suit 80/2017; Suit 337/2016; Suit 104/2016",
-      "Coram": "High Court — Suit Nos 107 of 2017, 80 of 2017, 337 of 2016 and 104 of 2016",
-      "Judge": "Valerie Thean J",
-      "Date": "2019-02-27",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
-    },
-    "Party_Details": {
-      "Role": "Plaintiff",
-      "Name": "Sing Lee Mee Yoke",
-      "Law_Firm": "",
-      "Counsel": [],
-      "Facts": [
-        {
-          "Fact_Type": "RELATIONSHIP",
-          "Fact_Date": "2015-01-01",
-          "Text": "Sing Lee Mee Yoke was the wife of Henry Wong Kok Hwee and served as a director of MCH International Pte Ltd."
-        },
-        {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2015-01-29",
-          "Text": "Sing Lee Mee Yoke executed a Deed of Personal Guarantee, assuming personal liability for MCH International Pte Ltd's repayment obligations under the S$4,000,000 loan agreement."
-        }
-      ],
-      "Issue": "Whether a personal guarantor is liable for a corporate borrower's debt upon the occurrence of a contractual event of default.",
-      "Rule": "A personal guarantor is strictly bound by the terms of the executed guarantee and must satisfy the guaranteed party's debt obligations once the primary borrower defaults.",
-      "Application": "To facilitate the joint venture acquisition, the spouse of the majority shareholder provided a personal guarantee securing the corporate loan. When the corporate borrower subsequently halted interest payments and triggered events of default, the lender activated the guarantee to recover the outstanding funds.",
-      "Judicial_Reasoning_Log": "The court held that the Deed of Personal Guarantee was fully valid and enforceable. Because the primary borrower (MCH) committed a clear event of default by ceasing interest payments, the guarantor's liability was immediately triggered. Her claims attempting to invalidate or escape the guarantee were dismissed, leaving her financially exposed to the lender's recovery actions."
-    },
-    "Label": "Claim Dismissed",
-    "Leakage_Score": 0
-  },
-  {
-    "Metadata": {
-      "Case_Number": "Suit 107/2017; Suit 80/2017; Suit 337/2016; Suit 104/2016",
-      "Coram": "High Court — Suit Nos 107 of 2017, 80 of 2017, 337 of 2016 and 104 of 2016",
-      "Judge": "Valerie Thean J",
-      "Date": "2019-02-27",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
-    },
-    "Party_Details": {
-      "Role": "Defendant",
-      "Name": "YG Group Pte Ltd",
-      "Law_Firm": "",
-      "Counsel": [],
       "Facts": [
         {
           "Fact_Type": "PARTY_INFO",
           "Fact_Date": "2015-01-27",
-          "Text": "YG Group was incorporated as the vehicle to acquire a cold chain logistics business."
+          "Text": "MCH International Pte Ltd was a company whose majority shareholder was Mr Wong"
         },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2015-08-19",
-          "Text": "YG Group purchased 40% of the target shares and obtained a call option for the remaining 60%."
-        },
-        {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2016-08-29",
-          "Text": "YG Group revoked the appointment of its managing director following a dispute over management and undisclosed payments."
-        }
-      ],
-      "Issue": "Whether a company's decision to remove a managing director and exercise a call option was a valid exercise of corporate power or part of an oppressive scheme.",
-      "Rule": "Corporate actions, including the removal of directors and the exercise of contractual options, are governed by the company’s constitution and the terms of shareholders' agreements.",
-      "Application": "The company faced an internal crisis after discovering that its managing director had taken side-payments and failed to deliver the promised management team. The company subsequently removed the director and exercised its option to complete the acquisition using funds provided by the minority shareholder group.",
-      "Judicial_Reasoning_Log": "The court held that the company's actions were justified. There was no evidence of an unlawful conspiracy to injure the minority shareholder. Instead, the court found that the managing director had committed serious breaches of duty, and the company was entitled to act to protect its interests. The exercise of the call option was found to be a legitimate commercial step to secure the target business in the face of the managing director's non-cooperation."
-    },
-    "Label": "Not Liable",
-    "Leakage_Score": 0
-  },
-  {
-    "Metadata": {
-      "Case_Number": "Suit 107/2017; Suit 80/2017; Suit 337/2016; Suit 104/2016",
-      "Coram": "High Court — Suit Nos 107 of 2017, 80 of 2017, 337 of 2016 and 104 of 2016",
-      "Judge": "Valerie Thean J",
-      "Date": "2019-02-27",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
-    },
-    "Party_Details": {
-      "Role": "Defendant",
-      "Name": "YG Logistics Pte Ltd",
-      "Law_Firm": "",
-      "Counsel": [],
-      "Facts": [
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2015-01-29",
-          "Text": "YG Logistics lent S$4,000,000 to MCH International to fund the joint venture."
+          "Text": "MCH International Pte Ltd entered into a Shareholders Agreement with YG Group Pte Ltd and YG Logistics Pte Ltd"
         },
         {
-          "Fact_Type": "DOCUMENT",
-          "Fact_Date": "2015-01-30",
-          "Text": "YG Logistics received a share charge over MCH's shares in the joint venture as security for the loan."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-01-29",
+          "Text": "MCH International Pte Ltd entered into a Subscription Agreement with YG Group Pte Ltd and YG Logistics Pte Ltd"
         },
         {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2016-03-18",
-          "Text": "YG Logistics exercised its proxy rights under the share charge to appoint its own representative to vote MCH's shares."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-01-29",
+          "Text": "MCH International Pte Ltd entered into a Loan Agreement with YG Logistics Pte Ltd"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-08-18",
+          "Text": "MCH International Pte Ltd amended the Loan Agreement with YG Logistics Pte Ltd"
         }
       ],
-      "Issue": "Whether a lender's exercise of security rights under a share charge and its demand for loan repayment constituted a breach of promise or an act of oppression.",
-      "Rule": "A lender is entitled to exercise contractual security rights, such as voting charged shares, provided it does so within the scope of the agreement and is not restrained by a clear and unequivocal promise to the contrary.",
-      "Application": "The lender observed that the borrower was in breach of core management secondment promises and had stopped paying interest. To protect its capital, the lender utilized a proxy mechanism in the share charge to influence the joint venture's board and eventually called the loan.",
-      "Judicial_Reasoning_Log": "The court ruled that the lender acted within its rights. It found that a previous email stating the lender would 'not interfere with operations' did not amount to a binding promise that precluded the exercise of voting rights when the business relationship deteriorated. The court concluded that the borrower had indeed committed defaults, making the lender’s enforcement actions legally permissible."
+      "Issue": "Whether the defendants engaged in a tortious conspiracy against the plaintiffs and whether the company should be wound up on just and equitable grounds",
+      "Rule": "A claim for conspiracy requires proof of an agreement to do certain acts with the predominant intention to cause injury, or using unlawful means to cause damage",
+      "Application": "The defendants engaged in a tortious conspiracy and actions that disrupted business operations, causing harm and justifying a winding up of the company on just and equitable grounds.",
+      "Judicial_Reasoning_Log": "The court dismissed the suit, finding no evidence of conspiracy and concluding that the loss of trust was self-induced by Mr Wong's own breaches of fiduciary duties, making a winding up order inappropriate."
     },
-    "Label": "Not Liable",
+    "Label": "Claim Dismissed",
     "Leakage_Score": 0
   },
   {
     "Metadata": {
-      "Case_Number": "Suit 107/2017; Suit 80/2017; Suit 337/2016; Suit 104/2016",
-      "Coram": "High Court — Suit Nos 107 of 2017, 80 of 2017, 337 of 2016 and 104 of 2016",
+      "Case_Number": "Suit No 107 of 2017",
+      "Coram": "Valerie Thean J",
       "Judge": "Valerie Thean J",
       "Date": "2019-02-27",
-      "Tribunal_Court": "High Court of the Republic of Singapore"
+      "Tribunal_Court": "High Court of Singapore"
     },
     "Party_Details": {
       "Role": "Defendant",
-      "Name": "Liong Chung Yee",
-      "Law_Firm": "",
-      "Counsel": [],
+      "Name": "YG Group Pte Ltd",
+      "Law_Firm": "Bird & Bird ATMD LLP",
+      "Counsel": [
+        "Navin Joseph Lobo",
+        "Vani Nair",
+        "Shaun Oon Kim San",
+        "Yap Chun Kai"
+      ],
       "Facts": [
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "2015-01-27",
-          "Text": "Simon Liong Chung Yee controlled YG Logistics and was appointed a director of the joint venture vehicle, YG Group."
+          "Text": "YG Group Pte Ltd was incorporated in Singapore"
         },
         {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2015-01-28",
-          "Text": "During negotiations, Liong emailed Wong stating he would not interfere with operations despite holding voting rights under the share charge."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-01-29",
+          "Text": "YG Group Pte Ltd entered into a Shareholders Agreement with MCH International Pte Ltd and YG Logistics Pte Ltd"
         },
         {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2015-12-21",
-          "Text": "Over late 2015 and early 2016, Liong repeatedly urged Wong to deploy the promised core management team and complete the acquisition."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-01-29",
+          "Text": "YG Group Pte Ltd entered into a Subscription Agreement with MCH International Pte Ltd and YG Logistics Pte Ltd"
         },
         {
-          "Fact_Type": "COMMUNICATION",
-          "Fact_Date": "2015-10-20",
-          "Text": "Liong rejected an alternative buyout proposal presented by Wong, stating it was disadvantageous to his company's position."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-08-18",
+          "Text": "YG Group Pte Ltd executed an amendment agreement in respect of the Subscription Agreement on 2015-08-18"
         },
         {
-          "Fact_Type": "BOARD_ACTION",
-          "Fact_Date": "2016-03-18",
-          "Text": "On 18 March 2016, following the breakdown of the relationship and non-deployment of the management team, Liong caused YG Logistics to exercise its rights under the share charge to appoint a proxy."
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-08-19",
+          "Text": "YG Group Pte Ltd executed a Sale and Purchase Agreement with the Vendors"
         }
       ],
-      "Issue": "Whether a director and controlling shareholder's exercise of contractual rights and management decisions within a joint venture constituted a breach of duty or an improper engineering of a loan default.",
-      "Rule": "A director and controlling shareholder involved in a joint venture must act in accordance with the joint venture agreements and may exercise contractual rights, such as share charge voting powers and loan default provisions, subject to any binding assurances or duties arising under corporate law.",
-      "Application": "Simon Liong Chung Yee negotiated the joint venture and loan structure, sought assurances about due diligence, and later pressed for the deployment of the core management team and the timely exercise of the call option. He initially communicated that he would not interfere with operational roles despite holding voting rights under a share charge. However, as the relationship deteriorated and the management team was not deployed, he caused his corporate vehicle to exercise those voting rights by appointing a proxy and subsequently calling a default on the loan.",
-      "Judicial_Reasoning_Log": "The judgment considers Simon Liong Chung Yee's role in structuring the joint venture and his reliance on the Deed of Undertakings to secure the deployment of the core management team. The court analyzed his 28 January 2015 email, concluding that it did not amount to a clear and unequivocal promise restricting the exercise of voting rights only upon an event of default. The court also evaluated whether his decision to initiate separate legal proceedings and treat them as an event of default under the Loan Agreement was reasonable or in bad faith. The court concluded that his actions were contractually justified and dismissed the allegations of unlawful conspiracy and oppression against him."
+      "Issue": "Whether the defendants engaged in a tortious conspiracy against the plaintiffs and whether the company should be wound up on just and equitable grounds",
+      "Rule": "A claim for conspiracy requires proof of an agreement to do certain acts with the predominant intention to cause injury, or using unlawful means to cause damage",
+      "Application": "There was no conspiracy, and the actions taken by the defendants were reasonable responses within the scope of the agreements, so winding up the company is unwarranted.",
+      "Judicial_Reasoning_Log": "The court dismissed the suit, finding no evidence of conspiracy and concluding that the loss of trust was self-induced by Mr Wong's own breaches of fiduciary duties, making a winding up order inappropriate."
+    },
+    "Label": "Not Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 337 of 2016 (Counterclaim)",
+      "Coram": "Valerie Thean J",
+      "Judge": "Valerie Thean J",
+      "Date": "2019-02-27",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "MCH International Pte Ltd",
+      "Law_Firm": "R. S. Wijaya & Co",
+      "Counsel": [
+        "Sivanathan Wijaya Ravana"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-01-29",
+          "Text": "MCH International Pte Ltd entered into a Loan Agreement with YG Logistics Pte Ltd"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-08-18",
+          "Text": "MCH International Pte Ltd amended the Loan Agreement with YG Logistics Pte Ltd"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-03-22",
+          "Text": "MCH International Pte Ltd failed to recognize the appointment of Mr. Tan as proxy"
+        }
+      ],
+      "Issue": "Whether the defendants by counterclaim engaged in a lawful or unlawful means conspiracy by usurping board control and commencing legal actions",
+      "Rule": "A party may claim damages for conspiracy if it can prove an agreement to cause injury via unlawful acts or lawful acts done with the predominant intention to harm",
+      "Application": "The defendants by counterclaim engaged in a lawful or unlawful means conspiracy by usurping board control and filing suits with the predominant intention of causing financial harm.",
+      "Judicial_Reasoning_Log": "The court dismissed the counterclaim, finding that the actions of the defendants by counterclaim were lawful and pursued to further their legitimate self-interests rather than with a predominant intention to injure the plaintiffs."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit No 337 of 2016 (Counterclaim)",
+      "Coram": "Valerie Thean J",
+      "Judge": "Valerie Thean J",
+      "Date": "2019-02-27",
+      "Tribunal_Court": "High Court of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "YG Logistics Pte Ltd",
+      "Law_Firm": "Taylor Vinters Via LLC",
+      "Counsel": [
+        "Soh Leong Kiat Anthony",
+        "Elias Benyamin Arun"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-01-29",
+          "Text": "YG Logistics Pte Ltd entered into a Loan Agreement with MCH International Pte Ltd"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2015-08-18",
+          "Text": "YG Logistics Pte Ltd amended the Loan Agreement with MCH International Pte Ltd"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2016-03-18",
+          "Text": "YG Logistics Pte Ltd exercised its rights under the Deed of Share Charge"
+        }
+      ],
+      "Issue": "Whether the defendants by counterclaim engaged in a lawful or unlawful means conspiracy by usurping board control and commencing legal actions",
+      "Rule": "A party may claim damages for conspiracy if it can prove an agreement to cause injury via unlawful acts or lawful acts done with the predominant intention to harm",
+      "Application": "The actions taken were completely lawful and pursued to further legitimate commercial self-interests, with no predominant intention to injure the plaintiffs by counterclaim.",
+      "Judicial_Reasoning_Log": "The court dismissed the counterclaim, finding that the actions of the defendants by counterclaim were lawful and pursued to further their legitimate self-interests rather than with a predominant intention to injure the plaintiffs."
     },
     "Label": "Not Liable",
     "Leakage_Score": 0
