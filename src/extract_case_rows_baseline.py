@@ -1,22 +1,17 @@
-import os
 import json
 import re
-from pathlib import Path
 import pdfplumber
 from openai import OpenAI
+
+from config import OPENAI_API_KEY, EXTRACTION_MODEL, PDF_INPUT_ALL, EXTRACTION_OUTPUT
 
 # =========================
 # 1. CONFIG
 # =========================
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI(api_key=OPENAI_API_KEY)
 
-MODEL_NAME = "gpt-5.1"
-
-INPUT_FOLDER = Path("Data/PDFs/ALL")
-OUTPUT_FOLDER = Path("Data/Processed")
-
-INPUT_FOLDER.mkdir(parents=True, exist_ok=True)
-OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
+INPUT_FOLDER = PDF_INPUT_ALL
+OUTPUT_FOLDER = EXTRACTION_OUTPUT
 
 # =========================
 # 2. HARD + SOFT LEAKAGE DETECTION
@@ -312,22 +307,23 @@ def process_pdf(pdf_path):
     full_text = extract_pdf_text(pdf_path)
 
     try:
-        response = client.responses.create(
-            model=MODEL_NAME,
+        response = client.chat.completions.create(
+            model=EXTRACTION_MODEL,
             temperature=0,
-            input=[
+            response_format={"type": "json_object"},
+            messages=[
                 {
                     "role": "system",
                     "content": "Return strict JSON only. No markdown. Follow schema exactly."
                 },
                 {
                     "role": "user",
-                    "content": PROMPT_TEMPLATE + full_text[:100000]
+                    "content": PROMPT_TEMPLATE + full_text
                 }
             ]
         )
 
-        content = response.output_text
+        content = response.choices[0].message.content or "{}"
         data = safe_json_load(content)
 
         rows = data.get("results", [])

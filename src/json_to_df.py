@@ -1,66 +1,59 @@
+"""Flatten audited JSON case files into a CSV for modelling.
+
+Run from the project root:
+    python src/json_to_df.py
+"""
 import json
-import pandas as pd
 from itertools import product
 from pathlib import Path
 
-# 1. Define the target directory containing your JSON files
-# Using raw string (r"...") to handle Windows backslashes safely
-data_dir = Path(r"data\processed\FinalAudited")
+import pandas as pd
 
-rows = []
+from config import AUDIT_OUTPUT, CSV_OUTPUT
 
-# 2. Iterate through every .json file in the directory
-for filepath in data_dir.glob("*.json"):
-    with open(filepath, 'r', encoding='utf-8') as f:
+
+def build_dataframe(data_dir: Path) -> pd.DataFrame:
+    rows = []
+    for filepath in sorted(data_dir.glob("*.json")):
         try:
-            data = json.load(f)
+            data = json.loads(filepath.read_text(encoding="utf-8"))
         except json.JSONDecodeError:
-            print(f"Skipping {filepath.name}: Invalid JSON format.")
+            print(f"Skipping {filepath.name}: invalid JSON.")
             continue
 
-    # 3. Separate plaintiffs and defendants for the current file
-    plaintiffs = [item for item in data if item.get('Party_Details', {}).get('Role') == 'Plaintiff']
-    defendants = [item for item in data if item.get('Party_Details', {}).get('Role') == 'Defendant']
+        plaintiffs = [r for r in data if r.get("Party_Details", {}).get("Role") == "Plaintiff"]
+        defendants = [r for r in data if r.get("Party_Details", {}).get("Role") == "Defendant"]
 
-    # 4. Generate every combination for this specific case/file
-    for p, d in product(plaintiffs, defendants):
-        # Safely extract dictionaries
-        meta = p.get('Metadata', {})
-        p_details = p.get('Party_Details', {})
-        d_details = d.get('Party_Details', {})
-        
-        # Build the flat row dictionary
-        row = {
-            # Metadata
-            'Case_Number': meta.get('Case_Number'),
-            'Coram': meta.get('Coram'),
-            'Judge': meta.get('Judge'),
-            'Date': meta.get('Date'),
-            'Tribunal_Court': meta.get('Tribunal_Court'),
-            
-            # Party Names
-            'Plaintiff_Name': p_details.get('Name'),
-            'Defendant_Name': d_details.get('Name'),
-            
-            # Combined Text Fields (Arrays of Arrays)
-            'Combined_Facts': [p_details.get('Facts', []), d_details.get('Facts', [])],
-            'Combined_Issue': [p_details.get('Issue', ''), d_details.get('Issue', '')],
-            'Combined_Rule': [p_details.get('Rule', ''), d_details.get('Rule', '')],
-            'Combined_Application': [p_details.get('Application', ''), d_details.get('Application', '')],
-            
-            # Split Labels
-            'plaintiff_label': p.get('Label'),
-            'defendant_label': d.get('Label')
-        }
-        
-        rows.append(row)
+        for p, d in product(plaintiffs, defendants):
+            meta  = p.get("Metadata", {})
+            p_det = p.get("Party_Details", {})
+            d_det = d.get("Party_Details", {})
+            rows.append({
+                "Case_Number":          meta.get("Case_Number"),
+                "Coram":                meta.get("Coram"),
+                "Judge":                meta.get("Judge"),
+                "Date":                 meta.get("Date"),
+                "Tribunal_Court":       meta.get("Tribunal_Court"),
+                "Plaintiff_Name":       p_det.get("Name"),
+                "Defendant_Name":       d_det.get("Name"),
+                "Combined_Facts":       [p_det.get("Facts", []), d_det.get("Facts", [])],
+                "Combined_Issue":       [p_det.get("Issue", ""), d_det.get("Issue", "")],
+                "Combined_Rule":        [p_det.get("Rule", ""), d_det.get("Rule", "")],
+                "Combined_Application": [p_det.get("Application", ""), d_det.get("Application", "")],
+                "plaintiff_label":      p.get("Label"),
+                "defendant_label":      d.get("Label"),
+            })
 
-# 5. Create the master flat DataFrame from all files
-df = pd.DataFrame(rows)
+    return pd.DataFrame(rows)
 
-# View the total number of rows and the first few entries
-print(f"Total combinations processed: {len(df)}")
-print(df.head())
 
-# Export the master DataFrame to a CSV for easy viewing
-df.to_csv('court_cases.csv', index=False)
+def main() -> None:
+    df = build_dataframe(AUDIT_OUTPUT)
+    print(f"Total combinations: {len(df)}")
+    print(df.head())
+    df.to_csv(CSV_OUTPUT, index=False)
+    print(f"Saved -> {CSV_OUTPUT}")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,289 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Suit 798/2007",
+      "Coram": "Judith Prakash J",
+      "Judge": "Judith Prakash J",
+      "Date": "2009-07-06",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "ABB Holdings Pte Ltd",
+      "Law_Firm": "Lee & Lee",
+      "Counsel": [
+        "Tan Tee Jim SC",
+        "Julian Tay",
+        "Jiang Ke-Yue"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2009-01-01",
+          "Text": "ABB Holdings Pte Ltd, owned by ABB Asea Brown Boveri Ltd of Switzerland, was established in Singapore as the holding company for ABB's Singapore businesses and became the sole shareholder of ABB Installation Materials (East Asia) Pte Ltd and ABB Industry Pte Ltd"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-07-19",
+          "Text": "On 19 July 1996, ABB Holdings Pte Ltd entered into an employment agreement with Sher Hock Guan Charles covering the period from 1 January 1997 to 31 January 2000, appointing him as President of ABB Installation Materials (East Asia) Pte Ltd and requiring him to use his best endeavours to promote the interest and welfare of the ABB Group"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1999-09-20",
+          "Text": "On 20 September 1999, ABB Holdings Pte Ltd issued a second employment contract effective 1 February 2000 for Sher Hock Guan Charles, with ABB Installation Materials (East Asia) Pte Ltd as the employing entity, containing clauses on secrecy of office matters and prohibiting private participation in other business activities, especially in ABB's line of business"
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-01-04",
+          "Text": "By 4 January 2000, an Employee Handbook applicable to ABB Holdings Pte Ltd and other ABB Singapore entities set out general terms and conditions of employment, including policies on conflict of interest, protection of company assets, and prohibition of private participation in competing business activities"
+        }
+      ],
+      "Issue": "Whether a holding company of an industrial group can hold a former senior manager to contractual and equitable duties arising from group-level employment documentation and structural arrangements when his formal employer entities are operating subsidiaries",
+      "Rule": "A parent or holding entity seeking to rely on contractual or equitable obligations must show that the individual was its employee or officer, or that the relevant terms were clearly incorporated so as to extend duties to that entity, and courts construe ambiguous employment instruments contra proferentem against the drafting employer",
+      "Application": "The holding company relied on employment letters it had issued and on the Employee Handbook to contend that group-wide obligations extended to it, while the former manager emphasised that his contractual employer was the operating subsidiary and that the handbook and later contracts did not expressly impose duties in favour of the holding entity. The parties disputed whether the structural role of the holding company and the manager's seniority sufficed to create direct obligations to the holding company absent clear contractual wording",
+      "Judicial_Reasoning_Log": "The court found that ABB Holdings Pte Ltd functioned as a non-operating holding company and that Sher Hock Guan Charles was never its employee in substance, despite the first two employment letters being issued on its letterhead. The express obligation in the 1996 contract to promote the interests and welfare of the ABB Group was not carried forward into the 1999 and 2001 contracts, and the Employee Handbook did not mention the ABB Group or clearly extend obligations to the holding company. Given the omission of group-wide language from later contracts drafted by the employer, the court declined to imply an onerous obligation to promote the interests of about 100 ABB entities worldwide, applying contra proferentem. The court held that no contractual or equitable duties were owed by the defendant to ABB Holdings Pte Ltd and dismissed its claim with costs."
+    },
+    "Label": "Claim Dismissed",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 798/2007",
+      "Coram": "Judith Prakash J",
+      "Judge": "Judith Prakash J",
+      "Date": "2009-07-06",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "ABB Installation Materials (East Asia) Pte Ltd",
+      "Law_Firm": "Lee & Lee",
+      "Counsel": [
+        "Tan Tee Jim SC",
+        "Julian Tay",
+        "Jiang Ke-Yue"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1997-01-01",
+          "Text": "ABB Installation Materials (East Asia) Pte Ltd manufactured miniature circuit breakers and was a wholly owned subsidiary of ABB Holdings Pte Ltd"
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1997-01-01",
+          "Text": "From January 1997 to January 2000, Sher Hock Guan Charles served as President of ABB Installation Materials (East Asia) Pte Ltd"
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1998-07-01",
+          "Text": "From July 1998 to February 2003, Sher Hock Guan Charles was a director of ABB Installation Materials (East Asia) Pte Ltd"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2000-02-01",
+          "Text": "With effect from 1 February 2000, ABB Installation Materials (East Asia) Pte Ltd became the formal employing entity under the second employment contract with Sher Hock Guan Charles, which prohibited private participation in other business activities, especially in ABB's line of business, and required secrecy in office matters"
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2001-01-01",
+          "Text": "On 1 January 2001, ABB Installation Materials (East Asia) Pte Ltd transferred the employment of Sher Hock Guan Charles to ABB Industry Pte Ltd pursuant to a new organisation structure, while he remained a director of ABB Installation Materials (East Asia) Pte Ltd"
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-01-04",
+          "Text": "The Employee Handbook in force by 4 January 2000, applicable to ABB Installation Materials (East Asia) Pte Ltd, stated that every employee had a duty to protect company assets and confidential information and to avoid conflicts between personal interests and those of the company, including restrictions on investments and outside work with competitors"
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2002-02-18",
+          "Text": "On 18 February 2002, Great Vision International Pte Ltd was incorporated in Singapore by Sher Hock Sing and others to pursue a property development project in Xiamen, China, after an opportunity was introduced through contacts of Sher Hock Guan Charles"
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-12-03",
+          "Text": "On 3 December 2002, Xiamen Fu Cheng Real Estate Property Development Co. Ltd, a subsidiary of Great Vision, recorded a RMB70,000 cash advance for travel expenses in its accounts under the name of Sher Hock Guan Charles, with payment acknowledged by director Huang Jianhuang"
+        }
+      ],
+      "Issue": "Whether a former president and director of a low voltage manufacturing company contravened his contractual and equitable management obligations by diverting a business opportunity and engaging in outside ventures while still owing duties to the company",
+      "Rule": "Senior officers must avoid conflicts between their personal interests and those of their company, refrain from undisclosed participation in external businesses that could impair their loyalty or performance, and not exploit for personal gain opportunities that properly belong to their company or fall within its line of business",
+      "Application": "The defendant orchestrated the Xiamen property project through Great Vision and Xiamen Fu Cheng while still in office, pointing to his role in sourcing the land opportunity, the RMB70,000 travel advance booked in his name, and his later assumption of directorship and shareholding. The defendant responded that the property development was outside the company's low voltage business, that he merely passed the opportunity to his brother and an investor without active involvement during his tenure, and that any accounting entry in his name was an error relating to others' travel",
+      "Judicial_Reasoning_Log": "The court accepted that ABB Installation Materials (East Asia) Pte Ltd was an operating company in low voltage products and that the defendant, as its director, owed it equitable duties. However, the evidence did not show that he actively participated in the Great Vision or Xiamen Fu Cheng property development while still employed, beyond introducing the opportunity to his brother and an investor. The RMB70,000 advance could not conclusively be tied to his own travel or work on the project, and there was no proof that the property venture competed with or harmed the company's business. The court held that any technical contravention of the contractual prohibition on private participation in other business activities would at most have caused nominal loss and did not form a substantial basis for relief. Nonetheless, the court found that certain later conduct relating to XIHARI and Huadian also engaged his duties as a director of this plaintiff, and granted judgment for damages or an account of profits in relation to those limited contraventions."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 798/2007",
+      "Coram": "Judith Prakash J",
+      "Judge": "Judith Prakash J",
+      "Date": "2009-07-06",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "ABB Industry Pte Ltd",
+      "Law_Firm": "Lee & Lee",
+      "Counsel": [
+        "Tan Tee Jim SC",
+        "Julian Tay",
+        "Jiang Ke-Yue"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2001-01-01",
+          "Text": "ABB Industry Pte Ltd carried on business in Singapore as, among other things, a manufacturer of switchgears and an installer of electrical works"
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-01-01",
+          "Text": "With effect from 1 January 2001, Sher Hock Guan Charles became General Manager, BAU LV Products and Systems, of ABB Industry Pte Ltd"
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-09-01",
+          "Text": "From September 2001 to February 2003, Sher Hock Guan Charles also held the position of Vice-President and Head of Business Area Low Voltage Products, Automation Technology Products Division Asia South, within ABB Industry Pte Ltd"
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2001-01-15",
+          "Text": "On 15 January 2001, ABB Industry Pte Ltd issued a letter transferring Sher Hock Guan Charles' employment from ABB Installation Materials (East Asia) Pte Ltd, attaching a Summary of Terms and Conditions of Employment for staff grade M1/M2 that repeated the prohibition on private participation in other business activities and reserved management's right to amend employment policies"
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-01-04",
+          "Text": "The Employee Handbook effective as at 4 January 2000 contained provisions requiring employees to protect company assets and confidential information, avoid conflicts of interest, and refrain from investments or outside work that might affect business decisions or performance"
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2002-10-01",
+          "Text": "By late October 2002, while still employed by ABB Industry Pte Ltd, Sher Hock Guan Charles attended the 10th anniversary celebrations of ABB Xiamen in China, where he learnt that XIHARI was looking for a technical adviser for its research and development projects"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2002-12-03",
+          "Text": "Between 3 December 2002 and 3 February 2003, Sher Hock Guan Charles exchanged nine emails with former ABB engineer Guenther Leonhardt, relaying XIHARI's interest in engaging him as a technical adviser and technical controller for a manufacturing company that would develop and market new medium voltage products in China and potentially other Asian markets"
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-11-01",
+          "Text": "From about November 2002, while still employed by ABB Industry Pte Ltd, Sher Hock Guan Charles began considering and preparing business plans and forecasts for Huadian, a joint venture company between XIHARI and Fu Hsiang that would manufacture and sell medium voltage circuit breakers, culminating in a detailed presentation to Huadian's board on 3 March 2003"
+        }
+      ],
+      "Issue": "Whether a senior manager of a switchgear business contravened his contractual and equitable management obligations by assisting a research institute and a new joint venture to develop and commercialise competing medium voltage products while still employed",
+      "Rule": "Senior managers who occupy positions of trust must act in the best interests of their employer, avoid conflicts between their own future plans and their employer's business, disclose material information about emerging competitive threats, and refrain from using their time and position to advance a competing enterprise before their employment ends",
+      "Application": "The defendant failed to disclose XIHARI's plans to develop and market a new generation of medium voltage products, actively facilitated the engagement of a former ABB expert as technical adviser to XIHARI and the new manufacturer, and used his time and knowledge to prepare Huadian's business plan before resigning. The defendant responded that his role was limited to communications for a Chinese research institute that did not directly compete in the company's markets, that he had no access to confidential medium voltage manufacturing information, and that his substantive responsibilities were confined to low voltage products in Asia South",
+      "Judicial_Reasoning_Log": "The court held that the Employee Handbook formed part of the defendant's employment terms with ABB Industry Pte Ltd and that, given his seniority as general manager and vice-president, he owed equitable duties similar to those of a director. It found that ABB Industry Pte Ltd was involved in the sale of medium voltage products as part of project packages and that the defendant, through his participation in Country Management Team meetings, was aware of this. The court concluded that he contravened his duties by failing to inform ABB Industry Pte Ltd and ABB Installation Materials (East Asia) Pte Ltd of XIHARI's intention to develop and market new medium voltage circuit breakers, by assisting XIHARI to secure the services of Guenther Leonhardt as technical adviser and controller for the new manufacturing company, and by spending time from about November 2002 preparing business plans and forecasts for Huadian while still employed. The court rejected broader allegations that he misused confidential technical information or was the prime mover in setting up Huadian, finding that product development was driven by Yong Ying and XIHARI and that he lacked access to ABB's medium voltage manufacturing secrets. Judgment was entered for ABB Installation Materials (East Asia) Pte Ltd and ABB Industry Pte Ltd for damages to be assessed or an account of profits at their election, with the scope of recovery limited to the specific contraventions identified."
+    },
+    "Label": "Claim Allowed in Part",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Suit 798/2007",
+      "Coram": "Judith Prakash J",
+      "Judge": "Judith Prakash J",
+      "Date": "2009-07-06",
+      "Tribunal_Court": "High Court"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Sher Hock Guan Charles",
+      "Law_Firm": "KhattarWong",
+      "Counsel": [
+        "Deborah Barker SC",
+        "Ang Keng Ling"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "1990-01-01",
+          "Text": "Sher Hock Guan Charles, a Singaporean, began working for various ABB Group companies in 1990, including ABB China Ltd and ABB Xiamen Switchgear Co Ltd in Xiamen, China"
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "1997-01-01",
+          "Text": "From January 1997, Sher Hock Guan Charles was based in Singapore, serving as President of ABB Installation Materials (East Asia) Pte Ltd and later holding senior roles in ABB Industry Pte Ltd until his departure in February 2003"
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "1998-07-01",
+          "Text": "From July 1998 to February 2003, he was a director of ABB Installation Materials (East Asia) Pte Ltd, while also managing low voltage products in South East Asia, South Asia and Oceania"
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2001-01-01",
+          "Text": "With effect from 1 January 2001, his employment was transferred to ABB Industry Pte Ltd, where he became General Manager for Business Area Low Voltage Products and Systems, and later Vice-President and Head of Business Area Low Voltage Products for the Automation Technology Products Division Asia South"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1996-07-19",
+          "Text": "On 19 July 1996, he signed his first employment contract with ABB Holdings Pte Ltd, which incorporated the General Terms and Conditions of Employment of the ABB Singapore Country Organisation and required him to use his best endeavours to promote the interest and welfare of the ABB Group for the period 1 January 1997 to 31 January 2000"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "1999-09-20",
+          "Text": "On 20 September 1999, he entered into a second employment contract effective 1 February 2000, under which he undertook to maintain secrecy in office matters and was expressly prohibited from private participation in other business activities, especially in ABB's line of business"
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2000-01-04",
+          "Text": "By 4 January 2000, he had access to the ABB Singapore Employee Handbook,every employee had a duty to protect company assets and confidential information and to avoid conflicts of interest, including restrictions on investments in competitors and outside work using company time or facilities"
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2001-01-15",
+          "Text": "On 15 January 2001, he received a letter from ABB Industry Pte Ltd confirming the transfer of his employment from ABB Installation Materials (East Asia) Pte Ltd with retrospective effect from 1 January 2001, attaching a Summary of Terms and Conditions of Employment for staff grade M1/M2 that repeated the prohibition on private participation in other business activities"
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-02-01",
+          "Text": "In February 2002, he passed the Xiamen property development opportunity to his brother Sher Hock Sing and investor Lin Qunxing. Great Vision International Pte Ltd was incorporated in February 2002 to undertake the project through its Chinese subsidiary, Xiamen Fu Cheng"
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2002-01-01",
+          "Text": "The notes to the 2002 financial statements recorded an outstanding RMB70,000 travel expenses loan under his name, and the voucher dated 3 December 2002 showed Huang Jianhuang as the recipient"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2002-10-01",
+          "Text": "In late October 2002, while attending ABB Xiamen's 10th anniversary celebrations, he learnt that XIHARI was looking for a technical adviser for its research and development projects"
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2002-12-03",
+          "Text": "Between 3 December 2002 and 3 February 2003, he exchanged nine emails with former ABB engineer Guenther Leonhardt, relaying XIHARI's interest in engaging him as a technical adviser and technical controller for a manufacturing company that would develop and market new medium voltage products in China and potentially other Asian markets"
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2002-11-01",
+          "Text": "From about November 2002, he began considering and preparing business plans and forecasts for Huadian, a joint venture between XIHARI and Fu Hsiang to manufacture and sell medium voltage circuit breakers, while still employed by ABB Industry Pte Ltd"
+        },
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2003-02-01",
+          "Text": "By February 2003, he had decided to leave ABB Industry Pte Ltd and had informed senior ABB officer Tom Sjoekvist of his intention to resign"
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2003-03-03",
+          "Text": "On 3 March 2003, shortly after leaving ABB Industry Pte Ltd, he commenced employment as General Manager of Xiamen Huadian Switchgear Co. Ltd, a joint venture company established in December 2002 by XIHARI and Fu Hsiang to commercialise medium voltage vacuum circuit breakers"
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2004-03-28",
+          "Text": "By 28 March 2004, after German company Gelpag mbH in which he held an 85% share acquired 16.2% of Huadian's shares, he became a director of Huadian, with the remaining shares held by Fu Hsiang and XIHARI"
+        }
+      ],
+      "Issue": "Whether a senior manager who transitions from a multinational's switchgear business to a new joint venture in the same industry contravened his contractual and equitable management obligations by engaging in preparatory acts and assistance for the new venture while still employed",
+      "Rule": "An employee in a senior management position must act in good faith towards his employer, avoid conflicts between his own future business plans and his employer's interests, disclose material information about emerging competitive threats, and refrain from using his position or working time to advance a competing enterprise before his employment ends, although he may plan to compete after departure if he does not misuse confidential information or solicit business during employment",
+      "Application": "The defendant failed to disclose XIHARI's plans to develop and market a new generation of medium voltage products, facilitated the engagement of a former ABB expert as technical adviser to XIHARI and the new manufacturer, and used his time and knowledge to prepare Huadian's business plan before resigning, thereby placing his own future interests in conflict with his employer's. The defendant responded that his responsibilities were confined to low voltage products, that XIHARI as a Chinese research institute and Huadian as a Chinese manufacturer did not materially threaten the Singapore entities' markets, that he had no access to confidential medium voltage manufacturing information, and that his communications and planning fell within permissible preparation for post-employment activities",
+      "Judicial_Reasoning_Log": "The court held that the Employee Handbook formed part of the defendant's employment terms and that, given his seniority as president, director, general manager and vice-president, he owed equitable duties akin to those of a director to ABB Installation Materials (East Asia) Pte Ltd and ABB Industry Pte Ltd. It rejected the contention that his obligations were confined strictly to low voltage products, noting his participation in Country Management Team meetings where medium voltage business was discussed and ABB Industry Pte Ltd's role in supplying such products as part of projects. The court found that he contravened his duties by failing to inform the plaintiffs of XIHARI's intention to develop and market a new generation of medium voltage circuit breakers, by assisting XIHARI to secure the services of Guenther Leonhardt as technical adviser and controller for the new manufacturing company, and by spending time from about November 2002 preparing business plans and forecasts for Huadian while still employed. It concluded that merely passing the Xiamen property opportunity to his brother and investor did not amount to a serious contravention and that there was no proof he misused confidential technical information or was the prime mover in setting up Huadian. Judgment was entered for ABB Installation Materials (East Asia) Pte Ltd and ABB Industry Pte Ltd for damages to be assessed or an account of profits at their election, while the claim of ABB Holdings Pte Ltd was dismissed."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  }
+]

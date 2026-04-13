@@ -1,26 +1,18 @@
-﻿import os
 import json
 import re
 from pathlib import Path
 from typing import Any, Dict, List
 
 import pdfplumber
-from dotenv import load_dotenv, find_dotenv
 from openai import OpenAI
+
+from config import OPENAI_API_KEY, EXTRACTION_MODEL, PDF_INPUT_ALL, EXTRACTION_OUTPUT
 
 # =========================
 # 1. CONFIG & SYSTEM SETUP
 # =========================
 
-load_dotenv(find_dotenv())
-
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-MODEL_NAME = "gpt-5.1"
-
-INPUT_FOLDER = Path("Data/Testinput")
-OUTPUT_FOLDER = Path("Data/Processed/testouput")
-INPUT_FOLDER.mkdir(parents=True, exist_ok=True)
-OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
+client = OpenAI(api_key=OPENAI_API_KEY)
 
 SYSTEM_PROMPT = (
     "Return only valid JSON with exactly two top-level arrays named "
@@ -59,7 +51,7 @@ def contains_leakage(text: str) -> int:
 def scrub_text(text: str) -> str:
     if not text:
         return ""
-    
+
     # 1. Replace severe verdict/legal verbs with neutral synonyms
     replacements = [
         (r"\bbreach of\b", "contravention of"), # Catches grammatical awkwardness first
@@ -73,10 +65,10 @@ def scrub_text(text: str) -> str:
         (r"\balleged\b", "stated"),
         (r"\basserted\b", "stated")
     ]
-    
+
     for pat, rep in replacements:
         text = re.sub(pat, rep, text, flags=re.IGNORECASE)
-        
+
     # 2. Delete trial-evidence words completely
     deletions = [
         r"\baccording to .*? evidence\b",
@@ -86,10 +78,10 @@ def scrub_text(text: str) -> str:
         r"\badmitted\b",
         r"\baffidavit\b"
     ]
-    
+
     for pat in deletions:
         text = re.sub(pat, "", text, flags=re.IGNORECASE)
-        
+
     # Clean up double spaces left by deletions
     text = re.sub(r"\s+", " ", text)
     return text.strip()
@@ -115,7 +107,7 @@ Perform all tasks together in one pass:
 
 ### BANNED VOCABULARY
 You must completely ban the following words from your vocabulary when writing the Issue, Rule, and Application:
-'fiduciary', 'breach', 'breached', 'liable', 'alleged', 'asserted'. 
+'fiduciary', 'breach', 'breached', 'liable', 'alleged', 'asserted'.
 Use neutral synonyms like: 'management obligations', 'contravened', 'legally responsible', and 'stated'.
 
 ### EXTRACTION RULES
@@ -128,8 +120,8 @@ Use neutral synonyms like: 'management obligations', 'contravened', 'legally res
    - Ignore Third Party claims completely.
 2. HIGH-DENSITY FACTS:
    - Extract observable data: dates, names, communications, roles, documents, payments, contracts.
-   - FACT DATING RULES: 
-    1. Extract the specific ISO date (YYYY-MM-DD). 
+   - FACT DATING RULES:
+    1. Extract the specific ISO date (YYYY-MM-DD).
     2. PARTIAL DATES: If only a month/year, use YYYY-MM-01. If only a year, use YYYY-01-01.
     3. DATE RANGES: Use the START date.
    - CRITICAL: You must extract at least 4 to 8 highly specific facts per party. Do not be lazy.
@@ -143,7 +135,7 @@ Use neutral synonyms like: 'management obligations', 'contravened', 'legally res
    - Defendant (including Respondents): `Liable`, `Not Liable`, `Partially Liable`, `Appeal Allowed`, `Appeal Dismissed`, `Appeal Allowed in Part`, `Unknown`.
 5. COUNTERCLAIMS (CRITICAL RULE):
    - A Counterclaim is treated as an entirely separate lawsuit.
-   - YOU MUST EXTRACT BOTH A PLAINTIFF ROW AND A DEFENDANT ROW FOR THE COUNTERCLAIM. 
+   - YOU MUST EXTRACT BOTH A PLAINTIFF ROW AND A DEFENDANT ROW FOR THE COUNTERCLAIM.
    - CRITICAL: You MUST check the title page of the document. If it lists a "Plaintiff by counterclaim" and "Defendant(s) by counterclaim", you MUST extract them.
    - Even if the Defendant by Counterclaim is the same entity from the main claim, you MUST generate a separate, complete JSON object for them under the counterclaims array. Do not skip them!
    - CRITICAL FORMATTING: The `Case_Number` MUST exactly match the main case number, followed by exactly ` (Counterclaim)`. Example: `Suit No 418 of 2018 (Counterclaim)`.
@@ -322,7 +314,7 @@ def normalize_main_claim_label(role: str, value: Any) -> str:
 
 def clean_row(row: Dict[str, Any]) -> Dict[str, Any]:
     party = row.get("Party_Details", {})
-    
+
     if not party.get("Name"):
         return {}
 
@@ -332,7 +324,7 @@ def clean_row(row: Dict[str, Any]) -> Dict[str, Any]:
     for field in ["Issue", "Rule", "Application"]:
         raw = party.get(field, "")
         scrubbed = scrub_text(raw)
-        
+
         leakage_score += contains_leakage(scrubbed)
         party[field] = scrubbed
 
@@ -341,9 +333,9 @@ def clean_row(row: Dict[str, Any]) -> Dict[str, Any]:
     for fact in party.get("Facts", []):
         raw = fact.get("Text", "")
         scrubbed = scrub_text(raw)
-        
+
         leakage_score += contains_leakage(scrubbed)
-        
+
         if scrubbed:
             fact["Text"] = scrubbed
             clean_facts.append(fact)
@@ -354,7 +346,7 @@ def clean_row(row: Dict[str, Any]) -> Dict[str, Any]:
     role = normalize_role(party.get("Role", ""))
     party["Role"] = role
     row["Label"] = normalize_main_claim_label(role, party.pop("Conclusion", "Unknown"))
-    
+
     row["Party_Details"] = party
     row["Leakage_Score"] = leakage_score
 
@@ -371,12 +363,12 @@ def process_pdf(pdf_path: Path) -> List[Dict[str, Any]]:
 
     try:
         response = client.chat.completions.create(
-            model=MODEL_NAME,
+            model=EXTRACTION_MODEL,
             temperature=0,
             response_format={"type": "json_object"},
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": PROMPT_TEMPLATE + full_text[:100000]},
+                {"role": "user", "content": PROMPT_TEMPLATE + full_text},
             ],
         )
 
@@ -397,7 +389,7 @@ def process_pdf(pdf_path: Path) -> List[Dict[str, Any]]:
 
         # Filter out empty rows and combine them into a single flat list
         flat_output = [r for r in (processed_rows + processed_counterclaims) if r]
-        
+
         return flat_output
 
     except Exception as exc:
@@ -406,9 +398,9 @@ def process_pdf(pdf_path: Path) -> List[Dict[str, Any]]:
 
 
 def main() -> None:
-    pdf_files = list(INPUT_FOLDER.glob("*.pdf"))
+    pdf_files = list(PDF_INPUT_ALL.glob("*.pdf"))
     if not pdf_files:
-        print("No PDF files found.")
+        print(f"No PDF files found in {PDF_INPUT_ALL}")
         return
 
     for pdf_file in pdf_files:
@@ -416,7 +408,7 @@ def main() -> None:
         flat_output = process_pdf(pdf_file)
 
         if flat_output:
-            output_path = OUTPUT_FOLDER / f"{pdf_file.stem}.json"
+            output_path = EXTRACTION_OUTPUT / f"{pdf_file.stem}.json"
             with open(output_path, "w", encoding="utf-8") as handle:
                 json.dump(flat_output, handle, indent=2, ensure_ascii=False)
             print(f"Success: Generated {len(flat_output)} total rows.")

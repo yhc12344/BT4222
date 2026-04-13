@@ -1,26 +1,19 @@
-import os
 import json
 import re
 from copy import deepcopy
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
-from dotenv import load_dotenv
 import pdfplumber
 from openai import OpenAI
+
+from config import OPENAI_API_KEY, AUDIT_MODEL, AUDIT_INPUT, AUDIT_OUTPUT, PDF_INPUT_ALL
+from label_checker import extract_labels_from_pdf
 
 # =========================
 # 1. CONFIG
 # =========================
-load_dotenv()
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-
-MODEL_NAME = "gpt-5.4-mini"
-INPUT_FOLDER = Path("Data/Processed/testouput")
-OUTPUT_FOLDER = Path("Data/Processed/UpdatedFinalAuditedChecked")
-
-INPUT_FOLDER.mkdir(parents=True, exist_ok=True)
-OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
+client = OpenAI(api_key=OPENAI_API_KEY)
 
 # =========================
 # 2. LABEL + FACT TYPE RULES
@@ -1193,7 +1186,7 @@ def normalize_audit_result(result: Dict[str, Any], row: Dict[str, Any]) -> Dict[
 # =========================
 def audit_row_with_model(source_text: str, row: Dict[str, Any]) -> Dict[str, Any]:
     response = client.chat.completions.create(
-        model=MODEL_NAME,
+        model=AUDIT_MODEL,
         reasoning_effort="high",
         response_format={"type": "json_object"},
         messages=[
@@ -1349,9 +1342,62 @@ def apply_case_level_consistency(rows: List[Dict[str, Any]]) -> List[Dict[str, A
 # =========================
 # 9. FILE PROCESSING
 # =========================
+
+def find_pdf(json_path: Path) -> Optional[Path]:
+    """Look for a matching PDF alongside the JSON, then fall back to PDF_INPUT_ALL."""
+    local = json_path.with_suffix(".pdf")
+    if local.exists():
+        return local
+    collection = PDF_INPUT_ALL / json_path.with_suffix(".pdf").name
+    if collection.exists():
+        return collection
+    return None
+
+
+LABEL_CHECKER_MAP = {
+    "claim allowed":         "Claim Allowed",
+    "claim dismissed":       "Claim Dismissed",
+    "claim allowed in-part": "Claim Allowed in Part",
+    "claim allowed in part": "Claim Allowed in Part",
+    "liable":                "Liable",
+    "not liable":            "Not Liable",
+}
+
+
+def reconcile_with_label_check(
+    rows: List[Dict[str, Any]],
+    label_results: List[Dict[str, Any]],
+) -> List[Dict[str, Any]]:
+    """Fill Unknown labels using ground-truth labels extracted directly from the PDF."""
+    if not label_results:
+        return rows
+
+    lookup: Dict[Tuple[str, str], str] = {}
+    for result in label_results:
+        case_num = normalize_name(result.get("Case_Number", ""))
+        for side in ("Plaintiff", "Defendant"):
+            party = normalize_name(result.get(side, ""))
+            canon = LABEL_CHECKER_MAP.get(str(result.get(f"{side}_Label", "")).strip().lower())
+            if party and canon:
+                lookup[(case_num, party)] = canon
+
+    for row in rows:
+        if row.get("Label", "Unknown") != "Unknown":
+            continue
+        key = (
+            normalize_name(row.get("Metadata", {}).get("Case_Number", "")),
+            normalize_name(row.get("Party_Details", {}).get("Name", "")),
+        )
+        ground_truth = lookup.get(key)
+        if ground_truth:
+            row["Label"] = ground_truth
+
+    return rows
+
+
 def process_case(json_path: Path) -> None:
-    pdf_path = json_path.with_suffix(".pdf")
-    if not pdf_path.exists():
+    pdf_path = find_pdf(json_path)
+    if not pdf_path:
         print(f"Skipping {json_path.name}: no matching PDF found")
         return
 
@@ -1390,29 +1436,29 @@ def process_case(json_path: Path) -> None:
     corrected_rows = apply_case_level_consistency(corrected_rows)
     corrected_rows = fill_missing_representation(corrected_rows, pdf_path, pdf_text)
 
+    # Cross-validate any remaining Unknown labels against direct PDF label extraction
+    corrected_rows = reconcile_with_label_check(corrected_rows, extract_labels_from_pdf(pdf_text))
+
     for row in corrected_rows:
         row["Leakage_Score"] = calculate_leakage_score(row)
 
-    corrected_path = OUTPUT_FOLDER / f"{json_path.stem}.correct.json"
-    with open(corrected_path, "w", encoding="utf-8") as f:
+    output_path = AUDIT_OUTPUT / f"{json_path.stem}.json"
+    with open(output_path, "w", encoding="utf-8") as f:
         json.dump(corrected_rows, f, indent=2, ensure_ascii=False)
 
-    print(f"  Saved: {corrected_path.name}")
+    print(f"  Saved: {output_path.name}")
 
 # =========================
 # 10. BATCH RUNNER
 # =========================
 def main() -> None:
     json_files = [
-        p for p in INPUT_FOLDER.glob("*.json")
-        if not p.name.endswith(".corrected.json")
-        and not p.name.endswith(".audit.json")
-        and not p.name.endswith(".review.json")
-        and not p.name.endswith(".correct.json")
+        p for p in AUDIT_INPUT.glob("*.json")
+        if not p.name.endswith((".audit.json", ".review.json"))
     ]
 
     if not json_files:
-        print("No JSON files found")
+        print(f"No JSON files found in {AUDIT_INPUT}")
         return
 
     for json_file in json_files:
