@@ -25,7 +25,7 @@ LABEL_MODEL: str      = os.getenv("LABEL_MODEL",      "gpt-5.1")
 # Inputs
 PDF_INPUT_ALL = Path("Data/PDFs/ALL")
 STATS_INPUT   = Path("Data/PDFs/ALL")
-AUDIT_INPUT   = Path("Data/Processed/testouput")
+AUDIT_INPUT   = Path("Data/Processed/FinalAudited")
 
 # Outputs
 EXTRACTION_OUTPUT = Path("Data/Processed/FinalAudited")
