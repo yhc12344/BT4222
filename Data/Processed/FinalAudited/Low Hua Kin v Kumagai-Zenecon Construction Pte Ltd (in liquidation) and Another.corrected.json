@@ -46,10 +46,10 @@
       "Rule": "A director owes management obligations to act in the interest of the company and must not utilize corporate assets to pursue personal ventures or gain control of third-party entities through undisclosed debt.",
       "Application": "The Defendant stated that the investments were legitimate business opportunities and that the eventual loss was caused by the improper timing of the share sale by liquidators. The Plaintiffs stated that the director used company funds as his personal 'war chest' for a boardroom tussle in another company.",
       "Conclusion": "Liable",
-      "Judicial_Reasoning_Log": "The court found the director in contravention of his management obligations. The investment provided no commercial benefit to the company and was made solely to further the director's personal agenda. The court ruled that his initial improper conduct in securing the margin loan was the effective cause of the S$2.98 million loss.",
+      "Judicial_Reasoning_Log": "The court found the director in contravention of his management obligations. The investment provided no commercial benefit to the company and was made solely to further the director's personal agenda. The court ruled that his initial improper conduct in securing the margin loan was the effective cause of the S$2.98 million loss."
+    },
       "Label": "Liable",
       "Leakage_Score": 0
-    }
   },
   {
     "Metadata": {
@@ -88,10 +88,10 @@
       "Rule": "A director’s duty to the parent company extends to ensuring that its subsidiaries are managed in a way that does not jeopardize the parent company's capital or interest.",
       "Application": "The Plaintiff stated that the director’s unauthorized management of the subsidiary led to a catastrophic loss of capital. The Defendant argued that the breakdown of the joint venture was the fault of the partner's lack of cooperation.",
       "Conclusion": "Claim Allowed",
-      "Judicial_Reasoning_Log": "The court upheld the claim. It found that the managing director owed obligations to the parent company which were contravened when he used the subsidiary’s assets for his own purposes, resulting in a loss that the parent company was entitled to recover.",
+      "Judicial_Reasoning_Log": "The court upheld the claim. It found that the managing director owed obligations to the parent company which were contravened when he used the subsidiary’s assets for his own purposes, resulting in a loss that the parent company was entitled to recover."
+    },
       "Label": "Claim Allowed",
       "Leakage_Score": 0
-    }
   },
   {
     "Metadata": {
@@ -136,9 +136,9 @@
       "Rule": "A director is legally responsible for losses incurred by a company if they cause the company to enter into high-risk financial obligations that have no genuine commercial justification for the entity itself.",
       "Application": "The Plaintiff stated that it was used as a mere shell to facilitate the director’s personal investment goals, leading to its financial distress. The Defendant stated that the shares were a valuable asset and the loss was crystallized by the liquidators' hurried sale.",
       "Conclusion": "Claim Allowed",
-      "Judicial_Reasoning_Log": "The court found that the company was placed in a position of extreme financial peril by the director’s undisclosed and speculative borrowing. The loss of S$2.98 million was a direct consequence of this improper management, and the director was ordered to reimburse the sum.",
+      "Judicial_Reasoning_Log": "The court found that the company was placed in a position of extreme financial peril by the director’s undisclosed and speculative borrowing. The loss of S$2.98 million was a direct consequence of this improper management, and the director was ordered to reimburse the sum."
+    },
       "Label": "Claim Allowed",
       "Leakage_Score": 0
-    }
   }
 ]

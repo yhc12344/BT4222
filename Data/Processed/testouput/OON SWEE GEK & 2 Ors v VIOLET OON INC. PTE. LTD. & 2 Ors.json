@@ -47,7 +47,7 @@
       "Issue": "Whether a founding shareholder is entitled to statutory relief for minority oppression if corporate restructuring agreements were extracted through economic duress.",
       "Rule": "A shareholder may petition the court for a buyout or to set aside agreements if another shareholder leverages illegitimate commercial pressure and undue influence to commandeer the company.",
       "Application": "The Plaintiff stated that her co-investor manufactured a financial crisis to coerce her into surrendering control of her namesake business. The Defendants argued that the renegotiated terms were standard commercial rescue measures freely agreed to by all parties.",
-      "Conclusion": "Claim Allowed",
+      "Label": "Claim Allowed",
       "Judicial_Reasoning_Log": "The court found that the 2019 agreements were executed under economic duress and undue influence. The judge set aside the agreements and ordered a buyout of the Defendants' shares under Section 216 of the Companies Act to resolve the oppression."
     }
   },
@@ -94,7 +94,7 @@
       "Issue": "Whether a director's consent to a corporate restructuring is legally valid when obtained through the threat of withholding necessary operational capital.",
       "Rule": "Consent to a commercial agreement is vitiated if it is obtained through illegitimate pressure that leaves the consenting party with no reasonable practical alternative.",
       "Application": "The Plaintiff stated she was forced to sign the new agreements to prevent the immediate collapse of the family business. The Defendants argued she was an experienced businesswoman who made a calculated commercial decision.",
-      "Conclusion": "Claim Allowed",
+      "Label": "Claim Allowed",
       "Judicial_Reasoning_Log": "The court agreed that the pressure applied was illegitimate and that the directors were subjected to undue influence. The agreements were set aside."
     }
   },
@@ -141,7 +141,7 @@
       "Issue": "Whether the systematic isolation and removal of a CEO by a co-investor constitutes actionable minority oppression.",
       "Rule": "A shareholder may establish oppression if they are unfairly excluded from the management of a company in contravention of an underlying mutual understanding of shared control.",
       "Application": "The Plaintiff stated his removal and isolation were orchestrated to force the family into submission. The Defendants argued his removal was necessary due to his poor management and the company's financial struggles.",
-      "Conclusion": "Claim Allowed",
+      "Label": "Claim Allowed",
       "Judicial_Reasoning_Log": "The court found that the investor's campaign to isolate the CEO and exaggerate his management failures was part of a deliberate strategy to exert undue influence and seize control of the company."
     }
   },
@@ -183,7 +183,7 @@
       "Issue": "Whether a corporate entity should be subject to a buyout order when its shareholders are deadlocked due to oppressive conduct by one faction.",
       "Rule": "When a company's affairs are conducted in a manner that is commercially unfair to a shareholder, the court may intervene to regulate the company's affairs or order the purchase of shares to break the deadlock.",
       "Application": "The Claimants stated that the company was being improperly controlled by the investor faction. The Defendants argued that the company's affairs were being managed strictly according to the binding 2019 agreements.",
-      "Conclusion": "Liable",
+      "Label": "Liable",
       "Judicial_Reasoning_Log": "As the nominal subject of the dispute, the court ordered that the shares in the company held by the Defendants be bought out by the Claimants to resolve the oppressive deadlock."
     }
   },
@@ -234,7 +234,7 @@
       "Issue": "Whether a director is legally responsible for minority oppression after utilizing economic duress to force the execution of revised corporate agreements.",
       "Rule": "Corporate agreements may be set aside, and oppression remedies triggered, if a party leverages illegitimate economic pressure and undue influence to seize control of a company.",
       "Application": "The Claimants stated that the director manufactured a corporate crisis and isolated a key family member to force them into signing highly unfavorable terms. The Defendant argued that the 2019 agreements were standard commercial renegotiations necessary to save the business.",
-      "Conclusion": "Liable",
+      "Label": "Liable",
       "Judicial_Reasoning_Log": "The court found that Murjani Manoj Mohan exerted economic duress and undue influence to change the shareholder arrangements with a view to taking control of the Company. The court ordered the Claimants to buy out the Defendants' shares at fair value."
     }
   },
@@ -280,7 +280,7 @@
       "Issue": "Whether an investment vehicle is legally responsible for oppressive corporate maneuvers orchestrated by its sole owner and director.",
       "Rule": "A corporate shareholder can be held legally responsible for minority oppression if its directing mind and will engages in commercially unfair conduct to prejudice other shareholders.",
       "Application": "The Claimants stated the investment vehicle was the primary beneficiary of the illegitimate pressure campaign. The Defendants stated the vehicle legally secured its rights through valid contract negotiations.",
-      "Conclusion": "Liable",
+      "Label": "Liable",
       "Judicial_Reasoning_Log": "The court attributed the oppressive conduct of Murjani to his corporate vehicle, Group MMM. The court ordered that Group MMM's shares in the company be bought out by the Claimants."
     }
   },
@@ -327,7 +327,7 @@
       "Issue": "Whether a company should be ordered to wind up on just and equitable grounds due to an irretrievable breakdown of trust between its shareholders.",
       "Rule": "A court may order the winding up of a company if there is a complete deadlock in management or a fundamental breakdown of the mutual trust required to operate the business.",
       "Application": "The Plaintiff stated that the business relationship was irreparably destroyed, necessitating a winding up if a buyout was not feasible. The Defendants argued the company was financially viable and should not be destroyed.",
-      "Conclusion": "Claim Dismissed",
+      "Label": "Claim Dismissed",
       "Judicial_Reasoning_Log": "While the court recognized the irretrievable breakdown of trust, it determined that winding up a successful business was an unnecessarily destructive remedy. Because the court ordered a buyout remedy under the oppression claim (OC 301), it formally dismissed the winding up application."
     }
   },
@@ -369,7 +369,7 @@
       "Issue": "Whether a financially viable operational company should be liquidated to resolve an unworkable shareholder deadlock.",
       "Rule": "Courts view winding up as a remedy of last resort and will generally prefer to order a share buyout if the company remains a viable, profitable enterprise.",
       "Application": "The Claimants stated the company could no longer function properly due to the toxic boardroom environment. The opposing shareholders argued that liquidating a profitable brand would destroy value unnecessarily.",
-      "Conclusion": "Not Liable",
+      "Label": "Not Liable",
       "Judicial_Reasoning_Log": "The court declined to wind up the company. The judge concluded that ordering a buyout was a far more appropriate and proportionate remedy that preserved the enterprise value of the company while curing the deadlock."
     }
   }

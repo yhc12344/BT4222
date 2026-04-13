@@ -9,31 +9,27 @@
     },
     "Party_Details": {
       "Role": "Plaintiff",
-      "Name": "Parakou Investment Holdings Pte Ltd",
-      "Law_Firm": "Sim Chong LLC",
-      "Counsel": [
-        "Sim Chong",
-        "Yap Hao Jin",
-        "Tee Lim Min Joan"
-      ],
+      "Name": "Parakou Shipping Pte Ltd (in liquidation)",
+      "Law_Firm": "Allen & Gledhill LLP",
+      "Counsel": ["Edwin Tong SC", "Kenneth Lim Tao Chung", "Chua Xinying", "Yu Kexin", "Nigel Yeo Kok Quan", "Rebecca Chia Su Min", "Wong Pei Ting"],
       "Facts": [
+        {
+          "Fact_Type": "CHRONOLOGY",
+          "Fact_Date": "2011-04-01",
+          "Text": "The company entered creditors' voluntary liquidation following a collapse in the freight market and a significant contingent liability from a charterparty dispute."
+        },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2008-11-01",
-          "Text": "In November 2008, Parakou Investment Holdings Pte Ltd purchased 10 vessels and two uncompleted hulls, collectively known as the OPL Vessels, from Parakou Shipping Pte Ltd"
-        },
-        {
-          "Fact_Type": "FINANCIAL_EVENT",
-          "Fact_Date": "2008-11-12",
-          "Text": "Between 12 and 24 November 2008, Parakou Investment Holdings Pte Ltd received S$9,812,543 in debt repayments from Parakou Shipping Pte Ltd"
+          "Text": "The company sold its fleet (OPL Vessels) to a related entity and authorized US$3.1m in bonuses to directors while in the 'vicinity of insolvency'."
         }
       ],
-      "Issue": "Whether the sale of the OPL Vessels to a related company was a transaction at an undervalue, and whether the related company is liable for dishonest assistance regarding debt repayments",
-      "Rule": "A transaction is at an undervalue if the consideration received is significantly less than the value of the asset, and a third party is liable for dishonest assistance if it knowingly participates in a breach of fiduciary duty",
-      "Application": "The sale of the OPL Vessels was executed at a fair market price after factoring in a standard fleet discount, and the subsequent debt repayments were received legitimately.",
-      "Judicial_Reasoning_Log": "The Court of Appeal allowed the appeal in part. It found that the sale of the OPL Vessels was not at an undervalue due to the applicability of a fleet discount, but affirmed PIH's liability for dishonest assistance and knowing receipt regarding the PIH Repayments."
+      "Issue": "Whether transactions involving the sale of vessels and the payment of bonuses to directors were executed in breach of fiduciary duties to creditors or constituted transactions at an undervalue.",
+      "Rule": "Directors of a company in the vicinity of insolvency must prioritize the interests of creditors; transactions at an undervalue are voidable if the consideration is significantly lower than market value.",
+      "Application": "The liquidator sought to claw back funds transferred to related parties, arguing the company was insolvent and the assets were stripped to defraud creditors.",
+      "Judicial_Reasoning_Log": "The Court of Appeal found the company was insolvent at the relevant time. While it reversed the finding on the vessel sale (applying a fleet discount), it upheld the liability for bonuses and debt repayments as these prejudiced creditors."
     },
-    "Label": "Claim Allowed in Part",
+    "Label": "Claim Allowed In-part",
     "Leakage_Score": 0
   },
   {
@@ -46,38 +42,48 @@
     },
     "Party_Details": {
       "Role": "Defendant",
-      "Name": "Parakou Shipping Pte Ltd (in liquidation)",
-      "Law_Firm": "Allen & Gledhill LLP",
-      "Counsel": [
-        "Edwin Tong SC",
-        "Kenneth Lim Tao Chung",
-        "Chua Xinying",
-        "Yu Kexin",
-        "Nigel Yeo Kok Quan",
-        "Rebecca Chia Su Min",
-        "Wong Pei Ting"
-      ],
+      "Name": "Liu Cheng Chan & Chik Sau Kam",
+      "Law_Firm": "Sim Chong LLC",
+      "Counsel": ["Sim Chong", "Yap Hao Jin", "Tee Lim Min Joan"],
       "Facts": [
         {
           "Fact_Type": "CORPORATE_ROLE",
-          "Fact_Date": "1995-01-01",
-          "Text": "Parakou Shipping Pte Ltd was incorporated in 1995 with Mr Liu Cheng Chan and Mdm Chik Sau Kam as its shareholders and directors"
-        },
-        {
-          "Fact_Type": "CONTRACT_EVENT",
-          "Fact_Date": "2008-11-01",
-          "Text": "In November 2008, Parakou Shipping Pte Ltd sold the OPL Vessels to Parakou Investment Holdings Pte Ltd"
-        },
-        {
-          "Fact_Type": "CHRONOLOGY",
-          "Fact_Date": "2011-04-01",
-          "Text": "Parakou Shipping Pte Ltd entered creditors' voluntary liquidation in April 2011"
+          "Fact_Date": "2008-12-01",
+          "Text": "As directors of the company, the individuals authorized substantial bonus payments and salary increases to themselves while the company faced mounting charterparty claims."
         }
       ],
-      "Issue": "Whether the sale of the OPL Vessels to a related company was a transaction at an undervalue, and whether the related company is liable for dishonest assistance regarding debt repayments",
-      "Rule": "A transaction is at an undervalue if the consideration received is significantly less than the value of the asset, and a third party is liable for dishonest assistance if it knowingly participates in a breach of fiduciary duty",
-      "Application": "The sale of the OPL Vessels was rushed and executed at an undervalue to strip the company of its assets, and the related company dishonestly assisted in the directors' breaches of fiduciary duties.",
-      "Judicial_Reasoning_Log": "The Court of Appeal allowed the appeal in part. It found that the sale of the OPL Vessels was not at an undervalue due to the applicability of a fleet discount, but affirmed PIH's liability for dishonest assistance and knowing receipt regarding the PIH Repayments."
+      "Issue": "Whether directors breach their fiduciary duties by authorizing personal bonuses when a company is insolvent or near-insolvent.",
+      "Rule": "A director's duty to act in the best interests of the company shifts to the creditors once the company is in a state of insolvency or near-insolvency.",
+      "Application": "The directors argued the payments were commercially justified rewards for past service, but the court evaluated the timing against the company's deteriorating financial state.",
+      "Judicial_Reasoning_Log": "The court held the directors liable for the bonuses and salary increases, as these payments were not in the interests of the company's creditors during the vicinity of insolvency."
+    },
+    "Label": "Liable",
+    "Leakage_Score": 0
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Civil Appeal No 55 of 2017",
+      "Coram": "Sundaresh Menon CJ, Andrew Phang Boon Leong JA, Steven Chong JA",
+      "Judge": "Andrew Phang Boon Leong JA",
+      "Date": "2018-01-17",
+      "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Parakou Investment Holdings Pte Ltd",
+      "Law_Firm": "Sim Chong LLC",
+      "Counsel": ["Sim Chong", "Yap Hao Jin", "Tee Lim Min Joan"],
+      "Facts": [
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2008-11-12",
+          "Text": "The entity received S$9,812,543 in debt repayments from the insolvent company and purchased the OPL Vessels at a price the Liquidator alleged was an undervalue."
+        }
+      ],
+      "Issue": "Whether a related corporate entity is liable for knowing receipt or dishonest assistance regarding preferential debt repayments and asset transfers.",
+      "Rule": "Liability arises if the entity participates in a breach of fiduciary duty with the requisite knowledge of the underlying breach.",
+      "Application": "The entity benefited from debt repayments that bypassed other creditors; the court examined whether the vessel purchase price reflected a fair market value.",
+      "Judicial_Reasoning_Log": "The entity was held liable for the debt repayments (PIH Repayments) via knowing receipt. However, it was not liable for the vessel sale as the court accepted a 'fleet discount' as a valid commercial adjustment."
     },
     "Label": "Liable",
     "Leakage_Score": 0

@@ -30,7 +30,7 @@
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2011-09-13",
-          "Text": "Ng Tang Hock transferred his shares in Mingsen to Wendy"
+          "Text": "Ng Tang Hock transferred his shares in Mingsen to Chew Kar Lay"
         },
         {
           "Fact_Type": "FINANCIAL_EVENT",
@@ -81,7 +81,7 @@
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2011-10-01",
-          "Text": "Loans from Ng Tang Hock were reclassified as loans from Wendy"
+          "Text": "Loans from Ng Tang Hock were reclassified as loans from Chew Kar Lay"
         },
         {
           "Fact_Type": "DOCUMENT",
@@ -127,7 +127,7 @@
     },
     "Party_Details": {
       "Role": "Plaintiff",
-      "Name": "Wendy",
+      "Name": "Chew Kar Lay",
       "Law_Firm": "OTP Law Corporation",
       "Counsel": [
         "Lim Seng Siew",
@@ -137,38 +137,38 @@
         {
           "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "1995-06-21",
-          "Text": "Wendy married Ng Tang Hock"
+          "Text": "Chew Kar Lay married Ng Tang Hock"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
           "Fact_Date": "1996-05-22",
-          "Text": "Wendy became a director of Teelek Realty"
+          "Text": "Chew Kar Lay became a director of Teelek Realty"
         },
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2011-09-13",
-          "Text": "Wendy received shares in Mingsen from Ng Tang Hock"
+          "Text": "Chew Kar Lay received shares in Mingsen from Ng Tang Hock"
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2011-10-01",
-          "Text": "Wendy reclassified loans from Ng Tang Hock as loans from herself"
+          "Text": "Chew Kar Lay reclassified loans from Ng Tang Hock as loans from herself"
         },
         {
           "Fact_Type": "CONDUCT",
           "Fact_Date": "2015-07-01",
-          "Text": "Wendy transferred shares to Shirlyn and Eugene"
+          "Text": "Chew Kar Lay transferred shares to Shirlyn and Eugene"
         },
         {
           "Fact_Type": "COMMUNICATION",
           "Fact_Date": "2013-08-14",
-          "Text": "Wendy's lawyer emailed Ng Tang Hock a draft Declaration of Trust for his review"
+          "Text": "Chew Kar Lay's lawyer emailed Ng Tang Hock a draft Declaration of Trust for his review"
         }
       ],
-      "Issue": "Whether Wendy is entitled to claim that Ng Tang Hock holds shares in Teelek Realty on trust for Shirlyn and Eugene",
+      "Issue": "Whether Chew Kar Lay is entitled to claim that Ng Tang Hock holds shares in Teelek Realty on trust for Shirlyn and Eugene",
       "Rule": "A trust claim requires clear evidence of an agreement to hold property on behalf of beneficiaries",
       "Application": "Any such agreement existed",
-      "Judicial_Reasoning_Log": "The court found no evidence of a trust agreement and dismissed Wendy's counterclaim."
+      "Judicial_Reasoning_Log": "The court found no evidence of a trust agreement and dismissed Chew Kar Lay's counterclaim."
     },
     "Label": "Claim Dismissed",
     "Leakage_Score": 0
@@ -199,7 +199,7 @@
         {
           "Fact_Type": "RELATIONSHIP",
           "Fact_Date": "1995-06-21",
-          "Text": "Ng Tang Hock married Wendy"
+          "Text": "Ng Tang Hock married Chew Kar Lay"
         },
         {
           "Fact_Type": "CORPORATE_ROLE",
@@ -209,7 +209,7 @@
         {
           "Fact_Type": "CONTRACT_EVENT",
           "Fact_Date": "2011-09-13",
-          "Text": "Ng Tang Hock transferred shares in Mingsen to Wendy"
+          "Text": "Ng Tang Hock transferred shares in Mingsen to Chew Kar Lay"
         },
         {
           "Fact_Type": "CONDUCT",

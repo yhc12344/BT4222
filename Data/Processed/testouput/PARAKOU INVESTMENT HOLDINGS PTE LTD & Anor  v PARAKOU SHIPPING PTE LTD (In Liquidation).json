@@ -8,7 +8,7 @@
       "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
     },
     "Party_Details": {
-      "Role": "Plaintiff",
+      "Role": "Defendant",
       "Name": "Parakou Investment Holdings Pte Ltd",
       "Law_Firm": "Unknown",
       "Counsel": [],
@@ -51,7 +51,7 @@
       "Tribunal_Court": "Court of Appeal of the Republic of Singapore"
     },
     "Party_Details": {
-      "Role": "Defendant",
+      "Role": "Plaintiff",
       "Name": "Parakou Shipping Pte Ltd (in liquidation)",
       "Law_Firm": "Unknown",
       "Counsel": [],

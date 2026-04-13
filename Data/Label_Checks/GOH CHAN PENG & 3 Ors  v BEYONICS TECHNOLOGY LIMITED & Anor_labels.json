@@ -1,14 +1,14 @@
 [
   {
     "Case_Number": "Suit No 672 of 2013",
-    "Plaintiff": "Beyonics Technology Ltd",
+    "Plaintiff": "Beyonics International Pte Ltd",
     "Defendant": "Goh Chan Peng",
     "Plaintiff_Label": "Claim Allowed In-part",
     "Defendant_Label": "Liable"
   },
   {
     "Case_Number": "Suit No 672 of 2013",
-    "Plaintiff": "Beyonics Technology Ltd",
+    "Plaintiff": "Beyonics International Pte Ltd",
     "Defendant": "Wyser International Ltd",
     "Plaintiff_Label": "Claim Allowed",
     "Defendant_Label": "Liable"
@@ -22,9 +22,23 @@
   },
   {
     "Case_Number": "Suit No 672 of 2013",
-    "Plaintiff": "Beyonics Technology Ltd",
+    "Plaintiff": "Beyonics International Pte Ltd",
     "Defendant": "Goh Chan Peng",
     "Plaintiff_Label": "Claim Dismissed",
     "Defendant_Label": "Not Liable"
+  },
+  {
+    "Case_Number": "Suit No 672 of 2013",
+    "Plaintiff": "Beyonics Technology Ltd",
+    "Defendant": "Wyser International Ltd",
+    "Plaintiff_Label": "Claim Allowed",
+    "Defendant_Label": "Liable"
+  },
+  {
+    "Case_Number": "Suit No 672 of 2013",
+    "Plaintiff": "Beyonics Technology Ltd",
+    "Defendant": "Goh Chan Peng",
+    "Plaintiff_Label": "Claim Allowed In-part",
+    "Defendant_Label": "Liable"
   }
 ]

@@ -48,10 +48,10 @@
       "Rule": "Upon the making of an insolvency management order, the directors are effectively divested of their powers of management. Such powers, including the exclusive right to bring or defend legal proceedings in the company's name, are transferred to the court-appointed officeholders[cite: 170, 217, 260].",
       "Application": "The Plaintiff (acting through directors) stated that directors retain residual management powers to protect the company's interests, including the power to restrain solicitors. The Defendant stated that the statutory regime and the specific court orders transferred all litigation-related authority to the interim judicial managers to the exclusion of the directors[cite: 113, 275, 516].",
       "Conclusion": "Appeal Dismissed",
-      "Judicial_Reasoning_Log": "The court held that the appointment of interim judicial managers renders the board of directors functus officio regarding the company's management. Directors retain only extremely narrow residual powers to challenge the insolvency order itself. Seeking to injunct the law firm chosen by the managers does not challenge the manager's appointment but rather interferes with their operational management. Consequently, the directors had no authority to sue in the company's name[cite: 227, 389, 534, 552].",
+      "Judicial_Reasoning_Log": "The court held that the appointment of interim judicial managers renders the board of directors functus officio regarding the company's management. Directors retain only extremely narrow residual powers to challenge the insolvency order itself. Seeking to injunct the law firm chosen by the managers does not challenge the manager's appointment but rather interferes with their operational management. Consequently, the directors had no authority to sue in the company's name[cite: 227, 389, 534, 552]."
+    },
       "Label": "Appeal Dismissed",
       "Leakage_Score": 0
-    }
   },
   {
     "Metadata": {
@@ -90,10 +90,10 @@
       "Rule": "A company under judicial management must act through its appointed managers. If the managers choose to retain or continue a set of solicitors, that choice is a management function within their sole prerogative[cite: 262, 524].",
       "Application": "The Defendant stated it was properly instructed by the only individuals with the legal authority to represent the company. The Plaintiff stated that the firm's prior involvement created a conflict that justified directorial intervention[cite: 520, 525].",
       "Conclusion": "Not Liable",
-      "Judicial_Reasoning_Log": "The Court of Appeal found that the law firm was retained by the only parties possessing the authority to manage the company. The directors' attempt to 'restrain' the solicitors was an attempt to forcibly bring about a state of affairs that the managers did not sanction. The firm was not improperly acting, and the attempts to injunct them were taken without authority[cite: 525, 531, 554].",
-      "Label": "Not Liable",
+      "Judicial_Reasoning_Log": "The Court of Appeal found that the law firm was retained by the only parties possessing the authority to manage the company. The directors' attempt to 'restrain' the solicitors was an attempt to forcibly bring about a state of affairs that the managers did not sanction. The firm was not improperly acting, and the attempts to injunct them were taken without authority[cite: 525, 531, 554]."
+    },
+      "Label": "Appeal Dismissed",
       "Leakage_Score": 0
-    }
   },
   {
     "Metadata": {
@@ -135,10 +135,10 @@
       "Rule": "The appointment of a judicial manager entails a substitution and supplantation of the powers ordinarily vested in the board of directors. This excludes directors from conducting litigation or discharging company solicitors[cite: 290, 424, 523].",
       "Application": "The Plaintiff (acting through former management) stated they retained residual authority to dictate the company's legal representation. The Defendant stated that the directors were functus officio and had no legal standing to represent the company[cite: 287, 513].",
       "Conclusion": "Appeal Dismissed",
-      "Judicial_Reasoning_Log": "The court confirmed that the statutory scheme vests authority over the company's affairs in the managers to the exclusion of the directors. The directors' attempt to start litigation without the managers' consent was unauthorized. The court upheld the striking out of the actions[cite: 516, 552, 554].",
+      "Judicial_Reasoning_Log": "The court confirmed that the statutory scheme vests authority over the company's affairs in the managers to the exclusion of the directors. The directors' attempt to start litigation without the managers' consent was unauthorized. The court upheld the striking out of the actions[cite: 516, 552, 554]."
+    },
       "Label": "Appeal Dismissed",
       "Leakage_Score": 0
-    }
   },
   {
     "Metadata": {
@@ -172,9 +172,9 @@
       "Rule": "Management power includes the power to choose who represents the company. Directors cannot use the court's machinery to override the decisions of managers in whom those powers are currently vested[cite: 170, 517, 525].",
       "Application": "The Defendant stated that the directors' actions were a non-starter because they lacked the requisite authority to manage the company's litigation. The Plaintiff stated that residual powers allowed them to interfere with the retainer[cite: 275, 420].",
       "Conclusion": "Not Liable",
-      "Judicial_Reasoning_Log": "The court dismissed the appeal, noting that recognizing the directors' purported power would outflank the purpose of the judicial management scheme. The firm's retainer by the managers was valid, and the directors had no authority to terminate it or sue in the company's name to achieve that end[cite: 516, 534, 602].",
+      "Judicial_Reasoning_Log": "The court dismissed the appeal, noting that recognizing the directors' purported power would outflank the purpose of the judicial management scheme. The firm's retainer by the managers was valid, and the directors had no authority to terminate it or sue in the company's name to achieve that end[cite: 516, 534, 602]."
+    },
       "Label": "Not Liable",
       "Leakage_Score": 0
-    }
   }
 ]
