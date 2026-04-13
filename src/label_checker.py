@@ -107,7 +107,7 @@ def normalise_label(raw: str) -> str:
 
 
 # =============================================================================
-# CORE — importable by audit_cases.py
+# CORE — importable by audit_case_rows.py
 # =============================================================================
 def extract_labels_from_pdf(source_text: str) -> List[Dict[str, Any]]:
     """Call the model to extract Plaintiff/Defendant label pairs from judgment text.
@@ -126,7 +126,7 @@ def extract_labels_from_pdf(source_text: str) -> List[Dict[str, Any]]:
             response_format={"type": "json_object"},
             messages=[
                 {"role": "system", "content": "Return strict JSON only."},
-                {"role": "user",   "content": LABEL_PROMPT + source_text[:120_000]},
+                {"role": "user",   "content": LABEL_PROMPT + source_text},
             ],
         )
         content = response.choices[0].message.content or "{}"
