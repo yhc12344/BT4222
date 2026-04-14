@@ -51,7 +51,8 @@ The modeling task in this repo is best understood as binary defendant-side risk 
 | `src/extract_case_rows_categorized.py` | Special-case extractor used for structurally complex judgments such as multi-party disputes and counterclaims. |
 | `src/audit_case_rows.py` | Second-pass auditor that checks each extracted row against the source PDF and enforces case-level consistency. |
 | `src/label_checker.py` | Utility that extracts plaintiff/defendant outcome labels directly from a judgment PDF and supports the audit stage. |
-| `src/json_to_df.py` | Converts audited JSON into a flat tabular dataset for modeling. |
+| `src/EDA.ipynb`| Notebook used for exploratory data analysis |
+| `src/Data_Cleaning`| Used for data cleaning and using the labels from label_check.py |
 | `src/XGBoost.ipynb` | Gradient-boosted baseline experiments and test-set evaluation. |
 | `src/HAN.ipynb` | Hierarchical Attention Network experiments with row-level and case-level evaluation. |
 | `src/BERT_Classifier.ipynb` | Transformer-based classifier experiments. |
@@ -222,8 +223,6 @@ The main model families explored in this project are:
 - Hierarchical Attention Network (HAN)
 - BERT-based classifier baselines
 
-
-
 ### Step 6. Evaluation and business interpretation
 
 The final stage of the project focuses on evaluating predictive performance at both:
@@ -242,8 +241,4 @@ The evaluation stage is used to:
 
 ## Documentation
 
-For the full report documentation, see: [Google Doc](https://docs.google.com/document/d/1a1Mn4E9Vj_cmh-Qfrr0vBKh78H0SktNtOzRdeu1L24Y/edit?usp=sharing)
-
-Project files and related materials are also available here: [Google Drive folder](https://drive.google.com/drive/folders/1qIGVH9jPR5h9CMDQZgGw6m1Rzc_6F-PS?usp=sharing)
-
-Project files and related materials are also available here: [Google Drive folder](https://drive.google.com/drive/folders/1qIGVH9jPR5h9CMDQZgGw6m1Rzc_6F-PS?usp=sharing)
+JSON files generated from the LLMs and Court_Case.CSV : [Google Drive folder](https://drive.google.com/drive/folders/1qIGVH9jPR5h9CMDQZgGw6m1Rzc_6F-PS?usp=sharing)
