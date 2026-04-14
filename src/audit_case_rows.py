@@ -1,4 +1,4 @@
-import json
+﻿import json
 import re
 from copy import deepcopy
 from pathlib import Path
@@ -442,7 +442,7 @@ def read_pdf(path: Path) -> str:
 
 def build_prompt(source_text: str, row: Dict[str, Any]) -> str:
     return USER_PROMPT_TEMPLATE.format(
-        source_text=source_text[:120000],
+        source_text=source_text,
         json_block=json.dumps(row, ensure_ascii=False, indent=2),
     )
 
@@ -642,7 +642,7 @@ def choose_supporting_context(fact_text: str, source_text: str) -> str:
         "Parties :",
         "Version No",
         "Judgment reserved.",
-        "Copyright ©",
+        "Copyright",
     )
 
     paragraphs = [p.strip() for p in re.split(r"\n+", source_text) if p.strip()]

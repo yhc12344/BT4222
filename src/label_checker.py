@@ -1,4 +1,4 @@
-"""Label extraction utility — extracts ground-truth Plaintiff/Defendant outcome
+﻿"""Label extraction utility â€” extracts ground-truth Plaintiff/Defendant outcome
 labels directly from a judgment PDF.
 
 Standalone:
@@ -15,7 +15,7 @@ from typing import Any, Dict, List
 import pdfplumber
 from openai import OpenAI
 
-from config import OPENAI_API_KEY, LABEL_MODEL, PDF_INPUT_ALL, EXTRACTION_OUTPUT
+from config import OPENAI_API_KEY, LABEL_MODEL, PDF_INPUT_ALL, LABEL_CHECK_OUTPUT
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
@@ -107,7 +107,7 @@ def normalise_label(raw: str) -> str:
 
 
 # =============================================================================
-# CORE — importable by audit_case_rows.py
+# CORE - importable by audit_case_rows.py
 # =============================================================================
 def extract_labels_from_pdf(source_text: str) -> List[Dict[str, Any]]:
     """Call the model to extract Plaintiff/Defendant label pairs from judgment text.
@@ -161,7 +161,7 @@ def main() -> None:
         results = extract_labels_from_pdf(source_text)
 
         if results:
-            output_path = EXTRACTION_OUTPUT / f"{pdf_file.stem}_labels.json"
+            output_path = LABEL_CHECK_OUTPUT / f"{pdf_file.stem}_labels.json"
             output_path.write_text(
                 json.dumps(results, indent=2, ensure_ascii=False),
                 encoding="utf-8",

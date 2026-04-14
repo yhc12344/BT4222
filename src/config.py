@@ -1,4 +1,4 @@
-"""Centralised configuration for the BT4222 legal analytics pipeline.
+﻿"""Centralised configuration for the BT4222 legal analytics pipeline.
 
 All scripts import paths and model names from here.
 Run all scripts from the project root
@@ -30,8 +30,11 @@ AUDIT_INPUT   = Path("Data/Processed/FinalAudited")
 # Outputs
 EXTRACTION_OUTPUT = Path("Data/Processed/FinalAudited")
 AUDIT_OUTPUT      = Path("Data/Processed/FinalAudited")
+LABEL_CHECK_OUTPUT = Path("Data/Label_Checks")
 CSV_OUTPUT        = Path("Data/court_cases.csv")
 
 
 # Ensure the shared output directory exists on first import
 EXTRACTION_OUTPUT.mkdir(parents=True, exist_ok=True)
+LABEL_CHECK_OUTPUT.mkdir(parents=True, exist_ok=True)
+
