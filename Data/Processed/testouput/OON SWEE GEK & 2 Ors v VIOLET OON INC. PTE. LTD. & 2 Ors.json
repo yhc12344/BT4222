@@ -1,0 +1,376 @@
+[
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 301 of 2022",
+      "Coram": "Philip Jeyaretnam J",
+      "Judge": "Philip Jeyaretnam J",
+      "Date": "2024-01-19",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Oon Swee Gek",
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Meryl Koh Junning",
+        "Justin Lai Wen-Jin",
+        "Shahera Safrin",
+        "Daniel Wong Sheng Jie"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-03-26",
+          "Text": "Oon Swee Gek, a prominent Singaporean chef, incorporated the company to commercialize her culinary brand."
+        },
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-03-26",
+          "Text": "She served as the Culinary Curator, Chef, and a founding director of the company."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-11-13",
+          "Text": "She executed a shareholders' agreement that diluted her family's stake in exchange for corporate investment."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2014-12-01",
+          "Text": "Following the investment, her personal shareholding was reduced to 20% of the company's total shares."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2019-02-21",
+          "Text": "She signed a revised set of binding terms transferring further corporate control away from her family due to a stated fear of corporate insolvency."
+        }
+      ],
+      "Issue": "Whether a founding shareholder is entitled to statutory relief for minority oppression if corporate restructuring agreements were extracted through economic duress.",
+      "Rule": "A shareholder may petition the court for a buyout or to set aside agreements if another shareholder leverages illegitimate commercial pressure and undue influence to commandeer the company.",
+      "Application": "The Plaintiff stated that her co-investor manufactured a financial crisis to coerce her into surrendering control of her namesake business. The Defendants argued that the renegotiated terms were standard commercial rescue measures freely agreed to by all parties.",
+      "Label": "Claim Allowed",
+      "Judicial_Reasoning_Log": "The court found that the 2019 agreements were executed under economic duress and undue influence. The judge set aside the agreements and ordered a buyout of the Defendants' shares under Section 216 of the Companies Act to resolve the oppression."
+    }
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 301 of 2022",
+      "Coram": "Philip Jeyaretnam J",
+      "Judge": "Philip Jeyaretnam J",
+      "Date": "2024-01-19",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Tay Su-Lyn",
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Meryl Koh Junning",
+        "Justin Lai Wen-Jin",
+        "Shahera Safrin",
+        "Daniel Wong Sheng Jie"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-03-26",
+          "Text": "Tay Su-Lyn served as a founding director and held a 15% shareholding in the company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-09-01",
+          "Text": "She assumed primary responsibility for corporate human resources and marketing during a period of management transition."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-11-20",
+          "Text": "She attended several meetings with the majority investor where the potential insolvency of the company was discussed."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2019-02-26",
+          "Text": "She executed the revised 2019 Shareholders' Agreement."
+        }
+      ],
+      "Issue": "Whether a director's consent to a corporate restructuring is legally valid when obtained through the threat of withholding necessary operational capital.",
+      "Rule": "Consent to a commercial agreement is vitiated if it is obtained through illegitimate pressure that leaves the consenting party with no reasonable practical alternative.",
+      "Application": "The Plaintiff stated she was forced to sign the new agreements to prevent the immediate collapse of the family business. The Defendants argued she was an experienced businesswoman who made a calculated commercial decision.",
+      "Label": "Claim Allowed",
+      "Judicial_Reasoning_Log": "The court agreed that the pressure applied was illegitimate and that the directors were subjected to undue influence. The agreements were set aside."
+    }
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 301 of 2022",
+      "Coram": "Philip Jeyaretnam J",
+      "Judge": "Philip Jeyaretnam J",
+      "Date": "2024-01-19",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Tay Yiming",
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Meryl Koh Junning",
+        "Justin Lai Wen-Jin",
+        "Shahera Safrin",
+        "Daniel Wong Sheng Jie"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2012-03-26",
+          "Text": "Tay Yiming served as the Chief Executive Officer of the company and held a 15% shareholding."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-08-16",
+          "Text": "He stepped down from his role as CEO and ceased managing day-to-day operations following instructions from the majority investor."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-09-01",
+          "Text": "He was isolated from ongoing corporate management discussions and financial negotiations."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2019-02-26",
+          "Text": "He signed the 2019 Shareholders' Agreement which drastically reduced his influence over the company."
+        }
+      ],
+      "Issue": "Whether the systematic isolation and removal of a CEO by a co-investor constitutes actionable minority oppression.",
+      "Rule": "A shareholder may establish oppression if they are unfairly excluded from the management of a company in contravention of an underlying mutual understanding of shared control.",
+      "Application": "The Plaintiff stated his removal and isolation were orchestrated to force the family into submission. The Defendants argued his removal was necessary due to his poor management and the company's financial struggles.",
+      "Label": "Claim Allowed",
+      "Judicial_Reasoning_Log": "The court found that the investor's campaign to isolate the CEO and exaggerate his management failures was part of a deliberate strategy to exert undue influence and seize control of the company."
+    }
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 301 of 2022",
+      "Coram": "Philip Jeyaretnam J",
+      "Judge": "Philip Jeyaretnam J",
+      "Date": "2024-01-19",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Violet Oon Inc Pte Ltd",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-03-26",
+          "Text": "The company operates a prominent chain of food and beverage outlets in Singapore."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2014-11-13",
+          "Text": "The company issued new shares to an external investment group, resulting in a 50-50 split in shareholding ownership."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-10-01",
+          "Text": "The company experienced significant cash flow shortages and required capital injections to pay suppliers and staff."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2019-02-26",
+          "Text": "The company's constitution and governance structures were formally altered following the execution of a new shareholders' agreement."
+        }
+      ],
+      "Issue": "Whether a corporate entity should be subject to a buyout order when its shareholders are deadlocked due to oppressive conduct by one faction.",
+      "Rule": "When a company's affairs are conducted in a manner that is commercially unfair to a shareholder, the court may intervene to regulate the company's affairs or order the purchase of shares to break the deadlock.",
+      "Application": "The Claimants stated that the company was being improperly controlled by the investor faction. The Defendants argued that the company's affairs were being managed strictly according to the binding 2019 agreements.",
+      "Label": "Liable",
+      "Judicial_Reasoning_Log": "As the nominal subject of the dispute, the court ordered that the shares in the company held by the Defendants be bought out by the Claimants to resolve the oppressive deadlock."
+    }
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 301 of 2022",
+      "Coram": "Philip Jeyaretnam J",
+      "Judge": "Philip Jeyaretnam J",
+      "Date": "2024-01-19",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Murjani Manoj Mohan",
+      "Law_Firm": "TSMP Law Corporation",
+      "Counsel": [
+        "Thian Ern Cher",
+        "Adriel Choy",
+        "Sheryl Ffion Williams"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "CORPORATE_ROLE",
+          "Fact_Date": "2014-11-13",
+          "Text": "Murjani Manoj Mohan negotiated a joint venture where his investment vehicle acquired a 50% stake in Violet Oon Inc Pte Ltd."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2018-08-16",
+          "Text": "He instructed the existing CEO to cease managing the business operations and step down from his role."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2018-12-01",
+          "Text": "He communicated exaggerated claims regarding the CEO's conduct to isolate him from the other founding members."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2019-02-21",
+          "Text": "He threatened to withhold critical financial support for the company unless new shareholder terms were immediately agreed upon."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2019-02-26",
+          "Text": "He procured the execution of a revised shareholders' agreement that shifted corporate control in favor of his investment vehicle."
+        }
+      ],
+      "Issue": "Whether a director is legally responsible for minority oppression after utilizing economic duress to force the execution of revised corporate agreements.",
+      "Rule": "Corporate agreements may be set aside, and oppression remedies triggered, if a party leverages illegitimate economic pressure and undue influence to seize control of a company.",
+      "Application": "The Claimants stated that the director manufactured a corporate crisis and isolated a key family member to force them into signing highly unfavorable terms. The Defendant argued that the 2019 agreements were standard commercial renegotiations necessary to save the business.",
+      "Label": "Liable",
+      "Judicial_Reasoning_Log": "The court found that Murjani Manoj Mohan exerted economic duress and undue influence to change the shareholder arrangements with a view to taking control of the Company. The court ordered the Claimants to buy out the Defendants' shares at fair value."
+    }
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Originating Claim No 301 of 2022",
+      "Coram": "Philip Jeyaretnam J",
+      "Judge": "Philip Jeyaretnam J",
+      "Date": "2024-01-19",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Group MMM Pte Ltd",
+      "Law_Firm": "TSMP Law Corporation",
+      "Counsel": [
+        "Thian Ern Cher",
+        "Adriel Choy",
+        "Sheryl Ffion Williams"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2014-01-01",
+          "Text": "Group MMM Pte Ltd is an investment vehicle entirely owned and controlled by Murjani Manoj Mohan."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2014-11-13",
+          "Text": "The corporate vehicle executed an agreement to acquire 50% of the shares in Violet Oon Inc Pte Ltd."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2018-10-01",
+          "Text": "The vehicle provided various short-term financial advances to the company to cover operational shortfalls."
+        },
+        {
+          "Fact_Type": "CONTRACT_EVENT",
+          "Fact_Date": "2019-02-26",
+          "Text": "Under the disputed 2019 agreements, the vehicle was granted enhanced veto rights and a more favorable debt repayment structure."
+        }
+      ],
+      "Issue": "Whether an investment vehicle is legally responsible for oppressive corporate maneuvers orchestrated by its sole owner and director.",
+      "Rule": "A corporate shareholder can be held legally responsible for minority oppression if its directing mind and will engages in commercially unfair conduct to prejudice other shareholders.",
+      "Application": "The Claimants stated the investment vehicle was the primary beneficiary of the illegitimate pressure campaign. The Defendants stated the vehicle legally secured its rights through valid contract negotiations.",
+      "Label": "Liable",
+      "Judicial_Reasoning_Log": "The court attributed the oppressive conduct of Murjani to his corporate vehicle, Group MMM. The court ordered that Group MMM's shares in the company be bought out by the Claimants."
+    }
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Companies Winding Up No 195 of 2022",
+      "Coram": "Philip Jeyaretnam J",
+      "Judge": "Philip Jeyaretnam J",
+      "Date": "2024-01-19",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Plaintiff",
+      "Name": "Oon Swee Gek",
+      "Law_Firm": "Drew & Napier LLC",
+      "Counsel": [
+        "Meryl Koh Junning",
+        "Justin Lai Wen-Jin",
+        "Shahera Safrin",
+        "Daniel Wong Sheng Jie"
+      ],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-03-26",
+          "Text": "Oon Swee Gek is a founding shareholder holding a 20% stake in the food and beverage company."
+        },
+        {
+          "Fact_Type": "COMMUNICATION",
+          "Fact_Date": "2021-01-01",
+          "Text": "Following the breakdown of the 2019 agreements, trust completely eroded between the founding family and the majority investor."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2022-01-01",
+          "Text": "The board of directors reached a state of complete deadlock regarding the strategic direction and management of the company."
+        },
+        {
+          "Fact_Type": "CONDUCT",
+          "Fact_Date": "2022-08-01",
+          "Text": "She filed an alternative application to wind up the company on just and equitable grounds due to the management deadlock."
+        }
+      ],
+      "Issue": "Whether a company should be ordered to wind up on just and equitable grounds due to an irretrievable breakdown of trust between its shareholders.",
+      "Rule": "A court may order the winding up of a company if there is a complete deadlock in management or a fundamental breakdown of the mutual trust required to operate the business.",
+      "Application": "The Plaintiff stated that the business relationship was irreparably destroyed, necessitating a winding up if a buyout was not feasible. The Defendants argued the company was financially viable and should not be destroyed.",
+      "Label": "Claim Dismissed",
+      "Judicial_Reasoning_Log": "While the court recognized the irretrievable breakdown of trust, it determined that winding up a successful business was an unnecessarily destructive remedy. Because the court ordered a buyout remedy under the oppression claim (OC 301), it formally dismissed the winding up application."
+    }
+  },
+  {
+    "Metadata": {
+      "Case_Number": "Companies Winding Up No 195 of 2022",
+      "Coram": "Philip Jeyaretnam J",
+      "Judge": "Philip Jeyaretnam J",
+      "Date": "2024-01-19",
+      "Tribunal_Court": "General Division of the High Court of the Republic of Singapore"
+    },
+    "Party_Details": {
+      "Role": "Defendant",
+      "Name": "Violet Oon Inc Pte Ltd",
+      "Law_Firm": "Unknown",
+      "Counsel": [],
+      "Facts": [
+        {
+          "Fact_Type": "PARTY_INFO",
+          "Fact_Date": "2012-03-26",
+          "Text": "Violet Oon Inc Pte Ltd is a profitable operational company employing numerous staff across several restaurant outlets."
+        },
+        {
+          "Fact_Type": "FINANCIAL_EVENT",
+          "Fact_Date": "2022-01-01",
+          "Text": "Despite the shareholder dispute, the company remained a going concern with ongoing commercial operations."
+        },
+        {
+          "Fact_Type": "BOARD_ACTION",
+          "Fact_Date": "2022-08-01",
+          "Text": "The company became the subject of a winding-up application filed by its founding shareholders."
+        },
+        {
+          "Fact_Type": "DOCUMENT",
+          "Fact_Date": "2022-08-01",
+          "Text": "The company's constitutional documents required cooperative management which had ceased to function."
+        }
+      ],
+      "Issue": "Whether a financially viable operational company should be liquidated to resolve an unworkable shareholder deadlock.",
+      "Rule": "Courts view winding up as a remedy of last resort and will generally prefer to order a share buyout if the company remains a viable, profitable enterprise.",
+      "Application": "The Claimants stated the company could no longer function properly due to the toxic boardroom environment. The opposing shareholders argued that liquidating a profitable brand would destroy value unnecessarily.",
+      "Label": "Not Liable",
+      "Judicial_Reasoning_Log": "The court declined to wind up the company. The judge concluded that ordering a buyout was a far more appropriate and proportionate remedy that preserved the enterprise value of the company while curing the deadlock."
+    }
+  }
+]
