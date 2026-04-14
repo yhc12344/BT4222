@@ -184,6 +184,7 @@ This provides an extra quality-control layer before the data is flattened for mo
 
 **Main script:** `src/json_to_df.py`
 **File path:** `src/json_to_df.py`
+**File path:** `src/json_to_df.py`
 
 Once the audited JSON files are finalized, they are converted into a flat tabular dataset suitable for machine learning.
 
@@ -242,5 +243,7 @@ The evaluation stage is used to:
 ## Documentation
 
 For the full report documentation, see: [Google Doc](https://docs.google.com/document/d/1a1Mn4E9Vj_cmh-Qfrr0vBKh78H0SktNtOzRdeu1L24Y/edit?usp=sharing)
+
+Project files and related materials are also available here: [Google Drive folder](https://drive.google.com/drive/folders/1qIGVH9jPR5h9CMDQZgGw6m1Rzc_6F-PS?usp=sharing)
 
 Project files and related materials are also available here: [Google Drive folder](https://drive.google.com/drive/folders/1qIGVH9jPR5h9CMDQZgGw6m1Rzc_6F-PS?usp=sharing)
