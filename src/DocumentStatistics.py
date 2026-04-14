@@ -1,43 +1,46 @@
-import os
+"""Compute word, sentence, and token statistics across the PDF collection.
+
+Run from the project root:
+    python src/DocumentStatistics.py
+"""
 import re
-import fitz
+
+import fitz  # PyMuPDF
 import numpy as np
 
-folder = os.path.join("Data", "PDFs", "ALL")
-
-word_counts = []
-sentence_counts = []
-token_counts = []
-
-# Walk through all subfolders recursively
-for root, dirs, files in os.walk(folder):
-    for file in files:
-        if file.endswith(".pdf"):
-            path = os.path.join(root, file)
-
-        doc = fitz.open(path)
-        text = ""
-
-        for page in doc:
-            text += page.get_text()
-
-        words = re.findall(r"\w+", text)
-        sentences = re.split(r"[.!?]", text)
-
-        word_counts.append(len(words))
-        sentence_counts.append(len([s for s in sentences if s.strip()]))
-
-# Document statistics
-print("Document Statistics")
-print("Min words:", min(word_counts))
-print("Max words:", max(word_counts))
-print("Mean words:", int(np.mean(word_counts)))
-print("Median words:", int(np.median(word_counts)))
+from config import STATS_INPUT
 
 
-print()
+def compute_statistics(folder) -> None:
+    word_counts     = []
+    sentence_counts = []
 
-# Token statistics
-print("Token Statistics")
-print("Avg tokens per document:", int(np.mean(word_counts)))
-print("Avg sentences per document:", int(np.mean(sentence_counts)))
+    for pdf_path in folder.rglob("*.pdf"):
+        doc  = fitz.open(pdf_path)
+        text = "".join(page.get_text() for page in doc)
+        doc.close()
+
+        word_counts.append(len(re.findall(r"\w+", text)))
+        sentence_counts.append(len([s for s in re.split(r"[.!?]", text) if s.strip()]))
+
+    if not word_counts:
+        print(f"No PDFs found in {folder}")
+        return
+
+    print(f"Documents analysed : {len(word_counts)}")
+    print()
+    print("Word counts")
+    print(f"  Min    : {min(word_counts):,}")
+    print(f"  Max    : {max(word_counts):,}")
+    print(f"  Mean   : {int(np.mean(word_counts)):,}")
+    print(f"  Median : {int(np.median(word_counts)):,}")
+    print()
+    print("Sentence counts")
+    print(f"  Mean   : {int(np.mean(sentence_counts)):,}")
+    print()
+    print("Token estimates (words × 1.3)")
+    print(f"  Mean   : {int(np.mean(word_counts) * 1.3):,}")
+
+
+if __name__ == "__main__":
+    compute_statistics(STATS_INPUT)
