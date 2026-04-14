@@ -47,15 +47,15 @@ The modeling task in this repo is best understood as binary defendant-side risk 
 
 | Path | Role |
 | --- | --- |
-| `src/extract_case_rows_baseline.py` | Main extraction script used for standard judgments. |
-| `src/extract_case_rows_categorized.py` | Special-case extractor used for structurally complex judgments such as multi-party disputes and counterclaims. |
-| `src/audit_case_rows.py` | Second-pass auditor that checks each extracted row against the source PDF and enforces case-level consistency. |
-| `src/label_checker.py` | Utility that extracts plaintiff/defendant outcome labels directly from a judgment PDF and supports the audit stage. |
+| `src/step1.1_extract_case_rows_baseline.py` | Main extraction script used for standard judgments. |
+| `src/step1.2_extract_case_rows_categorized.py` | Special-case extractor used for structurally complex judgments such as multi-party disputes and counterclaims. |
+| `src/step2_audit_case_rows.py` | Second-pass auditor that checks each extracted row against the source PDF and enforces case-level consistency. |
+| `src/step3_label_checker.py` | Utility that extracts plaintiff/defendant outcome labels directly from a judgment PDF and supports the audit stage. |
 | `src/EDA.ipynb`| Notebook used for exploratory data analysis |
-| `src/Data_Cleaning`| Used for data cleaning and using the labels from label_check.py |
-| `src/XGBoost.ipynb` | Gradient-boosted baseline experiments and test-set evaluation. |
-| `src/HAN.ipynb` | Hierarchical Attention Network experiments with row-level and case-level evaluation. |
-| `src/BERT_Classifier.ipynb` | Transformer-based classifier experiments. |
+| `src/step4_Data_Cleaning`| Used for data cleaning and using the labels from label_check.py |
+| `src/step5.1_XGBoost.ipynb` | Gradient-boosted baseline experiments and test-set evaluation. |
+| `src/step5.2_BERT_Classifier.ipynb` | Transformer-based classifier experiments. |
+| `src/step5.3_HAN.ipynb` | Hierarchical Attention Network experiments with row-level and case-level evaluation. |
 | `src/config.py` | Shared configuration for models, API keys, and pipeline paths. |
 
 ## Data
@@ -128,14 +128,14 @@ The following scripts and Jupyter notebooks form the methodology for this projec
 
 ### Step 1. Structured legal data extraction
 
-**Main script:** `src/extract_case_rows_baseline.py`  
-**Special-case extractor:** `src/extract_case_rows_categorized.py`
+**Main script:** `src/step1.1_extract_case_rows_baseline.py`  
+**Special-case extractor:** `src/step1.2_extract_case_rows_categorized.py`
 
 This stage converts raw judgment PDFs into structured legal rows that can be used for downstream analysis and prediction.
 
-The main extraction workflow uses `src/extract_case_rows_baseline.py` to process the majority of judgments and generate the standard structured JSON used in the pipeline.
+The main extraction workflow uses `src/step1.1_extract_case_rows_baseline.py` to process the majority of judgments and generate the standard structured JSON used in the pipeline.
 
-The categorized extractor, `src/extract_case_rows_categorized.py`, is used for special-case judgments where additional structural handling is needed, such as:
+The categorized extractor, `src/step1.2_extract_case_rows_categorized.py`, is used for special-case judgments where additional structural handling is needed, such as:
 
 - multi-party cases
 - counterclaims
@@ -151,7 +151,7 @@ Both extraction scripts read judgment PDFs from `Data/PDFs/ALL` and use GPT-base
 
 ### Step 2. Audit and repair extracted case rows
 
-**Main script:** `src/audit_case_rows.py`
+**Main script:** `src/step2_audit_case_rows.py`
 
 After extraction, the generated JSON rows are passed through an audit stage to improve data quality before modelling.
 
@@ -169,9 +169,9 @@ This step is important because it reduces noisy or hindsight-contaminated featur
 
 ### Step 3. Label validation and recovery
 
-**Helper utility:** `src/label_checker.py`
+**Helper utility:** `src/step3_label_checker.py`
 
-In addition to the main audit logic, this project includes a label-checking utility that extracts plaintiff and defendant outcome labels directly from the judgment text.
+In addition to the main audit logic, this project includes a label-checking utility that extracts plaintiff and defendant outcome labels directly from the judgment text. Originally, we assume the defendant is as liable as long, he is liable for at least 1 plaintiff. Thus, this was a later implementation to also get if the defendant is liable for each plaintiff to give more data for our model.
 
 This utility is used to:
 
@@ -183,13 +183,11 @@ This provides an extra quality-control layer before the data is flattened for mo
 
 ### Step 4. Convert audited JSON into a modelling dataset
 
-**Main script:** `src/json_to_df.py`
-**File path:** `src/json_to_df.py`
-**File path:** `src/json_to_df.py`
+**Main Notebook:** `src/step4_Data_Cleaning.ipynb`
 
-Once the audited JSON files are finalized, they are converted into a flat tabular dataset suitable for machine learning.
+Once the audited JSON files are finalized, they are cleaned and converted into a flat tabular dataset suitable for machine learning.
 
-This script:
+This notebook:
 
 - reads audited JSON files from the configured audit output folder
 - pairs plaintiff and defendant rows within each case
@@ -203,9 +201,10 @@ This CSV serves as the bridge between the legal data pipeline and the model trai
 **Main notebooks:**
 
 - `src/EDA.ipynb`
-- `src/XGBoost.ipynb`
-- `src/HAN.ipynb`
-- `src/BERT_Classifier.ipynb`
+- `src/step5.1_XGBoost.ipynb`
+- `src/step5.2_BERT_Classifier.ipynb`
+- `src/step5.3_HAN.ipynb`
+
 
 After building the modelling dataset, we evaluate multiple approaches for defendant-side outcome prediction.
 
@@ -220,8 +219,8 @@ The notebooks are used for:
 The main model families explored in this project are:
 
 - XGBoost
-- Hierarchical Attention Network (HAN)
 - BERT-based classifier baselines
+- Hierarchical Attention Network (HAN)
 
 ### Step 6. Evaluation and business interpretation
 
