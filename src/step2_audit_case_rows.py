@@ -8,7 +8,7 @@ import pdfplumber
 from openai import OpenAI
 
 from config import OPENAI_API_KEY, AUDIT_MODEL, AUDIT_INPUT, AUDIT_OUTPUT, PDF_INPUT_ALL
-from label_checker import extract_labels_from_pdf
+from step3_label_checker import extract_labels_from_pdf
 
 # =========================
 # 1. CONFIG
